@@ -1,5 +1,7 @@
 """Build a dated Catalan news PDF from publisher RSS feeds, without an AI key."""
 import argparse
+import hashlib
+import shutil
 import html
 import io
 import json
@@ -167,6 +169,38 @@ def build_pdf(path, items, now, failures, with_images=True):
     c.save()
 
 
+
+def save_edition(output, items, metadata, now, with_images=True):
+    catalog_path = output / 'archive.json'
+    catalog = json.loads(catalog_path.read_text()) if catalog_path.exists() else {'editions': []}
+    fingerprint = hashlib.sha256(json.dumps({
+        'date': metadata['date'], 'items': items,
+        'unavailableSources': sorted(metadata['unavailableSources'])
+    }, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
+    latest_path = output / 'latest.json'
+    previous = json.loads(latest_path.read_text()) if latest_path.exists() else {}
+    if (previous.get('fingerprint') == fingerprint and
+            (output / 'avui.pdf').exists() and
+            (not items or any(entry.get('fingerprint') == fingerprint and
+                             (output.parent / entry['pdf']).exists()
+                             for entry in catalog['editions']))):
+        return {**previous, 'archiveChanged': False}
+    metadata['fingerprint'] = fingerprint
+    if items:
+        relative_path = f"arxiu/{metadata['date']}/{now.strftime('%H-%M-%S-%f')}.pdf"
+        archived_pdf = output / relative_path
+        archived_pdf.parent.mkdir(parents=True, exist_ok=True)
+        build_pdf(archived_pdf, items, now, metadata['unavailableSources'], with_images)
+        shutil.copyfile(archived_pdf, output / 'avui.pdf')
+        entry = {**metadata, 'pdf': 'diaris/' + relative_path}
+        catalog['editions'].insert(0, entry)
+    else:
+        build_pdf(output / 'avui.pdf', items, now, metadata['unavailableSources'], with_images)
+    catalog_path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + '\n')
+    latest_path.write_text(json.dumps(metadata, ensure_ascii=False, indent=2) + '\n')
+    return {**metadata, 'archiveChanged': bool(items)}
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--output', default='diaris')
@@ -192,12 +226,11 @@ def main():
     items = select_items(feeds)
     output = Path(args.output)
     output.mkdir(parents=True, exist_ok=True)
-    build_pdf(output / 'avui.pdf', items, now, failures, not args.no_images)
     metadata = {'date': now.date().isoformat(), 'updatedAt': now.isoformat(),
                 'pdf': 'diaris/avui.pdf', 'count': len(items),
                 'sources': list(feeds), 'unavailableSources': failures}
-    (output / 'latest.json').write_text(json.dumps(metadata, ensure_ascii=False, indent=2) + '\n')
-    print(json.dumps(metadata, ensure_ascii=False))
+    result = save_edition(output, items, metadata, now, not args.no_images)
+    print(json.dumps(result, ensure_ascii=False))
 
 if __name__ == '__main__':
     main()

@@ -131,3 +131,66 @@ renderPDFs();
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('./sw.js').catch(() => {});
 }
+
+async function renderArchive() {
+  const archive = document.querySelector('#archive');
+  try {
+    const response = await fetch('./diaris/archive.json', { cache: 'no-store' });
+    if (!response.ok) throw new Error('archive unavailable');
+    const catalog = await response.json();
+    if (!Array.isArray(catalog.editions)) throw new Error('invalid archive');
+    archive.replaceChildren();
+    const editions = catalog.editions.filter(edition =>
+      /^diaris\/arxiu\/\d{4}-\d{2}-\d{2}\/\d{2}-\d{2}-\d{2}-\d{6}\.pdf$/.test(edition.pdf) &&
+      !Number.isNaN(new Date(edition.updatedAt).getTime())
+    );
+    if (!editions.length) {
+      const empty = document.createElement('p');
+      empty.className = 'small';
+      empty.textContent = 'La primera edició es guardarà automàticament quan hi hagi notícies.';
+      archive.append(empty);
+      return;
+    }
+    const list = document.createElement('div');
+    const more = document.createElement('button');
+    more.type = 'button';
+    more.className = 'cta secondary';
+    more.textContent = 'Veure més edicions';
+    const format = new Intl.DateTimeFormat('ca-ES', {
+      timeZone: 'Europe/Madrid', day: 'numeric', month: 'long', year: 'numeric',
+      hour: '2-digit', minute: '2-digit'
+    });
+    let shown = 0;
+    function showMore() {
+      for (const edition of editions.slice(shown, shown + 20)) {
+        const row = document.createElement('div');
+        row.className = 'pdf-row';
+        const link = document.createElement('a');
+        link.href = './' + edition.pdf;
+        link.className = 'pdf-link';
+        link.textContent = '📄 ' + format.format(new Date(edition.updatedAt)) +
+          ' · ' + edition.count + ' notícies';
+        row.append(link);
+        list.append(row);
+      }
+      shown += 20;
+      more.hidden = shown >= editions.length;
+    }
+    more.addEventListener('click', showMore);
+    archive.append(list, more);
+    showMore();
+  } catch {
+    archive.replaceChildren();
+    const message = document.createElement('p');
+    message.className = 'small';
+    message.textContent = 'No s’ha pogut carregar l’arxiu. Comprova la connexió o torna-ho a provar.';
+    const retry = document.createElement('button');
+    retry.type = 'button';
+    retry.className = 'cta secondary';
+    retry.textContent = 'Tornar a provar';
+    retry.addEventListener('click', renderArchive);
+    archive.append(message, retry);
+  }
+}
+
+renderArchive();

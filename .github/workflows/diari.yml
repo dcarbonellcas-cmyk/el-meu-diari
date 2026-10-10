@@ -2,11 +2,13 @@ name: Actualitzar i publicar el diari
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - 'diaris/**'
   schedule:
     - cron: '17 * * * *'
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 concurrency:
@@ -21,19 +23,32 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - name: Instal·lar el generador PDF
         run: python -m pip install reportlab==4.4.3
-      - name: Preparar el lloc
+      - name: Crear i arxivar el diari d’avui
+        run: python scripts/generate_diary.py --output diaris
+      - name: Guardar les edicions al repositori
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add diaris
+          if ! git diff --cached --quiet; then
+            git commit -m "Arxivar nova edició del diari [skip ci]"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Preparar el lloc amb tot l’arxiu
         run: |
           mkdir -p _site
           cp index.html manifest.webmanifest sw.js _site/
           cp -R assets _site/assets
+          cp -R diaris _site/diaris
           touch _site/.nojekyll
-      - name: Crear el diari d’avui
-        run: python scripts/generate_diary.py --output _site/diaris
       - name: Configurar la publicació automàtica
         env:
           GH_TOKEN: ${{ github.token }}
