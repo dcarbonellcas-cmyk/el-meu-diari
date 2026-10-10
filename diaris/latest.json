@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-10",
-  "updatedAt": "2026-10-10T23:28:41.205770+02:00",
+  "date": "2026-10-11",
+  "updatedAt": "2026-10-11T00:28:41.738636+02:00",
   "pdf": "diaris/avui.pdf",
-  "count": 20,
+  "count": 0,
   "sources": [
     "3CatInfo",
     "VilaWeb"
   ],
   "unavailableSources": [],
-  "fingerprint": "4c141baaf654dd9e83244440609365c8c3b0bd401a3812e83492043353a1a834"
+  "fingerprint": "6f6e620eb5014471460a1876b17218791055abaa2b27dfd42ebbc83c1e39cb26"
 }
