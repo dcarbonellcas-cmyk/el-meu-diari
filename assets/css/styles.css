@@ -1,0 +1,24 @@
+/* Fitxer CSS compilat equivalent a assets/scss/styles.scss. */
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#fff8f7;color:#282235}
+.wrap{max-width:520px;margin:auto;padding:35px 22px 70px}
+.top{display:flex;justify-content:space-between;align-items:center;color:#a45174;font-size:13px;font-weight:700;letter-spacing:1px}
+.hero{margin-top:35px;background:#fff;border-radius:28px;padding:28px;box-shadow:0 12px 40px #a8577420}
+.hero .eyebrow{color:#d15c86;font-size:12px;font-weight:800;letter-spacing:2px}
+.hero h1{font-size:39px;line-height:1.1;letter-spacing:-1.3px;margin:18px 0}
+.hero p{line-height:1.6;color:#665d69}
+.cover{height:190px;background:linear-gradient(145deg,#e2a1b5,#a95883 48%,#3b3b64);border-radius:20px;margin:22px 0;display:flex;align-items:flex-end;padding:23px;color:white;font-weight:800;font-size:30px;box-shadow:0 8px 18px #5c2b4b20}
+.cta{border:0;width:100%;padding:19px;border-radius:17px;background:#df5787;color:white;font-weight:800;font-size:17px;cursor:pointer;box-shadow:0 7px 16px #df578730}
+.cta:focus-visible,button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #6c4ba3;outline-offset:3px}
+.hint{text-align:center;font-size:12px;margin-top:14px}
+.section{margin:32px 3px 12px;font-size:20px}
+.panel{background:white;padding:19px;border-radius:18px;border:1px solid #f1e0e5}
+.secondary{background:#fff;border:1px solid #e7c8d3;color:#a4436c;box-shadow:none;font-size:14px;padding:14px;margin-top:10px}
+.small{font-size:12px;line-height:1.6;color:#665d69}
+.foot{margin-top:35px;text-align:center;font-size:12px;color:#8a7c84}
+.pdf-input{width:100%;margin-top:10px}
+.pdf-row{display:flex;gap:8px;align-items:center;margin-top:14px;flex-wrap:wrap}
+.pdf-link{flex:1;min-width:160px;color:#a4436c;overflow-wrap:anywhere}
+.pdf-delete{border:1px solid #e7c8d3;background:white;color:#a4436c;padding:8px 10px;border-radius:10px;cursor:pointer}
+.status{margin-top:12px;font-size:12px;color:#665d69}
+@media(max-width:380px){.wrap{padding:25px 15px 55px}.hero{padding:22px}.hero h1{font-size:33px}.cover{font-size:26px}}
