@@ -34,6 +34,11 @@ jobs:
           touch _site/.nojekyll
       - name: Crear el diari d’avui
         run: python scripts/generate_diary.py --output _site/diaris
+      - name: Configurar la publicació automàtica
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: python scripts/configure_pages.py
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
