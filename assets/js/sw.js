@@ -1,5 +1,5 @@
 // Cache de la interfície. Les notícies i els PDF no es generen sense connexió.
-const CACHE = 'el-meu-diari-v4';
+const CACHE = 'el-meu-diari-v5';
 const ASSETS = [
   './', './index.html', './manifest.webmanifest',
   './assets/img/icon.png', './assets/img/icon-512.png',
@@ -19,6 +19,8 @@ self.addEventListener('fetch', event => {
   if (event.request.method !== 'GET') return;
   const url = new URL(event.request.url);
   if (url.origin !== self.location.origin) return;
+  // Dated editions must never fall back to yesterday’s cached news.
+  if (url.pathname.includes('/diaris/')) return;
   event.respondWith(fetch(event.request).then(response => {
     if (response.ok) {
       const copy = response.clone();

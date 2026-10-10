@@ -1,6 +1,5 @@
 import { listPDFs, savePDF, deletePDF } from './storage.js';
 
-const prompt = 'El meu diari d’avui. Genera’m el PDF visual complet amb notícies actuals verificades, una notícia per pàgina, imatges grans i explicacions breus en català, seguint el format de la revista que t’he adjuntat. Inclou totes les notícies importants que puguis verificar, de diverses categories, amb fonts directes.';
 const dateElement = document.querySelector('#date');
 const savedElement = document.querySelector('#saved');
 const statusElement = document.querySelector('#status');
@@ -11,8 +10,41 @@ dateElement.textContent = new Intl.DateTimeFormat('ca-ES', {
   day: 'numeric', month: 'short', year: 'numeric'
 }).format(new Date());
 
-document.querySelector('#generate').addEventListener('click', () => {
-  window.location.href = 'https://chatgpt.com/?q=' + encodeURIComponent(prompt);
+const diaryButton = document.querySelector('#generate');
+const diaryStatus = document.querySelector('#diary-status');
+
+function madridDate() {
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Europe/Madrid', year: 'numeric', month: '2-digit', day: '2-digit'
+  }).formatToParts(new Date());
+  const value = type => parts.find(part => part.type === type).value;
+  return `${value('year')}-${value('month')}-${value('day')}`;
+}
+
+diaryButton.addEventListener('click', async () => {
+  diaryButton.disabled = true;
+  diaryStatus.textContent = 'Comprovant el diari d’avui…';
+  try {
+    const response = await fetch('./diaris/latest.json', { cache: 'no-store' });
+    if (!response.ok) throw new Error('unavailable');
+    const edition = await response.json();
+    if (edition.date !== madridDate()) {
+      diaryStatus.textContent = 'El diari d’avui encara s’està preparant. Torna-ho a provar més tard.';
+      return;
+    }
+    if (!Number.isInteger(edition.count) || edition.count < 1) {
+      diaryStatus.textContent = 'Encara no hi ha notícies d’avui disponibles. Torna-ho a provar més tard.';
+      return;
+    }
+    const updated = new Date(edition.updatedAt);
+    if (Number.isNaN(updated.getTime())) throw new Error('invalid edition');
+    diaryStatus.textContent = 'Obrint el PDF del dia…';
+    window.location.assign('./diaris/avui.pdf?v=' + encodeURIComponent(edition.updatedAt));
+  } catch {
+    diaryStatus.textContent = 'No s’ha pogut obrir el diari. Comprova la connexió i torna-ho a provar.';
+  } finally {
+    diaryButton.disabled = false;
+  }
 });
 
 document.querySelector('#install').addEventListener('click', () => {

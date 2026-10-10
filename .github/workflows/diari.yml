@@ -1,0 +1,42 @@
+name: Actualitzar i publicar el diari
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instal·lar el generador PDF
+        run: python -m pip install reportlab==4.4.3
+      - name: Preparar el lloc
+        run: |
+          mkdir -p _site
+          cp index.html manifest.webmanifest sw.js _site/
+          cp -R assets _site/assets
+          touch _site/.nojekyll
+      - name: Crear el diari d’avui
+        run: python scripts/generate_diary.py --output _site/diaris
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Publicar a GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
