@@ -1,5 +1,5 @@
 // Cache de la interfície. Les notícies i els PDF no es generen sense connexió.
-const CACHE = 'el-meu-diari-v10';
+const CACHE = 'el-meu-diari-v12';
 const ASSETS = [
   './', './index.html', './manifest.webmanifest',
   './assets/img/icon.png', './assets/img/icon-512.png',
