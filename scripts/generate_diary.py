@@ -178,6 +178,28 @@ def build_pdf(path, items, now, failures, with_images=True):
 
 
 
+
+def prune_finished_days(output, catalog, today):
+    """Keep only the most complete edition for each previous day."""
+    groups = {}
+    for entry in catalog['editions']:
+        day = entry.get('date', '')
+        if day and day < today:
+            groups.setdefault(day, []).append(entry)
+    selected = {
+        max(entries, key=lambda e: (e.get('count', 0), e.get('updatedAt', '')))['pdf']
+        for entries in groups.values()
+    }
+    retained = []
+    for entry in catalog['editions']:
+        day = entry.get('date', '')
+        if not day or day >= today or entry['pdf'] in selected:
+            retained.append(entry)
+        elif re.fullmatch(r'diaris/arxiu/\d{4}-\d{2}-\d{2}/\d{2}-\d{2}-\d{2}-\d{6}\.pdf', entry['pdf']):
+            (output.parent / entry['pdf']).unlink(missing_ok=True)
+    catalog['editions'] = retained
+
+
 def save_edition(output, items, metadata, now, with_images=True):
     catalog_path = output / 'archive.json'
     catalog = json.loads(catalog_path.read_text()) if catalog_path.exists() else {'editions': []}
@@ -192,6 +214,8 @@ def save_edition(output, items, metadata, now, with_images=True):
             (not items or any(entry.get('fingerprint') == fingerprint and
                              (output.parent / entry['pdf']).exists()
                              for entry in catalog['editions']))):
+        prune_finished_days(output, catalog, metadata['date'])
+        catalog_path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + '\n')
         return {**previous, 'archiveChanged': False}
     metadata['fingerprint'] = fingerprint
     if items:
@@ -204,6 +228,7 @@ def save_edition(output, items, metadata, now, with_images=True):
         catalog['editions'].insert(0, entry)
     else:
         build_pdf(output / 'avui.pdf', items, now, metadata['unavailableSources'], with_images)
+    prune_finished_days(output, catalog, metadata['date'])
     catalog_path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + '\n')
     latest_path.write_text(json.dumps(metadata, ensure_ascii=False, indent=2) + '\n')
     return {**metadata, 'archiveChanged': bool(items)}
