@@ -14,21 +14,53 @@ const diaryButton = document.querySelector('#generate');
 const diaryStatus = document.querySelector('#diary-status');
 
 const viewer = document.querySelector('#viewer');
-const viewerFrame = document.querySelector('#viewer-frame');
+const viewerPages = document.querySelector('#viewer-pages');
+const viewerProgress = document.querySelector('#viewer-progress');
 const viewerTitle = document.querySelector('#viewer-title');
 const viewerFallback = document.querySelector('#viewer-fallback');
+let viewerRequest = 0;
 
-function openPDF(url, title) {
+async function openPDF(url, title) {
+  const request = ++viewerRequest;
   viewerTitle.textContent = title;
-  viewerFrame.src = url;
   viewerFallback.href = url;
+  viewerPages.replaceChildren();
+  viewerProgress.textContent = 'Carregant totes les pàgines…';
   viewer.hidden = false;
   viewer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  try {
+    if (!window.pdfjsLib) throw new Error('PDF.js unavailable');
+    window.pdfjsLib.GlobalWorkerOptions.workerSrc =
+      'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+    const pdf = await window.pdfjsLib.getDocument(url).promise;
+    if (request !== viewerRequest) return;
+    viewerProgress.textContent = pdf.numPages + ' pàgines · Desplaça’t cap avall per llegir-les totes.';
+    for (let n = 1; n <= pdf.numPages; n++) {
+      if (request !== viewerRequest) return;
+      const page = await pdf.getPage(n);
+      const base = page.getViewport({ scale: 1 });
+      const available = Math.max(240, viewerPages.clientWidth - 2);
+      const scale = Math.min(1.7, available / base.width * Math.min(window.devicePixelRatio || 1, 1.5));
+      const viewport = page.getViewport({ scale });
+      const canvas = document.createElement('canvas');
+      canvas.width = Math.floor(viewport.width);
+      canvas.height = Math.floor(viewport.height);
+      canvas.style.width = '100%';
+      canvas.style.height = 'auto';
+      canvas.setAttribute('aria-label', 'Pàgina ' + n + ' de ' + pdf.numPages);
+      viewerPages.append(canvas);
+      await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
+    }
+  } catch (error) {
+    if (request !== viewerRequest) return;
+    viewerProgress.textContent = 'No s’ha pogut mostrar el PDF aquí. Utilitza l’enllaç de sota per obrir-lo.';
+  }
 }
 
 document.querySelector('#viewer-close').addEventListener('click', () => {
+  ++viewerRequest;
   viewer.hidden = true;
-  viewerFrame.removeAttribute('src');
+  viewerPages.replaceChildren();
 });
 
 function madridDate() {
