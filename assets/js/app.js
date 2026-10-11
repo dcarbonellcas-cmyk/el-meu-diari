@@ -13,6 +13,24 @@ dateElement.textContent = new Intl.DateTimeFormat('ca-ES', {
 const diaryButton = document.querySelector('#generate');
 const diaryStatus = document.querySelector('#diary-status');
 
+const viewer = document.querySelector('#viewer');
+const viewerFrame = document.querySelector('#viewer-frame');
+const viewerTitle = document.querySelector('#viewer-title');
+const viewerFallback = document.querySelector('#viewer-fallback');
+
+function openPDF(url, title) {
+  viewerTitle.textContent = title;
+  viewerFrame.src = url;
+  viewerFallback.href = url;
+  viewer.hidden = false;
+  viewer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+document.querySelector('#viewer-close').addEventListener('click', () => {
+  viewer.hidden = true;
+  viewerFrame.removeAttribute('src');
+});
+
 function madridDate() {
   const parts = new Intl.DateTimeFormat('en-CA', {
     timeZone: 'Europe/Madrid', year: 'numeric', month: '2-digit', day: '2-digit'
@@ -38,8 +56,8 @@ diaryButton.addEventListener('click', async () => {
     }
     const updated = new Date(edition.updatedAt);
     if (Number.isNaN(updated.getTime())) throw new Error('invalid edition');
-    diaryStatus.textContent = 'Obrint el PDF del dia…';
-    window.location.assign('./diaris/avui.pdf?v=' + encodeURIComponent(edition.updatedAt));
+    diaryStatus.textContent = 'Ja pots llegir el diari aquí mateix.';
+    openPDF('./diaris/avui.pdf?v=' + encodeURIComponent(edition.updatedAt), 'El diari d’avui');
   } catch {
     diaryStatus.textContent = 'No s’ha pogut obrir el diari. Comprova la connexió i torna-ho a provar.';
   } finally {
@@ -80,7 +98,10 @@ async function renderPDFs() {
       link.href = url;
       link.target = '_blank';
       link.rel = 'noopener';
-      link.download = record.name;
+      link.addEventListener('click', event => {
+        event.preventDefault();
+        openPDF(url, record.name);
+      });
       link.className = 'pdf-link';
       link.textContent = '📄 ' + record.name;
 
@@ -167,6 +188,10 @@ async function renderArchive() {
         row.className = 'pdf-row';
         const link = document.createElement('a');
         link.href = './' + edition.pdf;
+        link.addEventListener('click', event => {
+          event.preventDefault();
+          openPDF(link.href, 'Edició del ' + format.format(new Date(edition.updatedAt)));
+        });
         link.className = 'pdf-link';
         link.textContent = '📄 ' + format.format(new Date(edition.updatedAt)) +
           ' · ' + edition.count + ' notícies';
