@@ -22,6 +22,9 @@ let viewerRequest = 0;
 
 async function openPDF(url, title) {
   const request = ++viewerRequest;
+  archiveScreen.hidden = true;
+  homeHero.hidden = false;
+  personalScreen.hidden = false;
   viewerTitle.textContent = title;
   viewerFallback.href = url;
   viewerPages.replaceChildren();
@@ -63,6 +66,44 @@ document.querySelector('#viewer-close').addEventListener('click', () => {
   viewerPages.replaceChildren();
 });
 
+const archiveScreen = document.querySelector('#archive-screen');
+const homeHero = document.querySelector('#home-hero');
+const personalScreen = document.querySelector('#personal-screen');
+
+function showArchive() {
+  homeHero.hidden = true;
+  personalScreen.hidden = true;
+  viewer.hidden = true;
+  archiveScreen.hidden = false;
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function showHome() {
+  archiveScreen.hidden = true;
+  homeHero.hidden = false;
+  personalScreen.hidden = false;
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+document.querySelector('#show-archive').addEventListener('click', showArchive);
+document.querySelector('#back-home').addEventListener('click', showHome);
+
+async function updateLatestLabel() {
+  try {
+    const response = await fetch('./diaris/latest.json', { cache: 'no-store' });
+    if (!response.ok) return;
+    const edition = await response.json();
+    if (!edition.updatedAt || edition.date !== madridDate() || !edition.count) return;
+    const time = new Intl.DateTimeFormat('ca-ES', {
+      timeZone: 'Europe/Madrid', hour: '2-digit', minute: '2-digit'
+    }).format(new Date(edition.updatedAt));
+    document.querySelector('#latest-label').textContent = 'Veure ara · Edició de les ' + time + ' h';
+  } catch {
+    // Keep the generic button label if offline.
+  }
+}
+updateLatestLabel();
+
 function madridDate() {
   const parts = new Intl.DateTimeFormat('en-CA', {
     timeZone: 'Europe/Madrid', year: 'numeric', month: '2-digit', day: '2-digit'
@@ -95,10 +136,6 @@ diaryButton.addEventListener('click', async () => {
   } finally {
     diaryButton.disabled = false;
   }
-});
-
-document.querySelector('#install').addEventListener('click', () => {
-  alert('A l’iPhone, obre la pàgina amb Safari, toca Compartir i tria «Afegir a la pantalla d’inici».');
 });
 
 function setStatus(message) {
