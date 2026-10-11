@@ -1,5 +1,5 @@
 // Cache de la interfície. Les notícies i els PDF no es generen sense connexió.
-const CACHE = 'el-meu-diari-v8';
+const CACHE = 'el-meu-diari-v10';
 const ASSETS = [
   './', './index.html', './manifest.webmanifest',
   './assets/img/icon.png', './assets/img/icon-512.png',
@@ -21,6 +21,11 @@ self.addEventListener('fetch', event => {
   if (url.origin !== self.location.origin) return;
   // Dated editions must never fall back to yesterday’s cached news.
   if (url.pathname.includes('/diaris/')) return;
+  // Always load the newest app shell when opening the installed iPhone app.
+  if (event.request.mode === 'navigate') {
+    event.respondWith(fetch(event.request, { cache: 'no-store' }).catch(() => caches.match('./index.html')));
+    return;
+  }
   event.respondWith(fetch(event.request).then(response => {
     if (response.ok) {
       const copy = response.clone();
