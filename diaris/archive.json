@@ -2,6 +2,18 @@
   "editions": [
     {
       "date": "2026-10-11",
+      "updatedAt": "2026-10-11T19:24:24.942622+02:00",
+      "pdf": "diaris/arxiu/2026-10-11/19-24-24-942622.pdf",
+      "count": 20,
+      "sources": [
+        "3CatInfo",
+        "VilaWeb"
+      ],
+      "unavailableSources": [],
+      "fingerprint": "efcf8acc05ac64885fb8df9652aa6ca5f1c4b1702c6dbebbce68bbba2e74a5ef"
+    },
+    {
+      "date": "2026-10-11",
       "updatedAt": "2026-10-11T19:18:32.868390+02:00",
       "pdf": "diaris/arxiu/2026-10-11/19-18-32-868390.pdf",
       "count": 20,
@@ -227,42 +239,6 @@
       ],
       "unavailableSources": [],
       "fingerprint": "4c141baaf654dd9e83244440609365c8c3b0bd401a3812e83492043353a1a834"
-    },
-    {
-      "date": "2026-10-10",
-      "updatedAt": "2026-10-10T22:29:28.181934+02:00",
-      "pdf": "diaris/arxiu/2026-10-10/22-29-28-181934.pdf",
-      "count": 20,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "8f026c7b17013d44da084f5619eb5bb38342eab778995344f24d1dc72b553fe6"
-    },
-    {
-      "date": "2026-10-10",
-      "updatedAt": "2026-10-10T21:28:21.574583+02:00",
-      "pdf": "diaris/arxiu/2026-10-10/21-28-21-574583.pdf",
-      "count": 20,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "d5d8510491dc39611a05a77a3e29b2cfa6010ee58b0cb538f8d7abdadd484258"
-    },
-    {
-      "date": "2026-10-10",
-      "updatedAt": "2026-10-10T20:40:48.864042+02:00",
-      "pdf": "diaris/arxiu/2026-10-10/20-40-48-864042.pdf",
-      "count": 20,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "b1ea9055ddc1a4be1a1ae50150ee3727b402fd352239beaa82167804c35ad6e5"
     }
   ]
 }
