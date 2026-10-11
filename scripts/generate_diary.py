@@ -63,13 +63,13 @@ def parse_feed(data, source, now):
         title_words = clean(node.findtext('title')).split()
         if not title_words:
             continue
-        # Limit combined quotations from each article to 25 words.
         title = ' '.join(title_words[:24]) + ('…' if len(title_words) > 24 else '')
         description = node.findtext('description', '')
         desc_words = clean(description).split()
-        budget = max(0, 25 - min(len(title_words), 24))
-        excerpt = ' '.join(desc_words[:budget])
-        if excerpt and len(desc_words) > budget:
+        # Use the available RSS description for a readable half-page summary.
+        # Do not invent missing facts when the feed supplies little text.
+        excerpt = ' '.join(desc_words[:85])
+        if excerpt and len(desc_words) > 85:
             excerpt += '…'
         image = re.search(r'<img[^>]+src=[\"\x27]([^\"\x27]+)', description)
         items.append({'source': source, 'title': title, 'excerpt': excerpt,
@@ -136,7 +136,7 @@ def build_pdf(path, items, now, failures, with_images=True):
     y = text(c, 'Què passa\navui?', 38, 695, 510, 48, leading=57, bold=True)
     y = text(c, date, 38, y - 24, 510, 25, color=PINK)
     y = text(c, f'{len(items)} notícies publicades avui', 38, y - 34, 510, 19, bold=True)
-    y = text(c, 'Titulars i fragments breus dels canals dels mitjans. Obre els enllaços per llegir els articles complets.', 38, y - 22, 500, 14, color=MUTED)
+    y = text(c, 'Notícies d’avui explicades amb els resums disponibles dels mitjans consultats.', 38, y - 22, 500, 14, color=MUTED)
     y = text(c, 'Fonts: ' + ' · '.join(FEEDS), 38, y - 24, 500, 12)
     if failures:
         y = text(c, 'Cobertura parcial: no s’ha pogut consultar ' + ', '.join(failures) + '.', 38, y - 20, 500, 12, color=MUTED)
@@ -160,11 +160,19 @@ def build_pdf(path, items, now, failures, with_images=True):
             except Exception as error:
                 logging.warning('Photo unavailable: %s', error)
         if item['excerpt']:
-            y = text(c, item['excerpt'], 38, y - 25, 510, 16, color=MUTED)
-        text(c, 'Llegeix la notícia completa a ' + item['source'], 38, min(y - 35, 220), 510, 14, color=PINK, bold=True)
-        link_top = min(y - 35, 220)
-        c.linkURL(item['url'], (38, link_top - 25, 548, link_top + 3), relative=0, thickness=0)
-        text(c, item['url'], 38, link_top - 38, 510, 8, color=MUTED)
+            # Approximately 5–8 lines when the RSS feed provides enough text.
+            # Reduce the font slightly only if needed to keep the page legible.
+            summary_top = y - 25
+            summary = item['excerpt']
+            for font_size in (17, 16, 15):
+                style = ParagraphStyle('summary', fontName='Diary',
+                                       fontSize=font_size, leading=font_size * 1.45,
+                                       textColor=INK)
+                paragraph = Paragraph(html.escape(summary), style)
+                _, summary_height = paragraph.wrap(510, 800)
+                if summary_top - summary_height >= 88:
+                    paragraph.drawOn(c, 38, summary_top - summary_height)
+                    break
         c.showPage()
     c.save()
 
