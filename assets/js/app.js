@@ -62,6 +62,7 @@ const archiveScreen = document.querySelector('#archive-screen');
 const homeHero = document.querySelector('#home-hero');
 
 function showArchive() {
+  renderArchive();
   homeHero.hidden = true;
   viewer.hidden = true;
   archiveScreen.hidden = false;
@@ -93,10 +94,10 @@ async function updateLatestLabel() {
 }
 updateLatestLabel();
 
-function madridDate() {
+function madridDate(date = new Date()) {
   const parts = new Intl.DateTimeFormat('en-CA', {
     timeZone: 'Europe/Madrid', year: 'numeric', month: '2-digit', day: '2-digit'
-  }).formatToParts(new Date());
+  }).formatToParts(date);
   const value = type => parts.find(part => part.type === type).value;
   return `${value('year')}-${value('month')}-${value('day')}`;
 }
@@ -127,6 +128,20 @@ diaryButton.addEventListener('click', async () => {
   }
 });
 
+function latestEditionPerDay(editions) {
+  const days = new Map();
+  for (const edition of editions) {
+    const day = madridDate(new Date(edition.updatedAt));
+    const previous = days.get(day);
+    if (!previous || new Date(edition.updatedAt) > new Date(previous.updatedAt)) {
+      days.set(day, edition);
+    }
+  }
+  return [...days.values()].sort((a, b) =>
+    new Date(b.updatedAt) - new Date(a.updatedAt)
+  );
+}
+
 async function renderArchive() {
   const archive = document.querySelector('#archive');
   try {
@@ -135,10 +150,10 @@ async function renderArchive() {
     const catalog = await response.json();
     if (!Array.isArray(catalog.editions)) throw new Error('invalid archive');
     archive.replaceChildren();
-    const editions = catalog.editions.filter(edition =>
+    const editions = latestEditionPerDay(catalog.editions.filter(edition =>
       /^diaris\/arxiu\/\d{4}-\d{2}-\d{2}\/\d{2}-\d{2}-\d{2}-\d{6}\.pdf$/.test(edition.pdf) &&
       !Number.isNaN(new Date(edition.updatedAt).getTime())
-    );
+    ));
     if (!editions.length) {
       const empty = document.createElement('p');
       empty.className = 'small';
