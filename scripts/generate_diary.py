@@ -86,8 +86,8 @@ def is_weather_news(item):
         r'\b(inundacions?|tempestes?|temporals?|nevades?|huracans?|tifons?|'
         r'sequer[ae]s?|dana|aiguats?|pedregades?|esllavissades?)\b|'
         r'onad[ae]s? de (calor|fred)|'
-        r'(alerta|avís|avisos|emergència).*(pluja|vent|neu|calor|fred|meteorol)|'
-        r'(pluja|vent|neu|calor|fred|meteorol).*(alerta|avís|avisos|emergència)',
+        r'(alerta|avís|avisos|emergència).*(pluja|pluges|vent|neu|calor|fred|meteorol)|'
+        r'(pluja|pluges|vent|neu|calor|fred|meteorol).*(alerta|avís|avisos|emergència)',
         headline))
 
 
