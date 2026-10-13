@@ -208,3 +208,110 @@ async function renderArchive() {
 }
 
 renderArchive();
+
+/* Local weather: only coarse coordinates are sent after explicit opt-in. */
+const weatherButton = document.querySelector('#weather-enable');
+const weatherStop = document.querySelector('#weather-stop');
+const weatherStatus = document.querySelector('#weather-status');
+const weatherResult = document.querySelector('#weather-result');
+let weatherEnabled = false;
+try { weatherEnabled = localStorage.getItem('diari-weather-enabled') === 'yes'; } catch {}
+let weatherBusy = false;
+let weatherGeneration = 0;
+function weatherDescription(code) {
+  if (code === 0) return '☀️ Cel serè';
+  if ([1, 2].includes(code)) return '🌤️ Sol i núvols';
+  if (code === 3) return '☁️ Cel cobert';
+  if ([45, 48].includes(code)) return '🌫️ Boira';
+  if ([51, 53, 55, 56, 57].includes(code)) return '🌦️ Plugim';
+  if ([61, 63, 65, 66, 67, 80, 81, 82].includes(code)) return '🌧️ Pluja';
+  if ([71, 73, 75, 77, 85, 86].includes(code)) return '🌨️ Neu';
+  if ([95, 96, 99].includes(code)) return '⛈️ Tempesta';
+  return 'Previsió meteorològica';
+}
+function weatherNumber(value, suffix) {
+  return Number.isFinite(value) ? Math.round(value) + suffix : 'No disponible';
+}
+function rememberWeather(enabled) {
+  weatherEnabled = enabled;
+  try {
+    if (enabled) localStorage.setItem('diari-weather-enabled', 'yes');
+    else localStorage.removeItem('diari-weather-enabled');
+  } catch {}
+  weatherStop.hidden = !enabled;
+}
+async function refreshWeather() {
+  if (!weatherEnabled || weatherBusy || document.hidden) return;
+  const generation = weatherGeneration;
+  weatherBusy = true;
+  weatherButton.disabled = true;
+  weatherStatus.textContent = 'Consultant el temps d’on ets…';
+  try {
+    if (!navigator.geolocation) throw new Error('unsupported');
+    const position = await new Promise((resolve, reject) =>
+      navigator.geolocation.getCurrentPosition(resolve, reject, {
+        enableHighAccuracy: false, timeout: 12000, maximumAge: 60000
+      })
+    );
+    if (!weatherEnabled || generation !== weatherGeneration) return;
+    // Approximate to ~1 km; never store coordinates.
+    const params = new URLSearchParams({
+      latitude: position.coords.latitude.toFixed(2),
+      longitude: position.coords.longitude.toFixed(2),
+      current: 'temperature_2m,apparent_temperature,weather_code,wind_speed_10m',
+      daily: 'weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max',
+      timezone: 'auto', forecast_days: '3'
+    });
+    const response = await fetch('https://api.open-meteo.com/v1/forecast?' + params, {
+      cache: 'no-store', signal: AbortSignal.timeout(15000)
+    });
+    if (!response.ok) throw new Error('unavailable');
+    const data = await response.json();
+    if (!data.current || !Array.isArray(data.daily?.time) || !data.daily.time.length) throw new Error('invalid');
+    if (!weatherEnabled || generation !== weatherGeneration) return;
+    weatherResult.replaceChildren();
+    const current = document.createElement('p');
+    current.textContent = weatherDescription(data.current.weather_code) + ' · ' +
+      weatherNumber(data.current.temperature_2m, ' °C') + ' · Sensació: ' +
+      weatherNumber(data.current.apparent_temperature, ' °C') + ' · Vent: ' +
+      weatherNumber(data.current.wind_speed_10m, ' km/h');
+    weatherResult.append(current);
+    data.daily.time.forEach((day, i) => {
+      const row = document.createElement('p');
+      const label = new Intl.DateTimeFormat('ca-ES', { weekday: 'long', day: 'numeric', month: 'short', timeZone: 'UTC' })
+        .format(new Date(day + 'T12:00:00Z'));
+      row.textContent = label + ' · ' + weatherDescription(data.daily.weather_code[i]) +
+        ' · Mín. ' + weatherNumber(data.daily.temperature_2m_min[i], ' °C') +
+        ' · Màx. ' + weatherNumber(data.daily.temperature_2m_max[i], ' °C') +
+        ' · Probabilitat de pluja: ' + weatherNumber(data.daily.precipitation_probability_max[i], '%');
+      weatherResult.append(row);
+    });
+    const time = new Intl.DateTimeFormat('ca-ES', { hour: '2-digit', minute: '2-digit' }).format(new Date());
+    weatherStatus.textContent = '📍 A prop de la teva ubicació actual · Consultat a les ' + time +
+      ' h. S’actualitza en obrir l’app i cada hora mentre estigui oberta.';
+    weatherButton.textContent = 'Actualitzar el temps';
+  } catch (error) {
+    if (generation !== weatherGeneration) return;
+    weatherResult.replaceChildren();
+    weatherStatus.textContent = error.code === 1
+      ? 'No has permès la ubicació. Pots activar-la als permisos de l’app o de Safari i tornar-ho a provar.'
+      : 'No s’ha pogut consultar el temps. Comprova la connexió i la ubicació i torna-ho a provar.';
+    if (error.code === 1) rememberWeather(false);
+  } finally {
+    weatherBusy = false;
+    weatherButton.disabled = false;
+  }
+}
+weatherButton.addEventListener('click', () => { rememberWeather(true); refreshWeather(); });
+weatherStop.addEventListener('click', () => {
+  ++weatherGeneration;
+  rememberWeather(false);
+  weatherResult.replaceChildren();
+  weatherStatus.textContent = 'El temps automàtic està desactivat.';
+  weatherButton.textContent = 'Activar el temps de la meva ubicació';
+});
+weatherStop.hidden = !weatherEnabled;
+document.addEventListener('visibilitychange', () => { if (!document.hidden) refreshWeather(); });
+window.addEventListener('pageshow', refreshWeather);
+setInterval(refreshWeather, 60 * 60 * 1000);
+refreshWeather();
