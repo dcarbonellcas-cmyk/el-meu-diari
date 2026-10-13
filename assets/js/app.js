@@ -269,23 +269,7 @@ async function refreshWeather() {
     const data = await response.json();
     if (!data.current || !Array.isArray(data.daily?.time) || !data.daily.time.length) throw new Error('invalid');
     if (!weatherEnabled || generation !== weatherGeneration) return;
-    weatherResult.replaceChildren();
-    const current = document.createElement('p');
-    current.textContent = weatherDescription(data.current.weather_code) + ' · ' +
-      weatherNumber(data.current.temperature_2m, ' °C') + ' · Sensació: ' +
-      weatherNumber(data.current.apparent_temperature, ' °C') + ' · Vent: ' +
-      weatherNumber(data.current.wind_speed_10m, ' km/h');
-    weatherResult.append(current);
-    data.daily.time.forEach((day, i) => {
-      const row = document.createElement('p');
-      const label = new Intl.DateTimeFormat('ca-ES', { weekday: 'long', day: 'numeric', month: 'short', timeZone: 'UTC' })
-        .format(new Date(day + 'T12:00:00Z'));
-      row.textContent = label + ' · ' + weatherDescription(data.daily.weather_code[i]) +
-        ' · Mín. ' + weatherNumber(data.daily.temperature_2m_min[i], ' °C') +
-        ' · Màx. ' + weatherNumber(data.daily.temperature_2m_max[i], ' °C') +
-        ' · Probabilitat de pluja: ' + weatherNumber(data.daily.precipitation_probability_max[i], '%');
-      weatherResult.append(row);
-    });
+    renderWeatherCards(data);
     const time = new Intl.DateTimeFormat('ca-ES', { hour: '2-digit', minute: '2-digit' }).format(new Date());
     weatherStatus.textContent = '📍 A prop de la teva ubicació actual · Consultat a les ' + time +
       ' h. S’actualitza en obrir l’app i cada hora mentre estigui oberta.';
@@ -315,3 +299,95 @@ document.addEventListener('visibilitychange', () => { if (!document.hidden) refr
 window.addEventListener('pageshow', refreshWeather);
 setInterval(refreshWeather, 60 * 60 * 1000);
 refreshWeather();
+
+function renderWeatherCards(data) {
+  weatherResult.replaceChildren();
+  const current = document.createElement('p');
+  current.className = 'weather-now';
+  current.textContent = 'Ara · ' + weatherDescription(data.current.weather_code) + ' · ' +
+    weatherNumber(data.current.temperature_2m, ' °C') + ' · Sensació: ' +
+    weatherNumber(data.current.apparent_temperature, ' °C') + ' · Vent: ' +
+    weatherNumber(data.current.wind_speed_10m, ' km/h');
+  const track = document.createElement('div');
+  track.className = 'weather-track';
+  track.tabIndex = 0;
+  track.setAttribute('aria-label', 'Previsió per dies. Llisca o utilitza les fletxes per canviar de dia.');
+  const controls = document.createElement('div');
+  controls.className = 'weather-controls';
+  const previous = document.createElement('button');
+  const next = document.createElement('button');
+  const counter = document.createElement('span');
+  previous.type = next.type = 'button';
+  previous.textContent = '‹';
+  next.textContent = '›';
+  previous.setAttribute('aria-label', 'Dia anterior');
+  next.setAttribute('aria-label', 'Dia següent');
+  counter.setAttribute('aria-live', 'polite');
+  const cards = [];
+  data.daily.time.forEach((day, i) => {
+    const card = document.createElement('article');
+    card.className = 'weather-card';
+    const heading = document.createElement('h3');
+    heading.textContent = i === 0 ? 'Avui' : i === 1 ? 'Demà' : 'Demà passat';
+    const date = document.createElement('p');
+    date.className = 'weather-day';
+    date.textContent = new Intl.DateTimeFormat('ca-ES', {
+      weekday: 'long', day: 'numeric', month: 'short', timeZone: 'UTC'
+    }).format(new Date(day + 'T12:00:00Z'));
+    const description = weatherDescription(data.daily.weather_code[i]);
+    const icon = document.createElement('div');
+    icon.className = 'weather-illustration';
+    icon.setAttribute('aria-hidden', 'true');
+    icon.textContent = description.includes(' ') ? description.split(' ')[0] : '🌡️';
+    const condition = document.createElement('p');
+    condition.className = 'weather-condition';
+    condition.textContent = description.replace(/^\S+\s/, '');
+    const temperatures = document.createElement('p');
+    temperatures.className = 'weather-temperatures';
+    temperatures.textContent = weatherNumber(data.daily.temperature_2m_max[i], '°') +
+      ' / ' + weatherNumber(data.daily.temperature_2m_min[i], '°');
+    const rain = document.createElement('p');
+    rain.textContent = '💧 Probabilitat de pluja: ' +
+      weatherNumber(data.daily.precipitation_probability_max[i], '%');
+    const hint = document.createElement('p');
+    hint.className = 'small';
+    hint.textContent = 'Temperatura màxima / mínima';
+    card.append(heading, date, icon, condition, temperatures, hint, rain);
+    track.append(card);
+    cards.push(card);
+  });
+  let selected = 0;
+  function updateControls() {
+    previous.disabled = selected === 0;
+    next.disabled = selected === cards.length - 1;
+    counter.textContent = (selected + 1) + ' / ' + cards.length;
+  }
+  function goTo(index) {
+    selected = Math.max(0, Math.min(cards.length - 1, index));
+    track.scrollTo({ left: cards[selected].offsetLeft - cards[0].offsetLeft, behavior: 'smooth' });
+    updateControls();
+  }
+  previous.addEventListener('click', () => goTo(selected - 1));
+  next.addEventListener('click', () => goTo(selected + 1));
+  track.addEventListener('keydown', event => {
+    if (event.key === 'ArrowRight' || event.key === 'ArrowLeft') {
+      event.preventDefault();
+      goTo(selected + (event.key === 'ArrowRight' ? 1 : -1));
+    }
+  });
+  track.addEventListener('scroll', () => {
+    let nearest = 0;
+    cards.forEach((card, i) => {
+      if (Math.abs(card.offsetLeft - cards[0].offsetLeft - track.scrollLeft) <
+          Math.abs(cards[nearest].offsetLeft - cards[0].offsetLeft - track.scrollLeft)) nearest = i;
+    });
+    selected = nearest;
+    updateControls();
+  }, { passive: true });
+  controls.append(previous, counter, next);
+  const hint = document.createElement('p');
+  hint.className = 'small';
+  hint.textContent = 'Llisca cap als costats per veure els altres dies ↔';
+  weatherResult.append(current, track, controls, hint);
+  updateControls();
+}
