@@ -2,6 +2,18 @@
   "editions": [
     {
       "date": "2026-10-13",
+      "updatedAt": "2026-10-13T22:47:13.534813+02:00",
+      "pdf": "diaris/arxiu/2026-10-13/22-47-13-534813.pdf",
+      "count": 20,
+      "sources": [
+        "3CatInfo",
+        "VilaWeb"
+      ],
+      "unavailableSources": [],
+      "fingerprint": "5a8843d9ec555fcc74f8510885864e62c771285632822b1c152e029e8a8e9a0a"
+    },
+    {
+      "date": "2026-10-13",
       "updatedAt": "2026-10-13T21:44:50.610335+02:00",
       "pdf": "diaris/arxiu/2026-10-13/21-44-50-610335.pdf",
       "count": 20,
