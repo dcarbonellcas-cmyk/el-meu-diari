@@ -79,9 +79,21 @@ def parse_feed(data, source, now):
     return items
 
 
+def is_weather_news(item):
+    # Select reported weather events and warnings, not routine forecasts.
+    headline = (item.get('title', '') + ' ' + item.get('category', '')).casefold()
+    return bool(re.search(
+        r'\b(inundacions?|tempestes?|temporals?|nevades?|huracans?|tifons?|'
+        r'sequer[ae]s?|dana|aiguats?|pedregades?|esllavissades?)\b|'
+        r'onad[ae]s? de (calor|fred)|'
+        r'(alerta|avís|avisos|emergència).*(pluja|vent|neu|calor|fred|meteorol)|'
+        r'(pluja|vent|neu|calor|fred|meteorol).*(alerta|avís|avisos|emergència)',
+        headline))
+
+
 def select_items(feeds, limit=20):
-    # Alternate sources; keep the editorial ordering supplied by each publisher.
-    chosen, seen = [], set()
+    # Keep publisher ordering and alternate sources.
+    ordered, seen = [], set()
     for index in range(max((len(items) for items in feeds.values()), default=0)):
         for items in feeds.values():
             if index >= len(items):
@@ -89,11 +101,21 @@ def select_items(feeds, limit=20):
             item = items[index]
             key = item['url'].split('?')[0]
             if key not in seen:
-                chosen.append(item)
+                ordered.append(item)
                 seen.add(key)
-            if len(chosen) >= limit:
-                return chosen
+    if limit <= 0:
+        return []
+    chosen = ordered[:limit]
+    # Reserve up to three places for significant weather reporting from today's feeds.
+    for item in [item for item in ordered if is_weather_news(item)][:min(3, limit)]:
+        if item in chosen:
+            continue
+        replace = next((i for i in range(len(chosen) - 1, -1, -1)
+                        if not is_weather_news(chosen[i])), None)
+        if replace is not None:
+            chosen[replace] = item
     return chosen
+
 
 
 def fonts():
