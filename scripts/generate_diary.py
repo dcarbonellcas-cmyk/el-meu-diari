@@ -83,9 +83,9 @@ def is_weather_news(item):
     # Select reported weather events and warnings, not routine forecasts.
     headline = (item.get('title', '') + ' ' + item.get('category', '')).casefold()
     return bool(re.search(
-        r'\b(inundacions?|tempestes?|temporals?|nevades?|huracans?|tifons?|'
+        r'\b(inundacions?|tempestes?|nevades?|huracans?|tifons?|'
         r'sequer[ae]s?|dana|aiguats?|pedregades?|esllavissades?)\b|'
-        r'onad[ae]s? de (calor|fred)|'
+        r'temporals? (de|amb) (pluja|vent|neu|mar)|onad[ae]s? de (calor|fred)|'
         r'(alerta|avís|avisos|emergència).*(pluja|pluges|vent|neu|calor|fred|meteorol)|'
         r'(pluja|pluges|vent|neu|calor|fred|meteorol).*(alerta|avís|avisos|emergència)',
         headline))
