@@ -2,6 +2,18 @@
   "editions": [
     {
       "date": "2026-10-14",
+      "updatedAt": "2026-10-14T15:48:13.904838+02:00",
+      "pdf": "diaris/arxiu/2026-10-14/15-48-13-904838.pdf",
+      "count": 20,
+      "sources": [
+        "3CatInfo",
+        "VilaWeb"
+      ],
+      "unavailableSources": [],
+      "fingerprint": "faceae26e60b173c1c810dc83c7a1c04443a5a0d6481fc262adc979e433a5e97"
+    },
+    {
+      "date": "2026-10-14",
       "updatedAt": "2026-10-14T14:54:14.973062+02:00",
       "pdf": "diaris/arxiu/2026-10-14/14-54-14-973062.pdf",
       "count": 20,
