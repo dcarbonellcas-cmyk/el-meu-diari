@@ -2,13 +2,103 @@
   "date": "2026-10-15",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "La UE demana mesures urgents a la Comissió Europea per un hivern marcat pels preus alts de l’energia",
+      "excerpt": "La UE alerta que la crisi energètica s’ha agreujat pels efectes de la guerra al Llevant i adverteix de l’impacte sobre llars i empreses",
+      "url": "https://www.vilaweb.cat/noticies/ue-demana-mesures-urgents-comissio-europea-hivern-preus-alts-energia/",
+      "published": "2026-10-15T20:38:48+02:00",
+      "category": "Europa",
+      "image": null
+    },
+    {
+      "source": "betevé",
+      "title": "Infobarris",
+      "excerpt": "Torna Infobarris, el programa informatiu de betevé dedicat a explicar la realitat dels barris de Barcelona. Cada dia en directe, de 19 h a 19.40 h, la periodista Núria Llabina i un equip experimentat d’especialistes en el territori copsaran les històries i el batec als carrers de Barcelona.",
+      "url": "https://beteve.cat/infobarris/infobarris-186/",
+      "published": "2026-10-15T20:31:02+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg"
+    },
+    {
+      "source": "betevé",
+      "title": "La barcelonina Iris Tió i Marc Márquez, els millors esportistes del 2025",
+      "excerpt": "El jurat dels Premis Nacionals de l’Esport han premiat aquest dimecres a la nedadora barcelonina Iris Tió després d’haver guanyat sis medalles en el Mundial de l’any passat de natació a Singapur. Iris Tió, una carrera plena d’èxits La nedadora va començar la seva carrera en categoria júnior, i ja va obtenir les seves primeres […]",
+      "url": "https://beteve.cat/esports/barcelonina-iris-tio-millor-esportista-2025/",
+      "published": "2026-10-15T20:30:06+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/07/iris-tio-medalles-barcelona-280725.jpg"
+    },
+    {
+      "source": "ARA",
+      "title": "L'ANC fa fora l'alcaldable d'Aliança Catalana",
+      "excerpt": "Jaume Valls ja no és el coordinador de l'ANC a Vilassar de Mar. Segons ha pogut saber l'ARA, l'Assemblea li va comunicar que el destituïa com a màxim representant de l'entitat a la localitat del Maresme després que es fes públic que serà l'alcaldable d'Aliança Catalana. Ho va fer el 30 de setembre, només dos dies després que l'ARA publiqués que Valls va titllar de \"feixista\" el partit de Sílvia Orriols quan era secretari de l'entitat l'abril del 2024. Fonts de l'Assemblea han explicat que…",
+      "url": "https://www.ara.cat/politica/l-anc-fora-l-alcaldable-d-alianca-catalana_1_5879128.html",
+      "published": "2026-10-15T20:26:41+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5fae091e-806b-472a-a9b4-f7729320e93e_16-9-aspect-ratio_default_1061100.jpg"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Ara Més, Sumar i Esquerra Unida acorden una candidatura sense Podem per al congrés espanyol",
+      "excerpt": "L’assemblea de MÉS per Mallorca votarà aquest vespre el pacte, pendent de la possible incorporació de Podem i de l’acord amb el PSIB per al senat espanyol",
+      "url": "https://www.vilaweb.cat/noticies/ara-mes-sumar-esquerra-unida-acorden-candidatura-unitaria-sense-podem-congres-espanyol/",
+      "published": "2026-10-15T20:19:42+02:00",
+      "category": "Illes",
+      "image": null
+    },
+    {
+      "source": "ARA",
+      "title": "El Iemen, la guerra reactivada que s'ha convertit en una patata calenta per a Trump",
+      "excerpt": "Els atacs amb míssils dels houthis contra l'aeroport de Riad, que dissabte van causar almenys 14 morts i més de 300 ferits , han tornat a situar el Iemen al centre de l'actualitat internacional. Les explosions a la capital saudita acaparen els titulars, però fora del focus mediàtic, dins del país s'està lliurant una batalla molt més decisiva. Les forces houthis han encerclat Taiz, la tercera ciutat més important del Iemen, i disputen el control de l'estratègic estret de Bab el-Màndeb, la porta d'entrada al…",
+      "url": "https://www.ara.cat/internacional/proxim-orient/iemen-guerra-reactivada-s-convertit-patata-calenta-trump_1_5879810.html",
+      "published": "2026-10-15T20:14:47+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0d921ba6-6cd1-469e-9697-bec53663daeb_16-9-aspect-ratio_default_0.jpg"
+    },
+    {
+      "source": "betevé",
+      "title": "Espectacles i activitats en família, dins i fora de Barcelona",
+      "excerpt": "Aquí trobareu espectacles i activitats per fer en família divendres, dissabte i diumenge, per tot el territori, per si vols sortir de la ciutat. Plans i propostes pensades per als més petits de la família des de l’equip del Catacrak, el programa infantil de betevé! I recordeu que en aquesta casa també pensem plans pels […]",
+      "url": "https://beteve.cat/catakrac/activitats-infantils-barcelona/",
+      "published": "2026-10-15T20:07:22+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/01/nens-que-fer.jpg"
+    },
+    {
+      "source": "betevé",
+      "title": "La pastisseria Oriol Carrió torna a guanyar el concurs de millor panellet de pinyons de Catalunya",
+      "excerpt": "Tres victòries en només sis anys, 2022, 2024 i 2026. El pastisser Oriol Carrió s’ha proclamat per tercera vegada vencedor de la Ruta dels Millors Panellets de Pinyons de Catalunya, que impulsa l’Obra Social Ernest Verdaguer de Panàtics. En segona posició ha quedat el Forn Can Bertran de Badalona i el panellet de bronze ha […]",
+      "url": "https://beteve.cat/estils-de-vida/pastisseria-carrio-millor-panellet-pinyons-2026/",
+      "published": "2026-10-15T19:58:56+02:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/panellets-oriol-carrio-2026-10-15.jpg"
+    },
+    {
+      "source": "betevé",
+      "title": "Sense xarxes socials",
+      "excerpt": "Via 15 és una coproducció en què col·laboren 15 televisions locals de la regió metropolitana.",
+      "url": "https://beteve.cat/via-15/sense-xarxes-socials/",
+      "published": "2026-10-15T19:51:40+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg"
+    },
+    {
+      "source": "ARA",
+      "title": "El test de testosterona",
+      "excerpt": "Tot acudit que se’t pugui –amb perdó– acudir sobre les institucions, com l’exèrcit, no serveix, perquè Donald Trump l’ha executat. Ara que ens anuncia que al final no, no retransmetrà en directe el xou de l’afusellament (llàstima, tu, ens perdem crispetes i circ) com ens havia promès, sabem que l'any passat un dels seus esbirros “va concentrar tots els alts rangs de l'exèrcit a la base de Quantico per advertir-los que restauraria «l' ethos guerrer»\", llegim a l’ARA. Aquest esbirro, que deu ser una mena…",
+      "url": "https://www.ara.cat/opinio/test-testosterona_129_5880297.html",
+      "published": "2026-10-15T19:42:49+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/072c1737-abf2-41db-a09d-a577048c3360_16-9-aspect-ratio_default_0_x848y484.jpg"
+    },
+    {
       "source": "3CatInfo",
       "title": "Alerta per risc alt de pluges intenses a nou comarques a partir de dissabte a la tarda",
-      "excerpt": "L'episodi es concentrarà, sobretot, a la meitat est de Catalunya",
+      "excerpt": "L'episodi es concentrarà al nord-est, la Catalunya Central i el prelitoral i el litoral centrals",
       "url": "https://www.3cat.cat/3catinfo/alerta-per-risc-alt-de-pluges-intenses-a-nou-comarques-a-partir-de-dissabte-a-la-tarda/noticia/3434365/",
-      "published": "2026-10-15T19:40:38+02:00",
+      "published": "2026-10-15T19:40:32+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/1/3/1791188494031.jpg"
+      "image": "https://img.3cat.cat/multimedia/jpg/1/4/1791054410141.jpg"
     },
     {
       "source": "VilaWeb",
@@ -863,8 +953,8 @@
     },
     {
       "source": "ARA",
-      "title": "Colau fa una crida 'in extremis' per la unitat: \"Demano a Rufián que faci la batalla dins d'ERC\"",
-      "excerpt": "Ada Colau redobla la crida per fer una candidatura unitària a l'esquerra del PSOE quan falten poc més de 24 hores perquè aquest divendres acabi el límit per presentar les coalicions del 29-N. L'exalcaldessa s'ha dirigit directament al candidat d'ERC, Gabriel Rufián, i li ha demanat que planti \"batalla\" dins del seu partit perquè accepti una aliança amb Comuns i la unitat de la resta de formacions a l'Estat. \"L'animo a fer la batalla dins del partit\", ha dit en declaracions a Catalunya Ràdio, on…",
+      "title": "Comuns culpa Rufián d'entorpir la unitat de les esquerres",
+      "excerpt": "Aquest divendres a la nit s'acaba el termini legal per registrar les coalicions i les esquerres a escala estatal continuen sense arribar a un acord per presetar-se a les pròximes eleccions espanyoles conjuntament. Tot i que Ada Colau continua demanant Gabriel Rufián que se sumi a una coalició, diverses fonts dels Comuns ja donen gairebé per fet que el republicà no s'hi adherirà i l'acusen d'entorpir l'entesa entre les forces que formen el Front Ampli i Podem.",
       "url": "https://www.ara.cat/politica/eleccions-generals/colau-crida-in-extremis-unitat-demano-rufian-faci-batalla-d-erc_1_5879650.html",
       "published": "2026-10-15T10:32:37+02:00",
       "category": "Actualitat",
@@ -909,11 +999,11 @@
     {
       "source": "ARA",
       "title": "Illa confirma que el cos trobat al mar de Sitges és el del menor desaparegut a Granollers",
-      "excerpt": "Els Mossos d'Esquadra investiguen la troballa d'un cos surant al mar entre Sitges i Castelldefels, a l'altura de Port Ginesta. Fonts consultades per l'ARA indiquen que el cadàver, que està en avançat estat de descomposició, portava una roba que coincidiria amb la del Rami, el nen de 12 anys amb autisme desaparegut a Granollers durant els aiguats. El president de la Generalitat, Salvador Illa, ha confirmat aquest matí que es tracta del menor desaparegut i ha enviat un missatge de condol a la família i…",
+      "excerpt": "Els Mossos d'Esquadra investiguen la troballa d'un cadàver surant al mar entre Sitges i Castelldefels, a l'altura de Port Ginesta, que tot indica que és el cos sense vida del menor desaparegut a Granollers. Fonts consultades per l'ARA apunten que el cadàver, que està en avançat estat de descomposició, portava una roba que coincidiria amb la del Rami, el nen de 12 anys amb autisme que va ser vist per últim cop fa gairebé dues setmanes a Granollers durant els aiguats . El president de…",
       "url": "https://www.ara.cat/societat/successos/troben-cos-surant-mar-sitges-sospita-menor-desaparegut-granollers_1_5879565.html",
       "published": "2026-10-15T09:35:55+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/3656a79c-5273-4424-9f7d-45bc88d4b358_16-9-aspect-ratio_default_0.jpg"
+      "image": "https://static1.ara.cat/clip/6886a3fe-62e2-45cc-aaf0-ea9fa7294f48_source-aspect-ratio_default_0.jpg"
     },
     {
       "source": "VilaWeb",
