@@ -157,7 +157,7 @@ def attach_video_links(items, feeds, download, extra_items=()):
 def media_manifest(items):
     return {'version': 2, 'pages': [
         {'page': index + 2, 'title': item['title'], 'source': item['source'],
-         'articleUrl': item['url'], 'published': item['published'],
+         'articleUrl': item['url'], 'published': item['published'], 'priority': item.get('priority', ''),
          **({'video': item['video']} if item.get('video') else {})}
         for index, item in enumerate(items)
     ]}

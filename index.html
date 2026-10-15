@@ -1,4 +1,7 @@
-<!doctype html><html lang="ca"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#fff8f7"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="apple-mobile-web-app-title" content="El meu diari"><link rel="manifest" href="manifest.webmanifest"><link rel="apple-touch-icon" sizes="180x180" href="assets/img/diari-planeta-180.png"><title>El meu diari d'avui</title><link rel="stylesheet" href="assets/css/styles.css?v=16"><style>.news-reader-page{background:#fff;border-radius:12px;overflow:hidden;padding-bottom:12px}.news-reader-page .small{margin:12px}.viewer .news-video-player{display:block;width:100%;aspect-ratio:16/9;height:auto;min-height:0;border:0;border-radius:0;background:#101019}</style><style>#weather-screen .news-video-player{display:block;width:100%;aspect-ratio:16/9;height:auto;min-height:0;border:0;border-radius:12px;background:#101019}#weather-screen h3{font-size:21px;line-height:1.3}#weather-screen p{line-height:1.6}</style></head><body><main class="wrap"><div class="top"><span>✦ EL MEU DIARI</span><span id="date"></span></div><div class="hero" id="home-hero"><div class="eyebrow">LA TEVA REVISTA PERSONAL</div><h1>Bon dia!<br>Què passa avui?</h1><p>Les notícies més importants, explicades en català i en una revista visual feta per a tu.</p><button class="cover cover-button" id="generate" type="button"><span>AVUI EN<br>PÀGINES 🗞️</span><span class="cover-action" id="latest-label">Veure el diari d’avui</span></button><button class="cta" id="show-archive" type="button">🗞️ Obrir el meu diari d’avui · Edicions guardades</button><button class="cta secondary" id="show-weather" type="button">🌤️ El temps · Veure la previsió i el vídeo</button><p class="hint">Toca la portada per llegir l’última edició. Al botó rosa trobaràs totes les edicions guardades.</p><p id="diary-status" class="status" role="status" aria-live="polite"></p></div><section id="viewer" class="viewer" hidden aria-label="Visor del diari"><div class="viewer-bar"><strong id="viewer-title">Llegint el diari</strong><button id="viewer-close" class="pdf-delete" type="button">Tancar</button></div><p id="viewer-progress" class="small" role="status" aria-live="polite"></p><div id="viewer-pages" class="viewer-pages"></div><p class="small">Si el teu iPhone no mostra el PDF aquí, pots <a id="viewer-fallback" href="#" target="_blank" rel="noopener">obrir-lo en una pestanya</a>.</p></section><section id="archive-screen" hidden><button class="back-button" id="back-home" type="button">← Tornar a l’inici</button><h2 class="section">🗞️ Edicions guardades automàticament</h2><div class="panel"><p class="small">Aquí trobaràs l’última edició d’avui, que es va actualitzant automàticament, i una edició completa de cada dia anterior.</p><div id="archive" aria-live="polite"><p class="small">Carregant l’arxiu…</p></div></div></section><section id="weather-screen" hidden aria-label="El temps"><button class="back-button" id="weather-back" type="button">← Tornar a les notícies</button><h2 class="section">El temps d’avui</h2><div class="panel" id="daily-weather-content" aria-live="polite"></div><button class="cta secondary" id="weather-refresh" type="button">Actualitzar la previsió</button></section><div class="foot">Versió inicial gratuïta · Sense servidor ni clau d'IA</div></main><script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script><script>
+<!doctype html><html lang="ca"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#fff8f7"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="apple-mobile-web-app-title" content="El meu diari"><link rel="manifest" href="manifest.webmanifest"><link rel="apple-touch-icon" sizes="180x180" href="assets/img/diari-planeta-180.png"><title>El meu diari d'avui</title><link rel="stylesheet" href="assets/css/styles.css?v=16"><style>.news-reader-page{background:#fff;border-radius:12px;overflow:hidden;padding-bottom:12px}.news-reader-page .small{margin:12px}.viewer .news-video-player{display:block;width:100%;aspect-ratio:16/9;height:auto;min-height:0;border:0;border-radius:0;background:#101019}</style><style>#weather-screen .news-video-player{display:block;width:100%;aspect-ratio:16/9;height:auto;min-height:0;border:0;border-radius:12px;background:#101019}#weather-screen h3{font-size:21px;line-height:1.3}#weather-screen p{line-height:1.6}</style><style>
+.week-panel{margin:16px 0}.week-panel h3{font-size:18px!important;margin:0 0 12px}.week-strip{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;padding:2px 0 10px;-webkit-overflow-scrolling:touch}.week-day{flex:0 0 108px;background:linear-gradient(155deg,#eef8ff,#dcecff);border:1px solid #d6e8f6;border-radius:18px;padding:14px 8px;display:flex;flex-direction:column;align-items:center;gap:5px;scroll-snap-align:start;color:#294e70}.week-date{font-size:11px}.week-condition{font-size:11px;min-height:16px}.week-picture svg{width:82px;height:82px;display:block}.sun-rays{transform-origin:60px 60px;animation:sun-turn 18s linear infinite}.cloud-drift{animation:cloud-drift 4s ease-in-out infinite}.rain-drops{animation:rain-fall 1.8s ease-in-out infinite}.lightning{animation:lightning 4s ease-in-out infinite}@keyframes sun-turn{to{transform:rotate(360deg)}}@keyframes cloud-drift{50%{transform:translateX(4px)}}@keyframes rain-fall{50%{transform:translateY(5px);opacity:.6}}@keyframes lightning{50%{opacity:.4}}@media(prefers-reduced-motion:reduce){.sun-rays,.cloud-drift,.rain-drops,.lightning{animation:none}}
+.priority-filters{display:flex;gap:7px;flex-wrap:wrap;padding:12px 0;position:sticky;top:0;background:#fff;z-index:2}.priority-button{border:1px solid #e4c5d0;border-radius:18px;background:#fff;color:#7c3551;padding:9px 12px;font-weight:700;cursor:pointer}.priority-button[aria-pressed=true]{background:#a4436b;color:#fff;border-color:#a4436b}.news-reader-page[hidden]{display:none!important}
+</style></head><body><main class="wrap"><div class="top"><span>✦ EL MEU DIARI</span><span id="date"></span></div><div class="hero" id="home-hero"><div class="eyebrow">LA TEVA REVISTA PERSONAL</div><h1>Bon dia!<br>Què passa avui?</h1><p>Les notícies més importants, explicades en català i en una revista visual feta per a tu.</p><button class="cover cover-button" id="generate" type="button"><span>AVUI EN<br>PÀGINES 🗞️</span><span class="cover-action" id="latest-label">Veure el diari d’avui</span></button><button class="cta" id="show-archive" type="button">🗞️ Obrir el meu diari d’avui · Edicions guardades</button><button class="cta secondary" id="show-weather" type="button">🌤️ El temps · Veure la previsió i el vídeo</button><p class="hint">Toca la portada per llegir l’última edició. Al botó rosa trobaràs totes les edicions guardades.</p><p id="diary-status" class="status" role="status" aria-live="polite"></p></div><section id="viewer" class="viewer" hidden aria-label="Visor del diari"><div class="viewer-bar"><strong id="viewer-title">Llegint el diari</strong><button id="viewer-close" class="pdf-delete" type="button">Tancar</button></div><p id="viewer-progress" class="small" role="status" aria-live="polite"></p><nav id="priority-filters" class="priority-filters" aria-label="Filtrar notícies per importància" hidden></nav><div id="viewer-pages" class="viewer-pages"></div><p class="small">Si el teu iPhone no mostra el PDF aquí, pots <a id="viewer-fallback" href="#" target="_blank" rel="noopener">obrir-lo en una pestanya</a>.</p></section><section id="archive-screen" hidden><button class="back-button" id="back-home" type="button">← Tornar a l’inici</button><h2 class="section">🗞️ Edicions guardades automàticament</h2><div class="panel"><p class="small">Aquí trobaràs l’última edició d’avui, que es va actualitzant automàticament, i una edició completa de cada dia anterior.</p><div id="archive" aria-live="polite"><p class="small">Carregant l’arxiu…</p></div></div></section><section id="weather-screen" hidden aria-label="El temps"><button class="back-button" id="weather-back" type="button">← Tornar a les notícies</button><h2 class="section">El temps d’avui</h2><section class="panel week-panel" aria-label="Previsió de la setmana"><div id="weather-week"></div><p class="small" id="week-status" role="status" aria-live="polite">Previsió local de set dies.</p><details id="week-options"><summary>Ubicació de la previsió</summary><p class="small">Per veure el temps on ets, compartim la ubicació aproximada amb Open-Meteo i BigDataCloud. BigDataCloud utilitza la ubicació i la IP per millorar la geolocalització. Pots desactivar-ho aquí.</p><button id="week-enable" class="cta secondary" type="button">Activar o actualitzar la meva setmana</button><button id="week-disable" class="back-button" type="button">Desactivar ubicació</button></details></section><div class="panel" id="daily-weather-content" aria-live="polite"></div><button class="cta secondary" id="weather-refresh" type="button">Actualitzar la previsió</button></section><div class="foot">Versió inicial gratuïta · Sense servidor ni clau d'IA</div></main><script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script><script>
 /* Emergency reader for installed iPhones if the JavaScript module fails to load. */
 (function () {
   var button = document.getElementById('generate');
@@ -87,6 +90,7 @@ async function openPDF(url, title) {
     } catch {}
     const pdf = await window.pdfjsLib.getDocument(url).promise;
     if (request !== viewerRequest) return;
+    addPriorityFilters(videoPages);
     const videoCount = videoPages.filter(entry => allowedNewsPlayer(entry.video?.url)).length;
     viewerProgress.textContent = (pdf.numPages - 1) + ' notícies · ' + videoCount + ' amb vídeo · Desplaça’t per llegir-les totes.';
     for (let n = 1; n <= pdf.numPages; n++) {
@@ -104,6 +108,10 @@ async function openPDF(url, title) {
       canvas.setAttribute('aria-label', 'Pàgina ' + n + ' de ' + pdf.numPages);
       const newsPage = document.createElement('article');
       newsPage.className = 'news-reader-page';
+      const pageInfo=videoPages.find(entry=>entry.page===n);
+      newsPage.dataset.priority=(pageInfo?.priority||'').slice(0,1);
+      const activeFilter=document.querySelector('#priority-filters button[aria-pressed="true"]');
+      if(activeFilter && !activeFilter.textContent.startsWith('Totes')) { const selected=[...document.querySelectorAll('#priority-filters button')].indexOf(activeFilter);newsPage.hidden=newsPage.dataset.priority!==String(selected); }
       newsPage.append(canvas);
       viewerPages.append(newsPage);
       await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
@@ -319,6 +327,7 @@ async function showDailyWeather() {
   homeHero.hidden = true;
   archiveScreen.hidden = true;
   weatherScreen.hidden = false;
+  refreshWeek();
   weatherContent.replaceChildren();
   const status = document.createElement('p');
   status.className = 'small';
@@ -362,4 +371,91 @@ async function showDailyWeather() {
 document.querySelector('#show-weather').addEventListener('click', showDailyWeather);
 document.querySelector('#weather-back').addEventListener('click', () => {closeWeatherScreen(); showHome();});
 document.querySelector('#weather-refresh').addEventListener('click', showDailyWeather);
+
+let weekRequest = 0;
+let weekBusy = false;
+function weatherSymbol(code) {
+  const sunny = [0,1,2].includes(code), rainy = [51,53,55,56,57,61,63,65,66,67,80,81,82].includes(code);
+  const snow = [71,73,75,77,85,86].includes(code), storm = [95,96,99].includes(code);
+  const sun = '<g class="sun-rays" stroke="#efb42d" stroke-width="5" stroke-linecap="round"><path d="M60 10v10M60 100v10M10 60h10M100 60h10M25 25l7 7M88 88l7 7M25 95l7-7M88 32l7-7"/></g><circle cx="60" cy="60" r="25" fill="#ffd15a"/>';
+  const cloud = '<path d="M27 83a20 20 0 0 1-3-40 27 27 0 0 1 51-6 23 23 0 1 1 16 46Z" fill="#fff" stroke="#91b4d5" stroke-width="3"/>';
+  let art = code===0 ? sun : (sunny ? '<g transform="translate(18 -10) scale(.75)">'+sun+'</g>':'')+'<g class="cloud-drift">'+cloud+'</g>';
+  if (rainy) art += '<g class="rain-drops" stroke="#4b9ddd" stroke-width="5" stroke-linecap="round"><path d="m35 94-4 10m29-10-4 10m29-10-4 10"/></g>';
+  if (snow) art += '<g class="rain-drops" fill="#7caed4"><circle cx="35" cy="100" r="4"/><circle cx="60" cy="105" r="4"/><circle cx="85" cy="100" r="4"/></g>';
+  if (storm) art += '<path class="lightning" d="m64 77-17 24h13l-5 16 27-29H68l9-11Z" fill="#fac13b"/>';
+  return '<svg viewBox="0 0 120 120" aria-hidden="true">'+art+'</svg>';
+}
+function weatherName(code) {
+  if(code===0)return 'Sol'; if([1,2].includes(code))return 'Sol i núvols'; if(code===3)return 'Ennuvolat';
+  if([45,48].includes(code))return 'Boira'; if([95,96,99].includes(code))return 'Tempesta';
+  if([71,73,75,77,85,86].includes(code))return 'Neu'; return 'Pluja';
+}
+function renderWeek(data, town) {
+  const host=document.querySelector('#weather-week');
+  host.replaceChildren();
+  const title=document.createElement('h3'); title.textContent='La setmana · '+town;
+  const strip=document.createElement('div'); strip.className='week-strip'; strip.tabIndex=0;
+  strip.setAttribute('aria-label','Previsió de set dies. Llisca cap als costats.');
+  const degree=x=>Number.isFinite(x)?Math.round(x)+'°':'—';
+  data.daily.time.forEach((day,i)=>{
+    const card=document.createElement('article'); card.className='week-day';
+    const name=document.createElement('strong'); name.textContent=i===0?'Avui':i===1?'Demà':new Intl.DateTimeFormat('ca-ES',{weekday:'short',timeZone:'UTC'}).format(new Date(day+'T12:00:00Z'));
+    const date=document.createElement('span'); date.className='week-date';date.textContent=new Intl.DateTimeFormat('ca-ES',{day:'numeric',month:'short',timeZone:'UTC'}).format(new Date(day+'T12:00:00Z'));
+    const picture=document.createElement('div');picture.className='week-picture';picture.innerHTML=weatherSymbol(data.daily.weather_code[i]);
+    const condition=document.createElement('span');condition.className='week-condition';condition.textContent=weatherName(data.daily.weather_code[i]);
+    const temps=document.createElement('strong');temps.textContent=degree(data.daily.temperature_2m_max[i])+' / '+degree(data.daily.temperature_2m_min[i]);temps.setAttribute('aria-label','Màxima '+degree(data.daily.temperature_2m_max[i])+', mínima '+degree(data.daily.temperature_2m_min[i]));
+    card.append(name,date,picture,condition,temps);strip.append(card);
+  });
+  const caption=document.createElement('p');caption.className='small';caption.textContent='Màxima / mínima · Llisca per veure els set dies ↔ · Open-Meteo';
+  host.append(title,strip,caption);
+}
+function weeklyEnabled(){try{return localStorage.getItem('diari-weather-town-enabled-v1')==='yes';}catch{return false;}}
+async function refreshWeek() {
+  if(!weeklyEnabled() || weekBusy || document.hidden || weatherScreen.hidden)return;
+  weekBusy=true;
+  const token=++weekRequest;
+  const status=document.querySelector('#week-status');status.textContent='Consultant la setmana on ets…';
+  try {
+    if(!navigator.geolocation)throw new Error('location');
+    const position=await new Promise((resolve,reject)=>navigator.geolocation.getCurrentPosition(resolve,reject,{enableHighAccuracy:false,timeout:15000,maximumAge:60000}));
+    if(token!==weekRequest)return;
+    const lat=position.coords.latitude.toFixed(2), lon=position.coords.longitude.toFixed(2);
+    const query=new URLSearchParams({latitude:lat,longitude:lon,daily:'weather_code,temperature_2m_max,temperature_2m_min',timezone:'auto',forecast_days:'7'});
+    const response=await fetch('https://api.open-meteo.com/v1/forecast?'+query,{cache:'no-store',signal:AbortSignal.timeout(15000)});
+    if(!response.ok)throw new Error('forecast');
+    const data=await response.json();if(!Array.isArray(data.daily?.time)||data.daily.time.length!==7)throw new Error('data');
+    let town='La teva ubicació';
+    try {
+      const place=await fetch('https://api.bigdatacloud.net/data/reverse-geocode-client?'+new URLSearchParams({latitude:lat,longitude:lon,localityLanguage:'ca'}),{signal:AbortSignal.timeout(8000)});
+      if(place.ok){const p=await place.json();town=p.locality||p.city||town;}
+    }catch{}
+    if(token!==weekRequest)return;
+    renderWeek(data,town);
+    status.textContent='Actualitzat a les '+new Intl.DateTimeFormat('ca-ES',{hour:'2-digit',minute:'2-digit'}).format(new Date())+' h · Es renova en obrir aquesta pantalla i cada hora mentre sigui visible.';
+    document.querySelector('#week-options').open=false;
+  }catch(error){
+    if(token!==weekRequest)return;
+    status.textContent=error.code===1?'La ubicació no està permesa. Activa-la als permisos del mòbil o de Safari.':'No s’ha pogut consultar la previsió local. Torna-ho a provar.';
+  }finally{weekBusy=false;}
+}
+document.querySelector('#week-enable').addEventListener('click',()=>{try{localStorage.setItem('diari-weather-town-enabled-v1','yes');}catch{}refreshWeek();});
+document.querySelector('#week-disable').addEventListener('click',()=>{++weekRequest;try{localStorage.removeItem('diari-weather-town-enabled-v1');}catch{}document.querySelector('#weather-week').replaceChildren();document.querySelector('#week-status').textContent='Previsió local desactivada.';});
+setInterval(refreshWeek,3600000);
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshWeek();});
+
+function addPriorityFilters(entries) {
+  const host=document.querySelector('#priority-filters');host.replaceChildren();
+  const labels=['Totes','Urgent','Important','Altres notícies'];
+  const counts=[entries.length,...[1,2,3].map(level=>entries.filter(x=>(x.priority||'').startsWith(String(level))).length)];
+  labels.forEach((label,level)=>{
+    const button=document.createElement('button');button.type='button';button.className='priority-button';
+    button.textContent=label+' ('+counts[level]+')';button.setAttribute('aria-pressed',String(level===0));
+    button.addEventListener('click',()=>{
+      host.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
+      viewerPages.querySelectorAll('.news-reader-page').forEach(page=>{page.hidden=level!==0&&page.dataset.priority!==String(level);});
+    });
+    host.append(button);
+  });
+  host.hidden=!entries.some(x=>x.priority);
+}
 </script></body></html>

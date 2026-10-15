@@ -276,7 +276,7 @@ def save_edition(output, items, metadata, now, with_images=True):
     catalog_path = output / 'archive.json'
     catalog = json.loads(catalog_path.read_text()) if catalog_path.exists() else {'editions': []}
     fingerprint = hashlib.sha256(json.dumps({
-        'date': metadata['date'], 'items': items, 'readerFormat': 'three-priorities-v4',
+        'date': metadata['date'], 'items': items, 'readerFormat': 'visible-priorities-v5',
         'unavailableSources': sorted(metadata['unavailableSources'])
     }, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     latest_path = output / 'latest.json'
