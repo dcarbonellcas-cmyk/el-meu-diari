@@ -2,13 +2,136 @@
   "date": "2026-10-15",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Alerta per risc alt de pluges intenses a nou comarques a partir de dissabte a la tarda",
+      "excerpt": "L'episodi es concentrarà, sobretot, a la meitat est de Catalunya",
+      "url": "https://www.3cat.cat/3catinfo/alerta-per-risc-alt-de-pluges-intenses-a-nou-comarques-a-partir-de-dissabte-a-la-tarda/noticia/3434365/",
+      "published": "2026-10-15T19:40:38+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/3/1791188494031.jpg"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Lliuren 76.000 signatures al parlament per reclamar millores a les escoles bressol 0-3",
+      "excerpt": "La iniciativa, nascuda a Osona i el Lluçanès, vol ser la veu conjunta de les professionals arreu de Catalunya",
+      "url": "https://www.vilaweb.cat/noticies/lliuren-76000-signatures-parlament-reclamar-millores-escoles-bressol/",
+      "published": "2026-10-15T19:38:18+02:00",
+      "category": "Educació",
+      "image": null
+    },
+    {
+      "source": "ARA",
+      "title": "L’altre programa de ràdio de Toni Clapés",
+      "excerpt": "Dimecres a la nit La 2 Cat estrenava Cervells mínims , el nou programa de tele de Toni Clapés, que, en realitat, és ràdio amb càmeres. Com bona part dels programes de televisió que es fan, et pots posar d’esquena a la pantalla i seguir tot el que passa. Pot tenir públic, pot fer connexions amb el carrer, poden pensar una ambientació... però és ràdio. I manté algunes de les inèrcies, com afegir efectes sonors obvis en funció del tema. Si algú parla de diners,…",
+      "url": "https://www.ara.cat/media/programa-radio-toni-clapes_129_5880306.html",
+      "published": "2026-10-15T19:34:49+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/17300b69-2056-40bb-aaaf-d9527b496130_16-9-aspect-ratio_default_0_x628y326.png"
+    },
+    {
+      "source": "betevé",
+      "title": "Reclamen a la cadena 365 que apliqui el conveni d’hostaleria i no el de fleques",
+      "excerpt": "(ACN) La UGT reclama que la cadena 365 apliqui el conveni d’hostaleria als 790 treballadors que treballen en cafeteries de la demarcació de Barcelona. El sindicat ha iniciat un procediment de conciliació davant el Tribunal Laboral de Catalunya per exigir que els locals 365 deixin d’aplicar el conveni de fleques, que estableix condicions laborals “sensiblement […]",
+      "url": "https://beteve.cat/economia/ugt-reclama-365-apliqui-conveni-hostaleria/",
+      "published": "2026-10-15T19:33:33+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/365-forn-degustacio-2026-10-15.jpg"
+    },
+    {
+      "source": "ARA",
+      "title": "Les formules de quatre exconsellers per reanimar el sistema educatiu",
+      "excerpt": "La necessitat de revisar la formació dels docents i la manera com s'aborda la pobresa infantil i la complexitat a l'alça a les aules han centrat el debat en la primera de les trobades que ha impulsat Pimec sobre educació, que ha comptat amb les veus de quatre exconsellers del ram: Irene Rigau, Anna Simó, Meritxell Ruiz i Ernest Maragall. En ple debat social i amb un debat de país en marxa per redefinir el model educatiu català –dinamitat per l'error a les proves PISA…",
+      "url": "https://www.ara.cat/societat/educacio/formules-quatre-exconsellers-reanimar-sistema-educatiu_1_5880143.html",
+      "published": "2026-10-15T19:22:21+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4e86897b-e29b-4af5-b32b-0ecde2eba3d9_16-9-aspect-ratio_default_0.jpg"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de divendres: últim dia de temps càlid i tranquil",
+      "excerpt": "Temperatura elevada i alguns núvols baixos, sobretot al matí",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/",
+      "published": "2026-10-15T19:00:59+02:00",
+      "updated": "2026-10-15T19:13:18+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/3/1792083669738.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6430567/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "Mor una dona mentre dormia a les portes d'un museu de Santa Coloma de Gramenet",
+      "excerpt": "Una dona de 47 anys ha mort aquest dijous al matí mentre dormia a les portes d'un museu de Santa Coloma de Gramenet. La policia local del municipi ha rebut l'avís cap a les 8 hores després que la consergeria del Museu Torre Balldovina advertís de la presència d'una dona que havia passat la nit al porxo de la instal·lació i que no tenia constants vitals. El museu està ubicat en una zona força cèntrica, a tocar del pont de Can Peixauet, molt a prop…",
+      "url": "https://www.ara.cat/societat/emergencia-social/mor-dona-dormia-portes-d-museu-santa-coloma-gramenet_1_5880163.html",
+      "published": "2026-10-15T19:12:58+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/db88e3ef-0d9d-4f87-8f03-b3ab0f7d2fc8_16-9-aspect-ratio_default_0.jpg"
+    },
+    {
+      "source": "ARA",
+      "title": "Alfa Romeo Cuorerosso: la bellesa necessària, però amb motor de gasolina",
+      "excerpt": "La indústria de l’automoció a Itàlia viu hores confuses: Ferrari ha fabricat un elèctric (Luce) que poc o gens té a veure amb l’estil de la llegendària marca de Maranello, mentre que Maserati sembla estar a la venda i els de Mòdena es deixen estimar pels grups automobilístics xinesos. Però el desolador panorama transalpí no acaba aquí, ja que Abarth no acaba de trobar la tecla per remuntar les vendes de models en un nou mercat electrificat i Lancia s’ha convertit en una marca que…",
+      "url": "https://motor.ara.cat/novetats/alfa-romeo-cuorerosso-bellesa-necessaria-motor-gasolina_1_5879995.html",
+      "published": "2026-10-15T19:06:22+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/84f4336b-1b67-454f-8ff4-ea873878c7b4_16-9-aspect-ratio_default_0.jpg"
+    },
+    {
+      "source": "betevé",
+      "title": "Quan és el sorteig de les meses de les eleccions generals 2026?: dates, notificació i com al·legar",
+      "excerpt": "Les eleccions generals 2026 convocades el 29 de novembre han posat en marxa tot l’engranatge electoral, que inclou la constitució de les meses i l’elecció dels ciutadans que en formaran part. El nomenament dels integrants de les meses electorals el fan els ajuntaments mitjançant un sorteig públic. A continuació t’expliquem quan es farà el sorteig […]",
+      "url": "https://beteve.cat/politica/sorteig-meses-eleccions-generals-2026/",
+      "published": "2026-10-15T19:05:59+02:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/05/on-votar-9-juny-eleccions-europees-2024-230524.jpg"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-16-10-2026_134_5880071.html",
+      "published": "2026-10-15T19:05:08+02:00",
+      "category": "Actualitat",
+      "image": null
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-16-10-2026_134_5880015.html",
+      "published": "2026-10-15T19:05:08+02:00",
+      "category": "Actualitat",
+      "image": null
+    },
+    {
+      "source": "betevé",
+      "title": "Jordi Villacampa",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/jordi-villacampa/",
+      "published": "2026-10-15T18:52:50+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg"
+    },
+    {
       "source": "ARA",
       "title": "Trenta-cinc hospitals o morir-te de gana",
-      "excerpt": "L’ingrés mínim vital genera gratera entre els diaris més liberals i les comparacions arbitràries són un dels recursos més útils per escampar-hi la seva capa de demagògia. Fixem-nos en el mòdul de portada de La Razón . Diu el titular: “El govern ha gastat 22.000 milions en l’Ingrés Mínim, equivalent a 35 hospitals”. Què té a veure una cosa amb l’altra? Podrien haver dit que és l’equivalent a 215 Eurofighter Typhoon, o que el ministeri de Defensa gasta en un any el 50% més que…",
+      "excerpt": "L’INGRÉSMÍNIMVITAL genera gratera entre els diaris més liberals, i les comparacions arbitràries són un dels recursos més útils per escampar-hi la seva capa de demagògia. Fixem-nos en el mòdul de portada de La Razón . Diu el titular: “El govern ha gastat 22.000 milions en l’Ingrés Mínim, equivalent a 35 hospitals”. Què té a veure una cosa amb l’altra? Podrien haver dit que és l’equivalent a 215 Eurofighter Typhoon, o que el ministeri de Defensa gasta en un any el 50% més que el que…",
       "url": "https://www.ara.cat/media/trenta-cinc-hospitals-morir-gana_129_5880171.html",
       "published": "2026-10-15T18:43:26+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/8ade7643-0561-4209-82cb-c34e1d23ac71_16-9-aspect-ratio_default_0.jpg"
+    },
+    {
+      "source": "betevé",
+      "title": "El Barça de Hansi Flick pot fer història al camp del Betis",
+      "excerpt": "Si el FC Barcelona aconsegueix guanyar aquest dissabte al camp del Betis, sumarà la novena victòria consecutiva a la Lliga. I per tant, superarà el millor inici a la competició de la seva història. Ara per ara, amb vuit victòries ha igualat les de la temporada 2013-2014. L’equip de Hansi Flick arriba al darrer partit […]",
+      "url": "https://beteve.cat/esports/barca-hansi-flick-pot-fer-historia-camp-betis/",
+      "published": "2026-10-15T18:43:20+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/barca-hansi-flick-record-betis-2026-10-15.jpg"
     },
     {
       "source": "ARA",
@@ -122,7 +245,7 @@
       "url": "https://www.ara.cat/internacional/estats-units/voldria-guerra-casa-volen_128_5878889.html",
       "published": "2026-10-15T18:00:07+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/901e7828-9d73-4f74-a76a-eca6c23986bb_16-9-aspect-ratio_default_0_x475y439.jpg"
+      "image": "https://static1.ara.cat/clip/901e7828-9d73-4f74-a76a-eca6c23986bb_source-aspect-ratio_default_0_x475y439.jpg"
     },
     {
       "source": "VilaWeb",
@@ -140,7 +263,7 @@
       "url": "https://www.ara.cat/societat/medi-ambient/l-excarrec-govern-acusat-pel-cas-cimentera-montcada-nega-tracte-favor_1_5880031.html",
       "published": "2026-10-15T17:52:28+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/6d8e8c99-418c-43d4-b612-efa285cd911b_16-9-aspect-ratio_default_0_x457y926.jpg"
+      "image": "https://static1.ara.cat/clip/a31f93d8-7f58-4e2a-8cde-0b2f3c25def0_source-aspect-ratio_default_0.jpg"
     },
     {
       "source": "3CatInfo",
@@ -713,7 +836,7 @@
     },
     {
       "source": "ARA",
-      "title": "\"Ser la primera dona presidenta del Cercle del Liceu és molta responsabilitat\"",
+      "title": "“El Cercle del Liceu és una prolongació de casa meva, per això el menjar hi té tanta importància\"",
       "excerpt": "Ernestina Torelló (Barcelona, 83 anys), copropietària juntament amb els seus fills del celler Torelló (Corpinnat), acaba d’escriure una pàgina de la història: el Cercle del Liceu, el club social situat paret per paret del Liceu de Barcelona i inaugurat el 1847, l’ha escollida com a primera dona presidenta. Nous temps per a una institució que canvia a poc a poc: les boles negres i les blanques, les que s’extreien per acceptar els nous socis, com les de la pel·lícula La bola negra dels directors Els…",
       "url": "https://mengem.ara.cat/vins-caves/primera-dona-presidenta-cercle-liceu-molta-responsabilitat_1_5870447.html",
       "published": "2026-10-15T11:00:01+02:00",
