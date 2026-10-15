@@ -352,6 +352,12 @@ def main():
     if not args.fixtures:
         attach_video_links(items, feeds, download)
     day_path.write_text(json.dumps({'date': now.date().isoformat(), 'items': items}, ensure_ascii=False, indent=2) + '\n')
+    forecasts = [item for item in items if item.get('category') == 'El temps'
+                 and 'previsi' in item.get('title', '').casefold() and item.get('video')]
+    forecasts.sort(key=lambda item: item.get('updated') or item['published'], reverse=True)
+    weather_data = {'date': now.date().isoformat(), 'updatedAt': now.isoformat(),
+                    'forecast': forecasts[0] if forecasts else None}
+    (output / 'weather.json').write_text(json.dumps(weather_data, ensure_ascii=False, indent=2) + '\n')
     metadata = {'date': now.date().isoformat(), 'updatedAt': now.isoformat(),
                 'pdf': 'diaris/avui.pdf', 'count': len(items),
                 'sources': list(feeds), 'unavailableSources': failures}

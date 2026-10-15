@@ -1,4 +1,4 @@
-<!doctype html><html lang="ca"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#fff8f7"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="apple-mobile-web-app-title" content="El meu diari"><link rel="manifest" href="manifest.webmanifest"><link rel="apple-touch-icon" sizes="180x180" href="assets/img/diari-planeta-180.png"><title>El meu diari d'avui</title><link rel="stylesheet" href="assets/css/styles.css?v=16"><style>.news-reader-page{background:#fff;border-radius:12px;overflow:hidden;padding-bottom:12px}.news-reader-page .small{margin:12px}.viewer .news-video-player{display:block;width:100%;aspect-ratio:16/9;height:auto;min-height:0;border:0;border-radius:0;background:#101019}</style></head><body><main class="wrap"><div class="top"><span>✦ EL MEU DIARI</span><span id="date"></span></div><div class="hero" id="home-hero"><div class="eyebrow">LA TEVA REVISTA PERSONAL</div><h1>Bon dia!<br>Què passa avui?</h1><p>Les notícies més importants, explicades en català i en una revista visual feta per a tu.</p><button class="cover cover-button" id="generate" type="button"><span>AVUI EN<br>PÀGINES 🗞️</span><span class="cover-action" id="latest-label">Veure el diari d’avui</span></button><button class="cta" id="show-archive" type="button">🗞️ Obrir el meu diari d’avui · Edicions guardades</button><p class="hint">Toca la portada per llegir l’última edició. Al botó rosa trobaràs totes les edicions guardades.</p><p id="diary-status" class="status" role="status" aria-live="polite"></p></div><section id="viewer" class="viewer" hidden aria-label="Visor del diari"><div class="viewer-bar"><strong id="viewer-title">Llegint el diari</strong><button id="viewer-close" class="pdf-delete" type="button">Tancar</button></div><p id="viewer-progress" class="small" role="status" aria-live="polite"></p><div id="viewer-pages" class="viewer-pages"></div><p class="small">Si el teu iPhone no mostra el PDF aquí, pots <a id="viewer-fallback" href="#" target="_blank" rel="noopener">obrir-lo en una pestanya</a>.</p></section><section id="archive-screen" hidden><button class="back-button" id="back-home" type="button">← Tornar a l’inici</button><h2 class="section">🗞️ Edicions guardades automàticament</h2><div class="panel"><p class="small">Aquí trobaràs l’última edició d’avui, que es va actualitzant automàticament, i una edició completa de cada dia anterior.</p><div id="archive" aria-live="polite"><p class="small">Carregant l’arxiu…</p></div></div></section><div class="foot">Versió inicial gratuïta · Sense servidor ni clau d'IA</div></main><script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script><script>
+<!doctype html><html lang="ca"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#fff8f7"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="apple-mobile-web-app-title" content="El meu diari"><link rel="manifest" href="manifest.webmanifest"><link rel="apple-touch-icon" sizes="180x180" href="assets/img/diari-planeta-180.png"><title>El meu diari d'avui</title><link rel="stylesheet" href="assets/css/styles.css?v=16"><style>.news-reader-page{background:#fff;border-radius:12px;overflow:hidden;padding-bottom:12px}.news-reader-page .small{margin:12px}.viewer .news-video-player{display:block;width:100%;aspect-ratio:16/9;height:auto;min-height:0;border:0;border-radius:0;background:#101019}</style><style>#weather-screen .news-video-player{display:block;width:100%;aspect-ratio:16/9;height:auto;min-height:0;border:0;border-radius:12px;background:#101019}#weather-screen h3{font-size:21px;line-height:1.3}#weather-screen p{line-height:1.6}</style></head><body><main class="wrap"><div class="top"><span>✦ EL MEU DIARI</span><span id="date"></span></div><div class="hero" id="home-hero"><div class="eyebrow">LA TEVA REVISTA PERSONAL</div><h1>Bon dia!<br>Què passa avui?</h1><p>Les notícies més importants, explicades en català i en una revista visual feta per a tu.</p><button class="cover cover-button" id="generate" type="button"><span>AVUI EN<br>PÀGINES 🗞️</span><span class="cover-action" id="latest-label">Veure el diari d’avui</span></button><button class="cta" id="show-archive" type="button">🗞️ Obrir el meu diari d’avui · Edicions guardades</button><button class="cta secondary" id="show-weather" type="button">🌤️ El temps · Veure la previsió i el vídeo</button><p class="hint">Toca la portada per llegir l’última edició. Al botó rosa trobaràs totes les edicions guardades.</p><p id="diary-status" class="status" role="status" aria-live="polite"></p></div><section id="viewer" class="viewer" hidden aria-label="Visor del diari"><div class="viewer-bar"><strong id="viewer-title">Llegint el diari</strong><button id="viewer-close" class="pdf-delete" type="button">Tancar</button></div><p id="viewer-progress" class="small" role="status" aria-live="polite"></p><div id="viewer-pages" class="viewer-pages"></div><p class="small">Si el teu iPhone no mostra el PDF aquí, pots <a id="viewer-fallback" href="#" target="_blank" rel="noopener">obrir-lo en una pestanya</a>.</p></section><section id="archive-screen" hidden><button class="back-button" id="back-home" type="button">← Tornar a l’inici</button><h2 class="section">🗞️ Edicions guardades automàticament</h2><div class="panel"><p class="small">Aquí trobaràs l’última edició d’avui, que es va actualitzant automàticament, i una edició completa de cada dia anterior.</p><div id="archive" aria-live="polite"><p class="small">Carregant l’arxiu…</p></div></div></section><section id="weather-screen" hidden aria-label="El temps"><button class="back-button" id="weather-back" type="button">← Tornar a les notícies</button><h2 class="section">El temps d’avui</h2><div class="panel" id="daily-weather-content" aria-live="polite"></div><button class="cta secondary" id="weather-refresh" type="button">Actualitzar la previsió</button></section><div class="foot">Versió inicial gratuïta · Sense servidor ni clau d'IA</div></main><script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script><script>
 /* Emergency reader for installed iPhones if the JavaScript module fails to load. */
 (function () {
   var button = document.getElementById('generate');
@@ -61,6 +61,7 @@ function allowedNewsPlayer(value) {
 }
 
 async function openPDF(url, title) {
+  closeWeatherScreen();
   const request = ++viewerRequest;
   archiveScreen.hidden = true;
   homeHero.hidden = false;
@@ -155,6 +156,7 @@ const archiveScreen = document.querySelector('#archive-screen');
 const homeHero = document.querySelector('#home-hero');
 
 function showArchive() {
+  closeWeatherScreen();
   renderArchive();
   homeHero.hidden = true;
   viewer.hidden = true;
@@ -163,6 +165,7 @@ function showArchive() {
 }
 
 function showHome() {
+  closeWeatherScreen();
   archiveScreen.hidden = true;
   homeHero.hidden = false;
   window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -302,4 +305,61 @@ async function renderArchive() {
 
 renderArchive();
 
+
+const weatherScreen = document.querySelector('#weather-screen');
+const weatherContent = document.querySelector('#daily-weather-content');
+function closeWeatherScreen() {
+  weatherScreen.hidden = true;
+  weatherContent.replaceChildren();
+}
+async function showDailyWeather() {
+  ++viewerRequest;
+  viewer.hidden = true;
+  viewerPages.replaceChildren();
+  homeHero.hidden = true;
+  archiveScreen.hidden = true;
+  weatherScreen.hidden = false;
+  weatherContent.replaceChildren();
+  const status = document.createElement('p');
+  status.className = 'small';
+  status.textContent = 'Carregant la previsió d’avui…';
+  weatherContent.append(status);
+  window.scrollTo({top: 0, behavior: 'smooth'});
+  try {
+    const response = await fetch('./diaris/weather.json', {cache: 'no-store'});
+    if (!response.ok) throw new Error('weather unavailable');
+    const data = await response.json();
+    if (weatherScreen.hidden) return;
+    if (data.date !== madridDate() || !data.forecast) {
+      status.textContent = 'La previsió amb vídeo d’avui encara no està disponible. Es tornarà a consultar automàticament.';
+      return;
+    }
+    const forecast = data.forecast;
+    const playerURL = allowedNewsPlayer(forecast.video?.url);
+    if (!playerURL) throw new Error('invalid player');
+    weatherContent.replaceChildren();
+    const heading = document.createElement('h3');
+    heading.textContent = forecast.title;
+    const description = document.createElement('p');
+    description.textContent = forecast.excerpt || '';
+    const player = document.createElement('iframe');
+    player.src = playerURL;
+    player.title = 'El temps d’avui · ' + forecast.title;
+    player.className = 'news-video-player';
+    player.allow = 'fullscreen; picture-in-picture; encrypted-media';
+    player.allowFullscreen = true;
+    player.referrerPolicy = 'strict-origin-when-cross-origin';
+    const source = document.createElement('p');
+    source.className = 'small';
+    source.textContent = 'Font: 3Cat · El temps · Consultat a les ' +
+      new Intl.DateTimeFormat('ca-ES', {hour:'2-digit',minute:'2-digit',timeZone:'Europe/Madrid'}).format(new Date(data.updatedAt)) +
+      ' h. La previsió es consulta cada hora.';
+    weatherContent.append(heading, description, player, source);
+  } catch {
+    if (!weatherScreen.hidden) status.textContent = 'No s’ha pogut carregar el temps. Comprova la connexió i torna-ho a provar.';
+  }
+}
+document.querySelector('#show-weather').addEventListener('click', showDailyWeather);
+document.querySelector('#weather-back').addEventListener('click', () => {closeWeatherScreen(); showHome();});
+document.querySelector('#weather-refresh').addEventListener('click', showDailyWeather);
 </script></body></html>
