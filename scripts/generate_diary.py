@@ -14,6 +14,7 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 from video_links import attach_video_links, media_manifest
+from news_sources import weather_section, merge_day_items
 from reportlab import rl_config
 from reportlab.lib import colors
 from reportlab.lib.styles import ParagraphStyle
@@ -27,6 +28,8 @@ TZ = ZoneInfo('Europe/Madrid')
 FEEDS = {
     '3CatInfo': 'https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0',
     'VilaWeb': 'https://www.vilaweb.cat/feed/',
+    'ARA': 'https://www.ara.cat/rss/latest/',
+    'betevé': 'https://beteve.cat/feed/',
 }
 PINK = colors.HexColor('#df5787')
 INK = colors.HexColor('#282235')
@@ -92,7 +95,7 @@ def is_weather_news(item):
         headline))
 
 
-def select_items(feeds, limit=20):
+def select_items(feeds, limit=None):
     # Keep publisher ordering and alternate sources.
     ordered, seen = [], set()
     for index in range(max((len(items) for items in feeds.values()), default=0)):
@@ -104,6 +107,8 @@ def select_items(feeds, limit=20):
             if key not in seen:
                 ordered.append(item)
                 seen.add(key)
+    if limit is None:
+        return ordered
     if limit <= 0:
         return []
     chosen = ordered[:limit]
@@ -141,7 +146,7 @@ def build_pdf(path, items, now, failures, with_images=True):
     width, height = 595, 842
     c = canvas.Canvas(str(path), pagesize=(width, height))
     c.setTitle('El meu diari - ' + now.strftime('%d/%m/%Y'))
-    c.setAuthor('El meu diari · recull de 3CatInfo i VilaWeb')
+    c.setAuthor('El meu diari · recull de mitjans periodístics')
     date = now.strftime('%d/%m/%Y')
     def page_header(number):
         c.setFillColor(colors.HexColor('#fff8f7'))
@@ -158,9 +163,9 @@ def build_pdf(path, items, now, failures, with_images=True):
     text(c, 'LA TEVA REVISTA D’ACTUALITAT', 38, 744, 510, 12, color=PINK, bold=True)
     y = text(c, 'Què passa\navui?', 38, 695, 510, 48, leading=57, bold=True)
     y = text(c, date, 38, y - 24, 510, 25, color=PINK)
-    y = text(c, f'{len(items)} notícies publicades avui', 38, y - 34, 510, 19, bold=True)
+    y = text(c, f'{len(items)} notícies del dia', 38, y - 34, 510, 19, bold=True)
     y = text(c, 'Notícies d’avui explicades amb els resums disponibles dels mitjans consultats.', 38, y - 22, 500, 14, color=MUTED)
-    y = text(c, 'Fonts: ' + ' · '.join(FEEDS), 38, y - 24, 500, 12)
+    y = text(c, 'Fonts: ' + ' · '.join(dict.fromkeys(item['source'] for item in items)), 38, y - 24, 500, 12)
     if failures:
         y = text(c, 'Cobertura parcial: no s’ha pogut consultar ' + ', '.join(failures) + '.', 38, y - 20, 500, 12, color=MUTED)
     if not items:
@@ -171,7 +176,7 @@ def build_pdf(path, items, now, failures, with_images=True):
         text(c, item['source'] + ' · ' + item['category'], 38, 757, 510, 11, color=PINK, bold=True)
         y = text(c, item['title'], 38, 710, 510, 29, leading=37, bold=True)
         published = datetime.fromisoformat(item['published'])
-        y = text(c, 'Publicat avui a les ' + published.strftime('%H:%M'), 38, y - 18, 510, 10, color=MUTED)
+        y = text(c, ('Actualitzat avui a les ' + datetime.fromisoformat(item['updated']).strftime('%H:%M') if published.date() != now.date() and item.get('updated') else 'Publicat avui a les ' + published.strftime('%H:%M')), 38, y - 18, 510, 10, color=MUTED)
         if with_images and item.get('image') and item['image'].startswith('https://img.3cat.cat/'):
             try:
                 photo = ImageReader(io.BytesIO(download(item['image'])))
@@ -228,7 +233,7 @@ def save_edition(output, items, metadata, now, with_images=True):
     catalog_path = output / 'archive.json'
     catalog = json.loads(catalog_path.read_text()) if catalog_path.exists() else {'editions': []}
     fingerprint = hashlib.sha256(json.dumps({
-        'date': metadata['date'], 'items': items, 'readerFormat': 'video-pages-v1',
+        'date': metadata['date'], 'items': items, 'readerFormat': 'broader-daily-v2',
         'unavailableSources': sorted(metadata['unavailableSources'])
     }, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     latest_path = output / 'latest.json'
@@ -273,7 +278,7 @@ def main():
     for source, url in FEEDS.items():
         try:
             if args.fixtures:
-                file = '3cat.xml' if source == '3CatInfo' else 'vilaweb.xml'
+                file = {'3CatInfo': '3cat.xml', 'VilaWeb': 'vilaweb.xml', 'ARA': 'ara.xml', 'betevé': 'beteve.xml'}[source]
                 data = (Path(args.fixtures) / file).read_bytes()
             else:
                 data = download(url)
@@ -283,16 +288,27 @@ def main():
             failures.append(source)
     if len(failures) == len(FEEDS):
         raise RuntimeError('No news source available; do not replace the previous edition')
-    items = select_items(feeds)
     if not args.fixtures:
-        extra_items = []
         try:
-            extra_items = parse_feed(download('https://beteve.cat/feed/'), 'betevé', now)
+            feeds['3CatInfo · El temps'] = weather_section(download('https://www.3cat.cat/3catinfo/el-temps/noticies/'), now)
         except Exception as error:
-            logging.warning('Alternative video feed unavailable: %s', error)
-        attach_video_links(items, feeds, download, extra_items)
+            logging.warning('Weather section unavailable: %s', error)
+            failures.append('3CatInfo · El temps')
     output = Path(args.output)
     output.mkdir(parents=True, exist_ok=True)
+    day_path = output / 'items-today.json'
+    previous_items = []
+    if day_path.exists():
+        try:
+            saved = json.loads(day_path.read_text())
+            if saved.get('date') == now.date().isoformat():
+                previous_items = saved.get('items', [])
+        except (ValueError, TypeError):
+            pass
+    items = merge_day_items(select_items(feeds), previous_items, now)
+    if not args.fixtures:
+        attach_video_links(items, feeds, download)
+    day_path.write_text(json.dumps({'date': now.date().isoformat(), 'items': items}, ensure_ascii=False, indent=2) + '\n')
     metadata = {'date': now.date().isoformat(), 'updatedAt': now.isoformat(),
                 'pdf': 'diaris/avui.pdf', 'count': len(items),
                 'sources': list(feeds), 'unavailableSources': failures}

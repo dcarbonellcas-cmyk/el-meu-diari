@@ -86,7 +86,8 @@ async function openPDF(url, title) {
     } catch {}
     const pdf = await window.pdfjsLib.getDocument(url).promise;
     if (request !== viewerRequest) return;
-    viewerProgress.textContent = pdf.numPages + ' pàgines · Desplaça’t cap avall per llegir-les totes.';
+    const videoCount = videoPages.filter(entry => allowedNewsPlayer(entry.video?.url)).length;
+    viewerProgress.textContent = (pdf.numPages - 1) + ' notícies · ' + videoCount + ' amb vídeo · Desplaça’t per llegir-les totes.';
     for (let n = 1; n <= pdf.numPages; n++) {
       if (request !== viewerRequest) return;
       const page = await pdf.getPage(n);
@@ -107,6 +108,21 @@ async function openPDF(url, title) {
       await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
       if (request !== viewerRequest) return;
       const media = videoPages.find(entry => entry.page === n);
+      if (media?.articleUrl) {
+        try {
+          const originalURL = new URL(media.articleUrl);
+          if (originalURL.protocol === 'https:') {
+            const provenance = document.createElement('a');
+            provenance.href = originalURL.href;
+            provenance.target = '_blank';
+            provenance.rel = 'noopener noreferrer';
+            provenance.textContent = 'Font original: ' + (media.source || originalURL.hostname);
+            provenance.className = 'small';
+            provenance.style.cssText = 'display:block;padding:10px 12px;color:#a4436c';
+            newsPage.append(provenance);
+          }
+        } catch {}
+      }
       const playerURL = allowedNewsPlayer(media?.video?.url);
       if (playerURL) {
         const player = document.createElement('iframe');

@@ -96,12 +96,17 @@ def extract_video(document, item):
                 continue
             # Match the article's exact ID; sidebar recommendations have other IDs.
             for obj in walk(data):
-                if str(obj.get('id')) != match[1] or not isinstance(obj.get('cos'), list):
+                if str(obj.get('id')) != match[1] or not obj.get('titol'):
                     continue
                 ids = [v.get('id') for v in obj.get('videos', []) if isinstance(v, dict)]
-                for block in obj['cos']:
+                for block in (obj.get('cos') if isinstance(obj.get('cos'), list) else []):
                     if block.get('tipus') == 'video':
                         ids.append(block.get('props', {}).get('id'))
+                for featured in walk(obj.get('mediadestacatsVideo', [])):
+                    if featured.get('id'):
+                        ids.append(featured['id'])
+                if isinstance(obj.get('cos'), str):
+                    ids.extend(re.findall(r'/3cat/video/(\d+)/embed/', obj['cos']))
                 for video_id in ids:
                     if re.fullmatch(r'\d+', str(video_id)):
                         return 'https://www.3cat.cat/3cat/video/' + str(video_id) + '/embed/'
@@ -136,10 +141,11 @@ def attach_video_links(items, feeds, download, extra_items=()):
         except Exception as error:
             logging.warning('Video lookup unavailable: %s', error)
             return item['url'], None
-    with ThreadPoolExecutor(max_workers=4) as pool:
+    with ThreadPoolExecutor(max_workers=6) as pool:
         found = dict(pool.map(find, by_url.values()))
     for item in items:
-        item.pop('video', None)
+        if item.get('video') and not player_url(item['video'].get('url')):
+            item.pop('video', None)
         for candidate in [item] + matches[item['url']]:
             if found.get(candidate['url']):
                 item['video'] = {'url': found[candidate['url']],
@@ -149,7 +155,9 @@ def attach_video_links(items, feeds, download, extra_items=()):
 
 
 def media_manifest(items):
-    return {'version': 1, 'pages': [
-        {'page': index + 2, 'title': item['title'], 'video': item['video']}
-        for index, item in enumerate(items) if item.get('video')
+    return {'version': 2, 'pages': [
+        {'page': index + 2, 'title': item['title'], 'source': item['source'],
+         'articleUrl': item['url'], 'published': item['published'],
+         **({'video': item['video']} if item.get('video') else {})}
+        for index, item in enumerate(items)
     ]}
