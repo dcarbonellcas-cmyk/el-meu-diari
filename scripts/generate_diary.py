@@ -13,6 +13,7 @@ from datetime import datetime
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from video_links import attach_video_links, media_manifest
 from reportlab import rl_config
 from reportlab.lib import colors
 from reportlab.lib.styles import ParagraphStyle
@@ -219,6 +220,7 @@ def prune_finished_days(output, catalog, today):
             retained.append(entry)
         elif re.fullmatch(r'diaris/arxiu/\d{4}-\d{2}-\d{2}/\d{2}-\d{2}-\d{2}-\d{6}\.pdf', entry['pdf']):
             (output.parent / entry['pdf']).unlink(missing_ok=True)
+            (output.parent / entry['pdf']).with_suffix('.media.json').unlink(missing_ok=True)
     catalog['editions'] = retained
 
 
@@ -226,7 +228,7 @@ def save_edition(output, items, metadata, now, with_images=True):
     catalog_path = output / 'archive.json'
     catalog = json.loads(catalog_path.read_text()) if catalog_path.exists() else {'editions': []}
     fingerprint = hashlib.sha256(json.dumps({
-        'date': metadata['date'], 'items': items,
+        'date': metadata['date'], 'items': items, 'readerFormat': 'video-pages-v1',
         'unavailableSources': sorted(metadata['unavailableSources'])
     }, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     latest_path = output / 'latest.json'
@@ -245,11 +247,14 @@ def save_edition(output, items, metadata, now, with_images=True):
         archived_pdf = output / relative_path
         archived_pdf.parent.mkdir(parents=True, exist_ok=True)
         build_pdf(archived_pdf, items, now, metadata['unavailableSources'], with_images)
+        archived_pdf.with_suffix('.media.json').write_text(json.dumps(media_manifest(items), ensure_ascii=False, indent=2) + '\n')
         shutil.copyfile(archived_pdf, output / 'avui.pdf')
+        shutil.copyfile(archived_pdf.with_suffix('.media.json'), output / 'avui.media.json')
         entry = {**metadata, 'pdf': 'diaris/' + relative_path}
         catalog['editions'].insert(0, entry)
     else:
         build_pdf(output / 'avui.pdf', items, now, metadata['unavailableSources'], with_images)
+        (output / 'avui.media.json').write_text(json.dumps(media_manifest(items)) + '\n')
     prune_finished_days(output, catalog, metadata['date'])
     catalog_path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + '\n')
     latest_path.write_text(json.dumps(metadata, ensure_ascii=False, indent=2) + '\n')
@@ -279,6 +284,13 @@ def main():
     if len(failures) == len(FEEDS):
         raise RuntimeError('No news source available; do not replace the previous edition')
     items = select_items(feeds)
+    if not args.fixtures:
+        extra_items = []
+        try:
+            extra_items = parse_feed(download('https://beteve.cat/feed/'), 'betevé', now)
+        except Exception as error:
+            logging.warning('Alternative video feed unavailable: %s', error)
+        attach_video_links(items, feeds, download, extra_items)
     output = Path(args.output)
     output.mkdir(parents=True, exist_ok=True)
     metadata = {'date': now.date().isoformat(), 'updatedAt': now.isoformat(),
