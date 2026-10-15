@@ -80,22 +80,6 @@ async function openPDF(url, title) {
       canvas.setAttribute('aria-label', 'Pàgina ' + n + ' de ' + pdf.numPages);
       viewerPages.append(canvas);
       await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
-      const annotations = await page.getAnnotations();
-      if (request !== viewerRequest) return;
-      for (const annotation of annotations) {
-        if (annotation.subtype !== 'Link' || !annotation.url) continue;
-        let target;
-        try { target = new URL(annotation.url); } catch { continue; }
-        if (target.protocol !== 'https:') continue;
-        const articleLink = document.createElement('a');
-        articleLink.href = target.href;
-        articleLink.target = '_blank';
-        articleLink.rel = 'noopener noreferrer';
-        articleLink.textContent = 'Llegir aquesta notícia completa ↗';
-        articleLink.setAttribute('aria-label', 'Llegir la notícia completa de la pàgina ' + n);
-        articleLink.style.cssText = 'display:block;text-align:center;padding:14px;background:#df5787;color:#fff;border-radius:12px;font-weight:700;text-decoration:none;margin:-4px 0 12px';
-        viewerPages.append(articleLink);
-      }
     }
   } catch (error) {
     if (request !== viewerRequest) return;
