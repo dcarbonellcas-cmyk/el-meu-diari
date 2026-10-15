@@ -124,6 +124,45 @@ def select_items(feeds, limit=None):
 
 
 
+def news_priority(item):
+    """Approximate editorial priority from explicit headline topics, not truth or popularity."""
+    import unicodedata
+    title = ''.join(c for c in unicodedata.normalize('NFKD', item.get('title', '').casefold())
+                    if not unicodedata.combining(c))
+    category = ''.join(c for c in unicodedata.normalize('NFKD', item.get('category', '').casefold())
+                       if not unicodedata.combining(c))
+    retrospective = bool(re.search(r'\b(homenatge|aniversari|commemoracio|recorda|historia)\b|fa \d+ anys', title))
+    opinion = bool(re.search(r'\b(opinio|editorial|critica|horoscop)\b', category))
+    urgent = re.search(r'\b(evacuacio|evacuen|evacuar|confinament|confinar|tsunami|terratremol|atemptat|bombardeig|inundacions|aiguats)\b|alerta (vermella|maxima)|risc extrem|emergencia (quimica|nuclear)', title)
+    serious = re.search(r'\b(morts|mortals|victimes|assassinat|guerra|incendi|huraca|temporal|rescat)\b', title)
+    public_impact = re.search(r'\b(pensions|impostos|pressupostos|eleccions|govern|parlament|congres|tribunal|habitatge|lloguers|sanitat|educacio|inflacio|atur|salari|salaris|energia|vaga|transport|rodalies|seguretat)\b', title + ' ' + category)
+    culture = re.search(r'\b(cultura|esports|esport|gastronomia|gent|estils|curiositats|oci)\b', category)
+    if opinion:
+        level = 6
+    elif urgent and not retrospective:
+        level = 0
+    elif serious and not retrospective:
+        level = 1
+    elif public_impact and not retrospective:
+        level = 2
+    elif culture or retrospective:
+        level = 5
+    else:
+        level = 3
+    # Daily weather remains easy to find ahead of lighter stories.
+    if item.get('category') == 'El temps' and level > 2:
+        level = 3
+    try:
+        timestamp = datetime.fromisoformat(item.get('updated') or item['published']).timestamp()
+    except (KeyError, ValueError, TypeError):
+        timestamp = 0
+    return (level, -timestamp, item.get('url', ''))
+
+
+def rank_news(items):
+    return sorted(items, key=news_priority)
+
+
 def fonts():
     import reportlab
     directory = Path(reportlab.__file__).parent / 'fonts'
@@ -233,7 +272,7 @@ def save_edition(output, items, metadata, now, with_images=True):
     catalog_path = output / 'archive.json'
     catalog = json.loads(catalog_path.read_text()) if catalog_path.exists() else {'editions': []}
     fingerprint = hashlib.sha256(json.dumps({
-        'date': metadata['date'], 'items': items, 'readerFormat': 'broader-daily-v2',
+        'date': metadata['date'], 'items': items, 'readerFormat': 'priority-order-v3',
         'unavailableSources': sorted(metadata['unavailableSources'])
     }, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     latest_path = output / 'latest.json'
@@ -305,7 +344,7 @@ def main():
                 previous_items = saved.get('items', [])
         except (ValueError, TypeError):
             pass
-    items = merge_day_items(select_items(feeds), previous_items, now)
+    items = rank_news(merge_day_items(select_items(feeds), previous_items, now))
     if not args.fixtures:
         attach_video_links(items, feeds, download)
     day_path.write_text(json.dumps({'date': now.date().isoformat(), 'items': items}, ensure_ascii=False, indent=2) + '\n')
