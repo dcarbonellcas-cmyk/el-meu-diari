@@ -149,9 +149,9 @@ def news_priority(item):
         level = 2
     else:
         level = 2
-    # Daily weather remains easy to find ahead of lighter stories.
-    if item.get('category') == 'El temps' and level > 2:
-        level = 3
+    # Keep the daily forecast among important information, below emergencies.
+    if item.get('category') == 'El temps' and level == 2:
+        level = 1
     try:
         timestamp = datetime.fromisoformat(item.get('updated') or item['published']).timestamp()
     except (KeyError, ValueError, TypeError):
