@@ -192,17 +192,9 @@ def build_pdf(path, items, now, failures, with_images=True):
                                        textColor=INK)
                 paragraph = Paragraph(html.escape(summary), style)
                 _, summary_height = paragraph.wrap(510, 800)
-                if summary_top - summary_height >= 110:
+                if summary_top - summary_height >= 88:
                     paragraph.drawOn(c, 38, summary_top - summary_height)
                     break
-        # Each page links to its own publisher article, never the homepage.
-        article_url = item.get('url', '')
-        if article_url.startswith('https://'):
-            c.setFillColor(PINK)
-            c.roundRect(38, 58, 285, 30, 8, fill=1, stroke=0)
-            text(c, 'Llegir la notícia completa', 50, 78, 260, 11,
-                 color=colors.white, bold=True)
-            c.linkURL(article_url, (38, 58, 323, 88), relative=0, thickness=0)
         c.showPage()
     c.save()
 
@@ -234,7 +226,7 @@ def save_edition(output, items, metadata, now, with_images=True):
     catalog_path = output / 'archive.json'
     catalog = json.loads(catalog_path.read_text()) if catalog_path.exists() else {'editions': []}
     fingerprint = hashlib.sha256(json.dumps({
-        'date': metadata['date'], 'items': items, 'pdfFormat': 'article-links-v1',
+        'date': metadata['date'], 'items': items,
         'unavailableSources': sorted(metadata['unavailableSources'])
     }, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     latest_path = output / 'latest.json'
