@@ -138,17 +138,17 @@ def news_priority(item):
     public_impact = re.search(r'\b(pensions|impostos|pressupostos|eleccions|govern|parlament|congres|tribunal|habitatge|lloguers|sanitat|educacio|inflacio|atur|salari|salaris|energia|vaga|transport|rodalies|seguretat)\b', title + ' ' + category)
     culture = re.search(r'\b(cultura|esports|esport|gastronomia|gent|estils|curiositats|oci)\b', category)
     if opinion:
-        level = 6
+        level = 2
     elif urgent and not retrospective:
         level = 0
     elif serious and not retrospective:
-        level = 1
+        level = 0
     elif public_impact and not retrospective:
-        level = 2
+        level = 1
     elif culture or retrospective:
-        level = 5
+        level = 2
     else:
-        level = 3
+        level = 2
     # Daily weather remains easy to find ahead of lighter stories.
     if item.get('category') == 'El temps' and level > 2:
         level = 3
@@ -160,7 +160,11 @@ def news_priority(item):
 
 
 def rank_news(items):
-    return sorted(items, key=news_priority)
+    ordered = sorted(items, key=news_priority)
+    labels = ['1 · Urgent', '2 · Important', '3 · Altres notícies']
+    for item in ordered:
+        item['priority'] = labels[news_priority(item)[0]]
+    return ordered
 
 
 def fonts():
@@ -212,7 +216,7 @@ def build_pdf(path, items, now, failures, with_images=True):
     c.showPage()
     for index, item in enumerate(items, 2):
         page_header(index)
-        text(c, item['source'] + ' · ' + item['category'], 38, 757, 510, 11, color=PINK, bold=True)
+        text(c, item.get('priority', '') + ' · ' + item['source'] + ' · ' + item['category'], 38, 757, 510, 11, color=PINK, bold=True)
         y = text(c, item['title'], 38, 710, 510, 29, leading=37, bold=True)
         published = datetime.fromisoformat(item['published'])
         y = text(c, ('Actualitzat avui a les ' + datetime.fromisoformat(item['updated']).strftime('%H:%M') if published.date() != now.date() and item.get('updated') else 'Publicat avui a les ' + published.strftime('%H:%M')), 38, y - 18, 510, 10, color=MUTED)
@@ -272,7 +276,7 @@ def save_edition(output, items, metadata, now, with_images=True):
     catalog_path = output / 'archive.json'
     catalog = json.loads(catalog_path.read_text()) if catalog_path.exists() else {'editions': []}
     fingerprint = hashlib.sha256(json.dumps({
-        'date': metadata['date'], 'items': items, 'readerFormat': 'priority-order-v3',
+        'date': metadata['date'], 'items': items, 'readerFormat': 'three-priorities-v4',
         'unavailableSources': sorted(metadata['unavailableSources'])
     }, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     latest_path = output / 'latest.json'
