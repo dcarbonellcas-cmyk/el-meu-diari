@@ -2,9 +2,29 @@
   "date": "2026-10-16",
   "items": [
     {
+      "source": "ARA",
+      "title": "Deu anys per reduir l'obesitat, el consum de tabac i les morts per càncer",
+      "excerpt": "L'esperança de vida a Catalunya és molt elevada: les dades més actualitzades (2024) la situen en els 86,6 anys en les dones i els 81,6 en els homes. Però la realitat demogràfica i social és complexa. Hi ha més malalties cròniques i situacions de dependència i fragilitat, més problemes de salut mental i més desigualtats socioeconòmiques, per la qual cosa els anys viscuts amb bona salut baixen fins als 67 en les dones i fins als 68 en els homes. En altres paraules: les catalanes…",
+      "url": "https://www.ara.cat/societat/salut/deu-anys-reduir-obesitat-consum-tabac-morts-cancer-pla-de-salut-generalitat_1_5879816.html",
+      "published": "2026-10-16T15:07:59+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7e4e5307-10a4-4d7b-9120-a7d0fee24b88_16-9-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "La Fiscalia demana jutjar Laiglesia per l'assassinat de Jubany i la jutgessa ho decidirà d'aquí tres dies",
+      "excerpt": "Dies clau per al desenllaç de la causa per l'assassinat d'Helena Jubany, vint-i-cinc anys després. Aquest divendres s'ha celebrat una sessió als jutjats de Sabadell en la qual la Fiscalia ha demanat que la jutgessa del cas enviï a judici, amb jurat popular, l'únic investigat, Santi Laiglesia, acusat d'haver matat Jubany l'any 2001 . Al seu torn, la defensa de l'investigat ha demanat que s'arxivi el cas, i ha qüestionat les proves d'ADN que l'incriminen. Ara la jutgessa ha de decidir en un termini màxim…",
+      "url": "https://www.ara.cat/societat/justicia/fiscalia-demana-jutjar-laiglesia-l-assassinat-jubany-jutgessa-ho-decidira-d-tres-dies_1_5880973.html",
+      "published": "2026-10-16T14:54:42+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/282f9c70-6027-4e5a-a673-43c5abe623ae_16-9-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "La jutgessa decidirà si envia a judici Santi Laiglesia per l’assassinat d’Helena Jubany, 25 anys després",
-      "excerpt": "El principal sospitós del crim resta pendent de la resolució judicial després de l’audiència preliminar d’avui · La defensa intenta invalidar la prova d’ADN que el vincula amb la víctima",
+      "excerpt": "El principal sospitós del crim resta pendent de la resolució judicial després de l’audiència preliminar d’avui · La defensa intenta d'invalidar la prova d’ADN que el vincula amb la víctima",
       "url": "https://www.vilaweb.cat/noticies/jutgessa-decideix-judici-santi-laiglesia-assassinat-helena-jubany/",
       "published": "2026-10-16T14:37:49+02:00",
       "category": "Policia i justícia",
@@ -40,7 +60,7 @@
     {
       "source": "VilaWeb",
       "title": "Front comú del govern i els Mossos contra les ciberestafes, el segon delicte més denunciat a Catalunya",
-      "excerpt": "Es preveu reforçar la prevenció i les investigacions policíaques i crear una comissaria virtual",
+      "excerpt": "És previst de reforçar la prevenció i les investigacions policíaques i crear una comissaria virtual",
       "url": "https://www.vilaweb.cat/noticies/front-comu-govern-mossos-contra-ciberestafes-segon-delicte-mes-denunciat-catalunya/",
       "published": "2026-10-16T14:32:24+02:00",
       "category": "Policia i justícia",
@@ -144,6 +164,56 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "Les víctimes de la gota freda convoquen una manifestació de dol pel segon aniversari amb el lema “Mazón a presó”",
+      "excerpt": "La mobilització serà el 31 d’octubre a València i farà el recorregut invers al de la primera manifestació · Les associacions exigeixen responsabilitats i denuncien que el Consell continua essent el mateix que va gestionar la tragèdia",
+      "url": "https://www.vilaweb.cat/noticies/manifestacio-segon-aniversari-gota-freda-valencia-31-octubre-mazon-preso/",
+      "published": "2026-10-16T15:49:48+02:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La FIFA sanciona la selecció espanyola pels càntics islamòfobs contra Egipte a Cornellà",
+      "excerpt": "La selecció espanyola haurà de jugar el pròxim amistós amb un 15% de les graderies tancades pels càntics discriminatoris que es van sentir durant el partit disputat a Cornellà",
+      "url": "https://www.vilaweb.cat/noticies/fifa-sanciona-espanya-cantics-islamofobs-egipte-cornella/",
+      "published": "2026-10-16T15:36:43+02:00",
+      "category": "Esports",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "15 anys del Catakrac: Quan opinàvem sobre quant cobraven els polítics",
+      "excerpt": "A la secció ‘Catakrac 15 anys’ recuperem un divertit ‘Què de què?’ de fa 13 anys dedicat a una pregunta que continua despertant molta curiositat: què cobren els polítics? Descobrirem què pensaven aleshores els nens i nenes sobre els sous dels representants polítics i quines quantitats imaginaven. Un viatge al passat per comparar les seves […]",
+      "url": "https://beteve.cat/catakrac/quant-cobraven-els-politics/",
+      "published": "2026-10-16T15:24:44+02:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/catakrac-15-anys-politics-sous-2026-10-16.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Protecció Civil enviarà un Es-Alert per la previsió de xàfecs intensos dissabte al Maresme, el Vallès Oriental i la Selva",
+      "excerpt": "El Meteocat eleva el grau de perill a 5 sobre 6 i no descarta d’ampliar l’avís a més comarques · Es poden superar 40 litres per metre quadrat en mitja hora i hi podria haver acumulacions esporàdiques de 100 litres",
+      "url": "https://www.vilaweb.cat/noticies/proteccio-civil-es-alert-xafecs-dissabte-maresme-valles-oriental-selva/",
+      "published": "2026-10-16T15:13:23+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El 42% de les persones que ara tenen més de 55 anys patirà algun tipus de demència",
+      "excerpt": "Així s'alerta en un informe de l'Hospital Sant Joan de Déu, que també subratlla que l'edatisme i la soledat no volguda agreugen els problemes de salut mental dels majors de 60 anys",
+      "url": "https://www.3cat.cat/3catinfo/el-42-de-les-persones-que-ara-tenen-mes-de-55-anys-patira-algun-tipus-de-demencia/noticia/3434409/",
+      "published": "2026-10-16T15:04:33+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/1/1792147988414.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Què fer aquest cap de setmana a Barcelona? Agenda",
       "excerpt": "Afegeix betevé com a font preferida A l’agenda de betevé ens encanta remenar i triar els millors plans de la ciutat! Com que n’hi ha tants, mirem de fer-te’n una selecció, tot i que ja saps que la llista és gairebé infinita. Aquestes són les nostres recomanacions per a aquest cap de setmana. 🤸 Tres […]",
@@ -164,6 +234,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "La vida de Caterina Albert",
+      "excerpt": "Aquesta setmana a ‘Dones que fan història‘ descobrim la figura de Caterina Albert, una de les grans escriptores de la literatura catalana. Nascuda a l’Escala el 1869, va viure en una època en què les dones tenien moltes dificultats per accedir a la cultura i al món de les lletres. Tot i això, la seva […]",
+      "url": "https://beteve.cat/catakrac/la-vida-de-caterina-albert/",
+      "published": "2026-10-16T14:52:21+02:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/caterina-albert-ia-2026-10-16.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Acord de França i Alemanya per mantenir els cotxes de combustió a Europa més enllà del 2035",
       "excerpt": "Nou revés per als objectius climàtics de la Unió Europea. Els motors econòmics del continent, França i Alemanya, han arribat a un acord aquest divendres per suavitzar les exigències climàtiques del sector de l'automòbil i mantenir la fabricació de vehicles de combustió més enllà del 2035. Així ho ha anunciat el govern francès en un comunicat, en què detalla que el pacte també inclou eines per reforçar les condicions de producció dins d'Europa. Aquesta proposta ha estat una gran demanda dels fabricants europeus, que actualment…",
@@ -175,8 +255,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La JEC cita Comín a anar a Madrid a prometre la constitució espanyola dos dies abans del seu retorn de l’exili",
-      "excerpt": "L’eurodiputat electe de Junts vol recuperar l’escó al Parlament Europeu després de més de dos anys sense poder ocupar-lo",
+      "title": "La JEC cita Comín a anar a Madrid a prometre la constitució espanyola dos dies abans que torni de l’exili",
+      "excerpt": "L’eurodiputat electe de Junts vol recuperar l’escó al Parlament Europeu, que fa més de dos anys que no pot ocupar · Manté el recurs contra l’obligació d’acatar la constitució espanyola · Comín demanarà de posposar la cita",
       "url": "https://www.vilaweb.cat/noticies/jec-comin-madrid-prometre-constitucio-retorn-exili/",
       "published": "2026-10-16T14:46:25+02:00",
       "category": "Principat",
@@ -204,6 +284,26 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "Sánchez i Meloni acorden retirar els controls migratoris implantats arran de la crisi de Ceuta",
+      "excerpt": "Els ministres de l'Interior dels dos estats es reuniran per negociar mesures alternatives que permetin posar fi als controls actuals, que Itàlia ha prorrogat una setmana més",
+      "url": "https://www.3cat.cat/3catinfo/sanchez-i-meloni-acorden-retirar-els-controls-migratoris-implantats-arran-de-la-crisi-de-ceuta/noticia/3434433/",
+      "published": "2026-10-16T14:39:22+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/5/1792142503350.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Manolo González: “Si fem les coses bé tenim opcions de tombar l’Atlètic de Madrid”",
+      "excerpt": "El Reial Club Esportiu Espanyol rebrà, aquest dissabte, a les 14 hores, l’Atlètic de Madrid en la novena jornada de la Lliga. El conjunt blanc-i-blau és 12è a la classificació amb vuit punts i arriba al matx contra els matalassers amb molts dubtes després de tres partits sense guanyar. Manolo González tenia molt clar que […]",
+      "url": "https://beteve.cat/esports/manolo-gonzalez-tenim-opcions-tumbar-atletic-madrid/",
+      "published": "2026-10-16T14:39:21+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/manolo-gonzalez-previa-atletic-madrid-2026-10-16.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "El TJUE obliga els bancs a retornar els diners d'un frau encara que al·leguin negligència greu del client",
       "excerpt": "El Tribunal de Justícia de la Unió Europea (TJUE) ha sentenciat que una negligència greu comesa per un client no eximeix el proveïdor de serveis de pagament de la seva obligació de tornar immediatament l'import d'una operació no autoritzada. Tot i això, \"el proveïdor de serveis de pagament podrà reclamar posteriorment al client el reemborsament de les pèrdues derivades d'una negligència greu comesa per aquest últim\", diu el servei de premsa del TJUE en un comunicat.",
@@ -216,7 +316,7 @@
     {
       "source": "VilaWeb",
       "title": "L’Audiència de Barcelona avala la investigació al CNI per l’espionatge a Aragonès amb Pegasus",
-      "excerpt": "El tribunal manté la investigació contra l’ex-directora dels serveis secrets espanyols, Paz Esteban, i avala la petició de desclassificar informació reservada, però limita el període investigat",
+      "excerpt": "El tribunal manté la investigació contra l’ex-directora dels serveis secrets espanyols, Paz Esteban, i avala la petició de desclassificar informació reservada, limitada al període investigat",
       "url": "https://www.vilaweb.cat/noticies/audiencia-barcelona-avala-investigacio-cni-espionatge-aragones-pegasus/",
       "published": "2026-10-16T14:28:56+02:00",
       "category": "Policia i justícia",
@@ -331,6 +431,16 @@
       "published": "2026-10-16T13:13:36+02:00",
       "category": "Societat",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’antiga Roma sobreviu a les ones: conversa amb Iban Martín abans del seu salt al Teatre Borràs",
+      "excerpt": "L’antiga Roma continua ben viva als auriculars de milers d’oients gràcies al divulgador històric Iban Martín, creador i veu de Roma Aeterna, que actualment forma part de Podium Podcast. El rebem per descobrir les històries que s’amaguen darrere dels grans noms de l’antiguitat i parlar de César, el hombre que desafió a Roma, l’espectacle que […]",
+      "url": "https://beteve.cat/tot-passa/lantiga-roma-sobreviu-a-les-ones-conversa-amb-iban-martin-abans-del-seu-salt-al-teatre-borras/",
+      "published": "2026-10-16T13:12:27+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/totpassa_161026-2026-10-16.webp",
       "priority": "3 · Altres notícies"
     },
     {
@@ -530,7 +640,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Avis vermell per pluja intensa demà, dissabte, al Maresme, la Selva i el Vallès Oriental",
+      "title": "Avís vermell per pluja intensa demà, dissabte, al Maresme, la Selva i el Vallès Oriental",
       "excerpt": "A la tarda la pluja descarregarà amb força al nord-est de Catalunya",
       "url": "https://www.vilaweb.cat/noticies/avis-vermell-pluja-intensa-dissabte/",
       "published": "2026-10-16T11:47:36+02:00",
@@ -661,7 +771,7 @@
     {
       "source": "3CatInfo",
       "title": "Rufián i Colau assumeixen que no hi haurà candidatura conjunta el 29N enmig de retrets",
-      "excerpt": "Colau demana al candidat d'ERC que no abaixi els braços i fa una última crida a Irene Montero",
+      "excerpt": "Fins a la mitjanit tenen temps per arribar a un pacte in extremis, i tot i que hi ha crides a les negociacions d'última hora els retrets han marcat les últimes declaracions",
       "url": "https://www.3cat.cat/3catinfo/rufian-sobre-una-coalicio-desquerres-in-extremis-he-fracassat-queden-hores-pero-es-probable-que-no-passi/noticia/3434422/",
       "published": "2026-10-16T10:27:48+02:00",
       "category": "Actualitat",
@@ -951,7 +1061,12 @@
       "published": "2026-10-16T06:42:38+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/0/0/1792088618800.jpeg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6430804/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/lestada-als-allotjaments-durgencia-de-barcelona-es-cronifica/noticia/3434239/"
+      }
     },
     {
       "source": "3CatInfo",
