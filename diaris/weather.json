@@ -1,20 +1,20 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-16T18:44:52.285055+02:00",
+  "updatedAt": "2026-10-16T19:41:27.182948+02:00",
   "forecast": {
     "source": "3CatInfo · El temps",
-    "title": "La previsió de divendres: últim dia de temps càlid i tranquil",
-    "excerpt": "Temperatura elevada i alguns núvols baixos, sobretot al matí",
-    "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/",
-    "published": "2026-10-15T19:00:59+02:00",
-    "updated": "2026-10-16T18:39:15+02:00",
+    "title": "La previsió del cap de setmana: aiguats la tarda de dissabte",
+    "excerpt": "Tarda de dissabte amb risc de pluges torrencials sobretot al Maresme, Vallès Oriental i la Selva",
+    "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/",
+    "published": "2026-10-16T10:55:23+02:00",
+    "updated": "2026-10-16T18:44:41+02:00",
     "category": "El temps",
-    "image": "https://img.3cat.cat/multimedia/jpg/0/6/1792163310560.jpg",
+    "image": "https://img.3cat.cat/multimedia/jpg/1/4/1792169054241.jpg",
     "video": {
-      "url": "https://www.3cat.cat/3cat/video/6430884/embed/",
+      "url": "https://www.3cat.cat/3cat/video/6430890/embed/",
       "source": "3CatInfo · El temps",
-      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/"
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/"
     },
-    "priority": "2 · Important"
+    "priority": "1 · Urgent"
   }
 }

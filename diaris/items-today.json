@@ -2,6 +2,22 @@
   "date": "2026-10-16",
   "items": [
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió del cap de setmana: aiguats la tarda de dissabte",
+      "excerpt": "Tarda de dissabte amb risc de pluges torrencials sobretot al Maresme, Vallès Oriental i la Selva",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/",
+      "published": "2026-10-16T10:55:23+02:00",
+      "updated": "2026-10-16T18:44:41+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/4/1792169054241.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6430890/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/"
+      },
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "La jutgessa envia a judici Santi Laiglesia, principal sospitós de l’assassinat d’Helena Jubany",
       "excerpt": "La causa queda arxivada provisionalment per a Xavi Jiménez, una altra persona de l'entorn de la víctima",
@@ -67,22 +83,6 @@
       "priority": "1 · Urgent"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió del cap de setmana: aiguats la tarda de dissabte",
-      "excerpt": "Tarda de dissabte amb risc de pluges torrencials sobretot al Maresme, Vallès Oriental i la Selva",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/",
-      "published": "2026-10-16T10:55:23+02:00",
-      "updated": "2026-10-16T11:56:48+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpeg/1/3/1792137231431.jpeg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6430774/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/"
-      },
-      "priority": "1 · Urgent"
-    },
-    {
       "source": "3CatInfo",
       "title": "Un tiroteig en una escola de primària d'Oregon deixa 4 morts i 2 ferits crítics",
       "excerpt": "El sospitós del tiroteig, un adolescent de 16 anys, ha estat abatut a trets per un veí que l'ha seguit, segons ha informat la policia",
@@ -91,6 +91,16 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/7/1792127642370.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El sindicat SEMAF convoca una vaga a RENFE el 29 d’octubre per exigir millores de seguretat",
+      "excerpt": "El sindicat SEMAF denuncia el blocatge dels acords sobre seguretat ferroviària, protocols davant emergències meteorològiques i contractació de personal",
+      "url": "https://www.vilaweb.cat/noticies/maquinistes-renfe-vaga-29-octubre-seguretat-ferroviaria-semaf/",
+      "published": "2026-10-16T19:12:28+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo · El temps",
@@ -229,6 +239,116 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "“La notació musical va inaugurar el desig de controlar els sons”",
+      "excerpt": "Aquest cap de setmana, els esplendorosos Jardins de Cap Roig, enlairats sobre les cales de Palafrugell, s’han convertit en escenari de luxe de les segones Trobades de Cap Roig, organitzades per la Fundació La Caixa i la revista La Maleta de Portbou , unides sota la iniciativa de l’Escola Europea d’Humanitats. El simposi reuneix escriptors, científics, filòsofs i artistes de disciplines diverses al voltant del lema \"El sentit de la natura\", que convida a reflexionar sobre la relació entre els humans i el món natural.",
+      "url": "https://llegim.ara.cat/actualitat/alessandro-baricco-notacio-musical-inaugurar-desig-controlar-sons_1_5881425.html",
+      "published": "2026-10-16T19:37:11+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2d6648c2-0689-4da2-a18e-21209abfb7b3_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tesla Roadster: el primer cotxe volador",
+      "excerpt": "Elon Musk està d’enhorabona. Nou anys després del seu anunci, Tesla per fi ha mostrat les primeres imatges i capacitats tècniques del Roadster, l’esportiu biplaça elèctric de la marca nord-americana. De fet, el primer Tesla Roadster va ser presentat l’any 2006, aprofitant la base del Lotus Elise vigent en aquell moment, però transformant-lo en un cotxe elèctric. Tesla va vendre unes 2.000 unitats del primer Roadster entre els anys 2008 i 2012, abans de deixar-lo de fabricar i convertir-lo en un cotxe molt cobejat pels…",
+      "url": "https://motor.ara.cat/novetats/tesla-roadster-cotxe-volador_1_5881151.html",
+      "published": "2026-10-16T19:36:03+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/73febde0-4804-4047-a3dc-a17d16902e67_16-9-aspect-ratio_default_1061124.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Trump diu que la nova secretària de premsa hauria de considerar deixar el càrrec",
+      "excerpt": "Katie Zacharia podria convertir-se en una de les secretàries de premsa de la Casa Blanca més breus de la història. El president estatunidenc, Donald Trump, ha dit aquest divendres als periodistes que la nova portaveu del govern hauria de reconsiderar el seu càrrec. \"No crec que la Katie hagi de patir com està patint a mans de la premsa\", ha dit el republicà dos dies després que la dona s'estrenés al càrrec amb una brevíssima i dubitativa compareixença de premsa.",
+      "url": "https://www.ara.cat/internacional/estats-units/trump-diu-nova-secretaria-premsa-hauria-considerar-deixar-carrec_1_5881434.html",
+      "published": "2026-10-16T19:26:53+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/84ed965e-10e5-4c83-a8c2-1e333b798d73_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El pont ferroviari més antic de Catalunya, amenaçat per les riuades",
+      "excerpt": "Dues setmanes després del temporal de principis de mes, el pont del Besòs continua acumulant una gran quantitat de brossa, canyes i materials d'obra",
+      "url": "https://www.3cat.cat/3catinfo/el-pont-ferroviari-mes-antic-de-catalunya-amenacat-per-les-riuades/noticia/3434491/",
+      "published": "2026-10-16T19:22:45+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/6/8/1792167818086.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Ara que no s'ofengui ningú",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ara-no-s-ofengui-ningu-17-10-2026_134_5880683.html",
+      "published": "2026-10-16T19:05:26+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Duncan Jones presenta a Sitges la resposta britànica a Marvel",
+      "excerpt": "Quan ja enfila la recta final, el Festival de Sitges ha rebut aquest divendres un dels seus fills pròdigs, Duncan Jones, el fill de David Bowie que el 2009 es va estrenar com a director amb Moon i va guanyar el premi a la millor pel·lícula del festival. “Estic molt content de tornar a Sitges, és un festival increïble”, ha exclamat un Jones eufòric que carregava una motxilla, picada d’ullet a la seva nova pel·lícula: Rogue Trooper , el seu primer llarg íntegrament animat, que…",
+      "url": "https://www.ara.cat/cultura/cinema/rogue-trooper-duncan-jones-sitges-resposta-britanica-marvel_1_5881239.html",
+      "published": "2026-10-16T19:04:36+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b6de5597-43ac-4cf7-9381-3b1ba7f1b6a7_16-9-aspect-ratio_default_0_x897y300.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La festa gastronòmica del producte fresc a la plaça de les Glòries amb Mercat de Mercats",
+      "excerpt": "Un any més els mercats municipals surten al carrer i s’apropen més que mai a la ciutadania amb la fira Mercat de Mercats. Fins al 18 d’octubre a la plaça de les Glòries, que ja s’ha consolidat com a ubicació de l’esdeveniment, s’hi pot comprar producte fresc, fer tallers i aprendre a elaborar receptes, degustar […]",
+      "url": "https://beteve.cat/estils-de-vida/mercat-mercats-festa-producte-fresc-placa-glories/",
+      "published": "2026-10-16T19:03:24+02:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/MERCAT_DE_MERCATS_ESPETO-2026-10-16.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-17-10-2026_134_5880309.html",
+      "published": "2026-10-16T19:00:20+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els Magatzems del Pilar diuen adeu després de 140 anys d’història: “Tot té un inici i un final”",
+      "excerpt": "Enmig d’un barri col·lapsat per la pressió turística com és el Gòtic, cada cop són menys els reductes de la Barcelona original. Aquest divendres la ciutat lamenta la pèrdua d’un comerç emblemàtic més com són els Magatzems del Pilar, dedicats a la venda d’indumentària tradicional catalana com ara vestits per a pubilles, rets, mantellines des […]",
+      "url": "https://beteve.cat/economia/magatzems-pilar-adeu-140-anys-historia/",
+      "published": "2026-10-16T18:52:38+02:00",
+      "category": "comerç",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/magatzems-pilar-tancament-4-2026-10-15.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Xavier Morral",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/xavier-morral/",
+      "published": "2026-10-16T18:47:17+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Aquest cap de setmana, molt pendents del cel (i dels termòmetres)",
+      "excerpt": "Som a les portes de l’anunciat important canvi de temps. Hem viscut les últimes hores de calma i calor per a l’època, i aquest cap de setmana la situació meteorològica viurà un gir radical. Serà a partir del migdia i la tarda de dissabte quan els xàfecs i les tempestes guanyaran terreny de sud a nord en moltes comarques. I diumenge serà un dia gris, plujós i sobtadament més fred. La pluja pot ser forta i, en alguns casos, anar acompanyada d’aiguats torrencials que deixin…",
+      "url": "https://www.ara.cat/previsions/aquest-cap-setmana-pendents-cel-dels-termometres_1_5881188.html",
+      "published": "2026-10-16T18:45:54+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3b1090d8-2ee8-4b56-88e5-8d754d8aac98_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Droga, prostitució i insalubritat: s’agreuja el malson d’uns veïns de l’Eixample per un narcopís",
       "excerpt": "La situació de la finca del número 130 del carrer del Comte d’Urgell on hi ha un narcopís, lluny de solucionar-se, està empitjorant. Un mes després de denunciar públicament la situació, un equip de betevé ha pogut accedir a l’edifici afectat i ha comprovat els greus problemes d’insalubritat que pateixen els veïns del bloc. De […]",
@@ -236,6 +356,16 @@
       "published": "2026-10-16T18:38:43+02:00",
       "category": "societat",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/narcopis-urgell-2026-10-15.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La justícia europea diu que el banc hauria de tornar immediatament els diners de les ciberestafes",
+      "excerpt": "Segons la sentència del TJUE, els bancs poden reclamar el reemborsament al client si demostren que hi va haver negligència greu",
+      "url": "https://www.3cat.cat/3catinfo/la-justicia-europea-diu-que-el-banc-hauria-de-tornar-immediatament-els-diners-de-les-ciberestafes/noticia/3434550/",
+      "published": "2026-10-16T18:36:33+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/1/1792164755417.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -256,6 +386,16 @@
       "published": "2026-10-16T18:34:42+02:00",
       "category": "Espanya",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Zelenski demana a la UE finançament i suport en defensa aèria \"per superar l'hivern\"",
+      "excerpt": "La presidenta de la Comissió Europea, Ursula von der Leyen, assegura que no s'aixecaran les sancions econòmiques a Rússia",
+      "url": "https://www.3cat.cat/3catinfo/zelenski-demana-a-la-ue-financament-i-suport-en-defensa-aeria-per-superar-lhivern/noticia/3434477/",
+      "published": "2026-10-16T18:33:38+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/7/1792152780473.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -301,7 +441,7 @@
     {
       "source": "ARA",
       "title": "Dimiteix la portaveu del PSOE pels negocis immobiliaris de la seva parella",
-      "excerpt": "La portaveu del PSOE, Montse Mínguez, dimiteix després de les informacions sobre els negocis immobiliaris de la seva parella. La diputada per Lleida ha anunciat aquest divendres que \"fa un pas enrere\" amb la \"consciència tranquil·la\" en un comunicat publicat a les xarxes socials. \"He pres la decisió convençuda que és el millor per al projecte col·lectiu al qual he dedicat les meves millors energies\", assegura Mínguez.",
+      "excerpt": "Montse Mínguez dimiteix després de l'escàndol que s'ha generat els últims dies pels negocis immobiliaris de la seva parella. La portaveu del PSOE ha anunciat aquest divendres que \"fa un pas enrere\" amb la \"consciència tranquil·la\" en un comunicat publicat a les xarxes socials. \"He pres la decisió convençuda que és el millor per al projecte col·lectiu al qual he dedicat les meves millors energies\", assegura. D'aquesta manera, Mínguez no repetirà com a cap de llista del PSC per Lleida en les pròximes eleccions espanyoles,…",
       "url": "https://www.ara.cat/politica/dimiteix-portaveu-psoe-montse-minguez-pels-negocis-immobiliaris-marit_1_5881221.html",
       "published": "2026-10-16T18:17:35+02:00",
       "category": "Actualitat",
@@ -311,7 +451,7 @@
     {
       "source": "VilaWeb",
       "title": "Montse Mínguez dimiteix com a portaveu del PSOE arran de les crítiques pels negocis immobiliaris de la seva parella",
-      "excerpt": "La dirigent socialista anuncia la decisió a les xarxes socials i renuncia també a encapçalar la llista per Lleida a les eleccions espanyoles",
+      "excerpt": "La dirigent socialista anuncia la decisió a les xarxes socials i renuncia també a encapçalar la llista per Lleida a les eleccions espanyoles · Cristina Morón la substituirà com a cap de llista",
       "url": "https://www.vilaweb.cat/noticies/montse-minguez-dimiteix-portaveu-psoe-negocis-immobiliaris-parella/",
       "published": "2026-10-16T18:17:03+02:00",
       "category": "Espanya",
@@ -410,8 +550,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "La jutge envia a judici Santi Laiglesia, principal sospitós de la mort Helena Jubany, 25 anys després",
-      "excerpt": "S'arxiva provisionalment la causa contra Xavier Jiménez",
+      "title": "La jutge envia a judici Santi Laiglesia, principal sospitós de la mort d'Helena Jubany, 25 anys després",
+      "excerpt": "El judici a Laiglesia serà amb jurat popular, mentre s'arxiva provisionalment la causa contra Xavier Giménez",
       "url": "https://www.3cat.cat/3catinfo/la-jutge-envia-a-judici-santi-laiglesia-pel-cas-helena-jubany/noticia/3434560/",
       "published": "2026-10-16T17:22:00+02:00",
       "category": "Actualitat",
@@ -1255,7 +1395,7 @@
       "url": "https://www.ara.cat/internacional/europa/espanya-italia-treballen-aixecar-controls-fronterers_1_5880735.html",
       "published": "2026-10-16T10:14:43+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/fae54b5c-91bd-4d6d-aa2a-0e39a5556437_16-9-aspect-ratio_default_0_x743y226.jpg",
+      "image": "https://static1.ara.cat/clip/36928586-0e95-4f7b-88e9-6b8c108290c3_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
