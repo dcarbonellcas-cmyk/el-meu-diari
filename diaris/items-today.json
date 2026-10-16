@@ -58,6 +58,22 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de divendres: últim dia de temps càlid i tranquil",
+      "excerpt": "Temperatura elevada i alguns núvols baixos, sobretot al matí",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/",
+      "published": "2026-10-15T19:00:59+02:00",
+      "updated": "2026-10-16T16:13:13+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/4/1792128774545.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6430872/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "Front comú del govern i els Mossos contra les ciberestafes, el segon delicte més denunciat a Catalunya",
       "excerpt": "És previst de reforçar la prevenció i les investigacions policíaques i crear una comissaria virtual",
@@ -118,22 +134,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de divendres: últim dia de temps càlid i tranquil",
-      "excerpt": "Temperatura elevada i alguns núvols baixos, sobretot al matí",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/",
-      "published": "2026-10-15T19:00:59+02:00",
-      "updated": "2026-10-16T11:48:27+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/5/4/1792128774545.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6430764/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "VilaWeb",
       "title": "Compromís, Podem i Esquerra Republicana tanquen un acord per a les eleccions espanyoles",
       "excerpt": "Compromís tindrà els números u i dos de València i l'u de Castelló · El candidat per Alacant és la coordinadora de Podem",
@@ -141,6 +141,16 @@
       "published": "2026-10-16T11:05:30+02:00",
       "category": "País Valencià",
       "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Les esquerres sí que s'uneixen al País Valencià per les eleccions del 29-N",
+      "excerpt": "Moviments d'última hora per intentar tancar un acord in extremis a l'esquerra del PSOE. El Front Ampli –integrat per Més Madrid, Comuns, Sumar i Esquerra Unida– ha proposat a Podem un lloc de sortida a la llista per Madrid de les eleccions generals del 29-N. L'encaix dels noms és un dels principals obstacles als quals s'enfronten les forces polítiques a l'esquerra del PSOE per constituir una alternativa unitària que no dilueixi la identitat de cadascuna d'aquestes forces. Segons ha explicat a TVE Emilio Delgado, el…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/front-ampli-ofereix-montero-posicio-sortida-llista-madrid-pel-29-n_1_5880754.html",
+      "published": "2026-10-16T10:44:07+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f7ac68db-a900-4f73-93f4-805019bb591d_16-9-aspect-ratio_default_1050336.jpg",
       "priority": "2 · Important"
     },
     {
@@ -164,6 +174,86 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1911/",
+      "published": "2026-10-16T16:42:02+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Valls, sobre el bloc Papallona: “L’Ajuntament no ho ha de comprar tot”",
+      "excerpt": "L’Ajuntament està seguint de ben a prop la situació del Bloc Papallona, situat al carrer de Llança, 20, on quatre dels sis veïns que queden han començat una vaga de pagament de lloguers. Una mesura de pressió per demanar la renovació dels contractes i també per forçar l’Ajuntament a comprar l’edifici al fons New Amsterdam […]",
+      "url": "https://beteve.cat/economia/valls-sobre-bloc-papallona-ajuntament-no-comprar/",
+      "published": "2026-10-16T16:29:49+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/12/bloc-papallona-4-171224.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Cada dia els catalans perden mig milió d'euros en ciberestafes",
+      "excerpt": "Mig milió d'euros al dia, més de 20.000 euros cada hora, més de 300 euros cada minut. Aquesta és la quantitat de diners que les ciberestafes s'han endut dels catalans des del 2024. Són 490 milions d'euros en dos anys i mig dividits en 80.000 denúncies anuals fins a l'agost d'enguany. Amb aquestes xifres, les ciberestafes ja són el segon delicte més denunciat del país, i això que els Mossos d'Esquadra avisen que la xifra negra –els ciutadans que pateixen aquests fraus i no ho…",
+      "url": "https://www.ara.cat/societat/successos/dia-catalans-perden-mig-milio-d-euros-ciberestafes_1_5880999.html",
+      "published": "2026-10-16T16:28:35+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fe57ae5a-5096-4a7d-ae23-dcbd6ddfb4c6_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Renfe comença a desballestar el tren incendiat a la línia Barcelona-Madrid",
+      "excerpt": "Renfe ja ha començat les tasques per desballestar el tren que dilluns es va incendiar a la línia d'alta velocitat entre Barcelona i Madrid i que manté aquest corredor funcionant a mig gas des d'aleshores. Els treballs per retirar aquesta part del comboi, la més complicada, van començar la nit de dijous a divendres. Un cop alliberada de ferralla, caldrà comprovar l'estat de la via i la catenària i, si cal, reparar-la. Amb tot, la gestora de la infraestructura, Adif, manté el calendari previst i…",
+      "url": "https://www.ara.cat/societat/mobilitat/renfe-comenca-desballestar-tren-incendiat-linia-barcelona-madrid_1_5881005.html",
+      "published": "2026-10-16T16:18:10+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bce435b8-a79c-46a1-ba59-ccc2f6c1a04f_16-9-aspect-ratio_default_0_x1927y1873.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-735/",
+      "published": "2026-10-16T16:02:26+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Un tallat surt més car als barris amb més pisos turístics anunciats a Airbnb",
+      "excerpt": "El preu d’un tallat varia segons el nombre de pisos anunciats a Airbnb que hi ha a la zona. Així es desprèn de l’estudi El cens del tallat, elaborat per Domestic Data Streamers i Cedra. El director de Domestic Data Studio, Pau Aleikum Garcia, assegura que han vist “una correlació molt directa” i reconeix que […]",
+      "url": "https://beteve.cat/economia/tallat-mes-car-barris-mes-pisos-airbnb/",
+      "published": "2026-10-16T16:00:28+02:00",
+      "category": "consum",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cafeteria-preu-tallat-161026-ok-2026-10-16.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Mourinho, t'estàvem esperant",
+      "excerpt": "Mirar les rodes de premsa de José Mourinho és hipnòtic. Potser pensareu que soc masoquista, però és un espectacle que m'atrapa. Durant els primers mesos d'aquest segon periple a Madrid semblava que ja no era el d'abans. Però els darrers dies ha tornat. Passen els anys i segueix en forma. Quan alça la veu, les seves rodes de premsa són còmiques i tràgiques a la vegada. Commedia dell'arte a la portuguesa.",
+      "url": "https://www.ara.cat/esports/barca/mourinho-t-estavem-esperant_129_5880901.html",
+      "published": "2026-10-16T16:00:14+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fce67b3c-3293-4c48-b0c0-cc4cf2187217_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La meitat de persones en pobresa extrema queden fora de les ajudes socials",
+      "excerpt": "\"Control davant la necessitat, sospita davant la confiança i procediment administratiu davant la urgència\". Així ha resumit el president de la Taula d'Entitats del Tercer Sector Social de Catalunya, Xavier Trabado, l'actual sistema d'atenció social i de prestacions econòmiques. Segons un nou estudi d'aquesta agrupació de 3.000 entitats, la meitat de les persones en situació de pobresa extrema no podrien accedir a les principals prestacions encara que les sol·licités. Això es deuria a les \"barreres invisibles\" que afronten persones en situació de vulnerabilitat a l'hora…",
+      "url": "https://www.ara.cat/societat/emergencia-social/meitat-persones-pobresa-extrema-queden-fora-ajudes-socials_1_5880740.html",
+      "published": "2026-10-16T15:58:29+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c73534eb-ce95-4224-a318-b186e629163c_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Les víctimes de la gota freda convoquen una manifestació de dol pel segon aniversari amb el lema “Mazón a presó”",
       "excerpt": "La mobilització serà el 31 d’octubre a València i farà el recorregut invers al de la primera manifestació · Les associacions exigeixen responsabilitats i denuncien que el Consell continua essent el mateix que va gestionar la tragèdia",
@@ -171,6 +261,16 @@
       "published": "2026-10-16T15:49:48+02:00",
       "category": "País Valencià",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Les famílies d'una escola pública de Barcelona es planten i no pagaran la quota escolar",
+      "excerpt": "Segons ells, aquesta aportació de les famílies compensa i normalitza l'infrafinançament que pateix el sistema educatiu i volen que la iniciativa s'estengui a altres centres",
+      "url": "https://www.3cat.cat/3catinfo/les-families-duna-escola-publica-de-barcelona-es-planten-i-no-pagaran-la-quota-escolar/noticia/3434523/",
+      "published": "2026-10-16T15:40:25+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/3/1789839339032.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -609,6 +709,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "La tallareta del desert asiàtica, observada per primera vegada a Catalunya",
+      "excerpt": "La troballa va coincidir amb el Dia Mundial de les Aus Migradores, durant el Cap de Creus Autumn Weekend, un esdeveniment dedicat al seguiment i anellament d'aus",
+      "url": "https://www.3cat.cat/3catinfo/la-tallareta-del-desert-asiatica-observada-per-primera-vegada-a-catalunya/noticia/3434151/",
+      "published": "2026-10-16T12:10:27+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/6/1792085523364.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Sis mesos del tancament del Casal Cívic i Comunitari Magòria: “Els usuaris continuem desnonats”",
       "excerpt": "El Casal Cívic i Comunitari Barcelona-Magòria continua sense obrir sis mesos després de tancar per risc estructural. Les entitats i usuaris vinculats a l’equipament denuncien a l’Infobarris que la previsió inicial que se’ls va traslladar va ser la de poder reprendre les activitats a l’espai al setembre, però a hores d’ara, lamenten, no hi ha […]",
@@ -720,7 +830,7 @@
     },
     {
       "source": "ARA",
-      "title": "Tebas compara Real Madrid TV amb la propaganda nazi de Goebbels",
+      "title": "Tebas compara Real Madrid TV amb la propaganda nazi i el club blanc exigeix que dimiteixi",
       "excerpt": "\"La direcció del Reial Madrid dirigeix una orquestra de portaCOCES i el Real Madrid TV n'és el màxim exponent. La seva partitura és sempre la mateixa: seleccionar les jugades que interessen, repetir el greuge, alimentar la sospita i assenyalar els enemics. Aquest mètode recorda mecanismes de propaganda que va explotar Goebbels, ministre de Propaganda de l'Alemanya nazi: repetició sistemàtica, construcció d'un enemic i subordinació dels fets al relat\". Aquest és només un fragment de l'extensa piulada que ha fet Javier Tebas, president de la Lliga…",
       "url": "https://www.ara.cat/esports/futbol/tebas-compara-reial-madrid-tv-propaganda-goebbels_1_5880759.html",
       "published": "2026-10-16T11:16:45+02:00",
@@ -749,16 +859,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "ARA",
-      "title": "El Front Ampli ofereix a Montero ser \"la número 2 o 3\" per Madrid el 29-N",
-      "excerpt": "Moviments d'última hora per intentar tancar un acord in extremis a l'esquerra del PSOE. El Front Ampli –integrat per Més Madrid, Comuns, Sumar i Esquerra Unida– ha proposat a Podem un lloc de sortida a la llista per Madrid de les eleccions generals del 29-N. L'encaix dels noms és un dels principals obstacles als quals s'enfronten les forces polítiques a l'esquerra del PSOE per constituir una alternativa unitària que no dilueixi la identitat de cadascuna d'aquestes forces. Segons ha explicat a TVE Emilio Delgado, el…",
-      "url": "https://www.ara.cat/politica/eleccions-generals/front-ampli-ofereix-montero-posicio-sortida-llista-madrid-pel-29-n_1_5880754.html",
-      "published": "2026-10-16T10:44:07+02:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/a3949a9e-0d28-4830-a862-1d1e4eab3bca_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "betevé",
       "title": "El Meteocat eleva els avisos per pluja intensa: avís vermell a tres comarques i l’Inuncat, en alerta",
       "excerpt": "L’episodi de pluges i tempestes que s’iniciarà aquest cap de setmana podria deixar quantitats importants i alguns patacs d’aigua. El Servei Meteorològic de Catalunya ha elevat els seus avisos i Protecció Civil té activada l’alerta del pla Inuncat. Les tempestes més intenses, al final de dissabte El xoc de la massa d’aire fred amb la […]",
@@ -775,7 +875,7 @@
       "url": "https://www.3cat.cat/3catinfo/rufian-sobre-una-coalicio-desquerres-in-extremis-he-fracassat-queden-hores-pero-es-probable-que-no-passi/noticia/3434422/",
       "published": "2026-10-16T10:27:48+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/9/1791817631997.jpg",
+      "image": "https://img.3cat.cat/multimedia/png/4/9/1792158638294.png",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1061,12 +1161,12 @@
       "published": "2026-10-16T06:42:38+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/0/0/1792088618800.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430804/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/lestada-als-allotjaments-durgencia-de-barcelona-es-cronifica/noticia/3434239/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
