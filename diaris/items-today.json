@@ -12,6 +12,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "betevé",
+      "title": "Renfe avisa que el temporal d’aquest cap de setmana pot afectar Rodalies i la resta del servei",
+      "excerpt": "Renfe avisa que el temporal previst per a aquest cap de setmana pot afectar Rodalies i la resta del servei ferroviari. En una publicació a X, recorda que hi ha avisos de xàfecs intensos i demana seguir les indicacions de Protecció Civil. Per això, l’empresa ferroviària assenyala les zones costaneres i recomana consultar l’estat de […]",
+      "url": "https://beteve.cat/mobilitat/renfe-avisa-temporal-afectacions-servei-rodalies/",
+      "published": "2026-10-16T17:18:17+02:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cues-tren-rodalies-2026-10-07.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo",
       "title": "Com es preparen els ajuntaments per fer front als episodis d'inundacions",
       "excerpt": "La falta de personal, la coordinació entre administracions i l'urbanisme limiten la capacitat dels municipis per minimitzar els efectes de les pluges torrencials",
@@ -19,12 +29,12 @@
       "published": "2026-10-16T16:51:53+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/5/1792151355359.jpg",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430474/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/com-es-preparen-els-ajuntaments-per-fer-front-als-episodis-dinundacions/noticia/3434263/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "ARA",
@@ -39,7 +49,7 @@
     {
       "source": "ARA",
       "title": "L'assassinat d'Helena Jubany serà jutjat 25 anys després: la jutgessa envia Santi Laiglesia al banc dels acusats",
-      "excerpt": "La mort d'Helena Jubany, assassinada fa 25 anys, arribarà a judici més de dues dècades després. La jutgessa de Sabadell que instrueix aquesta causa ha decidit enviar a judici Santi Laiglesia, un plet que serà amb jurat a l'Audiència de Barcelona. Aquesta decisió no es pot recórrer, segons fonts judicials, i portarà Laiglesia a seure al banc dels acusats. En l'escrit, la jutgessa conclou que hi ha \"inidicis de criminalitat racionals\" contra Laiglesia.",
+      "excerpt": "La mort d'Helena Jubany, assassinada l'any 2001, arribarà a judici més de dues dècades després. La jutgessa de Sabadell que instrueix aquesta causa ha decidit enviar a judici Santi Laiglesia, un plet que serà amb jurat popular a l'Audiència de Barcelona. Aquesta decisió no es pot recórrer, segons fonts judicials, i portarà Laiglesia a seure al banc dels acusats. En l'escrit, la jutgessa conclou que hi ha \"indicis racionals de criminalitat\" contra Laiglesia.",
       "url": "https://www.ara.cat/societat/justicia/fiscalia-demana-jutjar-laiglesia-l-assassinat-jubany-jutgessa-ho-decidira-d-tres-dies_1_5880973.html",
       "published": "2026-10-16T14:54:42+02:00",
       "category": "Actualitat",
@@ -66,7 +76,7 @@
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpeg/1/3/1792137231431.jpeg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6430776/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6430774/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/"
       },
@@ -88,14 +98,24 @@
       "excerpt": "Temperatura elevada i alguns núvols baixos, sobretot al matí",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/",
       "published": "2026-10-15T19:00:59+02:00",
-      "updated": "2026-10-16T17:09:06+02:00",
+      "updated": "2026-10-16T18:39:15+02:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/5/4/1792128774545.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/6/1792163310560.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6430872/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6430884/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/"
       },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "El regal que hem fet al govern espanyol",
+      "excerpt": "Què tenen en comú la crisi de l’habitatge, les reivindicacions dels docents, el mal funcionament de Rodalies i la pressió sobre el sistema de salut? Una condició imprescindible per resoldre’ls: que la Generalitat disposi de més recursos. Els diners no ho resolen tot, però sense diners moltes solucions no són possibles.",
+      "url": "https://www.ara.cat/opinio/regal-govern-espanyol_129_5880193.html",
+      "published": "2026-10-16T17:42:15+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/02937a9d-cacf-4a07-941e-34ef77fce023_16-9-aspect-ratio_default_0_x1076y473.jpg",
       "priority": "2 · Important"
     },
     {
@@ -207,6 +227,166 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/f1a6f66f-e254-4682-a13f-df748429384b_source-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Droga, prostitució i insalubritat: s’agreuja el malson d’uns veïns de l’Eixample per un narcopís",
+      "excerpt": "La situació de la finca del número 130 del carrer del Comte d’Urgell on hi ha un narcopís, lluny de solucionar-se, està empitjorant. Un mes després de denunciar públicament la situació, un equip de betevé ha pogut accedir a l’edifici afectat i ha comprovat els greus problemes d’insalubritat que pateixen els veïns del bloc. De […]",
+      "url": "https://beteve.cat/societat/situacio-veins-bloc-eixample-empitjora-narcopis/",
+      "published": "2026-10-16T18:38:43+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/narcopis-urgell-2026-10-15.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Puigdemont, Basté i l’última postal de l’exili",
+      "excerpt": "La temporada passada, al Pla seqüència de La 2 Cat, Jordi Basté va entrevistar Salvador Illa només tornar de la seva baixa per malaltia. Aquesta vegada, el periodista ha obert la temporada visitant Carles Puigdemont a Waterloo just abans de tornar a Catalunya. Sens dubte, té el do de l’oportunitat. “De tu o de vostè?”, li va consultar el presentador només obrir la porta. No va tenir més remei que respondre “de tu”. Contestar “de vostè” semblaria un símptoma d’altivesa. Però en contextos periodístics, tant…",
+      "url": "https://www.ara.cat/media/tv/puigdemont-baste-l-ultima-postal-l-exili_129_5881205.html",
+      "published": "2026-10-16T18:35:34+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f36f1c12-cc6d-471b-be5c-750e4ba5c0c6_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les bases de Podem avalen l’acord amb ERC al Principat i la coalició electoral al País Valencià",
+      "excerpt": "El 87,7% dels participants en la consulta interna han donat suport als pactes",
+      "url": "https://www.vilaweb.cat/noticies/montse-minguez-dimiteix-portaveu-psoe-negocis-immobiliaris-parella-2/",
+      "published": "2026-10-16T18:34:42+02:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Dretes i esquerres",
+      "excerpt": "Gabriel Rufián, candidat republicà, ja veu \"molt probable\" que no hi hagi acord unitari d'esquerres i demana \"disculpes als votants\", llegíem divendres a l’ARA . Però, mare meva, que \"les esquerres\" es posin d’acord, en el que sigui, no entra al cap de cap votant de \"les esquerres\". El votant de \"les esquerres\", al contrari del votant de dretes (que no és, en canvi, un votant de \"les dretes\", sinó de \"la dreta\") troba un gran plaer en considerar \"menys d’esquerres\" que ell tots els…",
+      "url": "https://www.ara.cat/opinio/dretes-esquerres_129_5881204.html",
+      "published": "2026-10-16T18:32:44+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bc2366ec-784e-4df3-bd6f-ee28d699eadf_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "29-N: amb antifeixisme no n'hi ha prou",
+      "excerpt": "Una de les perles de saviesa de l' Ètica de Baruch Spinoza és la idea que \"Una emoció no pot ser frenada ni destruïda sinó per una emoció contrària i més forta que l'emoció que es vol frenar\". Crec que és la frase que més repetiré per orientar-me en aquesta campanya electoral tan confusa que ens espera. Perquè aviat farà un parell de dècades que l'única resposta del sistema a la ruptura de contracte social és plantejar el debat polític com una lluita entre la…",
+      "url": "https://www.ara.cat/opinio/29-n-antifeixisme-no-n-hi-prou_129_5881053.html",
+      "published": "2026-10-16T18:27:59+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a4509592-03f3-419c-8962-396c94c748b5_16-9-aspect-ratio_default_0_x675y369.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Dimiteix Montse Mínguez, portaveu del PSOE, després de la polèmica pels negocis immobiliaris de la seva parella",
+      "excerpt": "Fa poc es va saber que la seva parella està al capdavant d'una empresa que gestiona desenes de pisos de lloguer i que hauria ordenat diversos desnonaments",
+      "url": "https://www.3cat.cat/3catinfo/dimiteix-montse-minguez-portaveu-del-psoe-despres-de-la-polemica-pels-negocis-immobiliaris-de-la-seva-parella/noticia/3434569/",
+      "published": "2026-10-16T18:20:39+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/2/1751893830422.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L’Estat voltor",
+      "excerpt": "1. Amb l’avançament electoral, el nou finançament per a Catalunya ha quedat congelat malgrat el castell de focs de la propaganda governamental. Aquells 4.686 milions d’euros addicionals que Espanya havia d’aportar a Catalunya, cada any, a partir de 2027, ja ens els podem pintar a l’oli. I més encara si, a partir del 29-N, al Congrés hi ha una altra mena de majoria. Mai vam confiar que aquest acord de finançament, fet contra totes les autonomies del PP i gairebé totes les del PSOE, s’arribés…",
+      "url": "https://www.ara.cat/opinio/l-voltor_129_5880900.html",
+      "published": "2026-10-16T18:18:13+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a83e06b9-50bf-4510-9414-5768af6b9fff_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Dimiteix la portaveu del PSOE pels negocis immobiliaris de la seva parella",
+      "excerpt": "La portaveu del PSOE, Montse Mínguez, dimiteix després de les informacions sobre els negocis immobiliaris de la seva parella. La diputada per Lleida ha anunciat aquest divendres que \"fa un pas enrere\" amb la \"consciència tranquil·la\" en un comunicat publicat a les xarxes socials. \"He pres la decisió convençuda que és el millor per al projecte col·lectiu al qual he dedicat les meves millors energies\", assegura Mínguez.",
+      "url": "https://www.ara.cat/politica/dimiteix-portaveu-psoe-montse-minguez-pels-negocis-immobiliaris-marit_1_5881221.html",
+      "published": "2026-10-16T18:17:35+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/16f213cd-4284-4852-a673-3e8529ec72ba_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Montse Mínguez dimiteix com a portaveu del PSOE arran de les crítiques pels negocis immobiliaris de la seva parella",
+      "excerpt": "La dirigent socialista anuncia la decisió a les xarxes socials i renuncia també a encapçalar la llista per Lleida a les eleccions espanyoles",
+      "url": "https://www.vilaweb.cat/noticies/montse-minguez-dimiteix-portaveu-psoe-negocis-immobiliaris-parella/",
+      "published": "2026-10-16T18:17:03+02:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Lectures obligatòries: una idea de país",
+      "excerpt": "L’any 2024 vaig escriure en aquest diari un article defensant recuperar les lectures obligatòries a les escoles i instituts, fent avinent que “eliminar les lectures obligatòries és una manera de preservar la lògica de la satisfacció voladissa”. També vaig subratllar que la lectura “comporta la responsabilitat de fer el que considerem bo perquè tenim una visió de país i d’un patrimoni compartit: Flaubert és patrimoni cultural francès. Quin és el nostre?”",
+      "url": "https://www.ara.cat/opinio/lectures-obligatories-idea-pais_129_5880044.html",
+      "published": "2026-10-16T18:14:51+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2ec5dee8-040f-4d21-bb98-f29fff4c5151_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Octubre trist",
+      "excerpt": "Octubre és el desè mes de l’any, segons el calendari gregorià, que és el que ens organitza el temps. Però en el calendari dels romans era el mes vuitè, i d’aquí li ve el nom. De vuit , en llatí.",
+      "url": "https://www.ara.cat/opinio/octubre-trist_129_5880000.html",
+      "published": "2026-10-16T18:14:44+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6529bdcf-3fdd-4a1a-b896-646694692e72_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Arròs i fantasmes colonials a la riba del riu Senegal",
+      "excerpt": "Poques coses expliquen de manera més clara un país que la seva cuina. Els ingredients disponibles resumeixen d’una manera ràpida la història, la política i l’economia d’un territori; també la seva actualitat i les seves perspectives de futur. Al Senegal pocs plats expliquen el país com el ceeb au jën , que en wòlof vol dir literalment \"arròs amb peix\". Aquests dies soc al nord del país amb el fotoperiodista Guillem Trius, seguint una sèrie d’històries vinculades al menjar i la producció agrícola a la…",
+      "url": "https://www.ara.cat/internacional/africa/arros-fantasmes-colonials-riba-riu-senegal_129_5880931.html",
+      "published": "2026-10-16T18:13:33+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ac4e9d7c-6f32-475d-b340-917c739b1dba_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Zelenski demana més diners als líders europeus ara que el suport dels EUA flaqueja",
+      "excerpt": "Volodímir Zelenski vol que Brussel·les faci un pas endavant en l'ajuda per la guerra, ara que el suport dels Estats Units flaqueja. Després que Donald Trump hagi aixecat les sancions al dièsel rus, el president ucraïnès ha demanat als socis europeus que contribueixin a l'esforç de guerra amb 70.000 milions d'euros més per poder \"contenir Rússia\".",
+      "url": "https://www.ara.cat/internacional/europa/zelenski-demana-mes-diners-als-liders-europeus-ara-suport-dels-eua-flaqueja_1_5881076.html",
+      "published": "2026-10-16T18:04:46+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e205bcd8-8664-42f6-9e13-ca54c5eea55c_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Raphinha, una missió difícil (també per a Flick)",
+      "excerpt": "Amb 14 gols en els vuit primers partits, Raphinha es va guanyar a pols el qualificatiu de ser el jugador més determinant de l'inici de temporada del Barça. Unes xifres que molt probablement haurien sigut encara millors si el brasiler no s'hagués lesionat amb la selecció, per la qual cosa s'ha perdut els dos últims partits amb el conjunt blaugrana. No era una lesió greu, només un edema a la cuixa, però ha estat apartat de l'equip un parell de setmanes. Ara ja està disponible,…",
+      "url": "https://www.ara.cat/esports/barca/raphinha-missio-dificil-tambe-flick_1_5880937.html",
+      "published": "2026-10-16T18:00:14+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/90d77882-a0ad-41f2-b588-f7f8d0309b95_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Míriam Iscla, Raquel Ferri i Anna Güell són família a ‘Morning sun’",
+      "excerpt": "L’artista Edward Hopper va pintar el 1952 una noia assentada al llit, banyada per un sol de matí que entra per la finestra que té al davant. El va titular Morning sun, i d’aquí el títol de l’obra teatral que interpreten Míriam Iscla, Raquel Ferri i Anna Güell fins al 22 de novembre a la […]",
+      "url": "https://beteve.cat/cultura/morning-sun-entrevista-la-villarroel/",
+      "published": "2026-10-16T17:54:17+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/actrius-morning-sun-brama-2026-10-16.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'OTAN, Rússia i la dissuasió per càstig",
+      "excerpt": "El 23 de setembre, només una setmana després que els avions de l'OTAN abatessin un dron que havia entrat a l'espai aeri lituà des de Bielorússia, un helicòpter militar rus que sortia de Kaliningrad va violar breument l'espai aeri polonès. Cap de les dues intrusions va ser un episodi aïllat. Un catàleg cada cop més extens d'incidents mostra que la guerra d'agressió del Kremlin contra Ucraïna està pressionant cada cop més ominosament les fronteres de l'OTAN.",
+      "url": "https://www.ara.cat/opinio/l-otan-russia-dissuasio-castig_129_5880904.html",
+      "published": "2026-10-16T17:44:53+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/048fab7d-79f9-4da8-930a-303a2af1b368_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -1051,12 +1231,12 @@
       "published": "2026-10-16T10:27:48+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/png/5/5/1792162740155.png",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430838/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/rufian-sobre-una-coalicio-desquerres-in-extremis-he-fracassat-queden-hores-pero-es-probable-que-no-passi/noticia/3434422/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -1070,8 +1250,8 @@
     },
     {
       "source": "ARA",
-      "title": "Espanya i Itàlia arriben a un acord per aixecar els controls fronterers",
-      "excerpt": "Pedro Sánchez i Giorgia Meloni han pactat una treva. Els dos dirigents han acordat treballar per aixecar aviat els controls fronterers en ports i aeroports, després de dos mesos de retrets per la qüestió migratòria arran de la crisi de Ceuta. La decisió l'han presa els dirigents en una trobada als marges de la cimera de líders de Brussel·les, segons han confirmat fonts diplomàtiques espanyoles a l'ARA.",
+      "title": "Front comú contra Sánchez a la UE per la regularització d'immigrants",
+      "excerpt": "Si la postura de Pedro Sánchez en immigració ja era dissonant amb la resta del bloc, la seva distància amb la resta de socis s'ha anat eixamplant arran de la crisi migratòria de Ceuta. Aquest divendres el president de l'executiu espanyol ha estat el blanc d'una nova crítica per part de Dinamarca, Itàlia i Polònia. La primera ministra italiana, Giorgia Meloni, la primera ministra danesa, Mette Frederiksen, i el primer ministre polonès, Donald Tusk, han carregat contra la decisió de Sánchez de regularitzar milers d'immigrants.…",
       "url": "https://www.ara.cat/internacional/europa/espanya-italia-treballen-aixecar-controls-fronterers_1_5880735.html",
       "published": "2026-10-16T10:14:43+02:00",
       "category": "Actualitat",
@@ -1331,12 +1511,12 @@
       "published": "2026-10-16T06:43:06+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/1/3/1778581653731.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430842/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/crim-dhelena-jubany-arriba-una-vista-clau-que-marcara-el-futur-del-cas/noticia/3434237/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -1361,12 +1541,12 @@
       "published": "2026-10-16T06:40:03+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/3/1792101751337.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430849/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/historia-duna-divisio-cronica-que-separa-lesquerra-i-quants-diputats-li-pot-costar-a-les-urnes-el-29n/noticia/3434316/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
