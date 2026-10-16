@@ -25,12 +25,12 @@
       "published": "2026-10-16T17:22:00+02:00",
       "category": "Policia i justícia",
       "image": null,
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430842/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-jutge-envia-a-judici-santi-laiglesia-pel-cas-helena-jubany/noticia/3434560/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "betevé",
@@ -100,7 +100,7 @@
     {
       "source": "ARA",
       "title": "Els palestins d'Israel tenen la clau de les eleccions, però ningú hi vol pactar",
-      "excerpt": "Molta gent no ho sap, però un 20% de la població d'Israel és palestina. I per primer cop en la seva història aquesta minoria pot ser clau a l'hora de decantar el resultat de les eleccions israelianes del proper 27 d'octubre. Les enquestes apunten a un empat 50-50 entre el bloc de govern de la dreta i la ultradreta de Benjamin Netanyahu i les forces de l'oposició liberal. Amb aquest panorama gairebé inèdit, la minoria àrab tindria la clau de la derrota de Netanyahu, un…",
+      "excerpt": "Molta gent no ho sap, però un 20% de la població d'Israel és palestina. I per primer cop en la seva història aquesta minoria pot ser clau a l'hora de decantar el resultat de les eleccions israelianes del 27 d'octubre. Les enquestes apunten a un empat 50-50 entre el bloc de govern de la dreta i la ultradreta de Benjamin Netanyahu i les forces de l'oposició liberal. Amb aquest panorama gairebé inèdit, la minoria àrab tindria la clau de la derrota de Netanyahu, un candidat…",
       "url": "https://www.ara.cat/internacional/proxim-orient/palestins-d-israel-tenen-clau-eleccions-ningu-hi-vol-pactar_1_5877726.html",
       "published": "2026-10-16T21:57:36+02:00",
       "category": "Actualitat",
@@ -274,6 +274,26 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Atenció a Tànger! (1939)",
+      "excerpt": "De l’article de Manuel Chaves Nogales (Sevilla, 1897 - Londres, 1944) a L'Œuvre (París, 25-VII-1939). Traducció pròpia. Chaves Nogales, periodista republicà exiliat des del 1939, publicava a la premsa francesa. Franco enviava a Ceuta i Tetuan agitadors falangistes. Van fundar a Tànger un diari, España. La geopolítica és sempre infausta per a una Espanya arrogant i sense talent per tractar els seus residus colonials.",
+      "url": "https://www.ara.cat/opinio/atencio-tanger-1939_129_5853909.html",
+      "published": "2026-10-16T23:00:13+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/dce32075-2e4b-499b-a235-31393196fb8f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El Barça troba tard els ploms del Palau",
+      "excerpt": "El millor Barça del que portem de temporada va recuperar un desavantatge de 14 punts contra l'Olympiacos, va forçar la pròrroga, però no va poder completar la gesta (100-105). L'equip blaugrana va jugar amb la passió de Pep Guardiola, que va presenciar el partit en directe, però no va tenir la determinació necessària per superar el campió de l'Eurolliga. Justin Robinson, que fa forçar el temps extra amb un triple, i Tyrese Martin van tenir una gran actuació al Palau Blaugrana.",
+      "url": "https://www.ara.cat/esports/basquet/eurolliga/cronica-barca-olympiacos_1_5880679.html",
+      "published": "2026-10-16T22:43:54+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ec59011c-39b2-447f-ad87-7fe4a21e7e96_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Els esmorzars de forquilla d’un celler d’Horta gairebé centenari",
       "excerpt": "Els esmorzars a la Bodega Massana són una festa cada dia, i ja tenen una clientela del barri d'Horta de Barcelona ben acostumada",
@@ -311,7 +331,12 @@
       "published": "2026-10-16T21:11:11+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/3/1792171168834.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6430861/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-fum-dels-incendis-que-cremen-a-indonesia-des-de-fa-mesos-sescampa-pel-sud-est-asiatic/noticia/3434567/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -646,12 +671,12 @@
       "published": "2026-10-16T18:36:33+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/1/1792164755417.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430910/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-justicia-europea-diu-que-el-banc-hauria-de-tornar-immediatament-els-diners-de-les-ciberestafes/noticia/3434550/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -711,12 +736,12 @@
       "published": "2026-10-16T18:20:39+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/2/1751893830422.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430908/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/dimiteix-montse-minguez-portaveu-del-psoe-despres-de-la-polemica-pels-negocis-immobiliaris-de-la-seva-parella/noticia/3434569/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -736,12 +761,12 @@
       "published": "2026-10-16T18:17:35+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/16f213cd-4284-4852-a673-3e8529ec72ba_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430908/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/dimiteix-montse-minguez-portaveu-del-psoe-despres-de-la-polemica-pels-negocis-immobiliaris-de-la-seva-parella/noticia/3434569/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -751,12 +776,12 @@
       "published": "2026-10-16T18:17:03+02:00",
       "category": "Espanya",
       "image": null,
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430908/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/dimiteix-montse-minguez-portaveu-del-psoe-despres-de-la-polemica-pels-negocis-immobiliaris-de-la-seva-parella/noticia/3434569/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -856,17 +881,17 @@
       "published": "2026-10-16T17:22:00+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/4/0/1792164918604.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430842/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-jutge-envia-a-judici-santi-laiglesia-pel-cas-helena-jubany/noticia/3434560/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
       "title": "Compte enrere per inscriure coalicions per al 29N: el Front Ampli proposa a Podem un acord in extremis",
-      "excerpt": "Els partits han tancat diverses aliances territorials però no s'ha aconseguit arribar a cap acord estatal entre Podem i el Front Ampli",
+      "excerpt": "Podem rebutja trencar l'acord de col·laboració amb ERC, implícit en aquesta proposta, i demana deixar Catalunya i Madrid al marge i concentrar-se en la resta de territoris",
       "url": "https://www.3cat.cat/3catinfo/acaba-el-termini-per-inscriure-coalicions-els-acords-entre-les-formacions-desquerres-per-al-29n/noticia/3434490/",
       "published": "2026-10-16T17:11:03+02:00",
       "category": "Actualitat",
@@ -1181,12 +1206,12 @@
       "published": "2026-10-16T14:39:22+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/5/1792142503350.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430917/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/sanchez-i-meloni-acorden-retirar-els-controls-migratoris-implantats-arran-de-la-crisi-de-ceuta/noticia/3434433/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -1290,8 +1315,8 @@
     },
     {
       "source": "ARA",
-      "title": "Trump critica Zelenski per haver reprès els atacs contra refineries russes: \"És una vergonya\"",
-      "excerpt": "L'enfrontament entre Donald Trump i Volodímir Zelenski es fa més evident cada dia que passa. El president estatunidenc continua pressionant el seu homòleg ucraïnès perquè deixi d'atacar les refineries russes, mentre ell pacta un aixecament de les sancions als hidrocarburs russos i retalla l'ajuda militar a Kíiv. Ucraïna va reprendre aquest dijous els bombardejos contra aquest tipus d'instal·lacions russes, després de tres dies suspesos arran de l'anunci de Trump d'una suposada treva energètica immediata, que Moscou no va assumir ni complir. \"Ja n'hi ha prou\",…",
+      "title": "Crònica de l'última ofensiva de Trump contra Zelenski",
+      "excerpt": "Els somriures de la visita a la Casa Blanca a l'agost o l'ajuda ucraïnesa al Pentàgon per combatre els drons iranians li han durat poc a Donald Trump. En qüestió de dies, la relació entre el president estatunidenc i el seu homòleg ucraïnès, Volodímir Zelenski, ha tornat a degenerar. Ja sigui en forma d'insults directes contra Zelenski o bé per la interrupció dels serveis de Starlink (empresa d'Elon Musk, aliat de Trump) mentre Ucraïna estava sota atacs russos, dimarts passat. Una nova ofensiva del magnat…",
       "url": "https://www.ara.cat/internacional/estats-units/trump-critica-zelenski-repres-atacs-refineries-russes-vergonya_1_5880707.html",
       "published": "2026-10-16T13:27:53+02:00",
       "category": "Actualitat",
@@ -1665,8 +1690,8 @@
     },
     {
       "source": "ARA",
-      "title": "Oferta d'última hora: Colau planteja a Podem que abandoni ERC i se sumi a la seva candidatura a Catalunya",
-      "excerpt": "S'esgota el temps i sembla que el divorci de les esquerres estatals serà inevitable. Les negociacions, però, segueixen obertes amb el termini de la mitjanit per registrar les coalicions per als comicis del 29-N. El Front Ampli que, entre altres, encapçala Ada Colau, ha fet una oferta d'última hora a Podem per intentar salvar la situació: li ofereix un lloc \"prioritari\" a les llistes de Barcelona i de Madrid.",
+      "title": "Les esquerres a l’Estat porten al límit la tensió per la unitat el 29-N",
+      "excerpt": "S’esgota el temps i sembla que el divorci definitiu de les esquerres estatals és inevitable, com a mínim al tancament d’aquesta edició. Les negociacions seguien obertes amb el termini de la mitjanit per registrar les coalicions per als comicis a l’Estat del 29-N. Ja en el temps de descompte, el Front Ampli que, entre altres, encapçala Ada Colau, va fer una oferta d’última hora a Podem per intentar salvar la situació: un lloc “prioritari” a les llistes de Barcelona i de Madrid. A les onze…",
       "url": "https://www.ara.cat/politica/eleccions-generals/front-ampli-ofereix-montero-posicio-sortida-llista-madrid-pel-29-n_1_5880754.html",
       "published": "2026-10-16T10:44:07+02:00",
       "category": "Actualitat",
