@@ -2,6 +2,16 @@
   "date": "2026-10-16",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "La jutgessa decidirà si envia a judici Santi Laiglesia per l’assassinat d’Helena Jubany, 25 anys després",
+      "excerpt": "El principal sospitós del crim resta pendent de la resolució judicial després de l’audiència preliminar d’avui · La defensa intenta invalidar la prova d’ADN que el vincula amb la víctima",
+      "url": "https://www.vilaweb.cat/noticies/jutgessa-decideix-judici-santi-laiglesia-assassinat-helena-jubany/",
+      "published": "2026-10-16T14:37:49+02:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió del cap de setmana: aiguats la tarda de dissabte",
       "excerpt": "Tarda de dissabte amb risc de pluges torrencials sobretot al Maresme, Vallès Oriental i la Selva",
@@ -28,6 +38,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "Front comú del govern i els Mossos contra les ciberestafes, el segon delicte més denunciat a Catalunya",
+      "excerpt": "Es preveu reforçar la prevenció i les investigacions policíaques i crear una comissaria virtual",
+      "url": "https://www.vilaweb.cat/noticies/front-comu-govern-mossos-contra-ciberestafes-segon-delicte-mes-denunciat-catalunya/",
+      "published": "2026-10-16T14:32:24+02:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "Els fetitxes de l’habitatge",
       "excerpt": "El que fa més intractable el problema de l’habitatge és que es procura per tots els mitjans desvincular-lo de la seva causa principal, que no és sinó la immigració.",
@@ -35,6 +55,26 @@
       "published": "2026-10-16T13:01:52+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/f56c000e-7f1b-4d10-9990-9e3584e1588e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "El govern comprarà la seu de RACC a la Diagonal per 75,5 milions d’euros",
+      "excerpt": "(ACN) El govern comprarà la seu de RACC a l’avinguda Diagonal de Barcelona per 75,5 milions d’euros. La consellera d’Economia, Alícia Romero, i el president del RACC, Josep Mateu, han signat l’acord de l’operació, que s’abonarà entre els anys 2027 i 2030 sense interessos. En declaracions a l’ACN, Romero ha explicat que la compravenda s’emmarca […]",
+      "url": "https://beteve.cat/economia/govern-comprara-seu-racc-diagonal/",
+      "published": "2026-10-16T12:54:25+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/EDIFICI-RACC-CAMPUS-SALUT-CLINIC-2026-10-16.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Tota la informació sobre la vaga de treballadors fixos discontinus el dia del clàssic Barça-Madrid",
+      "excerpt": "Els treballadors fixos discontinus han convocat una vaga des de les 0 hores del 23 d’octubre fins a les 6 h del 26 d’octubre del 2026. Les dates enxampen de ple el clàssic entre el Barça i el Madrid del Camp Nou corresponent a la desena jornada de Lliga. Ara bé, des del club asseguren […]",
+      "url": "https://beteve.cat/esports/tota-informacio-vaga-treballadors-fixos-discontinus-classic/",
+      "published": "2026-10-16T12:48:56+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/entrades-classic-fcb-madrid-2026-09-29.jpg",
       "priority": "2 · Important"
     },
     {
@@ -102,6 +142,146 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/f1a6f66f-e254-4682-a13f-df748429384b_source-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer aquest cap de setmana a Barcelona? Agenda",
+      "excerpt": "Afegeix betevé com a font preferida A l’agenda de betevé ens encanta remenar i triar els millors plans de la ciutat! Com que n’hi ha tants, mirem de fer-te’n una selecció, tot i que ja saps que la llista és gairebé infinita. Aquestes són les nostres recomanacions per a aquest cap de setmana. 🤸 Tres […]",
+      "url": "https://beteve.cat/agenda/que-fer-aquest-cap-de-setmana-a-barcelona/",
+      "published": "2026-10-16T14:54:49+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/04/que-fer-finde-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Ens hem embarcat en un suïcidi anunciat\": els centres de dades d'IA ja deixen poblacions sense aigua",
+      "excerpt": "Amb ampolles d'aigua buides a la mà, ciutadans de l'illa indonèsia de Batam irrompien aquesta setmana al crit d'\"Aigua, aigua\" en un macrocomplex de centres de dades. Tots ells protestaven perquè fa mesos que de les aixetes de casa seva no raja aigua. Mentrestant, els centres de dades del Parc Digital de Nongsa, ubicat a l'illa, continua tenint prou aigua perquè els ordinadors i els sistemes funcionin amb normalitat. Ara els habitants de l'illa, que intenta convertir-se en un pol tecnològic, depenen de camions cisterna…",
+      "url": "https://www.ara.cat/internacional/hem-embarcat-suicidi-anunciat-centres-dades-d-ia-ja-deixen-poblacions-aigua_1_5878952.html",
+      "published": "2026-10-16T14:52:37+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/25f079d6-4d7a-4390-8298-ae6b0bc407a6_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Acord de França i Alemanya per mantenir els cotxes de combustió a Europa més enllà del 2035",
+      "excerpt": "Nou revés per als objectius climàtics de la Unió Europea. Els motors econòmics del continent, França i Alemanya, han arribat a un acord aquest divendres per suavitzar les exigències climàtiques del sector de l'automòbil i mantenir la fabricació de vehicles de combustió més enllà del 2035. Així ho ha anunciat el govern francès en un comunicat, en què detalla que el pacte també inclou eines per reforçar les condicions de producció dins d'Europa. Aquesta proposta ha estat una gran demanda dels fabricants europeus, que actualment…",
+      "url": "https://www.ara.cat/economia/automocio/acord-franca-alemanya-mantenir-cotxes-combustio-europa-mes-enlla-2035_1_5880814.html",
+      "published": "2026-10-16T14:47:02+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/347de09d-ff40-4eef-84b1-c038360e879c_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La JEC cita Comín a anar a Madrid a prometre la constitució espanyola dos dies abans del seu retorn de l’exili",
+      "excerpt": "L’eurodiputat electe de Junts vol recuperar l’escó al Parlament Europeu després de més de dos anys sense poder ocupar-lo",
+      "url": "https://www.vilaweb.cat/noticies/jec-comin-madrid-prometre-constitucio-retorn-exili/",
+      "published": "2026-10-16T14:46:25+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Al Japó s'està trencant un tabú: els homes comencen a casar-se amb dones més grans",
+      "excerpt": "En una de cada quatre parelles que es casen per primera vegada al Japó la dona és més gran que l'home. El 2024, aquests matrimonis van representar el 25,5% del total, el percentatge més alt registrat fins ara i més del doble que als anys setanta, quan vorejaven el 10%. En les parelles, els homes més grans continuen sent majoria, però la diferència d'edat entre els cònjuges s'ha escurçat. Tot i això, en molts casos la distància és petita: la dona només té un o…",
+      "url": "https://www.ara.cat/internacional/asia/japo-s-trencant-tabu-homes-comencen-casar-dones-mes-grans_1_5880869.html",
+      "published": "2026-10-16T14:42:03+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/01740926-de2b-479b-8ac4-895da06d8e9b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer amb nens a Barcelona? Activitats i plans en família",
+      "excerpt": "Aquí trobaràs què fer amb nens a Barcelona, amb un munt d’activitats, plans i propostes pensats per als més petits de casa! A betevé ens encanta donar-te idees per fer en família, per a avui, demà, els pròxims dies i també el cap de setmana! N’hi ha un bon grapat: espectacles infantils, festes a l’aire […]",
+      "url": "https://beteve.cat/agenda/que-fer-amb-nens-a-barcelona/",
+      "published": "2026-10-16T14:41:29+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/01/que-fer-amb-nens-a-barcelona-txt-01-1920x1080-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El TJUE obliga els bancs a retornar els diners d'un frau encara que al·leguin negligència greu del client",
+      "excerpt": "El Tribunal de Justícia de la Unió Europea (TJUE) ha sentenciat que una negligència greu comesa per un client no eximeix el proveïdor de serveis de pagament de la seva obligació de tornar immediatament l'import d'una operació no autoritzada. Tot i això, \"el proveïdor de serveis de pagament podrà reclamar posteriorment al client el reemborsament de les pèrdues derivades d'una negligència greu comesa per aquest últim\", diu el servei de premsa del TJUE en un comunicat.",
+      "url": "https://www.ara.cat/economia/banca/tjue-obliga-bancs-retornar-diners-d-frau-encara-leguin-negligencia-greu-client_1_5880925.html",
+      "published": "2026-10-16T14:37:44+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e7c456c4-32b2-4696-a657-1a5791e79c91_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’Audiència de Barcelona avala la investigació al CNI per l’espionatge a Aragonès amb Pegasus",
+      "excerpt": "El tribunal manté la investigació contra l’ex-directora dels serveis secrets espanyols, Paz Esteban, i avala la petició de desclassificar informació reservada, però limita el període investigat",
+      "url": "https://www.vilaweb.cat/noticies/audiencia-barcelona-avala-investigacio-cni-espionatge-aragones-pegasus/",
+      "published": "2026-10-16T14:28:56+02:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Vox BCN demana a Collboni sumar la Guàrdia Civil i la Policia Nacional per combatre la delinqüència",
+      "excerpt": "El president del Grup Municipal de Vox, Gonzalo de Oro, s’ha desplaçat aquest divendres al districte de Sarrià – Sant Gervasi per denunciar que “problemes d’inseguretat que abans passaven només a altres zones de Barcelona, ara també passen al districte”. Ho ha dit un parell de dies després que alguns mitjans informessin d’un atracament a […]",
+      "url": "https://beteve.cat/politica/vox-demana-collboni-sumar-guardia-civil-policia-nacional-combatre-delinquencia-barcelona/",
+      "published": "2026-10-16T14:21:47+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/gonzalo-vox-2026-10-16.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Música a la carta més enllà de Spotify",
+      "excerpt": "Les persones que paguen Spotify, que són 290 milions arreu del món, el paguen sovint per la mateixa raó per la qual comprem sempre a la mateixa peixateria: l'hàbit. El servei suec de música a la carta concentra prop d'un terç dels abonats mundials de música. Però el mercat té avui alternatives equivalents i, segons què es valori, superiors: la qualitat de so, els pòdcasts i els audiollibres, la compatibilitat amb altaveus, el preu, la remuneració dels artistes o el país on és radicada l'empresa.…",
+      "url": "https://www.ara.cat/media/musica-carta-mes-enlla-spotify_1_5880756.html",
+      "published": "2026-10-16T14:15:24+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3fc90586-03d9-4d43-a804-1e9bd9e8bdd7_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "T'has canviat de pis o votes per primer cop el 29N? Com comprovar el cens electoral i demanar canvis",
+      "excerpt": "Fins al dia 19 d'octubre es poden presentar reclamacions, ja sigui de forma telemàtica o presencial",
+      "url": "https://www.3cat.cat/3catinfo/thas-canviat-de-pis-o-votes-per-primer-cop-el-29n-com-comprovar-el-cens-electoral-i-demanar-canvis/noticia/3434287/",
+      "published": "2026-10-16T14:03:48+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/0/1688471078200.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Quan un dorsal explica la història d’un futbolista: de la decepció a brillar",
+      "excerpt": "\"El primer dia que el vaig veure jugar era tot tan perfecte i tot tan preciós, el camp, sota les muntanyes, el seu futbol amb sis o set anys, tot, tot, que vaig sentir la necessitat d'agenollar-me i donar les gràcies a Déu. No sé si algú em va veure. No m'interessa. L'únic que sé és que en aquell moment vaig notar que Déu l'havia posat allà per a mi i que faria realitat el meu somni d'aportar un crac al país. Va ser una…",
+      "url": "https://www.ara.cat/esports/girona-fc/dorsal-explica-historia-d-futbolista-decepcio-brillar_130_5880734.html",
+      "published": "2026-10-16T14:00:25+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e2276586-6193-4c4c-826e-52cbcc446115_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Hansi Flick confirma que Raphinha i Frenkie de Jong estan disponibles per jugar contra el Betis",
+      "excerpt": "Raphinha i Frenkie de Jong tornaran a una convocatòria. Hansi Flick ha confirmat a la roda de premsa prèvia al partit contra el Betis que tots jugadors estaran llestos per disputar, com a mínim, alguns minuts contra l’equip andalús. Tornen Raphinha i Frenkie de Jong Hansi Flick ha deixat entreveure que fer servir a De […]",
+      "url": "https://beteve.cat/esports/flick-recupera-raphinha-frenkie-de-jong-partit-betis/",
+      "published": "2026-10-16T13:50:13+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/hansi-flick-campanya-pilota-or-2026-09-15.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'FMI, en alerta per la IA: \"Sense salvaguardes, el risc pot superar les oportunitats\"",
+      "excerpt": "Les principals institucions econòmiques internacionals han pres bona nota de les alarmes per la seguretat de la intel·ligència artificial que s'han desfermat durant l'estiu. L'última a demostrar-ho ha estat la directora gerent del Fons Monetari Internacional (FMI), Kristalina Georgieva. En una intervenció durant les trobades anuals de la institució monetària i el Banc Mundial, que se celebren aquesta setmana a Bangkok, Georgieva ha fet una crida a la regulació i a la vigilància de la tecnologia per part dels principals actors de la indústria. \"Sense…",
+      "url": "https://www.ara.cat/economia/tecnologia/l-fmi-alerta-ia-salvaguardes-risc-pot-superar-oportunitats_1_5880840.html",
+      "published": "2026-10-16T13:42:30+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b12fb19b-5abc-4d2c-a6be-261428bf5cab_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -211,6 +391,16 @@
       "published": "2026-10-16T12:54:12+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/b9e74f5f-92ca-4210-805e-a33a70971b10_source-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Aena reitera que l’ampliació del Prat estarà acabada el 2036 i que és possible avançar inversions",
+      "excerpt": "(ACN) El president d’Aena, Maurici Lucena, ha assegurat que el calendari d’ampliació de l’aeroport del Prat no ha patit “cap canvi” després de l’aprovació del DORA III i reitera que l’obra completa estarà “acabada i en funcionament” abans del 2036, amb la finalització del DORA IV. En un acte al Col·legi d’Economistes de Catalunya, Lucena […]",
+      "url": "https://beteve.cat/economia/aena-reitera-ampliacio-prat-acabara-2036/",
+      "published": "2026-10-16T12:42:40+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/06/aeroport-barcelona-150626.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -326,16 +516,6 @@
       "published": "2026-10-16T11:59:54+02:00",
       "category": "nens i nenes",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/catakrac-17-10-2026-10-16.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Què fer aquest cap de setmana a Barcelona? Agenda",
-      "excerpt": "Afegeix betevé com a font preferida A l’agenda de betevé ens encanta remenar i triar els millors plans de la ciutat! Com que n’hi ha tants, mirem de fer-te’n una selecció, tot i que ja saps que la llista és gairebé infinita. Aquestes són les nostres recomanacions per a aquest cap de setmana. 🤸 Tres […]",
-      "url": "https://beteve.cat/agenda/que-fer-aquest-cap-de-setmana-a-barcelona/",
-      "published": "2026-10-16T11:56:45+02:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2021/04/que-fer-finde-1.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -480,8 +660,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Rufián sobre una coalició d'esquerres in extremis: \"He fracassat, queden hores però és probable que no passi\"",
-      "excerpt": "El candidat d'ERC demana disculpes als votants i assegura que ahir va estar a punt de plegar",
+      "title": "Rufián i Colau assumeixen que no hi haurà candidatura conjunta el 29N enmig de retrets",
+      "excerpt": "Colau demana al candidat d'ERC que no abaixi els braços i fa una última crida a Irene Montero",
       "url": "https://www.3cat.cat/3catinfo/rufian-sobre-una-coalicio-desquerres-in-extremis-he-fracassat-queden-hores-pero-es-probable-que-no-passi/noticia/3434422/",
       "published": "2026-10-16T10:27:48+02:00",
       "category": "Actualitat",
@@ -551,16 +731,6 @@
       "published": "2026-10-16T09:28:32+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/b3c5c20f-abe2-4dba-98ad-8d1fbdf68eca_16-9-aspect-ratio_default_1061119.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Què fer amb nens a Barcelona? Activitats i plans en família",
-      "excerpt": "Aquí trobaràs què fer amb nens a Barcelona, amb un munt d’activitats, plans i propostes pensats per als més petits de casa! A betevé ens encanta donar-te idees per fer en família, per a avui, demà, els pròxims dies i també el cap de setmana! N’hi ha un bon grapat: espectacles infantils, festes a l’aire […]",
-      "url": "https://beteve.cat/agenda/que-fer-amb-nens-a-barcelona/",
-      "published": "2026-10-16T09:26:30+02:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2021/01/que-fer-amb-nens-a-barcelona-txt-01-1920x1080-1.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -765,8 +935,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Cas Helena Jubany: vista clau, pendent de si la jutge envia a judici Santi Laiglesia",
-      "excerpt": "La jutge de Sabadell ho decidirà després de convocar l'acusat del crim, Santi Laiglesia, la seva defensa i l'acusació de la família en una audiència preliminar",
+      "title": "Cas Helena Jubany: l'acusat qüestiona les proves d'ADN i la família denuncia que les calces van desaparèixer del jutjat",
+      "excerpt": "La jutge de Sabadell decidirà els pròxims dies si envia a judici Santi Laiglesia, que ha demanat l'arxivament del cas",
       "url": "https://www.3cat.cat/3catinfo/crim-dhelena-jubany-arriba-una-vista-clau-que-marcara-el-futur-del-cas/noticia/3434237/",
       "published": "2026-10-16T06:43:06+02:00",
       "category": "Actualitat",
