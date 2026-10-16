@@ -12,6 +12,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo",
+      "title": "Nova jornada de vaga a les biblioteques de Catalunya per reclamar millores laborals",
+      "excerpt": "El personal denuncia que les biblioteques han anat assumint moltes funcions sense que hi hagi hagut ampliacions de plantilla ni millores salarials",
+      "url": "https://www.3cat.cat/3catinfo/nova-jornada-de-vaga-a-les-biblioteques-de-catalunya-per-reclamar-millores-laborals/noticia/3434402/",
+      "published": "2026-10-16T09:14:17+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/8/1780601204381.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de divendres: últim dia de temps càlid i tranquil",
       "excerpt": "Temperatura elevada i alguns núvols baixos, sobretot al matí",
@@ -38,13 +48,73 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Rufián diu que ahir va estar a punt de plegar: \"Hem fracassat\"",
+      "excerpt": "Gabriel Rufián dona per pràcticament enterrada la possibilitat d'un acord unitari a l'esquerra del PSOE i, fins i tot, ha pensat en plegar. Així ho ha admès en una entrevista a RAC 1 quan queden poques hores perquè aquesta mitjanit acabi el termini per presentar les coalicions al 29-N.",
+      "url": "https://www.ara.cat/politica/eleccions-generals/rufian-explica-ahir-punt-plegar-hem-fracassat_1_5880656.html",
+      "published": "2026-10-16T09:38:24+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/75a96867-7aeb-45f6-b37a-859b970396e1_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les trucades comercials començaran amb el prefix 400 a partir d'aquest dissabte",
+      "excerpt": "A partir d'aquest dissabte, 17 d'octubre, les empreses afectades per la llei de serveis d'atenció al client hauran d'utilitzar números de nou xifres que comencin pel prefix 400 per fer trucades comercials de captació. La mesura s'implementa per facilitar que els usuaris identifiquin les comunicacions publicitàries abans de despenjar el telèfon.",
+      "url": "https://www.ara.cat/economia/trucades-comercials-comencaran-prefix-400-partir-d-aquest-dissabte_1_5880658.html",
+      "published": "2026-10-16T09:28:32+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b3c5c20f-abe2-4dba-98ad-8d1fbdf68eca_16-9-aspect-ratio_default_1061119.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer amb nens a Barcelona? Activitats i plans en família",
+      "excerpt": "Aquí trobaràs què fer amb nens a Barcelona, amb un munt d’activitats, plans i propostes pensats per als més petits de casa! A betevé ens encanta donar-te idees per fer en família, per a avui, demà, els pròxims dies i també el cap de setmana! N’hi ha un bon grapat: espectacles infantils, festes a l’aire […]",
+      "url": "https://beteve.cat/agenda/que-fer-amb-nens-a-barcelona/",
+      "published": "2026-10-16T09:26:30+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/01/que-fer-amb-nens-a-barcelona-txt-01-1920x1080-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El lluminós \"visca el poble valencià\" de Sandra Monfort",
+      "excerpt": "Hi ha espectacles emocionants i que creixen a cada instant. I després hi ha Terra de guapes , de la cantant valenciana Sandra Monfort . Hi ha homenatges fets amb criteri i sensibilitat. I després hi ha l'ofrena al poble valencià que dijous va inaugurar la 29a edició de la Fira Mediterrània de Manresa. Hi ha ovacions entusiastes. I després hi ha l'esclat d'alegria i agraïment amb què el públic que omplia el Teatre Kursaal va recompensar un espectacle nascut del dolor i la ràbia…",
+      "url": "https://www.ara.cat/cultura/musica/lluminos-visca-poble-valencia-sandra-monfort_1_5880581.html",
+      "published": "2026-10-16T09:20:34+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6fc7e4d6-e74f-453a-8887-d39bcf25a8b7_source-aspect-ratio_default_0_x2178y1169.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
       "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
       "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
-      "published": "2026-10-16T08:51:39+02:00",
+      "published": "2026-10-16T09:04:53+02:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Ajuntament exerceix el dret a tanteig per comprar una finca amb vuit pisos al Raval",
+      "excerpt": "L’Ajuntament de Barcelona ha decidit comprar per tanteig la finca del carrer d’Espalter, 6, al barri del Raval del districte de Ciutat Vella. L’operació ha estat aprovada en comissió de govern i, d’aquesta manera, el consistori farà ús del dret a adquirir de manera preferent una finca sencera amb oferta de compra i adquirir-la pel […]",
+      "url": "https://beteve.cat/economia/ajuntament-exerceix-dret-tanteig-finca-vuit-pisos-raval/",
+      "published": "2026-10-16T09:02:11+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Bloc-espalter-sis-2026-10-16.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Madonna descobreix un local del Raval on es fa \"el millor flamenc\"",
+      "excerpt": "El món de la música barceloní ha tingut una sorpresa inesperada: Madonna ha descobert l’existència de 23 Robadors, un dels espais més underground de la ciutat. La responsable és la DJ i productora veneçolana Arca: fa anys que la cantant hi col·labora, i li va parlar del local durant una de les seves sessions de treball. En un fragment d'un vídeo penjat a les xarxes socials sobre el making-of del disc de Madonna, les dues artistes conversen sobre llocs on escoltar bon flamenc.",
+      "url": "https://www.ara.cat/gent/madonna-descobreix-local-raval-millor-flamenc_1_5880655.html",
+      "published": "2026-10-16T08:54:03+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/adfe7bda-b407-4d34-9d00-b9d7325d3d7f_16-9-aspect-ratio_default_0_x798y348.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -270,7 +340,7 @@
     {
       "source": "ARA",
       "title": "Carles Puigdemont confirma que no serà cap de l'oposició quan torni a Catalunya",
-      "excerpt": "L'expresident de la Generalitat de Catalunya, Carles Puigdemont, ha confirmat aquest dijous en una entrevista en el programa Pla Seqüència de la cadena 2Cat que no assumirà el càrrec de cap de l'oposició al Parlament, si es dona el cas, quan torni. \"No podria exercir com a tal, però, d'altra banda, encara que pogués, em sembla que algú que ha estat president de la Generalitat i ha ocupat la presidència, que és una institució, no és correcte que després hagi de controlar al president, sigui…",
+      "excerpt": "L'expresident de la Generalitat Carles Puigdemont ha confirmat aquest dijous en una entrevista al programa Pla seqüència de La 2 Cat que no voldrà assumir el càrrec de cap de l'oposició al Parlament quan torni a Catalunya. \"No podria exercir com a tal, però, d'altra banda, encara que pogués, em sembla que no és correcte que algú que ha estat president de la Generalitat i ha ocupat la presidència, que és una institució, després hagi de controlar el president, sigui qui sigui\", ha argumentat al…",
       "url": "https://www.ara.cat/politica/carles-puigdemont-confirma-no-sera-cap-l-oposicio-torni-catalunya_1_5880540.html",
       "published": "2026-10-16T00:18:03+02:00",
       "category": "Actualitat",
