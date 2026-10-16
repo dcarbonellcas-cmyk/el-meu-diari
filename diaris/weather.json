@@ -1,5 +1,20 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-16T06:45:05.881309+02:00",
-  "forecast": null
+  "updatedAt": "2026-10-16T07:42:53.928393+02:00",
+  "forecast": {
+    "source": "3CatInfo · El temps",
+    "title": "La previsió de divendres: últim dia de temps càlid i tranquil",
+    "excerpt": "Temperatura elevada i alguns núvols baixos, sobretot al matí",
+    "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/",
+    "published": "2026-10-15T19:00:59+02:00",
+    "updated": "2026-10-16T07:35:09+02:00",
+    "category": "El temps",
+    "image": "https://img.3cat.cat/multimedia/jpg/5/4/1792128774545.jpg",
+    "video": {
+      "url": "https://www.3cat.cat/3cat/video/6430764/embed/",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/"
+    },
+    "priority": "2 · Important"
+  }
 }

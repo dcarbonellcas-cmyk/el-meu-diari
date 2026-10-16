@@ -2,6 +2,172 @@
   "date": "2026-10-16",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Un tiroteig en una escola de primària d'Oregon deixa 4 morts i 2 ferits crítics",
+      "excerpt": "El sospitós del tiroteig, un adolescent de 16 anys, ha estat abatut a trets per un veí que l'ha seguit, segons ha informat la policia",
+      "url": "https://www.3cat.cat/3catinfo/un-tiroteig-en-una-escola-de-primaria-doregon-deixa-4-morts-i-2-ferits-critics/noticia/3434392/",
+      "published": "2026-10-16T07:31:04+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/7/1792127642370.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de divendres: últim dia de temps càlid i tranquil",
+      "excerpt": "Temperatura elevada i alguns núvols baixos, sobretot al matí",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/",
+      "published": "2026-10-15T19:00:59+02:00",
+      "updated": "2026-10-16T07:35:09+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/4/1792128774545.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6430764/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "El Govern compra al RACC les oficines de la Diagonal pel futur Campus Clínic",
+      "excerpt": "Una de les imatges més característiques de l'accés a Barcelona des de la Diagonal té les hores comptades. Les oficines del RACC, amb el seu icònic cub groc al capdamunt, hauran de canviar de lloc. El motiu? Que els terrenys sobre els quals s'aixeca l'edifici estan inclosos en l'avanç del Pla Director Urbanístic (PDU) del futur Campus Clínic. Per això, la Generalitat i la companyia fa mesos que negocien un acord perquè el RACC abandoni el seu lloc privilegiat a la part alta de la…",
+      "url": "https://www.ara.cat/societat/barcelona/govern-compra-racc-oficines-diagonal-pel-futur-campus-clinic_1_5879643.html",
+      "published": "2026-10-16T07:03:17+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f1a6f66f-e254-4682-a13f-df748429384b_source-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Rehabilitacions defectuoses al Besòs: Laia Bonet s’exposa a un suspens polític de l’oposició",
+      "excerpt": "Al desembre del 2025, alguns veïns del carrer de l’Epir celebraven que podien tornar a casa, després que l’Ajuntament els rehabilités els pisos en el marc d’una prova pilot de regeneració urbana al barri del Besòs i el Maresme. Ara bé, l’alegria no els va durar ni 24 hores: va ploure i l’aigua va entrar […]",
+      "url": "https://beteve.cat/politica/rehabilitacions-defectuoses-besos-reprovacio-laia-bonet/",
+      "published": "2026-10-16T07:18:04+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/laia-bonet-2026-10-15.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El disseny del futur espai verd de la Magòria topa amb el recel dels partidaris de mantenir el jardí",
+      "excerpt": "Els futurs espais verds inclosos el projecte de transformació de la Magòria es definiran en un procés participatiu amb veïns i entitats. L’Ajuntament va explicar en el darrer consell de barri de la Bordeta quins seran els passos a seguir. L’objectiu és recollir les aportacions veïnals per concretar els usos, les característiques i els valors […]",
+      "url": "https://beteve.cat/societat/disseny-futur-espai-verd-magoria-topa-recel-partidaris-mantenir-jardi/",
+      "published": "2026-10-16T07:15:50+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/05/magoria-projecte-verd-210526.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Que t’agradi la feina és una trampa\"",
+      "excerpt": "Reconec que és contradictori anar a cobrir per feina el debat de la Biennal de Pensament sobre per què vivim només per treballar, sobretot a dos quarts de nou del vespre, l’hora de posar a dormir la canalla o quedar amb els amics. Però és que dos dels assagistes joves que més han pensat sobre la feina, el filòsof Juan Evaristo Valls Boix i la periodista Anna Pacheco, debatien aquest dimecres sobre els perills de la identificació amb el teu ofici, el parany de la…",
+      "url": "https://llegim.ara.cat/actualitat/t-agradi-feina-trampa_1_5880201.html",
+      "published": "2026-10-16T07:02:09+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/46d95234-efe3-4593-92fd-d4095b0b4df6_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Javier Negre, Federico Jiménez Losantos o Bertrand Ndongo: els nous fans de Sílvia Orriols",
+      "excerpt": "Ara fa un any en una entrevista a La Vanguardia , el líder de Vox, Santiago Abascal, sostenia que, malgrat les diferències respecte a la qüestió nacional, Aliança i el seu partit tenien punts en comú importants. \"No hi ha un xoc perquè en aquests moments Aliança està centrada en criticar la immigració il·legal i no tant en l'ambició separatista –va dir Abascal–. El discurs antiimmigració d'Aliança és una bona notícia sobre com està canviant la societat espanyola i com està canviant també Catalunya. Aquestes…",
+      "url": "https://www.ara.cat/politica/javier-negre-federico-jimenez-losantos-bertrand-ndongo-nous-fans-silvia-orriols_1_5871053.html",
+      "published": "2026-10-16T07:01:04+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ad8bcee9-5824-4a05-a346-927069200cf8_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Qui és amic de qui al vestidor del Barça",
+      "excerpt": "Una de les claus per entendre el bon funcionament del Barça de Hansi Flick, imparable en aquesta tercera temporada de l'alemany al capdavant de la banqueta, és també el bon ambient al vestidor. Les fonts consultades per l'ARA asseguren que cuidar la salut anímica dels futbolistes també és un pilar per al tècnic.",
+      "url": "https://www.ara.cat/esports/barca/amic-vestidor-barca_1_5878038.html",
+      "published": "2026-10-16T07:01:03+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a8e30110-5645-4e61-9136-310d66add8b0_source-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"La batalla principal és que no ens facin més males persones\"",
+      "excerpt": "\"Disputar el relat a l'extrema dreta\". Aquest era el títol del debat que va organitzar dijous la Biennal de Pensament i l'Escola de Pensament de CRÍTIC, a l'antiga presó de La Model. Queda clar que el públic no és indiferent a tot el que envolta aquesta qüestió: aforament complet amb més de 200 persones i una trentena d'assistents –la majoria joves– que es van quedar fora.",
+      "url": "https://www.ara.cat/cultura/batalla-principal-no-facin-mes-males-persones_1_5880312.html",
+      "published": "2026-10-16T07:01:01+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/86571363-946d-4411-adca-dc2dc9b968fb_16-9-aspect-ratio_default_0_x1005y783.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Ens demanen l'impossible\": situació al límit als consolats per treure del cens els nacionalitzats amb la 'llei de nets'",
+      "excerpt": "El Tribunal Suprem ha suspès els drets electorals de les persones nacionalitzades per la llei de nets , una decisió que el govern espanyol ha titllat de \"gravetat extraordinària\" i que ha generat una nova batalla política entre la dreta i l'esquerra. Mentre que pel PP i Vox és una manera de garantir la \"netedat\" de les eleccions del 29-N, per als progressistes és una vulneració de drets fonamentals inacceptable. Ara bé, més enllà del soroll, què implica a la pràctica la decisió que va…",
+      "url": "https://www.ara.cat/politica/demanen-l-impossible-situacio-limit-als-consolats-treure-cens-nacionalitzats-llei-nets_1_5880092.html",
+      "published": "2026-10-16T07:01:01+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1012fad7-5586-49a5-a1a4-a02ba828513c_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La fundació d'Elon Musk és opaca, avara i egoista",
+      "excerpt": "L'home més ric del món no creu gaire en la filantropia. A l'agost, Elon Musk va dir en una publicació a les xarxes socials que Brian Armstrong, un directiu del món de les criptomonedes, tenia raó de qualificar moltes organitzacions benèfiques com a \"negatives netes\" per al món. Setmanes abans s'havia unit als atacs contra Mackenzie Scott, l'exdona de Jeff Bezos, fundador d'Amazon i un dels principals donants polítics de la història, per \"fer del món un lloc pitjor\". El fàstic de Musk per les…",
+      "url": "https://empreses.ara.cat/directius/fundacio-d-elon-musk-opaca-avara-egoista_1_5879825.html",
+      "published": "2026-10-16T07:01:00+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a51ff00f-4263-4a26-a76f-e48e07bc5718_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els ancestrals, la cara desconeguda de la revolució de les bombolles del Penedès",
+      "excerpt": "No tot és agitació entre els escumosos que s'elaboren a casa nostra. La marxa d'elaboradors de la DO Cava, la majoria per unir-se a Corpinnat o a Clàssic Penedès , ha monopolitzat l'atenció que es presta a les bombolles des de fa anys. Amb tot aquest enrenou ha quedat en un segon pla un altre dels moviments que han resultat decisius perquè es produeixi la revolució dels escumosos del Penedès. Es tracta de la multiplicació dels ancestrals, unes bombolles que malden, com procuren fer també…",
+      "url": "https://mengem.ara.cat/vins-caves/ancestrals-cara-desconeguda-revolucio-bombolles-penedes_130_5879986.html",
+      "published": "2026-10-16T07:01:00+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/acf637c8-e19d-49d2-bf1c-be34cb768abd_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "\"La bola negra\" aterra als EUA amb portada a Variety, que li augura 10 nominacions als Oscars",
+      "excerpt": "La revista de referència en l'àmbit del cinema diu que pot guanyar el premi a la millor pel·lícula i assegura que és l'únic film capaç de destronar \"La Odisea\" de Christopher Nolan",
+      "url": "https://www.3cat.cat/3catinfo/la-bola-negra-aterra-als-eua-amb-portada-a-variety-que-li-augura-10-nominacions-als-oscars/noticia/3434238/",
+      "published": "2026-10-16T06:43:31+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/8/1790418059087.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Crim d'Helena Jubany: arriba una vista clau que marcarà el futur del cas",
+      "excerpt": "La jutge de Sabadell crida l'acusat del crim Santi Laiglesia, la seva defensa i l'acusació de la família per decidir, definitivament, si envia el cas a judici o l'arxiva",
+      "url": "https://www.3cat.cat/3catinfo/crim-dhelena-jubany-arriba-una-vista-clau-que-marcara-el-futur-del-cas/noticia/3434237/",
+      "published": "2026-10-16T06:43:06+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/1/3/1778581653731.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "L'estada als allotjaments d'urgència de Barcelona es cronifica",
+      "excerpt": "En cinc anys, el temps que s'hi passen les famílies, la majoria amb menors a càrrec, s'ha duplicat",
+      "url": "https://www.3cat.cat/3catinfo/lestada-als-allotjaments-durgencia-de-barcelona-es-cronifica/noticia/3434239/",
+      "published": "2026-10-16T06:42:38+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/0/0/1792088618800.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Història d'una divisió crònica: què separa l'esquerra i quants diputats li pot costar a les urnes el 29N",
+      "excerpt": "El repartiment de diputats per província determina la rendibilitat d'un hipotètic pacte per recosir l'espai trencat ara fa una dècada",
+      "url": "https://www.3cat.cat/3catinfo/historia-duna-divisio-cronica-que-separa-lesquerra-i-quants-diputats-li-pot-costar-a-les-urnes-el-29n/noticia/3434316/",
+      "published": "2026-10-16T06:40:03+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/3/1792101751337.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Esquerra Unida refusa la proposta de Compromís d’integrar-se a la seua candidatura",
       "excerpt": "El Consell Polític Nacional d’EUPV tanca la porta a un acord, però reivindica sumar sense ser absorbida",
