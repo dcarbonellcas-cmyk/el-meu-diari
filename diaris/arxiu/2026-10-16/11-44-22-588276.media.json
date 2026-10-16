@@ -1,0 +1,428 @@
+{
+  "version": 2,
+  "pages": [
+    {
+      "page": 2,
+      "title": "La previsió del cap de setmana: aiguats la tarda de dissabte",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/",
+      "published": "2026-10-16T10:55:23+02:00",
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6430776/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/"
+      }
+    },
+    {
+      "page": 3,
+      "title": "Un tiroteig en una escola de primària d'Oregon deixa 4 morts i 2 ferits crítics",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/un-tiroteig-en-una-escola-de-primaria-doregon-deixa-4-morts-i-2-ferits-critics/noticia/3434392/",
+      "published": "2026-10-16T07:31:04+02:00",
+      "priority": "1 · Urgent"
+    },
+    {
+      "page": 4,
+      "title": "Nova jornada de vaga a les biblioteques de Catalunya per reclamar millores laborals",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/nova-jornada-de-vaga-a-les-biblioteques-de-catalunya-per-reclamar-millores-laborals/noticia/3434402/",
+      "published": "2026-10-16T09:14:17+02:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 5,
+      "title": "La previsió de divendres: últim dia de temps càlid i tranquil",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/",
+      "published": "2026-10-15T19:00:59+02:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6430764/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-ultim-dia-de-temps-calid-i-tranquil/noticia/3434321/"
+      }
+    },
+    {
+      "page": 6,
+      "title": "El Govern compra al RACC les oficines de la Diagonal pel futur Campus Clínic",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/barcelona/govern-compra-racc-oficines-diagonal-pel-futur-campus-clinic_1_5879643.html",
+      "published": "2026-10-16T07:03:17+02:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 7,
+      "title": "Alerta en moltes comarques per fortes pluges a partir de dissabte",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/alerta-moltes-comarques-fortes-pluges-partir-dissabte_1_5880748.html",
+      "published": "2026-10-16T11:38:53+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 8,
+      "title": "Salvem el llonguet i altres receptes clàssiques amb Daniel Jordà en el Dia Mundial del Pa",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/estils-de-vida/salvem-llonguet-daniel-jorda-dia-mundial-pa/",
+      "published": "2026-10-16T11:31:36+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 9,
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-10-16T11:29:56+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 10,
+      "title": "Exposicions a Barcelona: la teva agenda de museus",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
+      "published": "2026-10-16T11:27:24+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 11,
+      "title": "Bon dia Barcelona",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-156/",
+      "published": "2026-10-16T11:25:03+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 12,
+      "title": "L'ampliació del Part culminarà en menys de deu anys, insisteix Aena",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/economia/aerolinies/l-ampliacio-part-culminara-menys-deu-anys-insisteix-aena_1_5880753.html",
+      "published": "2026-10-16T11:17:52+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 13,
+      "title": "Tebas compara Reial Madrid TV amb la propaganda nazi de Goebbels",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/esports/futbol/tebas-compara-reial-madrid-tv-propaganda-goebbels_1_5880759.html",
+      "published": "2026-10-16T11:16:45+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 14,
+      "title": "Puigdemont descarta ser cap de l'oposició i prepara la tornada a Catalunya",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/puigdemont-descarta-ser-cap-de-loposicio-i-prepara-la-tornada-a-catalunya/noticia/3434408/",
+      "published": "2026-10-16T11:11:59+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 15,
+      "title": "Compromís ofereix a Podem el cap de llista per Alacant",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/compromis-ofereix-podem-cap-llista-alacant/",
+      "published": "2026-10-16T11:05:30+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 16,
+      "title": "Rufián veu difícil un front d’esquerres el 29-N i diu que ha estat a punt de plegar: “Hem fracassat”",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/politica/rufian-veu-dificil-front-esquerres-29-n-diu-hem-fracassat/",
+      "published": "2026-10-16T10:55:15+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 17,
+      "title": "El Front Ampli ofereix a Montero una posició de sortida a la llista de Madrid pel 29-N",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/front-ampli-ofereix-montero-posicio-sortida-llista-madrid-pel-29-n_1_5880754.html",
+      "published": "2026-10-16T10:44:07+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 18,
+      "title": "El Meteocat eleva els avisos per pluja intensa: avís vermell a tres comarques i l’Inuncat, en alerta",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/medi-ambient/avis-vermell-meteocat-pluges-tempestes-intenses-17-octubre-2026/",
+      "published": "2026-10-16T10:42:32+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 19,
+      "title": "Rufián sobre una coalició d'esquerres in extremis: \"He fracassat, queden hores però és probable que no passi\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/rufian-sobre-una-coalicio-desquerres-in-extremis-he-fracassat-queden-hores-pero-es-probable-que-no-passi/noticia/3434422/",
+      "published": "2026-10-16T10:27:48+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 20,
+      "title": "Arriba el prefix 400 contra les trucades comercials inesperades",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/economia/prefix-400-trucades-comercials/",
+      "published": "2026-10-16T10:25:24+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 21,
+      "title": "Espanya i Itàlia arriben a un acord per aixecar els controls fronterers",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/europa/espanya-italia-treballen-aixecar-controls-fronterers_1_5880735.html",
+      "published": "2026-10-16T10:14:43+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 22,
+      "title": "La importància d'actuar ràpid en una aturada cardiorespiratòria: \"Ha fet que no tingui seqüeles\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-importancia-dactuar-rapid-en-una-aturada-cardiorespiratoria-ha-fet-que-no-tingui-sequeles/noticia/3434378/",
+      "published": "2026-10-16T10:09:24+02:00",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6430767/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-importancia-dactuar-rapid-en-una-aturada-cardiorespiratoria-ha-fet-que-no-tingui-sequeles/noticia/3434378/"
+      }
+    },
+    {
+      "page": 23,
+      "title": "Rufián porta al límit la relació amb ERC: “Plegaria, perquè hem fracassat”",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/rufian-porta-al-limit-la-relacio-amb-erc-plegaria-perque-hem-fracassat/",
+      "published": "2026-10-16T10:01:53+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 24,
+      "title": "Rufián diu que ahir va estar a punt de plegar i dispara contra ERC: \"Hem fracassat\"",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/rufian-explica-ahir-punt-plegar-hem-fracassat_1_5880656.html",
+      "published": "2026-10-16T09:38:24+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 25,
+      "title": "Les trucades comercials començaran amb el prefix 400 a partir d'aquest dissabte",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/economia/trucades-comercials-comencaran-prefix-400-partir-d-aquest-dissabte_1_5880658.html",
+      "published": "2026-10-16T09:28:32+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 26,
+      "title": "Què fer amb nens a Barcelona? Activitats i plans en família",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/que-fer-amb-nens-a-barcelona/",
+      "published": "2026-10-16T09:26:30+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 27,
+      "title": "El lluminós \"visca el poble valencià\" de Sandra Monfort",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/cultura/musica/lluminos-visca-poble-valencia-sandra-monfort_1_5880581.html",
+      "published": "2026-10-16T09:20:34+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 28,
+      "title": "L’Ajuntament exerceix el dret a tanteig per comprar una finca amb vuit pisos al Raval",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/economia/ajuntament-exerceix-dret-tanteig-finca-vuit-pisos-raval/",
+      "published": "2026-10-16T09:02:11+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 29,
+      "title": "Madonna descobreix un local del Raval on es fa \"el millor flamenc\"",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/gent/madonna-descobreix-local-raval-millor-flamenc_1_5880655.html",
+      "published": "2026-10-16T08:54:03+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 30,
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-10-16T08:49:56+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 31,
+      "title": "\"Demanar-se una reducció de jornada per cuidar els fills no hauria d’estar mal vist\"",
+      "source": "ARA",
+      "articleUrl": "https://criatures.ara.cat/criatures/gabriel-ginebra-demanar-reduccio-jornada-cuidar-fills-no-hauria-d-mal-vist_128_5878947.html",
+      "published": "2026-10-16T08:00:11+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 32,
+      "title": "Històries d'amor, tradició i molt de talent: les postals dels lectors de l'ARA",
+      "source": "ARA",
+      "articleUrl": "https://diumenge.ara.cat/diumenge/histories-d-amor-tradicio-talent-postals-dels-lectors-l-ara_130_5879762.html",
+      "published": "2026-10-16T08:00:11+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 33,
+      "title": "Les portades del divendres 16 de octubre de 2026",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-divendres-16-de-octubre-de-2026/",
+      "published": "2026-10-16T08:00:02+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 34,
+      "title": "Un adolescent mata tres nens i una mestra en una escola primària d'Oregon (EUA)",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/estats-units/adolescent-mata-tres-nens-professor-escola-primaria-d-oregon-eua_1_5880584.html",
+      "published": "2026-10-16T07:57:23+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 35,
+      "title": "Alliberen 80.000 mosquits tigre setmanals, que esterilitzen les femelles i en redueixen la població",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/medi-ambient/alliberen-80000-mosquits-tigre-esterilitzacio/",
+      "published": "2026-10-16T07:52:21+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 36,
+      "title": "Vuit estudiants catalans es classifiquen per a la final estatal de Líders Digitals Universitaris",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/economia/vuit-estudiants-catalans-final-estatal-liders-digitals-universitaris/",
+      "published": "2026-10-16T07:50:08+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 37,
+      "title": "Rehabilitacions defectuoses al Besòs: Laia Bonet s’exposa a un suspens polític de l’oposició",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/politica/rehabilitacions-defectuoses-besos-reprovacio-laia-bonet/",
+      "published": "2026-10-16T07:18:04+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 38,
+      "title": "El disseny del futur espai verd de la Magòria topa amb el recel dels partidaris de mantenir el jardí",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/disseny-futur-espai-verd-magoria-topa-recel-partidaris-mantenir-jardi/",
+      "published": "2026-10-16T07:15:50+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 39,
+      "title": "\"Que t’agradi la feina és una trampa\"",
+      "source": "ARA",
+      "articleUrl": "https://llegim.ara.cat/actualitat/t-agradi-feina-trampa_1_5880201.html",
+      "published": "2026-10-16T07:02:09+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 40,
+      "title": "Javier Negre, Federico Jiménez Losantos o Bertrand Ndongo: els nous fans de Sílvia Orriols",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/javier-negre-federico-jimenez-losantos-bertrand-ndongo-nous-fans-silvia-orriols_1_5871053.html",
+      "published": "2026-10-16T07:01:04+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 41,
+      "title": "Qui és amic de qui al vestidor del Barça",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/esports/barca/amic-vestidor-barca_1_5878038.html",
+      "published": "2026-10-16T07:01:03+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 42,
+      "title": "\"La batalla principal és que no ens facin més males persones\"",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/cultura/batalla-principal-no-facin-mes-males-persones_1_5880312.html",
+      "published": "2026-10-16T07:01:01+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 43,
+      "title": "\"Ens demanen l'impossible\": situació al límit als consolats per treure del cens els nacionalitzats amb la 'llei de nets'",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/demanen-l-impossible-situacio-limit-als-consolats-treure-cens-nacionalitzats-llei-nets_1_5880092.html",
+      "published": "2026-10-16T07:01:01+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 44,
+      "title": "La fundació d'Elon Musk és opaca, avara i egoista",
+      "source": "ARA",
+      "articleUrl": "https://empreses.ara.cat/directius/fundacio-d-elon-musk-opaca-avara-egoista_1_5879825.html",
+      "published": "2026-10-16T07:01:00+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 45,
+      "title": "Els ancestrals, la cara desconeguda de la revolució de les bombolles del Penedès",
+      "source": "ARA",
+      "articleUrl": "https://mengem.ara.cat/vins-caves/ancestrals-cara-desconeguda-revolucio-bombolles-penedes_130_5879986.html",
+      "published": "2026-10-16T07:01:00+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 46,
+      "title": "\"La bola negra\" aterra als EUA amb portada a Variety, que li augura 10 nominacions als Oscars",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-bola-negra-aterra-als-eua-amb-portada-a-variety-que-li-augura-10-nominacions-als-oscars/noticia/3434238/",
+      "published": "2026-10-16T06:43:31+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 47,
+      "title": "Crim d'Helena Jubany: arriba una vista clau que marcarà el futur del cas",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/crim-dhelena-jubany-arriba-una-vista-clau-que-marcara-el-futur-del-cas/noticia/3434237/",
+      "published": "2026-10-16T06:43:06+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 48,
+      "title": "L'estada als allotjaments d'urgència de Barcelona es cronifica",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/lestada-als-allotjaments-durgencia-de-barcelona-es-cronifica/noticia/3434239/",
+      "published": "2026-10-16T06:42:38+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 49,
+      "title": "Història d'una divisió crònica: què separa l'esquerra i quants diputats li pot costar a les urnes el 29N",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/historia-duna-divisio-cronica-que-separa-lesquerra-i-quants-diputats-li-pot-costar-a-les-urnes-el-29n/noticia/3434316/",
+      "published": "2026-10-16T06:40:03+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 50,
+      "title": "Esquerra Unida refusa la proposta de Compromís d’integrar-se a la seua candidatura",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/esquerra-unida-refusa-la-proposta-de-compromis-dintegrar-se-a-la-seua-candidatura/",
+      "published": "2026-10-16T00:28:40+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 51,
+      "title": "La Chunta Aragonesista i el Front Ampli pacten una candidatura conjunta a l’Aragó",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/chunta-aragonesista-i-el-front-ampli-pacten-una-candidatura-conjunta-a-larago/",
+      "published": "2026-10-16T00:26:41+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 52,
+      "title": "Carles Puigdemont confirma que no serà cap de l'oposició quan torni a Catalunya",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/carles-puigdemont-confirma-no-sera-cap-l-oposicio-torni-catalunya_1_5880540.html",
+      "published": "2026-10-16T00:18:03+02:00",
+      "priority": "3 · Altres notícies"
+    }
+  ]
+}
