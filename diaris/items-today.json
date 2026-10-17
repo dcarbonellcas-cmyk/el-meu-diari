@@ -2,18 +2,8 @@
   "date": "2026-10-17",
   "items": [
     {
-      "source": "betevé",
-      "title": "Alerta de nou per pluja intensa: un desaparegut pels forts aiguats al Maresme",
-      "excerpt": "Aquest dissabte arriba un altre episodi de pluja a Barcelona, quan encara són molt presents els efectes del darrer temporal, de principis d’octubre. En aquest cas, la pluja arriba acompanyada d’una baixada notable de la temperatura. El Servei Meteorològic de Catalunya ha elevat els avisos i hi ha set comarques en avís vermell, entre les […]",
-      "url": "https://beteve.cat/societat/nou-episodi-pluja-afectacions-barcelona-17-octubre-directe/",
-      "published": "2026-10-17T22:31:54+02:00",
-      "category": "societat",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/tractorada-via-laietana-directe-2026-10-17.jpg",
-      "priority": "1 · Urgent"
-    },
-    {
       "source": "ARA",
-      "title": "Busquen una dona caiguda a la riera a Cabrera de Mar en ple temporal",
+      "title": "Busquen una dona que ha caigut a la riera a Cabrera de Mar en ple temporal",
       "excerpt": "Catalunya torna a passar una nit en alerta per un temporal de pluges. Els aiguats d'aquest dissabte al vespre han descarregat sobretot a la zona del Vallès Oriental i del Maresme, on s'ha produït el que és, per ara, l'incident més destacat d'aquest temporal. Un dispositiu format pels Bombers de la Generalitat, Mossos d'Esquadra i Salvament Marítim treballa en la recerca d'una dona que, segons han denunciat diversos testimonis, hauria caigut a la riera a Cabrera de Mar poc abans de les vuit del vespre.",
       "url": "https://www.ara.cat/societat/successos/bombers-busquen-persona-caiguda-riera-cabrera-mar_1_5882477.html",
       "published": "2026-10-17T21:07:10+02:00",
@@ -99,6 +89,32 @@
     },
     {
       "source": "VilaWeb",
+      "title": "Més per Menorca ratifica Andreu Servera com a candidat al parlament per a les eleccions del 2027",
+      "excerpt": "L’assemblea menorquinista també valida dues candidatures per a encapçalar la llista al Consell de Menorca",
+      "url": "https://www.vilaweb.cat/noticies/mes-per-menorca-ratifica-andreu-servera-com-a-candidat-al-parlament-per-a-les-eleccions-del-2027/",
+      "published": "2026-10-17T23:26:32+02:00",
+      "category": "Illes",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: pluja menys intensa, però a més comarques",
+      "excerpt": "Baixa la probabilitat d'aiguats torrencials després de la matinada",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/",
+      "published": "2026-10-17T10:58:56+02:00",
+      "updated": "2026-10-17T23:13:40+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/4/1792218539440.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431098/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
       "title": "Nous enfrontaments i incendis en les protestes contra el govern a Albània",
       "excerpt": "Un grup de manifestants incendia la seu del Banc d’Albània i exigeix la dimissió del primer ministre, Edi Rama",
       "url": "https://www.vilaweb.cat/noticies/nous-enfrontaments-incendis-protestes-govern-albania/",
@@ -168,22 +184,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge: pluja menys intensa, però a més comarques",
-      "excerpt": "Baixa la probabilitat d'aiguats torrencials després de la matinada",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/",
-      "published": "2026-10-17T10:58:56+02:00",
-      "updated": "2026-10-17T15:57:01+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/4/1792218539440.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6431040/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "ARA",
       "title": "L'habitatge: bé de primera necessitat, bé d'inversió o dret social?",
       "excerpt": "El segon episodi del pòdcast Tocar sostre gira al voltant de com hem d'entendre l'habitatge: és un bé de primera necessitat, un bé d'inversió o un dret social? Hi participen l'antropòleg urbà Manuel Delgado , l'economista Josep Oliver , i l'economista i presidenta de la Fundació Hàbitat3, Carme Trilla . Modera la periodista Carla Turró .",
@@ -237,6 +237,46 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/pla-de-pensions-a-partir-dels-6-anys-la-proposta-dalemanya-que-aixeca-recels-de-lesquerra/noticia/3434622/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Alerta per un episodi de pluges: retards i cancel·lacions a l’aeroport de Barcelona per la tempesta",
+      "excerpt": "El Servei Meteorològic de Catalunya ha elevat els avisos per pluja a Barcelona, un episodi que arriba quan encara són presents els efectes del darrer temporal, de principis d’octubre. En previsió de forts aiguats, aquest dissabte, hi ha set comarques en avís vermell, entre les quals hi ha el Barcelonès, i 10 més en avís […]",
+      "url": "https://beteve.cat/societat/nou-episodi-pluja-afectacions-barcelona-17-octubre-directe/",
+      "published": "2026-10-17T23:39:33+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pluja-barcelona-2-directe-2026-10-17.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Convergents es presentarà en solitari al 29-N si reuneix prou firmes",
+      "excerpt": "El Consell Nacional ha acordat també de trencar el pacte municipal amb Junts per al 2027, però els equips locals podran negociar",
+      "url": "https://www.vilaweb.cat/noticies/convergents-es-presentara-en-solitari-al-29-n-si-reuneix-prou-firmes/",
+      "published": "2026-10-17T23:38:35+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Teresa Jordà encapçalarà la llista d’Esquerra Republicana a Girona el 29-N",
+      "excerpt": "La candidata guanya les primàries davant Etna Estrems i posa l’accent en la defensa del català i la justícia social",
+      "url": "https://www.vilaweb.cat/noticies/teresa-jorda-encapcalara-la-llista-desquerra-republicana-a-girona-el-29-n/",
+      "published": "2026-10-17T23:24:57+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Jornada de grans manifestacions i disturbis a l’estat francès amb més de 270 detinguts",
+      "excerpt": "Unes 550.000 persones es manifesten contra la mala situació de l’ensenyament públic, l’encariment de la vida i la violència policíaca",
+      "url": "https://www.vilaweb.cat/noticies/jornada-de-grans-manifestacions-i-disturbis-a-lestat-frances-amb-mes-de-270-detinguts/",
+      "published": "2026-10-17T23:21:17+02:00",
+      "category": "França",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -351,7 +391,7 @@
     {
       "source": "ARA",
       "title": "El mestratge de Hansi Flick amb Lamine Yamal: els apunts en calent del Betis-Barça",
-      "excerpt": "El Barça supera el Betis a la Cartuja de Sevilla (2-5) en un partit que ha embogit a l'inici de la segona meitat. Ningú fins avui ha aconseguit esgarrapar punts a casa del conjunt verd-i-blanc.",
+      "excerpt": "El Barça supera el Betis a la Cartuja de Sevilla (2-5) en un partit que ha embogit a l'inici de la segona meitat. Ningú fins avui havia aconseguit esgarrapar punts a casa del conjunt verd-i-blanc aquesta temporada.",
       "url": "https://www.ara.cat/esports/barca/mestratge-hansi-flick-lamine-yamal-apunts-calent-betis-barca_1_5882220.html",
       "published": "2026-10-17T20:31:30+02:00",
       "category": "Actualitat",
@@ -746,7 +786,7 @@
     {
       "source": "3CatInfo",
       "title": "400 detinguts i greus aldarulls a França en la indignació pel cost de la vida",
-      "excerpt": "550.000 persones s'han manifestat arreu del país, amb enfrontaments amb la policia i assalts a edificis públics, com l'incendi de l'ajuntament de Limoges",
+      "excerpt": "550.000 persones s'han manifestat arreu del país, amb enfrontaments amb la policia i assalts a edificis públics, com l'incendi de l'ajuntament de Llemotges",
       "url": "https://www.3cat.cat/3catinfo/desenes-de-detinguts-i-aldarulls-en-les-protestes-socials-multitudinaries-arreu-de-franca/noticia/3434647/",
       "published": "2026-10-17T16:13:56+02:00",
       "category": "Actualitat",
