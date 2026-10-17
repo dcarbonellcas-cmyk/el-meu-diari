@@ -7,7 +7,7 @@
       "excerpt": "El risc de pluges torrencials es localitzarà a l'est del país",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/",
       "published": "2026-10-16T10:55:23+02:00",
-      "updated": "2026-10-17T08:39:47+02:00",
+      "updated": "2026-10-17T10:29:44+02:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/5/6/1792216324965.jpg",
       "video": {
@@ -18,8 +18,113 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "Desconvocada la vaga indefinida de Groundforce a l’aeroport de Barcelona",
+      "excerpt": "El sindicat denuncia que l'empresa es nega a readmetre tres treballadors, dos dels quals eren membres del comitè de vaga",
+      "url": "https://www.vilaweb.cat/noticies/cgt-desconvoca-vaga-indefinida-groundforce-aeroport-barcelona/",
+      "published": "2026-10-17T10:26:23+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Urtasun serà el número dos de la candidatura del Front Ampli a Barcelona a les eleccions del 29-N",
+      "excerpt": "El ministre de Cultura, Ernest Urtasun, serà el número dos de la candidatura del Front Ampli a la llista per Barcelona el pròxim 29-N, segons han informat els Comuns en un comunicat emès aquest dissabte al matí. La formació el va ratificar com a candidat després de rebre el 94,1% dels vots en un Consell Nacional extraordinari celebrat aquest divendres al vespre a Barcelona.",
+      "url": "https://www.ara.cat/politica/urtasun-sera-numero-candidatura-front-ampli-barcelona-eleccions-29-n_1_5881899.html",
+      "published": "2026-10-17T10:26:14+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/09eae023-92a3-4ac4-94d6-8c55ba74360f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
-      "title": "El Front Ampli i Podem no aconsegueixen un acord estatal i concorren per separat al 29-N",
+      "title": "46 detinguts i 6 investigats en una nova operació del pla Kanpai a Barcelona",
+      "excerpt": "Un nou dispositiu contra la multireincidència ha acabat amb la detenció de 46 persones i sis investigats a la Regió Policial Metropolitana de Barcelona. L’actuació, emmarcada en el pla Kanpai, també ha deixat a la ciutat prop de 70 denúncies administratives i 12 intervencions a establiments on s’havien detectat infraccions. Dels detinguts, sis ho han […]",
+      "url": "https://beteve.cat/societat/prop-50-detinguts-nou-pla-kanpai-barcelona/",
+      "published": "2026-10-17T10:05:41+02:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/kanpai-mossos-161026-2026-10-16-1.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Pla de pensions a partir dels 6 anys, la proposta d'Alemanya que aixeca recels de l'esquerra",
+      "excerpt": "Preveu 10 euros al mes fins als 18 anys, i els pares hi poden fer més aportacions amb beneficis fiscals, un sistema criticat per promoure els plans de pensions privats i crear desigualtat",
+      "url": "https://www.3cat.cat/3catinfo/pla-de-pensions-a-partir-dels-6-anys-la-proposta-dalemanya-que-aixeca-recels-de-lesquerra/noticia/3434622/",
+      "published": "2026-10-17T09:59:07+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/1/1792219393511.jpg",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6430912/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/pla-de-pensions-a-partir-dels-6-anys-la-proposta-dalemanya-que-aixeca-recels-de-lesquerra/noticia/3434622/"
+      }
+    },
+    {
+      "source": "betevé",
+      "title": "Avís vermell per pluja intensa a Barcelona: es podran superar els 40 l/m² en mitja hora",
+      "excerpt": "Davant la possibilitat que els xàfecs i tempestes puguin ser fortes a Barcelona aquest dissabte, 17 d’octubre, el Servei Meteorològic de Catalunya ha elevat l’avís per intensitat de pluja al Barcelonès a nivell molt alt de grau 5 sobre 6, durant la franja de les 18 h de dissabte fins a les 00h del matí […]",
+      "url": "https://beteve.cat/medi-ambient/avis-vermell-pluja-intensa-es-alert-barcelona-octubre-2026/",
+      "published": "2026-10-17T10:37:23+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pluja-barcelona-2026-10-16-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El PSOE designa Rebeca Torró nova portaveu després de la dimissió de Montse Mínguez",
+      "excerpt": "La direcció socialista cobreix les vacants que havia deixat Mínguez en plena polèmica pels negocis immobiliaris de la seva parella",
+      "url": "https://www.vilaweb.cat/noticies/psoe-designa-rebeca-torro-nova-portaveu-dimissio-montse-minguez/",
+      "published": "2026-10-17T10:36:29+02:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Ernest Urtasun serà el número dos de la candidatura de Front Ampli per Barcelona",
+      "excerpt": "La formació ratifica Urtasun amb un 94,1% dels vots · Ada Colau serà la candidata a la presidència del govern espanyol",
+      "url": "https://www.vilaweb.cat/noticies/ernest-urtasun-numero-candidatura-front-ampli-barcelona/",
+      "published": "2026-10-17T10:17:48+02:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La valenciana Rebeca Torró, nova portaveu del PSOE després de la renúncia de Montse Mínguez",
+      "excerpt": "Després que la portaveu del PSOE, Montse Mínguez presentés la seva dimissió aquest divendres per l'escàndol que s'ha generat els últims dies pels negocis immobiliaris de la seva parella , els socialistes ja estan reconstruïnt la seva cúpula. La substituta de Mónguez serà la valenciana Rebeca Torró, que ja tenia un càrrec rellevant a dins del partit com a secretària d'organització i que ara combinarà amb el de portaveu dels socialistes. El canvi arriba en un moment delicat, en plena precampanya electoral.",
+      "url": "https://www.ara.cat/politica/valenciana-rebeca-torro-nova-portaveu-psoe-despres-renuncia-montse-minguez_1_5881893.html",
+      "published": "2026-10-17T10:15:33+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/098ad113-e2b0-4410-8b12-ed6a59be382a_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La Fúmiga entona l’hora dels adeus al Sant Jordi Club: “Era el nostre desig, aquest final de pel·lícula”",
+      "excerpt": "El grup s'acomiadarà definitivament a València amb dos concerts el 30 i 31 d'octubre",
+      "url": "https://www.vilaweb.cat/noticies/fumiga-engega-comiat-concert-sant-jordi-club/",
+      "published": "2026-10-17T10:07:59+02:00",
+      "category": "Música",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Reflexions tanoques (2)",
+      "excerpt": ".",
+      "url": "https://diumenge.ara.cat/diumenge/reflexions-tanoques-2_1_5878719.html",
+      "published": "2026-10-17T10:00:35+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bffbcca0-ee74-46c8-99dd-899111f745d1_source-aspect-ratio_default_0_x1742y2424.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Front Ampli i Podem no aconsegueixen un acord i concorren per separat al 29-N",
       "excerpt": "(ACN/Redacció) No hi hagut acord. Malgrat les crides reiterades a la unitat i l’intercanvi d’ofertes d’última hora, el Front Ampli i Podem no han aconseguit tancar un pacte estatal per presentar candidatures conjuntes a les eleccions generals del 29-N. Les dues formacions a l’esquerra del PSOE competiran a Catalunya i també a Madrid. Paral·lelament, el […]",
       "url": "https://beteve.cat/politica/front-ampli-podem-sense-acord-concorren-separat-29-n/",
       "published": "2026-10-17T09:39:37+02:00",
