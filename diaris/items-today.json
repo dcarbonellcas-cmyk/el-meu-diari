@@ -23,7 +23,7 @@
     },
     {
       "source": "betevé",
-      "title": "Instal·len barreres de plàstic per evitar inundacions a l’estació Parc Logístic de l’L9S",
+      "title": "Prova pilot al metro per evitar inundacions: instal·len barreres de plàstic provisionals",
       "excerpt": "TMB ha instal·lat barreres antiinundacions en un dels accessos de l’estació de Parc Logístic, de l’L9S, davant la previsió de pluges torrencials per a aquest vespre a Barcelona. Aquestes tanques són unes estructures de plàstic en forma de ela que permeten desviar l’aigua i evitar així inundacions a les instal·lacions i equipaments de l’estació. Es […]",
       "url": "https://beteve.cat/mobilitat/installen-barreres-plastic-evitar-inundacions-estacio-parc-logistic-l9s/",
       "published": "2026-10-17T17:42:45+02:00",
@@ -76,6 +76,16 @@
       "category": "Societat",
       "image": null,
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Nous enfrontaments i incendis durant les protestes contra el govern a Albània",
+      "excerpt": "Manifestants incendien la seu del Banc d’Albània i exigeixen la dimissió del primer ministre Edi Rama",
+      "url": "https://www.vilaweb.cat/noticies/nous-enfrontaments-incendis-protestes-govern-albania/",
+      "published": "2026-10-17T20:41:54+02:00",
+      "category": "Món",
+      "image": null,
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -209,13 +219,63 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo",
-      "title": "Front Ampli i Podem giren full i Sánchez sorprèn fent entrar Begoña Gómez en campanya",
-      "excerpt": "Feijóo qualifica l'acord del PSOE amb Front Ampli per al Senat de \"coalició de desesperats\" i Junts es reivindica per aturar \"els dos blocs espanyols\"",
-      "url": "https://www.3cat.cat/3catinfo/front-ampli-i-podem-giren-full-i-sanchez-sorpren-fent-entrar-begona-gomez-en-campanya/noticia/3434679/",
-      "published": "2026-10-17T19:12:45+02:00",
+      "source": "ARA",
+      "title": "El mestratge de Hansi Flick amb Lamine Yamal: els apunts en calent del Betis-Barça",
+      "excerpt": "El Barça supera el Betis a la Cartuja de Sevilla en un partit que s'ha embogit a l'inici de la segona meitat. Ningú avui aconseguit esgarrapar punts fins avui a casa del conjunt verd-i-blanc.",
+      "url": "https://www.ara.cat/esports/barca/mestratge-hansi-flick-lamine-yamal-apunts-calent-betis-barca_1_5882220.html",
+      "published": "2026-10-17T20:31:30+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/0/1792254676107.jpg",
+      "image": "https://static1.ara.cat/clip/1409b8f1-25a5-456b-bb4f-5637a0f6885e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Detenen un veí de Corbins acusat d'agredir sexualment diverses familiars durant anys",
+      "excerpt": "La policia investiga si hauria difós material amb contingut sexual per les xarxes o si hauria consumit pornografia infantil",
+      "url": "https://www.3cat.cat/3catinfo/detenen-un-vei-de-corbins-acusat-dagredir-sexualment-diverses-familiars-durant-anys/noticia/3434688/",
+      "published": "2026-10-17T20:29:23+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/5/1790102150958.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Per què els autors canvien d'editorial? Set casos polèmics recents",
+      "excerpt": "\"Mai no m'havia presentat a un concurs literari per evitar no quedar última\" , assegurava Isabel Allende durant el discurs de recepció del 75è premi Planeta, dotat amb un milió d'euros, que implicava que deixés Penguin Random House i passés a formar part del grup actualment presidit per José Creuheras. La notícia ha reobert, una vegada més, la polèmica sobre els canvis d'editorial per part d'alguns autors, sovint esperonats per guardons literaris a obra inèdita, però també per ofertes econòmiques difícils de rebutjar (tot i…",
+      "url": "https://llegim.ara.cat/actualitat/l-escandol-canviar-d-editorial-set-casos-recents_1_5882012.html",
+      "published": "2026-10-17T20:20:39+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6d69b659-5eb6-433a-9a96-7a77318cc22c_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Plou a Barcelona? Segueix l’episodi de pluges i tempestes | DIRECTE",
+      "excerpt": "L’episodi de pluges i tempestes d’aquest cap de setmana tindrà el seu punt culminant entre el vespre i la nit d’aquest dissabte. Pot comprovar en directe el creixement de les tempestes i si plou o no a Barcelona amb la nostra càmera. La pluja, de nord a sud amb el pas de les hores L’episodi […]",
+      "url": "https://beteve.cat/medi-ambient/pluges-tempestes-camera-directe-montjuic-port-olimpic-octubre-2026/",
+      "published": "2026-10-17T20:18:59+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/06/directe-tempestes-pluja-4-juny.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-18-10-2026_134_5881571.html",
+      "published": "2026-10-17T20:05:30+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La soledat, un problema silenciat",
+      "excerpt": "Es parla poc de la soledat no desitjada. Tenim tants problemes socials de gran magnitud –l'habitatge, la crisi educativa, la pobresa cronificada, la salut mental...– que la soledat no volguda, que és poc evident a primera vista, no genera alarma. Però en el món que hem construït és un malestar creixent: cada cop més gent, de tota condició social i edat, d'entorns urbans i rurals, viu el trauma de l'aïllament social. Fins i tot persones que no ho diríem mai. No afecta, com molts es…",
+      "url": "https://www.ara.cat/editorial/soledat-problema-silenciat_129_5881477.html",
+      "published": "2026-10-17T20:01:40+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ed5ede0c-26d8-4b29-afd4-fc8f47e0e709_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -223,9 +283,49 @@
       "title": "Alerta per un nou episodi de pluges intenses: demanen reduir la mobilitat | DIRECTE",
       "excerpt": "Aquest dissabte arriba un altre episodi de pluja a Barcelona, quan encara són molt presents els efectes del darrer temporal, de principis d’octubre. En aquest cas, la pluja arriba acompanyada d’una baixada notable de la temperatura. El Servei Meteorològic de Catalunya ha elevat els avisos i hi ha set comarques en avís vermell, entre les […]",
       "url": "https://beteve.cat/societat/nou-episodi-pluja-afectacions-barcelona-17-octubre-directe/",
-      "published": "2026-10-17T19:07:24+02:00",
+      "published": "2026-10-17T19:51:22+02:00",
       "category": "societat",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/temporal-pluja-ciutat-directe-171026-2026-10-17-1.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/directe-nuvol-pluja-2026-10-17.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La dimissió com a acte gesticulatiu",
+      "excerpt": "Solem considerar les dimissions un gest honorable (i rar) però sovint són més cosmètiques que resolutives. En el cas de la portaveu dels socialistes és obvi que es tracta d’una qüestió estètica: fa de mal veure que surti algú fent grans proclames en favor dels llogaters mentre la seva parella activa desnonaments als jutjats i especula al casinet immobiliari, on la banca també sempre guanya. Ara, m’hi jugaria un pèsol, o un àtic a Madrid si el tingués, que no deu ser pas l’única política…",
+      "url": "https://www.ara.cat/media/dimissio-acte-gesticulatiu_129_5882359.html",
+      "published": "2026-10-17T19:41:40+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/16f213cd-4284-4852-a673-3e8529ec72ba_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La vinyeta",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/vinyeta-manel-fontdevila-18-10-2026_134_5882377.html",
+      "published": "2026-10-17T19:35:17+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Diumenge de plena tardor: dia ben rúfol, amb ruixats i un ambient ben fresc",
+      "excerpt": "La previsió del temps per a aquest diumenge, 18 d’octubre, continua marcada per la inestabilitat, amb pluja i un ambient de plena tardor. És recomanable mantenir el paraigua i la màniga llarga ben a prop. La pluja caurà de forma minsa i continuada gran part del dia. Previsió horària per a Barcelona: Pluja menys intensa […]",
+      "url": "https://beteve.cat/medi-ambient/pluja-menys-intensa-i-fresca-de-tardor/",
+      "published": "2026-10-17T19:14:20+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/03/proteccio-civil-alerta-inuncat-episodi-pluja-intensa-marc-2026.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Front Ampli i Podem giren full i Sánchez sorprèn fent entrar Begoña Gómez en campanya",
+      "excerpt": "Feijóo qualifica l'acord del PSOE amb Front Ampli per al Senat de \"coalició de desesperats\" i Junts es reivindica per aturar \"els dos blocs espanyols\"",
+      "url": "https://www.3cat.cat/3catinfo/front-ampli-i-podem-giren-full-i-sanchez-sorpren-fent-entrar-begona-gomez-en-campanya/noticia/3434679/",
+      "published": "2026-10-17T19:12:45+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/0/1792254676107.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -319,6 +419,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "El Barça fa una maneta al Betis en un partit calent a la Cartuja (2-5)",
+      "excerpt": "Els de Hansi Flick segueixen comptant els seus partits per victòries en un inici històric de la Lliga",
+      "url": "https://www.3cat.cat/3catinfo/en-directe-betis-barca-un-duel-de-champions-a-la-cartuja/noticia/3434573/",
+      "published": "2026-10-17T18:46:47+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/8/1792261212686.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "L’autoria en temps d'IA",
       "excerpt": "OpenAI ha donat a conèixer més de 720 documents de treball que recullen avenços matemàtics confegits amb molt poc temps, molts diners i uns “assistents matemàtics (IA)” que són un prodigi. Quan tot sigui degudament contrastat, podrem calibrar-ne la importància. Per part meva em reservo l’aplaudiment més entusiasta per al dia que es resolguin algunes preguntes centrals a les matemàtiques del present (com la hipòtesi de Riemann o la de P diferent de NP). És segur, però, que les maneres de fer de la professió…",
@@ -390,8 +500,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El Papa rep l’alta i abandona l’hospital Gemelli després d’una operació al pulmó.",
-      "excerpt": "Leó XIV té previst de resar l’Àngelus diumenge des del Vaticà, després d’haver-se sotmès a una intervenció per extirpar-li un adenocarcinoma",
+      "title": "El Papa rep l’alta i abandona l’hospital Gemelli després d’una operació al pulmó",
+      "excerpt": "Lleó XIV té previst de resar l’Àngelus diumenge des del Vaticà, després d’haver-se sotmès a una intervenció per extirpar-li un adenocarcinoma",
       "url": "https://www.vilaweb.cat/noticies/papa-rep-alta-abandona-hospital-gemelli-operacio-pulmo/",
       "published": "2026-10-17T17:41:56+02:00",
       "category": "Món",
@@ -410,8 +520,8 @@
     },
     {
       "source": "ARA",
-      "title": "Enfrontaments i aldarulls arreu de França: ¿Tornen els 'armilles grogues'?",
-      "excerpt": "Tot va començar amb un vídeo a TikTok que va publicar un jove a principis de setembre en què convocava una manifestació el 17 d'octubre per l'alça dels preus dels carburants i un seguit de missatges en diferents xarxes socials apel·lant al retorn dels armilles grogues, el moviment de protesta que el 2018 va fer sortir al carrer milers de francesos exasperats per la pèrdua de poder adquisitiu. Fa vuit anys, el detonant va ser precisament l'elevat preu de la gasolina i del gasoil. Pocs…",
+      "title": "França s'encén contra el cost de la vida: ¿Tornen els 'armilles grogues'?",
+      "excerpt": "Entre 550.000 i 800.000 persones han protestat aquest dissabte a França, segons les autoritats gal·les. Arreu del país hi havia convocades més de 90 manifestacions i 500 protestes, i moltes han acabat amb aldarulls —especialment greus a París—, en una jornada en què la policia ha detingut 400 persones. A la capital francesa, les escenes de caos i els enfrontaments entre la policia i els manifestants han estat una constant durant tot el dia, amb la plaça de la República com a epicentre.",
       "url": "https://www.ara.cat/internacional/europa/enfrontaments-aldarulls-arreu-franca-tornen-armilles-grogues_1_5881055.html",
       "published": "2026-10-17T17:33:38+02:00",
       "category": "Actualitat",
@@ -485,8 +595,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Indignació amb la Generalitat Valenciana perquè torna a ignorar el català en el missatge de l’Es-Alert",
-      "excerpt": "Hi ha malestar per l'exclusió de la llengua en els avisos d'emergència",
+      "title": "Indignació amb la Generalitat Valenciana perquè torna a ignorar el català al missatge de l’Es-Alert",
+      "excerpt": "Hi ha malestar per l'exclusió de la llengua als avisos d'emergència",
       "url": "https://www.vilaweb.cat/noticies/indignacio-generalitat-valenciana-ignorar-catala-missatge-es-alert/",
       "published": "2026-10-17T16:51:04+02:00",
       "category": "Societat",
@@ -506,7 +616,7 @@
     {
       "source": "VilaWeb",
       "title": "Xavier García Albiol serà el candidat del PP per Barcelona el 29-N",
-      "excerpt": "Els populars han confirmat el nomenament i preparen un acte amb Feijóo demà, diumenge, a Barcelona",
+      "excerpt": "El PP en confirma el nomenament i prepara un acte amb Feijóo demà a Barcelona",
       "url": "https://www.vilaweb.cat/noticies/xavier-garcia-albiol-llista-pp-barcelona-29n/",
       "published": "2026-10-17T16:20:37+02:00",
       "category": "Espanya",
@@ -514,19 +624,9 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Plou a Barcelona? Segueix l’episodi de pluges i tempestes | DIRECTE",
-      "excerpt": "L’episodi de pluges i tempestes d’aquest cap de setmana tindrà el seu punt culminant entre el vespre i la nit d’aquest dissabte. Pot comprovar en directe el creixement de les tempestes i si plou o no a Barcelona amb la nostra càmera. La pluja, de nord a sud amb el pas de les hores L’episodi […]",
-      "url": "https://beteve.cat/medi-ambient/pluges-tempestes-camera-directe-montjuic-port-olimpic-octubre-2026/",
-      "published": "2026-10-17T16:17:19+02:00",
-      "category": "medi ambient",
-      "image": "https://img.beteve.cat/wp-content/uploads/2025/02/cartela-directe-centrat-pluja-barcelona-22-febrer-2025.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "3CatInfo",
-      "title": "Gairebé 300 detinguts i aldarulls arreu de França en unes protestes socials multitudinàries",
-      "excerpt": "Estudiants, treballadors i antics armilles grogues han confluït en les manifestacions per protestar contra l'augment del cost de la vida i dels carburants i l'erosió de l'estat del benestar",
+      "title": "Uns 400 detinguts i aldarulls arreu de França en unes protestes socials multitudinàries",
+      "excerpt": "550.000 persones s'han manifestat arreu del país contra l'augment del cost de la vida i dels carburants i l'erosió de l'estat del benestar",
       "url": "https://www.3cat.cat/3catinfo/desenes-de-detinguts-i-aldarulls-en-les-protestes-socials-multitudinaries-arreu-de-franca/noticia/3434647/",
       "published": "2026-10-17T16:13:56+02:00",
       "category": "Actualitat",
@@ -690,7 +790,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Uns dos mil manifestants omplen els carrers de Perpinyà contra l’encariment de la vida",
+      "title": "Prop de dos mil manifestants omplen els carrers de Perpinyà contra l’encariment de la vida",
       "excerpt": "La marxa ha aplegat famílies i joves · Alguns manifestants han tallat el trànsit al pont d'Aragó i a la carretera d'accés nord",
       "url": "https://www.vilaweb.cat/noticies/dos-mil-manifestants-omplen-carrers-perpinya-contra-encariment-vida/",
       "published": "2026-10-17T12:17:35+02:00",
@@ -1165,12 +1265,12 @@
     },
     {
       "source": "ARA",
-      "title": "Guia del partit Betis-Barça de Lliga: horari, on veure'l i alineacions",
-      "excerpt": "La Cartuja de Sevilla. És la primera parada d'una intensa i exigent setmana per al Barça. L'equip de Hansi Flick visitarà aquest dissabte (18.30 hores) el camp del Reial Betis abans d'anar a París per enfrontar-se al PSG (dimarts 20 a les 21.00 hores, Movistar Liga de Campeones) i de rebre el Reial Madrid al clàssic disputat al Camp Nou (diumenge 26 a les 21.00 hores, DAZN). \"El més important és guanyar el partit d'aquest dissabte. Ells venen amb confiança després dels bons resultats i…",
+      "title": "Un Barça màgic reescriu la història de golejada en golejada",
+      "excerpt": "Per moments costa diferenciar on acaba el futbol i on comença l'art, amb aquest Barça. Un equip ple d'artistes que converteix un joc amb una pilota amb un espectacle que t'entra pels ulls, encadenant golejades com si fos fàcil fer cinc gols (2-5). I tot, amb Lamine Yamal fa de les seves. Un adolescent que està reescrivint els llibres d'història del futbol. A un estadi que sempre imposa, l'equip de Hansi Flick tampoc va fallar, tot i que per moments va patir. L'escenari era complex…",
       "url": "https://www.ara.cat/esports/barca/betis-barca-lliga-202627_1_5880872.html",
       "published": "2026-10-17T00:05:29+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/5faad54a-3409-4031-9a8d-59e598703fdc_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/80093a0b-2892-4f8d-8a9d-fbb5c6f3f2ac_16-9-aspect-ratio_default_0_x1003y483.jpg",
       "priority": "3 · Altres notícies"
     }
   ]
