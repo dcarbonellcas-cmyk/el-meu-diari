@@ -38,6 +38,26 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "Alerta pels aiguats: primeres línies de tren suspeses a Catalunya i Es-Alert al litoral del País Valencià",
+      "excerpt": "Les tempestes fan activar el perill màxim a set comarques del Principat i a part del litoral del País Valencià",
+      "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
+      "published": "2026-10-17T10:51:26+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "L'habitatge: bé de primera necessitat, bé d'inversió o dret social?",
+      "excerpt": "El segon episodi del pòdcast Tocar sostre gira al voltant de com hem d'entendre l'habitatge: és un bé de primera necessitat, un bé d'inversió o un dret social? Hi participen l'antropòleg urbà Manuel Delgado , l'economista Josep Oliver , i l'economista i presidenta de la Fundació Hàbitat3, Carme Trilla . Modera la periodista Carla Turró .",
+      "url": "https://www.ara.cat/podcasts/tocar-sostre/l-habitatge-be-primera-necessitat-be-d-inversio-dret-social_1_5881166.html",
+      "published": "2026-10-17T15:00:56+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/da3d5da8-7a55-4655-9ff8-eb6b229442ae_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de diumenge: pluja menys intensa, però a més comarques",
       "excerpt": "Baixa la probabilitat d'aiguats torrencials després de la matinada",
@@ -99,6 +119,16 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Un esvoranc altera el bus 183 i la paciència del veïnat de Torre Baró: l’espera s’amplia a una hora",
+      "excerpt": "Els forts aiguats de les darreres setmanes van fer que s’obrís un esvoranc a la part alta del carrer de Sant Feliu de Codines i una primera conseqüència és que s’ha hagut de desviar el recorregut del Bus del Barri 183. Una segona és que la ruta alternativa només admet busos petits i només un […]",
+      "url": "https://beteve.cat/mobilitat/esvoranc-altera-linia-bus-183-paciencia-veinat-torre-baro/",
+      "published": "2026-10-17T14:46:44+02:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/esvoranc-alter-bus-183-torre-baro-2026-10-16.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "El Semicercles denuncia que la catalanofòbia continua condicionant la percepció social del català i afebleix la llengua",
       "excerpt": "El seminari de la Plataforma per la Llengua ha acollit més de 150 persones · En l'edició d'enguany s'han analitzat les arrels històriques de l’hostilitat contra la llengua, el paper dels mitjans de comunicació i els reptes per a reforçar-ne l’ús social",
@@ -129,6 +159,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-736/",
+      "published": "2026-10-17T13:55:00+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "107 detinguts i 23 investigats en un nou dispositiu Kanpai contra la multireincidència arreu de Catalunya",
       "excerpt": "L’operatiu ha mobilitzat 1.300 agents i ha permès d’identificar prop de 4.000 persones",
@@ -143,7 +183,7 @@
       "title": "B de gust: Direkte",
       "excerpt": "Assaboreix l’oferta gastronòmica de Barcelona cada migdia. El ‘B de gust’ et convida a entrar a bars i forns de barri, restaurants de cuina catalana o internacional i mercats de producte fresc. Tot això, amanit amb entrevistes, receptes, reportatges i recomanacions. Presentat per Carmen Cortés.",
       "url": "https://beteve.cat/b-de-gust/b-de-gust-direkte/",
-      "published": "2026-10-17T13:08:17+02:00",
+      "published": "2026-10-17T13:20:00+02:00",
       "category": "Actualitat",
       "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
       "priority": "3 · Altres notícies"
@@ -330,16 +370,6 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Rodalia suspèn aquesta nit la circulació de la R2 Sud i Regionals Sud per la pluja intensa",
-      "excerpt": "Les tempestes fan activar el perill màxim a set comarques del Principat i a part del litoral del País Valencià",
-      "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
-      "published": "2026-10-17T10:51:26+02:00",
-      "category": "Societat",
-      "image": null,
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "VilaWeb",
       "title": "El PSOE nomena Rebeca Torró nova portaveu després de la dimissió de Montse Mínguez",
       "excerpt": "La direcció socialista cobreix les vacants que havia deixat Mínguez en plena polèmica pels negocis immobiliaris de la seua parella",
       "url": "https://www.vilaweb.cat/noticies/psoe-designa-rebeca-torro-nova-portaveu-dimissio-montse-minguez/",
@@ -351,7 +381,7 @@
     {
       "source": "ARA",
       "title": "Dia D al Front Ampli després de la ruptura amb Podem: \"Si algú no vol seure, no se'l pot obligar\"",
-      "excerpt": "Los niños del barrio és la cançó amb la qual han sortit els líders de Front Ampli aquest dissabte davant centenars de militants que esperaven conèixer el projecte que aglutinarà les esquerres a l'Estat a les eleccions del 29-N. Però no hi eren tots. Faltaven los niños de Podem, amb qui la possibilitat de concórrer conjuntament a Madrid, Barcelona i altres territoris s'esfumava aquest divendres després d'una negociació \"agònica\", reconeixen algunes veus d'aquest espai, que han arribat a l'acte de Madrid sense pràcticament haver dormit.…",
+      "excerpt": "Amb la cançó Los niños del barrio han sortit els líders del Front Ampli aquest dissabte a Madrid davant més d'un miler de militants que esperaven conèixer el projecte que aglutinarà les esquerres a l'Estat en les eleccions del 29-N. Però no hi eren tots. Faltaven los niños de Podem, amb qui la possibilitat de concórrer conjuntament a Madrid, Barcelona i altres territoris s'esfumava aquest divendres a la nit després d'una negociació \"agònica\", reconeixen algunes veus d'aquest espai, que han arribat a l'acte sense pràcticament…",
       "url": "https://www.ara.cat/politica/urtasun-sera-numero-candidatura-front-ampli-barcelona-eleccions-29-n_1_5881899.html",
       "published": "2026-10-17T10:26:14+02:00",
       "category": "Actualitat",
@@ -371,7 +401,7 @@
     {
       "source": "ARA",
       "title": "Sánchez crida a la mobilització en un míting convertit en una declaració d'amor a la seva dona",
-      "excerpt": "El president del govern espanyol, Pedro Sánchez, ha iniciat la precampanya apel·lant a la mobilització dels progressistes per aturar \"l'onada reaccionària\". “Estan aquí, estan a Espanya, estan a Europa, estan als Estats Units i cal aturar-los”, ha dit mentre a les pantalles sortien imatges de Donald Trump, Beniamin Netanyahu o Javier Milei, que han estat escridassats pels més de tres mil assistents que omplien el recinte de Fuenlabrada on s'ha celebrat l'acte. \"Hem de mobilitzar-nos, hem de votar, hem de guanyar i hem de governar…",
+      "excerpt": "\"Que ho sentin fort i clar: t'estimo\". Així s'ha dirigit a la seva esposa el president del govern espanyol, Pedro Sánchez, durant un míting a Fuenlabrada posterior al comitè federal que ha aprovat les llistes del PSOE de cara al 29-N. En un acte amb una alta càrrega emotiva, Sánchez ha començat el seu discurs fent referència a Begoña Gómez, la seva dona, que està pendent de judici i seia a la primera fila. “Ens han intentat trencar de totes les maneres i han aconseguit…",
       "url": "https://www.ara.cat/politica/valenciana-rebeca-torro-nova-portaveu-psoe-despres-renuncia-montse-minguez_1_5881893.html",
       "published": "2026-10-17T10:15:33+02:00",
       "category": "Actualitat",
