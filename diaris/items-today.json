@@ -2,6 +2,26 @@
   "date": "2026-10-17",
   "items": [
     {
+      "source": "betevé",
+      "title": "Alerta per un nou episodi de pluges intenses: aiguats forts al Maresme i al Vallès Oriental",
+      "excerpt": "Aquest dissabte arriba un altre episodi de pluja a Barcelona, quan encara són molt presents els efectes del darrer temporal, de principis d’octubre. En aquest cas, la pluja arriba acompanyada d’una baixada notable de la temperatura. El Servei Meteorològic de Catalunya ha elevat els avisos i hi ha set comarques en avís vermell, entre les […]",
+      "url": "https://beteve.cat/societat/nou-episodi-pluja-afectacions-barcelona-17-octubre-directe/",
+      "published": "2026-10-17T21:14:41+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/tractorada-via-laietana-directe-2026-10-17.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "Nit i matinada d'aiguats amb un diumenge plujós i més fresc",
+      "excerpt": "La dana ‘Adam’ i l’entrada de vents marítims humits ja estan provocant les primeres tempestes i alguns aiguats intensos (61 l/m 2 a Cabrils, 39 l/m 2 a Caldes de Montbuí o a Santa Coloma de Farners). El contacte de la bossa freda, amb temperatures a 5.500 m de fins a -18 ºC - i l'aire més càlid i humit que tenim damunt del nostre territori- ajudaran que els núvols es disparin i es formin tempestes violentes.",
+      "url": "https://www.ara.cat/previsions/nit-matinada-d-aiguats-diumenge-plujos-mes-fresc_1_5882152.html",
+      "published": "2026-10-17T21:00:09+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c397f731-14ab-427c-a4a1-504b8bb8b070_16-9-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "\"Amb la guerra sents una necessitat visceral de connexió amb la teva terra i amb la teva gent\"",
       "excerpt": "L'escriptora Sofia Andrukhóvitx (Ucraïna, 1982) continua intentant, malgrat la guerra, escriure des de Kíiv. Aquests dies és a Barcelona per parlar de memòria, trauma i creació en temps de conflicte a la Biennal de Pensament, i per presentar La historia de Romana y Uliana. Amadoca (Salamandra), traduïda al castellà per Olga Korobenko. Concebuda originalment en tres parts interconnectades (la història de la Romana, la història de la Uliana i la història de la Sofia), l'edició en castellà recull només els dos primers llibres. A través…",
@@ -65,16 +85,6 @@
       "published": "2026-10-17T11:11:11+02:00",
       "category": "seguretat ciutadana",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/detinguts-bcn-171026-2026-10-17.jpg",
-      "priority": "1 · Urgent"
-    },
-    {
-      "source": "VilaWeb",
-      "title": "Alerta pels aiguats: Es-Alert enviats a Catalunya i al litoral del País Valencià",
-      "excerpt": "Les tempestes fan activar el perill màxim a set comarques del Principat i a part del litoral del País Valencià",
-      "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
-      "published": "2026-10-17T10:51:26+02:00",
-      "category": "Societat",
-      "image": null,
       "priority": "1 · Urgent"
     },
     {
@@ -219,9 +229,79 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Les primeres informacions sobre la lesió d’Èric Garcia contra el Betis a tres dies del PSG",
+      "excerpt": "Èric Garcia ha hagut de deixar el terreny de joc al minut 90 en la victòria contra el Betis per 2 a 5 per problemes a la cama dreta. De fet, al final de l’enfrontament se l’ha vist amb un gran embenat a la cuixa. Una lesió que arriba a tres dies del partit al […]",
+      "url": "https://beteve.cat/esports/primeres-informacions-sobre-lesio-eric-garcia/",
+      "published": "2026-10-17T21:23:28+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/eric-garcia-lesio-betis-2026-10-17.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "À la ville de Barcelona 40 anys",
+      "excerpt": "El documental que veurem en el Punt de fuga tracta sobre la nominació de Barcelona com a ciutat olímpica i els testimonis expliquen com van viure aquella notícia. Tot seguit, a la sala, parlarem amb persones que van treballar perquè aquest projecte fos possible i ens explicaran com es va aconseguir la fita.",
+      "url": "https://beteve.cat/punt-de-fuga/a-la-ville-de-barcelona-40-anys/",
+      "published": "2026-10-17T21:11:43+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Fox News es carrega la portaveu de Trump",
+      "excerpt": "Aquesta setmana passada la nova portaveu de la Casa Blanca, Katie Zacharia, debutava a la sala de premsa en una compareixença que va ser un fracàs. Nerviosa i superada, en catorze minuts només va atendre tres preguntes.",
+      "url": "https://www.ara.cat/media/fox-news-carrega-portaveu-trump_129_5882457.html",
+      "published": "2026-10-17T21:08:43+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9f7aa23a-043b-4d16-9273-e1143b16b0bf_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els Bombers busquen una persona caiguda a la riera a Cabrera de Mar",
+      "excerpt": "Catalunya torna a passar una nit en alerta per un temporal de pluges. Per ara, els aiguats d'aquest dissabte estan descarregant sobretot a la zona del Maresme i del Vallès Oriental, on la capital, Granollers, torna a ser castigada per la pluja torrencial. Protecció Civil ha enviat un ES-Alert específic a la ciutat vallesana per demanar a la ciutadania que eviti els desplaçaments, no s’acosti a rius, rieres i barrancs, no baixi a soterranis i pugi a pisos superiors si entra aigua.",
+      "url": "https://www.ara.cat/societat/successos/bombers-busquen-persona-caiguda-riera-cabrera-mar_1_5882477.html",
+      "published": "2026-10-17T21:07:10+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b94cad36-9310-4cc9-862c-e062071667b3_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies vespre",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-vespre/beteve-noticies-vespre-448/",
+      "published": "2026-10-17T21:03:01+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "On eres el 17 d’octubre del 1986? betevé estrena ‘À la ville de Barcelona. 40 anys’",
+      "excerpt": "Aquest dissbabte 17 d’octubre fa 40 anys d’aquell moment que molts barcelonins tenen en la memòria com una de les frases que van canviar la història i, sobretot, la ciutat de Barcelona. A Lausana, a Suïssa, Joan Antoni Samaranch va obrir un sobre que revelava quina seria la pròxima ciutat a acollir uns jocs olímpics: […]",
+      "url": "https://beteve.cat/punt-de-fuga/estrena-a-la-ville-de-barcelona-40-anys/",
+      "published": "2026-10-17T20:40:30+02:00",
+      "category": "comunicació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/a-la-ville-barcelona-2026-10-13.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Barça triomfa a La Cartuja i obté la novena victòria a la Lliga davant el Betis",
+      "excerpt": "El Barça volia allargar la ratxa imparable de victòries i ha sortit a La Cartuja amb les idees ben clares, tot i que amb alguns canvis en l’onze inicial, amb Jules Kounde, Xavi Espart i Karim Adeyemi. Una primera part boja, molt entretinguda per a l’espectador, ha donat avantatge mínim al Barça (1-2) i a […]",
+      "url": "https://beteve.cat/esports/barca-triomfa-cartuja-obte-novena-victoria-lliga-davant-betis/",
+      "published": "2026-10-17T20:36:44+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/lamine_betis_fcb_171026_OK_OK-2026-10-17.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "El mestratge de Hansi Flick amb Lamine Yamal: els apunts en calent del Betis-Barça",
-      "excerpt": "El Barça supera el Betis a la Cartuja de Sevilla en un partit que s'ha embogit a l'inici de la segona meitat. Ningú avui aconseguit esgarrapar punts fins avui a casa del conjunt verd-i-blanc.",
+      "excerpt": "El Barça supera el Betis a la Cartuja de Sevilla (2-5) en un partit que ha embogit a l'inici de la segona meitat. Ningú fins avui ha aconseguit esgarrapar punts a casa del conjunt verd-i-blanc.",
       "url": "https://www.ara.cat/esports/barca/mestratge-hansi-flick-lamine-yamal-apunts-calent-betis-barca_1_5882220.html",
       "published": "2026-10-17T20:31:30+02:00",
       "category": "Actualitat",
@@ -279,16 +359,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Alerta per un nou episodi de pluges intenses: demanen reduir la mobilitat | DIRECTE",
-      "excerpt": "Aquest dissabte arriba un altre episodi de pluja a Barcelona, quan encara són molt presents els efectes del darrer temporal, de principis d’octubre. En aquest cas, la pluja arriba acompanyada d’una baixada notable de la temperatura. El Servei Meteorològic de Catalunya ha elevat els avisos i hi ha set comarques en avís vermell, entre les […]",
-      "url": "https://beteve.cat/societat/nou-episodi-pluja-afectacions-barcelona-17-octubre-directe/",
-      "published": "2026-10-17T19:51:22+02:00",
-      "category": "societat",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/directe-nuvol-pluja-2026-10-17.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "ARA",
       "title": "La dimissió com a acte gesticulatiu",
       "excerpt": "Solem considerar les dimissions un gest honorable (i rar) però sovint són més cosmètiques que resolutives. En el cas de la portaveu dels socialistes és obvi que es tracta d’una qüestió estètica: fa de mal veure que surti algú fent grans proclames en favor dels llogaters mentre la seva parella activa desnonaments als jutjats i especula al casinet immobiliari, on la banca també sempre guanya. Ara, m’hi jugaria un pèsol, o un àtic a Madrid si el tingués, que no deu ser pas l’única política…",
@@ -315,7 +385,7 @@
       "url": "https://beteve.cat/medi-ambient/pluja-menys-intensa-i-fresca-de-tardor/",
       "published": "2026-10-17T19:14:20+02:00",
       "category": "medi ambient",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/03/proteccio-civil-alerta-inuncat-episodi-pluja-intensa-marc-2026.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/diumenge_pluja-2026-10-17.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -809,16 +879,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "On eres el 17 d’octubre del 1986? betevé estrena ‘À la ville de Barcelona. 40 anys’",
-      "excerpt": "Aquest dissbabte 17 d’octubre fa 40 anys d’aquell moment que molts barcelonins tenen en la memòria com una de les frases que van canviar la història i, sobretot, la ciutat de Barcelona. A Lausana, a Suïssa, Joan Antoni Samaranch va obrir un sobre que revelava quina seria la pròxima ciutat a acollir uns jocs olímpics: […]",
-      "url": "https://beteve.cat/punt-de-fuga/estrena-a-la-ville-de-barcelona-40-anys/",
-      "published": "2026-10-17T11:57:04+02:00",
-      "category": "comunicació",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/a-la-ville-barcelona-2026-10-13.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "VilaWeb",
       "title": "Restablert el servei d’alta velocitat entre Barcelona i Figueres després d’un tall de tensió a la catenària",
       "excerpt": "El tall s’ha produït abans de dos quarts de dotze",
@@ -911,6 +971,16 @@
       "published": "2026-10-17T10:56:37+02:00",
       "category": "esports",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/09/raphinha-hat-trick-sevilla-2026-09-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Cerquen una persona que hauria caigut a la riera a Cabrera de Mar",
+      "excerpt": "S’ha iniciat un dispositiu de recerca amb Bombers, Mossos i Salvament Marítim",
+      "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
+      "published": "2026-10-17T10:51:26+02:00",
+      "category": "Societat",
+      "image": null,
       "priority": "3 · Altres notícies"
     },
     {
@@ -1266,7 +1336,7 @@
     {
       "source": "ARA",
       "title": "Un Barça màgic reescriu la història de golejada en golejada",
-      "excerpt": "Per moments costa diferenciar on acaba el futbol i on comença l'art, amb aquest Barça. Un equip ple d'artistes que converteix un joc amb una pilota amb un espectacle que t'entra pels ulls, encadenant golejades com si fos fàcil fer cinc gols (2-5). I tot, amb Lamine Yamal fa de les seves. Un adolescent que està reescrivint els llibres d'història del futbol. A un estadi que sempre imposa, l'equip de Hansi Flick tampoc va fallar, tot i que per moments va patir. L'escenari era complex…",
+      "excerpt": "A vegades costa diferenciar on acaba el futbol i on comença l'art, amb aquest Barça. Un equip ple d'artistes que converteix un joc amb una pilota en un espectacle que t'entra pels ulls, encadenant golejades com si fos fàcil fer cinc gols (2-5). I tot, amb un Lamine Yamal que en fa de les seves. Un adolescent que està reescrivint els llibres d'història del futbol. En un estadi que sempre imposa, l'equip de Hansi Flick tampoc va fallar, tot i que en algun moment va…",
       "url": "https://www.ara.cat/esports/barca/betis-barca-lliga-202627_1_5880872.html",
       "published": "2026-10-17T00:05:29+02:00",
       "category": "Actualitat",
