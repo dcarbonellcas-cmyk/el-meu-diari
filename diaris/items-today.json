@@ -33,7 +33,7 @@
       "excerpt": "Baixa la probabilitat d'aiguats torrencials després de la matinada",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/",
       "published": "2026-10-17T10:58:56+02:00",
-      "updated": "2026-10-17T11:54:17+02:00",
+      "updated": "2026-10-17T13:37:50+02:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/0/4/1792218539440.jpg",
       "video": {
@@ -99,9 +99,79 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "B de gust: Direkte",
+      "excerpt": "Assaboreix l’oferta gastronòmica de Barcelona cada migdia. El ‘B de gust’ et convida a entrar a bars i forns de barri, restaurants de cuina catalana o internacional i mercats de producte fresc. Tot això, amanit amb entrevistes, receptes, reportatges i recomanacions. Presentat per Carmen Cortés.",
+      "url": "https://beteve.cat/b-de-gust/b-de-gust-direkte/",
+      "published": "2026-10-17T13:08:17+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Catalunya oferirà cribratges de càncer de pulmó a majors de 60 anys fumadors",
+      "excerpt": "Malgrat els avenços, el càncer de pulmó continua sent el càncer més letal al món. Ara Catalunya fa un pas més per millorar-ne la prevenció. A partir de 2027, el departament de Salut oferirà cribratges de càncer de pulmó a majors de 60 anys que hagin fumat almenys un paquet al dia durant trenta anys. Més endavant, la mesura s’ampliarà a altres grups de població que es puguin beneficiar del diagnòstic precoç.",
+      "url": "https://www.ara.cat/societat/salut/catalunya-oferira-cribratges-cancer-pulmo-majors-60-anys-fumadors_1_5881972.html",
+      "published": "2026-10-17T13:04:43+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0ca39352-deab-4350-ae92-0ad42948a1bf_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"No és incompatible treballar per atraure públic local i turistes\"",
+      "excerpt": "És poc habitual que Judit Carrera, directora del Centre de Cultura Contemporània de Barcelona (CCCB), aparegui a les pàgines d'economia. La governança del turisme i l'accés a l'habitatge són dos reptes tan ingents i transversals que repercuteixen, també, en la definició de Barcelona com a ciutat i en les seves dinàmiques culturals. Des del CCCB ha posat aquests temes al centre de moltes de les seves activitats, des de la Biennal de Pensament que se celebra aquests dies fins al cicle Ciutats i turisme ,…",
+      "url": "https://www.ara.cat/economia/immobiliari/no-incompatible-treballar-atraure-public-local-turistes_128_5871182.html",
+      "published": "2026-10-17T13:00:11+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/761d701d-9da2-43d7-9e3f-730c43a93e03_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El manual de Putin: així ha aconseguit que Trump serveixi als interessos de Rússia",
+      "excerpt": "Els dos pitjors moments en la relació entre Donald Trump i Volodímir Zelenski han tingut un denominador comú: han arribat precedits d’una conversa telefònica del president dels Estats Units amb Vladímir Putin, en què el líder del Kremlin li ha promès grans negocis conjunts. Va passar el febrer del 2025, abans de la batussa pública entre el líder nord-americà i el líder ucraïnès al Despatx Oval de la Casa Blanca, i ha tornat a passar ara, arran de l’acord perquè Moscou vengui gasoil amb el…",
+      "url": "https://www.ara.cat/internacional/russia/manual-putin-aixi-aconseguit-trump-serveixi-als-interessos-russia_1_5881071.html",
+      "published": "2026-10-17T13:00:10+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f257f22e-f3a6-4cc6-89f6-f9a23a475332_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Pressió a l'Ajuntament per desencallar l'escalinata de la Sagrada Família",
+      "excerpt": "Fins no fa gaire, posar d'acord els veïns de la Sagrada Família i el temple semblava una missió impossible. Ara, però, l'Ajuntament de Barcelona ho ha aconseguit per partida doble. D'una banda, perquè abans de l'estiu va assolir un embrió de pacte sobre l'afectació que l'escalinata de la façana de la Glòria tindria sobre els edificis del davant que satisfeia les dues parts. De l'altra, perquè des d'aleshores manté un silenci que està impacientant els dos cantons de la negociació, que el pressionen perquè es…",
+      "url": "https://www.ara.cat/societat/barcelona/pressio-l-ajuntament-desencallar-l-escalinata-sagrada-familia_1_5880796.html",
+      "published": "2026-10-17T12:59:02+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0e124881-2f05-42e8-b19c-40be2732d231_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Avís vermell per pluja intensa a Barcelona: Protecció Civil enviarà un ES-Alert amb recomanacions",
+      "excerpt": "Davant la possibilitat que els xàfecs i tempestes puguin ser forts a Barcelona aquest dissabte, 17 d’octubre, el Servei Meteorològic de Catalunya ha elevat l’avís per intensitat de pluja al Barcelonès a nivell molt alt, de grau 5 sobre 6, durant la franja de les 18 h de dissabte fins a les 0 h de […]",
+      "url": "https://beteve.cat/medi-ambient/avis-vermell-pluja-intensa-es-alert-barcelona-octubre-2026/",
+      "published": "2026-10-17T12:48:35+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pluja-barcelona-2026-10-16-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "200 persones tallen la carretera de Vallvidrera per demanar la reobertura del Parc de Collserola",
+      "excerpt": "Una altra mobilització aquest dissabte per demanar la reobertura del Parc Natural del Collserola, tancat fa més de set mesos a causa de la pesta porcina africana. Unes 200 persones han tallat la carretera de Vallvidrera i han marxat en manifestació cap al Parc d’Atraccions del Tibidabo. Tot i que la protesta ha estat convocada […]",
+      "url": "https://beteve.cat/medi-ambient/tallen-carretera-vallvidrera-obertura-parc-collserola/",
+      "published": "2026-10-17T12:20:46+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/protesta-obrir-collserola-2-2026-10-17.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Uns dos mil manifestants omplen els carrers de Perpinyà contra l’encariment de la vida",
-      "excerpt": "La marxa ha aplegat famílies i joves i alguns manifestants han tallat el trànsit al pont d'Aragó i a la carretera d'accés nord",
+      "excerpt": "La marxa ha aplegat famílies i joves · Alguns manifestants han tallat el trànsit al pont d'Aragó i a la carretera d'accés nord",
       "url": "https://www.vilaweb.cat/noticies/dos-mil-manifestants-omplen-carrers-perpinya-contra-encariment-vida/",
       "published": "2026-10-17T12:17:35+02:00",
       "category": "Catalunya Nord",
@@ -111,7 +181,7 @@
     {
       "source": "betevé",
       "title": "Tallada l’alta velocitat entre Barcelona i Figueres durant una hora per una incidència",
-      "excerpt": "La circulació de trens d’alta velocitat s’ha hagut d’interrompre entre Barcelona i Figueres durant gairebé una hora aquest dissabte al matí per la falta de tensió en la catenària. Segons ha informat Adif, el tall ha afectat el tram entre Vilobí d’Onyar i Girona. Adif ha informat a través d’un missatge a la xarxa social […]",
+      "excerpt": "La circulació de trens d’alta velocitat s’ha hagut d’interrompre entre Barcelona i Figueres durant gairebé una hora aquest dissabte al matí per la falta de tensió a la catenària. Segons ha informat Adif, el tall ha afectat el tram entre Vilobí d’Onyar i Girona. Adif ha informat a través d’un missatge a la xarxa social […]",
       "url": "https://beteve.cat/mobilitat/tallada-alta-velocitat-barcelona-figueres-catenaria/",
       "published": "2026-10-17T12:07:13+02:00",
       "category": "mobilitat",
@@ -130,7 +200,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Restablerta l’alta velocitat entre Barcelona i Figueres després d’un problema de falta de tensió a la catenària",
+      "title": "Restablert el servei d’alta velocitat entre Barcelona i Figueres després d’un tall de tensió a la catenària",
       "excerpt": "El tall s’ha produït abans de dos quarts de dotze",
       "url": "https://www.vilaweb.cat/noticies/tallada-circulacio-tgv-barcelona-figueres-incidencia-catenaria/",
       "published": "2026-10-17T11:50:13+02:00",
@@ -160,7 +230,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "[VÍDEO] “Dins del vestidor s’ha de parlar català”: l’entrenador del Nàstic reivindica l’ús de la llengua",
+      "title": "[VÍDEO] “Dins el vestidor s’ha de parlar català”: l’entrenador del Nàstic reivindica l’ús de la llengua",
       "excerpt": "L’entrenador mallorquí reivindica la llengua i la història de l’escut",
       "url": "https://www.vilaweb.cat/noticies/entrenador-nastic-reivindica-us-catala/",
       "published": "2026-10-17T11:45:57+02:00",
@@ -169,9 +239,19 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "\"Sanguine\", una òpera prima contra l'explotació laboral, millor pel·lícula a Sitges: consulta el palmarès",
+      "excerpt": "El premi especial del jurat és per a \"Drag\", la comèdia terrorífica produïda per Danny DeVito i els seus fills Jake i Lucy",
+      "url": "https://www.3cat.cat/3catinfo/sanguine-una-opera-prima-contra-lexplotacio-laboral-millor-pellicula-a-sitges-consulta-el-palmares/noticia/3434632/",
+      "published": "2026-10-17T11:42:52+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/9/1792230569298.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "El públic i la crítica salven els mobles d’un palmarès de Sitges desolador",
-      "excerpt": "El públic del Festival de Sitges, tan assenyalat aquesta edició pel mal costum que tenen alguns espectadors d’aplaudir totes les morts violentes tant si és pertinent com si no, ha tornat a demostrar que, quan vol, pot ser el gran actiu d'aquest festival. I ho ha fet amb un gest senzill i natural, de justícia elemental: premiar la millor pel·lícula del festival, Wildwood , un film extraordinari que ja és història del cinema d’animació, si no del cinema en general. La pel·lícula de l’estudi d’animació…",
+      "excerpt": "El públic del Festival de Sitges, tan assenyalat aquesta edició pel mal costum que tenen alguns espectadors d’aplaudir totes les morts violentes tant si és pertinent com si no, ha tornat a demostrar que, quan vol, pot ser el gran actiu d'aquest festival. I ho ha demostrat amb un gest senzill i natural, de justícia elemental: premiar la millor pel·lícula del festival, Wildwood , un film extraordinari que ja és història del cinema d’animació, si no del cinema en general. La pel·lícula de l’estudi d’animació…",
       "url": "https://www.ara.cat/cultura/cinema/sanguine-sitges-festival-palmares-public-critica_1_5881921.html",
       "published": "2026-10-17T11:37:47+02:00",
       "category": "Actualitat",
@@ -191,11 +271,11 @@
     {
       "source": "betevé",
       "title": "Els Mossos investiguen diversos trets al barri del Besòs i el Maresme",
-      "excerpt": "(ACN/Redacció) Els Mossos d’Esquadra investiguen diversos trets al barri del Besòs i el Maresme, al districte de Sant Martí, segons ha avançat El Caso i ha pogut confirmar betevé amb fonts policials. Els trets es van sentir pels voltants de les 20.30 h d’aquest divendres. Sense ferits Segons ha confirmat la policia catalana, no s’ha […]",
+      "excerpt": "(ACN/Redacció) Els Mossos d’Esquadra investiguen diversos trets al barri del Besòs i el Maresme, al districte de Sant Martí, segons ha avançat El Caso i ha pogut confirmar betevé amb fonts policials. Els trets es van sentir pels voltants de les 20.30 h d’aquest divendres a la zona del carrer de Tarba. Sense ferits Segons […]",
       "url": "https://beteve.cat/societat/investiguen-diversos-trets-barri-besos-maresme/",
       "published": "2026-10-17T10:59:25+02:00",
       "category": "societat",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/picto-mossos-cinc-2026-09-18.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/tiroteig-besos-carrer-tarba-2026-10-17.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -211,7 +291,7 @@
     {
       "source": "VilaWeb",
       "title": "La pluja intensa fa activar el perill màxim a set comarques del Principat i l’avís groc al País Valencià",
-      "excerpt": "A Catalunya hi ha perill màxim a set comarques · Al País Valencià hi ha avís groc",
+      "excerpt": "A Catalunya, hi ha perill màxim a set comarques · Al País Valencià, hi ha avís groc",
       "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
       "published": "2026-10-17T10:51:26+02:00",
       "category": "Societat",
@@ -219,19 +299,9 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Avís vermell per pluja intensa a Barcelona: es podran superar els 40 l/m² en mitja hora",
-      "excerpt": "Davant la possibilitat que els xàfecs i tempestes puguin ser forts a Barcelona aquest dissabte, 17 d’octubre, el Servei Meteorològic de Catalunya ha elevat l’avís per intensitat de pluja al Barcelonès a nivell molt alt, de grau 5 sobre 6, durant la franja de les 18 h de dissabte fins a les 0 h de […]",
-      "url": "https://beteve.cat/medi-ambient/avis-vermell-pluja-intensa-es-alert-barcelona-octubre-2026/",
-      "published": "2026-10-17T10:37:23+02:00",
-      "category": "medi ambient",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pluja-barcelona-2026-10-16-1.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "VilaWeb",
-      "title": "El PSOE designa Rebeca Torró nova portaveu després de la dimissió de Montse Mínguez",
-      "excerpt": "La direcció socialista cobreix les vacants que havia deixat Mínguez en plena polèmica pels negocis immobiliaris de la seva parella",
+      "title": "El PSOE nomena Rebeca Torró nova portaveu després de la dimissió de Montse Mínguez",
+      "excerpt": "La direcció socialista cobreix les vacants que havia deixat Mínguez en plena polèmica pels negocis immobiliaris de la seua parella",
       "url": "https://www.vilaweb.cat/noticies/psoe-designa-rebeca-torro-nova-portaveu-dimissio-montse-minguez/",
       "published": "2026-10-17T10:36:29+02:00",
       "category": "Espanya",
