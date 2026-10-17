@@ -7,11 +7,11 @@
       "excerpt": "El risc de pluges torrencials es localitzarà a l'est del país",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/",
       "published": "2026-10-16T10:55:23+02:00",
-      "updated": "2026-10-17T14:31:15+02:00",
+      "updated": "2026-10-17T15:55:41+02:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/5/6/1792216324965.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6430984/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6431040/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/"
       },
@@ -39,13 +39,49 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Alerta pels aiguats: primeres línies de tren suspeses a Catalunya i Es-Alert al litoral del País Valencià",
+      "title": "Alerta pels aiguats: Es-Alert enviats a Catalunya i al litoral del País Valencià",
       "excerpt": "Les tempestes fan activar el perill màxim a set comarques del Principat i a part del litoral del País Valencià",
       "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
       "published": "2026-10-17T10:51:26+02:00",
       "category": "Societat",
       "image": null,
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Xavier García Albiol serà el candidat del PP per Barcelona a les eleccions del 29N",
+      "excerpt": "L'anunci s'ha fet un dia abans de la visita de Núñez Feijóo a Barcelona, on farà un acte de precampanya aquest diumenge",
+      "url": "https://www.3cat.cat/3catinfo/xavier-garcia-albiol-sera-el-candidat-del-pp-per-barcelona-a-les-eleccions-del-29n/noticia/3434674/",
+      "published": "2026-10-17T16:32:23+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/7/1780300215077.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Suspès el servei de trens de l’R2 Sud de Rodalies i els Regionals del sud a partir de les 22 h",
+      "excerpt": "(ACN/Redacció) Renfe ha anunciat la suspensió temporal del servei ferroviari de l’R2 Sud i els Regionals del sud a partir de les 22 hores per l’alerta de pluges. La companyia ho justifica pels aiguats que es preveuen a les zones del Baix Llobregat i del Garraf. Així ho ha decidit en coordinació amb la Generalitat […]",
+      "url": "https://beteve.cat/mobilitat/renfe-suspen-part-servei-rodalies-regionals-pluges-intenses/",
+      "published": "2026-10-17T16:03:23+02:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/01/crisi-Rodalies-tren-estacio-Franca-270126.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: pluja menys intensa, però a més comarques",
+      "excerpt": "Baixa la probabilitat d'aiguats torrencials després de la matinada",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/",
+      "published": "2026-10-17T10:58:56+02:00",
+      "updated": "2026-10-17T15:57:01+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/4/1792218539440.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431040/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/"
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -55,22 +91,6 @@
       "published": "2026-10-17T15:00:56+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/da3d5da8-7a55-4655-9ff8-eb6b229442ae_16-9-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge: pluja menys intensa, però a més comarques",
-      "excerpt": "Baixa la probabilitat d'aiguats torrencials després de la matinada",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/",
-      "published": "2026-10-17T10:58:56+02:00",
-      "updated": "2026-10-17T13:37:50+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/4/1792218539440.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6430984/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -117,6 +137,56 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/pla-de-pensions-a-partir-dels-6-anys-la-proposta-dalemanya-que-aixeca-recels-de-lesquerra/noticia/3434622/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Xavier García Albiol serà el candidat del PP per Barcelona el 29-N",
+      "excerpt": "Els populars han confirmat el nomenament i preparen un acte amb Feijóo demà, diumenge, a Barcelona",
+      "url": "https://www.vilaweb.cat/noticies/xavier-garcia-albiol-llista-pp-barcelona-29n/",
+      "published": "2026-10-17T16:20:37+02:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Plou a Barcelona? Segueix l’episodi de pluges i tempestes | DIRECTE",
+      "excerpt": "L’episodi de pluges i tempestes d’aquest cap de setmana tindrà el seu punt culminant entre el vespre i la nit d’aquest dissabte. Pot comprovar en directe el creixement de les tempestes i si plou o no a Barcelona amb la nostra càmera. La pluja, de nord a sud amb el pas de les hores L’episodi […]",
+      "url": "https://beteve.cat/medi-ambient/pluges-tempestes-camera-directe-montjuic-port-olimpic-octubre-2026/",
+      "published": "2026-10-17T16:17:19+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/02/cartela-directe-centrat-pluja-barcelona-22-febrer-2025.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Desenes de detinguts i aldarulls en les protestes socials multitudinàries arreu de França",
+      "excerpt": "Estudiants, treballadors i antics armilles grogues han confluït en les protestes i en algunes ciutats hi ha hagut enfrontaments entre la policia i els manifestants",
+      "url": "https://www.3cat.cat/3catinfo/desenes-de-detinguts-i-aldarulls-en-les-protestes-socials-multitudinaries-arreu-de-franca/noticia/3434647/",
+      "published": "2026-10-17T16:13:56+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/4/1792236543142.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "França pateix pel deute públic",
+      "excerpt": "França torna a ser a ulls del món el malalt d'Europa . No és cap novetat en un país marcat històricament per la conflictivitat laboral, els escàndols polítics, les derrotes militars i crisis de tota mena, però alhora no és una bona notícia que, al clima actual de protestes d'estudiants i ambient preelectoral marcat per l'auge de l'extrema dreta, s'hi afegeixin ara temors per la viabilitat de les finances públiques del país.",
+      "url": "https://www.ara.cat/economia/macroeconomia/franca-pateix-pel-deute-public_1_5880868.html",
+      "published": "2026-10-17T16:00:02+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a83f90f9-c464-4865-9012-8a98d4e011e2_16-9-aspect-ratio_default_0_x3693y3410.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'Espanyol no en té prou amb les aturades de Fortuño",
+      "excerpt": "L'Espanyol torna a competir. I ha descobert que té un gran porter. Aquestes són les dues millors notícies per als blanc-i-blaus, que aquesta tarda han fet suar de valent l'Atlètic de Madrid. Tot i això, ni amb un bon partit ni amb les aturades de Fortuño n'han tingut prou per treure alguna cosa positiva contra el segon classificat, l'únic que pot seguir-li el ritme al Barça a la Lliga. Un altre gol cruel, de Baena al minut 89, ha esfondrat els esforços dels periquitos, que…",
+      "url": "https://www.ara.cat/esports/rcd-espanyol/l-espanyol-no-prou-aturades-fortuno_1_5882013.html",
+      "published": "2026-10-17T15:57:15+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0f2e2874-a3aa-44d2-962d-6584fd6eba85_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -230,7 +300,7 @@
     },
     {
       "source": "betevé",
-      "title": "Avís vermell per pluja intensa a Barcelona: Protecció Civil enviarà un ES-Alert amb recomanacions",
+      "title": "Avís vermell per pluja intensa a Barcelona: Protecció Civil envia un ES-Alert amb recomanacions",
       "excerpt": "Davant la possibilitat que els xàfecs i tempestes puguin ser forts a Barcelona aquest dissabte, 17 d’octubre, el Servei Meteorològic de Catalunya ha elevat l’avís per intensitat de pluja al Barcelonès a nivell molt alt, de grau 5 sobre 6, durant la franja de les 18 h de dissabte fins a les 0 h de […]",
       "url": "https://beteve.cat/medi-ambient/avis-vermell-pluja-intensa-es-alert-barcelona-octubre-2026/",
       "published": "2026-10-17T12:48:35+02:00",
