@@ -3,19 +3,139 @@
   "items": [
     {
       "source": "3CatInfo · El temps",
-      "title": "La previsió del dissabte: aiguats a partir de la tarda",
+      "title": "La previsió de dissabte: aiguats a partir de la tarda",
       "excerpt": "El risc de pluges torrencials es localitzarà a l'est del país",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/",
       "published": "2026-10-16T10:55:23+02:00",
-      "updated": "2026-10-17T07:16:26+02:00",
+      "updated": "2026-10-17T08:39:47+02:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/8/1/1792182160118.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/6/1792216324965.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6430934/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6430984/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-aiguats-la-tarda-de-dissabte/noticia/3434332/"
       },
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les baixes laborals per salut mental s’han triplicat en una dècada a Catalunya",
+      "excerpt": "Un de cada quatre dies de baixa s'atribueix a problemes de salut mental, segons Salut · La durada mitjana d’aquestes situacions s'apropa als tres mesos",
+      "url": "https://www.vilaweb.cat/noticies/baixes-laborals-salut-mental-triplicat-decada-catalunya/",
+      "published": "2026-10-17T08:41:45+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El dia que Gabriel Rufián va deixar de caure simpàtic a Madrid",
+      "excerpt": "Els fets són aquests: El Front Ampli, que volia reeditar la fórmula de Sumar de 2023, no ha estat possible a nivell general, de manera que tant Irene Montero com Ada Colau seran formalment candidates a la presidència del govern espanyol. Cap d'elles, però, és la candidata preferida pel gruix dels votants d'esquerres espanyols, que prefereix, oh sorpresa, el republicà Gabriel Rufián. I ara recapitulem.",
+      "url": "https://www.ara.cat/politica/dia-gabriel-rufian-deixar-caure-simpatic-madrid_129_5880866.html",
+      "published": "2026-10-17T08:20:57+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8d4d3ac5-dff5-4f74-95b1-d087ea39ea5b_16-9-aspect-ratio_default_1061047.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sydney Schertenleib, l'estrella emergent que fa les delícies de Lamine Yamal",
+      "excerpt": "Sydney Schertenleib (Zúric, 2007) és el gran nom d’aquest inici de temporada del Barça. La futbolista suïssa ha fet el pas endavant que tant va reclamar Pere Romeu i ha aprofitat les baixes per lesió per consolidar-se a l’onze titular. Ha estat titular en els vuit partits que les blaugranes han disputat fins al moment, el darrer en el clàssic contra el Reial Madrid al Camp Nou, amb gol inclòs (7-0) . \"Quan xutes no penses gaire, només fas\", confessava després del duel.",
+      "url": "https://www.ara.cat/esports/barca-femeni/sydney-schertenleib-l-estrella-emergent-delicies-lamine-yamal_130_5872217.html",
+      "published": "2026-10-17T08:00:43+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bed40c72-c8f4-4c9d-b4b4-5c2b8b0f7af9_16-9-aspect-ratio_default_1060993.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Cal que els nens tinguin un model, encara que només sigui per trencar-lo quan es fan adolescents\"",
+      "excerpt": "Com els pingüins és un espectacle d'autoficció, en el qual explico la història de l'Helena, que soc jo. Hi explico per què em vaig fer pallassa.",
+      "url": "https://criatures.ara.cat/criatures/cal-nens-tinguin-model-encara-nomes-sigui-trencar-adolescents_128_5877540.html",
+      "published": "2026-10-17T08:00:42+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ba0c131f-98c7-4196-9161-ea47285d2e2e_source-aspect-ratio_default_0_x2124y1169.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"La indústria tabaquera ha finançat amb centenars de milions de dòlars almenys 25 premis Nobel\"",
+      "excerpt": "La seva història podria convertir-se ben bé en una pel·lícula. Als anys setanta, quan Robert Proctor (Texas, 1954) indagava el motiu pel qual emmalaltim de càncer –en un moment en què hi havia un debat intens sobre el paper que hi tenien el tabac, els pesticides i altres contaminants–, es va endinsar en els arxius secrets de les grans tabaqueres i va descobrir un fet esgarrifós: durant dècades, havien manipulat la ciència per sembrar dubtes sobre els efectes mortals dels seus productes.",
+      "url": "https://www.ara.cat/ciencia-medi-ambient/industria-tabaquera-financat-centenars-milions-dolars-almenys-25-premis-nobel_128_5880582.html",
+      "published": "2026-10-17T08:00:42+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un any del 'no' del Sabadell al BBVA: d'opa fallida a final feliç",
+      "excerpt": "El 16 d'octubre de l'any passat, el Banc Sabadell i el BBVA van enterrar de forma definitiva qualsevol possibilitat de fusió. Després de 17 mesos de guerra oberta i d'estires-i-arronses, un comunicat a la Comissió Nacional del Mercat de Valors (CNMV) ho confirmava. L'oferta de l'entitat presidida per Carlos Torres havia aconseguit tan sols un 25% d'acceptació per part del capital del banc vallesà, per sota el topall mínim del 30% que havia fixat el grup d'origen basc per continuar amb l'operació. El grup presidit…",
+      "url": "https://www.ara.cat/economia/banca/any-no-sabadell-bbva-d-opa-fallida-final-felic_1_5881054.html",
+      "published": "2026-10-17T08:00:42+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7fedac5d-ac6b-4b53-9992-109022e01376_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Meloni ha sigut molt llesta: fa creure que lluita contra la màfia, però no està fent res\"",
+      "excerpt": "Roberto Saviano (Nàpols, 1979) volia escriure una novel·la d'amor. Però quan va descobrir la història de Rossella Casini, una jove violada, assassinada i esquarterada per la família del seu xicot, Francesco Frisina, hereu d'un clan de la 'Ndrangheta, va començar una investigació que va treure a la llum un dels crims més cruels perpetrats per la màfia de Calàbria. El meu amor no mor (Ara Llibres) és el resultat de cinc anys de treball. Un llibre amb el qual l'autor de Gomorra (2006) intenta fer…",
+      "url": "https://www.ara.cat/internacional/europa/meloni-sigut-llesta-creure-lluita-mafia-no-fent-res_128_5881584.html",
+      "published": "2026-10-17T08:00:42+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cfd77af0-3b38-4534-96c9-f934df578b42_16-9-aspect-ratio_default_1035200.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les últimes esglésies de Kramatorsk",
+      "excerpt": "\"Vam néixer en guerra i morirem en guerra\", diu la Natasha acompanyada del seu marit, el Leonidas, tots dos de vuitanta-tres anys, a la quarta planta d'un edifici buit del centre de Kramatorsk . La Liena, treballadora d'una de les poques botigues de queviures que queden al barri, intenta convèncer-los que abandonin la ciutat, que fins i tot viure en un soterrani és una condemna a mort: \"Si arriben els russos, llançaran una granada i preguntaran després si hi ha algú viu\". La parella octogenària…",
+      "url": "https://www.ara.cat/internacional/europa/ultimes-esglesies-kramatorsk_1_5880867.html",
+      "published": "2026-10-17T08:00:42+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/def1518a-01b9-4a3d-aa50-2eebedfbf201_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El PP tria Albiol com a antídot de Vox el 29-N",
+      "excerpt": "Entusiasme al PP català per la tria que està prevista que s'entronitzi aquest diumenge com a candidat del PP per Barcelona en les pròximes eleccions espanyoles, segons múltiples fonts consultades per l'ARA. L'alcalde de Badalona, Xavier García Albiol, ha estat seleccionat com el candidat per Barcelona del PP amb la tasca fonamental de ser l'antídot de Vox el 29-N, sobretot tenint en compte el gran creixement del partit de dreta radical al Principat. Un cop avançats els comicis, el més estimat dins del PP català…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/pp-tria-albiol-antidot-vox-29-n_1_5881595.html",
+      "published": "2026-10-17T08:00:42+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7c5271be-463d-401b-9746-6ad4103a0ccc_16-9-aspect-ratio_default_0_x1813y1030.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Conflicte obert a la Garrotxa per la construcció d'una variant sobre un aqüífer protegit",
+      "excerpt": "Cada dia més de 2.000 camions d'alt tonatge travessen Olot i segueixen el recorregut per la carretera comarcal de les Preses. La majoria són camions de la indústria càrnia, que fan el trajecte d'anada i tornada entre Osona i el macroescorxador de la capital garrotxina , i transporten porcs vius, despulles o mercaderies fresques. El pas constant de camions per tot aquest tram urbà, amb cases a tocar de la calçada, genera molt de malestar entre els veïns i provoca reiterats problemes de trànsit. Per…",
+      "url": "https://www.ara.cat/societat/conflicte-obert-garrotxa-construccio-d-variant-aquifer-protegit_1_5878630.html",
+      "published": "2026-10-17T08:00:42+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d8e7ba2d-bb07-4e60-be8b-fd512d976808_16-9-aspect-ratio_default_0_x1175y587.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les portades del dissabte 17 de octubre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-dissabte-17-de-octubre-de-2026/",
+      "published": "2026-10-17T08:00:02+02:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Volia endinsar-me en l'habitació prohibida de la sexualitat\"",
+      "excerpt": "Ja fa uns quants anys que els lectors catalans podem degustar la prosa meticulosa, introspectiva i al·lucinada de Mircea Cartarescu (Bucarest, 1956). Si Periscopi en va publicar Solenoide (2017) i la trilogia Encegador (2018-2022), novel·les traduïdes per Antònia Escandell Tur, gràcies a l'editorial mallorquina Lleonard Muntaner i al traductor Xavier Montoliu Pauli han arribat els volums de relats de Per què ens estimem les dones (2016), els poemes de Res (2018), una extensa i imprescindible antologia dels seus Dietaris (2024) i, ara, Travesti , que…",
+      "url": "https://llegim.ara.cat/entrevistes/mircea-cartarescu-volia-endinsar-me-habitacio-prohibida-sexualitat_128_5877781.html",
+      "published": "2026-10-17T07:55:32+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2ca78a6e-39ae-43f6-93ee-80d5274eba57_source-aspect-ratio_default_0_x1609y697.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -109,7 +229,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El Frente Amplio i Podem fracassen en l’intent d’una candidatura unitària",
+      "title": "El Front Ampli i Podem fracassen en l’intent d’una candidatura unitària",
       "excerpt": "El nou espai que encapçala Ada Colau formalitza una coalició estatal amb més aliances, mentre Podem es replega sobre si mateix i manté l’acord amb ERC",
       "url": "https://www.vilaweb.cat/noticies/el-frente-amplio-i-podem-fracassen-en-lintent-duna-candidatura-unitaria/",
       "published": "2026-10-17T01:49:11+02:00",
