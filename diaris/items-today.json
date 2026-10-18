@@ -2,6 +2,36 @@
   "date": "2026-10-18",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Inundacions al Garraf i el Baix Llobregat i vols cancel·lats al Prat per les tempestes",
+      "excerpt": "Una desena de persones rescatades d'inundacions i cotxes atrapats per l'aigua",
+      "url": "https://www.3cat.cat/3catinfo/inundacions-al-garraf-i-el-baix-llobregat-i-vols-cancellats-al-prat-per-les-tempestes/noticia/3434719/",
+      "published": "2026-10-18T09:27:29+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/2/1792301018127.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "betevé",
+      "title": "L’R2 Sud de Rodalies recupera el servei després de la suspensió pel temporal",
+      "excerpt": "(ACN/Redacció) El servei de Rodalies de l’R2 Sud ha recuperat la normalitat aquest diumenge després de la suspensió per l’episodi de pluges. Renfe va prendre aquesta decisió pels aiguats que es preveien al Baix Llobregat i al Garraf. La circulació de trens es va suspendre a partir de les 22 hores d’aquest dissabte i es […]",
+      "url": "https://beteve.cat/mobilitat/r2-sud-rodalies-recupera-servei-despres-suspensio-temporal/",
+      "published": "2026-10-18T09:16:54+02:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/08/tren-Rodalies-estacio-Franca-040826-2026-08-04.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El servei de Rodalia i Regionals recupera la normalitat després de la suspensió de la R2 Sud pel temporal",
+      "excerpt": "També es van desviar els regionals del sud per Vilafranca",
+      "url": "https://www.vilaweb.cat/noticies/el-servei-de-rodalia-i-regionals-recupera-la-normalitat-despres-de-la-suspensio-de-la-r2-sud-pel-temporal/",
+      "published": "2026-10-18T09:01:16+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "El temporal causa una desapareguda a Catalunya i manté en alerta roja el País Valencià",
       "excerpt": "La desapareguda va ser arrossegada ahir per una riera a Cabrera de Mar",
@@ -27,7 +57,7 @@
       "excerpt": "Baixa la probabilitat d'aiguats torrencials després de la matinada",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/",
       "published": "2026-10-17T10:58:56+02:00",
-      "updated": "2026-10-18T08:39:14+02:00",
+      "updated": "2026-10-18T09:30:26+02:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/png/2/7/1792302285972.png",
       "video": {
@@ -66,6 +96,26 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/d4c74b3c-d256-45b3-a89a-e076ee707d93_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "[VÍDEO] Ultres del Betis profereixen crits catalanòfobs i llancen objectes als afeccionats del Barça",
+      "excerpt": "Un dels càntics més repetits va ser: \"Puta Barça, puta Catalunya\"",
+      "url": "https://www.vilaweb.cat/noticies/videos-ultres-betis-crits-catalanofobs-barca/",
+      "published": "2026-10-18T09:40:33+02:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Kenya confirma quatre casos nous d’Ebola, però assegura que el risc de contagis és baix",
+      "excerpt": "El total d'infectats és set · Hi ha un mort",
+      "url": "https://www.vilaweb.cat/noticies/kenya-confirma-quatre-casos-nous-debola-pero-assegura-que-el-risc-de-contagis-es-baix/",
+      "published": "2026-10-18T09:12:33+02:00",
+      "category": "Àfrica",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",

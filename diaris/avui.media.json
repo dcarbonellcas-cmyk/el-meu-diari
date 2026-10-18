@@ -3,6 +3,30 @@
   "pages": [
     {
       "page": 2,
+      "title": "Inundacions al Garraf i el Baix Llobregat i vols cancel·lats al Prat per les tempestes",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/inundacions-al-garraf-i-el-baix-llobregat-i-vols-cancellats-al-prat-per-les-tempestes/noticia/3434719/",
+      "published": "2026-10-18T09:27:29+02:00",
+      "priority": "1 · Urgent"
+    },
+    {
+      "page": 3,
+      "title": "L’R2 Sud de Rodalies recupera el servei després de la suspensió pel temporal",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/mobilitat/r2-sud-rodalies-recupera-servei-despres-suspensio-temporal/",
+      "published": "2026-10-18T09:16:54+02:00",
+      "priority": "1 · Urgent"
+    },
+    {
+      "page": 4,
+      "title": "El servei de Rodalia i Regionals recupera la normalitat després de la suspensió de la R2 Sud pel temporal",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/el-servei-de-rodalia-i-regionals-recupera-la-normalitat-despres-de-la-suspensio-de-la-r2-sud-pel-temporal/",
+      "published": "2026-10-18T09:01:16+02:00",
+      "priority": "1 · Urgent"
+    },
+    {
+      "page": 5,
       "title": "El temporal causa una desapareguda a Catalunya i manté en alerta roja el País Valencià",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
@@ -10,7 +34,7 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 3,
+      "page": 6,
       "title": "Gotland, l'illa sueca que es prepara per a la guerra",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/gotland-lilla-sueca-que-es-prepara-per-a-la-guerra/noticia/3434539/",
@@ -18,7 +42,7 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 4,
+      "page": 7,
       "title": "La previsió de diumenge: ambient de tardor i pluja menys intensa, però a més comarques",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/",
@@ -31,7 +55,7 @@
       }
     },
     {
-      "page": 5,
+      "page": 8,
       "title": "Protestes a França: més de 1.200 detinguts i el govern parla de “punt de no-retorn”",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/protestes-franca-detinguts-govern-punt-no-retorn/",
@@ -39,7 +63,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 6,
+      "page": 9,
       "title": "Els salaris pesen més a l'economia, però el treballador no ho nota. Per què?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/macroeconomia/salaris-pesen-mes-l-economia-treballador-no-ho-nota_1_5879129.html",
@@ -47,7 +71,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 7,
+      "page": 10,
       "title": "La intel·ligència artificial canviarà els impostos",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/opinio/intel-ligencia-artificial-canviara-impostos_129_5879216.html",
@@ -55,7 +79,23 @@
       "priority": "2 · Important"
     },
     {
-      "page": 8,
+      "page": 11,
+      "title": "[VÍDEO] Ultres del Betis profereixen crits catalanòfobs i llancen objectes als afeccionats del Barça",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/videos-ultres-betis-crits-catalanofobs-barca/",
+      "published": "2026-10-18T09:40:33+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 12,
+      "title": "Kenya confirma quatre casos nous d’Ebola, però assegura que el risc de contagis és baix",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/kenya-confirma-quatre-casos-nous-debola-pero-assegura-que-el-risc-de-contagis-es-baix/",
+      "published": "2026-10-18T09:12:33+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 13,
       "title": "Hem fet entrar als instituts els seminaris d’emocions però n’hem foragitat els llibres",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/opinio/hem-fet-entrar-als-instituts-seminaris-d-emocions-n-hem-foragitat-llibres_129_5879771.html",
@@ -63,7 +103,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 9,
+      "page": 14,
       "title": "Créixer sense família en un país que no és el teu: \"Patiràs més que al Marroc\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/emergencia-social/creixer-familia-pais-no-patiras-mes-marroc_130_5879191.html",
@@ -71,7 +111,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 10,
+      "page": 15,
       "title": "\"Estava en el punt de pensar com morir-me i que semblés un accident\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/justicia/punt-pensar-morir-sembles-accident_1_5874580.html",
@@ -79,7 +119,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 11,
+      "page": 16,
       "title": "Com ha canviat l'ajuda que rep Ucraïna des que Trump és al poder?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/europa/canviat-l-ajuda-rep-ucraina-des-trump_1_5879775.html",
@@ -87,7 +127,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 12,
+      "page": 17,
       "title": "L’última frivolitat de LeBron James divideix la NBA",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/basquet/ultima-frivolitat-lebron-james-divideix-nba_130_5881792.html",
@@ -95,7 +135,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 13,
+      "page": 18,
       "title": "\"La gent es va tornar boja\": 25 anys del programa que va capgirar la televisió",
       "source": "ARA",
       "articleUrl": "https://diumenge.ara.cat/diumenge/gent-tornar-boja-25-anys-programa-capgirar-televisio_130_5864238.html",
@@ -103,7 +143,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 14,
+      "page": 19,
       "title": "Les portades del diumenge 18 de octubre de 2026",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-diumenge-18-de-octubre-de-2026/",
@@ -111,7 +151,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 15,
+      "page": 20,
       "title": "Perejaume fa el cartell del 150è aniversari del Centre Excursionista de Catalunya",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/perejaume-cartell-150e-aniversari-centre-excursionista-catalunya_1_5882216.html",
@@ -119,7 +159,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 16,
+      "page": 21,
       "title": "Segregació escolar, una esquerda invisible: \"No vaig conèixer cap Jordi fins als 13 anys\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/segregacio-escolar-una-esquerda-invisible-no-vaig-coneixer-cap-jordi-fins-als-13-anys/noticia/3412010/",
@@ -127,7 +167,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 17,
+      "page": 22,
       "title": "De l'escola que ningú volia a convertir-se en un referent mundial: les claus per transformar els centres més segregats",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/de-lescola-que-ningu-volia-a-convertir-se-en-un-referent-mundial-les-claus-per-transformar-els-centres-mes-segregats/noticia/3434187/",
@@ -135,7 +175,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 18,
+      "page": 23,
       "title": "\"Hi ha molts madrilenys que també volen girar full del Procés\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/hi-madrilenys-tambe-volen-girar-full-proces_128_5880942.html",
@@ -143,7 +183,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 19,
+      "page": 24,
       "title": "Retards i cancel·lacions a l’aeroport de Barcelona per la tempesta intensa",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/nou-episodi-pluja-afectacions-barcelona-17-octubre-directe/",
