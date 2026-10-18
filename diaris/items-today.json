@@ -2,9 +2,19 @@
   "date": "2026-10-18",
   "items": [
     {
+      "source": "ARA",
+      "title": "Troben morta la dona desapareguda en una riera de Cabrera de Mar durant el temporal de pluges",
+      "excerpt": "Els equips d'emergències han localitzat aquest diumenge al matí el cos sense vida de la dona d'uns 35 anys que dissabte al vespre hauria caigut en una riera de Cabrera de Mar durant el temporal de pluges. La dona hauria estat arrossegada per l'aigua quan intentava travessar-la amb els seus fills. El cos s'ha trobat a prop de l'espigó del port de Premià de Mar, després d'un dispositiu de recerca que ha mobilitzat els Bombers de la Generalitat, els Mossos d'Esquadra i Salvament Marítim durant…",
+      "url": "https://www.ara.cat/societat/medi-ambient/troben-morta-dona-desapareguda-riera-cabrera-mar-fortes-pluges_1_5882695.html",
+      "published": "2026-10-18T12:25:35+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ef10e232-912a-48bc-af1d-ad3c483bcd9f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
-      "title": "Ucraïna llança contra Sant Petersburg un dels atacs més grans amb drons de la guerra",
-      "excerpt": "L’ofensiva ha causat un mort i cinc ferits a Sant Petersburg · També han estat atacades terminals petrolieres, una subestació elèctrica i més infrastructures",
+      "title": "Ucraïna llança contra Sant Petersburg un dels atacs amb drons més grans de la guerra",
+      "excerpt": "L’ofensiva ha causat un mort i cinc ferits · També han estat atacades unes quantes terminals petrolieres, una subestació elèctrica i més infrastructures",
       "url": "https://www.vilaweb.cat/noticies/ucraina-llanca-contra-sant-petersburg-un-dels-atacs-mes-grans-amb-drons-de-la-guerra/",
       "published": "2026-10-18T10:31:01+02:00",
       "category": "Guerra d'Ucraïna",
@@ -43,8 +53,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El servei de Rodalia i Regionals recupera la normalitat després de la suspensió de la R2 Sud pel temporal",
-      "excerpt": "També es van desviar els regionals del sud per Vilafranca",
+      "title": "El servei de Rodalia i dels Regionals recupera la normalitat després de la suspensió de la R2 sud arran del temporal",
+      "excerpt": "També van desviar els trens dels Regionals del sud per Vilafranca",
       "url": "https://www.vilaweb.cat/noticies/el-servei-de-rodalia-i-regionals-recupera-la-normalitat-despres-de-la-suspensio-de-la-r2-sud-pel-temporal/",
       "published": "2026-10-18T09:01:16+02:00",
       "category": "Societat",
@@ -72,6 +82,26 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "Rufián i Montero faran el primer acte conjunt de pre-campanya a Barcelona el 24 d’octubre",
+      "excerpt": "L’acte es farà a la plaça Major de Nou Barris · S’ha organitzat arran de l’acord electoral entre ERC i Podem per al 29-N",
+      "url": "https://www.vilaweb.cat/noticies/rufian-i-montero-faran-el-primer-acte-conjunt-de-precampanya-a-barcelona-el-24-doctubre/",
+      "published": "2026-10-18T11:59:53+02:00",
+      "category": "eleccions espanyoles",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "El govern preveu reobrir Collserola a finals d’any “amb corredors segurs”",
+      "excerpt": "Després de més de sis mesos del tancament de Collserola —11 que hi ha restriccions— el govern sosté que aquest episodi, o crisi, ja està a punt d’acabar-se. Així ho ha afirmat Òscar Ordeig, conseller d’Agricultura, Ramaderia, Pesca i Alimentació, en una entrevista a La Vanguardia, en què ha deixat clar que “ara queda la […]",
+      "url": "https://beteve.cat/medi-ambient/govern-reobrir-collserola-finals-2026-corredors-segurs/",
+      "published": "2026-10-18T11:13:42+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/veins-collserola-restriccions-2026-09-04-1.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de diumenge: ambient de tardor i pluja menys intensa, però a més comarques",
       "excerpt": "Baixa la probabilitat d'aiguats torrencials després de la matinada",
@@ -89,7 +119,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Les protestes a l’estat francès causen 1.200 detinguts i el govern alerta d’un punt de no retorn",
+      "title": "Les protestes a l’estat francès causen 1.800 detinguts i el govern alerta d’un punt de no retorn",
       "excerpt": "El primer ministre francès, Sébastien Lecornu, acusa la França Insubmisa de donar suport als manifestants violents",
       "url": "https://www.vilaweb.cat/noticies/protestes-franca-detinguts-govern-punt-no-retorn/",
       "published": "2026-10-18T08:35:08+02:00",
@@ -116,6 +146,86 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/d4c74b3c-d256-45b3-a89a-e076ee707d93_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Una dècada de Ràdioactius, l’espai comunitari, feminista i intergeneracional del Poble-sec",
+      "excerpt": "Ràdioactius, el projecte radiofònic comunitari del Poble-sec, celebra una dècada de vida convertit en una de les iniciatives més arrelades al barri. L’associació ha crescut fins a esdevenir un espai de trobada, aprenentatge i cohesió social. “Es va fundar l’any 2016 com un projecte del pla comunitari. I el 2019 vam pensar a constituir una […]",
+      "url": "https://beteve.cat/cultura/decada-radioactius-espai-comunitari-feminista-intergeneracional-poble-sec/",
+      "published": "2026-10-18T12:37:13+02:00",
+      "category": "comunicació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/radioactius-10-anys-2026-09-23.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Troben el cos sense vida de la dona arrossegada per una riera a Cabrera de Mar",
+      "excerpt": "El cos ha aparegut prop de l'espigó del port de Premià de Mar",
+      "url": "https://www.vilaweb.cat/noticies/troben-cos-sense-vida-dona-arrossegada-riera-cabrera-mar/",
+      "published": "2026-10-18T12:22:26+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Emoció fins a les llàgrimes amb el que fan Judit Nedderman i el Trio Fortuny",
+      "excerpt": "\"Si aquestes cançons han arribat fins avui és perquè són temarros\", sentenciava Marc Heredia, compositor i pianista del Trio Fortuny. D’acord, són temarros. Però el que ha fet el trio de cambra amb la veu de Judit Nedderman és la vuitena meravella: han recuperat les cançons que més ens emocionen del món, les cançons tradicionals que ens cantava de petits la mare o l’àvia —les històries de L’Hereu Riera i de La filadora , les Muntanyes regalades i El mariner , composicions que han espigolat…",
+      "url": "https://www.ara.cat/cultura/musica/emocio-fins-llagrimes-judit-nedderman-trio-fortuny_1_5882662.html",
+      "published": "2026-10-18T12:19:35+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f8091a4c-55fe-4daa-b751-ada6f290cf73_16-9-aspect-ratio_default_0_x3265y1554.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Ordeig preveu una reobertura progressiva de Collserola amb corredors segurs a final de novembre",
+      "excerpt": "Avisa que ara no poden precipitar-se i perdre tota la feina feta",
+      "url": "https://www.vilaweb.cat/noticies/ordeig-preveu-una-reobertura-progressiva-de-collserola-amb-corredors-segurs-a-partir-de-final-de-novembre/",
+      "published": "2026-10-18T12:04:37+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Una quarantena de cancel·lacions a l’aeroport del Prat a causa de les pluges",
+      "excerpt": "L’aeroport del Prat treballa per recuperar la normalitat després de l’episodi de tempestes intenses que ha obligat a cancel·lar un total de 45 vols programats tant de sortida com d’arribada. Aquestes alteracions s’han produït en les hores amb més pluges a la infraestructura, pels volts de les 23 h d’aquest dissabte, quan es van aturar […]",
+      "url": "https://beteve.cat/mobilitat/cancelacions-aeroport-prat-episodi-pluges-17-octubre/",
+      "published": "2026-10-18T11:56:27+02:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/afectacions-pluges-aeroport-1-2026-10-18.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Cerdanyola-Muntanyesa: els de Nou Barris intentaran mantenir el lideratge, en directe a betevé",
+      "excerpt": "El Muntanyesa, després del sotrac de perdre dos partits seguits a la Tercera RFEF, va recuperar les bones sensacions amb un triomf contra l’Escala, en partit ajornat. El conjunt de Nou Barris, amb el triomf contra els gironins, va recuperar el lideratge de la categoria i ara se situa en solitari amb dos punts més […]",
+      "url": "https://beteve.cat/esports/cerdanyola-muntanyesa-fontetes-directe/",
+      "published": "2026-10-18T11:48:39+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cartela-cerdanyola-martinenc-2026-10-18.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La reforma del Mercat de Felip II, a la Sagrera, millorarà els accessos i la mobilitat interior",
+      "excerpt": "Primer pas per a la reforma del Mercat de Felip II, al barri de la Sagrera. L’Ajuntament de Barcelona ja ha adjudicat el concurs per la direcció d’obra i la redacció dels projectes de remodelació. Entre altres actuacions, la renovació preveu l’increment de la visibilitat de l’edifici, la reubicació de les zones comunes, la configuració […]",
+      "url": "https://beteve.cat/societat/reforma-mercat-felip-ii-sagrera-millora-accessos-mobilitat-interior/",
+      "published": "2026-10-18T11:45:22+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/millora-mercat-felip-segon-2-2026-10-17.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Nou episodi de pluja intensa aquest dilluns, amb 11 comarques en risc alt a partir del migdia",
+      "excerpt": "Poden caure precipitacions localment intenses a Barcelonès, Vallès Occidental, Baix Llobregat, Garraf, Alt Penedès, Baix Penedès, Tarragonès, Alt Camp, Baix Camp, Maresme i Vallès Oriental",
+      "url": "https://www.3cat.cat/3catinfo/nou-episodi-de-pluja-intensa-aquest-dilluns-amb-11-comarques-en-risc-alt-a-partir-del-migdia/noticia/3434733/",
+      "published": "2026-10-18T11:39:01+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788877885577.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -150,7 +260,7 @@
     {
       "source": "VilaWeb",
       "title": "Una seixantena de persones denuncien estafes en la compra d’entrades per als concerts d’Oques Grasses",
-      "excerpt": "Els Mossos creuen que el nombre de víctimes pot ser molt superior i investiguen les estafes comeses per xarxes socials i plataformes de venda d'entrades",
+      "excerpt": "Els Mossos creuen que el total de víctimes pot ser molt superior i investiguen les estafes comeses per xarxes socials i plataformes de venda d'entrades",
       "url": "https://www.vilaweb.cat/noticies/seixanta-persones-estafa-compra-entrades-oques-grasses/",
       "published": "2026-10-18T10:57:01+02:00",
       "category": "Societat",
@@ -180,7 +290,7 @@
     {
       "source": "VilaWeb",
       "title": "Troben un objecte personal de la dona arrossegada per la riera a Cabrera de Mar",
-      "excerpt": "Els bombers apunten que s'ha localitzat una peça de roba a prop de la desembocadura",
+      "excerpt": "Els bombers informen de la troballa d’una peça de roba a prop de la desembocadura",
       "url": "https://www.vilaweb.cat/noticies/troben-un-objecte-personal-de-la-dona-arrossegada-per-la-riera-a-cabrera-de-mar/",
       "published": "2026-10-18T10:00:16+02:00",
       "category": "Societat",
@@ -189,7 +299,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "[VÍDEO] Ultres del Betis profereixen crits catalanòfobs i llancen objectes als afeccionats del Barça",
+      "title": "[VÍDEO] Ultres del Betis llancen crits catalanòfobs i objectes als afeccionats del Barça",
       "excerpt": "Un dels càntics més repetits va ser: \"Puta Barça, puta Catalunya\"",
       "url": "https://www.vilaweb.cat/noticies/videos-ultres-betis-crits-catalanofobs-barca/",
       "published": "2026-10-18T09:40:33+02:00",
@@ -209,8 +319,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Kenya confirma quatre casos nous d’Ebola, però assegura que el risc de contagis és baix",
-      "excerpt": "El total d'infectats és set · Hi ha un mort",
+      "title": "Kenya confirma quatre casos nous d’Ebola, amb set infectats i un mort",
+      "excerpt": "Les autoritats asseguren que el risc de contagi és baix",
       "url": "https://www.vilaweb.cat/noticies/kenya-confirma-quatre-casos-nous-debola-pero-assegura-que-el-risc-de-contagis-es-baix/",
       "published": "2026-10-18T09:12:33+02:00",
       "category": "Àfrica",
