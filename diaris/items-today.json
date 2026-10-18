@@ -2,13 +2,33 @@
   "date": "2026-10-18",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Ucraïna llança contra Sant Petersburg un dels atacs més grans amb drons de la guerra",
+      "excerpt": "L’ofensiva ha causat un mort i cinc ferits a Sant Petersburg · També han estat atacades terminals petrolieres, una subestació elèctrica i més infrastructures",
+      "url": "https://www.vilaweb.cat/noticies/ucraina-llanca-contra-sant-petersburg-un-dels-atacs-mes-grans-amb-drons-de-la-guerra/",
+      "published": "2026-10-18T10:31:01+02:00",
+      "category": "Guerra d'Ucraïna",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "Ucraïna llança contra Sant Petersburg un dels majors atacs amb drons de la guerra",
+      "excerpt": "L'exèrcit ucraïnès ha llençat aquest dissabte a la nit un atac amb drons contra Sant Petersburg, la segona ciutat russa, i la regió de Leningrad. Es considera un dels atacs més grans amb drons de tota la guerra, deixant una víctima mortal i cinc ferits.",
+      "url": "https://www.ara.cat/internacional/ucraina-llanca-sant-petersburg-dels-majors-atacs-drons-guerra_1_5882652.html",
+      "published": "2026-10-18T09:49:07+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/10172a6e-a881-4a8f-ba1d-38bb3950e0a7_16-9-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo",
       "title": "Inundacions al Garraf i el Baix Llobregat i vols cancel·lats al Prat per les tempestes",
       "excerpt": "Una desena de persones rescatades d'inundacions i cotxes atrapats per l'aigua",
       "url": "https://www.3cat.cat/3catinfo/inundacions-al-garraf-i-el-baix-llobregat-i-vols-cancellats-al-prat-per-les-tempestes/noticia/3434719/",
       "published": "2026-10-18T09:27:29+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/2/1792301018127.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/7/1792307845975.jpg",
       "priority": "1 · Urgent"
     },
     {
@@ -33,8 +53,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El temporal causa una desapareguda a Catalunya i manté en alerta roja el País Valencià",
-      "excerpt": "La desapareguda va ser arrossegada ahir per una riera a Cabrera de Mar",
+      "title": "Alerta màxima al País Valencià per previsions de 400 litres per metre quadrat",
+      "excerpt": "Hi ha una persona desapareguda a Cabrera de Mar, que va ser arrossegada per una riera",
       "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
       "published": "2026-10-18T08:00:26+02:00",
       "category": "Societat",
@@ -99,12 +119,32 @@
     },
     {
       "source": "VilaWeb",
+      "title": "Troben un objecte personal de la dona arrossegada per la riera a Cabrera de Mar",
+      "excerpt": "Els bombers apunten que s'ha localitzat una peça de roba a prop de la desembocadura",
+      "url": "https://www.vilaweb.cat/noticies/troben-un-objecte-personal-de-la-dona-arrossegada-per-la-riera-a-cabrera-de-mar/",
+      "published": "2026-10-18T10:00:16+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
       "title": "[VÍDEO] Ultres del Betis profereixen crits catalanòfobs i llancen objectes als afeccionats del Barça",
       "excerpt": "Un dels càntics més repetits va ser: \"Puta Barça, puta Catalunya\"",
       "url": "https://www.vilaweb.cat/noticies/videos-ultres-betis-crits-catalanofobs-barca/",
       "published": "2026-10-18T09:40:33+02:00",
       "category": "Espanya",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Veïns del Parc de Collserola reclamen que reobri per salut mental: “Alguns tenim ansietat”",
+      "excerpt": "Sis mesos després del tancament de Collserola pel primer cas de pesta porcina detectat a Barcelona, els veïns denuncien que les restriccions d’accés al parc natural estan afectant la seva salut mental. Per aquest motiu han començat una campanya de signatures que volen entregar a la Generalitat amb les seves propostes. De moment n’han recollit […]",
+      "url": "https://beteve.cat/societat/veins-collserola-denuncien-tancament-parc-afecta-salut-mental/",
+      "published": "2026-10-18T09:39:19+02:00",
+      "category": "salut",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/pesta-porcina-2026-09-09.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -229,8 +269,8 @@
     },
     {
       "source": "betevé",
-      "title": "Retards i cancel·lacions a l’aeroport de Barcelona per la tempesta intensa",
-      "excerpt": "El Servei Meteorològic de Catalunya ha elevat els avisos per pluja a Barcelona, un episodi que arriba quan encara són presents els efectes del darrer temporal, de principis d’octubre. En previsió de forts aiguats, aquest dissabte, hi ha set comarques en avís vermell, entre les quals hi ha el Barcelonès, i 10 més en avís […]",
+      "title": "L’aeroport i el port, els més afectats pel darrer episodi de tempestes, amb una setantena de litres",
+      "excerpt": "Un nou episodi de pluges i tempestes intenses ha afectat el litoral i el prelitoral. A Barcelona els xàfecs han estat desiguals en funció dels barris però han provocat algunes incidències puntuals com inundacions. A l’aeroport del Prat els registres han superat el 76 litres i la forta tempesta ha obligat a aturar temporalment l’operativa, […]",
       "url": "https://beteve.cat/societat/nou-episodi-pluja-afectacions-barcelona-17-octubre-directe/",
       "published": "2026-10-18T00:01:42+02:00",
       "category": "societat",
