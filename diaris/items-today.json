@@ -3,6 +3,26 @@
   "items": [
     {
       "source": "VilaWeb",
+      "title": "Protecció Civil ajorna la prova de sirenes de risc químic de demà pel temporal",
+      "excerpt": "S'havia organitzat un simulacre en 47 municipis",
+      "url": "https://www.vilaweb.cat/noticies/proteccio-civil-sirenes-risc-quimic-temporal/",
+      "published": "2026-10-18T20:54:43+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Almenys quatre morts i desenes de ferits en un incendi a una base militar del Canadà",
+      "excerpt": "El primer ministre diu que l'incident és \"una de les pitjors tragèdies\" que ha patit l'exèrcit del Canadà en temps de pau",
+      "url": "https://www.3cat.cat/3catinfo/almenys-quatre-morts-i-desenes-de-ferits-en-un-incendi-a-una-base-militar-del-canada/noticia/3434776/",
+      "published": "2026-10-18T20:51:03+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/2/1792342963420.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
       "title": "ADIF suspèn la circulació de les línies C1 i C2 arran de l’alerta vermella pel mal oratge",
       "excerpt": "La suspensió del servei es mantindrà fins a nou avís",
       "url": "https://www.vilaweb.cat/noticies/adif-suspen-la-circulacio-a-les-linies-c1-i-c2-arran-de-lalerta-vermella-per-mal-oratge/",
@@ -274,9 +294,89 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Torn de guàrdia: Sobre l’asfalt [capítol 3]",
+      "excerpt": "La tasca de la Guàrdia Urbana de Barcelona de control i regulació del trànsit és potser la més coneguda. El que no tothom sap és que el cos disposa de dues unitats especialitzades en aquest àmbit, la Unitat Central de Trànsit (UCT) i la Unitat Central d’Atestats de Trànsit (UCAT), totes dues amb seu a […]",
+      "url": "https://beteve.cat/torn-de-guardia/sobre-asfalt/",
+      "published": "2026-10-18T21:30:00+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/sobre_asfalt_torn_de_guardia_E03-2026-10-14.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sekulic aprendrà aviat on és Badalona: l'Instant Replay de l'ARA",
+      "excerpt": "L'Asisa Joventut va repetir l'exhibició de la Supercopa Endesa i va tornar a enviar el Barça al racó de pensar (113-89). La Penya, que es creix en els escenaris que li motiven, va fer embogir els 10.248 espectadors del Palau Olímpic. Ricky Rubio, Nico Laprovittola i Eli Ndiaye van liderar el triomf verd-i-negre. A més, el jove Adrián Torres va completar una gran actuació. \"Catalunya és verd-i-negra\", va acabar cantant al pavelló.",
+      "url": "https://www.ara.cat/esports/basquet/acb/sekulic-aprendra-aviat-badalona-instant-replay-ara_1_5882903.html",
+      "published": "2026-10-18T21:15:52+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6e9a8dee-a37e-41cb-8223-64a623ea9a29_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’afició del Sant Andreu indignada amb el Manresa pel preu excessiu de les entrades",
+      "excerpt": "El Sant Andreu jugarà, el pròxim dimarts 27 d’octubre al Congost, contra el Manresa a la Copa del Rei. El que hauria de ser un bon partit de futbol català quedarà tacat pel preu excessiu en la venda d’entrades destinades al conjunt visitant. El Manresa ha fixat que cada aficionat del conjunt quadribarrat haurà de […]",
+      "url": "https://beteve.cat/esports/aficio-sant-andreu-molesta-manresa-preu-excessiu-entrades/",
+      "published": "2026-10-18T21:13:45+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/SANT-ANDREU-AFICIO-2026-10-18.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Absentisme: enredar la gana",
+      "excerpt": "L’altre dia, durant un congrés a Almeria, els responsables d’una cooperativa m’explicaven que necessitaven tenir una plantilla aproximadament un 20% superior a la que requeria la seva activitat. Tenien al voltant de 1.500 treballadors i cada dia hi faltaven entre 200 i 300 persones. Per garantir el funcionament normal havien de mantenir centenars de treballadors addicionals.",
+      "url": "https://www.ara.cat/opinio/absentisme-enredar-gana_129_5881010.html",
+      "published": "2026-10-18T21:00:12+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6df3e87f-261e-4473-838a-e33d8455975d_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Què és la cultura?",
+      "excerpt": "Fa uns dies, Sílvia Pérez Cruz, en acceptar el Premi Nacional de Cultura, va acabar el seu discurs d’acceptació dient que si cuidem la cultura, la cultura ens cuidarà a nosaltres. Em va semblar que ja l'hi havia sentit dir en alguna altra ocasió, i ho vaig trobar molt encertat: costa de pensar en algú que pugui afirmar-ho amb tanta convicció, i alhora amb tant de sentit. Només cal evocar una de les cançons de la Sílvia, o qualsevol dels seus concerts, o fins i…",
+      "url": "https://www.ara.cat/opinio/cultura_129_5881077.html",
+      "published": "2026-10-18T21:00:12+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/93399c5d-0e2b-40a6-929f-ffe1e5e3cff0_16-9-aspect-ratio_default_0_x774y360.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les esquerres, el respecte i la política",
+      "excerpt": "Una societat està ordenada quan es regeix segons un concepte comú de justícia compartit i respectat. Això ha de començar pel respecte a un mateix, que és el principi primari. Així ho pensava John Rawls. Spinoza, en una línia similar, plantejava que sense respecte i apreciació per un mateix la felicitat és impossible: una persona no podrà respectar els altres si no es respecta a si mateixa. Això suposa creure en el propi projecte però també comptar amb prou forces per dur-lo a terme. Aquest…",
+      "url": "https://www.ara.cat/opinio/esquerres-respecte-politica_129_5882215.html",
+      "published": "2026-10-18T21:00:12+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/554a5ee6-6f53-46cd-85bf-de1e2ee56a9c_16-9-aspect-ratio_default_0_x805y572.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies vespre",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-vespre/beteve-noticies-vespre-449/",
+      "published": "2026-10-18T20:57:48+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-737/",
+      "published": "2026-10-18T20:40:18+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "El moment crític de França",
-      "excerpt": "França es va despertar diumenge en estat de xoc després dels aldarulls que van provocar un grau de destrucció que feia molts anys que no es veia a les principals ciutats del país, començant per la capital, París. L'Ajuntament parisenc ha admès que les forces de l'ordre es van veure desbordades en una jornada en què es van comptabilitzar entre 550.000 i 800.000 manifestants i hi va haver uns 2.000 detinguts. L'esclat de ràbia es va començar a gestar en les protestes estudiantils de fa…",
+      "excerpt": "França es va despertar diumenge en estat de xoc després dels aldarulls que van provocar un grau de destrucció que feia molts anys que no es veia a les principals ciutats del país, començant per la capital, París. L'Ajuntament parisenc ha admès que les forces de l'ordre es van veure desbordades, en una jornada en què es van comptabilitzar entre 550.000 i 800.000 manifestants a tot el país i hi va haver uns 2.000 detinguts. L'esclat de ràbia es va començar a gestar en les…",
       "url": "https://www.ara.cat/editorial/moment-critic-franca_129_5882911.html",
       "published": "2026-10-18T20:32:40+02:00",
       "category": "Actualitat",
@@ -285,8 +385,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Macron promet mà dura contra els aldarulls i anuncia mesures per a respondre a les reivindicacions dels estudiants",
-      "excerpt": "El president francès atribueix els episodis de violència a grups de l’extrema esquerra i encarrega al primer ministre, Sébastien Lecornu, que obri un procés de diàleg amb els sectors mobilitzats",
+      "title": "Macron promet mà dura contra els aldarulls i anuncia mesures per a atendre les reivindicacions dels estudiants",
+      "excerpt": "El president francès atribueix els episodis de violència a grups d’extrema esquerra i encarrega al primer ministre, Sébastien Lecornu, que obri un procés de diàleg amb els sectors mobilitzats",
       "url": "https://www.vilaweb.cat/noticies/macron-promet-ma-dura-aldarulls-mesures-estudiants/",
       "published": "2026-10-18T20:25:41+02:00",
       "category": "França",
@@ -295,13 +395,28 @@
     },
     {
       "source": "ARA",
-      "title": "Els regals de l’Andorra donen vida al Girona",
+      "title": "Els regals de l'Andorra donen vida al Girona",
       "excerpt": "El Girona necessitava vida i l’Andorra li va donar. Els gironins no van poder tenir-ho més fàcil i es van aprofitar de dues accions desafortunades del porter Owono per encarrilar el triomf abans del descans (2-0). Amb aquest resultat, es col·loquen a cinc punts de la zona d’ascens directe.",
       "url": "https://www.ara.cat/esports/girona-fc/regals-l-andorra-donen-vida-girona_1_5883052.html",
       "published": "2026-10-18T20:23:52+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/bcf4e9f1-a9d7-4032-ab40-d77a0e96ffdb_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Quatre anys treballant en un tapís gens tradicional que subverteix el relat monàrquic triomfal",
+      "excerpt": "Ignasi Prat Altimira treballa en un tapís que reprodueix la icònica fotografia del rei emèrit Joan Carles I amb un elefant mort com a trofeu de caça a Botswana",
+      "url": "https://www.3cat.cat/3catinfo/quatre-anys-treballant-en-un-tapis-gens-tradicional-que-subverteix-el-relat-monarquic-triomfal/noticia/3434736/",
+      "published": "2026-10-18T20:15:50+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/4/1792321126948.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431077/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/quatre-anys-treballant-en-un-tapis-gens-tradicional-que-subverteix-el-relat-monarquic-triomfal/noticia/3434736/"
+      }
     },
     {
       "source": "ARA",
@@ -436,7 +551,7 @@
     {
       "source": "VilaWeb",
       "title": "Protecció Civil farà sonar demà 119 sirenes de risc químic en 47 municipis de Catalunya",
-      "excerpt": "La prova començarà a les 10.00, durarà uns vint minuts i arribarà a uns 930.000 habitants",
+      "excerpt": "La prova començarà a les 10.00, durarà uns 20 minuts i arribarà a uns 930.000 habitants",
       "url": "https://www.vilaweb.cat/noticies/prova-sirenes-risc-quimic-catalunya-19-octubre/",
       "published": "2026-10-18T18:29:13+02:00",
       "category": "Societat",
@@ -461,6 +576,16 @@
       "published": "2026-10-18T18:27:09+02:00",
       "category": "esports",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/uesa-juventud-torremolinos-2026-10-18.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "60 denúncies per estafa en la compra d'entrades per als concerts d'Oques Grasses",
+      "excerpt": "Els Mossos creuen que la xifra real de persones estafades és molt més alta i que n'hi ha que no denuncien per vergonya",
+      "url": "https://www.3cat.cat/3catinfo/60-denuncies-per-estafa-en-la-compra-dentrades-per-als-concerts-doques-grasses/noticia/3434765/",
+      "published": "2026-10-18T18:19:46+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/3/1791668059934.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -525,7 +650,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La UAB no autoritza l’activitat de l’ultra Vito Quiles i diu que els Mossos no l’hi deixaran entrar",
+      "title": "La UAB denega a Vito Quiles l’accés al campus per a fer un acte i Interior garanteix que n’impedirà l’entrada",
       "excerpt": "L'activista ha comunicat que té previst de participar en un acte demà a la tarda",
       "url": "https://www.vilaweb.cat/noticies/la-uab-no-autoritza-lactivitat-de-lultra-vito-quiles-i-diu-que-els-mossos-li-impediran-lentrada/",
       "published": "2026-10-18T17:58:00+02:00",
@@ -645,8 +770,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Nogueras critica el servilisme a Madrid i reivindica Junts com l’única formació “d’obediència estrictament catalana”",
-      "excerpt": "Defensa la capacitat del partit per a \"condicionar les decisions de Madrid\" i frenar els dos blocs espanyols",
+      "title": "Nogueras critica el servilisme a Madrid i reivindica Junts com l’única formació d’obediència estrictament catalana",
+      "excerpt": "Defensa la capacitat del partit per a condicionar les decisions de Madrid i frenar els dos blocs espanyols",
       "url": "https://www.vilaweb.cat/noticies/nogueras-critica-el-servilisme-a-madrid-i-reivindica-junts-com-lunica-formacio-dobediencia-estrictament-catalana/",
       "published": "2026-10-18T16:28:03+02:00",
       "category": "Principat",
@@ -686,7 +811,7 @@
     {
       "source": "VilaWeb",
       "title": "Lleó XIV reapareix al Vaticà després de l’operació per un càncer de pulmó",
-      "excerpt": "El papa anuncia que reprendrà gradualment l'activitat després de rebre l'alta hospitalària ahir",
+      "excerpt": "El papa anuncia que reprendrà gradualment l'activitat després de rebre l'alta hospitalària",
       "url": "https://www.vilaweb.cat/noticies/lleo-xiv-reapareix-vatica-operacio-cancer-pulmo/",
       "published": "2026-10-18T15:57:08+02:00",
       "category": "Europa",
@@ -725,7 +850,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "RENFE critica la decisió “unilateral i arbitrària” del sindicat SEMAF de suspendre la circulació de les línies C1 i C2",
+      "title": "RENFE critica la decisió unilateral i arbitrària del sindicat SEMAF de suspendre la circulació de les línies C1 i C2",
       "excerpt": "La companyia assegura que les dades tècniques i les previsions meteorològiques permeten de circular amb seguretat",
       "url": "https://www.vilaweb.cat/noticies/renfe-critica-la-decisio-unilateral-i-arbitraria-del-sindicat-semaf-de-suspendre-la-circulacio-de-les-linies-c1-i-c2/",
       "published": "2026-10-18T14:47:59+02:00",
@@ -875,8 +1000,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Protecció Civil prova dilluns totes les sirenes de risc químic en un simulacre amb ES-Alert a 47 municipis",
-      "excerpt": "La prova es durà a terme a les 10 del matí d'aquest dilluns en 47 municipis de Catalunya, sobretot del Camp de Tarragona, el Baix Llobregat i el Barcelonès",
+      "title": "Protecció Civil ajorna la prova de totes les sirenes de risc químic prevista per a aquest dilluns",
+      "excerpt": "La prova s'havia de fer a les 10 del matí d'aquest dilluns en 47 municipis de Catalunya, sobretot del Camp de Tarragona, el Baix Llobregat i el Barcelonès",
       "url": "https://www.3cat.cat/3catinfo/proteccio-civil-prova-dilluns-totes-les-sirenes-de-risc-quimic-en-un-simulacre-amb-es-alert-a-47-municipis/noticia/3434694/",
       "published": "2026-10-18T13:05:00+02:00",
       "category": "Actualitat",
@@ -1015,8 +1140,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Amplien els avisos per un nou episodi de pluja intensa fins dimarts: 19 comarques en risc alt",
-      "excerpt": "Hi ha una vintena de comarques en avís taronja per intensitat de pluja i per acumulació des del migdia de dilluns i fins a la matinada de dimarts",
+      "title": "19 comarques en risc alt per un nou episodi de pluges que durarà fins dimarts",
+      "excerpt": "Les tempestes començaran al migdia a les Terres de l'Ebre i la Costa Daurada i s'aniran escampant cap a la costa central fins arribar a la Costa Brava la matinada de dimarts",
       "url": "https://www.3cat.cat/3catinfo/nou-episodi-de-pluja-intensa-aquest-dilluns-amb-11-comarques-en-risc-alt-a-partir-del-migdia/noticia/3434733/",
       "published": "2026-10-18T11:39:01+02:00",
       "category": "Actualitat",
