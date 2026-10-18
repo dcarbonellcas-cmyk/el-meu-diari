@@ -53,7 +53,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Alerta màxima al País Valencià per previsions de més de 300 litres per metre quadrat",
+      "title": "Alerta màxima per pluja torrencial al País Valencià, Eivissa i Formentera",
       "excerpt": "Hi ha una persona desapareguda a Cabrera de Mar, que va ser arrossegada per una riera",
       "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
       "published": "2026-10-18T08:00:26+02:00",
@@ -89,7 +89,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Protestes a França: més de 1.200 detinguts i el govern parla de “punt de no-retorn”",
+      "title": "Les protestes a l’estat francès causen 1.200 detinguts i el govern alerta d’un punt de no retorn",
       "excerpt": "El primer ministre francès, Sébastien Lecornu, acusa la França Insubmisa de donar suport als manifestants violents",
       "url": "https://www.vilaweb.cat/noticies/protestes-franca-detinguts-govern-punt-no-retorn/",
       "published": "2026-10-18T08:35:08+02:00",
@@ -116,6 +116,66 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/d4c74b3c-d256-45b3-a89a-e076ee707d93_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Investiguen el segrest d'un home al barri del Singuerlín de Santa Coloma de Gramenet",
+      "excerpt": "Aquest any, a Catalunya s'han registrat almenys nou segrestos exprés",
+      "url": "https://www.3cat.cat/3catinfo/investiguen-el-segrest-dun-home-al-barri-del-singuerlin-de-santa-coloma-de-gramenet/noticia/3434734/",
+      "published": "2026-10-18T11:27:57+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/3/1792315203333.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Seitons, cigrons, nous i magrana, quins aliments són imprescindibles durant la menopausa?",
+      "excerpt": "Una alimentació adequada durant la menopausa, etapa natural en la vida de les dones entre els 45 i els 55 anys, pot ajudar a compensar la setantena de símptomes que té associats. Canvis metabòlics importants provocats per la pèrdua d’estrògens com la disminució de massa òssia, l’augment de greix abdominal i un major risc cardiovascular. […]",
+      "url": "https://beteve.cat/estils-de-vida/menopausa-aliments-simptomes/",
+      "published": "2026-10-18T11:08:35+02:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/menopausa-aliments-sardina-2026-10-14.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sofía Vergara, acusada pel seu ex d'abandonar-lo emocionalment durant els seus set anys de malaltia",
+      "excerpt": "Hi ha poques dones llatinoamericanes més cèlebres que Sofía Vergara. L'actriu colombiana, de 54 anys, és avui en dia a l'Olimp de la fama llatinoamericana a escala global. Tant és així que només se la pot comparar amb JLo, Shakira i, en certa manera, Salma Hayek. És per aquest motiu que qualsevol menció que se li faci és susceptible de convertir-se en un titular de premsa desitjós de ser clicat a Llatinoamèrica, els Estats Units o Europa.",
+      "url": "https://www.ara.cat/gent/sofia-vergara-acusada-pel-ex-d-abandonar-emocionalment-durant-set-anys-malaltia_1_5880058.html",
+      "published": "2026-10-18T11:00:53+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1cd5535d-e85c-4b3b-abb9-eb00843a2e98_16-9-aspect-ratio_default_1061120.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Una seixantena de persones denuncien estafes en la compra d’entrades per als concerts d’Oques Grasses",
+      "excerpt": "Els Mossos creuen que el nombre de víctimes pot ser molt superior i investiguen les estafes comeses per xarxes socials i plataformes de venda d'entrades",
+      "url": "https://www.vilaweb.cat/noticies/seixanta-persones-estafa-compra-entrades-oques-grasses/",
+      "published": "2026-10-18T10:57:01+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Detingut el presumpte autor d’uns trets al barri de les Roquetes a l’agost",
+      "excerpt": "Els Mossos d’Esquadra han detingut el presumpte autor d’uns trets amb arma de foc al barri de les Roquetes, al districte de Nou Barris, la matinada del 9 d’agost. Es tracta d’un home de 30 anys a qui s’acusa d’un delicte d’amenaces, tinença il·lícita d’armes i lesions. La investigació per part dels Mossos va determinar […]",
+      "url": "https://beteve.cat/societat/detingut-presumpte-autor-trets-roquetes-agost-2026/",
+      "published": "2026-10-18T10:51:57+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/08/mossos-esquadra-030826-2026-08-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El FAB Casa del Mig, a mig gas pels desperfectes de les pluges, que van fer caure part del sostre",
+      "excerpt": "L’espai tecnològic i fabricació digital FAB Casa del Mig ha hagut d’interrompre bona part de les activitats després dels danys provocats durant els darrers episodis de pluges intenses. La filtració d’aigua va causar la caiguda parcial del fals sostre i ha obligat a precintar un dels espais de l’equipament. Les afectacions encara s’estan avaluant i, […]",
+      "url": "https://beteve.cat/societat/fab-casa-mig-desperfectes-pluges-caure-sostre/",
+      "published": "2026-10-18T10:41:04+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/sostre-fab-casa-mig-2026-10-16.webp",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -219,7 +279,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Les portades del diumenge 18 de octubre de 2026",
+      "title": "Les portades del diumenge 18 d’octubre de 2026",
       "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
       "url": "https://www.vilaweb.cat/noticies/les-portades-del-diumenge-18-de-octubre-de-2026/",
       "published": "2026-10-18T08:00:02+02:00",

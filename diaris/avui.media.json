@@ -43,7 +43,7 @@
     },
     {
       "page": 7,
-      "title": "Alerta màxima al País Valencià per previsions de més de 300 litres per metre quadrat",
+      "title": "Alerta màxima per pluja torrencial al País Valencià, Eivissa i Formentera",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
       "published": "2026-10-18T08:00:26+02:00",
@@ -72,7 +72,7 @@
     },
     {
       "page": 10,
-      "title": "Protestes a França: més de 1.200 detinguts i el govern parla de “punt de no-retorn”",
+      "title": "Les protestes a l’estat francès causen 1.200 detinguts i el govern alerta d’un punt de no retorn",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/protestes-franca-detinguts-govern-punt-no-retorn/",
       "published": "2026-10-18T08:35:08+02:00",
@@ -96,6 +96,54 @@
     },
     {
       "page": 13,
+      "title": "Investiguen el segrest d'un home al barri del Singuerlín de Santa Coloma de Gramenet",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/investiguen-el-segrest-dun-home-al-barri-del-singuerlin-de-santa-coloma-de-gramenet/noticia/3434734/",
+      "published": "2026-10-18T11:27:57+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 14,
+      "title": "Seitons, cigrons, nous i magrana, quins aliments són imprescindibles durant la menopausa?",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/estils-de-vida/menopausa-aliments-simptomes/",
+      "published": "2026-10-18T11:08:35+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 15,
+      "title": "Sofía Vergara, acusada pel seu ex d'abandonar-lo emocionalment durant els seus set anys de malaltia",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/gent/sofia-vergara-acusada-pel-ex-d-abandonar-emocionalment-durant-set-anys-malaltia_1_5880058.html",
+      "published": "2026-10-18T11:00:53+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 16,
+      "title": "Una seixantena de persones denuncien estafes en la compra d’entrades per als concerts d’Oques Grasses",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/seixanta-persones-estafa-compra-entrades-oques-grasses/",
+      "published": "2026-10-18T10:57:01+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 17,
+      "title": "Detingut el presumpte autor d’uns trets al barri de les Roquetes a l’agost",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/detingut-presumpte-autor-trets-roquetes-agost-2026/",
+      "published": "2026-10-18T10:51:57+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 18,
+      "title": "El FAB Casa del Mig, a mig gas pels desperfectes de les pluges, que van fer caure part del sostre",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/fab-casa-mig-desperfectes-pluges-caure-sostre/",
+      "published": "2026-10-18T10:41:04+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 19,
       "title": "Troben un objecte personal de la dona arrossegada per la riera a Cabrera de Mar",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/troben-un-objecte-personal-de-la-dona-arrossegada-per-la-riera-a-cabrera-de-mar/",
@@ -103,7 +151,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 14,
+      "page": 20,
       "title": "[VÍDEO] Ultres del Betis profereixen crits catalanòfobs i llancen objectes als afeccionats del Barça",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/videos-ultres-betis-crits-catalanofobs-barca/",
@@ -111,7 +159,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 15,
+      "page": 21,
       "title": "Veïns del Parc de Collserola reclamen que reobri per salut mental: “Alguns tenim ansietat”",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/veins-collserola-denuncien-tancament-parc-afecta-salut-mental/",
@@ -119,7 +167,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 16,
+      "page": 22,
       "title": "Kenya confirma quatre casos nous d’Ebola, però assegura que el risc de contagis és baix",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/kenya-confirma-quatre-casos-nous-debola-pero-assegura-que-el-risc-de-contagis-es-baix/",
@@ -127,7 +175,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 17,
+      "page": 23,
       "title": "Hem fet entrar als instituts els seminaris d’emocions però n’hem foragitat els llibres",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/opinio/hem-fet-entrar-als-instituts-seminaris-d-emocions-n-hem-foragitat-llibres_129_5879771.html",
@@ -135,7 +183,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 18,
+      "page": 24,
       "title": "Créixer sense família en un país que no és el teu: \"Patiràs més que al Marroc\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/emergencia-social/creixer-familia-pais-no-patiras-mes-marroc_130_5879191.html",
@@ -143,7 +191,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 19,
+      "page": 25,
       "title": "\"Estava en el punt de pensar com morir-me i que semblés un accident\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/justicia/punt-pensar-morir-sembles-accident_1_5874580.html",
@@ -151,7 +199,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 20,
+      "page": 26,
       "title": "Com ha canviat l'ajuda que rep Ucraïna des que Trump és al poder?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/europa/canviat-l-ajuda-rep-ucraina-des-trump_1_5879775.html",
@@ -159,7 +207,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 21,
+      "page": 27,
       "title": "L’última frivolitat de LeBron James divideix la NBA",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/basquet/ultima-frivolitat-lebron-james-divideix-nba_130_5881792.html",
@@ -167,7 +215,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 22,
+      "page": 28,
       "title": "\"La gent es va tornar boja\": 25 anys del programa que va capgirar la televisió",
       "source": "ARA",
       "articleUrl": "https://diumenge.ara.cat/diumenge/gent-tornar-boja-25-anys-programa-capgirar-televisio_130_5864238.html",
@@ -175,15 +223,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 23,
-      "title": "Les portades del diumenge 18 de octubre de 2026",
+      "page": 29,
+      "title": "Les portades del diumenge 18 d’octubre de 2026",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-diumenge-18-de-octubre-de-2026/",
       "published": "2026-10-18T08:00:02+02:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 24,
+      "page": 30,
       "title": "Perejaume fa el cartell del 150è aniversari del Centre Excursionista de Catalunya",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/perejaume-cartell-150e-aniversari-centre-excursionista-catalunya_1_5882216.html",
@@ -191,7 +239,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 25,
+      "page": 31,
       "title": "Segregació escolar, una esquerda invisible: \"No vaig conèixer cap Jordi fins als 13 anys\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/segregacio-escolar-una-esquerda-invisible-no-vaig-coneixer-cap-jordi-fins-als-13-anys/noticia/3412010/",
@@ -199,7 +247,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 26,
+      "page": 32,
       "title": "De l'escola que ningú volia a convertir-se en un referent mundial: les claus per transformar els centres més segregats",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/de-lescola-que-ningu-volia-a-convertir-se-en-un-referent-mundial-les-claus-per-transformar-els-centres-mes-segregats/noticia/3434187/",
@@ -207,7 +255,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 27,
+      "page": 33,
       "title": "\"Hi ha molts madrilenys que també volen girar full del Procés\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/hi-madrilenys-tambe-volen-girar-full-proces_128_5880942.html",
@@ -215,7 +263,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 28,
+      "page": 34,
       "title": "L’aeroport i el port, els més afectats pel darrer episodi de tempestes, amb una setantena de litres",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/nou-episodi-pluja-afectacions-barcelona-17-octubre-directe/",
