@@ -132,6 +132,22 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: pluja més intensa, abundant i generalitzada",
+      "excerpt": "Estan activats els avisos del Servei Meteorològic de Catalunya per intensitat i acumulació de pluja.",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/",
+      "published": "2026-10-18T13:14:05+02:00",
+      "updated": "2026-10-18T22:21:46+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1792320805226.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431199/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
       "title": "Així funcionen les aules d’acollida a escoles i instituts, un recurs per a l’alumnat nouvingut",
       "excerpt": "Les escoles i instituts ja fa anys que són testimonis de les onades migratòries viscudes els últims anys. Cada vegada més alumnes d’arreu del món arriben als centres i necessiten una atenció més personalitzada: per aprendre la llengua, però també per integrar-se en un entorn completament nou. A Barcelona hi ha 246 aules d’acollida. Una […]",
@@ -228,19 +244,13 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dilluns: pluja més intensa, abundant i generalitzada",
-      "excerpt": "Estan activats els avisos del Servei Meteorològic de Catalunya per intensitat i acumulació de pluja.",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/",
-      "published": "2026-10-18T13:14:05+02:00",
-      "updated": "2026-10-18T15:50:59+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1792320805226.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6431154/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/"
-      },
+      "source": "ARA",
+      "title": "Torna la pluja intensa: el Govern demana \"màxima prudència\" a 19 comarques",
+      "excerpt": "La pluja ha donat una certa treva a Catalunya aquest diumenge, però la presència de la dana Adam provocarà una nova jornada de precipitacions persistents i extenses a bona part del país al llarg d'aquest dilluns. En 24 hores, els aiguats podrien deixar acumulacions de més de 100 litres per metre quadrat. El president de la Generalitat, Salvador Illa, ha advertit que el risc associat a aquesta gota freda encara \"no s'ha acabat\" i ha demanat màxima prudència davant la previsió d'aquest nou episodi. Segons…",
+      "url": "https://www.ara.cat/societat/medi-ambient/troben-morta-dona-desapareguda-riera-cabrera-mar-fortes-pluges_1_5882695.html",
+      "published": "2026-10-18T12:25:35+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ef10e232-912a-48bc-af1d-ad3c483bcd9f_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -295,6 +305,36 @@
     },
     {
       "source": "betevé",
+      "title": "betevé esports",
+      "excerpt": "LÀlex Masana i la Marina Garrido repassen tota lactualitat esportiva del cap de setmana els dissabtes i diumenges al betevé esports.",
+      "url": "https://beteve.cat/beteve-esports/beteve-esports-76/",
+      "published": "2026-10-18T21:57:41+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El BUC estrena el curs amb derrota després de la polèmica als despatxos: “Ha estat un caos”",
+      "excerpt": "El Barcelona Universitari Club ha debutat aquest diumenge amb una desfeta a la Guinardera davant el Sant Cugat (38-6). El partit ha significat l’estrena del conjunt dirigit per Aroa González, que no va poder jugar a la primera jornada, davant l’Olímpico de Pozuelo. El duel ha estat marcat pel context de complexitat que viu el […]",
+      "url": "https://beteve.cat/esports/buc-derrota-polemica-despatxos-caos/",
+      "published": "2026-10-18T21:54:09+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Fotos-Beteve-2026-10-18T190312.324-2026-10-18.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Al·lèrgiques al Pol·len: “Un grup de sis ties encara incomoda”",
+      "excerpt": "Entrevista a Joana Subirats, Maria Riba i Marina Rico, compositores del grup, ara que publiquen 'No t'ho desitjo mai', el cinquè disc",
+      "url": "https://www.vilaweb.cat/noticies/entrevista-aap-no-tho-desitjo-mai-disc/",
+      "published": "2026-10-18T21:30:06+02:00",
+      "category": "Cultura",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "Torn de guàrdia: Sobre l’asfalt [capítol 3]",
       "excerpt": "La tasca de la Guàrdia Urbana de Barcelona de control i regulació del trànsit és potser la més coneguda. El que no tothom sap és que el cos disposa de dues unitats especialitzades en aquest àmbit, la Unitat Central de Trànsit (UCT) i la Unitat Central d’Atestats de Trànsit (UCAT), totes dues amb seu a […]",
       "url": "https://beteve.cat/torn-de-guardia/sobre-asfalt/",
@@ -306,7 +346,7 @@
     {
       "source": "ARA",
       "title": "Sekulic aprendrà aviat on és Badalona: l'Instant Replay de l'ARA",
-      "excerpt": "L'Asisa Joventut va repetir l'exhibició de la Supercopa Endesa i va tornar a enviar el Barça al racó de pensar (113-89). La Penya, que es creix en els escenaris que li motiven, va fer embogir els 10.248 espectadors del Palau Olímpic. Ricky Rubio, Nico Laprovittola i Eli Ndiaye van liderar el triomf verd-i-negre. A més, el jove Adrián Torres va completar una gran actuació. \"Catalunya és verd-i-negra\", va acabar cantant al pavelló.",
+      "excerpt": "L'Asisa Joventut va repetir l'exhibició de la Supercopa Endesa i va tornar a enviar el Barça al racó de pensar (113-89). La Penya, que s'infla en els escenaris que el motiven, va fer embogir els 10.248 espectadors del Palau Olímpic. Ricky Rubio, Nico Laprovittola i Eli Ndiaye van liderar el triomf verd-i-negre. A més, el jove Adrián Torres va completar una gran actuació. \"Catalunya és verd-i-negra\", va acabar cantant el pavelló.",
       "url": "https://www.ara.cat/esports/basquet/acb/sekulic-aprendra-aviat-badalona-instant-replay-ara_1_5882903.html",
       "published": "2026-10-18T21:15:52+02:00",
       "category": "Actualitat",
@@ -315,7 +355,7 @@
     },
     {
       "source": "betevé",
-      "title": "L’afició del Sant Andreu indignada amb el Manresa pel preu excessiu de les entrades",
+      "title": "L’afició del Sant Andreu, indignada amb el Manresa pel preu excessiu de les entrades",
       "excerpt": "El Sant Andreu jugarà, el pròxim dimarts 27 d’octubre al Congost, contra el Manresa a la Copa del Rei. El que hauria de ser un bon partit de futbol català quedarà tacat pel preu excessiu en la venda d’entrades destinades al conjunt visitant. El Manresa ha fixat que cada aficionat del conjunt quadribarrat haurà de […]",
       "url": "https://beteve.cat/esports/aficio-sant-andreu-molesta-manresa-preu-excessiu-entrades/",
       "published": "2026-10-18T21:13:45+02:00",
@@ -385,7 +425,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Macron promet mà dura contra els aldarulls i anuncia mesures per a atendre les reivindicacions dels estudiants",
+      "title": "Macron promet mà de ferro contra els aldarulls i anuncia mesures per a atendre les reivindicacions dels estudiants",
       "excerpt": "El president francès atribueix els episodis de violència a grups d’extrema esquerra i encarrega al primer ministre, Sébastien Lecornu, que obri un procés de diàleg amb els sectors mobilitzats",
       "url": "https://www.vilaweb.cat/noticies/macron-promet-ma-dura-aldarulls-mesures-estudiants/",
       "published": "2026-10-18T20:25:41+02:00",
@@ -411,12 +451,12 @@
       "published": "2026-10-18T20:15:50+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/4/1792321126948.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431077/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/quatre-anys-treballant-en-un-tapis-gens-tradicional-que-subverteix-el-relat-monarquic-triomfal/noticia/3434736/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -641,7 +681,7 @@
     {
       "source": "ARA",
       "title": "Llencem pa sec a les escombraries però comprem pa ratllat",
-      "excerpt": "Un de cada tres aliments acaba a les escombraries. La xifra és contundent, i ens ha de fer pensar què comprem, quant comprem i com ho cuinem. La xef Ada Parellada explica que ha vist una persona llençant pa sec a les escombraries i, tot seguit, comprant un paquet de pa ratllat. “Ni és ètic ni és moral, perquè el pa no es llença”, diu, i afegeix que ella va entrar en la lluita contra el malbaratament alimentari per indignació i ràbia de veure fets…",
+      "excerpt": "Un de cada tres aliments acaba a les escombraries. La xifra és contundent, i ens ha de fer pensar què comprem, quant comprem i com ho cuinem. La xef Ada Parellada explica que ha vist una persona llençant pa sec a les escombraries i, tot seguit, comprant un paquet de pa ratllat (o farina de galeta, que de les dues maneres en podem dir correctament). “Ni és ètic ni és moral, perquè el pa no es llença”, diu, i afegeix que ella va entrar en…",
       "url": "https://mengem.ara.cat/salut_i_nutricio/llencem-pa-sec-escombraries-comprem-pa-ratllat_1_5863318.html",
       "published": "2026-10-18T18:01:01+02:00",
       "category": "Actualitat",
@@ -650,7 +690,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La UAB denega a Vito Quiles l’accés al campus per a fer un acte i Interior garanteix que n’impedirà l’entrada",
+      "title": "La UAB denega a Vito Quiles l’accés al campus per a fer un acte i Interior garanteix que li impedirà l’entrada",
       "excerpt": "L'activista ha comunicat que té previst de participar en un acte demà a la tarda",
       "url": "https://www.vilaweb.cat/noticies/la-uab-no-autoritza-lactivitat-de-lultra-vito-quiles-i-diu-que-els-mossos-li-impediran-lentrada/",
       "published": "2026-10-18T17:58:00+02:00",
@@ -711,7 +751,7 @@
     {
       "source": "VilaWeb",
       "title": "El vídeo viral d’un àrbitre que comprova l’estat d’un camp negat d’aigua: “Es juga o no?”",
-      "excerpt": "El partit entre la Penya Deportiva i l'UCAM Múrcia s'ha ajornat arran de l'Es-Alert",
+      "excerpt": "El partit entre la Penya Esportiva de Santa Eulària del Riu i l'UCAM Múrcia s'ha ajornat arran de l'Es-Alert",
       "url": "https://www.vilaweb.cat/noticies/video-viral-arbitres-comprovant-estat-camp-inundat/",
       "published": "2026-10-18T17:29:04+02:00",
       "category": "Societat",
@@ -921,7 +961,7 @@
     {
       "source": "ARA",
       "title": "París viu nous aldarulls mentre Macron fa una crida a la desescalada",
-      "excerpt": "Quan encara no han passat 24 h dels greus aldarulls d'ahir , la tensió entre policia i manifestants torna als carrers de diverses ciutats franceses. A Tolosa, Lió, Rennes, o Lille, i també a Paris, els manifestants tornen a sortir al carrer en protestes convocades a través de les xarxes socials, i en algunes hi ha novament enfrontaments entre les forces de seguretat i els concentrats. La capital francesa torna a viure episodis de violència i alguns saquejos a comerços, amb la plaça de la…",
+      "excerpt": "Després de l'esclat de ràbia de dissabte , la tensió entre la policia i els manifestants ha tornat als carrers de diverses ciutats franceses aquest diumenge. A Tolosa, Lió, Rennes o Lilla, centenars de persones han tornat a sortir al carrer per protestes convocades a través de les xarxes socials, i a París s'han repetit algunes de les escenes que dissabte van convertir els carrers de la capital francesa en un camp de batalla. L'epicentre ha tornat a ser la plaça de la República, i…",
       "url": "https://www.ara.cat/internacional/europa/franca-ressitua-despres-l-esclat-rabia-l-ocas-macronisme_1_5881956.html",
       "published": "2026-10-18T13:58:25+02:00",
       "category": "Actualitat",
@@ -1056,16 +1096,6 @@
       "published": "2026-10-18T12:37:13+02:00",
       "category": "comunicació",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/09/radioactius-10-anys-2026-09-23.webp",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "ARA",
-      "title": "Torna el risc per pluges intenses a catorze comarques aquest dilluns",
-      "excerpt": "Tot i que aquest diumenge el temporal ha donat una certa treva a Catalunya, el president de la Generalitat, Salvador Illa, ha advertit que el risc encara \"no s'ha acabat\" i ha demanat màxima prudència davant la previsió d'un nou episodi de gota freda aquest dilluns. El territori afectat encara s'ha de \"calibrar\", però, de moment, el Meteocat ha emès un avís de situació meteorològica de perill a catorze comarques en una franja horària que va des de les 12 hores fins a la matinada.…",
-      "url": "https://www.ara.cat/societat/medi-ambient/troben-morta-dona-desapareguda-riera-cabrera-mar-fortes-pluges_1_5882695.html",
-      "published": "2026-10-18T12:25:35+02:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/ef10e232-912a-48bc-af1d-ad3c483bcd9f_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
