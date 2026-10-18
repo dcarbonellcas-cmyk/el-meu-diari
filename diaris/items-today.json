@@ -2,6 +2,16 @@
   "date": "2026-10-18",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "El temporal causa una desapareguda a Catalunya i manté en alerta roja el País Valencià",
+      "excerpt": "La desapareguda va ser arrossegada ahir per una riera a Cabrera de Mar",
+      "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
+      "published": "2026-10-18T08:00:26+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo",
       "title": "Gotland, l'illa sueca que es prepara per a la guerra",
       "excerpt": "Situada al mig del mar Bàltic, a menys de 300 quilòmetres al nord de l'enclavament rus de Kaliningrad, és un punt estratègic en plena escalada de tensió entre l'OTAN i Rússia",
@@ -17,15 +27,115 @@
       "excerpt": "Baixa la probabilitat d'aiguats torrencials després de la matinada",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/",
       "published": "2026-10-17T10:58:56+02:00",
-      "updated": "2026-10-18T07:08:59+02:00",
+      "updated": "2026-10-18T08:39:14+02:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/4/1792218539440.jpg",
+      "image": "https://img.3cat.cat/multimedia/png/2/7/1792302285972.png",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6431098/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6431109/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Protestes a França: més de 1.200 detinguts i el govern parla de “punt de no-retorn”",
+      "excerpt": "El primer ministre francès, Sébastien Lecornu, acusa la França Insubmisa de donar suport als manifestants violents",
+      "url": "https://www.vilaweb.cat/noticies/protestes-franca-detinguts-govern-punt-no-retorn/",
+      "published": "2026-10-18T08:35:08+02:00",
+      "category": "França",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Els salaris pesen més a l'economia, però el treballador no ho nota. Per què?",
+      "excerpt": "L'economia espanyola es manté al capdavant dels països avançats en creixement, amb una previsió del 2,6% aquest any segons el Banc d'Espanya i del 2,5% segons el Fons Monetari Internacional (FMI) . Però la inflació , també alerten, es menja el poder adquisitiu d'uns salaris que no donen per comprar o llogar una casa. La remuneració dels assalariats ha guanyat pes a l'economia espanyola, però el comença a perdre a favor dels beneficis d'alguns sectors empresarials. Els treballadors perceben que amb cada euro compren cada…",
+      "url": "https://www.ara.cat/economia/macroeconomia/salaris-pesen-mes-l-economia-treballador-no-ho-nota_1_5879129.html",
+      "published": "2026-10-18T08:00:16+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5690679d-ec47-4fc8-bbb3-b43d09dedeaf_16-9-aspect-ratio_default_0_x2226y2311.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "La intel·ligència artificial canviarà els impostos",
+      "excerpt": "La intel·ligència artificial (IA) canviarà la manera de treballar i moltes altres coses. Entre elles, els impostos. El sistema fiscal dels països s'haurà d'adaptar. Actualment, una bona part de la recaptació prové de les rendes del treball (salaris) a través d'un impost progressiu (qui més guanya més paga), que és l'IRPF. Però en la mesura que la IA reduirà llocs de treball –com a mínim durant un període de transició durant el qual moltes feines desapareixeran, es transformaran o requeriran menys personal–, ho notaran les…",
+      "url": "https://empreses.ara.cat/opinio/intel-ligencia-artificial-canviara-impostos_129_5879216.html",
+      "published": "2026-10-18T07:55:11+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d4c74b3c-d256-45b3-a89a-e076ee707d93_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Hem fet entrar als instituts els seminaris d’emocions però n’hem foragitat els llibres",
+      "excerpt": "El 2022 es van publicar els resultats del programa de mindfulness escolar més gran fins ara, amb la participació de 84 instituts i més de 8.000 alumnes d'11 a 13 anys. Les dades van mostrar que no va servir de res i, a més, els adolescents que ja estaven malament van acabar pitjor. A Austràlia, un programa de vuit sessions d'habilitats emocionals va fer créixer la depressió i l'ansietat dels estudiants, i va empitjorar la relació amb els pares. La psicòloga Lucy Foulkes, de la…",
+      "url": "https://llegim.ara.cat/opinio/hem-fet-entrar-als-instituts-seminaris-d-emocions-n-hem-foragitat-llibres_129_5879771.html",
+      "published": "2026-10-18T08:31:00+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/827b278a-4c0b-4056-82f2-9017411cf590_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Créixer sense família en un país que no és el teu: \"Patiràs més que al Marroc\"",
+      "excerpt": "De petit, en Mohammed Fadily va conèixer milers de nens com ell, menors que vivien en centres d'acollida després d'haver travessat la frontera il·legalment per aconseguir una vida millor a Europa. Només una vintena se n'ha sortit. \"La majoria ha mort dormint al carrer, són a la presó o han tornat al Marroc\". Quan va arribar en pastera tenia quinze anys i, malgrat que alguns cosins seus ja vivien a Espanya, cap d'ells li va donar un cop de mà quan els va demanar ajuda.…",
+      "url": "https://www.ara.cat/societat/emergencia-social/creixer-familia-pais-no-patiras-mes-marroc_130_5879191.html",
+      "published": "2026-10-18T08:01:29+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/73971963-7322-4e8d-beab-06380895d65a_16-9-aspect-ratio_default_0_x2762y1168.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Estava en el punt de pensar com morir-me i que semblés un accident\"",
+      "excerpt": "Una trucada interromp la conversa, però ja no la deixa \"desesperada\", com li passava fa pocs mesos. \"Continuen trucant, però ara agafo el telèfon amb calma i els dic que estic exonerada\", diu Lisa Manresa. Mentre ho explica, desgrana les quantitats que van acabar convertint-se en un deute inassumible: 14.000 euros perquè el seu home s'arreglés la boca, 15.000 per al cotxe i 72.000 euros pendents de la hipoteca que compartia amb la seva exparella, les despeses associades al trastorn límit de la personalitat de…",
+      "url": "https://www.ara.cat/societat/justicia/punt-pensar-morir-sembles-accident_1_5874580.html",
+      "published": "2026-10-18T08:00:19+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/58eb47d2-5382-4fff-9177-2d2f020e812c_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Com ha canviat l'ajuda que rep Ucraïna des que Trump és al poder?",
+      "excerpt": "Donald Trump, que en campanya electoral prometia posar fi a la guerra a Ucraïna en 24 hores, va estrenar el seu segon mandat protagonitzant una trobada amb Volodímir Zelenski al Despatx Oval extremadament tensa, on no va dissimular el seu menyspreu cap al dirigent ucraïnès. Allò va encendre les alarmes a Kíiv i, tot i que aparentment els dos líders van rebaixar la tibantor, aquests últims dies ha quedat clar que Trump continua menystenint el president ucraïnès, a qui assenyala com el culpable de no…",
+      "url": "https://www.ara.cat/internacional/europa/canviat-l-ajuda-rep-ucraina-des-trump_1_5879775.html",
+      "published": "2026-10-18T08:00:18+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/31026866-b8e5-473e-bb07-b58d4179fa6d_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L’última frivolitat de LeBron James divideix la NBA",
+      "excerpt": "LeBron James viurà a Nova York però jugarà a Filadèlfia. La nova estrella dels Philadelphia 76ers, que dimarts estrenarà la seva 24a temporada a la NBA, farà cada dia un trajecte equivalent a anar de Barcelona a Lleida. L'aler recorrerà la distància en helicòpter per estalviar-se els temuts embussos de la costa est dels Estats Units. L'excentricitat ha generat una allau de comentaris dels aficionats. Alguns ho veuen pràctic, però la majoria critiquen la petjada ecològica que generarà cada dia que hagi d'anar a entrenar.…",
+      "url": "https://www.ara.cat/esports/basquet/ultima-frivolitat-lebron-james-divideix-nba_130_5881792.html",
+      "published": "2026-10-18T08:00:16+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/94319fc3-a8dd-4e65-b2d0-e324928db3d2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"La gent es va tornar boja\": 25 anys del programa que va capgirar la televisió",
+      "excerpt": "\" ¡Cruza la pasarela! \" Fa 25 anys que es va popularitzar aquest crit televisiu. Era un dels moments clau de cada emissió d' Operación Triunfo , el talent show que va revolucionar la televisió i la música espanyola i que aquest octubre celebra un quart de segle. La nit del 22 d'octubre del 2001, TVE donava el tret de sortida a un nou format que barrejava elements del gènere del reality , que tot just començava a despuntar, i dels concursos musicals. Després de…",
+      "url": "https://diumenge.ara.cat/diumenge/gent-tornar-boja-25-anys-programa-capgirar-televisio_130_5864238.html",
+      "published": "2026-10-18T08:00:15+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cffcae0f-6164-412d-9646-36b224b523a9_16-9-aspect-ratio_default_1061073.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les portades del diumenge 18 de octubre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-diumenge-18-de-octubre-de-2026/",
+      "published": "2026-10-18T08:00:02+02:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
