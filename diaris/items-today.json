@@ -38,7 +38,7 @@
       "url": "https://www.ara.cat/internacional/ucraina-llanca-sant-petersburg-dels-majors-atacs-drons-guerra_1_5882652.html",
       "published": "2026-10-18T09:49:07+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/10172a6e-a881-4a8f-ba1d-38bb3950e0a7_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/11402aa1-b992-4c36-960d-70d7738031a7_source-aspect-ratio_default_0.jpg",
       "priority": "1 · Urgent"
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El temporal s’acarnissa amb el País Valencià, que es manté en alerta màxima",
+      "title": "El temporal s’acarnissa amb el País Valencià i l’UME es desplega a les Pitiüses i Mallorca",
       "excerpt": "L'AEMET rebaixa a carabassa l'alerta a les Pitiüses després d'un matí molt complicat",
       "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
       "published": "2026-10-18T08:00:26+02:00",
@@ -93,10 +93,20 @@
     },
     {
       "source": "betevé",
-      "title": "Incidències a Rodalies Catalunya avui: alteracions a diverses línies per una avaria de senyalització",
-      "excerpt": "Una avaria de senyalització que afecta les connexions entre l’estació de Sants i Plaça de Catalunya i entre Sants i Passeig de Gràcia provoca alteracions en el servei de les línies R1, R2 Sud, R4 i R11 de Rodalies. Els trens de l’R1 i l’R4 circulen amb demores d’uns 30 minuts de mitjana. Pel que […]",
+      "title": "Com saber si t’ha tocat ser a la mesa electoral de les eleccions generals 2026?",
+      "excerpt": "El sorteig de les meses electorals per a les eleccions generals 2026 del 29 de novembre es farà entre el 31 d’octubre i el 4 de novembre. En el cas de Barcelona se n’encarrega l’Ajuntament i encara no s’ha fixat una data per fer-lo. Una vegada s’hagi celebrat el sorteig els elegits rebran una notificació […]",
+      "url": "https://beteve.cat/politica/com-saber-eleccio-mesa-electoral-eleccions-generals-2026/",
+      "published": "2026-10-18T17:23:38+02:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/07/mesa-electoral-180723-1.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Incidències a Rodalies Catalunya avui: una avaria de senyalització provoca retards a diverses línies",
+      "excerpt": "Una avaria en el sistema de senyalització que regula el trànsit ferroviari ha provocat alteracions en el servei de les línies R1, R2, R4 i R11 de Rodalies. Inicialment, la incidència afectava dos trams: el comprès entre Sants i Plaça de Catalunya i el que connecta Sants amb Passeig de Gràcia. Al voltant de les […]",
       "url": "https://beteve.cat/mobilitat/incidencies-rodalies-catalunya-trens/",
-      "published": "2026-10-18T16:08:25+02:00",
+      "published": "2026-10-18T17:21:10+02:00",
       "category": "mobilitat",
       "image": "https://img.beteve.cat/wp-content/uploads/2025/05/Pictos-ultima-hora_en-temps-real-2.webp",
       "priority": "2 · Important"
@@ -184,6 +194,66 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Canvis a la TDT: què passarà i què cal fer a partir del 5 de novembre?",
+      "excerpt": "A partir del 5 de novembre, comença la primera fase dels canvis de la Televisió Digital Terrestre (TDT) cap a DVB-T2. Això vol dir que s’estrenaran emissions en ultra alta definició (UHD), es reorganitzaran diversos canals i, a més, començarà a funcionar una nova cadena: La Séptima. T’expliquem tot el que has de saber per posar […]",
+      "url": "https://beteve.cat/economia/canvis-tdt-que-passara-5-novembre/",
+      "published": "2026-10-18T17:30:23+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Copia-de-autobusos-plens-rodalies-071026-1-2026-10-09.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El vídeo viral d’un àrbitre comprovant l’estat d’un camp inundat: “Es juga o no?”",
+      "excerpt": "El partit entre la Penya Deportiva i l'UCAM Múrcia s'ha acabat ajornant arran de l'Es-Alert",
+      "url": "https://www.vilaweb.cat/noticies/video-viral-arbitres-comprovant-estat-camp-inundat/",
+      "published": "2026-10-18T17:29:04+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Feijóo (PP) i Nogueras (Junts) enceten a Barcelona la precampanya del 29-N",
+      "excerpt": "(ACN/Redacció) La precampanya per a les eleccions generals del 29 de novembre ja està en marxa. Aquest diumenge Xavier García Albiol ha fet el primer acte com a candidat del PP per Barcelona acompanyat del líder del partit, Alberto Núñez Feijóo, i s’ha erigit com la veu que defensarà Catalunya a Madrid. D’altra banda, la […]",
+      "url": "https://beteve.cat/politica/feijoo-pp-nogueras-junts-enceten-barcelona-precampanya-29-n/",
+      "published": "2026-10-18T17:04:12+02:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/nogueras-feijoo-2-2026-10-18.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El fantàstic i colpidor patetisme de La Zaranda",
+      "excerpt": "La Zaranda, Teatro Inestable de Ninguna Parte, celebra els quaranta anys amb la cita anual al Romea per voluntat del seu fins ara director Josep Maria Pou i en atenció al grup de fans que els segueixen des de fa tants anys. I és que el teatre de La Zaranda és tan peculiar i diferent de tot el que es pot veure sobre els escenaris... Un teatre despullat d’artificis que fa de la senzillesa virtut i que beu dels clàssics sense representar-los. Un teatre en…",
+      "url": "https://www.ara.cat/cultura/teatre/fantastic-colpidor-patetisme-zaranda_1_5882660.html",
+      "published": "2026-10-18T17:00:02+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6a37f579-00d3-4108-a939-fbe3a17393fe_16-9-aspect-ratio_default_0_x1440y957.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Vella i Joves, cara a cara de nou: Valls ja espera Santa Úrsula",
+      "excerpt": "Valls tornarà a convertir-se en l'epicentre del món casteller. Del 16 al 25 d'octubre, la Fira de Santa Úrsula omplirà la ciutat de cultura popular, música, patrimoni, foc i activitats, però serà diumenge quan tot el focus tornarà a apuntar cap a un únic lloc: la plaça del Blat. Allà, la Colla Vella dels Xiquets de Valls i la Colla Joves Xiquets de Valls protagonitzaran una nova batalla amb l'antecedent d'una de les Santa Úrsula més extraordinàries i més convulses dels últims anys.",
+      "url": "https://www.ara.cat/castells/vella-joves-cara-cara-nou-valls-ja-espera-santa-ursula_1_5882699.html",
+      "published": "2026-10-18T16:59:41+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e14c1889-e64e-4861-8117-e30aaf7ba415_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Via lliure per a Lamine Yamal contra el PSG: es confirma la lesió de Nuno Mendes",
+      "excerpt": "Nuno Mendes no jugarà contra el Barça aquest dimarts a la Champions. Després d’haver-se de retirar en el partit contra l’Estrasburg, les proves realitzades al lateral portuguès han demostrat que té una lesió muscular que el tindrà apartat durant diverses setmanes, segons ha confirmat el mateix PSG en un comunicat. És una bona notícia per […]",
+      "url": "https://beteve.cat/esports/nuno-mendes-lesio-via-lliure-lamine-yamal/",
+      "published": "2026-10-18T16:56:27+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/nuno-mendes-psg-2026-10-18.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
       "title": "El diamant rosa Gran Condé s'exhibeix a França, un segle després de ser amagat dins d'una poma",
       "excerpt": "La pedra preciosa va ser robada del Palau de Chantilly, al nord de París, on es torna a mostrar ara, fins al 3 de gener",
@@ -246,7 +316,7 @@
     {
       "source": "betevé",
       "title": "L’Espanyol B s’encalla a Reus i perd pistonada en la lluita pel lideratge",
-      "excerpt": "L’Espanyol B no ha passat de l’empat (1-1) davant el Reus FC Reddis en la seva vista al Municipal de Reus. El duel, entre dos dels millors equips del grup 2 de la Segona Federació, ha tingut moltes alternatives i dues targetes vermelles, però cap equip s’ha acabat imposant. Els pericos perden pistonada en la […]",
+      "excerpt": "L’Espanyol B no ha passat de l’empat (1-1) davant el Reus FC Reddis en la vista al Municipal de Reus. El duel, entre dos dels millors equips del grup 2 de la Segona Federació, ha tingut moltes alternatives i dues targetes vermelles, però cap equip s’ha acabat imposant. Els pericos perden pistonada en la lluita […]",
       "url": "https://beteve.cat/esports/espanyol-b-encalla-reus-lluita-lideratge/",
       "published": "2026-10-18T15:03:16+02:00",
       "category": "esports",
@@ -281,6 +351,16 @@
       "published": "2026-10-18T14:45:36+02:00",
       "category": "esports",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/aitana-reial-societat-fcb-derrota-2026-10-18.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Una prova de cinc minuts gratuïta pot ajudar en la prevenció de les malalties hepàtiques",
+      "excerpt": "Barcelona acull fins dimarts la UEG Week, un dels congressos líders internacionals de gastroenterologia, que reuneix professionals sanitaris i investigadors per compartir coneixements i avenços en salut digestiva. En el marc de la trobada, la campanya “Love your liver” ofereix als ciutadans la possibilitat de fer-se una revisió gratuïta de la salut hepàtica amb una […]",
+      "url": "https://beteve.cat/societat/prova-cinc-minuts-gratuita-prevencio-malalties-hepatiques/",
+      "published": "2026-10-18T14:44:37+02:00",
+      "category": "salut",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/prova-fetge-2026-10-18.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -326,7 +406,7 @@
     {
       "source": "ARA",
       "title": "França es ressitua després de l'esclat de ràbia: \"És l'ocàs del macronisme\"",
-      "excerpt": "\"Les forces de l'ordre ahir van quedar desbordades\". És la valoració que ha fet aquest diumenge l'adjunta a l'alcaldia de París, Lamia El Aaraje, sobre l'actuació de la policia durant la jornada de protestes d'aquest cap de setmana a la capital francesa . \"Hi va haver un nivell de violència que crec que no hem vist mai\", ha afegit. Entre 550.000 i 800.000 persones van sortir aquest dissabte als carrers a tot l'estat francès per protestar contra l'encariment del cost de la vida, en unes…",
+      "excerpt": "\"Ahir les forces de l'ordre van quedar desbordades\". És la valoració que ha fet aquest diumenge l'adjunta a l'alcaldia de París, Lamia El Aaraje, sobre l'actuació de la policia durant la jornada de protestes d'aquest cap de setmana a la capital francesa . \"Hi va haver un nivell de violència que crec que no hem vist mai\", ha afegit. Entre 550.000 i 800.000 persones van sortir aquest dissabte als carrers de França per protestar per l'encariment del cost de la vida, unes manifestacions en què…",
       "url": "https://www.ara.cat/internacional/europa/franca-ressitua-despres-l-esclat-rabia-l-ocas-macronisme_1_5881956.html",
       "published": "2026-10-18T13:58:25+02:00",
       "category": "Actualitat",
@@ -345,8 +425,8 @@
     },
     {
       "source": "ARA",
-      "title": "Feijóo encarrega a Albiol liderar la llei antiocupació a l'Estat: \"El 29-N hem de triar entre Colau o ell\"",
-      "excerpt": "Conscient que per arribar a la Moncloa necessita assolir un bon resultat a Catalunya, on es reparteixen 48 dels 350 escons en joc, el candidat del PP, Alberto Núñez Feijóo, ha tornat a venir a Barcelona en el que és la seva tercera visita en només un mes. En el primer acte de precampanya, el presidenciable dels populars s'ha rodejat de la plana major del partit a Catalunya per mirar de frenar l'ascens de Vox.",
+      "title": "Feijóo encarrega a Albiol liderar la llei antiocupació a l'Estat: \"El 29-N hem de triar entre Colau i ell\"",
+      "excerpt": "Conscient que per arribar a la Moncloa necessita assolir un bon resultat a Catalunya, on es reparteixen 48 dels 350 escons en joc, el candidat del PP, Alberto Núñez Feijóo, ha tornat a Barcelona en el que és la seva tercera visita en només un mes. En el primer acte de precampanya, el presidenciable dels populars s'ha rodejat de la plana major del partit a Catalunya per intentar frenar l'ascens de Vox.",
       "url": "https://www.ara.cat/politica/feijoo-encarrega-albiol-liderar-llei-antiocupacio-l-29-n-hem-triar-colau-ell_1_5882659.html",
       "published": "2026-10-18T13:50:43+02:00",
       "category": "Actualitat",
@@ -376,7 +456,7 @@
     {
       "source": "ARA",
       "title": "Rufián i Montero ja tenen data per fer el seu primer acte de precampanya a Barcelona",
-      "excerpt": "Ja hi ha data pel primer acte de precampanya de Gabriel Rufián i Irene Montero. El candidat d'ERC i la cap de llista de Podem a les eleccions espanyoles del 29-N debutaran en un míting conjunt el proper dissabte 24 d'octubre a Barcelona. L'esdeveniment és fruit de l'acord de col·laboració dels seus respectius partits per a les eleccions generals pel qual els liles no es presentaran a Catalunya i donaran suport a ERC, que inclou membres de Podem com a independents a les seves llistes…",
+      "excerpt": "Ja hi ha data pel primer acte de precampanya de Gabriel Rufián i Irene Montero. El candidat d'ERC i la cap de llista de Podem a les eleccions espanyoles del 29-N debutaran en un míting conjunt el pròxim dissabte 24 d'octubre a Barcelona. L'esdeveniment és fruit de l'acord de col·laboració dels seus respectius partits per a les eleccions generals pel qual els liles no es presentaran a Catalunya i donaran suport a ERC, que inclou membres de Podem com a independents a les seves llistes,…",
       "url": "https://www.ara.cat/politica/rufian-montero-ja-tenen-data-acte-precampanya-barcelona_1_5882716.html",
       "published": "2026-10-18T13:46:53+02:00",
       "category": "Actualitat",
@@ -475,8 +555,8 @@
     },
     {
       "source": "ARA",
-      "title": "Emoció fins a les llàgrimes amb el que fan Judit Nedderman i el Trio Fortuny",
-      "excerpt": "\"Si aquestes cançons han arribat fins avui és perquè són temarros\", sentenciava Marc Heredia, compositor i pianista del Trio Fortuny. D’acord, són temarros. Però el que ha fet el trio de cambra amb la veu de Judit Nedderman és la vuitena meravella: han recuperat les cançons que més ens emocionen del món, les cançons tradicionals que ens cantava de petits la mare o l’àvia —les històries de L’Hereu Riera i de La filadora , les Muntanyes regalades i El mariner , composicions que han espigolat…",
+      "title": "Emoció fins a les llàgrimes amb el que fan Judit Neddermann i el Trio Fortuny",
+      "excerpt": "\"Si aquestes cançons han arribat fins avui és perquè són temarros\", sentenciava Marc Heredia, compositor i pianista del Trio Fortuny. D’acord, són temarros. Però el que ha fet el trio de cambra amb la veu de Judit Neddermann és la vuitena meravella: han recuperat les cançons que més ens emocionen del món, les cançons tradicionals que ens cantava de petits la mare o l’àvia –les històries de L’hereu Riera i de La filadora , les Muntanyes regalades i El mariner , composicions que han espigolat…",
       "url": "https://www.ara.cat/cultura/musica/emocio-fins-llagrimes-judit-nedderman-trio-fortuny_1_5882662.html",
       "published": "2026-10-18T12:19:35+02:00",
       "category": "Actualitat",
@@ -545,7 +625,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Investiguen el segrest d'un home al barri del Singuerlín de Santa Coloma de Gramenet",
+      "title": "Investiguen dos possibles segrestos a Santa Coloma de Gramenet i a Fontanals de Cerdanya",
       "excerpt": "Aquest any, a Catalunya s'han registrat almenys nou segrestos exprés",
       "url": "https://www.3cat.cat/3catinfo/investiguen-el-segrest-dun-home-al-barri-del-singuerlin-de-santa-coloma-de-gramenet/noticia/3434734/",
       "published": "2026-10-18T11:27:57+02:00",
