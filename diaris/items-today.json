@@ -14,7 +14,7 @@
     {
       "source": "ARA",
       "title": "Troben morta la dona desapareguda en una riera de Cabrera de Mar durant el temporal de pluges",
-      "excerpt": "Els equips d'emergències han localitzat aquest diumenge al matí el cos sense vida de la dona d'uns 35 anys que dissabte al vespre hauria caigut en una riera de Cabrera de Mar durant el temporal de pluges causat per la dana 'Adam' i que ha afectat principalment la costa central del país. El cos s'ha trobat a prop de l'espigó del port de Premià de Mar, després d'un dispositiu de recerca que ha mobilitzat els Bombers de la Generalitat, els Mossos d'Esquadra i Salvament Marítim…",
+      "excerpt": "Els equips d'emergències han localitzat aquest diumenge al matí el cos sense vida de la dona d'uns 35 anys que dissabte al vespre hauria caigut en una riera de Cabrera de Mar durant el temporal de pluges causat per la dana Adam , que ha afectat principalment la costa central del país. El cos s'ha trobat a prop de l'espigó del port de Premià de Mar, després d'un dispositiu de recerca que ha mobilitzat els Bombers de la Generalitat, els Mossos d'Esquadra i Salvament Marítim…",
       "url": "https://www.ara.cat/societat/medi-ambient/troben-morta-dona-desapareguda-riera-cabrera-mar-fortes-pluges_1_5882695.html",
       "published": "2026-10-18T12:25:35+02:00",
       "category": "Actualitat",
@@ -33,8 +33,8 @@
     },
     {
       "source": "ARA",
-      "title": "Ucraïna llança contra Sant Petersburg un dels majors atacs amb drons de la guerra",
-      "excerpt": "L'exèrcit ucraïnès ha llençat aquest dissabte a la nit un atac amb drons contra Sant Petersburg, la segona ciutat russa, i la regió de Leningrad. Es considera un dels atacs més grans amb drons de tota la guerra, deixant una víctima mortal i cinc ferits.",
+      "title": "Ucraïna llança contra Sant Petersburg un dels atacs amb drons més grans de la guerra",
+      "excerpt": "En ple acostament de Donald Trump i Vladímir Putin, l'exèrcit ucraïnès ha llançat aquest dissabte a la nit un atac amb drons contra Sant Petersburg, la segona ciutat russa, i la regió de Leningrad. Es considera un dels atacs més grans amb drons de tota la guerra, i ha deixat una víctima mortal i cinc ferits. Unes 20.000 persones s'han quedat sense electricitat, en una ciutat de més de 5 milions d'habitants, a causa dels danys causats a una subestació elèctrica, i també s'han produït…",
       "url": "https://www.ara.cat/internacional/ucraina-llanca-sant-petersburg-dels-majors-atacs-drons-guerra_1_5882652.html",
       "published": "2026-10-18T09:49:07+02:00",
       "category": "Actualitat",
@@ -92,16 +92,42 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "betevé",
+      "title": "Incidències a Rodalies Catalunya avui: alteracions a diverses línies per una avaria de senyalització",
+      "excerpt": "Una avaria de senyalització que afecta les connexions entre l’estació de Sants i Plaça de Catalunya i entre Sants i Passeig de Gràcia provoca alteracions en el servei de les línies R1, R2 Sud, R4 i R11 de Rodalies. Els trens de l’R1 i l’R4 circulen amb demores d’uns 30 minuts de mitjana. Pel que […]",
+      "url": "https://beteve.cat/mobilitat/incidencies-rodalies-catalunya-trens/",
+      "published": "2026-10-18T16:08:25+02:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/05/Pictos-ultima-hora_en-temps-real-2.webp",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: ambient de tardor i pluja menys intensa, però a més comarques",
+      "excerpt": "Baixa la probabilitat d'aiguats torrencials després de la matinada",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/",
+      "published": "2026-10-17T10:58:56+02:00",
+      "updated": "2026-10-18T15:52:56+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/png/2/7/1792302285972.png",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431154/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dilluns: pluja més intensa, abundant i generalitzada",
       "excerpt": "Estan activats els avisos del Servei Meteorològic de Catalunya per intensitat i acumulació de pluja.",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/",
       "published": "2026-10-18T13:14:05+02:00",
-      "updated": "2026-10-18T13:32:42+02:00",
+      "updated": "2026-10-18T15:50:59+02:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/6/2/1792320805226.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6431109/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6431154/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/"
       },
@@ -125,22 +151,6 @@
       "published": "2026-10-18T11:13:42+02:00",
       "category": "medi ambient",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/09/veins-collserola-restriccions-2026-09-04-1.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge: ambient de tardor i pluja menys intensa, però a més comarques",
-      "excerpt": "Baixa la probabilitat d'aiguats torrencials després de la matinada",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/",
-      "published": "2026-10-17T10:58:56+02:00",
-      "updated": "2026-10-18T09:30:26+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/png/2/7/1792302285972.png",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6431109/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -172,6 +182,56 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/d4c74b3c-d256-45b3-a89a-e076ee707d93_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El diamant rosa Gran Condé s'exhibeix a França, un segle després de ser amagat dins d'una poma",
+      "excerpt": "La pedra preciosa va ser robada del Palau de Chantilly, al nord de París, on es torna a mostrar ara, fins al 3 de gener",
+      "url": "https://www.3cat.cat/3catinfo/el-diamant-rosa-gran-conde-sexhibeix-a-franca-un-segle-despres-de-ser-amagat-dins-duna-poma/noticia/3434744/",
+      "published": "2026-10-18T16:29:41+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1792328080912.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Nogueras critica el servilisme a Madrid i reivindica Junts com l’única formació “d’obediència estrictament catalana”",
+      "excerpt": "Defensa la capacitat de la formació per \"condicionar les decisions de Madrid\" i frenar els dos blocs espanyols",
+      "url": "https://www.vilaweb.cat/noticies/nogueras-critica-el-servilisme-a-madrid-i-reivindica-junts-com-lunica-formacio-dobediencia-estrictament-catalana/",
+      "published": "2026-10-18T16:28:03+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Aldarulls a Milà, Torí i Bolonya en les protestes per l’encariment de la vida",
+      "excerpt": "Milà registra els incidents més greus, amb almenys vint manifestants i quatre policies ferits · Meloni condemna la violència i demana a l'oposició que també la rebutgi",
+      "url": "https://www.vilaweb.cat/noticies/aldarulls-a-mila-tori-i-bolonya-en-les-protestes-per-lencariment-de-la-vida/",
+      "published": "2026-10-18T16:14:02+02:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El primer ministre albanès refusa de dimitir i alerta que la crisi fa trontollar l’adhesió a la UE",
+      "excerpt": "\"L'estat que es rendeix abans d'hora no es recupera en anys\", ha dit",
+      "url": "https://www.vilaweb.cat/noticies/el-primer-ministre-albanes-refusa-de-dimitir-i-alerta-que-la-crisi-fa-trontollar-ladhesio-a-la-ue/",
+      "published": "2026-10-18T16:06:58+02:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Lleó XIV reapareix al Vaticà després de l’operació per un càncer de pulmó",
+      "excerpt": "El papa anuncia que reprendrà gradualment l'activitat després d'haver rebut l'alta hospitalària ahir",
+      "url": "https://www.vilaweb.cat/noticies/lleo-xiv-reapareix-vatica-operacio-cancer-pulmo/",
+      "published": "2026-10-18T15:57:08+02:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -276,7 +336,7 @@
     {
       "source": "ARA",
       "title": "El Barça torna a topar amb la seva bèstia negra (amb polèmica)",
-      "excerpt": "350 dies després el Barça tornava a Zubieta, escenari de l'última derrota en partit oficial del conjunt barcelonista. Aquell 2 de novembre del 2025, l'equip de Pere Romeu queia per 1 a 0 davant de la Reial Societat. Gairebé un any més tard, les basques es van tornar a convertir bèstia negra. Les de Pere Romeu, que van marxar a l'aturada de seleccions amb les millors sensacions possibles, van perdre 2 a 1 amb polèmica arbitral inclosa.",
+      "excerpt": "350 dies després el Barça tornava a Zubieta, escenari de l'última derrota en partit oficial del conjunt barcelonista. Aquell 2 de novembre del 2025 l'equip de Pere Romeu queia per 1 a 0 davant de la Reial Societat. Gairebé un any més tard, les basques es van tornar a convertir en bèstia negra. Les de Pere Romeu, que van marxar a l'aturada de seleccions amb les millors sensacions possibles, van perdre 2 a 1 amb polèmica arbitral inclosa.",
       "url": "https://www.ara.cat/esports/barca-femeni/barca-torna-topar-seva-bestia-negra-polemica_1_5880906.html",
       "published": "2026-10-18T13:56:04+02:00",
       "category": "Actualitat",
