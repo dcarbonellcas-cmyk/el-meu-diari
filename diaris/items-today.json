@@ -2,9 +2,19 @@
   "date": "2026-10-18",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Ucraïna colpeja Sant Petersburg amb un dels atacs amb drons més gran de tota la guerra",
+      "excerpt": "L'acord de Trump amb el Kremlin per autoritzar l'exportació de dièsel rus als Estats Units i frenar l'aplicació d'un nou paquet de sancions contra Rússia",
+      "url": "https://www.3cat.cat/3catinfo/ucraina-colpeja-sant-petersburg-amb-un-dels-atacs-amb-drons-mes-gran-de-tota-la-guerra/noticia/3434732/",
+      "published": "2026-10-18T12:37:13+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/3/1792313210434.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "Troben morta la dona desapareguda en una riera de Cabrera de Mar durant el temporal de pluges",
-      "excerpt": "Els equips d'emergències han localitzat aquest diumenge al matí el cos sense vida de la dona d'uns 35 anys que dissabte al vespre hauria caigut en una riera de Cabrera de Mar durant el temporal de pluges. La dona hauria estat arrossegada per l'aigua quan intentava travessar-la amb els seus fills. El cos s'ha trobat a prop de l'espigó del port de Premià de Mar, després d'un dispositiu de recerca que ha mobilitzat els Bombers de la Generalitat, els Mossos d'Esquadra i Salvament Marítim durant…",
+      "excerpt": "Els equips d'emergències han localitzat aquest diumenge al matí el cos sense vida de la dona d'uns 35 anys que dissabte al vespre hauria caigut en una riera de Cabrera de Mar durant el temporal de pluges causat per la dana 'Adam' i que ha afectat principalment la costa central del país. El cos s'ha trobat a prop de l'espigó del port de Premià de Mar, després d'un dispositiu de recerca que ha mobilitzat els Bombers de la Generalitat, els Mossos d'Esquadra i Salvament Marítim…",
       "url": "https://www.ara.cat/societat/medi-ambient/troben-morta-dona-desapareguda-riera-cabrera-mar-fortes-pluges_1_5882695.html",
       "published": "2026-10-18T12:25:35+02:00",
       "category": "Actualitat",
@@ -64,7 +74,7 @@
     {
       "source": "VilaWeb",
       "title": "Alerta màxima per pluja torrencial al País Valencià, Eivissa i Formentera",
-      "excerpt": "Hi ha una persona desapareguda a Cabrera de Mar, que va ser arrossegada per una riera",
+      "excerpt": "La pluja torrencial pot deixar registres de més de 300 litres per metre quadrat en alguns punts del País Valencià",
       "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
       "published": "2026-10-18T08:00:26+02:00",
       "category": "Societat",
@@ -80,6 +90,22 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/7/1792159219977.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: pluja més intensa, abundant i generalitzada",
+      "excerpt": "Estan activats els avisos del Servei Meteorològic de Catalunya per intensitat i acumulació de pluja.",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/",
+      "published": "2026-10-18T13:14:05+02:00",
+      "updated": "2026-10-18T13:32:42+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1792320805226.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431109/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/"
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -148,6 +174,76 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "Feijóo encarrega a Albiol que encapçali una llei espanyola contra les ocupacions",
+      "excerpt": "El candidat del PP diu que “estarem a l’altura física i política del moment”, però es compromet a no deixar Badalona",
+      "url": "https://www.vilaweb.cat/noticies/feijoo-encarrega-a-albiol-que-encapcali-una-llei-espanyola-contra-les-ocupacions/",
+      "published": "2026-10-18T13:35:05+02:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Romania abat dos drons russos que havien entrat en el seu espai aeri",
+      "excerpt": "Dos caces F-16 han interceptat els aparells, de tipus Geran, i Bucarest ha anunciat una reunió de l’OTAN per a dimarts vinent",
+      "url": "https://www.vilaweb.cat/noticies/romania-abat-dos-drons-russos-que-havien-entrat-en-el-seu-espai-aeri/",
+      "published": "2026-10-18T13:09:15+02:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Protecció Civil prova dilluns totes les sirenes de risc químic en un simulacre amb ES-Alert a 47 municipis",
+      "excerpt": "La prova es durà a terme a les 10 del matí d'aquest dilluns en 47 municipis de Catalunya, sobretot del Camp de Tarragona, el Baix Llobregat i el Barcelonès",
+      "url": "https://www.3cat.cat/3catinfo/proteccio-civil-prova-dilluns-totes-les-sirenes-de-risc-quimic-en-un-simulacre-amb-es-alert-a-47-municipis/noticia/3434694/",
+      "published": "2026-10-18T13:05:00+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/5/1716909427259.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els fabricants catalans de roba ciclista aguanten el pols als gegants de la indústria",
+      "excerpt": "La Titan Desert del Marroc és una de les curses més dures dins del món del ciclisme de resistència. Al llarg de sis etapes, els participants creuen la serralada de l'Atles i les dunes del desert del Sàhara per completar un recorregut de gairebé 600 quilòmetres i més de 6.000 metres de desnivell positiu. I l'edició d'aquest 2026, celebrada entre finals d'abril i principis de maig, tenia segell català. La marca Inverse, amb seu a Mollet del Vallès, va ser l'escollida per dissenyar i fabricar…",
+      "url": "https://empreses.ara.cat/empreses/fabricants-catalans-roba-ciclista-aguanten-pols-als-gegants-industria_130_5880941.html",
+      "published": "2026-10-18T13:00:55+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4b7f221c-0da5-4307-8972-af37c2abf3dd_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una \"nova casa\" de 73 milions d'euros per salvar el patrimoni que no cap als museus",
+      "excerpt": "Restes humanes que poden oferir moltes dades del nostre passat, sediments amb un munt d’informació sobre què es menjava fa segles, màquines tèxtils, ordinadors, àmfores, làpides, escultures, pintures, murals, capitells, vestits, fòssils, pedres, llavors, bales, càntirs... Si anéssim sumant el patrimoni que custodien els museus catalans, la xifra s'enfilaria fins als vuit milions de peces. És un conjunt inabastable i heterogeni del qual el públic només veu una petitíssima part a les sales d'exposició; la resta, la immensa majoria, roman invisible en magatzems i dipòsits.",
+      "url": "https://www.ara.cat/cultura/nova-casa-73-milions-d-euros-salvar-patrimoni-no-cap-als-museus_1_5881176.html",
+      "published": "2026-10-18T13:00:55+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f44fcd24-ae89-4f82-a141-964c4089cd1b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Quin impacte pot tenir la revolta a França: més espectacle que propostes",
+      "excerpt": "Tothom denuncia la violència dins la jornada de mobilitzacions massives, però tothom se l'esperava, i no sembla que s'esperoni el diàleg per resoldre els conflictes oberts",
+      "url": "https://www.3cat.cat/3catinfo/quin-impacte-pot-tenir-la-revolta-a-franca-mes-espectacle-que-propostes/noticia/3434738/",
+      "published": "2026-10-18T12:52:04+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/8/1792319698681.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "[VÍDEO] La pluja torrencial inunda l’aeroport d’Eivissa",
+      "excerpt": "També ha inundat uns quants trams de la carretera de l'aeroport, que és tallada",
+      "url": "https://www.vilaweb.cat/noticies/video-la-pluja-torrencial-inunda-laeroport-deivissa/",
+      "published": "2026-10-18T12:50:28+02:00",
+      "category": "Illes",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Una dècada de Ràdioactius, l’espai comunitari, feminista i intergeneracional del Poble-sec",
       "excerpt": "Ràdioactius, el projecte radiofònic comunitari del Poble-sec, celebra una dècada de vida convertit en una de les iniciatives més arrelades al barri. L’associació ha crescut fins a esdevenir un espai de trobada, aprenentatge i cohesió social. “Es va fundar l’any 2016 com un projecte del pla comunitari. I el 2019 vam pensar a constituir una […]",
@@ -160,7 +256,7 @@
     {
       "source": "VilaWeb",
       "title": "Troben el cos sense vida de la dona arrossegada per una riera a Cabrera de Mar",
-      "excerpt": "El cos ha aparegut prop de l'espigó del port de Premià de Mar",
+      "excerpt": "El cadàver ha aparegut a prop de l'espigó del port de Premià de Mar",
       "url": "https://www.vilaweb.cat/noticies/troben-cos-sense-vida-dona-arrossegada-riera-cabrera-mar/",
       "published": "2026-10-18T12:22:26+02:00",
       "category": "Societat",
@@ -175,6 +271,16 @@
       "published": "2026-10-18T12:19:35+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/f8091a4c-55fe-4daa-b751-ada6f290cf73_16-9-aspect-ratio_default_0_x3265y1554.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’episodi de pluges torrencials però locals: fins a 60 litres al port i gairebé 0 litres al Fabra",
+      "excerpt": "El nou episodi de pluja anunciat ha deixat una altra jornada d’incidències en diversos punts de la regió metropolitana de Barcelona. L’apropament de la dana Adam ha aportat aire fred a les capes altes de l’atmosfera, que, juntament amb un mar encara ben calent, ha propiciat la formació de pluges localment torrencials. Tot i així, […]",
+      "url": "https://beteve.cat/medi-ambient/episodi-pluges-localment-torrencials-17-octubre/",
+      "published": "2026-10-18T12:18:30+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/05/pluja-tempesta-barcelona-agost-2023-2.jpg",
       "priority": "3 · Altres notícies"
     },
     {

@@ -3,6 +3,14 @@
   "pages": [
     {
       "page": 2,
+      "title": "Ucraïna colpeja Sant Petersburg amb un dels atacs amb drons més gran de tota la guerra",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/ucraina-colpeja-sant-petersburg-amb-un-dels-atacs-amb-drons-mes-gran-de-tota-la-guerra/noticia/3434732/",
+      "published": "2026-10-18T12:37:13+02:00",
+      "priority": "1 · Urgent"
+    },
+    {
+      "page": 3,
       "title": "Troben morta la dona desapareguda en una riera de Cabrera de Mar durant el temporal de pluges",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/medi-ambient/troben-morta-dona-desapareguda-riera-cabrera-mar-fortes-pluges_1_5882695.html",
@@ -10,7 +18,7 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 3,
+      "page": 4,
       "title": "Ucraïna llança contra Sant Petersburg un dels atacs amb drons més grans de la guerra",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/ucraina-llanca-contra-sant-petersburg-un-dels-atacs-mes-grans-amb-drons-de-la-guerra/",
@@ -18,7 +26,7 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 4,
+      "page": 5,
       "title": "Ucraïna llança contra Sant Petersburg un dels majors atacs amb drons de la guerra",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/ucraina-llanca-sant-petersburg-dels-majors-atacs-drons-guerra_1_5882652.html",
@@ -26,7 +34,7 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 5,
+      "page": 6,
       "title": "Inundacions al Garraf i el Baix Llobregat i vols cancel·lats al Prat per les tempestes",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/inundacions-al-garraf-i-el-baix-llobregat-i-vols-cancellats-al-prat-per-les-tempestes/noticia/3434719/",
@@ -34,7 +42,7 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 6,
+      "page": 7,
       "title": "L’R2 Sud de Rodalies recupera el servei després de la suspensió pel temporal",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/mobilitat/r2-sud-rodalies-recupera-servei-despres-suspensio-temporal/",
@@ -42,7 +50,7 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 7,
+      "page": 8,
       "title": "El servei de Rodalia i dels Regionals recupera la normalitat després de la suspensió de la R2 sud arran del temporal",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/el-servei-de-rodalia-i-regionals-recupera-la-normalitat-despres-de-la-suspensio-de-la-r2-sud-pel-temporal/",
@@ -50,7 +58,7 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 8,
+      "page": 9,
       "title": "Alerta màxima per pluja torrencial al País Valencià, Eivissa i Formentera",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
@@ -58,7 +66,7 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 9,
+      "page": 10,
       "title": "Gotland, l'illa sueca que es prepara per a la guerra",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/gotland-lilla-sueca-que-es-prepara-per-a-la-guerra/noticia/3434539/",
@@ -66,7 +74,20 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 10,
+      "page": 11,
+      "title": "La previsió de dilluns: pluja més intensa, abundant i generalitzada",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/",
+      "published": "2026-10-18T13:14:05+02:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431109/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/"
+      }
+    },
+    {
+      "page": 12,
       "title": "Rufián i Montero faran el primer acte conjunt de pre-campanya a Barcelona el 24 d’octubre",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/rufian-i-montero-faran-el-primer-acte-conjunt-de-precampanya-a-barcelona-el-24-doctubre/",
@@ -74,7 +95,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 11,
+      "page": 13,
       "title": "El govern preveu reobrir Collserola a finals d’any “amb corredors segurs”",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/medi-ambient/govern-reobrir-collserola-finals-2026-corredors-segurs/",
@@ -82,7 +103,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 12,
+      "page": 14,
       "title": "La previsió de diumenge: ambient de tardor i pluja menys intensa, però a més comarques",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/",
@@ -95,7 +116,7 @@
       }
     },
     {
-      "page": 13,
+      "page": 15,
       "title": "Les protestes a l’estat francès causen 1.800 detinguts i el govern alerta d’un punt de no retorn",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/protestes-franca-detinguts-govern-punt-no-retorn/",
@@ -103,7 +124,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 14,
+      "page": 16,
       "title": "Els salaris pesen més a l'economia, però el treballador no ho nota. Per què?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/macroeconomia/salaris-pesen-mes-l-economia-treballador-no-ho-nota_1_5879129.html",
@@ -111,7 +132,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 15,
+      "page": 17,
       "title": "La intel·ligència artificial canviarà els impostos",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/opinio/intel-ligencia-artificial-canviara-impostos_129_5879216.html",
@@ -119,7 +140,63 @@
       "priority": "2 · Important"
     },
     {
-      "page": 16,
+      "page": 18,
+      "title": "Feijóo encarrega a Albiol que encapçali una llei espanyola contra les ocupacions",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/feijoo-encarrega-a-albiol-que-encapcali-una-llei-espanyola-contra-les-ocupacions/",
+      "published": "2026-10-18T13:35:05+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 19,
+      "title": "Romania abat dos drons russos que havien entrat en el seu espai aeri",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/romania-abat-dos-drons-russos-que-havien-entrat-en-el-seu-espai-aeri/",
+      "published": "2026-10-18T13:09:15+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 20,
+      "title": "Protecció Civil prova dilluns totes les sirenes de risc químic en un simulacre amb ES-Alert a 47 municipis",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/proteccio-civil-prova-dilluns-totes-les-sirenes-de-risc-quimic-en-un-simulacre-amb-es-alert-a-47-municipis/noticia/3434694/",
+      "published": "2026-10-18T13:05:00+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 21,
+      "title": "Els fabricants catalans de roba ciclista aguanten el pols als gegants de la indústria",
+      "source": "ARA",
+      "articleUrl": "https://empreses.ara.cat/empreses/fabricants-catalans-roba-ciclista-aguanten-pols-als-gegants-industria_130_5880941.html",
+      "published": "2026-10-18T13:00:55+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 22,
+      "title": "Una \"nova casa\" de 73 milions d'euros per salvar el patrimoni que no cap als museus",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/cultura/nova-casa-73-milions-d-euros-salvar-patrimoni-no-cap-als-museus_1_5881176.html",
+      "published": "2026-10-18T13:00:55+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 23,
+      "title": "Quin impacte pot tenir la revolta a França: més espectacle que propostes",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/quin-impacte-pot-tenir-la-revolta-a-franca-mes-espectacle-que-propostes/noticia/3434738/",
+      "published": "2026-10-18T12:52:04+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 24,
+      "title": "[VÍDEO] La pluja torrencial inunda l’aeroport d’Eivissa",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/video-la-pluja-torrencial-inunda-laeroport-deivissa/",
+      "published": "2026-10-18T12:50:28+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 25,
       "title": "Una dècada de Ràdioactius, l’espai comunitari, feminista i intergeneracional del Poble-sec",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/cultura/decada-radioactius-espai-comunitari-feminista-intergeneracional-poble-sec/",
@@ -127,7 +204,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 17,
+      "page": 26,
       "title": "Troben el cos sense vida de la dona arrossegada per una riera a Cabrera de Mar",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/troben-cos-sense-vida-dona-arrossegada-riera-cabrera-mar/",
@@ -135,7 +212,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 18,
+      "page": 27,
       "title": "Emoció fins a les llàgrimes amb el que fan Judit Nedderman i el Trio Fortuny",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/musica/emocio-fins-llagrimes-judit-nedderman-trio-fortuny_1_5882662.html",
@@ -143,7 +220,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 19,
+      "page": 28,
+      "title": "L’episodi de pluges torrencials però locals: fins a 60 litres al port i gairebé 0 litres al Fabra",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/medi-ambient/episodi-pluges-localment-torrencials-17-octubre/",
+      "published": "2026-10-18T12:18:30+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 29,
       "title": "Ordeig preveu una reobertura progressiva de Collserola amb corredors segurs a final de novembre",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/ordeig-preveu-una-reobertura-progressiva-de-collserola-amb-corredors-segurs-a-partir-de-final-de-novembre/",
@@ -151,7 +236,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 20,
+      "page": 30,
       "title": "Una quarantena de cancel·lacions a l’aeroport del Prat a causa de les pluges",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/mobilitat/cancelacions-aeroport-prat-episodi-pluges-17-octubre/",
@@ -159,7 +244,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 21,
+      "page": 31,
       "title": "Cerdanyola-Muntanyesa: els de Nou Barris intentaran mantenir el lideratge, en directe a betevé",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/cerdanyola-muntanyesa-fontetes-directe/",
@@ -167,7 +252,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 22,
+      "page": 32,
       "title": "La reforma del Mercat de Felip II, a la Sagrera, millorarà els accessos i la mobilitat interior",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/reforma-mercat-felip-ii-sagrera-millora-accessos-mobilitat-interior/",
@@ -175,7 +260,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 23,
+      "page": 33,
       "title": "Nou episodi de pluja intensa aquest dilluns, amb 11 comarques en risc alt a partir del migdia",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/nou-episodi-de-pluja-intensa-aquest-dilluns-amb-11-comarques-en-risc-alt-a-partir-del-migdia/noticia/3434733/",
@@ -183,7 +268,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 24,
+      "page": 34,
       "title": "Investiguen el segrest d'un home al barri del Singuerlín de Santa Coloma de Gramenet",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/investiguen-el-segrest-dun-home-al-barri-del-singuerlin-de-santa-coloma-de-gramenet/noticia/3434734/",
@@ -191,7 +276,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 25,
+      "page": 35,
       "title": "Seitons, cigrons, nous i magrana, quins aliments són imprescindibles durant la menopausa?",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/estils-de-vida/menopausa-aliments-simptomes/",
@@ -199,7 +284,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 26,
+      "page": 36,
       "title": "Sofía Vergara, acusada pel seu ex d'abandonar-lo emocionalment durant els seus set anys de malaltia",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/gent/sofia-vergara-acusada-pel-ex-d-abandonar-emocionalment-durant-set-anys-malaltia_1_5880058.html",
@@ -207,7 +292,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 27,
+      "page": 37,
       "title": "Una seixantena de persones denuncien estafes en la compra d’entrades per als concerts d’Oques Grasses",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/seixanta-persones-estafa-compra-entrades-oques-grasses/",
@@ -215,7 +300,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 28,
+      "page": 38,
       "title": "Detingut el presumpte autor d’uns trets al barri de les Roquetes a l’agost",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/detingut-presumpte-autor-trets-roquetes-agost-2026/",
@@ -223,7 +308,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 29,
+      "page": 39,
       "title": "El FAB Casa del Mig, a mig gas pels desperfectes de les pluges, que van fer caure part del sostre",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/fab-casa-mig-desperfectes-pluges-caure-sostre/",
@@ -231,7 +316,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 30,
+      "page": 40,
       "title": "Troben un objecte personal de la dona arrossegada per la riera a Cabrera de Mar",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/troben-un-objecte-personal-de-la-dona-arrossegada-per-la-riera-a-cabrera-de-mar/",
@@ -239,7 +324,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 31,
+      "page": 41,
       "title": "[VÍDEO] Ultres del Betis llancen crits catalanòfobs i objectes als afeccionats del Barça",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/videos-ultres-betis-crits-catalanofobs-barca/",
@@ -247,7 +332,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 32,
+      "page": 42,
       "title": "Veïns del Parc de Collserola reclamen que reobri per salut mental: “Alguns tenim ansietat”",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/veins-collserola-denuncien-tancament-parc-afecta-salut-mental/",
@@ -255,7 +340,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 33,
+      "page": 43,
       "title": "Kenya confirma quatre casos nous d’Ebola, amb set infectats i un mort",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/kenya-confirma-quatre-casos-nous-debola-pero-assegura-que-el-risc-de-contagis-es-baix/",
@@ -263,7 +348,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 34,
+      "page": 44,
       "title": "Hem fet entrar als instituts els seminaris d’emocions però n’hem foragitat els llibres",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/opinio/hem-fet-entrar-als-instituts-seminaris-d-emocions-n-hem-foragitat-llibres_129_5879771.html",
@@ -271,7 +356,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 35,
+      "page": 45,
       "title": "Créixer sense família en un país que no és el teu: \"Patiràs més que al Marroc\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/emergencia-social/creixer-familia-pais-no-patiras-mes-marroc_130_5879191.html",
@@ -279,7 +364,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 36,
+      "page": 46,
       "title": "\"Estava en el punt de pensar com morir-me i que semblés un accident\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/justicia/punt-pensar-morir-sembles-accident_1_5874580.html",
@@ -287,7 +372,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 37,
+      "page": 47,
       "title": "Com ha canviat l'ajuda que rep Ucraïna des que Trump és al poder?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/europa/canviat-l-ajuda-rep-ucraina-des-trump_1_5879775.html",
@@ -295,7 +380,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 38,
+      "page": 48,
       "title": "L’última frivolitat de LeBron James divideix la NBA",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/basquet/ultima-frivolitat-lebron-james-divideix-nba_130_5881792.html",
@@ -303,7 +388,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 39,
+      "page": 49,
       "title": "\"La gent es va tornar boja\": 25 anys del programa que va capgirar la televisió",
       "source": "ARA",
       "articleUrl": "https://diumenge.ara.cat/diumenge/gent-tornar-boja-25-anys-programa-capgirar-televisio_130_5864238.html",
@@ -311,7 +396,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 40,
+      "page": 50,
       "title": "Les portades del diumenge 18 d’octubre de 2026",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-diumenge-18-de-octubre-de-2026/",
@@ -319,7 +404,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 41,
+      "page": 51,
       "title": "Perejaume fa el cartell del 150è aniversari del Centre Excursionista de Catalunya",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/perejaume-cartell-150e-aniversari-centre-excursionista-catalunya_1_5882216.html",
@@ -327,7 +412,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 42,
+      "page": 52,
       "title": "Segregació escolar, una esquerda invisible: \"No vaig conèixer cap Jordi fins als 13 anys\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/segregacio-escolar-una-esquerda-invisible-no-vaig-coneixer-cap-jordi-fins-als-13-anys/noticia/3412010/",
@@ -335,7 +420,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 43,
+      "page": 53,
       "title": "De l'escola que ningú volia a convertir-se en un referent mundial: les claus per transformar els centres més segregats",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/de-lescola-que-ningu-volia-a-convertir-se-en-un-referent-mundial-les-claus-per-transformar-els-centres-mes-segregats/noticia/3434187/",
@@ -343,7 +428,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 44,
+      "page": 54,
       "title": "\"Hi ha molts madrilenys que també volen girar full del Procés\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/hi-madrilenys-tambe-volen-girar-full-proces_128_5880942.html",
@@ -351,7 +436,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 45,
+      "page": 55,
       "title": "L’aeroport i el port, els més afectats pel darrer episodi de tempestes, amb una setantena de litres",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/nou-episodi-pluja-afectacions-barcelona-17-octubre-directe/",
