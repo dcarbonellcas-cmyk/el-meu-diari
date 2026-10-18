@@ -2,6 +2,62 @@
   "date": "2026-10-18",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Gotland, l'illa sueca que es prepara per a la guerra",
+      "excerpt": "Situada al mig del mar Bàltic, a menys de 300 quilòmetres al nord de l'enclavament rus de Kaliningrad, és un punt estratègic en plena escalada de tensió entre l'OTAN i Rússia",
+      "url": "https://www.3cat.cat/3catinfo/gotland-lilla-sueca-que-es-prepara-per-a-la-guerra/noticia/3434539/",
+      "published": "2026-10-18T06:46:00+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/7/1792159219977.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: ambient de tardor i pluja menys intensa, però a més comarques",
+      "excerpt": "Baixa la probabilitat d'aiguats torrencials després de la matinada",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/",
+      "published": "2026-10-17T10:58:56+02:00",
+      "updated": "2026-10-18T07:08:59+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/4/1792218539440.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431098/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-pluja-menys-intensa-pero-a-mes-comarques/noticia/3434621/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Perejaume fa el cartell del 150è aniversari del Centre Excursionista de Catalunya",
+      "excerpt": "El Centre Excursionista de Catalunya (CEC) compleix 150 anys i a partir d'aquest mes de novembre organitzarà tota una sèrie d'activitats per commemorar el seu naixement i, sobretot, per celebrar que continua sent una entitat viva i ben connectada amb l'activitat cultural del país. La presentació d'aquest programa d'actes s'anunciarà la setmana que ve, però de moment ja se sap que el cartell és una obra de l'artista Perejaume, una de les grans figures de l'art català contemporani. L'obra convida a fer una mirada àmplia…",
+      "url": "https://www.ara.cat/cultura/perejaume-cartell-150e-aniversari-centre-excursionista-catalunya_1_5882216.html",
+      "published": "2026-10-18T07:00:24+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1a39dd27-f00a-41b1-b10a-4423747972e3_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Segregació escolar, una esquerda invisible: \"No vaig conèixer cap Jordi fins als 13 anys\"",
+      "excerpt": "El reportatge \"Les escoles dels 'altres'\", del \"30 minuts\", analitza l'impacte de la segregació escolar a Catalunya, amb la mirada posada en el que passa amb l'educació a França",
+      "url": "https://www.3cat.cat/3catinfo/segregacio-escolar-una-esquerda-invisible-no-vaig-coneixer-cap-jordi-fins-als-13-anys/noticia/3412010/",
+      "published": "2026-10-18T06:44:57+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/2/1779957809528.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "De l'escola que ningú volia a convertir-se en un referent mundial: les claus per transformar els centres més segregats",
+      "excerpt": "Dos referents educatius expliquen com la confiança en els alumnes, la cultura de la pau i la implicació de les famílies capgira un centre educatiu",
+      "url": "https://www.3cat.cat/3catinfo/de-lescola-que-ningu-volia-a-convertir-se-en-un-referent-mundial-les-claus-per-transformar-els-centres-mes-segregats/noticia/3434187/",
+      "published": "2026-10-18T06:44:27+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/1/1792054558013.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "\"Hi ha molts madrilenys que també volen girar full del Procés\"",
       "excerpt": "Laura Díez (Barcelona, 1969) és catedràtica de dret constitucional per la Universitat de Barcelona i membre del Tribunal Constitucional des del 2023. Atén l'ARA després d'una decisió clau sobre el recurs d'empara de l'exconsellera Dolors Bassa que ha de desencadenar en l'aplicació total de l'amnistia per part del Tribunal Suprem.",
