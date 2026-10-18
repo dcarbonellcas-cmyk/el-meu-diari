@@ -22,16 +22,6 @@
       "priority": "1 · Urgent"
     },
     {
-      "source": "ARA",
-      "title": "Troben morta la dona desapareguda en una riera de Cabrera de Mar durant el temporal de pluges",
-      "excerpt": "Els equips d'emergències han localitzat aquest diumenge al matí el cos sense vida de la dona d'uns 35 anys que dissabte al vespre hauria caigut en una riera de Cabrera de Mar durant el temporal de pluges causat per la dana Adam , que ha afectat principalment la costa central del país. El cos s'ha trobat a prop de l'espigó del port de Premià de Mar, després d'un dispositiu de recerca que ha mobilitzat els Bombers de la Generalitat, els Mossos d'Esquadra i Salvament Marítim…",
-      "url": "https://www.ara.cat/societat/medi-ambient/troben-morta-dona-desapareguda-riera-cabrera-mar-fortes-pluges_1_5882695.html",
-      "published": "2026-10-18T12:25:35+02:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/ef10e232-912a-48bc-af1d-ad3c483bcd9f_16-9-aspect-ratio_default_0.jpg",
-      "priority": "1 · Urgent"
-    },
-    {
       "source": "VilaWeb",
       "title": "Ucraïna llança contra Sant Petersburg un dels atacs amb drons més grans de la guerra",
       "excerpt": "L’ofensiva ha causat un mort i cinc ferits · També han estat atacades unes quantes terminals petrolieres, una subestació elèctrica i més infrastructures",
@@ -102,6 +92,26 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "betevé",
+      "title": "Així funcionen les aules d’acollida a escoles i instituts, un recurs per a l’alumnat nouvingut",
+      "excerpt": "Les escoles i instituts ja fa anys que són testimonis de les onades migratòries viscudes els últims anys. Cada vegada més alumnes d’arreu del món arriben als centres i necessiten una atenció més personalitzada: per aprendre la llengua, però també per integrar-se en un entorn completament nou. A Barcelona hi ha 246 aules d’acollida. Una […]",
+      "url": "https://beteve.cat/societat/aixi-funcionen-aules-acollida-escoles-instituts-alumnat-nouvingut/",
+      "published": "2026-10-18T19:10:25+02:00",
+      "category": "educació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/aules-acollida-161026-2026-10-16.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Troben 30 quilos de coure en un gestor de residus i Adif sospita que podrien ser robats",
+      "excerpt": "Els Mossos d’Esquadra han localitzat més de 30 quilos de coure i també un transformador en un gestor de residus del districte de Sant Martí. Es tracta d’una troballa que els treballadors especialistes d’Adif sospiten que podria provenir d’un robatori a la xarxa ferroviària. Per això, la policia catalana ha obert les diligències pertinents. Irregularitats […]",
+      "url": "https://beteve.cat/societat/troben-30-kg-coure-gestor-residus-podrien-robats/",
+      "published": "2026-10-18T18:26:42+02:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/coure-robat-181026-2026-10-18.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "Gent gran afectada per la vaga a les biblioteques",
       "excerpt": "M’escriu la Josefina, presidenta de l’Aula d’Extensió Universitària de Sant Andreu, que es reuneix a la Biblioteca Municipal Ignasi Iglesias. Resulta que els treballadors de les biblioteques de Barcelona fan vaga des del maig, i això vol dir que aquest grup de gent gran s’han quedat sense refugi climàtic a l’estiu i sense auditori per a les classes que han començat a la tardor. Han hagut de recórrer a un altre espai menys cèntric i que té un cost que no podran assumir tot el…",
@@ -123,8 +133,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El govern tria una nau a Sant Fruitós de Bages per ubicar-hi la Reserva Nacional de museus",
-      "excerpt": "La Generalitat destinarà 73 milions d'euros a adquirir l'espai i adequar-lo · Calcula que hi aniran unes 140.000 peces",
+      "title": "El govern tria una nau a Sant Fruitós de Bages per a situar-hi la reserva nacional de museus",
+      "excerpt": "La Generalitat invertirà 73 milions d'euros en la compra i l’adequació de la nau · L’espai podrà custodiar unes 140.000 peces",
       "url": "https://www.vilaweb.cat/noticies/el-govern-tria-una-nau-a-sant-fruitos-de-bages-per-ubicar-hi-la-reserva-nacional-de-museus/",
       "published": "2026-10-18T18:07:27+02:00",
       "category": "Cultura",
@@ -153,8 +163,8 @@
     },
     {
       "source": "betevé",
-      "title": "Incidències a Rodalies Catalunya avui: una avaria de senyalització provoca retards a diverses línies",
-      "excerpt": "Una avaria en el sistema de senyalització que regula el trànsit ferroviari ha provocat alteracions en el servei de les línies R1, R2, R4 i R11 de Rodalies. Inicialment, la incidència afectava dos trams: el comprès entre Sants i Plaça de Catalunya i el que connecta Sants amb Passeig de Gràcia. Al voltant de les […]",
+      "title": "Incidències a Rodalies Catalunya avui: una avaria ja resolta provoca retards a diverses línies",
+      "excerpt": "Una avaria en el sistema de senyalització que regula el trànsit ferroviari ha provocat alteracions en el servei de les línies R1, R2, R4 i R11 de Rodalies. La incidència, que ja s’ha solucionat, ha afectat dos trams: el comprès entre Sants i Plaça de Catalunya i el que connecta Sants amb Passeig de Gràcia. […]",
       "url": "https://beteve.cat/mobilitat/incidencies-rodalies-catalunya-trens/",
       "published": "2026-10-18T17:21:10+02:00",
       "category": "mobilitat",
@@ -244,9 +254,119 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Mercè Rodoreda va estar a punt de morir per un tramvia abans d’escriure ‘La plaça del Diamant’",
+      "excerpt": "La tardor del 1959, al centre de Ginebra, un tramvia va estar a punt d’endur-se la vida d’una de les escriptores catalanes més traduïdes: Mercè Rodoreda. L’accident hauria pogut privar la literatura catalana d’algunes de les seves obres més importants, com La plaça del Diamant, que l’autora va començar a escriure durant els mesos posteriors […]",
+      "url": "https://beteve.cat/cultura/rodoreda-eva-comas-arnal-llibre-diamant/",
+      "published": "2026-10-18T19:31:03+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Eva-comas-arnal-rodoreda-14102026-2026-10-14.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La setmana començarà amb més pluja general i abundant",
+      "excerpt": "El cap de setmana ha estat dominat per un temps que s'ha desestabilitzat progressivament, passant de la suavitat i la bonança de dissabte al matí als aiguats i l'ambient fresc d'aquest diumenge. La dana Adam i l’entrada de vents marítims humits han provocat precipitacions que, en alguns casos, han superat els 200 mm a la façana mediterrània peninsular (trobareu més dades al final d'aquesta informació). El temps es mantindrà mogut dilluns, amb pluges extenses i un altre cop abundants en alguns punts, com per exemple…",
+      "url": "https://www.ara.cat/previsions/setmana-comencara-mes-pluja-general-abundant_1_5882804.html",
+      "published": "2026-10-18T19:20:27+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/181430e2-3d70-4e45-96dc-556d823aebac_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Les Corts licita el projecte de construcció de 76 habitatges públics al carrer d’Entença",
+      "excerpt": "L’Ajuntament de Barcelona ha fet un pas endavant en la transformació de la Colònia Castells, i tira endavant la construcció de nous habitatges públics al carrer d’Entença. A través de l’Institut Municipal de l’Habitatge i Rehabilitació de Barcelona (IMHAB) ha licitat la redacció del projecte i direcció de les obres de construcció d’habitatges de protecció […]",
+      "url": "https://beteve.cat/economia/les-corts-licita-projecte-construccio-76-habitatges-publics-carrer-entenca/",
+      "published": "2026-10-18T19:16:46+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/habitatge-carrer-entenca-2026-10-14.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Illa respon a Feijóo: “Qui diu que Catalunya està apagada és que està fora de cobertura”",
+      "excerpt": "El president recorda al dirigent del PP que Catalunya \"no necessita ser rescatada\" sinó respectada",
+      "url": "https://www.vilaweb.cat/noticies/illa-respon-a-feijoo-qui-diu-que-catalunya-esta-apagada-es-que-esta-fora-de-cobertura/",
+      "published": "2026-10-18T19:06:38+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-19-10-2026_134_5880970.html",
+      "published": "2026-10-18T19:05:10+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-19-10-2026_134_5881572.html",
+      "published": "2026-10-18T19:05:09+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Feijóo té dos rivals polítics, un és Sánchez i l'altre és Ayuso\"",
+      "excerpt": "De ser anomenada despectivament la Monguer per alguns dels seus companys de files a rebre el sobrenom de l'Emperadriu. L'ascens d'Isabel Díaz Ayuso dins del PP de Madrid ha estat tan sorprenent com meteòric. Com ha aconseguit passar del menyspreu a l'hegemonia? El periodista David Fernández (Madrid, 1975) analitza aquesta trajectòria al llibre Ayuso. Zancadillas, intrigas y venganzas en la Corte de Madrid (Libros del K.O., 2026), una biografia no autoritzada per a la qual ha parlat amb 180 persones que han conegut la presidenta…",
+      "url": "https://www.ara.cat/politica/feijoo-rivals-politics-sanchez-l-ayuso_128_5859635.html",
+      "published": "2026-10-18T19:00:04+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3c306926-68fd-4393-b4ed-63fb1e142a5e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Jonathan, la tortuga de 194 anys que ens pot ajudar a viure més",
+      "excerpt": "Quan el Jonathan va néixer, Charles Darwin només tenia 23 anys. Aquesta tortuga gegant de l'espècie Aldabra és l'animal viu (terrestre) més longeu del món que es coneix. Té 194 anys i encara avui es passeja, a pas molt lent, pels jardins de la Plantation House, que és la residència del governador de Santa Helena, una de les illes Seychelles. Ha perdut la vista i l'olfacte, i li han de donar el menjar (bàsicament enciam i pastanagues), però encara està activa i pesa uns 180…",
+      "url": "https://diumenge.ara.cat/diumenge/jonathan-tortuga-194-anys-pot-ajudar-viure-mes_130_5877487.html",
+      "published": "2026-10-18T19:00:03+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/03f40238-9931-48b3-a6f4-078198e13868_16-9-aspect-ratio_default_1061093.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Europa debat el seu futur en la cursa dels gegants de la IA",
+      "excerpt": "En una tardor marcada pel discurs al voltant de la intel·ligència artificial, Europa semblava lluny de qualsevol plaça de poder. A només unes setmanes de la previsible megasortida a la borsa d'Anthropic , i encara amb el ressò de la polèmica sobre la seguretat de la tecnologia que va sacsejar els Estats Units al setembre, als Vint-i-set s'ha mogut una fitxa rellevant per primer cop en els últims anys. A principis d'octubre, Mistral, el referent francès de la IA –l'únic jugador europeu esmentat en la…",
+      "url": "https://www.ara.cat/economia/tecnologia/europa-debat-futur-cursa-dels-gegants-ia_1_5881113.html",
+      "published": "2026-10-18T19:00:03+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0e30c928-ac94-43d0-bad0-8a767f507daa_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Ens diuen que tot està sota control, però no és veritat\": neguit a l'Aràbia Saudita pels atacs dels houthis",
+      "excerpt": "A Riad, els cotxes omplen les carreteres, els restaurants reben clients i els partits de futbol es disputen. Però, sota aquesta aparença de normalitat, s’ha instal·lat una inquietud difícil d’esborrar: no saber quan sonarà la pròxima alerta ni on pot caure el següent projectil . L’onada d’atacs dels houthis del Iemen ha colpejat infraestructures estratègiques i ha posat al descobert els límits d’un país que ha invertit enormes recursos en defensa.",
+      "url": "https://www.ara.cat/internacional/proxim-orient/diuen-control-no-veritat-neguit-l-arabia-saudita-pels-atacs-dels-houthis_1_5881585.html",
+      "published": "2026-10-18T19:00:03+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/aaab38a9-beb6-4507-884b-2d2faa1a63ea_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "França busca respostes després d'una jornada de mobilitzacions massives marcada per la violència",
+      "excerpt": "Diferents alcaldes han criticat que el dispositiu policial estava mal dissenyat, mentre que el govern i diverses forces polítiques han responsabilitzat els partits d'esquerra de la violència",
+      "url": "https://www.3cat.cat/3catinfo/franca-busca-respostes-despres-duna-jornada-de-mobilitzacions-massives-marcada-per-la-violencia/noticia/3434747/",
+      "published": "2026-10-18T18:43:11+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/9/1792324436298.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Protecció Civil farà sonar demà 119 sirenes de risc químic en 47 municipis de Catalunya",
-      "excerpt": "La prova començarà a les 10.00, durarà uns vint minuts i afectarà una població estimada de 930.000 persones",
+      "excerpt": "La prova començarà a les 10.00, durarà uns vint minuts i arribarà a unes 930.000 habitants",
       "url": "https://www.vilaweb.cat/noticies/prova-sirenes-risc-quimic-catalunya-19-octubre/",
       "published": "2026-10-18T18:29:13+02:00",
       "category": "Societat",
@@ -264,9 +384,19 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Un penal dubtós condemna el Sant Andreu: empat davant el cuer de la Lliga, el Juventud Torremolinos",
+      "excerpt": "El Sant Andreu ha empatat 2 a 2 davant el Juventud Torremolinos a Can Dragó. El conjunt de Natxo González, que ha dominat tot el partit, ha vist com el conjunt visitant li ha empatat el partit amb un penal dubtós. Jaume Tovar i Álex Bermejo han estat els golejadors quadribarrats i Dioni i Cristian […]",
+      "url": "https://beteve.cat/esports/penal-dubtos-sant-andreu-empat-cuer-lliga-juventud-torremolinos/",
+      "published": "2026-10-18T18:27:09+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/uesa-juventud-torremolinos-2026-10-18.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Hansi Flick es queda sense frens abans del PSG i el Madrid",
-      "excerpt": "El Barça ha comunicat les baixes d'Eric Garcia i Jules Kounde poques hores abans d'agafar un avió per viatjar a París, on l'equip blaugrana s'enfrontarà al París Saint-Germain. Són dues absències molt importants per a Hansi Flick, ja que es tracta dels dos futbolistes amb els quals compta per ocupar el lateral dret i cobrir l'esquena de Lamine Yamal. Tots dos van retornar de l'enfrontament d'aquest dissabte a contra el Betis (2-5) amb molèsties que han derivat en lesions de diversa consideració.",
+      "excerpt": "El Barça ha comunicat les baixes d'Eric Garcia i Jules Kounde poques hores abans d'agafar un avió per viatjar a París, on l'equip blaugrana s'enfrontarà al París Saint-Germain. Són dues absències molt importants per a Hansi Flick, ja que es tracta dels dos futbolistes amb qui compta per ocupar el lateral dret i cobrir l'esquena de Lamine Yamal. Tots dos van t ornar de l'enfrontament d'aquest dissabte contra el Betis (2-5) amb molèsties, que han derivat en lesions de diversa índole. Juntament amb la resta…",
       "url": "https://www.ara.cat/esports/barca/hansi-flick-queda-frens-psg-madrid_1_5882858.html",
       "published": "2026-10-18T18:12:58+02:00",
       "category": "Actualitat",
@@ -325,8 +455,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La UAB no autoritza l’activitat de l’ultra Vito Quiles i diu que els Mossos li impediran l’entrada",
-      "excerpt": "L'activista ha comunicat la seva intenció de participar en un acte demà a la tarda",
+      "title": "La UAB no autoritza l’activitat de l’ultra Vito Quiles i diu que els Mossos no l’hi deixaran entrar",
+      "excerpt": "L'activista ha comunicat que té previst de participar en un acte demà a la tarda",
       "url": "https://www.vilaweb.cat/noticies/la-uab-no-autoritza-lactivitat-de-lultra-vito-quiles-i-diu-que-els-mossos-li-impediran-lentrada/",
       "published": "2026-10-18T17:58:00+02:00",
       "category": "Societat",
@@ -341,6 +471,16 @@
       "published": "2026-10-18T17:57:26+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/d6d387e6-23bd-4c87-8206-bfaef8c494a0_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’afició de l’Espanyol tanca files amb Manolo: “Li fem confiança fins a Nadal”",
+      "excerpt": "L’Espanyol passa per una mala ratxa de resultats. Encadena tres derrotes i un empat en les darreres quatre jornades. L’equip blanc-i-blau té un petit marge d’un punt amb el descens, però l’aficionat de l’Espanyol encara manté la confiança en el seu entrenador malgrat estar empipat. “Li fem confiança fins a Nadal”, ha dit un aficionat […]",
+      "url": "https://beteve.cat/esports/aficio-espanyol-tanca-files-manolo/",
+      "published": "2026-10-18T17:54:58+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Fotos-Beteve-2026-10-18T173409.733-2026-10-18.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -375,8 +515,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El vídeo viral d’un àrbitre comprovant l’estat d’un camp inundat: “Es juga o no?”",
-      "excerpt": "El partit entre la Penya Deportiva i l'UCAM Múrcia s'ha acabat ajornant arran de l'Es-Alert",
+      "title": "El vídeo viral d’un àrbitre que comprova l’estat d’un camp negat d’aigua: “Es juga o no?”",
+      "excerpt": "El partit entre la Penya Deportiva i l'UCAM Múrcia s'ha ajornat arran de l'Es-Alert",
       "url": "https://www.vilaweb.cat/noticies/video-viral-arbitres-comprovant-estat-camp-inundat/",
       "published": "2026-10-18T17:29:04+02:00",
       "category": "Societat",
@@ -436,7 +576,7 @@
     {
       "source": "VilaWeb",
       "title": "Nogueras critica el servilisme a Madrid i reivindica Junts com l’única formació “d’obediència estrictament catalana”",
-      "excerpt": "Defensa la capacitat de la formació per \"condicionar les decisions de Madrid\" i frenar els dos blocs espanyols",
+      "excerpt": "Defensa la capacitat del partit per a \"condicionar les decisions de Madrid\" i frenar els dos blocs espanyols",
       "url": "https://www.vilaweb.cat/noticies/nogueras-critica-el-servilisme-a-madrid-i-reivindica-junts-com-lunica-formacio-dobediencia-estrictament-catalana/",
       "published": "2026-10-18T16:28:03+02:00",
       "category": "Principat",
@@ -444,9 +584,19 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "El Barcelona Dibuixa creix a Gràcia, Sant Andreu i Sants-Montjuïc amb més activitats creatives",
+      "excerpt": "La Biblioteca Ignasi Iglésias, a Sant Andreu, la Biblioteca Jaume Fuster, a Gràcia, i el Centre Cívic el Sortidor, a Sants-Monjuïc, han estat d’estrena. Tot i que estan en funcionament des de fa anys, aquest cap de setmana han obert les portes per primer cop al Barcelona Dibuixa. Aquesta 17a edició també ha tingut com […]",
+      "url": "https://beteve.cat/cultura/barcelona-dibuixa-creix-mes-activitats-creatives/",
+      "published": "2026-10-18T16:27:18+02:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/barcelona-dibuixa-mural-vidriera-coac-2-2026-10-18-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Aldarulls a Milà, Torí i Bolonya en les protestes per l’encariment de la vida",
-      "excerpt": "Milà registra els incidents més greus, amb almenys vint manifestants i quatre policies ferits · Meloni condemna la violència i demana a l'oposició que també la rebutgi",
+      "excerpt": "Milà registra els incidents més greus, amb vint manifestants i quatre policies ferits, pel cap baix · Meloni condemna la violència i demana a l'oposició que també la rebutgi",
       "url": "https://www.vilaweb.cat/noticies/aldarulls-a-mila-tori-i-bolonya-en-les-protestes-per-lencariment-de-la-vida/",
       "published": "2026-10-18T16:14:02+02:00",
       "category": "Europa",
@@ -466,7 +616,7 @@
     {
       "source": "VilaWeb",
       "title": "Lleó XIV reapareix al Vaticà després de l’operació per un càncer de pulmó",
-      "excerpt": "El papa anuncia que reprendrà gradualment l'activitat després d'haver rebut l'alta hospitalària ahir",
+      "excerpt": "El papa anuncia que reprendrà gradualment l'activitat després de rebre l'alta hospitalària ahir",
       "url": "https://www.vilaweb.cat/noticies/lleo-xiv-reapareix-vatica-operacio-cancer-pulmo/",
       "published": "2026-10-18T15:57:08+02:00",
       "category": "Europa",
@@ -505,7 +655,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "RENFE critica la decisió “unilateral i arbitrària” del sindicat Semaf de suspendre la circulació de les línies C1 i C2",
+      "title": "RENFE critica la decisió “unilateral i arbitrària” del sindicat SEMAF de suspendre la circulació de les línies C1 i C2",
       "excerpt": "La companyia assegura que les dades tècniques i les previsions meteorològiques permeten de circular amb seguretat",
       "url": "https://www.vilaweb.cat/noticies/renfe-critica-la-decisio-unilateral-i-arbitraria-del-sindicat-semaf-de-suspendre-la-circulacio-de-les-linies-c1-i-c2/",
       "published": "2026-10-18T14:47:59+02:00",
@@ -535,7 +685,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El batlle de París qüestiona els recursos de la policia arran dels aldarulls i saquejos",
+      "title": "El batlle de París qüestiona els recursos de la policia arran dels aldarulls i els pillatges",
       "excerpt": "Els batlles de Bordeu, Marsella i Lió també condemnen els episodis de violència · A Lió hi ha hagut un centenar d'agents ferits i 160 detinguts",
       "url": "https://www.vilaweb.cat/noticies/batlle-paris-questiona-recursos-policia-aldarulls-saquejos/",
       "published": "2026-10-18T14:32:17+02:00",
@@ -606,7 +756,7 @@
     {
       "source": "VilaWeb",
       "title": "Trias insta Junts a negociar amb el PSOE i el PP després del 29-N si els acords beneficien Catalunya",
-      "excerpt": "L’ex-batlle de Barcelona defensa que Junts ha de mantenir-se ferm en els seus principis i exigeix als partits espanyols que facin passos per a recuperar la confiança",
+      "excerpt": "L’ex-batlle de Barcelona defensa que Junts s’ha de mantenir ferm en els seus principis i exigeix als partits espanyols que facin passos per a recuperar-ne la confiança",
       "url": "https://www.vilaweb.cat/noticies/trias-insta-junts-a-negociar-amb-el-psoe-i-el-pp-despres-del-29-n-si-els-acords-beneficien-catalunya/",
       "published": "2026-10-18T13:50:25+02:00",
       "category": "Principat",
@@ -714,8 +864,18 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "ARA",
+      "title": "Torna el risc per pluges intenses a onze comarques aquest dilluns",
+      "excerpt": "Tot i que aquest diumenge el temporal ha donat una certa treva a Catalunya, el president de la Generalitat, Salvador Illa, ha advertit que el risc encara \"no s'ha acabat\" i ha demanat màxima prudència davant la previsió d'un nou episodi de gota freda aquest dilluns, si bé el territori afectat encara s'ha de \"calibrar\". De moment el Meteocat ha emès un avís de situació meteorològica de perill a onze comarques del litoral i el prelitoral de Catalunya en una franja horària que va des…",
+      "url": "https://www.ara.cat/societat/medi-ambient/troben-morta-dona-desapareguda-riera-cabrera-mar-fortes-pluges_1_5882695.html",
+      "published": "2026-10-18T12:25:35+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ef10e232-912a-48bc-af1d-ad3c483bcd9f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
-      "title": "Troben el cos sense vida de la dona arrossegada per una riera a Cabrera de Mar",
+      "title": "Troben sense vida la dona arrossegada per una riera a Cabrera de Mar",
       "excerpt": "El cadàver ha aparegut a prop de l'espigó del port de Premià de Mar",
       "url": "https://www.vilaweb.cat/noticies/troben-cos-sense-vida-dona-arrossegada-riera-cabrera-mar/",
       "published": "2026-10-18T12:22:26+02:00",
@@ -785,12 +945,12 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Amplien els avisos per un nou episodi de pluja intensa fins dimarts: 14 comarques en risc alt",
-      "excerpt": "Poden caure precipitacions localment intenses a 14 comarques a partir del migdia i a 8 més durant la matinada de dimarts",
+      "title": "Amplien els avisos per un nou episodi de pluja intensa fins dimarts: 19 comarques en risc alt",
+      "excerpt": "Hi ha una vintena de comarques en avís taronja per intensitat de pluja i per acumulació des del migdia de dilluns i fins a la matinada de dimarts",
       "url": "https://www.3cat.cat/3catinfo/nou-episodi-de-pluja-intensa-aquest-dilluns-amb-11-comarques-en-risc-alt-a-partir-del-migdia/noticia/3434733/",
       "published": "2026-10-18T11:39:01+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/7/1788877885577.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1792253732626.jpg",
       "priority": "3 · Altres notícies"
     },
     {
