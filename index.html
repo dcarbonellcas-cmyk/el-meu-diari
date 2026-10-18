@@ -496,7 +496,7 @@ let currentMapMode='radar';
 function showWeatherMap(mode) {
   currentMapMode=mode;
   const radar=mode==='radar';
-  const query=new URLSearchParams({type:'map',location:'coordinates',lat:'41.6',lon:'1.7',zoom:'7',overlay:radar?'radar':'rain',product:radar?'radar':'ecmwf',level:'surface',metricRain:'mm',metricTemp:'°C',metricWind:'km/h'});
+  const query=new URLSearchParams({type:'map',location:'coordinates',lat:'41.6',lon:'1.7',zoom:'7',overlay:radar?'radar':'rain',product:radar?'radar':'ecmwf',level:'surface',calendar:'now',metricRain:'mm',metricTemp:'°C',metricWind:'km/h'});
   const frame=document.createElement('iframe');
   frame.src='https://embed.windy.com/embed.html?'+query;
   frame.className='weather-map-frame';frame.title=radar?'Radar de pluja observada · Windy':'Predicció de pluja de les pròximes hores · Windy';
