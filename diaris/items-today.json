@@ -2,6 +2,26 @@
   "date": "2026-10-18",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "ADIF suspèn la circulació de les línies C1 i C2 arran de l’alerta vermella pel mal oratge",
+      "excerpt": "La suspensió del servei es mantindrà fins a nou avís",
+      "url": "https://www.vilaweb.cat/noticies/adif-suspen-la-circulacio-a-les-linies-c1-i-c2-arran-de-lalerta-vermella-per-mal-oratge/",
+      "published": "2026-10-18T19:48:10+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "betevé",
+      "title": "Dilluns marcat per dues tongades de pluges intenses, temporal marítim i ambient de tardor",
+      "excerpt": "La previsió meteorològica per a aquest dilluns, 19 d’octubre, ve marcada, un dia més, per la inestabilitat, amb pluges intenses, temporal marítim i unes temperatures força frenades. El dia vindrà marcat per dues tongades de pluges que podrien tornar a ser de caràcter torrencial. Previsió horària per a Barcelona: Les pluges seran intenses a la […]",
+      "url": "https://beteve.cat/medi-ambient/dilluns-19-octubre-llevantada/",
+      "published": "2026-10-18T19:08:26+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/dill_unsss-2026-10-18.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "betevé",
       "title": "Arriba la dana Adam: s’albiren 48 hores de temporal de mar i pluja intens",
       "excerpt": "La dita diu que “Quan octubre trona, vent dona” i sembla que les properes hores tindrem ambdós fenòmens combinats. Després dels aiguats puntualment torrencials de les darreres hores i d’un diumenge marcat pels núvols i la pluja minsa a la ciutat, sembla que s’acosten més canvis importants. Ja fa dies que parlem d’una dana anomenada […]",
@@ -254,6 +274,56 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "El moment crític de França",
+      "excerpt": "França es va despertar diumenge en estat de xoc després dels aldarulls que van provocar un grau de destrucció que feia molts anys que no es veia a les principals ciutats del país, començant per la capital, París. L'Ajuntament parisenc ha admès que les forces de l'ordre es van veure desbordades en una jornada en què es van comptabilitzar entre 550.000 i 800.000 manifestants i hi va haver uns 2.000 detinguts. L'esclat de ràbia es va començar a gestar en les protestes estudiantils de fa…",
+      "url": "https://www.ara.cat/editorial/moment-critic-franca_129_5882911.html",
+      "published": "2026-10-18T20:32:40+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/43d94743-3ddc-47a7-9b58-fbbff632b966_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Macron promet mà dura contra els aldarulls i anuncia mesures per a respondre a les reivindicacions dels estudiants",
+      "excerpt": "El president francès atribueix els episodis de violència a grups de l’extrema esquerra i encarrega al primer ministre, Sébastien Lecornu, que obri un procés de diàleg amb els sectors mobilitzats",
+      "url": "https://www.vilaweb.cat/noticies/macron-promet-ma-dura-aldarulls-mesures-estudiants/",
+      "published": "2026-10-18T20:25:41+02:00",
+      "category": "França",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els regals de l’Andorra donen vida al Girona",
+      "excerpt": "El Girona necessitava vida i l’Andorra li va donar. Els gironins no van poder tenir-ho més fàcil i es van aprofitar de dues accions desafortunades del porter Owono per encarrilar el triomf abans del descans (2-0). Amb aquest resultat, es col·loquen a cinc punts de la zona d’ascens directe.",
+      "url": "https://www.ara.cat/esports/girona-fc/regals-l-andorra-donen-vida-girona_1_5883052.html",
+      "published": "2026-10-18T20:23:52+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bcf4e9f1-a9d7-4032-ab40-d77a0e96ffdb_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El petó de Sánchez que tot ho pot",
+      "excerpt": "Només faltava Ángela Carrasco sonant a tot drap pels altaveus amb aquells esgarips que deien que “ si tu eres mi hooombreee y yo tu mujeeeer, donde quieras que estés amooor, contigo estarééé ”. El petó de Pedro Sánchez a Begoña Gómez és una de les imatges de campanya i la majoria dels diaris l’incloïen en la seva primera portada. L’estampa, per prefabricada, tenia un punt d’incòmode i, en els plans oberts en què es veia la multitud aplaudint aquella mostra d’afecte íntim, també unes…",
+      "url": "https://www.ara.cat/media/peto-sanchez-ho-pot_129_5882996.html",
+      "published": "2026-10-18T20:00:15+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bcf683a3-6492-4eec-ab74-cf0041cb705c_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Por, ignorància i ressentiment: el còctel Molotov que vol incendiar la nostra societat",
+      "excerpt": "\"Estem en una època de desconfiança manifesta: sembla que no sabem cap on van les coses, o potser no ho volem saber, i tot això genera malestar i inquietud\", deia el filòsof Josep Ramoneda a Esther Vera, directora de l'ARA, i Xavier Mas de Xaxàs, periodista de La Vanguardia , els dos ponents de la conversa de cloenda de les Trobades de Cap Roig de la Fundació La Caixa, celebrades durant aquest cap de setmana.",
+      "url": "https://llegim.ara.cat/actualitat/por-ignorancia-ressentiment-coctel-molotov-vol-incendiar-nostra-societat_1_5882855.html",
+      "published": "2026-10-18T19:48:05+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2cd17e5c-ea50-4322-a832-dd1498ef9152_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Mercè Rodoreda va estar a punt de morir per un tramvia abans d’escriure ‘La plaça del Diamant’",
       "excerpt": "La tardor del 1959, al centre de Ginebra, un tramvia va estar a punt d’endur-se la vida d’una de les escriptores catalanes més traduïdes: Mercè Rodoreda. L’accident hauria pogut privar la literatura catalana d’algunes de les seves obres més importants, com La plaça del Diamant, que l’autora va començar a escriure durant els mesos posteriors […]",
@@ -286,7 +356,7 @@
     {
       "source": "VilaWeb",
       "title": "Illa respon a Feijóo: “Qui diu que Catalunya està apagada és que està fora de cobertura”",
-      "excerpt": "El president recorda al dirigent del PP que Catalunya \"no necessita ser rescatada\" sinó respectada",
+      "excerpt": "El president recorda al dirigent del PP que Catalunya no necessita ser rescatada, sinó respectada",
       "url": "https://www.vilaweb.cat/noticies/illa-respon-a-feijoo-qui-diu-que-catalunya-esta-apagada-es-que-esta-fora-de-cobertura/",
       "published": "2026-10-18T19:06:38+02:00",
       "category": "Principat",
@@ -355,7 +425,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "França busca respostes després d'una jornada de mobilitzacions massives marcada per la violència",
+      "title": "Macron fa una crida a l'ordre mentre França busca respostes per la violència en les mobilitzacions",
       "excerpt": "Diferents alcaldes han criticat que el dispositiu policial estava mal dissenyat, mentre que el govern i diverses forces polítiques han responsabilitzat els partits d'esquerra de la violència",
       "url": "https://www.3cat.cat/3catinfo/franca-busca-respostes-despres-duna-jornada-de-mobilitzacions-massives-marcada-per-la-violencia/noticia/3434747/",
       "published": "2026-10-18T18:43:11+02:00",
@@ -366,7 +436,7 @@
     {
       "source": "VilaWeb",
       "title": "Protecció Civil farà sonar demà 119 sirenes de risc químic en 47 municipis de Catalunya",
-      "excerpt": "La prova començarà a les 10.00, durarà uns vint minuts i arribarà a unes 930.000 habitants",
+      "excerpt": "La prova començarà a les 10.00, durarà uns vint minuts i arribarà a uns 930.000 habitants",
       "url": "https://www.vilaweb.cat/noticies/prova-sirenes-risc-quimic-catalunya-19-octubre/",
       "published": "2026-10-18T18:29:13+02:00",
       "category": "Societat",
@@ -685,7 +755,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El batlle de París qüestiona els recursos de la policia arran dels aldarulls i els pillatges",
+      "title": "El batlle de París qüestiona els recursos policíacs arran dels aldarulls i pillatges",
       "excerpt": "Els batlles de Bordeu, Marsella i Lió també condemnen els episodis de violència · A Lió hi ha hagut un centenar d'agents ferits i 160 detinguts",
       "url": "https://www.vilaweb.cat/noticies/batlle-paris-questiona-recursos-policia-aldarulls-saquejos/",
       "published": "2026-10-18T14:32:17+02:00",
@@ -725,12 +795,12 @@
     },
     {
       "source": "ARA",
-      "title": "França es ressitua després de l'esclat de ràbia: \"És l'ocàs del macronisme\"",
-      "excerpt": "\"Ahir les forces de l'ordre van quedar desbordades\". És la valoració que ha fet aquest diumenge l'adjunta a l'alcaldia de París, Lamia El Aaraje, sobre l'actuació de la policia durant la jornada de protestes d'aquest cap de setmana a la capital francesa . \"Hi va haver un nivell de violència que crec que no hem vist mai\", ha afegit. Entre 550.000 i 800.000 persones van sortir aquest dissabte als carrers de França per protestar per l'encariment del cost de la vida, unes manifestacions en què…",
+      "title": "París viu nous aldarulls mentre Macron fa una crida a la desescalada",
+      "excerpt": "Quan encara no han passat 24 h dels greus aldarulls d'ahir , la tensió entre policia i manifestants torna als carrers de diverses ciutats franceses. A Tolosa, Lió, Rennes, o Lille, i també a Paris, els manifestants tornen a sortir al carrer en protestes convocades a través de les xarxes socials, i en algunes hi ha novament enfrontaments entre les forces de seguretat i els concentrats. La capital francesa torna a viure episodis de violència i alguns saquejos a comerços, amb la plaça de la…",
       "url": "https://www.ara.cat/internacional/europa/franca-ressitua-despres-l-esclat-rabia-l-ocas-macronisme_1_5881956.html",
       "published": "2026-10-18T13:58:25+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/cfa1bc6b-6c0a-4691-9693-7b32ee8e5f7c_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/58e32235-9069-4e79-81b3-c15bd992f707_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -786,7 +856,7 @@
     {
       "source": "VilaWeb",
       "title": "Feijóo encarrega a Albiol que encapçali una llei espanyola contra les ocupacions",
-      "excerpt": "El candidat del PP diu que estaran a l’altura física i política del moment · Es compromet a no abandonar Badalona",
+      "excerpt": "El candidat del PP diu que estaran a l’altura del repte · Es compromet a no abandonar Badalona",
       "url": "https://www.vilaweb.cat/noticies/feijoo-encarrega-a-albiol-que-encapcali-una-llei-espanyola-contra-les-ocupacions/",
       "published": "2026-10-18T13:35:05+02:00",
       "category": "Espanya",
@@ -865,8 +935,8 @@
     },
     {
       "source": "ARA",
-      "title": "Torna el risc per pluges intenses a onze comarques aquest dilluns",
-      "excerpt": "Tot i que aquest diumenge el temporal ha donat una certa treva a Catalunya, el president de la Generalitat, Salvador Illa, ha advertit que el risc encara \"no s'ha acabat\" i ha demanat màxima prudència davant la previsió d'un nou episodi de gota freda aquest dilluns, si bé el territori afectat encara s'ha de \"calibrar\". De moment el Meteocat ha emès un avís de situació meteorològica de perill a onze comarques del litoral i el prelitoral de Catalunya en una franja horària que va des…",
+      "title": "Torna el risc per pluges intenses a catorze comarques aquest dilluns",
+      "excerpt": "Tot i que aquest diumenge el temporal ha donat una certa treva a Catalunya, el president de la Generalitat, Salvador Illa, ha advertit que el risc encara \"no s'ha acabat\" i ha demanat màxima prudència davant la previsió d'un nou episodi de gota freda aquest dilluns. El territori afectat encara s'ha de \"calibrar\", però, de moment, el Meteocat ha emès un avís de situació meteorològica de perill a catorze comarques en una franja horària que va des de les 12 hores fins a la matinada.…",
       "url": "https://www.ara.cat/societat/medi-ambient/troben-morta-dona-desapareguda-riera-cabrera-mar-fortes-pluges_1_5882695.html",
       "published": "2026-10-18T12:25:35+02:00",
       "category": "Actualitat",
