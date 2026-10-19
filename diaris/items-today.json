@@ -128,12 +128,12 @@
     },
     {
       "source": "3CatInfo",
-      "title": "La dana Adam deixa al País Valencià tres víctimes mortals, greus inundacions i pobles incomunicats",
+      "title": "La dana Adam deixa al País Valencià tres morts, més d'un miler de rescatats i pobles incomunicats",
       "excerpt": "La Generalitat ha ordenat la restricció de mobilitat als municipis del litoral sud de València i el nord d'Alacant",
       "url": "https://www.3cat.cat/3catinfo/la-marina-alta-i-la-safor-concentren-la-pitjor-part-del-temporal-al-pais-valencia-on-ja-sha-activat-la-ume/noticia/3434797/",
       "published": "2026-10-19T07:26:23+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/9/4/1792406645249.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/9/1792432713493.jpg",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431315/embed/",
         "source": "3CatInfo",
@@ -160,6 +160,17 @@
       "category": "Societat",
       "image": null,
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimarts: adeu a les pluges més importants i arribada del sol",
+      "excerpt": "A primera hora del matí no es descarten alguns ruixats entre el Maresme i l'Empordà que marxarien ràpidament",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-adeu-a-les-pluges-mes-importants-i-arribada-del-sol/noticia/3434942/",
+      "published": "2026-10-19T20:21:33+02:00",
+      "updated": "2026-10-19T20:22:23+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/3/1792420204030.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -348,9 +359,149 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Bons i dolents en la segregació escolar",
+      "excerpt": "Diumenge, el 30 minuts emetia Les escoles dels “altres” . Les cometes remarquen aquesta distància crítica amb l’eufemisme clàssic pejoratiu que fa referència a la població immigrada. Un detall gens innocent, però pràctic per accentuar aquesta idea d’alteritat amb la voluntat de denunciar-la.",
+      "url": "https://www.ara.cat/opinio/bons-dolents-segregacio-escolar_129_5884174.html",
+      "published": "2026-10-19T20:44:22+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/552898a7-d64c-4b0a-8a5f-477490aebcde_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El cap d’una secta cristiana a Kenya, declarat culpable de quasi 200 assassinats",
+      "excerpt": "El cap d’una secta de culte de Kenya, Paul Mackenzie, serà sentenciat com a culpable de quasi 200 morts per inanició. El predicador, un extaxista, va fundar la secta l’any 2003, animava els fidels a reunir-se amb Jesús sota la falsa afirmació que el món s’acabava, motiu pel qual porta empresonat més de tres anys. Ara el Tribunal Superior de Mombasa posa fi a anys sense cap sentència definitiva sobre el cas.",
+      "url": "https://www.ara.cat/internacional/africa/cap-d-secta-cristiana-kenia-declarat-culpable-quasi-200-assassinats_1_5884094.html",
+      "published": "2026-10-19T20:35:39+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7cc6af90-cf69-4a36-9585-6fbda0129795_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Noves vulnerabilitats",
+      "excerpt": "Via 15 és una coproducció en què col·laboren 15 televisions locals de la regió metropolitana.",
+      "url": "https://beteve.cat/via-15/noves-vulnerabilitats/",
+      "published": "2026-10-19T20:21:15+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Infobarris",
+      "excerpt": "Torna Infobarris, el programa informatiu de betevé dedicat a explicar la realitat dels barris de Barcelona. Cada dia en directe, de 19 h a 19.40 h, la periodista Núria Llabina i un equip experimentat d’especialistes en el territori copsaran les històries i el batec als carrers de Barcelona.",
+      "url": "https://beteve.cat/infobarris/infobarris-188/",
+      "published": "2026-10-19T20:20:18+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La temptació dels vidres trencats",
+      "excerpt": "Els primers ministres d'Hongria i Polònia han vinculat els disturbis a França amb la immigració. I Donald Trump, també. Considera que la violència d’aquests dies “prové de persones que venen d’un món diferent i porten odi als seus cors”.",
+      "url": "https://www.ara.cat/opinio/temptacio-dels-vidres-trencats_129_5884105.html",
+      "published": "2026-10-19T20:14:37+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f5f15263-90c0-4b8d-95d6-0322a663e664_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Les opcions més barates i eficients per escalfar la llar, segons l’OCU",
+      "excerpt": "Amb la inflació disparada pel preu de l’energia i un cop endinsats a la tardor, potser algú ja comença a pensar a posar a punt la calefacció o anar a buscar l’estufa al traster. D’opcions per escalfar la llar n’hi ha moltes, però en un moment de preus elevats de l’electricitat i el gas, l’Organització […]",
+      "url": "https://beteve.cat/economia/opcions-barates-escalfar-casa-ocu/",
+      "published": "2026-10-19T20:12:09+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/calefaccio-ocu-comparativa-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Cindy Crawford i la seva família s'acomiaden de Presley Gerber un mes després de la seva mort",
+      "excerpt": "Cindy Crawford ha trencat el silenci per acomiadar-se del seu fill, Presley Gerber, un mes després de la seva mort, el 20 de setembre, als 27 anys . El model va ser trobat sense vida en un centre de rehabilitació a Santa Mònica, a Califòrnia. Després de setmanes de dol en la intimitat, la model nord-americana, el seu marit Rande Gerber i la seva filla Kaia Gerber han decidit homenatjar-lo a través de les xarxes socials amb comunicats molt emotius i plens de detalls personals.",
+      "url": "https://www.ara.cat/gent/cindy-crawford-seva-familia-s-acomiaden-presley-gerber-mes-despres-seva-mort_1_5883976.html",
+      "published": "2026-10-19T20:09:56+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ff8436b2-302f-48e8-b35a-133ed507eb87_4-3-aspect-ratio_default_0_x1091y880.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els Mossos d’Esquadra detenen dos homes acusats d’agredir sexualment una dona sense llar",
+      "excerpt": "Els Mossos d’Esquadra han detingut dos homes com a presumptes autors d’una agressió sexual a una dona sense llar a Barcelona. Les detencions les ha avançat El Caso i les ha pogut confirmar betevé. Segons aquest mitjà digital, els fets s’haurien produït a tocar de la ronda del Litoral, al districte de Sant Martí, pels […]",
+      "url": "https://beteve.cat/societat/dos-detinguts-agressio-sexual-dona-sense-llar/",
+      "published": "2026-10-19T20:08:37+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/agressio-sexual-sensellar-ronda-litoral-2026-10-19-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El CEM Clot de la Mel resol millores pendents a la pista poliesportiva i els vestidors",
+      "excerpt": "Al CEM Clot de la Mel, situat al carrer d’Andrade, 40, ja hi ha noves porteries per a la pista poliesportiva, s’han reforçat els accessos i s’hi ha instal·lat un nou sòcol a la part interna. També s’ha actuat als vestidors i s’han afegit xarxes per la seguretat dels visitants, tal com demanen les competicions […]",
+      "url": "https://beteve.cat/societat/cem-clot-mel-millores-pista-poliesportiva-vestidors/",
+      "published": "2026-10-19T20:00:39+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cem-clot-mel-reparacions-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El llibre que va inspirar tàcticament el Barça de Luis Enrique",
+      "excerpt": "En el programa La porteria de betevé, s’ha avançat un fragment del documental sobre el quinzè aniversari del millor Barça Atlètic de la història entrenat per Luis Enrique, que va acabar tercer a Segona Divisió, la temporada 2010-2011. El documental sencer s‘estrenarà el proper 16 de novembre. Quan l’entrenador asturià va agafar les regnes del […]",
+      "url": "https://beteve.cat/esports/llibre-va-inspirar-tacticament-barca-luis-enrique/",
+      "published": "2026-10-19T19:54:15+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/191926BS_decla_luis_enrique_6-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
-      "title": "Ara Més-Front Ampli presenta la coalició electoral i manté oberta la porta a Podem",
-      "excerpt": "La coalició encara ha de triar el cap de llista al congrés espanyol, una decisió que prendrà col·lectivament el consell federal d’Ara Més",
+      "title": "L’economia catalana creix més de pressa que no es preveia",
+      "excerpt": "La Generalitat ha revisat a l'alça el ritme de creixement esperat per l'activitat d'enguany, del 2,3% del maig al 2,6% actual. Les causes més importants de l'augment addicional són un consum familiar superior i una millora estimada en l'aportació del sector exterior",
+      "url": "https://www.vilaweb.cat/noticies/leconomia-catalana-creix-mes-de-pressa-del-previst/",
+      "published": "2026-10-19T19:50:36+02:00",
+      "category": "La píndola",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Càrregues a la UAB en una protesta contra un acte no autoritzat de l'agitador Vito Quiles",
+      "excerpt": "La universitat havia denegat a l'agitador l'autorització d'accés, però hi ha intentat arribar de tota manera",
+      "url": "https://www.3cat.cat/3catinfo/carregues-a-la-uab-en-una-protesta-contra-un-acte-no-autoritzat-de-lagitador-vito-quiles/noticia/3434969/",
+      "published": "2026-10-19T19:50:01+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/1/8/1792430119881.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-20-10-2026_134_5884093.html",
+      "published": "2026-10-19T19:43:31+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El PP torna a la càrrega amb el català",
+      "excerpt": "Tot i els esforços del PP per evitar qualsevol polèmica abans de les eleccions del 29-N, aquest dilluns Alberto Núñez Feijóo ha tornat a apuntar contra el sistema d'immersió lingüística de l'escola catalana. Tot i que en el seu \"Contracte amb Espanya\" només hi figura un compromís genèric per \"garantir l'ensenyament del castellà a tot Espanya\" (com si això no estigués ja garantit), en realitat el que es prepara, segons fonts del partit, és la intervenció del sistema català perquè s'assembli més al gallec. I…",
+      "url": "https://www.ara.cat/editorial/pp-torna-carrega-catala_129_5884026.html",
+      "published": "2026-10-19T19:43:25+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/dce87505-a767-4e12-90e0-ca902bdc0d1e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Ara Més – Front Ampli presenta la coalició electoral i manté oberta la porta a Podem",
+      "excerpt": "La coalició encara ha d'elegir el cap de llista al congrés espanyol, una decisió que prendrà col·lectivament el consell federal d’Ara Més",
       "url": "https://www.vilaweb.cat/noticies/ara-mes-front-ampli-presenta-la-coalicio-electoral-i-mante-oberta-la-porta-a-podem/",
       "published": "2026-10-19T19:41:11+02:00",
       "category": "Illes",
@@ -360,7 +511,7 @@
     {
       "source": "ARA",
       "title": "Detenen dos joves per violar una dona sense llar a Barcelona",
-      "excerpt": "Els Mossos d'Esquadra han detingut dos homes joves, de 25 i 26 anys, com a presumptes autors d'una violació a una dona sense llar al districte de Sant Martí de Barcelona. Segons fonts consultades per l'ARA, han sigut detinguts per haver entrat a la tenda de campanya on dormia la víctima i haver-la forçat entre els dos.",
+      "excerpt": "Els Mossos d'Esquadra han detingut dos homes joves, de 25 i 26 anys, com a presumptes autors d'una violació a una dona sense llar al districte de Sant Martí de Barcelona. Segons fonts consultades per l'ARA, han sigut detinguts per haver entrat a la tenda de campanya on dormia la víctima i haver-la forçat entre els dos. Els homes han ingressat aquest dilluns a presó provisional, acusats d’agressió sexual i robatori en casa habitada.",
       "url": "https://www.ara.cat/societat/violencia-masclista/detenen-joves-violar-dona-llar-barcelona_1_5884029.html",
       "published": "2026-10-19T19:29:52+02:00",
       "category": "Actualitat",
@@ -409,8 +560,8 @@
     },
     {
       "source": "ARA",
-      "title": "Vito Quiles canvia l'Autonòma per l'IKEA",
-      "excerpt": "Fa un any, Vito Quiles es va limitar a dedicar unes breus paraules als seus seguidors al pàrquing de la facultat de Comunicació de la Universitat Autònoma de Barcelona (UAB). Enguany, no haurà arribat ni al pàrquing (en aquest cas d'un acte convocat a la Plaça Cívica) perquè centenars d'estudiants s'han manifestat per evitar-ho. Com l'octubre del 2024, els Mossos han carregat contra una multitud que escridassava la presència de l'agitador ultra i dels seus seguidors i l'acte previst a la UAB ha acabat canviant…",
+      "title": "Vito Quiles acaba expulsat de l'Autònoma (i de l'IKEA)",
+      "excerpt": "Fa un any Vito Quiles es va limitar a dedicar unes breus paraules als seus seguidors al pàrquing de la facultat de Comunicació de la Universitat Autònoma de Barcelona (UAB). Enguany ni tan sols ha arribat al pàrquing (en aquest cas d'un acte convocat a la Plaça Cívica) perquè centenars d'estudiants s'han manifestat per evitar-ho. Com l'octubre del 2025, els Mossos han carregat contra una multitud que escridassava la presència de l'agitador ultra i dels seus seguidors, i l'acte previst a la UAB ha acabat…",
       "url": "https://www.ara.cat/politica/vito-quiles-canvia-l-autonoma-l-ikea_1_5884037.html",
       "published": "2026-10-19T19:12:24+02:00",
       "category": "Actualitat",
@@ -569,7 +720,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Detenen dos homes per una presumpta agressió sexual a una dona sense llar a Barcelona",
+      "title": "A presó provisional dos homes per una agressió sexual a una dona sense llar a Barcelona",
       "excerpt": "Els fets haurien passat aquest cap de setmana al districte de Sant Martí",
       "url": "https://www.3cat.cat/3catinfo/detenen-dos-homes-per-una-presumpta-agressio-sexual-a-una-dona-sense-llar-a-barcelona/noticia/3434950/",
       "published": "2026-10-19T17:45:15+02:00",
@@ -775,7 +926,7 @@
     {
       "source": "ARA",
       "title": "Quan plou, ens recordem de Mazón",
-      "excerpt": "En relativament poc temps, ens hem hagut de fer la idea que el canvi climàtic ha deixat de ser un avís o una alarma i ha començat (pel que sembla, només ha començat) a convertir-se no tan sols en una realitat perceptible, sinó directament en una amenaça real. Alguns experts diuen que el clima mediterrani està experimentant un procés de tropicalització, i que per aquest motiu són de cada vegada més freqüents els aiguats, les inundacions i fenòmens nous, o fins ara insòlits o desconeguts,…",
+      "excerpt": "En relativament poc temps, ens hem hagut de fer la idea que el canvi climàtic ha deixat de ser un avís o una alarma i ha començat (pel que sembla, només ha començat) a convertir-se no tan sols en una realitat perceptible, sinó directament en una amenaça real. Alguns experts diuen que el clima mediterrani està experimentant un procés de tropicalització, i que per aquest motiu són cada vegada més freqüents els aiguats, les inundacions i fenòmens nous, o fins ara insòlits o desconeguts, per…",
       "url": "https://www.ara.cat/opinio/plou-recordem-mazon_129_5883777.html",
       "published": "2026-10-19T14:39:01+02:00",
       "category": "Actualitat",
@@ -820,16 +971,6 @@
       "published": "2026-10-19T14:15:43+02:00",
       "category": "Andorra",
       "image": null,
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Els Mossos d’Esquadra detenen dos homes acusats d’agredir sexualment una dona sense llar",
-      "excerpt": "Els Mossos d’Esquadra han detingut dos homes com a presumptes autors d’una agressió sexual a una dona sense llar a Barcelona. Les detencions les ha avançat El Caso i les ha pogut confirmar betevé. Segons aquest mitjà digital, els fets s’haurien produït a tocar de la ronda del Litoral, al districte de Sant Martí, pels […]",
-      "url": "https://beteve.cat/societat/dos-detinguts-agressio-sexual-dona-sense-llar/",
-      "published": "2026-10-19T14:15:10+02:00",
-      "category": "societat",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/mossos-esquadra-general-171026-2026-10-17.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1095,7 +1236,7 @@
     {
       "source": "3CatInfo",
       "title": "Tocs de queda a França, incloent-hi París, després dels aldarulls del cap de setmana",
-      "excerpt": "Macron no accepta la dimissió del ministre de l'Interior, però li demana que apliqui \"nous mètodes d'actuació\" policial per evitar més violència, aldarulls i saquejos",
+      "excerpt": "Macron no accepta la dimissió del ministre de l'Interior, i li demana que apliqui \"nous mètodes d'actuació\" policial per evitar més violència, aldarulls i saquejos",
       "url": "https://www.3cat.cat/3catinfo/macron-no-accepta-la-dimissio-del-ministre-de-linterior-i-li-demana-nous-metodes-dactuacio/noticia/3434822/",
       "published": "2026-10-19T11:20:40+02:00",
       "category": "Actualitat",
@@ -1440,7 +1581,7 @@
     {
       "source": "ARA",
       "title": "Al cor de la dana del País Valencià: \"Plovia tant que l'aigua ens entrava per les finestres d'un tercer pis\"",
-      "excerpt": "\"M'he despertat perquè plovia tant que l'aigua ens entrava a casa per les finestres fins al punt que al menjador s'ha acumulat un dit d'aigua. I estic parlant d'un tercer pis\". Sergi Morell, veí d'Oliva, no oblidarà fàcilment la dana Adam que ha deixat registres històrics en les comarques valencianes de la Safor i la Marina Alta: fins a 720 litres per metre quadrat en prop de 36 hores. L'episodi també ha desbordat rius, ha negat sis municipis i ha deixat centenars de persones atrapades…",
+      "excerpt": "\"M'he despertat perquè plovia tant que l'aigua ens entrava a casa per les finestres, fins al punt que al menjador s'ha acumulat un dit d'aigua. I estic parlant d'un tercer pis\". Sergi Morell, veí d'Oliva, no oblidarà fàcilment la dana Adam , que ha deixat registres històrics a les comarques valencianes de la Safor i la Marina Alta: fins a 720 litres per metre quadrat en prop de 36 hores. L'episodi també ha desbordat rius, ha negat sis municipis i ha deixat centenars de persones…",
       "url": "https://www.ara.cat/societat/successos/victima-acumulats-historics-pel-temporal-pluja-pais-valencia_1_5883190.html",
       "published": "2026-10-19T07:36:18+02:00",
       "category": "Actualitat",
