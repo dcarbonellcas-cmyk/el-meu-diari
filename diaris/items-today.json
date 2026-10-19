@@ -2,6 +2,37 @@
   "date": "2026-10-19",
   "items": [
     {
+      "source": "3CatInfo · El temps",
+      "title": "Temporal amb registres extraordinaris al País Valencià: rècord històric a Forna amb 700 mm d'aigua",
+      "excerpt": "El municipi de la Marina Alta registra una precipitació excepcional, que l'apropa a les xifres de l'episodi de la dana del 29 d'octubre de 2024",
+      "url": "https://www.3cat.cat/3catinfo/temporal-amb-registres-extraordinaris-al-pais-valencia-record-historic-a-forna-amb-700-mm-daigua/noticia/3434811/",
+      "published": "2026-10-19T12:44:24+02:00",
+      "updated": "2026-10-19T12:44:17+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/4/1792405326747.jpeg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Del “Salo, de confinar, res”, al confinament d’avui: la llei permet a la Generalitat de prendre aquesta mesura de protecció",
+      "excerpt": "La situació d’extrema gravetat que els aiguats han provocat a la Safor, les Marines i la Ribera ha motivat l’ordre presa per emergències",
+      "url": "https://www.vilaweb.cat/noticies/del-salo-de-confinar-res-al-confinament-davui-la-llei-permet-a-la-generalitat-de-prendre-aquesta-mesura-de-proteccio/",
+      "published": "2026-10-19T12:42:21+02:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Centenars de rescats amb helicòpter per les inundacions a la Safor i la Marina Alta",
+      "excerpt": "Vuit helicòpters participen en les tasques de rescat · El president de la Generalitat demana a la població que no es desplaci",
+      "url": "https://www.vilaweb.cat/noticies/centenars-de-rescatats-amb-helicopters-inundacions-safor-marina-alta/",
+      "published": "2026-10-19T12:24:16+02:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "[VÍDEO] Rescaten amb helicòpters persones atrapades per les inundacions a Oliva",
       "excerpt": "Les inundacions han atrapat uns quants veïns en vehicles i teulades",
@@ -22,24 +53,54 @@
       "priority": "1 · Urgent"
     },
     {
-      "source": "ARA",
-      "title": "Persones atrapades, rius desbordats i inundacions: pluges torrencials històriques al País Valencià",
-      "excerpt": "",
-      "url": "https://www.ara.cat/societat/l-ume-mobilitza-d-urgencia-valencia-pel-risc-d-inundacions_6_5883136.html",
-      "published": "2026-10-19T07:10:44+02:00",
+      "source": "3CatInfo",
+      "title": "145 municipis confinats al País Valencià pels aiguats: rescats amb helicòpter i pobles incomunicats",
+      "excerpt": "La Generalitat ha ordenat també la restricció de mobilitat en aquests municipis del litoral sud de València i nord d'Alacant",
+      "url": "https://www.3cat.cat/3catinfo/la-marina-alta-i-la-safor-concentren-la-pitjor-part-del-temporal-al-pais-valencia-on-ja-sha-activat-la-ume/noticia/3434797/",
+      "published": "2026-10-19T07:26:23+02:00",
       "category": "Actualitat",
-      "image": null,
+      "image": "https://img.3cat.cat/multimedia/png/0/4/1792396250740.png",
       "priority": "1 · Urgent"
     },
     {
       "source": "VilaWeb",
-      "title": "Demanen el confinament de la població de la Marina Alta i la Safor arran dels estralls d’un temporal històric",
-      "excerpt": "Hi ha dues víctimes mortals · Suspenen les classes a Mallorca, Eivissa, Formentera i en quaranta-un municipis del País Valencià",
+      "title": "La Generalitat ordena el confinament de més de 800.000 persones arran dels estralls del temporal",
+      "excerpt": "Hi ha dues víctimes mortals · El temporal continua causant estralls a les Illes",
       "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
       "published": "2026-10-19T07:00:26+02:00",
       "category": "Societat",
       "image": null,
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Ben Amics denuncia pràctiques transfòbiques a la Consulta d’Identitat de Gènere de Son Espases",
+      "excerpt": "L’entitat rep el testimoni de trenta persones que asseguren que han sofert un tracte discriminatori entre 2020 i 2026",
+      "url": "https://www.vilaweb.cat/noticies/ben-amics-denuncia-transfobia-transfobiques-a-la-consulta-didentitat-de-genere-de-son-espases/",
+      "published": "2026-10-19T12:30:38+02:00",
+      "category": "Sanitat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Catalunya creixerà aquest any el 2,6%, però amb l'amenaça de la inflació i menys inversió",
+      "excerpt": "L'economia catalana creixerà aquest any el 2,6%, tres dècimes més que el que s'havia previst a la primavera, però amb riscos per l'amenaça d'una inflació creixent i la desacceleració de la inversió. Aquestes són les previsions de la conselleria d'Economia de la Generalitat, publicades aquest dilluns per al 2026 i el 2027. En general, \"es mantindrà un dinamisme notable tot i la crisi energètica\", destaca el document. De cara al 2027, l'avanç del producte interior brut (PIB) serà més moderat i se situarà en el…",
+      "url": "https://www.ara.cat/economia/macroeconomia/catalunya-creixera-aquest-any-2-6-l-amenaca-inflacio-menys-inversio_1_5883443.html",
+      "published": "2026-10-19T12:15:41+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/218354b0-f3ee-48c2-b6b3-d2864c664d13_source-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Neguit entre les AFA per la manca de sortides i colònies: “És una pèrdua educativa important”",
+      "excerpt": "Ja ho alertaven els docents l’any passat i finalment s’ha convertit en una realitat present a molts centres: les colònies i sortides s’han suprimit de bona part dels programes educatius. És per això que anar d’excursió, dormir una nit fora de casa o visitar un museu són activitats que, de moment, molts infants no faran […]",
+      "url": "https://beteve.cat/societat/afa-alerten-no-fer-colonies-es-una-perdua-educativa/",
+      "published": "2026-10-19T11:46:40+02:00",
+      "category": "educació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/04/nens-infants-colonies-260426.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -129,12 +190,72 @@
     },
     {
       "source": "VilaWeb",
-      "title": "L’Audiència de Barcelona obliga a reobrir la causa contra els Mossos per un tret de foam a un fotoperiodista",
+      "title": "Detenen un home per l’atropellament d’una diputada australiana",
+      "excerpt": "El primer ministre australià apunta que l’atropellament hauria estat deliberat, la diputada continua hospitalitzada en estat crític",
+      "url": "https://www.vilaweb.cat/noticies/detenen-un-home-per-latropellament-duna-diputada-australiana/",
+      "published": "2026-10-19T12:30:59+02:00",
+      "category": "Àsia-Pacífic",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Mirant de reüll la violència a França",
+      "excerpt": "La setmana comença marcada pel paisatge després de la batalla d’aquest cap de setmana a França .",
+      "url": "https://www.ara.cat/analisi/mirant-reull-violencia-franca_1_5883524.html",
+      "published": "2026-10-19T12:24:41+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/51fa5384-a77b-4bab-a006-b3150f126875_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una petita gran filigrana",
+      "excerpt": "Per sort, tal com està plantejat el format de crítiques en aquest diari, els que les escrivim no hem de detallar a la fitxa a quin gènere pertany la pel·lícula que ressenyem. Si no fos així, amb films com Blue heron les passaríem magres. Quina pel·lícula més astutament estranya i indefinible. Què és exactament aquest debut de la canadenca Sophy Romvari? Comença que sembla cinema indie intimista i impressionista, continua introduint elements quasi documentals i assagístics, i el relat acaba plegant-se sobre si mateix en…",
+      "url": "https://www.ara.cat/cultura/cinema/critiques/blue-heron-filigrana-narrativa-majuscula_1_5883457.html",
+      "published": "2026-10-19T12:24:21+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/439a3405-6305-4338-8bb8-c17240ae6e7b_source-aspect-ratio_default_1061138.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
+      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-10-19T12:05:54+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Serielizados Fest 2026: Programa i dates de la la gran festa de les sèries",
+      "excerpt": "El Serielizados Fest 2026 se celebrarà del 19 al 28 d’octubre al CCCB, Mooby Aribau, Phenomena i Casa Cupra Raval. El festival durà les estrenes de sèries, xerrades amb creadors, guionistes, actrius i actors, i classes magistrals. Un dels noms destacats és la visita de Steven Moffat, creador de Sherlock. A continuació pots veure el […]",
+      "url": "https://beteve.cat/agenda/programa-serielizados-fest-barcelona/",
+      "published": "2026-10-19T12:04:46+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/serielizados-2026-2026-07-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’Audiència de Barcelona obliga a reobrir la causa contra els Mossos per un tret de ‘foam’ a un fotoperiodista",
       "excerpt": "El fotoperiodista Joan Gálvez va rebre l’impacte d’un projectil a l’espatlla mentre cobria una manifestació pro-palestina el 2025",
       "url": "https://www.vilaweb.cat/noticies/audiencia-barcelona-reobrir-causa-mossos-foam-fotoperiodista/",
       "published": "2026-10-19T11:46:34+02:00",
       "category": "Policia i justícia",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé emetrà en directe el Triatló de Barcelona 2026, que tindrà més proves que mai",
+      "excerpt": "betevé emetrà en directe el Triatló de Barcelona 2026. Aquest diumenge 25 d’octubre el mitjà de comunicació públic de Barcelona emetrà per quarta vegada una de les curses més destacades de la ciutat i més prestigioses en l’àmbit mundial. El programa especial del Triatló de Barcelona 2026, produït de manera conjunta per betevé i La Xarxa, començarà a les 7.30 h […]",
+      "url": "https://beteve.cat/esports/beteve-emetra-directe-triatlo-barcelona-2026-mes-proves-que-mai/",
+      "published": "2026-10-19T11:46:06+02:00",
+      "category": "atletisme",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cartela-triatlo-barcelona-1-2026-10-12.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -145,16 +266,6 @@
       "published": "2026-10-19T11:45:41+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/2/1792395986728.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Serielizados Fest 2026: Programa i dates de la la gran festa de les sèries",
-      "excerpt": "El Serielizados Fest 2026 se celebrarà del 19 al 28 d’octubre al CCCB, Mooby Aribau, Phenomena i Casa Cupra Raval. El festival durà les estrenes de sèries, xerrades amb creadors, guionistes, actrius i actors, i classes magistrals. Un dels noms destacats és la visita de Steven Moffat, creador de Sherlock. A continuació pots veure el […]",
-      "url": "https://beteve.cat/agenda/programa-serielizados-fest-barcelona/",
-      "published": "2026-10-19T11:44:38+02:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/serielizados-2026-2026-07-21.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -174,7 +285,7 @@
       "url": "https://www.ara.cat/economia/macroeconomia/guanyen-teus-veins-renda-llars-carrer-carrer-mapa-interactiu_1_5877679.html",
       "published": "2026-10-19T11:18:19+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/a2f78d45-116d-4f80-a439-c572b3e00567_16-9-aspect-ratio_default_0_x649y390.jpg",
+      "image": "https://static1.ara.cat/clip/269edd29-317a-407f-b818-b8b297fd9956_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -200,7 +311,7 @@
     {
       "source": "ARA",
       "title": "Sebastià Alzamora, Premi Lletra d’Or per 'Sala Augusta seguit de Llengua materna'",
-      "excerpt": "L’escriptor Sebastià Alzamora (Llucmajor, 1972) ha estat reconegut amb el premi Lletra d'Or al millor llibre del 2025 per Sala Augusta seguit de Llengua materna (Proa), que aplega dos poemes. Amb aquest llibre, Alzamora també ha guanyat el premi de la Crítica, el de la Crítica Serra d’Or, el Josep M. Llompart - Cavall Verd (AELC) i el Premio Nacional del ministeri de Cultura espanyol.",
+      "excerpt": "L’escriptor Sebastià Alzamora (Llucmajor, 1972) ha estat reconegut amb el premi Lletra d'Or al millor llibre del 2025 per Sala Augusta seguit de Llengua materna (Proa), que aplega dos poemes. Amb aquest llibre, Alzamora també ha guanyat el premi de la Crítica , el de la Crítica Serra d’Or, el Josep M. Llompart - Cavall Verd (AELC) i el Premio Nacional del ministeri de Cultura espanyol . \"Em fa una il·lusió enorme. Sense ànim de fer la pilota, que el jurat estigui format per un…",
       "url": "https://llegim.ara.cat/actualitat/sebastia-alzamora-premi-lletra-d-or-sala-augusta-seguit-llengua-materna_1_5883448.html",
       "published": "2026-10-19T10:41:02+02:00",
       "category": "Actualitat",
@@ -230,7 +341,7 @@
     {
       "source": "ARA",
       "title": "Llarena demora l'arxivament de la causa contra Puigdemont però veu inevitable l'amnistia",
-      "excerpt": "El jutge Pablo Llarena veu inevitable l'amnistia de Carles Puigdemont, però, de moment, es resisteix a propiciar-la. Aquesta setmana estava previst que el magistrat del Tribunal Suprem proposés a la sala penal arxivar la causa contra l'expresident de la Generalitat i els exconsellers Toni Comín i Lluís Puig, pas previ a la seva amnistia. Però aquest dilluns s'ha limitat a confirmar l'aixecament de l'ordre de detenció contra ells, dictada després que el Tribunal Constitucional (TC) avalés l'amnistia en els casos de malversació.",
+      "excerpt": "El jutge Pablo Llarena veu inevitable l'amnistia de Carles Puigdemont, però, de moment, es resisteix a propiciar-la. Aquesta setmana estava previst que el magistrat del Tribunal Suprem remetés la causa contra l'expresident de la Generalitat i els exconsellers Toni Comín i Lluís Puig al tribunal del judici del Procés, presidit per Manuel Marchena, que és qui haurà d'aplicar l'amnistia definitiva als exiliats. Ara bé, l'instructor ha posat el fre i s'ha limitat a tombar el recurs que va presentar Vox i confirmar l'aixecament de les…",
       "url": "https://www.ara.cat/politica/llarena-resisteix-s-arxivi-causa-puigdemont_1_5883376.html",
       "published": "2026-10-19T10:23:52+02:00",
       "category": "Actualitat",
@@ -259,8 +370,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Llarena aplica l'amnistia a Puigdemont i gairebé tanca una persecució judicial que ha durat 9 anys",
-      "excerpt": "Ara, serà la sala penal del Suprem l'encarregada d'arxivar-la definitivament per a tots els condemnats i processats, una decisió que pot arribar en les pròximes hores",
+      "title": "Llarena confirma la retirada de les ordres de detenció contra Puigdemont, Comín i Puig per la llei d'amnistia però no tanca la causa",
+      "excerpt": "El magistrat aplica la doctrina del Constitucional, tot i que mostra la seva disconformitat",
       "url": "https://www.3cat.cat/3catinfo/llarena-aplica-lamnistia-a-puigdemont-i-tanca-una-persecucio-judicial-que-ha-durat-9-anys/noticia/3432934/",
       "published": "2026-10-19T10:16:15+02:00",
       "category": "Actualitat",
@@ -418,16 +529,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
-      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
-      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-10-19T09:13:43+02:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "VilaWeb",
       "title": "Els EUA neguen haver aturat la informació d’intel·ligència a Ucraïna",
       "excerpt": "Marco Rubio insta Volodímir Zelenski a “centrar-se a posar fi a la guerra”",
@@ -494,22 +595,12 @@
     },
     {
       "source": "ARA",
-      "title": "Macron rebutja la dimissió del ministre de l'Interior i li demana \"nous mètodes\" contra els manifestants",
-      "excerpt": "El ministre de l'Interior francès, Laurent Nuñez, ha presentat la dimissió després que les manifestacions massives de dissabte amb estudiants i treballadors contra les retallades al sistema educatiu i l'encariment de la vida acabessin amb aldarulls i destrosses. El president Emmanuel Macron ha rebutjat la dimissió del ministre i li ha demanat que desplegui \"nous mètodes d'acció sobre el terreny tan ràpidament com es pugui (...) contra els manifestants\", ha anunciat aquest dilluns l'Elisi.",
+      "title": "Les 'armilles grogues' convoquen una nova jornada de protestes a França",
+      "excerpt": "El ministre de l'Interior francès, Laurent Nuñez, ha presentat la dimissió després que les manifestacions massives de dissabte amb estudiants i treballadors contra les retallades al sistema educatiu i l'encariment de la vida acabessin amb aldarulls i destrosses. El president Emmanuel Macron ha rebutjat la dimissió del ministre i li ha demanat que desplegui \"nous mètodes d'acció sobre el terreny tan ràpidament com es pugui (...) contra els manifestants\", ha anunciat aquest dilluns l'Elisi. \"Davant la necessitat d'un comandament continu de les forces de l'ordre…",
       "url": "https://www.ara.cat/internacional/europa/macron-rebutja-dimissio-ministre-l-interior-li-demana-nous-metodes-manifestants_1_5883211.html",
       "published": "2026-10-19T07:55:14+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/a5330de7-05bf-427c-a44a-0ea18614de84_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "3CatInfo",
-      "title": "La Marina Alta i la Safor concentren les precipitacions al País Valencià: carrers negats i rescats amb helicòpter",
-      "excerpt": "Hi ha algunes poblacions incomunicades i es demana el confinament per facilitar els rescats de l'UME i la Generalitat",
-      "url": "https://www.3cat.cat/3catinfo/la-marina-alta-i-la-safor-concentren-la-pitjor-part-del-temporal-al-pais-valencia-on-ja-sha-activat-la-ume/noticia/3434797/",
-      "published": "2026-10-19T07:26:23+02:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/png/0/4/1792396250740.png",
       "priority": "3 · Altres notícies"
     },
     {
@@ -520,6 +611,16 @@
       "published": "2026-10-19T07:15:13+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/46620653-f3e6-4d7d-b15c-345e1a329563_source-aspect-ratio_default_0_x2190y1269.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La Generalitat valenciana confina més de 900.000 persones per la dana 'Adam'",
+      "excerpt": "",
+      "url": "https://www.ara.cat/societat/l-ume-mobilitza-d-urgencia-valencia-pel-risc-d-inundacions_6_5883136.html",
+      "published": "2026-10-19T07:10:44+02:00",
+      "category": "Actualitat",
+      "image": null,
       "priority": "3 · Altres notícies"
     },
     {
