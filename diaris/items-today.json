@@ -12,16 +12,6 @@
       "priority": "1 · Urgent"
     },
     {
-      "source": "VilaWeb",
-      "title": "Les Illes i la major part del País Valencià reprenen les classes després del temporal",
-      "excerpt": "El Verger i els Poblets mantenen les classes suspeses · Vuit municipis de la Safor i la Marina Alta continuen confinats pels efectes de les inundacions",
-      "url": "https://www.vilaweb.cat/noticies/illes-i-pais-valencia-classes-temporal/",
-      "published": "2026-10-19T18:50:08+02:00",
-      "category": "Educació",
-      "image": null,
-      "priority": "1 · Urgent"
-    },
-    {
       "source": "betevé",
       "title": "La dana Adam a Barcelona: recta final del temporal de mar i pluja intensa",
       "excerpt": "La dita diu que “Quan octubre trona, vent dona” i sembla que les properes hores tindrem ambdós fenòmens combinats. Després dels aiguats puntualment torrencials de les darreres hores i d’un diumenge marcat pels núvols i la pluja minsa a la ciutat, sembla que s’acosten més canvis importants. Ja fa dies que parlem d’una dana anomenada […]",
@@ -34,7 +24,7 @@
     {
       "source": "ARA",
       "title": "Pendents de les pluges i els aiguats torrencials fins dimarts al matí",
-      "excerpt": "El temporal de pluges provocat per la dana Adam i els vents marítims càlids carregats d’humitat continua en marxa a Catalunya, després de deixar registres extraordinaris i històrics al País Valencià entre diumenge i dilluns al matí. La nova tongada de precipitacions ha arrancat a mig matí i al migdia al sud de Catalunya, i amb el pas de les hores ha anat avançant en direcció nord. De moment hi ha molts registres d'entre 10 i 40 l/m², però en punts del prelitoral sud i…",
+      "excerpt": "El temporal de pluges provocat per la dana Adam i els vents marítims càlids carregats d’humitat continua en marxa a Catalunya, després de deixar registres extraordinaris i històrics al País Valencià entre diumenge i dilluns al matí. La nova tongada de precipitacions ha arrancat a mig matí i al migdia al sud de Catalunya, i amb el pas de les hores ha anat avançant en direcció nord. De moment hi ha molts registres d'entre 10 i 40 l/m², però en punts del prelitoral sud de…",
       "url": "https://www.ara.cat/previsions/pendents-pluges-aiguats-torrencials-fins-dimarts-mati_1_5883880.html",
       "published": "2026-10-19T16:47:41+02:00",
       "category": "Actualitat",
@@ -53,7 +43,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Onze morts en rieres el 2026: \"Un pam d'aigua és suficient per arrossegar una persona\"",
+      "title": "Onze morts per aiguats el 2026: \"Un pam d'aigua és suficient per arrossegar una persona\"",
       "excerpt": "Aquest any, les pluges torrencials han causat la mort d'onze persones, la xifra més alta des del 2000",
       "url": "https://www.3cat.cat/3catinfo/el-perill-de-les-rieres-quan-plou-un-pam-daigua-es-suficient-per-arrossegar-una-persona/noticia/3434812/",
       "published": "2026-10-19T14:21:52+02:00",
@@ -167,9 +157,24 @@
       "excerpt": "A primera hora del matí no es descarten alguns ruixats entre el Maresme i l'Empordà que marxarien ràpidament",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-adeu-a-les-pluges-mes-importants-i-arribada-del-sol/noticia/3434942/",
       "published": "2026-10-19T20:21:33+02:00",
-      "updated": "2026-10-19T20:22:23+02:00",
+      "updated": "2026-10-19T21:31:41+02:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/0/3/1792420204030.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431378/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-adeu-a-les-pluges-mes-importants-i-arribada-del-sol/noticia/3434942/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Sis municipis de la Safor i la Marina Alta mantenen la suspensió de les classes",
+      "excerpt": "Miramar, Oliva, Bellreguard, Piles, el Verger i els Poblets no reprendran l’activitat lectiva · Les Illes i la resta del País Valencià recuperen les classes amb normalitat",
+      "url": "https://www.vilaweb.cat/noticies/illes-i-pais-valencia-classes-temporal/",
+      "published": "2026-10-19T18:50:08+02:00",
+      "category": "Educació",
+      "image": null,
       "priority": "2 · Important"
     },
     {
@@ -357,6 +362,46 @@
       "category": "seguretat ciutadana",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/sirenes-risc-quimic-2026-10-19.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Chandra Kala Clemente, adoptada al Nepal: “És molt frustrant haver d’explicar que pertanys aquí”",
+      "excerpt": "La Chandra Kala Clemente va néixer en un poble molt petit del Nepal. Allà vivia amb els seus pares i els seus tres germans. Quan els pares van morir, amb pocs mesos de diferència, ella i el seu germà petit van anar a viure en un orfenat de Katmandú. El germà gran es va quedar […]",
+      "url": "https://beteve.cat/vides-en-primera-persona/chandra-kala-clemente-adoptada-nepal/",
+      "published": "2026-10-19T21:27:22+02:00",
+      "category": "adopció",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/chandra-kala1-2026-10-13.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Serielizados Fest col·loca Barcelona en l'epicentre mundial de les sèries durant 10 dies",
+      "excerpt": "Fins al 28 d'octubre, la 13a edició del festival acollirà una trentena d'estrenes de sèries, trobades amb creadors, classes magistrals i homenatges a la història de la televisió",
+      "url": "https://www.3cat.cat/3catinfo/el-serielizados-fest-colloca-barcelona-en-lepicentre-mundial-de-les-series-durant-10-dies/noticia/3434927/",
+      "published": "2026-10-19T21:17:00+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/3/1792428276135.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Radden Keefe: \"Creus que els que més estimes són els que més coneixes, però poden acabar sent uns desconeguts\"",
+      "excerpt": "L'autor publica \"El fill de l'oligarca\", que explica la història de la mort d'un noi londinenc de 19 anys que es feia passar pel fill d'un oligarca rus sense que els seus pares en sabessin res",
+      "url": "https://www.3cat.cat/3catinfo/radden-keefe-creus-que-els-que-mes-estimes-son-els-que-mes-coneixes-pero-poden-acabar-sent-uns-desconeguts/noticia/3434857/",
+      "published": "2026-10-19T21:10:55+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/4/1792417339749.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Retorn de l’estabilitat: dimarts marcat per les clarianes i el contrast tèrmic entre el dia i la nit",
+      "excerpt": "La previsió meteorològica per a aquest dimarts, 20 d’octubre, anuncia un retorn de l’estabilitat. La fresca matinal passarà a ser suavitat al migdia. Al llarg de la matinada no es descarta encara algun ruixat entre feble i moderat. Previsió horària per a Barcelona: Dels núvols matinals al sol de la tarda Després d’un dilluns amb […]",
+      "url": "https://beteve.cat/medi-ambient/dimarts-retorn-del-sol/",
+      "published": "2026-10-19T20:47:37+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/dillun_2010-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -550,8 +595,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "L’estat francès estén les quedes nocturnes a París i més ciutats arran dels aldarulls",
-      "excerpt": "Les restriccions també afectaran Lilla, Douai, Wattignies, Denain i Coulaines · A Perpinyà no s'ha anunciat cap queda tot i els aldarulls de dissabte que van acabar amb 27 detinguts",
+      "title": "L’estat francès estén les quedes nocturnes a París, Lió, Niça i més ciutats arran dels aldarulls",
+      "excerpt": "Les restriccions afecten tota la població en determinades zones de París i Lió, però es limiten als menors en unes altres ciutats",
       "url": "https://www.vilaweb.cat/noticies/lestat-frances-esten-les-quedes-nocturnes-a-paris-i-mes-ciutats-arran-dels-aldarulls/",
       "published": "2026-10-19T19:13:55+02:00",
       "category": "França",
@@ -561,7 +606,7 @@
     {
       "source": "ARA",
       "title": "Vito Quiles acaba expulsat de l'Autònoma (i de l'IKEA)",
-      "excerpt": "Fa un any Vito Quiles es va limitar a dedicar unes breus paraules als seus seguidors al pàrquing de la facultat de Comunicació de la Universitat Autònoma de Barcelona (UAB). Enguany ni tan sols ha arribat al pàrquing (en aquest cas d'un acte convocat a la Plaça Cívica) perquè centenars d'estudiants s'han manifestat per evitar-ho. Com l'octubre del 2025, els Mossos han carregat contra una multitud que escridassava la presència de l'agitador ultra i dels seus seguidors, i l'acte previst a la UAB ha acabat…",
+      "excerpt": "Fa un any Vito Quiles es va limitar a dedicar unes breus paraules als seus seguidors al pàrquing de la facultat de Comunicació de la Universitat Autònoma de Barcelona (UAB). Enguany ni tan sols ha arribat al pàrquing (en aquest cas d'un acte convocat a la plaça Cívica) perquè centenars d'estudiants s'han manifestat per evitar-ho. Com l'octubre del 2025, els Mossos han carregat contra una multitud que escridassava la presència de l'agitador ultra i dels seus seguidors, i l'acte previst a la UAB ha acabat…",
       "url": "https://www.ara.cat/politica/vito-quiles-canvia-l-autonoma-l-ikea_1_5884037.html",
       "published": "2026-10-19T19:12:24+02:00",
       "category": "Actualitat",
@@ -695,7 +740,7 @@
       "url": "https://www.ara.cat/cultura/teatre/diran-militant-tens-mala-hostia-no-facis-cas-carme-portaceli_128_5880769.html",
       "published": "2026-10-19T18:00:00+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/2894db61-0607-471e-9ad1-7a664c1fef8d_16-9-aspect-ratio_default_0_x1838y1044.jpg",
+      "image": "https://static1.ara.cat/clip/2894db61-0607-471e-9ad1-7a664c1fef8d_source-aspect-ratio_default_0_x1838y1044.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -830,8 +875,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La fiscalia de Perpinyà demanarà presó per als implicats en les protestes de dissabte",
-      "excerpt": "Vint-i-set persones, nou de les quals menors d’edat, van ser detingudes arran dels aldarulls, amb destrosses i saqueigs, al centre de la ciutat",
+      "title": "Els primers condemnats pels aldarulls de Perpinyà queden en llibertat malgrat les peticions de presó de la fiscalia",
+      "excerpt": "El tribunal ha començat a jutjar els implicats en les protestes de dissabte, que van acabar amb vint-i-set detinguts, nou dels quals menors d'edat",
       "url": "https://www.vilaweb.cat/noticies/la-fiscalia-de-perpinya-demanara-preso-per-als-implicats-en-les-protestes-de-dissabte/",
       "published": "2026-10-19T16:07:59+02:00",
       "category": "Catalunya Nord",
@@ -1035,12 +1080,12 @@
     },
     {
       "source": "ARA",
-      "title": "El moviment de protesta del jovent s'encomana a Itàlia",
-      "excerpt": "Les protestes multitudinàries que des de fa un mes sacsegen França s'estan estenent pel continent i amenacen de desestabilitzar altres governs, més enllà del d'Emmanuel Macron. Aquest cap de setmana, Itàlia també ha viscut mobilitzacions que, en alguns casos, s'han convertit en aldarulls violents i enfrontaments entre els manifestants i la policia. Els problemes s'han concentrat sobretot a Milà, on la policia va detenir 271 persones entre dissabte i diumenge, la gran majoria menors.",
+      "title": "El malestar social cristal·litza en una onada de protestes arreu d'Europa",
+      "excerpt": "No només és França. A Itàlia, Bèlgica, Alemanya, Albània, Grècia, Portugal i Espanya també hi ha protestes en marxa. La majoria de les mobilitzacions tenen un rerefons comú: protestar contra l'increment del cost de la vida. En el cas d'Itàlia, les protestes han escalat aquest cap de setmana en paral·lel a les de França . Al nord del país, les mobilitzacions han acabat en aldarulls, sobretot a Milà, on la policia ha detingut 271 persones i la Fiscalia ha sol·licitat presó preventiva per a onze…",
       "url": "https://www.ara.cat/internacional/europa/moviment-protesta-jovent-s-encomana-italia_1_5883537.html",
       "published": "2026-10-19T13:52:35+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/411f0e26-7750-4931-ada3-cfd456cc0624_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/f7547a12-de58-4115-89b9-150346d4cbae_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1236,7 +1281,7 @@
     {
       "source": "3CatInfo",
       "title": "Tocs de queda a França, incloent-hi París, després dels aldarulls del cap de setmana",
-      "excerpt": "Macron no accepta la dimissió del ministre de l'Interior, i li demana que apliqui \"nous mètodes d'actuació\" policial per evitar més violència, aldarulls i saquejos",
+      "excerpt": "Macron no accepta la dimissió del ministre de l'Interior i li demana que apliqui \"nous mètodes d'actuació\" policial per evitar més violència, aldarulls i saquejos",
       "url": "https://www.3cat.cat/3catinfo/macron-no-accepta-la-dimissio-del-ministre-de-linterior-i-li-demana-nous-metodes-dactuacio/noticia/3434822/",
       "published": "2026-10-19T11:20:40+02:00",
       "category": "Actualitat",
@@ -1601,7 +1646,7 @@
     {
       "source": "ARA",
       "title": "Luis Enrique: \"Frenar Lamine? Molt fàcil!\"",
-      "excerpt": "L'exhibició de Lamine Yamal al camp del Betis va fer la volta al món en poca estona. Ja és normal que el davanter de Rocafonda deixi meravellat el planeta futbolístic partit rere partit. El Barça continua sent una piconadora, compta tots els partits per victòries i té el seu jugador franquícia en un estat de forma sensacional, amb gols, assistències i accions individuals que només estan a l'abast d'uns pocs escollits. Tota una garantia per a un club que, després de guanyar els deu partits…",
+      "excerpt": "\"Si no és el millor partit que es pot veure avui en dia, és dels millors\". Així definia Pedri el duel entre el París Saint-Germain i el Barça d'aquesta nit (21h, Movistar Liga de Campeones). El migcampista blaugrana va actuar de portaveu a la prèvia d'un enfrontament que centrarà totes les mirades. El totpoderós PSG, guanyador de les dues últimes Champions, rep un Barça que compta tots els partits per victòries marcant més de quatre gols de mitjana. Qui guanyi també es quedarà amb la…",
       "url": "https://www.ara.cat/esports/barca/catifa-vermella-millor-lamine-yamal_1_5882709.html",
       "published": "2026-10-19T07:00:34+02:00",
       "category": "Actualitat",
