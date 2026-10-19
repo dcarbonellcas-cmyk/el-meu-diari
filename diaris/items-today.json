@@ -109,7 +109,7 @@
     {
       "source": "3CatInfo",
       "title": "La dana Adam deixa al País Valencià tres víctimes mortals, greus inundacions i pobles incomunicats",
-      "excerpt": "La Generalitat ha ordenat la restricció de mobilitat en els municipis del litoral sud de València i nord d'Alacant",
+      "excerpt": "La Generalitat ha ordenat la restricció de mobilitat als municipis del litoral sud de València i el nord d'Alacant",
       "url": "https://www.3cat.cat/3catinfo/la-marina-alta-i-la-safor-concentren-la-pitjor-part-del-temporal-al-pais-valencia-on-ja-sha-activat-la-ume/noticia/3434797/",
       "published": "2026-10-19T07:26:23+02:00",
       "category": "Actualitat",
@@ -328,14 +328,44 @@
       "priority": "2 · Important"
     },
     {
-      "source": "ARA",
-      "title": "El govern francès demana tocs de queda \"parcials i localitzats\" i diu que s'han saquejat 3.000 comerços",
-      "excerpt": "La violència a França no s’atura. La jornada de mobilització dissabte passat contra l’augment del cost de la vida -que va tenir com també com a protagonistes milers de manifestants pacífics- ha derivat en una onada de violència mai vista al país gal. Davant la repetició diumenge de saqueigs massius de comerços i manifestacions no autoritzades, i de l'anunci per part del moviment de les armilles grogues d'una nova protesta per dissabte que ve, el primer ministre, Sebastien Lecornu, ha optat per autoritzar mesures extraordinàries.…",
-      "url": "https://www.ara.cat/internacional/europa/macron-rebutja-dimissio-ministre-l-interior-li-demana-nous-metodes-manifestants_1_5883211.html",
-      "published": "2026-10-19T07:55:14+02:00",
+      "source": "betevé",
+      "title": "David Olivares",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/david-olivares/",
+      "published": "2026-10-19T18:36:10+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/a5330de7-05bf-427c-a44a-0ea18614de84_16-9-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Andrea Gumes, més enllà de la panxa",
+      "excerpt": "Andrea Gumes espera una criatura. I va presentar el magazín diari Tardeo a Ràdio Primavera Sound durant quatre temporades. I ha fet o fa parella amb Anna Pacheco al pòdcast Ciberlocutorio . I amb Andreu Juanola a La cullerada . I amb Berta Gómez a Demasiadas mujeres . I ha presentat el programa Nervi a TV3. I va copresentar i codirigir La turra , abans que ho fes Alba Riera en solitari. I ha publicat articles a Rockdelux sobre sèries. I parla de llibres al…",
+      "url": "https://www.ara.cat/media/andrea-gumes-mes-enlla-panxa_129_5883991.html",
+      "published": "2026-10-19T18:27:48+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/24c8ca16-61a7-4714-9104-961692188976_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Un arbre es desploma a prop de la terrassa d’un bar al passeig de Lluís Companys sense causar ferits",
+      "excerpt": "Gran ensurt a la vorera del passeig de Lluís Companys cantonada amb la ronda de Sant Pere. Pels volts de les 17 h, un arbre de gran altura i dimensions s’ha desplomat a la vorera tot just al costat de la terrassa d’un bar i molt a prop del carril bici que hi passa. Afortunadament, […]",
+      "url": "https://beteve.cat/societat/arbre-desploma-costat-terrassa-bar-passeig-lluis-companys-sense-ferits/",
+      "published": "2026-10-19T18:25:58+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/arbre-caigut-2-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Arxivada la causa judicial que ha impedit l'eutanàsia de Francesc A. durant dos anys",
+      "excerpt": "Nou gir de guió del cas de Francesc A., l'home que fa dos anys que espera l'eutanàsia perquè un recurs judicial de la seva família la va aturar. Aquest dilluns el Tribunal Superior de Justícia de Catalunya (TSJC) ha arxivat la causa que havia paralitzat el procés de mort assistida, cosa que permetrà reprendre'l. Segons ha avançat la SER, només podria impedir-ho la presentació d'un recurs abans de cinc dies, i és poc probable que passi, perquè tots els implicats estan d'acord en l'arxivament de…",
+      "url": "https://www.ara.cat/societat/justicia/arxivada-causa-judicial-impedit-l-eutanasia-francesc-durant-anys_1_5883940.html",
+      "published": "2026-10-19T18:25:33+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a157f3e0-839f-4928-b881-b66877e7e461_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -389,8 +419,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Centenars de persones es concentren a la UAB contra la visita de l’agitador ultra Vito Quiles",
-      "excerpt": "Els Mossos despleguen un ampli dispositiu als accessos del campus per a impedir-hi l’entrada de Quiles, a qui la universitat no ha autoritzat a fer-hi un acte",
+      "title": "L’agitador ultra Vito Quiles fracassa en l’intent de provocació a la UAB",
+      "excerpt": "Un miler de persones es concentren en una protesta antifeixista a la plaça Cívica, mentre els Mossos blinden els accessos a la universitat",
       "url": "https://www.vilaweb.cat/noticies/centenars-uab-visita-agitador-ultra-vito-quiles/",
       "published": "2026-10-19T17:43:31+02:00",
       "category": "Societat",
@@ -545,12 +575,12 @@
       "published": "2026-10-19T15:41:02+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/2/1792414633822.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431260/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/quins-aparcaments-segurs-per-a-bicicletes-hi-ha-a-catalunya-es-dupliquen-pero-encara-son-pocs/noticia/3434591/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -1235,6 +1265,16 @@
       "published": "2026-10-19T08:00:02+02:00",
       "category": "País",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "França intenta frenar l'esclat de violència amb tocs de queda a quatre ciutats",
+      "excerpt": "La violència a França no s’atura. La jornada de mobilització dissabte passat contra l’augment del cost de la vida —-que va tenir com també com a protagonistes milers de manifestants pacífics— ha derivat en una onada de violència mai vista al país. Davant la repetició diumenge de saqueigs massius de comerços i manifestacions no autoritzades, i de l'anunci per part del moviment de les armilles grogues d'una nova protesta per dissabte que ve, el primer ministre, Sebastien Lecornu, ha optat per autoritzar mesures extraordinàries. El…",
+      "url": "https://www.ara.cat/internacional/europa/macron-rebutja-dimissio-ministre-l-interior-li-demana-nous-metodes-manifestants_1_5883211.html",
+      "published": "2026-10-19T07:55:14+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a5330de7-05bf-427c-a44a-0ea18614de84_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
