@@ -3,6 +3,19 @@
   "pages": [
     {
       "page": 2,
+      "title": "La previsió de dilluns: pluja més intensa, abundant i generalitzada",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/",
+      "published": "2026-10-18T13:14:05+02:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431199/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/"
+      }
+    },
+    {
+      "page": 3,
       "title": "La Fira Mediterrània de Manresa clou la 29a edició amb rècord de professionals acreditats",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/la-fira-mediterrania-de-manresa-clou-la-29a-edicio-amb-record-de-professionals-acreditats/",
@@ -10,7 +23,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 3,
+      "page": 4,
       "title": "L’associació de batlles convoca mobilitzacions avui contra els disturbis de dissabte a Perpinyà",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/lassociacio-de-batlles-convoca-mobilitzacions-avui-contra-els-disturbis-de-dissabte-a-perpinya/",
