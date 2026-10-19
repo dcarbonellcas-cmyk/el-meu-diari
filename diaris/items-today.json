@@ -9,7 +9,12 @@
       "published": "2026-10-19T14:21:52+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/4/1792402291849.jpg",
-      "priority": "1 · Urgent"
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431258/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-perill-de-les-rieres-quan-plou-un-pam-daigua-es-suficient-per-arrossegar-una-persona/noticia/3434812/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -72,8 +77,18 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo",
+      "title": "La dana Adam deixa al País Valencià tres víctimes mortals, 145 municipis confinats i pobles incomunicats",
+      "excerpt": "La Generalitat ha ordenat també la restricció de mobilitat en els municipis del litoral sud de València i nord d'Alacant",
+      "url": "https://www.3cat.cat/3catinfo/la-marina-alta-i-la-safor-concentren-la-pitjor-part-del-temporal-al-pais-valencia-on-ja-sha-activat-la-ume/noticia/3434797/",
+      "published": "2026-10-19T07:26:23+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/4/1792406645249.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
-      "title": "La dana ‘Adam' deixa quatre víctimes mortals i 900.000 confinats al seu pas pel mediterrani",
+      "title": "La dana ‘Adam' deixa quatre víctimes mortals al seu pas pel mediterrani",
       "excerpt": "",
       "url": "https://www.ara.cat/societat/l-ume-mobilitza-d-urgencia-valencia-pel-risc-d-inundacions_6_5883136.html",
       "published": "2026-10-19T07:10:44+02:00",
@@ -84,7 +99,7 @@
     {
       "source": "VilaWeb",
       "title": "Un temporal històric causa estralls greus i quatre víctimes mortals",
-      "excerpt": "La Generalitat ha ordenat el confinament de més de 800.000 persones arran dels estralls del temporal al País Valencià",
+      "excerpt": "La Generalitat Valenciana aixeca el confinament de 137 municipis, però manté les restriccions en vuit localitats de la Safor i la Marina Alta",
       "url": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
       "published": "2026-10-19T07:00:26+02:00",
       "category": "Societat",
@@ -239,6 +254,66 @@
     },
     {
       "source": "ARA",
+      "title": "Miguel Ángel del Arco Blanco, Premio Nacional d'història per destapar les mentides de Franco sobre la fam",
+      "excerpt": "Miguel Ángel del Arco Blanco (Granada, 1978), historiador i catedràtic de la Universitat de Granada, ha estat guardonat amb el Premio Nacional d'història d'Espanya 2026, concedit pel ministeri de Cultura i dotat amb 30.000 euros, per la seva obra La hambruna española: victoria y muerte en la posguerra (Crítica) . El guardó posa el focus en una recerca que desmunta la versió oficial que la dictadura va difondre durant dècades. Al llibre, l'historiador explica com totes les grans fams del segle XX estan relacionades amb…",
+      "url": "https://www.ara.cat/cultura/memoria-historica/miguel-angel-arco-blanco-premio-nacional-historia-destapar-mentides-franco-fam_1_5883792.html",
+      "published": "2026-10-19T15:54:30+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/84d6652c-fe6b-41fd-adad-71fe39d3d9f1_4-3-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El robatori del Louvre, un any després: ni rastre de les joies i un museu encara desprotegit",
+      "excerpt": "Les vuit joies sostretes continuen desaparegudes, mentre els treballadors denuncien la manca de personal i reclamen més inversions en seguretat",
+      "url": "https://www.vilaweb.cat/noticies/robatori-louvre-joies-museu-desprotegit/",
+      "published": "2026-10-19T15:52:02+02:00",
+      "category": "França",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El dolor de posar veu al botxí: l'intèrpret de Nuremberg que va perdre els pares a Auschwitz",
+      "excerpt": "Patricia Jordan tenia 21 anys i s'acabava de graduar a l'Escola d'Interpretació de Ginebra quan la van seleccionar per fer d'intèrpret als judicis de Nuremberg. Era la primera vegada a la història que es feia una traducció simultània. \"Això de parlar per un micròfon i estar sentint alhora una veu incorpòria a través dels auriculars era una cosa profundament inquietant. Va ser la meva primera feina i la més important. Hi vaig anar amb l'entusiasme innocent dels meus 21 anys. Quan vaig tornar a casa…",
+      "url": "https://www.ara.cat/cultura/dolor-posar-veu-botxi-l-interpret-nuremberg-perdre-pares-auschwitz_1_5883444.html",
+      "published": "2026-10-19T15:41:28+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3bcfb880-29eb-44ac-942c-556fa0c89252_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "In-Edit Festival 2026: el millor del cinema documental musical",
+      "excerpt": "Torna l’In-Edit Barcelona. El festival internacional fet des de Barcelona i especialitzat en cinema documental musical celebra la 24a edició del 29 d’octubre al 8 de novembre del 2026 als Moby Aribau Cinemes de Barcelona. El festival retrà homenatge a la cantant Marianne Faithfull. També es projectarà Flamenco, el debut en el cine musical de […]",
+      "url": "https://beteve.cat/agenda/programa-in-edit-barcelona/",
+      "published": "2026-10-19T15:32:39+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/10/in-edit-barcelona-dates-2026-07-08.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Feijóo promet d’acabar amb la immersió lingüística i desencadena una allau de crítiques",
+      "excerpt": "El PSC, Junts, ERC i la Intersindical carreguen contra la proposta electoral del PP amb vista a les eleccions del 29-N",
+      "url": "https://www.vilaweb.cat/noticies/feijoo-promet-dacabar-amb-la-immersio-linguistica-i-desencadena-una-allau-de-critiques/",
+      "published": "2026-10-19T15:21:56+02:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Concert de Maika Makovski, Cruïlla 2026",
+      "excerpt": "S’han dit moltes coses de Maika Makovski, però la seva capacitat de reinventar-se és inesgotable. Multidisciplinària, lliure i apassionada, la cantant fa dues dècades que fusiona rock, poesia i pura emoció. Al Cruïlla 2026, Makovski va arribar en un dels moments més sòlids de la seva carrera. Celebrant els 20 anys del seu debut Kradiaw […]",
+      "url": "https://beteve.cat/cultura/concert-de-maika-makovski-cruilla-2026/",
+      "published": "2026-10-19T14:56:52+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/maika-makovski-cruilla-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
       "title": "Quan plou, ens recordem de Mazón",
       "excerpt": "En relativament poc temps, ens hem hagut de fer la idea que el canvi climàtic ha deixat de ser un avís o una alarma i ha començat (pel que sembla, només ha començat) a convertir-se no tan sols en una realitat perceptible, sinó directament en una amenaça real. Alguns experts diuen que el clima mediterrani està experimentant un procés de tropicalització, i que per aquest motiu són de cada vegada més freqüents els aiguats, les inundacions i fenòmens nous, o fins ara insòlits o desconeguts,…",
       "url": "https://www.ara.cat/opinio/plou-recordem-mazon_129_5883777.html",
@@ -299,6 +374,16 @@
     },
     {
       "source": "betevé",
+      "title": "Luis Enrique declara el seu amor al Barça, però “vull guanyar amb el PSG”",
+      "excerpt": "El partit entre el PSG i el Barça és l’enfrontament més destacat de la jornada a la Champions. Francesos i catalans arriben en un bon estat de forma i, ara mateix, són dos dels millors equips del món. A la banqueta rival hi haurà un vell conegut dels blaugrana, Luis Enrique Martínez, que no ha […]",
+      "url": "https://beteve.cat/esports/luis-enrique-declara-seu-amor-barca-vol-guanyar-psg-champions/",
+      "published": "2026-10-19T14:14:25+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/PICTO-LUCHO-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "El Racó del Mercat de Provençals, el temple de la tripa: “En fem 120 kg a la setmana”",
       "excerpt": "“Vaig néixer en un mercat i crec que em jubilaré en un altre”, diu orgullosa la Sònia López, l’ànima d’El Racó del Mercat (Menorca, 19), el bar del Mercat de Provençals. Ella hi posa el ritme, el tracte i el somriure i el seu equip funciona al mateix compàs, fi com l’engranatge d’un rellotge. Si […]",
       "url": "https://beteve.cat/estils-de-vida/raco-mercat-provencals-temple-tripa/",
@@ -344,7 +429,7 @@
       "url": "https://www.ara.cat/politica/feijoo-signa-contracte-espanya-torna-questionar-immersio-linguistica-catalunya_1_5883584.html",
       "published": "2026-10-19T14:02:09+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/3dab50f2-b4f3-466f-8739-4ebffaac075d_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/dce87505-a767-4e12-90e0-ca902bdc0d1e_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -430,7 +515,7 @@
     {
       "source": "VilaWeb",
       "title": "L’Audiència de Tarragona ratifica la negativa a amnistiar el periodista Carles Herèdia per una protesta contra Vox",
-      "excerpt": "El tribunal manté el procediment penal per una protesta contra Vox perquè considera que no forma part del procés independentista",
+      "excerpt": "El tribunal manté el procediment penal per una protesta contra Vox perquè considera que no formava part del procés independentista",
       "url": "https://www.vilaweb.cat/noticies/laudiencia-de-tarragona-ratifica-la-negativa-a-amnistiar-el-periodista-carles-heredia-per-una-protesta-contra-vox/",
       "published": "2026-10-19T13:08:35+02:00",
       "category": "Societat",
@@ -620,11 +705,11 @@
     {
       "source": "ARA",
       "title": "Llarena demora l'arxivament de la causa contra Puigdemont, però veu inevitable l'amnistia",
-      "excerpt": "El jutge Pablo Llarena veu inevitable l'amnistia de Carles Puigdemont, però, de moment, es resisteix a propiciar-la. Aquesta setmana estava previst que el magistrat del Tribunal Suprem remetés la causa contra l'expresident de la Generalitat i els exconsellers Toni Comín i Lluís Puig al tribunal del judici del Procés, presidit per Manuel Marchena, que és qui haurà d'aplicar l'amnistia definitiva als exiliats. Ara bé, l'instructor ha posat el fre i s'ha limitat a tombar el recurs que va presentar Vox i confirmar l'aixecament de les…",
+      "excerpt": "Pablo Llarena assumeix que el Tribunal Suprem està abocat a aplicar l'amnistia a Carles Puigdemont, però es resisteix a propiciar-ho. Estava previst que aquesta setmana el jutge instructor conclogués el sumari i remetés la causa contra l'expresident de la Generalitat i els exconsellers Toni Comín i Lluís Puig al tribunal del judici del Procés perquè Manuel Marchena apliqui l'amnistia total i definitiva als exiliats, havent de donar primer un termini de cinc dies a les parts per tornar-se a pronunciar. Ara bé, l'instructor ha alentit…",
       "url": "https://www.ara.cat/politica/llarena-resisteix-s-arxivi-causa-puigdemont_1_5883376.html",
       "published": "2026-10-19T10:23:52+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/335a29a3-08a7-46a2-bc23-b6215a905566_16-9-aspect-ratio_default_1043137.jpg",
+      "image": "https://static1.ara.cat/clip/a8ead45b-3642-483d-9a9f-1c1e4f76ea94_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -875,21 +960,11 @@
     {
       "source": "ARA",
       "title": "Al cor de la dana del País Valencià: \"Plovia tant que l'aigua ens entrava per les finestres d'un tercer pis\"",
-      "excerpt": "\"M'he despertat perquè plovia tant que l'aigua ens entrava a casa per les finestres, fins al punt que al menjador s'hi ha acumulat un dit d'aigua. I estic parlant d'un tercer pis\". Sergi Morell, veí d'Oliva, no oblidarà fàcilment la dana Adam , que ha deixat registres històrics en les comarques valencianes de la Safor i la Marina Alta: fins a 720 litres per metre quadrat en prop de 36 hores. L'episodi també ha desbordat rius, ha negat sis municipis i ha deixat centenars de…",
+      "excerpt": "\"M'he despertat perquè plovia tant que l'aigua ens entrava a casa per les finestres fins al punt que al menjador s'ha acumulat un dit d'aigua. I estic parlant d'un tercer pis\". Sergi Morell, veí d'Oliva, no oblidarà fàcilment la dana Adam que ha deixat registres històrics en les comarques valencianes de la Safor i la Marina Alta: fins a 720 litres per metre quadrat en prop de 36 hores. L'episodi també ha desbordat rius, ha negat sis municipis i ha deixat centenars de persones atrapades…",
       "url": "https://www.ara.cat/societat/successos/victima-acumulats-historics-pel-temporal-pluja-pais-valencia_1_5883190.html",
       "published": "2026-10-19T07:36:18+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/3dead9d7-4454-4dce-9bdc-88f776eb9557_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "3CatInfo",
-      "title": "La dana Adam deixa al País Valencià una segona víctima mortal, 145 municipis confinats i pobles incomunicats",
-      "excerpt": "La Generalitat ha ordenat també la restricció de mobilitat en els municipis del litoral sud de València i nord d'Alacant",
-      "url": "https://www.3cat.cat/3catinfo/la-marina-alta-i-la-safor-concentren-la-pitjor-part-del-temporal-al-pais-valencia-on-ja-sha-activat-la-ume/noticia/3434797/",
-      "published": "2026-10-19T07:26:23+02:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/9/4/1792406645249.jpg",
+      "image": "https://static1.ara.cat/clip/3dead9d7-4454-4dce-9bdc-88f776eb9557_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -909,7 +984,7 @@
       "url": "https://www.ara.cat/esports/barca/catifa-vermella-millor-lamine-yamal_1_5882709.html",
       "published": "2026-10-19T07:00:34+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/e33467ec-f976-4727-bea3-5a1e0c75897f_16-9-aspect-ratio_default_1061135.jpg",
+      "image": "https://static1.ara.cat/clip/e33467ec-f976-4727-bea3-5a1e0c75897f_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
