@@ -1,0 +1,300 @@
+{
+  "version": 2,
+  "pages": [
+    {
+      "page": 2,
+      "title": "Una víctima i acumulats històrics pel temporal de pluja al País Valencià",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/successos/victima-acumulats-historics-pel-temporal-pluja-pais-valencia_1_5883190.html",
+      "published": "2026-10-19T07:36:18+02:00",
+      "priority": "1 · Urgent"
+    },
+    {
+      "page": 3,
+      "title": "Demanen el confinament de la població de la Marina Alta i la Safor arran dels estralls d’un temporal històric",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/meteocat-amplia-avis-perill-pluja-intensa-set-comarques/",
+      "published": "2026-10-19T07:00:26+02:00",
+      "priority": "1 · Urgent"
+    },
+    {
+      "page": 4,
+      "title": "Protecció Civil ajorna la prova de sirenes de risc químic per la previsió de pluja",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/proteccio-civil-ajorna-prova-sirenes-risc-quimic-pluja/",
+      "published": "2026-10-19T08:52:43+02:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 5,
+      "title": "La previsió de dilluns: pluja més intensa, abundant i generalitzada",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/",
+      "published": "2026-10-18T13:14:05+02:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431215/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/"
+      }
+    },
+    {
+      "page": 6,
+      "title": "Exposicions a Barcelona: la teva agenda de museus",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
+      "published": "2026-10-19T08:58:55+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 7,
+      "title": "[VÍDEOS] La gota freda converteix en rius carrers convertits de la Marina Alta i la Safor",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/videos-la-gota-freda-converteix-en-rius-carrers-convertits-de-la-marina-alta-i-la-safor/",
+      "published": "2026-10-19T08:58:50+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 8,
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-10-19T08:50:02+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 9,
+      "title": "Per què les rieres del Maresme són tan perilloses?",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/per-que-les-rieres-del-maresme-son-tan-perilloses/noticia/3434790/",
+      "published": "2026-10-19T08:30:29+02:00",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431212/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/per-que-les-rieres-del-maresme-son-tan-perilloses/noticia/3434790/"
+      }
+    },
+    {
+      "page": 10,
+      "title": "La detecció precoç, clau per combatre el càncer de mama: “Em vaig notar un bony a la dutxa”",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/deteccio-precoc-cancer-mama-dia-mundial-2026/",
+      "published": "2026-10-19T08:10:16+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 11,
+      "title": "Adif preveu obrir aquest dilluns la segona via d’alta velocitat entre Barcelona i Madrid",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/mobilitat/adif-obrir-dilluns-segona-via-alta-velocitat-barcelona-madrid/",
+      "published": "2026-10-19T08:04:07+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 12,
+      "title": "Les portades del dilluns 19 de octubre de 2026",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-dilluns-19-de-octubre-de-2026/",
+      "published": "2026-10-19T08:00:02+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 13,
+      "title": "Macron rebutja la dimissió del ministre de l'Interior i li demana \"nous mètodes\" contra els manifestants",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/europa/macron-rebutja-dimissio-ministre-l-interior-li-demana-nous-metodes-manifestants_1_5883211.html",
+      "published": "2026-10-19T07:55:14+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 14,
+      "title": "La Marina Alta i la Safor concentren les precipitacions al País Valencià: més de 600 litres per metre quadrat",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-marina-alta-i-la-safor-concentren-la-pitjor-part-del-temporal-al-pais-valencia-on-ja-sha-activat-la-ume/noticia/3434797/",
+      "published": "2026-10-19T07:26:23+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 15,
+      "title": "\"No podem oblidar totes les coses bones que tenim només perquè existeixin feixistes\"",
+      "source": "ARA",
+      "articleUrl": "https://llegim.ara.cat/entrevistes/alessandro-baricco-no-oblidar-totes-coses-bones-nomes-perque-existeixin-feixistes_128_5879756.html",
+      "published": "2026-10-19T07:15:13+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 16,
+      "title": "La dana 'Adam' bat rècords històrics amb 600 litres per metre quadrat al País Valencià i obliga a activar l'UME",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/l-ume-mobilitza-d-urgencia-valencia-pel-risc-d-inundacions_6_5883136.html",
+      "published": "2026-10-19T07:10:44+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 17,
+      "title": "Una catifa vermella per al millor Lamine Yamal",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/esports/barca/catifa-vermella-millor-lamine-yamal_1_5882709.html",
+      "published": "2026-10-19T07:00:34+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 18,
+      "title": "\"Macron és la fallada de l'últim intent de solucionar la crisi d'identitat francesa\"",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/europa/macron-significat-fallada-l-ultim-intent-solucionar-crisi-d-identitat-francesa_128_5883093.html",
+      "published": "2026-10-19T07:00:34+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 19,
+      "title": "Sorpresa pel preu de les vacances: per què fer turisme és cada cop més car?",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/economia/mercats/sorpresa-pel-preu-vacances-turisme-cop-mes-car_1_5878002.html",
+      "published": "2026-10-19T07:00:33+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 20,
+      "title": "La fórmula Rufián per \"guanyar els fatxes\" el 29-N",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/formula-rufian-guanyar-fatxes-29-n_1_5881173.html",
+      "published": "2026-10-19T07:00:33+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 21,
+      "title": "Viure al carrer, el pic de la soledat",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/emergencia-social/viure-carrer-pic-soledat_1_5881458.html",
+      "published": "2026-10-19T07:00:32+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 22,
+      "title": "Els Mossos, preocupats per l'accés a les armes de foc de les bandes juvenils",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/successos/mossos-preocupats-l-acces-armes-foc-bandes-juvenils_1_5881263.html",
+      "published": "2026-10-19T07:00:32+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 23,
+      "title": "1.000 euros de deute públic per segon",
+      "source": "ARA",
+      "articleUrl": "https://empreses.ara.cat/opinio/1-000-euros-deute-public-segon_129_5881594.html",
+      "published": "2026-10-19T07:00:31+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 24,
+      "title": "Mireia Ingla, l'escudera de Junqueras a qui Junts nega la salutació",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/mireia-ingla-l-escudera-junqueras-junts-nega-salutacio_1_5879656.html",
+      "published": "2026-10-19T07:00:31+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 25,
+      "title": "L’antiga fàbrica on un centenar de professionals posen a prova una altra manera de construir",
+      "source": "ARA",
+      "articleUrl": "https://diumenge.ara.cat/diumenge/sis-dies-construint-la-utopia-en-una-antiga-colonia-textil_130_5877479.html",
+      "published": "2026-10-19T07:00:30+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 26,
+      "title": "El petroli de les Malvines desferma una nova batalla entre Buenos Aires i Londres",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/america/petroli-malvines-desferma-nova-batalla-buenos-aires-londres_130_5880111.html",
+      "published": "2026-10-19T07:00:28+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 27,
+      "title": "Cares noves a les cúpules de Ford i Mango",
+      "source": "ARA",
+      "articleUrl": "https://empreses.ara.cat/directius/cares-noves-cupules-ford-mango_1_5878986.html",
+      "published": "2026-10-19T07:00:27+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 28,
+      "title": "El 8% dels homes asiàtics són descendents del Genguis Kan",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/ciencia-medi-ambient/8-dels-homes-asiatics-son-descendents-genguis-kan_1_5876641.html",
+      "published": "2026-10-19T07:00:27+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 29,
+      "title": "Maternitat i llibertat",
+      "source": "ARA",
+      "articleUrl": "https://llegim.ara.cat/opinio/maternitat-llibertat_129_5879627.html",
+      "published": "2026-10-19T07:00:26+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 30,
+      "title": "Sis mites sobre la longevitat que els experts volen que deixem de repetir",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/estils/sis-mites-longevitat-experts-volen-deixem-repetir_130_5878994.html",
+      "published": "2026-10-19T07:00:26+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 31,
+      "title": "\"A l'Estat entren fins a 100.000 tones d’oli d’oliva provinent de Tunísia i del Marroc, i es perd el fil d’on van a parar\"",
+      "source": "ARA",
+      "articleUrl": "https://mengem.ara.cat/xefs/l-entren-fins-100-00-tones-d-oli-d-oliva-provinent-tunisia-marroc-perd-fil-d-parar_128_5878892.html",
+      "published": "2026-10-19T07:00:25+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 32,
+      "title": "Les Planes d'Hostoles vol enviar alertes via SMS davant d'incendis o riuades als gorgs",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/les-planes-dhostoles-vol-enviar-alertes-via-sms-davant-dincendis-o-riuades-als-gorgs/noticia/3434286/",
+      "published": "2026-10-19T06:55:02+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 33,
+      "title": "Andorra signa el text de l'acord d'associació amb la Unió Europea: què pot implicar?",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/andorra-signa-el-text-de-lacord-dassociacio-amb-la-unio-europea-que-pot-implicar/noticia/3434467/",
+      "published": "2026-10-19T06:53:26+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 34,
+      "title": "El mercat ocult del lloguer, més opac i més difícil d'accedir-hi: \"Ja gairebé no posem anuncis\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/el-mercat-ocult-del-lloguer-mes-opac-i-mes-dificil-daccedir-hi-ja-gairebe-no-posem-anuncis/noticia/3434574/",
+      "published": "2026-10-19T06:51:58+02:00",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431190/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-mercat-ocult-del-lloguer-mes-opac-i-mes-dificil-daccedir-hi-ja-gairebe-no-posem-anuncis/noticia/3434574/"
+      }
+    },
+    {
+      "page": 35,
+      "title": "S’acaba la Fira Mediterrània de Manresa del 2026 amb rècord de professionals acreditats",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/la-fira-mediterrania-de-manresa-clou-la-29a-edicio-amb-record-de-professionals-acreditats/",
+      "published": "2026-10-19T02:28:41+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 36,
+      "title": "L’associació de batlles convoca mobilitzacions avui contra els disturbis de dissabte a Perpinyà",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/lassociacio-de-batlles-convoca-mobilitzacions-avui-contra-els-disturbis-de-dissabte-a-perpinya/",
+      "published": "2026-10-19T02:25:11+02:00",
+      "priority": "3 · Altres notícies"
+    }
+  ]
+}
