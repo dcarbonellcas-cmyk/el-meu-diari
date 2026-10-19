@@ -2,6 +2,16 @@
   "date": "2026-10-19",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "[VÍDEO] Rescaten amb helicòpters persones atrapades per les inundacions a Oliva",
+      "excerpt": "Les inundacions han atrapat uns quants veïns en vehicles i teulades",
+      "url": "https://www.vilaweb.cat/noticies/video-rescaten-helicopters-persones-atrapades-oliva/",
+      "published": "2026-10-19T11:08:34+02:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "Una víctima i acumulats històrics pel temporal de pluja al País Valencià",
       "excerpt": "Una víctima i acumulats històrics. Aquest és el balanç provisional de la dana Adam al País Valencià, atès que encara es registren forts ruixats, i que ja deixa xifres de més de 600 l/m² a les comarques de la Safor i la Marina Alta. En concret, a municipis com Pego se superen els 638,5 l/m² en 24 hores i al llogaret de Forna, pertanyent a la localitat de l'Atzúbia, els 635,2 l/m², segons dades de l'Associació Valenciana de Meteorologia (Avamet). L'Aemet assegura que podria tractar-se…",
@@ -30,6 +40,36 @@
       "category": "Societat",
       "image": null,
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "betevé",
+      "title": "El govern preveu que l’economia catalana creixi un 2,6 % el 2026 tot i l’encariment de l’energia",
+      "excerpt": "(ACN) El producte interior brut (PIB) de Catalunya creixerà un 2,6 % aquest 2026 i mantindrà un “dinamisme notable” malgrat l’encariment de l’energia, segons apunta el darrer escenari macroeconòmic publicat pel Departament d’Economia i Finances. Per a l’any que ve, el govern preveu una pujada més moderada del PIB, del 2,1 %. L’escenari que publica […]",
+      "url": "https://beteve.cat/economia/govern-preveu-economia-catalana-creixi-2-6-per-cent-2026/",
+      "published": "2026-10-19T11:44:04+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/07/port-barcelona-2-2026-07-17.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Col·lectiu Primer d’Octubre d’ERC rebutja l’acord amb Podem i l’elecció de Rufián",
+      "excerpt": "El sector crític denuncia que l’aliança posa en qüestió la identitat independentista i reclama canviar l’estratègia",
+      "url": "https://www.vilaweb.cat/noticies/collectiu-primer-doctubre-erc-podem-rufian/",
+      "published": "2026-10-19T11:28:14+02:00",
+      "category": "eleccions espanyoles",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "El Sindicat de Llogateres i estudiants “ocupen” la UB per preparar la vaga de l’11-N",
+      "excerpt": "(ACN/Redacció) El Sindicat de Llogateres i entitats del moviment estudiantil han convertit l’Edifici Històric de la Universitat de Barcelona (UB) en el “centre neuràlgic” per preparar la vaga general de l’11-N. La intenció és convertir l’espai en un “punt de trobada dels comitès de vaga dels treballadors” i poder-hi fer “les assemblees i les tasques […]",
+      "url": "https://beteve.cat/economia/sindicat-llogateres-ocupen-ub-vaga-general/",
+      "published": "2026-10-19T11:12:03+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/ocupen-ub-vaga-general-2026-10-19.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -88,13 +128,23 @@
       "priority": "2 · Important"
     },
     {
-      "source": "ARA",
-      "title": "Què expressen els saquejos a les botigues de luxe?",
-      "excerpt": "Aparadors fets miques, botigues buidades, bosses de luxe que desapareixen en massa. El passat 17 d’octubre, diverses cases de luxe franceses van ser saquejades en una jornada de protestes socials a tot el país. Dior, Celine, Hermès, Louis Vuitton… No són comerços qualssevol, sinó temples de l’exclusivitat, aparadors d’un sector que mercadeja amb la distinció –i la desigualtat– social. Els saquejos es van produir en el context de les mobilitzacions estudiantils franceses, que reclamen més recursos per a l’educació pública, més professors, millors infraestructures i…",
-      "url": "https://diumenge.ara.cat/diumenge/expressen-saquejos-botigues-luxe_129_5883427.html",
-      "published": "2026-10-19T10:49:27+02:00",
+      "source": "VilaWeb",
+      "title": "L’Audiència de Barcelona obliga a reobrir la causa contra els Mossos per un tret de foam a un fotoperiodista",
+      "excerpt": "El fotoperiodista Joan Gálvez va rebre l’impacte d’un projectil a l’espatlla mentre cobria una manifestació pro-palestina el 2025",
+      "url": "https://www.vilaweb.cat/noticies/audiencia-barcelona-reobrir-causa-mossos-foam-fotoperiodista/",
+      "published": "2026-10-19T11:46:34+02:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Canadà, pendent de si Alberta aprova celebrar un referèndum d'independència",
+      "excerpt": "Una consulta promoguda pels partits independentistes d'aquesta província, rica en petroli i gas, proposa fer un referèndum per separar-se del Canadà",
+      "url": "https://www.3cat.cat/3catinfo/el-canada-pendent-de-si-alberta-aprova-celebrar-un-referendum-dindependencia/noticia/3434799/",
+      "published": "2026-10-19T11:45:41+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/7ce59752-e16e-466c-9b7b-4bedf6981420_source-aspect-ratio_default_0_x4046y599.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/2/1792395986728.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -102,9 +152,49 @@
       "title": "Serielizados Fest 2026: Programa i dates de la la gran festa de les sèries",
       "excerpt": "El Serielizados Fest 2026 se celebrarà del 19 al 28 d’octubre al CCCB, Mooby Aribau, Phenomena i Casa Cupra Raval. El festival durà les estrenes de sèries, xerrades amb creadors, guionistes, actrius i actors, i classes magistrals. Un dels noms destacats és la visita de Steven Moffat, creador de Sherlock. A continuació pots veure el […]",
       "url": "https://beteve.cat/agenda/programa-serielizados-fest-barcelona/",
-      "published": "2026-10-19T10:44:26+02:00",
+      "published": "2026-10-19T11:44:38+02:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2025/11/serielizados-2026-2026-07-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Macron no accepta la dimissió del ministre de l'Interior i li demana \"nous mètodes d'actuació\"",
+      "excerpt": "Laurent Nuñez admet que les manifestacions de dissabte van superar les seves previsions, també \"el nombre de vàndals i saquejadors\" que van aprofitar-les",
+      "url": "https://www.3cat.cat/3catinfo/macron-no-accepta-la-dimissio-del-ministre-de-linterior-i-li-demana-nous-metodes-dactuacio/noticia/3434822/",
+      "published": "2026-10-19T11:20:40+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1792400674512.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Quant guanyen els teus veïns? La renda de les llars, carrer per carrer en un mapa interactiu",
+      "excerpt": "Matadepera va tornar a ser el 2024 el municipi català amb una renda més elevada. La població del Vallès Occidental va anar seguida per Sant Just Desvern (Baix Llobregat) i Sant Cugat del Vallès (Vallès Occidental) en el podi de localitats amb les llars amb més ingressos del país. De fet, a escala espanyola, Matadepera es va situar en segona posició, només superada per Pozuelo de Alarcón, a Madrid, segons dades de distribució de la renda de les llars publicades aquest dilluns per l'Institut Nacional…",
+      "url": "https://www.ara.cat/economia/macroeconomia/guanyen-teus-veins-renda-llars-carrer-carrer-mapa-interactiu_1_5877679.html",
+      "published": "2026-10-19T11:18:19+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a2f78d45-116d-4f80-a439-c572b3e00567_16-9-aspect-ratio_default_0_x649y390.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Bon dia Barcelona",
+      "excerpt": "Comença el dia amb una entrevista dactualitat i una tertúlia 100% barcelonina. El dia a dia de la ciutat analitzat per un ampli espectre de tertulians periodistes, historiadors i experts en diferents àmbits. Presentat per Dani Clavera.",
+      "url": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-157/",
+      "published": "2026-10-19T10:53:04+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Què expressen els saquejos a les botigues de luxe?",
+      "excerpt": "Aparadors fets miques, botigues buidades, bosses de luxe que desapareixen en massa. El passat 17 d’octubre, diverses cases de luxe franceses van ser saquejades en una jornada de protestes socials a tot el país. Dior, Celine, Hermès, Louis Vuitton… No són comerços qualssevol, sinó temples de l’exclusivitat, aparadors d’un sector que mercadeja amb la distinció –i la desigualtat– social. Els saquejos es van produir en el context de les mobilitzacions estudiantils franceses, que reclamen més recursos per a l’educació pública, més professors, millors infraestructures i…",
+      "url": "https://diumenge.ara.cat/diumenge/expressen-saquejos-botigues-luxe_129_5883427.html",
+      "published": "2026-10-19T10:49:27+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7ce59752-e16e-466c-9b7b-4bedf6981420_source-aspect-ratio_default_0_x4046y599.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -119,7 +209,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Sebastià Alzamora, Premi Lletra d’Or per ‘Sala Augusta seguit de Llengua materna’",
+      "title": "Sebastià Alzamora, premi Lletra d’Or per ‘Sala Augusta seguit de Llengua materna’",
       "excerpt": "El guardó reconeix una obra poètica que entrellaça la memòria històrica de Mallorca amb el record íntim i l’homenatge a les dones treballadores del calçat",
       "url": "https://www.vilaweb.cat/noticies/sebastia-alzamora-premi-lletra-or-2025/",
       "published": "2026-10-19T10:39:04+02:00",
@@ -139,8 +229,8 @@
     },
     {
       "source": "ARA",
-      "title": "Llarena es resisteix a que s'arxivi la causa contra Puigdemont però veu inevitable l'amnistia",
-      "excerpt": "El jutge Pablo Llarena veu inevitable l'amnistia de Carles Puigdemont, però de moment es resisteix a propiciar-la. Aquesta setmana estava previst que el magistrat del Tribunal Suprem proposés a la sala penal l'arxiu de la causa contra l'expresident de la Generalitat i els exconsellers Toni Comín i Lluís Puig, pas previ a la seva amnistia. Però aquest dilluns s'ha limitat a confirmar l'aixecament de l'ordre de detenció contra ells, dictada després que el Tribunal Constitucional avalés l'amnistia en els casos de malversació.",
+      "title": "Llarena demora l'arxivament de la causa contra Puigdemont però veu inevitable l'amnistia",
+      "excerpt": "El jutge Pablo Llarena veu inevitable l'amnistia de Carles Puigdemont, però, de moment, es resisteix a propiciar-la. Aquesta setmana estava previst que el magistrat del Tribunal Suprem proposés a la sala penal arxivar la causa contra l'expresident de la Generalitat i els exconsellers Toni Comín i Lluís Puig, pas previ a la seva amnistia. Però aquest dilluns s'ha limitat a confirmar l'aixecament de l'ordre de detenció contra ells, dictada després que el Tribunal Constitucional (TC) avalés l'amnistia en els casos de malversació.",
       "url": "https://www.ara.cat/politica/llarena-resisteix-s-arxivi-causa-puigdemont_1_5883376.html",
       "published": "2026-10-19T10:23:52+02:00",
       "category": "Actualitat",
@@ -149,8 +239,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Llarena confirma l’alçament de les ordres de detenció a Puigdemont, Comín i Puig, però es resisteix a arxivar-los la causa",
-      "excerpt": "No tanca encara el sumari perquè diu que hi ha recursos pendents",
+      "title": "Llarena confirma l’alçament de les ordres de detenció de Puigdemont, Comín i Puig, però encara no els tanca la causa",
+      "excerpt": "No tanca encara el sumari perquè diu que hi ha recursos pendents i es reafirma en la seva interpretació malgrat la sentència del Constitucional",
       "url": "https://www.vilaweb.cat/noticies/llarena-confirma-lalcament-de-les-ordres-de-detencio-a-puigdemont-comin-i-puig/",
       "published": "2026-10-19T10:22:56+02:00",
       "category": "Principat",
@@ -169,8 +259,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Llarena aplica l'amnistia a Puigdemont i tanca una persecució judicial que ha durat 9 anys",
-      "excerpt": "Amb aquest pas del magistrat s'acosta el final de la causa del procés i ara, serà la sala penal del Suprem l'encarregada d'arxivar-la definitivament per a tots els condemnats i processats, una decisió que pot arribar en les pròximes hores",
+      "title": "Llarena aplica l'amnistia a Puigdemont i gairebé tanca una persecució judicial que ha durat 9 anys",
+      "excerpt": "Ara, serà la sala penal del Suprem l'encarregada d'arxivar-la definitivament per a tots els condemnats i processats, una decisió que pot arribar en les pròximes hores",
       "url": "https://www.3cat.cat/3catinfo/llarena-aplica-lamnistia-a-puigdemont-i-tanca-una-persecucio-judicial-que-ha-durat-9-anys/noticia/3432934/",
       "published": "2026-10-19T10:16:15+02:00",
       "category": "Actualitat",
@@ -414,8 +504,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "La Marina Alta i la Safor concentren les precipitacions al País Valencià: més de 600 litres per metre quadrat",
-      "excerpt": "S'ha demanat a la gent que es confini a casa per facilitar els rescats, ja que hi ha persones atrapades a la teulada de casa seva",
+      "title": "La Marina Alta i la Safor concentren les precipitacions al País Valencià: carrers negats i rescats amb helicòpter",
+      "excerpt": "Hi ha algunes poblacions incomunicades i es demana el confinament per facilitar els rescats de l'UME i la Generalitat",
       "url": "https://www.3cat.cat/3catinfo/la-marina-alta-i-la-safor-concentren-la-pitjor-part-del-temporal-al-pais-valencia-on-ja-sha-activat-la-ume/noticia/3434797/",
       "published": "2026-10-19T07:26:23+02:00",
       "category": "Actualitat",
