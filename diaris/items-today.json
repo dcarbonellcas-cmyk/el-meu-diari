@@ -2,6 +2,16 @@
   "date": "2026-10-19",
   "items": [
     {
+      "source": "betevé",
+      "title": "Junts i ERC exigeixen a Collboni millorar la preparació de Barcelona davant els aiguats",
+      "excerpt": "La mateixa setmana que Barcelona està immersa en un nou episodi de fortes pluges, el Grup Municipal de Junts i el d’ERC coincideixen a demanar al govern de Jaume Collboni que prepari millor la ciutat per fer-ne front. A més, les dues formacions han criticat la gestió dels aiguats per part de l’executiu socialista. En […]",
+      "url": "https://beteve.cat/politica/junts-erc-exigeixen-govern-collboni-prepari-barcelona-fer-front-aiguats/",
+      "published": "2026-10-19T16:01:13+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/ronda-dalt-pluja-2026-09-29.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo",
       "title": "Onze morts en rieres el 2026: \"Un pam d'aigua és suficient per arrossegar una persona\"",
       "excerpt": "Aquest any, les pluges torrencials han causat la mort d'onze persones, la xifra més alta des del 2000",
@@ -9,12 +19,12 @@
       "published": "2026-10-19T14:21:52+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/4/1792402291849.jpg",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431258/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/el-perill-de-les-rieres-quan-plou-un-pam-daigua-es-suficient-per-arrossegar-una-persona/noticia/3434812/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "3CatInfo",
@@ -78,13 +88,18 @@
     },
     {
       "source": "3CatInfo",
-      "title": "La dana Adam deixa al País Valencià tres víctimes mortals, 145 municipis confinats i pobles incomunicats",
-      "excerpt": "La Generalitat ha ordenat també la restricció de mobilitat en els municipis del litoral sud de València i nord d'Alacant",
+      "title": "La dana Adam deixa al País Valencià tres víctimes mortals, greus inundacions i pobles incomunicats",
+      "excerpt": "La Generalitat ha ordenat la restricció de mobilitat en els municipis del litoral sud de València i nord d'Alacant",
       "url": "https://www.3cat.cat/3catinfo/la-marina-alta-i-la-safor-concentren-la-pitjor-part-del-temporal-al-pais-valencia-on-ja-sha-activat-la-ume/noticia/3434797/",
       "published": "2026-10-19T07:26:23+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/4/1792406645249.jpg",
-      "priority": "1 · Urgent"
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431315/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-marina-alta-i-la-safor-concentren-la-pitjor-part-del-temporal-al-pais-valencia-on-ja-sha-activat-la-ume/noticia/3434797/"
+      }
     },
     {
       "source": "ARA",
@@ -105,6 +120,52 @@
       "category": "Societat",
       "image": null,
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Feijóo diu que garantirà l'educació en castellà a l'escola i que acabarà amb \"l'adoctrinament\"",
+      "excerpt": "Salvador Illa li respon que \"el català no es toca\" i afirma que l'autogovern està en risc",
+      "url": "https://www.3cat.cat/3catinfo/feijoo-diu-que-garantira-leducacio-en-castella-a-lescola-i-que-acabara-amb-ladoctrinament/noticia/3434885/",
+      "published": "2026-10-19T16:22:17+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/2/9/1792413054292.jpeg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "BComú denuncia que Collboni retalla en habitatge: “Colau és la millor candidata per solucionar-ho”",
+      "excerpt": "Els comuns diuen que Collboni ha retallat la inversió en polítiques d’habitatge respecte de quan ells governaven i exigeixen a l’executiu socialista que reverteixi la situació. “A molts veïns els hi va la vida”, ha assegurat aquest dilluns al matí des de l’Ajuntament de Barcelona la regidora de BComú, Carol Recio. Segons Recio, Collboni ha […]",
+      "url": "https://beteve.cat/politica/bcomu-denuncia-collboni-retalla-habitatge-colau-millor-candidata/",
+      "published": "2026-10-19T16:19:30+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/carol-recio-bcomu-191026-2026-10-19.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: pluja més intensa, abundant i generalitzada",
+      "excerpt": "Estan activats els avisos del Servei Meteorològic de Catalunya per intensitat i acumulació de pluja.",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/",
+      "published": "2026-10-18T13:14:05+02:00",
+      "updated": "2026-10-19T16:08:18+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/3/1792418871934.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431321/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Troben una arma de foc a plena llum del dia i abandonada al mig del carrer a l’Eixample",
+      "excerpt": "Els Mossos d’Esquadra investiguen la troballa d’una arma de foc que ha aparegut aquest dilluns al mig del carrer de Rocafort, a la Nova Esquerra de l’Eixample. Tal com ha avançat El Caso i han confirmat fonts policials a betevé, la policia catalana ha rebut un avís que s’estava produint una baralla a la via […]",
+      "url": "https://beteve.cat/societat/troben-arma-foc-mig-carrer-eixample/",
+      "published": "2026-10-19T16:07:18+02:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/mossos-091026-2026-10-09.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -227,22 +288,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dilluns: pluja més intensa, abundant i generalitzada",
-      "excerpt": "Estan activats els avisos del Servei Meteorològic de Catalunya per intensitat i acumulació de pluja.",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/",
-      "published": "2026-10-18T13:14:05+02:00",
-      "updated": "2026-10-19T08:27:47+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/8/1792391228586.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6431215/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pluja-mes-intensa-abundant-i-generalitzada/noticia/3434650/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "ARA",
       "title": "El govern francès demana tocs de queda \"parcials i localitzats\" i diu que s'han saquejat 3.000 comerços",
       "excerpt": "En plena crisi social i política a França per les protestes massives dels estudiants de secundària i els treballadors que protesten contra l'encariment de la vida, el govern ha anunciat tots de queda \"parcials i localitzats\" per contenir les protestes. Després que el moviment de les armilles grogues anunciés una nova protesta per dissabte que ve, el primer ministre, Sebastien Lecornu, ha demanat als prefectes que imposin aquesta mesura allà on calgui especialment per \"protegir els comerços\". Lecornu s'ha referit a una \"situació molt desigual…",
@@ -251,6 +296,46 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/a5330de7-05bf-427c-a44a-0ea18614de84_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La jutgessa que investiga l’entrada multitudinària a Ceuta cita tres consellers i reclama els avisos previs",
+      "excerpt": "La magistrada vol identificar un confident de la Guàrdia Civil que havia alertat de moviments inusuals al Marroc",
+      "url": "https://www.vilaweb.cat/noticies/jutgessa-ceuta-consellers-avisos/",
+      "published": "2026-10-19T16:36:00+02:00",
+      "category": "Àfrica",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Ja és definitiu: el Dakar fuig de l'Aràbia Saudita i canvia de dates",
+      "excerpt": "Ja és definitiu: El Dakar 2027 es disputarà. Després de moltes setmanes de dubtes, que havien fet perillar l'organització del ral·li més dur del planeta, finalment s'ha arribat a una solució. Segons ha pogut saber l'ARA, la prova canviarà de seu i es disputarà entre Europa i Àfrica, allunyant-se així de l'Aràbia Saudita.",
+      "url": "https://www.ara.cat/esports/motor/dakar/ja-definitiu-dakar-fuig-l-arabia-saudita-canvia-dates_1_5883866.html",
+      "published": "2026-10-19T16:22:55+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/158d0ee5-ac62-4d3c-8624-fe1c64815a68_16-9-aspect-ratio_default_0_x1554y1128.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La fiscalia de Perpinyà demanarà presó per als implicats en les protestes de dissabte",
+      "excerpt": "Un total de vint-i-set persones, nou de les quals menors d’edat, van ser detingudes arran dels aldarulls, que van causar destrosses i saqueigs al centre de la ciutat",
+      "url": "https://www.vilaweb.cat/noticies/la-fiscalia-de-perpinya-demanara-preso-per-als-implicats-en-les-protestes-de-dissabte/",
+      "published": "2026-10-19T16:07:59+02:00",
+      "category": "Catalunya Nord",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Concert d’Einstürzende Neubauten, Primavera Sound 2026",
+      "excerpt": "A principis dels 80, Einstürzende Neubauten va agafar la runa del Berlín Occidental per unir el dadaisme amb el rock experimental, obrint un camí a la música d’avantguarda que, més de quatre dècades després, continuen liderant. En directe, l’atenció se la porta l’hipnòtic Blixa Bargeld, director d’aquesta orquestra fosca amb un vocalisme primitiu i visceral. […]",
+      "url": "https://beteve.cat/cultura/einsturzende-neubauten-primavera-sound-2026/",
+      "published": "2026-10-19T16:03:36+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/NEUBAUTEN-primavera-sound-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -265,7 +350,7 @@
     {
       "source": "VilaWeb",
       "title": "El robatori del Louvre, un any després: ni rastre de les joies i un museu encara desprotegit",
-      "excerpt": "Les vuit joies sostretes continuen desaparegudes, mentre els treballadors denuncien la manca de personal i reclamen més inversions en seguretat",
+      "excerpt": "Les vuit joies sostretes continuen desaparegudes i els treballadors denuncien la manca de personal i exigeixen més inversions en seguretat",
       "url": "https://www.vilaweb.cat/noticies/robatori-louvre-joies-museu-desprotegit/",
       "published": "2026-10-19T15:52:02+02:00",
       "category": "França",
@@ -294,8 +379,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Feijóo promet d’acabar amb la immersió lingüística i desencadena una allau de crítiques",
-      "excerpt": "El PSC, Junts, ERC i la Intersindical carreguen contra la proposta electoral del PP amb vista a les eleccions del 29-N",
+      "title": "Feijóo promet de posar fi a la immersió lingüística i desencadena una allau de crítiques",
+      "excerpt": "El PSC, Junts, ERC i la Intersindical carreguen contra la proposta electoral del PP amb vista a les eleccions del 29 de novembre",
       "url": "https://www.vilaweb.cat/noticies/feijoo-promet-dacabar-amb-la-immersio-linguistica-i-desencadena-una-allau-de-critiques/",
       "published": "2026-10-19T15:21:56+02:00",
       "category": "Espanya",
@@ -720,7 +805,12 @@
       "published": "2026-10-19T10:22:56+02:00",
       "category": "Principat",
       "image": null,
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431282/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/llarena-aplica-lamnistia-a-puigdemont-i-tanca-una-persecucio-judicial-que-ha-durat-9-anys/noticia/3432934/"
+      }
     },
     {
       "source": "betevé",
@@ -740,7 +830,12 @@
       "published": "2026-10-19T10:16:15+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/1/1792243695214.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431282/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/llarena-aplica-lamnistia-a-puigdemont-i-tanca-una-persecucio-judicial-que-ha-durat-9-anys/noticia/3432934/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -1119,7 +1214,7 @@
     },
     {
       "source": "ARA",
-      "title": "\"A l'Estat entren fins a 100.000 tones d’oli d’oliva provinent de Tunísia i del Marroc, i es perd el fil d’on van a parar\"",
+      "title": "\"Un litre d’oli d’oliva verge extra no pot costar menys de deu euros\"",
       "excerpt": "Entrevisto Jordi Pascual a la seu de Torclum , el seu molí elaborador d'oli d'oliva, en un moment de pausa de la collita d’olives, que fa dies que va començar. El primer oli, el verd filtrat, ja el tenen embotellat i a punt per a la venda. És una ampolla verda per fora i per dins, de mig litre, que venen a vint euros. La collita d’olives d’aquest any la podran salvar per les pluges que hi va haver a la zona a finals d’agost,…",
       "url": "https://mengem.ara.cat/xefs/l-entren-fins-100-00-tones-d-oli-d-oliva-provinent-tunisia-marroc-perd-fil-d-parar_128_5878892.html",
       "published": "2026-10-19T07:00:25+02:00",
