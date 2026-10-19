@@ -2,6 +2,27 @@
   "date": "2026-10-19",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "El líder d'una secta que va conduir 190 infants a la mort, declarat culpable d'assassinat a Kenya",
+      "excerpt": "Paul Nthenge Mackenzie i 28 acusats més estan vinculats a la massacre de Shakahola, en què 400 persones van deixar d'alimentar-se fins a morir amb l'objectiu de reunir-se amb Jesucrist",
+      "url": "https://www.3cat.cat/3catinfo/el-lider-duna-secta-que-va-conduir-190-infants-a-la-mort-declarat-culpable-dassassinat-a-kenya/noticia/3434992/",
+      "published": "2026-10-19T23:01:28+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/7/1792440247770.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "Temporal amb registres extraordinaris al País Valencià: rècord històric a Forna amb 700 mm d'aigua",
+      "excerpt": "El municipi de la Marina Alta registra una precipitació excepcional, que l'apropa a les xifres de l'episodi de la dana del 29 d'octubre de 2024",
+      "url": "https://www.3cat.cat/3catinfo/temporal-amb-registres-extraordinaris-al-pais-valencia-record-historic-a-forna-amb-700-mm-daigua/noticia/3434811/",
+      "published": "2026-10-19T12:44:24+02:00",
+      "updated": "2026-10-19T22:39:56+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/4/1792405326747.jpeg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "Els aiguats més forts esquiven Catalunya, però es manté l'alerta a la nit",
       "excerpt": "Catalunya torna a passar una nova nit mirant al cel. La dana Adam , que està escombrant bona part del Mediterrani i ha deixat aiguats i greus inundacions aquest dilluns a la matinada al País Valencià , també ha regat el Principat amb tempestes que han estat localment intenses i que es poden allargar fins aquest dimarts a primera hora del matí. Segons Protecció Civil, la jornada ha deixat registres importants, com els 67 litres per metre quadrat a Falset, però la situació que s'ha…",
@@ -74,12 +95,12 @@
       "published": "2026-10-19T13:57:38+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/7/1792410476370.jpg",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431398/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/aquesta-guerra-no-ens-representa-veins-de-paris-no-volen-que-el-vandalisme-eclipsi-la-seva-lluita/noticia/3434813/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "betevé",
@@ -89,16 +110,6 @@
       "published": "2026-10-19T13:01:09+02:00",
       "category": "història",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Nezar-Ahmad-Al-Sabbagh-siria-2026-10-19.jpg",
-      "priority": "1 · Urgent"
-    },
-    {
-      "source": "3CatInfo",
-      "title": "Temporal amb registres extraordinaris al País Valencià: rècord històric a Forna amb 700 mm d'aigua",
-      "excerpt": "El municipi de la Marina Alta registra una precipitació excepcional, que l'apropa a les xifres de l'episodi de la dana del 29 d'octubre de 2024",
-      "url": "https://www.3cat.cat/3catinfo/temporal-amb-registres-extraordinaris-al-pais-valencia-record-historic-a-forna-amb-700-mm-daigua/noticia/3434811/",
-      "published": "2026-10-19T12:44:24+02:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpeg/0/8/1792405328480.jpeg",
       "priority": "1 · Urgent"
     },
     {
@@ -167,6 +178,21 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo",
+      "title": "El govern espanyol vol minimitzar per decret l'impacte mediambiental dels centres de dades",
+      "excerpt": "Un decret llei que prepara el govern espanyol exigeix que els centres de dades cobreixin un 80% del consum elèctric amb energia renovable, una mesura que el sector considera inassumible",
+      "url": "https://www.3cat.cat/3catinfo/el-govern-espanyol-vol-minimitzar-per-decret-limpacte-mediambiental-dels-centres-de-dades/noticia/3434691/",
+      "published": "2026-10-19T22:37:47+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/9/1619991199495.jpg",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431400/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-govern-espanyol-vol-minimitzar-per-decret-limpacte-mediambiental-dels-centres-de-dades/noticia/3434691/"
+      }
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dimarts: adeu a les pluges més importants i arribada del sol",
       "excerpt": "A primera hora del matí no es descarten alguns ruixats entre el Maresme i l'Empordà que marxarien ràpidament",
@@ -220,12 +246,12 @@
       "published": "2026-10-19T16:22:17+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/2/9/1792413054292.jpeg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431399/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/feijoo-diu-que-garantira-leducacio-en-castella-a-lescola-i-que-acabara-amb-ladoctrinament/noticia/3434885/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -382,6 +408,16 @@
       "category": "seguretat ciutadana",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/sirenes-risc-quimic-2026-10-19.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "França i la indignació col·lectiva",
+      "excerpt": "Les imatges de l’angoixa destructiva i del pillatge descontrolat s’emporten els titulars d’una descomposició molt més profunda que recórrer Europa. Les mobilitzacions multitudinàries a França han reunit estudiants, pares, professors, sindicats, i armilles grogues contra l’encariment de la vida; contra les propostes del govern per retallar pensions, endarrerir l’edat de jubilació i encarir les taxes universitàries; és una protesta contra la falta de professors, o l’estat d’abandonament de molts centres educatius de les banlieues , que va comptar, durant moltes setmanes, amb la participació pacífica…",
+      "url": "https://www.ara.cat/opinio/franca-indignacio-col-lectiva_129_5884243.html",
+      "published": "2026-10-19T22:40:20+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/586f4f9c-2ded-4910-8845-687ea8b4e01e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -1861,12 +1897,12 @@
       "published": "2026-10-19T06:53:26+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/8/8/1792161546688.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431395/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/andorra-signa-el-text-de-lacord-dassociacio-amb-la-unio-europea-que-pot-implicar/noticia/3434467/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
