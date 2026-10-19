@@ -3,6 +3,26 @@
   "items": [
     {
       "source": "betevé",
+      "title": "La dana Adam a Barcelona: recta final del temporal de mar i pluja intensa",
+      "excerpt": "La dita diu que “Quan octubre trona, vent dona” i sembla que les properes hores tindrem ambdós fenòmens combinats. Després dels aiguats puntualment torrencials de les darreres hores i d’un diumenge marcat pels núvols i la pluja minsa a la ciutat, sembla que s’acosten més canvis importants. Ja fa dies que parlem d’una dana anomenada […]",
+      "url": "https://beteve.cat/medi-ambient/arriba-dana-adam-temporal-mar-pluja/",
+      "published": "2026-10-19T17:29:31+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pluja-arriba-temporal-181026-2026-10-18.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "Pendents de les pluges i els aiguats torrencials fins dimarts al matí",
+      "excerpt": "El temporal de pluges provocat per la dana Adam i els vents marítims càlids carregats d’humitat continua en marxa a Catalunya, després de deixar registres extraordinaris i històrics al País Valencià entre diumenge i dilluns al matí. La nova tongada de precipitacions ha arrancat a mig matí i al migdia al sud de Catalunya, i amb el pas de les hores ha anat avançant en direcció nord. De moment hi ha molts registres d'entre 10 i 40 l/m², però en punts del prelitoral sud i…",
+      "url": "https://www.ara.cat/previsions/pendents-pluges-aiguats-torrencials-fins-dimarts-mati_1_5883880.html",
+      "published": "2026-10-19T16:47:41+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/edb36033-ea83-4cc9-af85-723aa627c7a3_16-9-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "betevé",
       "title": "Junts i ERC exigeixen a Collboni millorar la preparació de Barcelona davant els aiguats",
       "excerpt": "La mateixa setmana que Barcelona està immersa en un nou episodi de fortes pluges, el Grup Municipal de Junts i el d’ERC coincideixen a demanar al govern de Jaume Collboni que prepari millor la ciutat per fer-ne front. A més, les dues formacions han criticat la gestió dels aiguats per part de l’executiu socialista. En […]",
       "url": "https://beteve.cat/politica/junts-erc-exigeixen-govern-collboni-prepari-barcelona-fer-front-aiguats/",
@@ -94,12 +114,12 @@
       "published": "2026-10-19T07:26:23+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/4/1792406645249.jpg",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431315/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-marina-alta-i-la-safor-concentren-la-pitjor-part-del-temporal-al-pais-valencia-on-ja-sha-activat-la-ume/noticia/3434797/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "ARA",
@@ -120,6 +140,26 @@
       "category": "Societat",
       "image": null,
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "La manifestació central de la vaga general de l'11-N serà a Jardinets de Gràcia",
+      "excerpt": "La plataforma Ens Costa la Vida, el Sindicat de Llogateres i la Taula Sindical de Catalunya –un espai de coordinació que agrupa diversos sindicats alternatius com ara la CGT– han anunciat que la manifestació central de la vaga de 24 hores per l’habitatge i els salaris de l’11 de novembre tindrà lloc a Jardinets de Gràcia, a Barcelona, a les 17.30 hores. Tal com expliquen fonts sindicals, abans de l'anunci la proposta no havia estat traslladada prèviament als sindicats majoritaris, si bé, segons apunten, CCOO…",
+      "url": "https://www.ara.cat/economia/mercat-laboral/manifestacio-central-vaga-general-l-11-n-sera-jardinets-gracia_1_5883504.html",
+      "published": "2026-10-19T17:19:52+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/081da132-8733-4039-adc4-c5d73285e469_source-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "El PP vol que Collboni porti als tribunals els aldarulls de les protestes per l’1-O i l’habitatge",
+      "excerpt": "El president del Grup Municipal del PP, Daniel Sirera, demanarà a l’alcalde, Jaume Collboni, que l’Ajuntament de Barcelona es personi com a acusació particular per denunciar els aldarulls que hi va haver durant la manifestació per l’1-O i durant la protesta massiva pel dret a l’habitatge, el 5 d’octubre. Els populars ho exigiran a la […]",
+      "url": "https://beteve.cat/politica/pp-vol-collboni-porti-tribunals-aldarulls-protestes-1-octubre-habitatge/",
+      "published": "2026-10-19T17:02:05+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/aldarulls-contenidors-cremant-2026-10-06.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo",
@@ -290,7 +330,7 @@
     {
       "source": "ARA",
       "title": "El govern francès demana tocs de queda \"parcials i localitzats\" i diu que s'han saquejat 3.000 comerços",
-      "excerpt": "En plena crisi social i política a França per les protestes massives dels estudiants de secundària i els treballadors que protesten contra l'encariment de la vida, el govern ha anunciat tots de queda \"parcials i localitzats\" per contenir les protestes. Després que el moviment de les armilles grogues anunciés una nova protesta per dissabte que ve, el primer ministre, Sebastien Lecornu, ha demanat als prefectes que imposin aquesta mesura allà on calgui especialment per \"protegir els comerços\". Lecornu s'ha referit a una \"situació molt desigual…",
+      "excerpt": "La violència a França no s’atura. La jornada de mobilització dissabte passat contra l’augment del cost de la vida -que va tenir com també com a protagonistes milers de manifestants pacífics- ha derivat en una onada de violència mai vista al país gal. Davant la repetició diumenge de saqueigs massius de comerços i manifestacions no autoritzades, i de l'anunci per part del moviment de les armilles grogues d'una nova protesta per dissabte que ve, el primer ministre, Sebastien Lecornu, ha optat per autoritzar mesures extraordinàries.…",
       "url": "https://www.ara.cat/internacional/europa/macron-rebutja-dimissio-ministre-l-interior-li-demana-nous-metodes-manifestants_1_5883211.html",
       "published": "2026-10-19T07:55:14+02:00",
       "category": "Actualitat",
@@ -298,8 +338,138 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "La tala de l'arbre més pudent de Barcelona enfronta els veïns de les Corts",
+      "excerpt": "Tradicionalment, el principal motiu de discòrdia entre els veïns del barri de les Corts de Barcelona ha estat el Camp Nou i l'impacte sobre la mobilitat a la zona en els dies de partit. Des de fa un temps, però, als voltants de l'estadi del Barça el debat que encén més passions no és el futbol, ni l'arbitratge, ni tan sols les obres del coliseu blaugrana. El gran element de divisió és un arbre: el Ginkgo biloba .",
+      "url": "https://www.ara.cat/societat/barcelona/tala-arbre-mes-pudent-barcelona-enfronta-veins-corts_1_5883684.html",
+      "published": "2026-10-19T18:04:32+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/122787a4-c8d0-4fd7-abb2-86755fef2252_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Ells diran que ets militant o que tens mala hòstia: no en facis cas\"",
+      "excerpt": "La foto del mòbil explica l’adoració que Carme Portaceli té pels animals i, en concret, pels gossos. Com que la seva vida sense horaris no li permet tenir-ne, consenteix els que té a prop com una tieta adoptiva. L’entrevisto al despatx del Teatre Nacional que abandonarà al final d’aquesta temporada, després de sis anys. Acaba d’arribar d’una de les grans fites de la seva carrera, estrenar la temporada de la Comédie Française amb una versió de Les criades de Jean Genet, i aviat es posarà…",
+      "url": "https://www.ara.cat/cultura/teatre/diran-militant-tens-mala-hostia-no-facis-cas-carme-portaceli_128_5880769.html",
+      "published": "2026-10-19T18:00:00+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2894db61-0607-471e-9ad1-7a664c1fef8d_16-9-aspect-ratio_default_0_x1838y1044.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Les millors ulleres de mantega i de xocolata es couen a la històrica pastisseria Brunells",
+      "excerpt": "“Primer van ser els croissants, ara les ulleres, sembla que tenim la mà trencada amb el fullat” diuen satisfets a la pastisseria Brunells (Princesa,22). Aquest establiment històric ha guanyat la segona edició del concurs de les millors ulleres de mantega d’Espanya 2026 tant en la categoria de mantega com la de xocolata. La final s’ha […]",
+      "url": "https://beteve.cat/estils-de-vida/millors-ulleres-mantega-xocolata-brunells/",
+      "published": "2026-10-19T17:50:26+02:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/ulleres-guanyadores-brunells-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El tabú de les disfuncions sexuals després d'un càncer de mama: \"No només es tracta d'estar vives\"",
+      "excerpt": "Els experts demanen buscar ajuda per un problema comú i invisibilitzat, derivat dels efectes secundaris dels tractaments, com la sequedat vaginal, el dolor en la penetració o la manca de desig",
+      "url": "https://www.3cat.cat/3catinfo/el-tabu-de-les-disfuncions-sexuals-despres-dun-cancer-de-mama-no-nomes-es-tracta-destar-vives/noticia/3434915/",
+      "published": "2026-10-19T17:47:10+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/5/1727373933650.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Detenen dos homes per una presumpta agressió sexual a una dona sense llar a Barcelona",
+      "excerpt": "Els fets haurien passat aquest cap de setmana al districte de Sant Martí",
+      "url": "https://www.3cat.cat/3catinfo/detenen-dos-homes-per-una-presumpta-agressio-sexual-a-una-dona-sense-llar-a-barcelona/noticia/3434950/",
+      "published": "2026-10-19T17:45:15+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/5/1785521052258.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
-      "title": "La jutgessa que investiga l’entrada multitudinària a Ceuta cita tres consellers i reclama els avisos previs",
+      "title": "Centenars de persones es concentren a la UAB contra la visita de l’agitador ultra Vito Quiles",
+      "excerpt": "Els Mossos despleguen un ampli dispositiu als accessos del campus per a impedir-hi l’entrada de Quiles, a qui la universitat no ha autoritzat a fer-hi un acte",
+      "url": "https://www.vilaweb.cat/noticies/centenars-uab-visita-agitador-ultra-vito-quiles/",
+      "published": "2026-10-19T17:43:31+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "3Cat aborda els dilemes de la reproducció assistida a la sèrie 'In vitro'",
+      "excerpt": "La reproducció assistida, els límits de la ciència i les expectatives socials al voltant de la maternitat són alguns dels temes que aborda In vitro, la nova sèrie de 3Cat i HBO Max. La producció, creada per Alejandra Guimerà i Marc Crehuet, s'estrena aquest dilluns 19 d'octubre a TV3, a la plataforma 3Cat i a HBO Max, coincidint amb la inauguració del Serielizados Fest. Protagonitzada per Bruna Cusí i David Verdaguer, la ficció explora les experiències de les persones que recorren als tractaments de fertilitat…",
+      "url": "https://www.ara.cat/media/3cat-aborda-dilemes-reproduccio-assistida-serie-in-vitro_1_5880804.html",
+      "published": "2026-10-19T17:12:36+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cbf5f330-9261-418f-b9e7-a18d3f8ac056_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tres bones actrius per a una història de gent normal",
+      "excerpt": "Per més que l’imaginari audiovisual es mogui a bastament al voltant d’històries traumàtiques i violentes, la major part de la gent té una vida normal. I això vol dir una vida familiar, laboral i sentimental amb moments dolços i moments amargs, amb sotracs però sense altres terratrèmols que els que puguin sacsejar la salut. I la Charlotte, protagonista de Morning sun , és part d'aquesta gent normal. L'espectacle agafa el títol del quadre d’Edward Hopper d’una dona asseguda en un llit mirant el pas del…",
+      "url": "https://www.ara.cat/cultura/teatre/tres-bones-actrius-historia-gent-normal_1_5883881.html",
+      "published": "2026-10-19T17:06:12+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2dc1229b-5833-4ac1-964a-e82a7d1395c7_source-aspect-ratio_default_0_x3964y1536.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1912/",
+      "published": "2026-10-19T17:00:26+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Les imatges del pas de la dana Adam al País Valencià, amb carrers negats i rescats en helicòpter",
+      "excerpt": "Les pluges, que han estat extraordinàries, han deixat víctimes mortals, han obligat a confinar municipis, suspendre classes i fer rescats en helicòpters",
+      "url": "https://www.3cat.cat/3catinfo/les-imatges-del-pas-de-la-dana-adam-al-pais-valencia-amb-carrers-negats-i-rescats-en-helicopter/noticia/3434922/",
+      "published": "2026-10-19T16:56:01+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/8/1792418515181.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-738/",
+      "published": "2026-10-19T16:52:34+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Andorra s'obre a Europa: en què consisteix l'acord d'associació amb la UE?",
+      "excerpt": "Andorra fa un pas més per apropar-se a la Unió Europea. El cap del govern andorrà, Xavier Espot, ha celebrat l'inici d'una \"nova etapa\" després de segellar aquest dilluns el pacte d’associació amb Brussel·les, que ha de permetre al principat integrar-se en el mercat del bloc.",
+      "url": "https://www.ara.cat/internacional/andorra-signa-acord-d-associacio-ue-accedir-mercat-unic_1_5883714.html",
+      "published": "2026-10-19T16:48:36+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a7c57c7e-ca10-4cd0-80e6-fcd1c213fd75_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Gastronomic Forum Barcelona creix i evoluciona revisitant la tradició culinària",
+      "excerpt": "El Gastronomic Forum Barcelona es fa gran en la seva edició número 26. Es trasllada al recinte firal de la Gran Via “per millorar l’experiència”, afirma Josep Alcaraz, director del saló. Del 2 al 4 de novembre ocuparà 14.500 m² del pavelló 1, on estaran presents més de 450 empreses expositores, un 12 % més […]",
+      "url": "https://beteve.cat/estils-de-vida/gastronomic-forum-barcelona-2026/",
+      "published": "2026-10-19T16:47:08+02:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Gastronomic-Forum-Barcelona-2026-presentacio-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La jutgessa que investiga l’entrada multitudinària a Ceuta cita tres consellers i demana els avisos previs",
       "excerpt": "La magistrada vol identificar un confident de la Guàrdia Civil que havia alertat de moviments inusuals al Marroc",
       "url": "https://www.vilaweb.cat/noticies/jutgessa-ceuta-consellers-avisos/",
       "published": "2026-10-19T16:36:00+02:00",
@@ -310,7 +480,7 @@
     {
       "source": "ARA",
       "title": "Ja és definitiu: el Dakar fuig de l'Aràbia Saudita i canvia de dates",
-      "excerpt": "Ja és definitiu: El Dakar 2027 es disputarà. Després de moltes setmanes de dubtes, que havien fet perillar l'organització del ral·li més dur del planeta, finalment s'ha arribat a una solució. Segons ha pogut saber l'ARA, la prova canviarà de seu i es disputarà entre Europa i Àfrica, allunyant-se així de l'Aràbia Saudita.",
+      "excerpt": "Ja és definitiu: el Dakar 2027 es disputarà. Després de moltes setmanes de dubtes, que havien fet perillar l'organització del ral·li més dur del planeta, finalment s'ha arribat a una solució. Segons ha pogut saber l'ARA, la prova canviarà de seu i es disputarà entre Europa i Àfrica, allunyant-se així de l'Aràbia Saudita.",
       "url": "https://www.ara.cat/esports/motor/dakar/ja-definitiu-dakar-fuig-l-arabia-saudita-canvia-dates_1_5883866.html",
       "published": "2026-10-19T16:22:55+02:00",
       "category": "Actualitat",
@@ -320,7 +490,7 @@
     {
       "source": "VilaWeb",
       "title": "La fiscalia de Perpinyà demanarà presó per als implicats en les protestes de dissabte",
-      "excerpt": "Un total de vint-i-set persones, nou de les quals menors d’edat, van ser detingudes arran dels aldarulls, que van causar destrosses i saqueigs al centre de la ciutat",
+      "excerpt": "Vint-i-set persones, nou de les quals menors d’edat, van ser detingudes arran dels aldarulls, amb destrosses i saqueigs, al centre de la ciutat",
       "url": "https://www.vilaweb.cat/noticies/la-fiscalia-de-perpinya-demanara-preso-per-als-implicats-en-les-protestes-de-dissabte/",
       "published": "2026-10-19T16:07:59+02:00",
       "category": "Catalunya Nord",
@@ -366,6 +536,21 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/3bcfb880-29eb-44ac-942c-556fa0c89252_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Quins aparcaments segurs per a bicicletes hi ha a Catalunya? Es dupliquen, però encara són pocs",
+      "excerpt": "A Lleida, la continuïtat dels carrils bici continua sent una assignatura pendent",
+      "url": "https://www.3cat.cat/3catinfo/quins-aparcaments-segurs-per-a-bicicletes-hi-ha-a-catalunya-es-dupliquen-pero-encara-son-pocs/noticia/3434591/",
+      "published": "2026-10-19T15:41:02+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/2/1792414633822.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431260/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/quins-aparcaments-segurs-per-a-bicicletes-hi-ha-a-catalunya-es-dupliquen-pero-encara-son-pocs/noticia/3434591/"
+      }
     },
     {
       "source": "betevé",
@@ -790,7 +975,7 @@
     {
       "source": "ARA",
       "title": "Llarena demora l'arxivament de la causa contra Puigdemont, però veu inevitable l'amnistia",
-      "excerpt": "Pablo Llarena assumeix que el Tribunal Suprem està abocat a aplicar l'amnistia a Carles Puigdemont, però es resisteix a propiciar-ho. Estava previst que aquesta setmana el jutge instructor conclogués el sumari i remetés la causa contra l'expresident de la Generalitat i els exconsellers Toni Comín i Lluís Puig al tribunal del judici del Procés perquè Manuel Marchena apliqui l'amnistia total i definitiva als exiliats, havent de donar primer un termini de cinc dies a les parts per tornar-se a pronunciar. Ara bé, l'instructor ha alentit…",
+      "excerpt": "Pablo Llarena assumeix que el Tribunal Suprem està abocat a aplicar l'amnistia a Carles Puigdemont, però es resisteix a propiciar-ho. Estava previst que aquesta setmana el jutge instructor conclogués el sumari i remetés la causa contra l'expresident de la Generalitat i els exconsellers Toni Comín i Lluís Puig al tribunal del judici del Procés perquè Manuel Marchena apliqui l'amnistia total i definitiva als exiliats –primer encara havia de donar un termini de cinc dies a les parts per tornar-se a pronunciar–. Són les dues resolucions…",
       "url": "https://www.ara.cat/politica/llarena-resisteix-s-arxivi-causa-puigdemont_1_5883376.html",
       "published": "2026-10-19T10:23:52+02:00",
       "category": "Actualitat",
@@ -805,12 +990,12 @@
       "published": "2026-10-19T10:22:56+02:00",
       "category": "Principat",
       "image": null,
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431282/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/llarena-aplica-lamnistia-a-puigdemont-i-tanca-una-persecucio-judicial-que-ha-durat-9-anys/noticia/3432934/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -830,12 +1015,12 @@
       "published": "2026-10-19T10:16:15+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/1/1792243695214.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431282/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/llarena-aplica-lamnistia-a-puigdemont-i-tanca-una-persecucio-judicial-que-ha-durat-9-anys/noticia/3432934/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
