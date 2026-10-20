@@ -2,6 +2,16 @@
   "date": "2026-10-20",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Els aiguats destapen una estafa a Malgrat: sense assegurances, estalvis ni plans de pensions",
+      "excerpt": "La policia ja ha rebut una dotzena de denúncies i n'espera més, perquè el presumpte estafador era una persona molt coneguda al barri de Malgrat Nord",
+      "url": "https://www.3cat.cat/3catinfo/els-aiguats-destapen-una-estafa-a-malgrat-sense-assegurances-estalvis-ni-plans-de-pensions/noticia/3435058/",
+      "published": "2026-10-20T13:33:41+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/3/1792492043332.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "Troben mort un agricultor a prop d'Oliva després del temporal de la dana 'Adam'",
       "excerpt": "Els serveis de rescat han trobat aquest dimarts a primera hora el cadàver d'un agricultor al parc natural de la Marjal de Pego-Oliva, una de les zones més castigades pel temporal de la dana Adam al País Valencià . Fonts coneixedores del cas citades per l'agència Efe indiquen que s'està investigant si aquesta mort està relacionada amb l'episodi de pluges torrencials d'aquest dilluns. De ser així, seria la quarta víctima de País Valencià.",
@@ -93,6 +103,16 @@
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/4/1792405326747.jpeg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "S'amplia el préstec a joves per comprar el primer habitatge i també inclourà el cost de les reformes",
+      "excerpt": "La línia de préstecs ara inclourà la compra d'habitatges de protecció oficial (HPO), que fins quedaven fora dels Préstecs Emancipació",
+      "url": "https://www.3cat.cat/3catinfo/samplia-el-prestec-a-joves-per-comprar-el-primer-habitatge-i-tambe-incloura-el-cost-de-les-reformes/noticia/3435046/",
+      "published": "2026-10-20T13:16:48+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/6/1792490005968.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -191,9 +211,139 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Bon dia Barcelona",
+      "excerpt": "Comença el dia amb una entrevista dactualitat i una tertúlia 100% barcelonina. El dia a dia de la ciutat analitzat per un ampli espectre de tertulians periodistes, historiadors i experts en diferents àmbits. Presentat per Dani Clavera.",
+      "url": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-158/",
+      "published": "2026-10-20T13:35:53+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
-      "title": "S’atura el desnonament de la germana de Lluís Gavaldà a la Riera de Gaià",
-      "excerpt": "Els afectats, més de vint famílies, asseguren que han pagat sempre el lloguer i consideren que s’han vist atrapats en un garbuix burocràtic que els ha portat a afrontar la pèrdua de casa seva",
+      "title": "Marga Prohens disfressa de míting electoral el seu discurs al debat de política general",
+      "excerpt": "La presidenta del Govern de les Illes Balears fa un balanç triomfalista de la gestió i diu que necessita més temps per a culminar-la",
+      "url": "https://www.vilaweb.cat/noticies/marga-prohens-disfressa-de-miting-electoral-el-seu-discurs-al-debat-de-politica-general/",
+      "published": "2026-10-20T13:29:28+02:00",
+      "category": "Illes",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Manifestació de treballadors de supermercats davant de Foment del Treball",
+      "excerpt": "Treballadors de supermercats i autoserveis d’alimentació s’han manifestat aquest dimarts davant de Foment del Treball a Barcelona per reclamar millores salarials i laborals. Fa dues setmanes ja van convocar una vaga els dies 24 i 31 de desembre —en ple Nadal— i la mobilització d’aquest dimarts vol pressionar les patronals GEPSAC i CEDAC per fer […]",
+      "url": "https://beteve.cat/economia/manifestacio-treballadors-supermercats-foment-treball/",
+      "published": "2026-10-20T13:22:21+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/manifestacio-supermercats-foment-1-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una caiguda al servei de Revolut impedeix als usuaris accedir als comptes i fer pagaments",
+      "excerpt": "El neobanc Revolut pateix una caiguda que ha deixat milers de clients sense poder fer servir els seus comptes. Segons ha confirmat l'entitat financera en una publicació a les seves xarxes socials, actualment “pateix una disrupció de servei” que afecta la majoria d'utilitats disponibles per als clients. De fet, d'acord amb la pàgina oficial de Revolut, la majoria d'activitats pateixen la caiguda: des de l'accés als comptes fins als pagaments, les transferències bancàries o les retirades d'efectiu en caixers, entre altres.",
+      "url": "https://www.ara.cat/economia/tecnologia/caiguda-servei-revolut-impedeix-als-usuaris-accedir-als-comptes-pagaments_1_5884661.html",
+      "published": "2026-10-20T13:08:07+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b6182d91-d22b-4510-885c-3504dd393d30_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Joan Laporta, orgullós del Barça: “És el millor partit de futbol que es pot veure a Europa”",
+      "excerpt": "El París Saint-Germain i el Barça es veuran les cares aquest vespre a les 21 h al Parc dels Prínceps. Abans del dinar de directives, Joan Laporta ha comparegut davant els mitjans de comunicació per presumir de l’enfrontament: “És el millor partit que es pot veure a Europa“. El president també ha lamentat les baixes […]",
+      "url": "https://beteve.cat/esports/joan-laporta-millor-partit-futbol-pot-veure-europa-barca-psg/",
+      "published": "2026-10-20T13:05:35+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/201026-laporta-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Suprem amnistia Junqueras, Turull, Romeva i Bassa, que podrien optar a càrrecs públics",
+      "excerpt": "La interlocutòria dels jutges del Suprem acusa d'ingerències greus el Tribunal Constitucional en aquest procés",
+      "url": "https://www.3cat.cat/3catinfo/el-suprem-amnistia-junqueras-turull-romeva-i-bassa-que-podrien-optar-a-carrecs-publics/noticia/3434991/",
+      "published": "2026-10-20T13:02:59+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/8/1613573319782.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Xavier Nueno guanya el Premi Anagrama d’Assaig amb ‘La revuelta de los copistas’",
+      "excerpt": "La revuelta de los copistas, del barceloní Xavier Nueno, ha guanyat el 54è Premi Anagrama d’Assaig. Amb el subtítol Como el conocimiento perdió el juicio, l’obra assenyala l’apropiació que les empreses tecnològiques han fet del saber universal per alimentar els seus algoritmes i vendre’l mitjançant subscripcions. Un relat sobre la privatització del coneixement que ja […]",
+      "url": "https://beteve.cat/cultura/xavier-nueno-guanya-premi-anagrama-assaig-revuelta-copistas/",
+      "published": "2026-10-20T13:02:20+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/anagrama-assaig-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Suprem espanyol amnistia finalment Junqueras, Turull, Romeva i Bassa",
+      "excerpt": "Arran de la decisió del tribunal, Junqueras i Turull deixen d'estar inhabilitats políticament",
+      "url": "https://www.vilaweb.cat/noticies/suprem-amnistia-junquera-turull-romeva-bassa/",
+      "published": "2026-10-20T13:01:25+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El Suprem amnistia Junqueras, Turull, Bassa i Romeva i aixeca la seva inhabilitació",
+      "excerpt": "Dos anys i quatre mesos després que entrés en vigor, l'amnistia ha arribat plenament als condemnats per malversació al judici del Procés. El Tribunal Suprem, amb Manuel Marchena al capdavant, ha aplicat la llei a quatre membres del Govern de l'1-O, que estaven inhabilitats fins al 2030 i al 2031 : Oriol Junqueras, Jordi Turull, Dolors Bassa i Raül Romeva. D'aquesta manera, recuperen tots els drets polítics i podran tornar-se a presentar a les eleccions, ocupar càrrecs públics o, per exemple, tornar a donar classes…",
+      "url": "https://www.ara.cat/politica/suprem-amnistia-junqueras-turull-bassa-romeva-aixeca-seva-inhabilitacio_1_5884626.html",
+      "published": "2026-10-20T12:51:37+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c6f26dc1-be63-4f51-a34d-6ac2190ad6e7_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Una caiguda de Google Cloud afecta els serveis bancaris de Revolut",
+      "excerpt": "La fallada s’ha originat a la infrastructura de Google a Londres i ha causat més incidències",
+      "url": "https://www.vilaweb.cat/noticies/una-caiguda-de-google-cloud-afecta-els-serveis-bancaris-de-revolut/",
+      "published": "2026-10-20T12:50:49+02:00",
+      "category": "Món",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "AR-DE Poblenou 2026: un circuit per l’art i el disseny",
+      "excerpt": "Arriba l’11a edició d’AR-DE, el circuit gratuït per conèixer museus, sales i espais culturals del Poblenou. Se celebrarà el 23, 24 i 25 d’octubre del 2026. És una cita anual que organitza l’associació Poblenou Urban District, encarregada d’impulsar la creativitat en aquest espai de la ciutat. L’AR-DE vol apropar al públic la programació d’aquests espais […]",
+      "url": "https://beteve.cat/agenda/arde-poblenou-disseny-art-programa/",
+      "published": "2026-10-20T12:47:23+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/03/ar-de-poblenou-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Barça recupera el taronja: obligat a jugar amb la samarreta de l’any passat",
+      "excerpt": "El Barça jugarà amb la samarreta taronja de la temporada passada aquesta nit a les 21 h, en la tercera jornada de la Champions. El conjunt blaugrana jugarà a París amb aquesta equipació tan viral de la temporada passada, perquè cap de les tres d’aquest curs garanteixen prou contrast amb la del París Saint-Germain. La […]",
+      "url": "https://beteve.cat/esports/barca-recupera-taronja-obligat-jugar-samarreta-any-passat/",
+      "published": "2026-10-20T12:45:20+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/lamine-yamal-empat-barca-bruges-051125.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Aday Benítez torna a tenir equip: nou entrenador del Mirandés",
+      "excerpt": "El Mirandés ha fet oficial l’arribada d’Aday Benítez com a entrenador del club de Castella i Lleó. L’exentrenador de l’Europa, que fins ara no tenia equip, agafa les regnes d’un conjunt històric del futbol nacional, que està passant per un moment difícil a la Primera Federació. Aday agafa el relleu d’Antxon Muneta, que no ha […]",
+      "url": "https://beteve.cat/esports/aday-benitez-torna-tenir-equip-nou-entrenador-mirandes/",
+      "published": "2026-10-20T12:36:05+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/aday-benitez-mirandes-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Ajornen el desnonament de vint-i-una famílies de la Riera de Gaià d’una promoció propietat de la Sareb",
+      "excerpt": "Entre els afectats hi ha Annabel Gavaldà, germana de Lluís Gavaldà, que ahir va fer una crida a la mobilització per a aconseguir aturar el llançament",
       "url": "https://www.vilaweb.cat/noticies/satura-el-desnonament-de-la-germana-de-lluis-gavalda-a-la-riera-de-gaia/",
       "published": "2026-10-20T12:32:38+02:00",
       "category": "Societat",
@@ -213,7 +363,7 @@
     {
       "source": "ARA",
       "title": "Premi Anagrama per a un crit d'alerta sobre la privatització del saber i la trampa de la IA",
-      "excerpt": "\"Hi ha assajos que comencen amb l'esclat d'una força que no s'apaga i aquest de Xavier Nueno, que és magnífic, n'és conscient: a mesura que avança, creix l'excitació i la intriga per acabar descobrint l'origen del simulacre de coneixement que és la intel·ligència artificial, i d'on ve tota aquesta estafa gegantina, almenys per a les humanitats\", explica Jordi Gracia, un dels sis membres del jurat del premi Anagrama d'Assaig, dotat amb 10.000 euros, que ha estat per a La revuelta de los copistas , que…",
+      "excerpt": "“Hi ha assajos que comencen amb l'esclat d'una força que no s'apaga, i aquest de Xavier Nueno, que és magnífic, n'és conscient: a mesura que avança, creix l'excitació i la intriga per acabar descobrint l'origen del simulacre de coneixement que és la intel·ligència artificial, i d'on ve tota aquesta estafa gegantina, almenys per a les humanitats”, explica Jordi Gracia, un dels sis membres del jurat del premi Anagrama d'assaig, dotat amb 10.000 euros, que ha estat per a La revuelta de los copistas , que…",
       "url": "https://llegim.ara.cat/actualitat/premi-anagrama-crit-d-alerta-privatitzacio-trampa-ia_1_5884593.html",
       "published": "2026-10-20T12:18:14+02:00",
       "category": "Actualitat",
@@ -227,7 +377,7 @@
       "url": "https://www.3cat.cat/3catinfo/el-pais-valencia-demanara-la-declaracio-de-zona-catastrofica-i-anuncia-un-paquet-dajudes/noticia/3435044/",
       "published": "2026-10-20T12:17:24+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/4/7/1792488585274.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/4/1792494123542.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -303,17 +453,17 @@
     {
       "source": "ARA",
       "title": "Augmenten els fumadors passius tot i les lleis antitabac",
-      "excerpt": "Després que l'any 2005 es prohibís fumar als interiors de bars, restaurants i llocs de treball, el 2007 els fumadors passius van passar del 49,5% al 37,9%. I quan cinc anys després es va estendre aquest veto als locals d'oci nocturn, els parcs infantils i els centres sanitaris, aquest percentatge global va caure a la meitat, fins al 21,3% l'any 2011. Però ara, quinze anys després, aquesta davallada s'ha estancat i, fins i tot, ha augmentat l'exposició al fum. Així ho constata aquest dimarts la…",
+      "excerpt": "Després que l'any 2005 es prohibís fumar als interiors de bars, restaurants i llocs de treball, el 2007 els fumadors passius van passar del 49,5% al 37,9%. I quan cinc anys després es va estendre aquest veto als locals d'oci nocturn, els parcs infantils i els centres sanitaris, aquest percentatge global va caure a la meitat, fins al 21,3% l'any 2011. Però ara, quinze anys després, aquesta davallada s'ha estancat, i fins i tot ha augmentat l'exposició al fum. Així ho constata aquest dimarts la…",
       "url": "https://www.ara.cat/societat/salut/mes-fumadors-passius-lleis-antitabac_1_5884171.html",
       "published": "2026-10-20T11:18:50+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/bb20e09e-3b49-443d-a166-8f5ef3264829_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/9ab7ab12-e4f3-466f-8e33-6be5f6826ea8_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
-      "title": "Tensió al Camp de l’Arpa per evitar el desnonament d’una dona i el seu fill de 9 anys",
-      "excerpt": "Desenes de persones es mobilitzen des de primera hora del matí per evitar el desnonament de la Ghariba i el seu fill, de nou anys, al carrer del Degà Bahí, 16-18, al Camp de l’Arpa del Clot. Fa dos anys que mare i fill viuen en una habitació d’aquesta finca i comparteixen pis amb un […]",
+      "title": "Desnonen una dona i el seu fill de 9 anys al Camp de l’Arpa, malgrat les protestes",
+      "excerpt": "Una setantena de persones s’han mobilitzat des de primera hora del matí per evitar el desnonament de la Ghariba i el seu fill, de nou anys, al carrer del Degà Bahí, 16-18, al Camp de l’Arpa del Clot. Finalment, però, no ho han aconseguit i el desnonament s’ha acabat executant. Feia dos anys que mare […]",
       "url": "https://beteve.cat/societat/mobilitzacio-evitar-desnonament-menor/",
       "published": "2026-10-20T10:59:40+02:00",
       "category": "societat",
