@@ -2,6 +2,16 @@
   "date": "2026-10-20",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Troben el cadàver d’un home a Menorca durant el temporal de la gota freda Adam",
+      "excerpt": "Els bombers han rescatat el cos a Cala en Brut i la Guàrdia Civil investiga les circumstàncies de la mort",
+      "url": "https://www.vilaweb.cat/noticies/troben-el-cadaver-dun-home-a-menorca-durant-el-temporal-de-la-gota-freda-adam/",
+      "published": "2026-10-20T16:22:50+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "betevé",
       "title": "Gairebé 200 sensellar van pernoctar en allotjaments d’emergència pels aiguats d’octubre a Barcelona",
       "excerpt": "Segons l’Ajuntament, els episodis de pluja intensa de principis d’octubre a Barcelona van fer que gairebé 200 persones en situació de vulnerabilitat i de sensellarisme haguessin de pernoctar en allotjaments d’emergència. En concret, es van habilitar llits al CANE (el Centre d’Acolliment Nocturn d’Emergències, al passatge del Dos de Maig) i les estacions de Sants […]",
@@ -19,12 +29,12 @@
       "published": "2026-10-20T13:33:41+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/0/1792501636804.jpg",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431483/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/els-aiguats-destapen-una-estafa-a-malgrat-sense-assegurances-estalvis-ni-plans-de-pensions/noticia/3435058/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "ARA",
@@ -296,6 +306,86 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "La CNMC acusa RENFE de discriminar Ouigo i l’obliga a permetre-li l’accés als tallers de Barcelona i Madrid",
+      "excerpt": "L'organisme regulador considera que les restriccions imposades a l'operadora francesa vulneren la normativa ferroviària",
+      "url": "https://www.vilaweb.cat/noticies/la-cnmc-acusa-renfe-de-discriminar-ouigo-i-lobliga-a-permetre-li-lacces-als-tallers-de-barcelona-i-madrid/",
+      "published": "2026-10-20T16:45:45+02:00",
+      "category": "Empreses",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El gran cable submarí que ha d'unir Europa amb Groenlàndia",
+      "excerpt": "Europa ja es prepara per al final de la guerra d'Ucraïna. Quan el conflicte s'hagi acabat, l'Àrtic serà el nou escenari de seguretat en el qual es focalitzaran les grans potències i, molt especialment, l'amenaça russa, afirmen fonts comunitàries. \"Amb Rússia i la Xina incrementant la seva petjada i ambició, l'Àrtic s'ha convertit en la nova línia de front de la competició global de poder\", ha resumit la cap de la diplomàcia europea, Kaja Kallas, que ha insistit que aquesta \"nova realitat\" ha fet replantejar…",
+      "url": "https://www.ara.cat/internacional/europa/gran-cable-submari-d-unir-europa-groenlandia_1_5884499.html",
+      "published": "2026-10-20T16:38:46+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e0a8a043-cd37-43bc-a487-5ebd09739e69_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els serveis d’emergències de Catalunya i l’Aragó reforcen la coordinació a la Franja",
+      "excerpt": "El SEM i el 061 de l’Aragó han fet una jornada de treball a Fraga per millorar la resposta a les urgències sanitàries i garantir l’activació dels recursos més pròxims, independentment dels límits administratius",
+      "url": "https://www.vilaweb.cat/noticies/serveis-emergencies-catalunya-i-arago-franja/",
+      "published": "2026-10-20T16:33:10+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1913/",
+      "published": "2026-10-20T16:32:23+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Convoquen un acte a Sant Vicenç dels Horts per celebrar l’amnistia de Junqueras, Romeva, Bassa i Turull",
+      "excerpt": "La mobilització es farà demà a les 19.30, a la plaça de la Vila, després d'haver aixecat el Tribunal Suprem espanyol la inhabilitació dels dirigents independentistes",
+      "url": "https://www.vilaweb.cat/noticies/sant-vicenc-horts-amnistia-junqueras-romeva-bassa-turull/",
+      "published": "2026-10-20T16:25:07+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Dani Anglada i Valentí Sanjuan, premiats a la 43a edició del Trofeu de Campions amb Valors",
+      "excerpt": "Dani Anglada i Valentí Sanjuan són dos dels referents de l’esport català. El navegant invident Dani Anglada, amb les seves aventures nàutiques, ha estat protagonista per donar visibilitat a un esport tan apassionant com la vela, tant per al col·lectiu invident com per a la resta de la ciutadania. I Valentí Sanjuan, un atleta de […]",
+      "url": "https://beteve.cat/esports/dani-anglada-valenti-sanjuan-premiats-43-edicio-trofeu-campions-valors/",
+      "published": "2026-10-20T16:24:46+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/gala_mundo_deportivo_201026_OK-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Amplien els préstecs a joves per comprar un pis: cobriran rehabilitacions i compra de HPO",
+      "excerpt": "El govern de Salvador Illa continua donant recorregut a una de les mesures estrella de la seva legislatura, els préstecs a joves per a la primera compra d'un pis o una casa que els serveixi com a residència habitual. Ara també podran servir per finançar obres de rehabilitació i comprar habitatges que ja tenen la qualificació de protecció oficial (HPO), segons ha informat la consellera i portaveu de l'executiu, Sílvia Paneque, en roda de premsa aquest dimarts.",
+      "url": "https://www.ara.cat/economia/immobiliari/amplien-prestecs-joves-comprar-pis-cobriran-rehabilitacions-compra-hpo_1_5884659.html",
+      "published": "2026-10-20T16:16:25+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c7722ace-db96-42aa-bff4-e52636cf7675_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Miki Esparbé: “Cada vegada és més difícil poder viure en català a Catalunya”",
+      "excerpt": "Miki Esparbé ha estat entrevistat al bàsics, de betevé. Concretament a la secció ‘El mirador Barcelona’, en què diferents personalitats vinculades a la ciutat en parlen. L’actor català estrena Les coses excepcionals, dirigida per Pau Roca, el 4 de novembre al Teatre Borràs. És la primera vegada que Esparbé s’enfrontarà a un monòleg en què […]",
+      "url": "https://beteve.cat/cultura/miki-esparbe-dificil-viure-catala/",
+      "published": "2026-10-20T15:54:31+02:00",
+      "category": "cinema",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/mirador-miki-esparbe-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Catalunya dispara el dèficit comercial amb la Xina",
       "excerpt": "El dèficit comercial de Catalunya amb la Xina va marcar l'any passat 12.370 milions d'euros, un resultat que dobla el balanç comercial negatiu anotat el 2015 i és un 236% més gran que el del 2005, segons dades del govern espanyol. Els últims anys, el dèficit comercial de cada mes amb la Xina supera en molts casos els 1.000 milions d'euros, nivells que dupliquen els balanços negatius d'abans de la pandèmia. El sector on més creixen les importacions xineses és el dels automòbils i les…",
@@ -316,13 +406,23 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Intermitències i desaparicions",
+      "excerpt": "A la història del jazz hi ha uns quants músics que durant un període de temps, més o menys llarg, han desaparegut de la vida pública i, fins i tot, de l’activitat musical. Alguns ho han fet per motius personals relacionats amb el seu estat d’ànim, d’altres per problemes de salut i, fins i tot, […]",
+      "url": "https://beteve.cat/jazz-it/intermitencies-i-desaparicions/",
+      "published": "2026-10-20T15:34:31+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/jazzit_191026-2026-10-20.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "La Moncloa aprova 119 milions per a les zones tensionades a Catalunya en plena precampanya",
       "excerpt": "L'habitatge –motiu pel qual s'han anticipat les eleccions generals a l'Estat– entra de ple en la precampanya electoral del 29-N. Aquest dilluns ho va fer quan el president del govern espanyol, Pedro Sánchez, va anunciar una partida de 45 milions d'euros per ampliar l'oferta de places de residències universitàries arreu de l'Estat i impulsar l'allotjament assequible dirigit a ells. L'objectiu és mirar de donar un respir als estudiants universitaris que han de fer mans i mànigues per, molts cops sense èxit, trobar un pis. D'aquesta…",
       "url": "https://www.ara.cat/economia/moncloa-aprova-119-milions-zones-tensionades-catalunya-plena-precampanya_1_5884748.html",
       "published": "2026-10-20T15:31:23+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/d511694a-534d-4a0f-a19c-655fa4584af0_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/8d6e0f71-1ddd-4ea6-a68d-e342a82ab579_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
