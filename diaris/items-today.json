@@ -150,6 +150,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "Junqueras tancarà la llista d’ERC al congrés espanyol i Romeva en serà el primer suplent",
+      "excerpt": "La composició s'ha fet pública hores després d'haver aplicat el Tribunal Suprem espanyol la llei d'amnistia",
+      "url": "https://www.vilaweb.cat/noticies/junqueras-tancara-la-llista-erc-congres-espanyol-romeva/",
+      "published": "2026-10-20T21:43:53+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dimecres: tranquil amb alguns matisos",
       "excerpt": "Matí força fresc i dia suau",
@@ -426,6 +436,46 @@
       "category": "Andorra",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "A presó provisional un professor d'una escola de Madrid per agredir sexualment almenys nou menors",
+      "excerpt": "L'home tenia antecedents per fets similars, dels quals el centre no tenia coneixement",
+      "url": "https://www.3cat.cat/3catinfo/a-preso-provisional-un-professor-duna-escola-de-madrid-per-agredir-sexualment-almenys-nou-menors/noticia/3435211/",
+      "published": "2026-10-20T21:20:44+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/6/1792519661766.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Desnonen una mare i el fill de 9 anys a Barcelona: pagaven un lloguer, però no arribava al propietari",
+      "excerpt": "La desallotjada diu que pagava 400 euros per una habitació, que el titular del contracte no hauria abonat a la propietat, i està pendent des del 2023 d'una alternativa municipal",
+      "url": "https://www.3cat.cat/3catinfo/desnonen-una-mare-i-el-fill-de-9-anys-a-barcelona-pagaven-un-lloguer-pero-no-arribava-al-propietari/noticia/3435184/",
+      "published": "2026-10-20T21:14:52+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/5/1792522745150.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Fugida de pel·lícula a Sants: cau al pati d’un restaurant japonès i envaeix el pis d’una veïna",
+      "excerpt": "Els veïns del carrer d’Olzinelles, propers a la plaça de Bonet i Moixí, van ser testimonis divendres passat d’una escena digna de pel·lícula d’acció. Diversos testimonis han explicat a l’Infobarris que un home va provocar moments de tensió aquella nit. Encara amb l’ensurt al cos, recorden que l’individu va caure al pati d’un restaurant i […]",
+      "url": "https://beteve.cat/societat/fugida-pelicula-sants-cau-pati-restaurant-japones-pis-veina/",
+      "published": "2026-10-20T20:50:40+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/forat-pati-restaurant-olzinelles-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Meloni envia l'exèrcit a Milà i endureix penes després dels aldarulls pel cost de la vida",
+      "excerpt": "500 militars als carrers de Milà. És la resposta de l'executiu d'extrema dreta de Giorgia Meloni als aldarulls d'aquest cap de setmana a la localitat italiana, on els actes violents van ser especialment greus. Replicant el que passava a França , les protestes contra l'increment del cost de la vida van acabar en enfrontaments entre policia i manifestants i saquejos d'alguns comerços i botigues de luxe. La mateixa Meloni ha confirmat aquest dimarts, després d'una reunió del consell de ministres, l'aprovació del reforç militar, que…",
+      "url": "https://www.ara.cat/internacional/europa/meloni-envia-l-exercit-mila-endureix-penes-despres-dels-aldarulls-pel-cost-vida_1_5885044.html",
+      "published": "2026-10-20T20:50:38+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/068f3ea6-1774-4663-9844-76d6fc245b2a_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -959,12 +1009,12 @@
     },
     {
       "source": "ARA",
-      "title": "Zelenski diu que Trump reté intencionadament els míssils que necessita per defensar-se dels atacs russos",
-      "excerpt": "Els Estats Units estan retenint l'enviament a Ucraïna d'un lot important de míssils interceptors Patriot, segons denuncia el president Volodímir Zelenski, que ha assegurat que \"hi ha acords polítics que no s'han aplicat a escala operativa\". Un alt càrrec ucraïnès i dos responsables militars del país, que han parlat sota condició d'anonimat amb el portal Kyiv Independent, asseguren que el secretari de Guerra, Pete Hegseth, té els contractes de venda de míssils Patriot, però no els està signant. Aquestes armes són l'única defensa que té…",
+      "title": "Zelenski canvia el to amb Trump i agraeix el retorn de la col·laboració en intel·ligència",
+      "excerpt": "El president ucraïnès, Volodímir Zelenski, busca refer ponts amb el seu homòleg dels Estats Units, Donald Trump, després de la crisi desencadenada per l'acord del magnat novaiorquès amb el Kremlin per a la compra de dièsel . \"Estem agraïts que [la col·laboració en intel·ligència] funcioni ara\", ha dit el president ucraïnès després de la reunió a Oslo amb diversos líders europeus i l'enviat de la Casa Blanca, Steve Witkoff, per abordar la pau. Ucraïna ha denunciat des de fa una setmana que els Estats Units…",
       "url": "https://www.ara.cat/internacional/europa/zelenski-diu-trump-rete-intencionadament-missils-necessita-defensar-dels-atacs-russos_1_5884547.html",
       "published": "2026-10-20T15:15:23+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/e61150ea-4fda-4d00-885e-a8948554c0c6_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/b44b64f9-8c24-4cb2-bbac-630dfe4221c9_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1548,6 +1598,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "ARA",
+      "title": "\"Em vaig guardar bateria del mòbil per si em calia acomiadar-me\": els veïns d'Oliva inicien la reconstrucció després d'una nit \"eterna\"",
+      "excerpt": "Són les onze del matí i sota un sol gairebé estiuenc i un càlid vent de ponent, Irene Miralles i Salvador Morató fan un breu descans. Aprofiten la bona temperatura, que ja supera els vint graus, per agafar una mica d'aire i fumar uns cigarrets després d'un matí frenètic i esgotador. Fa hores que no paren de treure mobles i electrodomèstics fets malbé per l'aiguat que, entre la nit de diumenge i la matinada de dilluns, va negar diverses comarques valencianes, especialment la Safor i…",
+      "url": "https://www.ara.cat/societat/successos/troben-mort-agricultor-prop-d-oliva-despres-temporal-dana-adam_1_5884516.html",
+      "published": "2026-10-20T10:31:40+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3c8fb0bc-7051-42fe-876a-2a8f30a1304c_16-9-aspect-ratio_default_1061167.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "[VÍDEO] Catalanofòbia entre riures a la banqueta del Reial Madrid: “Saps què vol dir ‘polaco’?”",
       "excerpt": "Una càmera capta una conversa entre el delegat del Madrid i Kylian Mbappé sobre un càntic catalanòfob dels afeccionats al Bernabéu",
@@ -1760,7 +1820,7 @@
     {
       "source": "ARA",
       "title": "Com és el model d'escola gallega que Feijóo vol exportar a Catalunya?",
-      "excerpt": "En plena precampanya, Alberto Núñez Feijóo s'ha compromès personalment a \"garantir el castellà\" a les aules. A la pràctica, es tracta de seguir el model que el líder del PP va aplicar a Galícia quan hi governava i que, a Catalunya, comportaria reduir les hores lectives en català . Repassem com funciona el model lingüístic a les escoles de l'autonomia actualment presidida pel popular Alfonso Rueda, successor de l'ara candidat a la Moncloa el 29-N, i que entitats en defensa del gallec i experts en…",
+      "excerpt": "En plena precampanya, Alberto Núñez Feijóo s'ha compromès personalment a \"garantir el castellà\" a les aules. A la pràctica, es tracta de seguir el model que el líder del PP va aplicar a Galícia quan hi governava i que, a Catalunya, comportaria reduir les hores lectives en català . Repassem com funciona el model lingüístic de les escoles de l'autonomia actualment presidida pel popular Alfonso Rueda, successor de l'ara candidat a la Moncloa el 29-N, i que entitats en defensa del gallec i experts en…",
       "url": "https://www.ara.cat/politica/model-d-escola-gallega-feijoo-vol-exportar-catalunya_1_5884012.html",
       "published": "2026-10-20T07:00:11+02:00",
       "category": "Actualitat",
