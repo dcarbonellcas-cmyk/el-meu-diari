@@ -2,14 +2,29 @@
   "date": "2026-10-20",
   "items": [
     {
+      "source": "betevé",
+      "title": "Gairebé 200 sensellar van pernoctar en allotjaments d’emergència pels aiguats d’octubre a Barcelona",
+      "excerpt": "Segons l’Ajuntament, els episodis de pluja intensa de principis d’octubre a Barcelona van fer que gairebé 200 persones en situació de vulnerabilitat i de sensellarisme haguessin de pernoctar en allotjaments d’emergència. En concret, es van habilitar llits al CANE (el Centre d’Acolliment Nocturn d’Emergències, al passatge del Dos de Maig) i les estacions de Sants […]",
+      "url": "https://beteve.cat/politica/gairebe-200-sensellar-pernoctar-allotjaments-emergencia-aiguats-octubre-barcelona/",
+      "published": "2026-10-20T15:12:15+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/05/recompte-sensellar-8.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo",
       "title": "Els aiguats destapen una estafa a Malgrat: descobreixen que cotxes i cases no estaven assegurats",
       "excerpt": "La policia ja ha rebut una dotzena de denúncies i n'espera més, perquè el presumpte estafador era una persona molt coneguda al barri de Malgrat Nord",
       "url": "https://www.3cat.cat/3catinfo/els-aiguats-destapen-una-estafa-a-malgrat-sense-assegurances-estalvis-ni-plans-de-pensions/noticia/3435058/",
       "published": "2026-10-20T13:33:41+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/2/3/1792492043332.jpg",
-      "priority": "1 · Urgent"
+      "image": "https://img.3cat.cat/multimedia/jpg/4/0/1792501636804.jpg",
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431483/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-aiguats-destapen-una-estafa-a-malgrat-sense-assegurances-estalvis-ni-plans-de-pensions/noticia/3435058/"
+      }
     },
     {
       "source": "ARA",
@@ -103,6 +118,26 @@
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/4/1792405326747.jpeg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El govern italià vol desplegar l'exèrcit a Milà per evitar protestes i aldarulls com els de diumenge",
+      "excerpt": "En algunes ciutats italianes hi ha hagut manifestacions inspirades per les de França, que han acabat amb destrosses i saquejos, i Meloni vol utilitzar la policia i l'exèrcit per evitar que es repeteixin",
+      "url": "https://www.3cat.cat/3catinfo/el-govern-italia-vol-desplegar-lexercit-a-mila-per-evitar-protestes-i-aldarulls-com-els-de-diumenge/noticia/3435045/",
+      "published": "2026-10-20T14:56:28+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/9/1792495713790.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "El cost de l’habitatge dispara la pobresa laboral fins a gairebé el 13 % a Catalunya, segons Oxfam",
+      "excerpt": "(ACN) La pobresa laboral a Catalunya arriba gairebé al 13 %. Ho diu un informe d’Oxfam Intermón que denuncia que treballar no garanteix evitar la pobresa. Catalunya se situa com la segona comunitat amb la taxa més elevada en incorporar les despeses residencials, per darrere de Madrid, on passa del 7,29 % al 12,73 %. […]",
+      "url": "https://beteve.cat/societat/cost-habitatge-dispara-pobresa-laboral-catalunya/",
+      "published": "2026-10-20T14:55:33+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/recomanacions-habitatge-brusselles-2026-09-09.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -261,6 +296,116 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Catalunya dispara el dèficit comercial amb la Xina",
+      "excerpt": "El dèficit comercial de Catalunya amb la Xina va marcar l'any passat 12.370 milions d'euros, un resultat que dobla el balanç comercial negatiu anotat el 2015 i és un 236% més gran que el del 2005, segons dades del govern espanyol. Els últims anys, el dèficit comercial de cada mes amb la Xina supera en molts casos els 1.000 milions d'euros, nivells que dupliquen els balanços negatius d'abans de la pandèmia. El sector on més creixen les importacions xineses és el dels automòbils i les…",
+      "url": "https://www.ara.cat/economia/comerc/catalunya-dispara-deficit-comercial-xina_1_5884749.html",
+      "published": "2026-10-20T15:46:48+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/41369f65-49ef-4f21-abc0-dc8f7af03352_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Prop de 400 alumnes d’escoles de Barcelona homenatgen persones sense llar que han mort a la ciutat",
+      "excerpt": "Arrels Fundació calcula que en els darrers 10 anys, 700 persones sense llar han mort a la ciutat de Barcelona. Ja fa anys que l’entitat els ret homenatge amb diverses accions i, ara, ha volgut fer un pas més enllà i implicar també centres educatius. Durant tota aquesta setmana, prop de 400 alumnes participaran en […]",
+      "url": "https://beteve.cat/societat/escoles-barcelona-homenatgen-persones-sense-llar-mortes/",
+      "published": "2026-10-20T15:44:00+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/arrels-2-201026-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La Moncloa aprova 119 milions per a les zones tensionades a Catalunya en plena precampanya",
+      "excerpt": "L'habitatge –motiu pel qual s'han anticipat les eleccions generals a l'Estat– entra de ple en la precampanya electoral del 29-N. Aquest dilluns ho va fer quan el president del govern espanyol, Pedro Sánchez, va anunciar una partida de 45 milions d'euros per ampliar l'oferta de places de residències universitàries arreu de l'Estat i impulsar l'allotjament assequible dirigit a ells. L'objectiu és mirar de donar un respir als estudiants universitaris que han de fer mans i mànigues per, molts cops sense èxit, trobar un pis. D'aquesta…",
+      "url": "https://www.ara.cat/economia/moncloa-aprova-119-milions-zones-tensionades-catalunya-plena-precampanya_1_5884748.html",
+      "published": "2026-10-20T15:31:23+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d511694a-534d-4a0f-a19c-655fa4584af0_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Pantalla Barcelona 2026, cinema gratuït als centres cívics: programa",
+      "excerpt": "Acostar el cinema als barris de la ciutat és l’objectiu del Pantalla Barcelona, organitzat per l’Institut de Cultura. Un pla per fer a Barcelona del 27 d’octubre del 2026 al 21 de març del 2027. Les pel·lícules, que en total són 21, es podran veure a 23 centres cívics. Es faran un total de 165 […]",
+      "url": "https://beteve.cat/agenda/pantalla-barcelona-cinema-centres-civics/",
+      "published": "2026-10-20T15:23:20+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pantalla-bcn-2026-oct-mars-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Zelenski diu que Trump reté intencionadament els míssils que necessita per defensar-se dels atacs russos",
+      "excerpt": "Els Estats Units estan retenint l'enviament a Ucraïna d'un lot important de míssils interceptors Patriot, segons denuncia el president Volodímir Zelenski, que ha assegurat que \"hi ha acords polítics que no s'han aplicat a escala operativa\". Un alt càrrec ucraïnès i dos responsables militars del país, que han parlat sota condició d'anonimat amb el portal Kyiv Independent, asseguren que el secretari de Guerra, Pete Hegseth, té els contractes de venda de míssils Patriot, però no els està signant. Aquestes armes són l'única defensa que té…",
+      "url": "https://www.ara.cat/internacional/europa/zelenski-diu-trump-rete-intencionadament-missils-necessita-defensar-dels-atacs-russos_1_5884547.html",
+      "published": "2026-10-20T15:15:23+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e61150ea-4fda-4d00-885e-a8948554c0c6_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer aquest cap de setmana a Barcelona? Agenda",
+      "excerpt": "Afegeix betevé com a font preferida A l’agenda de betevé ens encanta remenar i triar els millors plans de la ciutat! Com que n’hi ha tants, mirem de fer-te’n una selecció, tot i que ja saps que la llista és gairebé infinita. Aquestes són les nostres recomanacions per a aquest cap de setmana. 🤸 Tres […]",
+      "url": "https://beteve.cat/agenda/que-fer-aquest-cap-de-setmana-a-barcelona/",
+      "published": "2026-10-20T15:15:12+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/04/que-fer-finde-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-739/",
+      "published": "2026-10-20T15:12:38+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Suspenen el judici dels bombers voluntaris de la demarcació de Lleida contra la Generalitat",
+      "excerpt": "Bombers Precaris en Lluita reclama l'equiparació de les condicions laborals amb les dels bombers funcionaris",
+      "url": "https://www.vilaweb.cat/noticies/judici-bombers-voluntaris-lleida-generalitat/",
+      "published": "2026-10-20T15:07:34+02:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "‘Jaciment Barcelona’: Rambla, refugis i la feina del Servei i de l’Arxiu arqueològics [capítol 2]",
+      "excerpt": "A la reforma de la Rambla, a cada pas es desenterren restes arqueològiques extraordinàries. Aquest segon capítol de Jaciment Barcelona no només descobreix què es conserva dels orígens del passeig sota els panots. També reconstrueix el passat imponent de la primera muralla medieval de Barcelona, que va dominar aquesta part de la ciutat durant cinc segles. Quants morts hi ha a l’antic dipòsit […]",
+      "url": "https://beteve.cat/jaciment-barcelona/rambla-muralla-refugis-capitol-2/",
+      "published": "2026-10-20T15:06:54+02:00",
+      "category": "història",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/jaciment-bala-refugi-2026-10-14.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El musical en català que arriba de Madrid carregat de premis",
+      "excerpt": "Quan Dídac Flores (1992) i Mikel Herzog Jr. (1995) van trobar-se per casualitat a l'AVE de Barcelona cap a Madrid i van descobrir que tots dos anaven al mateix càsting, no s'imaginaven que, tres anys després, s'haurien convertit en un pseudomatrimoni i que viurien junts un èxit aclaparador a la capital espanyola. Des de fa tres temporades, els intèrprets fan tots els papers de l'auca d' Assassinat per a dos , un musical de Kellen Blair i Joe Kinosian que va arrasar als PremiOFF, als…",
+      "url": "https://www.ara.cat/cultura/teatre/musical-catala-madrid-carregat-premis-assassinat-per-dos_1_5884693.html",
+      "published": "2026-10-20T14:57:18+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cc96b408-32fe-4963-bef0-9ea0c948b6f5_source-aspect-ratio_default_0_x1869y642.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Acusen falsament dos catalans d'origen magribí d'un crim comès a Burgos: \"Fa tres dies que estic col·lapsat\"",
+      "excerpt": "Les víctimes han posat el cas en mans de la justícia i ja tenen pràcticament identificat l'origen del tuit viralitzat per l'extrema dreta, amb les seves fotos, en què se'ls feia responsables de la mort d'una dona de 83 anys",
+      "url": "https://www.3cat.cat/3catinfo/acusen-falsament-dos-catalans-dorigen-magribi-dun-crim-comes-a-burgos-fa-tres-dies-que-estic-collapsat/noticia/3435025/",
+      "published": "2026-10-20T14:57:13+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/4/5/1792489961654.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Els veïns d’Oliva tornen a casa: “Ho hem perdut tot”",
       "excerpt": "Els afectats per les inundacions comencen a retirar el fang i els mobles malmesos després d'haver-se refugiat als pisos superiors dels edificis",
@@ -292,7 +437,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Illa i Puente tractaran el traspàs pendent de l’R1 dijous en una reunió",
+      "title": "Illa i Puente tractaran del traspàs pendent de la R1 dijous en una reunió",
       "excerpt": "Encara és incert com evolucionaran aquests acords després de les eleccions espanyoles del 29 de novembre",
       "url": "https://www.vilaweb.cat/noticies/illa-puente-reunio-traspas-pendent-r1/",
       "published": "2026-10-20T14:48:18+02:00",
@@ -332,7 +477,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Del \"Per fi s'ha fet justícia\" al \"No és perdó\": reaccions a l'amnistia dels líders del procés",
+      "title": "Del \"per fi s'ha fet justícia\" al \"no és perdó\": reaccions a l'amnistia dels líders del procés",
       "excerpt": "Turull demana l'amnistia total perquè puguin tornar els exiliats i Junqueras diu que la decisió posa fi a una injustícia",
       "url": "https://www.3cat.cat/3catinfo/del-per-fi-sha-fet-justicia-al-no-es-perdo-reaccions-a-lamnistia-dels-liders-del-proces/noticia/3435100/",
       "published": "2026-10-20T14:13:45+02:00",
@@ -391,16 +536,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Pantalla Barcelona 2026, cinema gratuït als centres cívics: programa",
-      "excerpt": "Acostar el cinema als barris de la ciutat és l’objectiu del Pantalla Barcelona que organitza l’Institut de Cultura. Un pla per fer a Barcelona del 27 d’octubre de 2026 al 21 de març de 2027. Les pel·lícules, que en total són 21, es podran veure a 23 centres cívics. Es faran un total de 165 […]",
-      "url": "https://beteve.cat/agenda/pantalla-barcelona-cinema-centres-civics/",
-      "published": "2026-10-20T13:46:09+02:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pantalla-bcn-2026-oct-mars-2026-10-20.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "ARA",
       "title": "Competència exigeix a Renfe que doni accés a Ouigo als seus tallers de Madrid i Barcelona",
       "excerpt": "La Comissió Nacional dels Mercats i la Competència (CNMC) ha instat Renfe a permetre que Ouigo faci servir els seus tallers de Cerro Negro/Santa Catalina i Fuencarral (a Madrid) i de Can Tunis (a Barcelona), perquè considera que es tracta de compromisos acordats entre les dues empreses.",
@@ -442,12 +577,32 @@
     },
     {
       "source": "betevé",
+      "title": "Salvador Sobral presenta ‘A Flor do recomeço’: llibertat, complicitats i retrobament",
+      "excerpt": "Rebem Salvador Sobral, una de les veus més personals de la música portuguesa, per parlar del seu nou disc, A flor do recomeço (“La flor del recomençament”). Amb ell repassem una trajectòria marcada pel jazz, la cançó d’autor i la llibertat musical, des dels seus inicis i la seva formació a Barcelona fins a discos […]",
+      "url": "https://beteve.cat/tot-passa/salvador-sobral-presenta-a-flor-do-recomeco-llibertat-complicitats-i-retrobament/",
+      "published": "2026-10-20T13:29:04+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/totpassa_salvadorsobral-2026-10-20.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "Manifestació de treballadors de supermercats davant de Foment del Treball",
       "excerpt": "Treballadors de supermercats i autoserveis d’alimentació s’han manifestat aquest dimarts davant de Foment del Treball a Barcelona per reclamar millores salarials i laborals. Fa dues setmanes ja van convocar una vaga els dies 24 i 31 de desembre —en ple Nadal— i la mobilització d’aquest dimarts vol pressionar les patronals GEPSAC i CEDAC per fer […]",
       "url": "https://beteve.cat/economia/manifestacio-treballadors-supermercats-foment-treball/",
       "published": "2026-10-20T13:22:21+02:00",
       "category": "economia",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/manifestacio-supermercats-foment-1-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Sienna inicia nova etapa amb ‘LINCE’: instint, pop alternatiu i llibertat creativa",
+      "excerpt": "Què vol dir ser indie avui? Després de gairebé una dècada obrint-se camí dins del pop alternatiu, el músic valencià Alejandro Ruiz, conegut com a Sienna, inicia una nova etapa amb Universal Music i ens avança en primícia una cançó de LINCE, el seu nou disc, que veurà la llum aquest divendres 23 d’octubre. Nascut […]",
+      "url": "https://beteve.cat/tot-passa/sienna-inicia-nova-etapa-amb-lince-instint-pop-alternatiu-i-llibertat-creativa/",
+      "published": "2026-10-20T13:21:20+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/totpassa_sienna-2026-10-20.webp",
       "priority": "3 · Altres notícies"
     },
     {
@@ -577,7 +732,7 @@
       "url": "https://llegim.ara.cat/actualitat/premi-anagrama-crit-d-alerta-privatitzacio-trampa-ia_1_5884593.html",
       "published": "2026-10-20T12:18:14+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/13b49b33-bc52-4d57-bd1c-16acad4cc3cb_16-9-aspect-ratio_default_0.png",
+      "image": "https://static1.ara.cat/clip/51b680f7-3e5d-448d-981a-26da993579e0_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -943,7 +1098,12 @@
       "published": "2026-10-20T07:04:51+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/8/5/1792488305858.jpeg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431484/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/judici-clau-a-lleida-per-al-futur-laboral-dels-bombers-voluntaris-que-reclamen/noticia/3434253/"
+      }
     },
     {
       "source": "ARA",
@@ -1018,7 +1178,7 @@
     {
       "source": "3CatInfo",
       "title": "Les parelles amb fills en comú tindran dret a la pensió de viduïtat acreditant 2 anys de convivència",
-      "excerpt": "El Consell de Ministres aprovarà aquest dimarts un reial decret llei amb diferents reformes socials, abans de les eleccions del 29 de novembre",
+      "excerpt": "El Consell de Ministres aprova un reial decret llei amb que amplia la prestació per cura de fills amb malalties greus o per orfendat en casos de violència de gènere",
       "url": "https://www.3cat.cat/3catinfo/les-parelles-de-fet-amb-fills-tindran-dret-a-la-pensio-de-viduitat-acreditant-2-anys-de-convivencia/noticia/3434978/",
       "published": "2026-10-20T06:44:19+02:00",
       "category": "Actualitat",
