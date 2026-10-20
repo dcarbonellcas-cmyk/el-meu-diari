@@ -150,9 +150,51 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "Rècord de pluja a Còrsega provocat per la dana Adam",
+      "excerpt": "Una successió de tempestes ha batut rècords a Còrsega, s'hi han acumulat 196 mm en una hora",
+      "url": "https://www.3cat.cat/3catinfo/record-de-pluja-a-corsega-provocat-per-la-dana-adam/noticia/3435176/",
+      "published": "2026-10-20T19:16:16+02:00",
+      "updated": "2026-10-20T19:17:47+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/4/1792507764847.jpeg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimecres: tranquil amb alguns matisos",
+      "excerpt": "Matí força fresc i dia suau",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-tranquil-amb-alguns-matisos/noticia/3435174/",
+      "published": "2026-10-20T18:35:35+02:00",
+      "updated": "2026-10-20T18:52:24+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/3/1792505343436.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "L’acampada denuncia que els han tallat la llum, però l’Ajuntament diu que és per seguretat",
+      "excerpt": "L’Ajuntament de Barcelona ha decidit tallar el subministrament elèctric d’una part dels fanals que il·luminen l’acampada de la plaça de Catalunya per motius de seguretat. Segons han explicat fonts municipals a betevé, el consistori ha deixat a les fosques aquest espai després que un informe dels Bombers advertís del risc imminent que suposava que la […]",
+      "url": "https://beteve.cat/societat/acampada-denuncia-talls-llum-ajuntament-diu-seguretat/",
+      "published": "2026-10-20T18:49:02+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/acampada-placa-catalunya-fosques-2026-10-20.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Educació no eliminarà les pantalles al segon cicle d'infantil, però en restringirà l'ús",
+      "excerpt": "Les pantalles digitals no es poden suprimir del tot, com havia anunciat el govern, perquè segons ha explicat el departament s'havien adquirit amb els fons europeus Next Generation",
+      "url": "https://www.3cat.cat/3catinfo/educacio-no-eliminara-les-pantalles-al-segon-cicle-dinfantil-pero-en-restringira-lus/noticia/3435160/",
+      "published": "2026-10-20T18:30:47+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/8/1739374489982.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "Habitatge: un full de ruta",
-      "excerpt": "La manca de consens al voltant dels decrets llei sobre habitatge del govern central no han fet més que confirmar la complexitat del problema de l’habitatge. Per resoldre’l caldria comptar amb la participació de tots els agents possibles: representants d’entitats socials, sindicats, professionals dels serveis socials i administracions locals, autonòmiques i estatals, així com funcionaris vinculats directament a les polítiques d’habitatge (un comitè d’experts). Amb una visió holística, s’hauria d’elaborar un pla estratègic sobre l’habitatge (PEH) amb perspectiva de llarg termini. No n’hi ha prou…",
+      "excerpt": "La manca de consens al voltant dels decrets llei sobre habitatge del govern central no ha fet més que confirmar la complexitat del problema de l’habitatge. Per resoldre’l caldria comptar amb la participació de tots els agents possibles: representants d’entitats socials, sindicats, professionals dels serveis socials i administracions locals, autonòmiques i estatals, així com funcionaris vinculats directament a les polítiques d’habitatge (un comitè d’experts). Amb una visió holística, s’hauria d’elaborar un pla estratègic sobre l’habitatge (PEH) amb perspectiva de llarg termini. No n’hi ha prou…",
       "url": "https://www.ara.cat/opinio/habitatge-full-ruta_129_5879987.html",
       "published": "2026-10-20T18:01:01+02:00",
       "category": "Actualitat",
@@ -356,6 +398,96 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "Barcelona tornarà a acollir un torneig d’escacs d’elit després de trenta-set anys",
+      "excerpt": "Magnus Carlsen, número u del món i un dels millors escaquistes de la història, serà la gran estrella de la MOVE Cup, que reunirà vuit jugadors de primer nivell el gener del 2027",
+      "url": "https://www.vilaweb.cat/noticies/barcelona-torneig-escacs-elit/",
+      "published": "2026-10-20T19:39:14+02:00",
+      "category": "Esports",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’estat francès manté les quedes nocturnes a París i Lió i n’imposa de noves a Marsella i Bordeu",
+      "excerpt": "Les restriccions s’aplicaran per segona nit consecutiva en unes quantes ciutats, després d’una nit sense incidents greus · A Marsella i Bordeus afectaran únicament els menors d’edat",
+      "url": "https://www.vilaweb.cat/noticies/estat-frances-quedes-nocturnes-paris-lio-marsella-bordeu/",
+      "published": "2026-10-20T19:19:23+02:00",
+      "category": "França",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-21-10-2026_134_5885125.html",
+      "published": "2026-10-20T19:05:02+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-21-10-2026_134_5884893.html",
+      "published": "2026-10-20T19:05:02+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La Champions en directe: PSG-Barça",
+      "excerpt": "",
+      "url": "https://www.ara.cat/esports/barca/champions-directe-psg-barca_26_5885175.html",
+      "published": "2026-10-20T19:03:18+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Carbonara d'all rostit, la recepta de l'Ada Parellada",
+      "excerpt": "L'all és un ingredient extraordinari. Per això la cuinera del restaurant Semproniana revisita la recepta italiana de la carbonara, però en fa una versió amb all rostit.",
+      "url": "https://mengem.ara.cat/receptes/carbonara-d-all-rostit-recepta-l-ada-parellada_1_5855243.html",
+      "published": "2026-10-20T19:00:57+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/27fd4e6a-b420-4ca0-a168-42f4216d75b9_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Acusen falsament dos catalans d'assassinar una anciana a Burgos: \"Arribarem fins al final\"",
+      "excerpt": "La sospita de l'Ahmed és que algú va buscar dos noms àrabs bastant comuns a les xarxes socials i ells, per mala sort, van ser els escollits. \"Van escriure el nom d'una persona racialitzada i vaig sortir jo\", narra. I la sospita del Youssef és que el dia anterior va penjar un vídeo a TikTok que es va fer prou viral i van agafar la seva foto d'allà. El resultat és una publicació amb la seva imatge acompanyada de dos noms que no són els…",
+      "url": "https://www.ara.cat/societat/successos/acusen-falsament-catalans-d-assassinar-anciana-burgos-arribarem-fins-final_1_5884879.html",
+      "published": "2026-10-20T18:51:29+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3e1eb1b5-5e64-4b32-8097-56589abd451a_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Calamocha-Europa, de la Copa del Rei, en directe a betevé",
+      "excerpt": "L’aposta pel futbol en directe torna a la televisío pública de Barcelona. El partit entre el Calamocha i l’Europa, de la primera eliminatòria de la Copa del Rei, es podrà seguir en directe a betevé. L’enfrontament entre aragonesos i barcelonins es disputarà el dimarts 27 d’octubre a partir de les 19 h. betevé viatjarà fins […]",
+      "url": "https://beteve.cat/esports/calamocha-europa-copa-rei-directe-beteve/",
+      "published": "2026-10-20T18:49:12+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/picto-europa-rayo-victoria-2026-09-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Júlia Jové i Xavi Navarro",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/julia-jove-i-xavi-navarro/",
+      "published": "2026-10-20T18:43:12+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "\"La música és la meva manera de pensar la vida\"",
       "excerpt": "Santiago Auserón (Saragossa, 1954) despenja el telèfon a Atenes. Hi assaja amb els músics grecs Vaggelis Tzeretas i Thodoris Karellas el repertori per a concerts com el que farà aquest divendres, 23 d'octubre, al Casino l'Aliança del Poblenou (21 h), a Barcelona. Amb ells va enregistrar el disc Nerantzi (La Huella Sonora, 2025). És el viatge a l'est d'Auserón, que adapta al castellà els ulls brillants del rebético, una de les manifestacions més singulars de la música popular grega.",
@@ -373,12 +505,12 @@
       "published": "2026-10-20T18:25:33+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/6/1790943707167.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431502/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/les-pedreres-de-destruccio-de-la-natura-a-refugi-de-biodiversitat/noticia/3431942/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -403,7 +535,7 @@
     {
       "source": "ARA",
       "title": "\"Dormo molt poc i alhora em sobrevenen moments d'eufòria\"",
-      "excerpt": "De perfil té la típica tira de fotografies de carnet fetes en un fotomaton: diu que perd molt sovint el DNI. I és molt fàcil imaginar-se Carme Arcarazo (Barcelona, 1996) tan apassionada amb una cosa que es descuida la cartera. Economista especialitzada en política urbana i portaveu del Sindicat de Llogateres, les últimes setmanes tot el país l'ha vist i sentit prou a les ràdios i als platós, i ha captat l'energia que irradia. Havíem quedat per parlar del que va passar amb la Maricarmen,…",
+      "excerpt": "De perfil té la típica tira de fotografies de carnet fetes en un fotomaton: diu que perd molt sovint el DNI. I és molt fàcil imaginar-se Carme Arcarazo (Barcelona, 1996) tan apassionada amb una cosa que es descuida la cartera. Economista especialitzada en política urbana i portaveu del Sindicat de Llogateres, les últimes setmanes tot el país l'ha vist i sentit prou a les ràdios i als platós, i ha captat l'energia que irradia. Havíem quedat per parlar abans del que va passar amb la…",
       "url": "https://www.ara.cat/societat/dormo-poc-alhora-em-sobrevenen-moments-d-euforia_128_5884585.html",
       "published": "2026-10-20T18:01:00+02:00",
       "category": "Actualitat",
@@ -538,11 +670,11 @@
     {
       "source": "ARA",
       "title": "Temps canviant i ambient de plena tardor els pròxims dies",
-      "excerpt": "La calma s’ha imposat a la majoria de comarques aquest dimarts, després del temporal de pluges dels últims dies, que ha estat històric, de rècord i tràgic al sud del País Valencià. Els pròxims dies no s’esperen nous temporals importants a casa nostra, tot i que el temps es mantindrà canviant i s’escaparan alguns ruixats locals. L’ambient es mantindrà de plena tardor.",
+      "excerpt": "La calma s’ha imposat a la majoria de comarques aquest dimarts, després del temporal de pluges dels últims dies, que ha estat històric, de rècord i tràgic al sud del País Valencià. Tot i això, s'han repetit alguns xàfecs de tarda localment intensos a les comarques de Girona que han deixat, per exemple, 14 l/m² a Vilablareix (Gironès). Els pròxims dies no s’esperen nous temporals importants a casa nostra, tot i que el temps es mantindrà canviant i s’escaparan alguns ruixats locals. L’ambient es mantindrà…",
       "url": "https://www.ara.cat/previsions/temps-canviant-ambient-plena-tardor-proxims-dies_1_5884909.html",
       "published": "2026-10-20T16:58:59+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/66e1d363-6f40-478e-be6b-37cc9b3a9f38_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/87f59e07-3ef5-41cb-aeaa-3934e454231e_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -772,7 +904,7 @@
       "url": "https://www.3cat.cat/3catinfo/acusen-falsament-dos-catalans-dorigen-magribi-dun-crim-comes-a-burgos-fa-tres-dies-que-estic-collapsat/noticia/3435025/",
       "published": "2026-10-20T14:57:13+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpeg/4/5/1792489961654.jpeg",
+      "image": "https://img.3cat.cat/multimedia/png/7/3/1792515306937.png",
       "priority": "3 · Altres notícies"
     },
     {
@@ -847,13 +979,18 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Del \"per fi s'ha fet justícia\" al \"no és perdó\": reaccions a l'amnistia dels líders del procés",
-      "excerpt": "Turull demana l'amnistia total perquè puguin tornar els exiliats i Junqueras diu que la decisió posa fi a una injustícia",
+      "title": "Junqueras i Turull celebren la seva amnistia com una victòria que torna el conflicte al terreny polític",
+      "excerpt": "El secretari general de Junts demana l'amnistia total perquè puguin tornar els exiliats i el president d'ERC diu que la decisió posa fi a una injustícia",
       "url": "https://www.3cat.cat/3catinfo/del-per-fi-sha-fet-justicia-al-no-es-perdo-reaccions-a-lamnistia-dels-liders-del-proces/noticia/3435100/",
       "published": "2026-10-20T14:13:45+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/4/6/1623688258764.jpg",
-      "priority": "3 · Altres notícies"
+      "image": "https://img.3cat.cat/multimedia/png/0/5/1792516468750.png",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431564/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/del-per-fi-sha-fet-justicia-al-no-es-perdo-reaccions-a-lamnistia-dels-liders-del-proces/noticia/3435100/"
+      }
     },
     {
       "source": "betevé",
@@ -868,7 +1005,7 @@
     {
       "source": "ARA",
       "title": "La cara menys amable de l'esport professional: \"Estic en el punt de decidir si ho deixo o no\"",
-      "excerpt": "Com passa en moltes disciplines, jugar a Primera no sempre permet viure exclusivament de l'esport. En futbol sala, això passa especialment en la categoria femenina. Per a moltes jugadores, competir al màxim nivell implica compaginar els entrenaments i els partits amb una altra feina o amb els estudis. Laia Rojo, jugadora de l’AE Les Corts-UBAE, l’únic equip català que milita actualment a la màxima categoria estatal, n'és un exemple: ha d'estudiar biomedicina per pensar en el seu futur. “No podem no fer res”, afirma. Al…",
+      "excerpt": "Com passa en moltes disciplines, jugar a la màxima categoria del teu esport no sempre te'n permet viure'n exclusivament. En futbol sala això passa especialment en la categoria femenina. Per a moltes jugadores, competir al màxim nivell implica compaginar els entrenaments i els partits amb una altra feina o amb els estudis. Laia Rojo, jugadora de l’AE Les Corts-UBAE, l’únic equip català que milita actualment a la màxima categoria estatal, n'és un exemple: ha d'estudiar biomedicina per pensar en el seu futur. “No podem no…",
       "url": "https://www.ara.cat/esports/cara-menys-amable-esport-professional-punt-decidir-ho-deixo-no_130_5883791.html",
       "published": "2026-10-20T14:00:00+02:00",
       "category": "Actualitat",
@@ -1042,7 +1179,7 @@
       "url": "https://www.ara.cat/politica/suprem-amnistia-junqueras-turull-bassa-romeva-aixeca-seva-inhabilitacio_1_5884626.html",
       "published": "2026-10-20T12:51:37+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/c6f26dc1-be63-4f51-a34d-6ac2190ad6e7_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/0151261f-3ab7-4b0b-90d5-5d7ebdf876e0_16-9-aspect-ratio_default_0.jpg",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431512/embed/",
         "source": "3CatInfo",
@@ -1372,8 +1509,8 @@
     },
     {
       "source": "ARA",
-      "title": "Les parelles amb fills tindran dret a pensió de viudetat: els detalls del nou paquet social de Sánchez",
-      "excerpt": "Aquest dimarts està previst que el consell de ministres tramiti un reial decret llei amb diverses millores socials, un pas més en l'estratègia de Sánchez en precampanya, que consisteix a proposar un seguit de mesures socials i econòmiques. El decret en qüestió va dirigit als vidus i vídues de parelles de fet, víctimes de violència masclista i famílies amb menors que pateixen malalties greus.",
+      "title": "La pensió per viudetat arriba a parelles amb fills no formalitzades",
+      "excerpt": "El dret a una pensió per viudetat s'amplia a aquelles parelles que viuen juntes i tenen fills, però no estan casades o tampoc s'han registrat com a parella de fet. Es tracta d'una unitat familiar que sovint passa desapercebuda perquè no hi ha dades oficials, però que ha crescut amb el temps (se sap, per exemple, que se celebren molts menys matrimonis) i en paral·lel a la transformació que ha viscut –i viu– la família a Espanya. Aquest dimarts el govern espanyol ha aprovat un…",
       "url": "https://www.ara.cat/politica/eleccions-generals/prestacions-viudetat-parelles-fet-victimes-violencia-masclista-mesures-socials-aprova-sanchez-avui_1_5884375.html",
       "published": "2026-10-20T09:19:17+02:00",
       "category": "Actualitat",
@@ -1503,7 +1640,7 @@
     {
       "source": "ARA",
       "title": "Com és el model d'escola gallega que Feijóo vol exportar a Catalunya?",
-      "excerpt": "Alberto Núñez Feijóo s'ha fet un fart de repetir el concepte de \"bilingüisme cordial\" a l'hora de parlar de l'encaix de les llengües cooficials a l'Estat. Un dels seus leitmotivs és defensar que garantirà l'ensenyament del castellà a les escoles perquè hi hagi un \"equilibri\" entre llengües en els territoris amb pluralitat lingüística. A la pràctica, això significa reduir la presència del català seguint el que ja va aplicar el líder del PP quan governava a Galícia. Repassem com funciona el model lingüístic a les…",
+      "excerpt": "En plena precampanya, Alberto Núñez Feijóo s'ha compromès personalment a \"garantir el castellà\" a les aules. A la pràctica, es tracta de seguir el model que el líder del PP va aplicar a Galícia quan hi governava i que, a Catalunya, comportaria reduir les hores lectives en català . Repassem com funciona el model lingüístic a les escoles de l'autonomia actualment presidida pel popular Alfonso Rueda, successor de l'ara candidat a la Moncloa el 29-N, i que entitats en defensa del gallec i experts en…",
       "url": "https://www.ara.cat/politica/model-d-escola-gallega-feijoo-vol-exportar-catalunya_1_5884012.html",
       "published": "2026-10-20T07:00:11+02:00",
       "category": "Actualitat",
