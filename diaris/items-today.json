@@ -150,6 +150,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "ARA",
+      "title": "Habitatge: un full de ruta",
+      "excerpt": "La manca de consens al voltant dels decrets llei sobre habitatge del govern central no han fet més que confirmar la complexitat del problema de l’habitatge. Per resoldre’l caldria comptar amb la participació de tots els agents possibles: representants d’entitats socials, sindicats, professionals dels serveis socials i administracions locals, autonòmiques i estatals, així com funcionaris vinculats directament a les polítiques d’habitatge (un comitè d’experts). Amb una visió holística, s’hauria d’elaborar un pla estratègic sobre l’habitatge (PEH) amb perspectiva de llarg termini. No n’hi ha prou…",
+      "url": "https://www.ara.cat/opinio/habitatge-full-ruta_129_5879987.html",
+      "published": "2026-10-20T18:01:01+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a54f05be-957a-4b02-9cd2-9c9c25944049_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
       "title": "Catalunya manté les pissarres digitals a infantil, però n’elimina l’ús lliure i l’accés a internet",
       "excerpt": "(ACN/Redacció) Educació no retirarà les pissarres digitals de les aules d’I3, I4 i I5, com va anunciar que faria el juny del 2025, però en suprimirà els “usos lliures” i no tindran connexió a internet. Així es desprèn de l’actualització del Pla de digitalització responsable que ha publicat la conselleria i que planteja un model […]",
@@ -167,12 +177,12 @@
       "published": "2026-10-20T14:56:28+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/9/1792495713790.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431520/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/el-govern-italia-vol-desplegar-lexercit-a-mila-per-evitar-protestes-i-aldarulls-com-els-de-diumenge/noticia/3435045/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -318,12 +328,12 @@
       "published": "2026-10-20T08:01:58+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/0/1729156239600.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431518/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-pobresa-laboral-es-dispara-a-catalunya-despres-de-pagar-lhabitatge-alerta-oxfam/noticia/3435003/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -346,9 +356,84 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "\"La música és la meva manera de pensar la vida\"",
+      "excerpt": "Santiago Auserón (Saragossa, 1954) despenja el telèfon a Atenes. Hi assaja amb els músics grecs Vaggelis Tzeretas i Thodoris Karellas el repertori per a concerts com el que farà aquest divendres, 23 d'octubre, al Casino l'Aliança del Poblenou (21 h), a Barcelona. Amb ells va enregistrar el disc Nerantzi (La Huella Sonora, 2025). És el viatge a l'est d'Auserón, que adapta al castellà els ulls brillants del rebético, una de les manifestacions més singulars de la música popular grega.",
+      "url": "https://www.ara.cat/cultura/musica/musica-meva-manera-pensar-vida_128_5884633.html",
+      "published": "2026-10-20T18:36:57+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4fbf91b2-e5c0-46fd-b083-ba2939ce470d_4-3-aspect-ratio_default_0_x1716y2133.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Les pedreres: de destrucció de la natura a refugi de biodiversitat",
+      "excerpt": "Un equip de científics estudien com s'han de restaurar les pedreres per convertir-les en una oportunitat mediambiental",
+      "url": "https://www.3cat.cat/3catinfo/les-pedreres-de-destruccio-de-la-natura-a-refugi-de-biodiversitat/noticia/3431942/",
+      "published": "2026-10-20T18:25:33+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/6/1790943707167.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431502/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/les-pedreres-de-destruccio-de-la-natura-a-refugi-de-biodiversitat/noticia/3431942/"
+      }
+    },
+    {
       "source": "VilaWeb",
-      "title": "L’Audiència espanyola envia a presó sense fiança dos detinguts bascs investigats per terrorisme",
-      "excerpt": "La investigació va començar arran d’un control de trànsit en què es van intervenir documents sobre agents policíacs i possibles amagatalls d’ETA · Otegi demana prudència i descarta rotundament el retorn de la violència armada",
+      "title": "Turull augura que l’independentisme enceta l’etapa d’articular forces després de l’aplicació de l’amnistia",
+      "excerpt": "El secretari general de Junts diu que \"el que menys interessa ara\" és si pretén presentar-se a les eleccions",
+      "url": "https://www.vilaweb.cat/noticies/turull-independentisme-aplicacio-amnistia/",
+      "published": "2026-10-20T18:19:16+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Junqueras, Romeva i Bassa celebren l’amnistia i reivindiquen l’autodeterminació: “És un dia de victòria”",
+      "excerpt": "Els tres dirigents d’ERC reivindiquen la lluita independentista i defensen que l’amnistia obre una nova etapa política · Romeva recorda que el mandat d’autodeterminació continua vigent",
+      "url": "https://www.vilaweb.cat/noticies/junqueras-romeva-bassa-amnistia/",
+      "published": "2026-10-20T18:14:23+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Dormo molt poc i alhora em sobrevenen moments d'eufòria\"",
+      "excerpt": "De perfil té la típica tira de fotografies de carnet fetes en un fotomaton: diu que perd molt sovint el DNI. I és molt fàcil imaginar-se Carme Arcarazo (Barcelona, 1996) tan apassionada amb una cosa que es descuida la cartera. Economista especialitzada en política urbana i portaveu del Sindicat de Llogateres, les últimes setmanes tot el país l'ha vist i sentit prou a les ràdios i als platós, i ha captat l'energia que irradia. Havíem quedat per parlar del que va passar amb la Maricarmen,…",
+      "url": "https://www.ara.cat/societat/dormo-poc-alhora-em-sobrevenen-moments-d-euforia_128_5884585.html",
+      "published": "2026-10-20T18:01:00+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6a1742cc-c022-46a5-99b6-f70f3e2985ae_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Xavier Nueno guanya l'Anagrama d'Assaig amb una obra sobre la privatització del coneixement",
+      "excerpt": "L'autor ofereix una visió de la intel·ligència artificial que s'allunya de les profecies apocalíptiques llançades pels mateixos oligarques tecnològics",
+      "url": "https://www.3cat.cat/3catinfo/xavier-nueno-guanya-lanagrama-dassaig-amb-una-obra-sobre-la-privatitzacio-del-coneixement/noticia/3435183/",
+      "published": "2026-10-20T17:58:23+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/6/1792506499663.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Europa fa una crida per omplir Can Dragó: últimes entrades a la venda",
+      "excerpt": "L’Europa té un partit molt important aquest divendres a les 21.15 h a Can Dragó. El rival a batre serà un històric del futbol nacional com el Reial Saragossa, que aquesta temporada juga a la Primera Federació. Des del conjunt escapulat s’ha fet una crida a xarxes amb l’objectiu d’omplir el camp i que l’afició […]",
+      "url": "https://beteve.cat/esports/europa-crida-omplir-can-drago-ultimes-entrades-venda/",
+      "published": "2026-10-20T17:48:56+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/03/270326-aficio-europa-can-drago.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’Audiència espanyola envia a la presó sense fiança dos detinguts bascs investigats per terrorisme",
+      "excerpt": "La investigació va començar arran d’un control de trànsit en què es van intervenir documents sobre agents de policia i possibles amagatalls d’ETA · Otegi demana prudència i descarta rotundament el retorn de la violència armada",
       "url": "https://www.vilaweb.cat/noticies/audiencia-espanyola-dos-independentistes-bascs-terrorisme/",
       "published": "2026-10-20T17:40:57+02:00",
       "category": "País Basc",
@@ -443,12 +528,12 @@
       "published": "2026-10-20T17:01:19+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/5/1788457398157.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431510/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/mes-de-600-cientifics-reclamen-mesures-de-prevencio-pel-supernino-a-catalunya-tenim-8-mesos/noticia/3435034/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -513,7 +598,7 @@
     {
       "source": "VilaWeb",
       "title": "Els serveis d’emergències de Catalunya i l’Aragó reforcen la coordinació a la Franja",
-      "excerpt": "El SEM i el 061 de l’Aragó han fet una jornada de treball a Fraga per millorar la resposta a les urgències sanitàries i garantir l’activació dels recursos més pròxims, independentment dels límits administratius",
+      "excerpt": "El SEM i el 061 de l’Aragó han fet una jornada de treball a Fraga per a millorar la resposta a les urgències sanitàries i garantir l’activació dels recursos més pròxims, independentment dels límits administratius",
       "url": "https://www.vilaweb.cat/noticies/serveis-emergencies-catalunya-i-arago-franja/",
       "published": "2026-10-20T16:33:10+02:00",
       "category": "Societat",
@@ -532,8 +617,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Convoquen un acte a Sant Vicenç dels Horts per celebrar l’amnistia de Junqueras, Romeva, Bassa i Turull",
-      "excerpt": "La mobilització es farà demà a les 19.30, a la plaça de la Vila, després d'haver aixecat el Tribunal Suprem espanyol la inhabilitació dels dirigents independentistes",
+      "title": "Convoquen un acte a Sant Vicenç dels Horts per a celebrar l’amnistia de Junqueras, Romeva, Bassa i Turull",
+      "excerpt": "La mobilització es farà demà a les 19.30, a la plaça de la Vila, una volta el Tribunal Suprem espanyol ha aixecat la inhabilitació dels dirigents independentistes",
       "url": "https://www.vilaweb.cat/noticies/sant-vicenc-horts-amnistia-junqueras-romeva-bassa-turull/",
       "published": "2026-10-20T16:25:07+02:00",
       "category": "Principat",
@@ -807,7 +892,7 @@
       "url": "https://www.ara.cat/gent/ministre-neerlandes-tindra-fill-gestacio-subrogada-encara-legal-ue_1_5884479.html",
       "published": "2026-10-20T13:54:56+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/7395f80f-b0c3-49dd-bd76-adee493a39b1_source-aspect-ratio_default_0_x545y670.jpg",
+      "image": "https://static1.ara.cat/clip/7395f80f-b0c3-49dd-bd76-adee493a39b1_source-aspect-ratio_default_0_x531y412.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -918,12 +1003,12 @@
       "published": "2026-10-20T13:02:59+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/8/1613573319782.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431512/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/el-suprem-amnistia-junqueras-turull-romeva-i-bassa-que-podrien-optar-a-carrecs-publics/noticia/3434991/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -943,12 +1028,12 @@
       "published": "2026-10-20T13:01:25+02:00",
       "category": "Principat",
       "image": null,
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431512/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/el-suprem-amnistia-junqueras-turull-romeva-i-bassa-que-podrien-optar-a-carrecs-publics/noticia/3434991/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -958,12 +1043,12 @@
       "published": "2026-10-20T12:51:37+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/c6f26dc1-be63-4f51-a34d-6ac2190ad6e7_source-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431512/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/el-suprem-amnistia-junqueras-turull-romeva-i-bassa-que-podrien-optar-a-carrecs-publics/noticia/3434991/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -1458,7 +1543,7 @@
     {
       "source": "ARA",
       "title": "El magnat de l'aviació que va inventar la primera ràdio per a cotxes",
-      "excerpt": "A la dècada dels setanta i vuitanta, la moda dels ovnis va fer un salt de dimensió amb l’estrena de pel·lícules com Encontres a la tercera fase i ET, l'extraterrestre , totes dues dirigides per Steven Spielberg. Enmig d’aquesta onada, va aparèixer a la llum pública un aviador amb vincles amb la CIA anomenat John Lear, que el 1987 va assegurar que el govern dels Estats Units mantenia relacions amb éssers extraterrestres i que existia un comitè secret anomenat Majestic-12 que tenia pactes inconfessables amb…",
+      "excerpt": "A la dècada dels setanta i vuitanta, la moda dels ovnis va fer un salt de dimensió amb l’estrena de pel·lícules com Encontres a la tercera fase i E.T., l'extraterrestre , totes dues dirigides per Steven Spielberg. Enmig d’aquesta onada, va sortir a la llum pública un aviador amb vincles amb la CIA anomenat John Lear, que el 1987 va assegurar que el govern dels Estats Units mantenia relacions amb éssers extraterrestres i que hi havia un comitè secret anomenat Majestic 12, que tenia pactes…",
       "url": "https://empreses.ara.cat/directius/magnat-l-aviacio-inventar-primera-radio-cotxes_1_5883860.html",
       "published": "2026-10-20T07:00:05+02:00",
       "category": "Actualitat",
@@ -1483,12 +1568,12 @@
       "published": "2026-10-20T06:45:27+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/2/1525423658723.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431525/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/15-anys-de-lalto-el-foc-definitiu-deta-cami-de-la-normalitat-democratica/noticia/3434492/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -1498,12 +1583,12 @@
       "published": "2026-10-20T06:44:19+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/7/1792440707478.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431517/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/les-parelles-de-fet-amb-fills-tindran-dret-a-la-pensio-de-viduitat-acreditant-2-anys-de-convivencia/noticia/3434978/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
