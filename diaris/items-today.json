@@ -2,6 +2,26 @@
   "date": "2026-10-20",
   "items": [
     {
+      "source": "ARA",
+      "title": "\"Les dones assassinades durant la Guerra Civil m'obsessionen\"",
+      "excerpt": "Hi ha novel·les que es nodreixen de crims reals espaordidors i, narrant-los, els tornen a posar damunt la taula per mostrar l'horror que van patir les víctimes. Cosamala (Seix Barral), d' Alana S. Portero (Madrid, 1978), va una mica més enllà, perquè transcendeix la denúncia a partir de la recreació i la transformació, gràcies a una prosa d'una bellesa precisa i inquietant, d'un episodi de la Guerra Civil espanyola viscut a Guillena, municipi situat uns 20 km al nord de Sevilla. Un episodi que encara…",
+      "url": "https://llegim.ara.cat/actualitat/alana-portero-dones-assassinades-durant-guerra-civil-m-obsessionen_1_5884688.html",
+      "published": "2026-10-20T17:27:42+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0d10a804-b945-474f-8088-096b580a57d9_source-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "betevé",
+      "title": "La factura dels aiguats a Barcelona: 27 M€ en neteja i reparacions",
+      "excerpt": "En només quatre dies —el 16 i el 29 de setembre i el 3 i el 4 d’octubre— van caure 280 litres per metre quadrat a Barcelona: això és pràcticament la meitat del que cau en un any a la ciutat. Aquests forts aiguats han provocat un centenar d’incidències que, en total, obligaran l’Ajuntament a […]",
+      "url": "https://beteve.cat/politica/factura-aiguats-barcelona-27-milions-euros-neteja-reparacions/",
+      "published": "2026-10-20T16:33:26+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pluja-font-del-gos-2026-10-01.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "Troben el cadàver d’un home a Menorca durant el temporal de la gota freda Adam",
       "excerpt": "Els bombers han rescatat el cos a Cala en Brut i la Guàrdia Civil investiga les circumstàncies de la mort",
@@ -111,7 +131,7 @@
     {
       "source": "ARA",
       "title": "La guerra arriba a l’espai: un satèl·lit rus en persegueix un altre d’ucraïnès",
-      "excerpt": "Es fa difícil esquivar la referència cinematogràfica evident en l’últim episodi del conflicte a Ucraïna. En els últims dies, un satèl·lit rus n’ha estat perseguint un altre de nord-americà utilitzat per l’exèrcit ucraïnès i, finalment, han canviat bruscament de direcció, en el que els experts alerten que podria considerar-se el primer exemple de guerra espacial de la història . Ara bé, la versió real de la guerra de les galàxies no és tan èpica com la de la cèlebre saga ni es lliura amb espases…",
+      "excerpt": "Es fa difícil esquivar la referència cinematogràfica evident en l’últim episodi del conflicte a Ucraïna. En els últims dies, un satèl·lit rus n’ha estat perseguint un altre de nord-americà utilitzat per l’exèrcit ucraïnès i, finalment, ha canviat bruscament de direcció, en el que els experts alerten que podria considerar-se el primer exemple de guerra espacial de la història . Ara bé, la versió real de la guerra de les galàxies no és tan èpica com la de la cèlebre saga ni es lliura amb espases…",
       "url": "https://www.ara.cat/internacional/europa/guerra-l-espai-satel-lit-rus-persegueix-d-ucraines_1_5884180.html",
       "published": "2026-10-20T07:00:11+02:00",
       "category": "Actualitat",
@@ -130,6 +150,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "betevé",
+      "title": "Catalunya manté les pissarres digitals a infantil, però n’elimina l’ús lliure i l’accés a internet",
+      "excerpt": "(ACN/Redacció) Educació no retirarà les pissarres digitals de les aules d’I3, I4 i I5, com va anunciar que faria el juny del 2025, però en suprimirà els “usos lliures” i no tindran connexió a internet. Així es desprèn de l’actualització del Pla de digitalització responsable que ha publicat la conselleria i que planteja un model […]",
+      "url": "https://beteve.cat/societat/catalunya-mante-pissarres-digitals-infantil-elimina-us-lliure-acces-internet/",
+      "published": "2026-10-20T16:55:19+02:00",
+      "category": "educació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pissarres-infantil-2026-10-20.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "El govern italià vol desplegar l'exèrcit a Milà per evitar protestes i aldarulls com els de diumenge",
       "excerpt": "En algunes ciutats italianes hi ha hagut manifestacions inspirades per les de França, que han acabat amb destrosses i saquejos, i Meloni vol utilitzar la policia i l'exèrcit per evitar que es repeteixin",
@@ -137,7 +167,12 @@
       "published": "2026-10-20T14:56:28+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/9/1792495713790.jpg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431520/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-govern-italia-vol-desplegar-lexercit-a-mila-per-evitar-protestes-i-aldarulls-com-els-de-diumenge/noticia/3435045/"
+      }
     },
     {
       "source": "betevé",
@@ -283,7 +318,12 @@
       "published": "2026-10-20T08:01:58+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/0/1729156239600.jpg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431518/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-pobresa-laboral-es-dispara-a-catalunya-despres-de-pagar-lhabitatge-alerta-oxfam/noticia/3435003/"
+      }
     },
     {
       "source": "ARA",
@@ -304,6 +344,151 @@
       "category": "Andorra",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’Audiència espanyola envia a presó sense fiança dos detinguts bascs investigats per terrorisme",
+      "excerpt": "La investigació va començar arran d’un control de trànsit en què es van intervenir documents sobre agents policíacs i possibles amagatalls d’ETA · Otegi demana prudència i descarta rotundament el retorn de la violència armada",
+      "url": "https://www.vilaweb.cat/noticies/audiencia-espanyola-dos-independentistes-bascs-terrorisme/",
+      "published": "2026-10-20T17:40:57+02:00",
+      "category": "País Basc",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "\"In vitro\", la nova sèrie de 3Cat sobre la reproducció assistida: qui és qui?",
+      "excerpt": "David Verdaguer i Bruna Cusí protagonitzen aquesta ficció que està inspirada en l'experiència personal dels creadors i directors de la sèrie, Marc Crehuet i Alejandra Guimerà",
+      "url": "https://www.3cat.cat/3catinfo/in-vitro-la-nova-serie-de-3cat-sobre-la-reproduccio-assistida-qui-es-qui/noticia/3434948/",
+      "published": "2026-10-20T17:20:16+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1791972544023.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A Movistar+ també li fa gràcia el ‘polaco’?",
+      "excerpt": "A mi, que el Bernabéu es posi a cantar “ Polaco el que no vote ” m'afecta entre zero i gens. La gent va al camp a ventilar les baixes passions i fer el cavernícola: normal que profereixi les consignes ambientals, entre les quals la catalanofòbia ocupa sempre un lloc d’honor. Enrabiar-se amb la parròquia merengue és errar el tret perquè cal apuntar als aspersors d’aquest odi. Un exemple: el clip que s’ha fet viral d’un programa de Movistar+ en què comentaven amb sorna com…",
+      "url": "https://www.ara.cat/media/movistar-tambe-li-gracia-polaco_129_5884950.html",
+      "published": "2026-10-20T17:19:32+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/96730792-f57f-40a8-bf85-c4c2765ae2a3_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Una desfilada de moda de segona mà inaugura el 080 Barcelona Fashion al Port Vell",
+      "excerpt": "(ACN/Redacció) Tret de sortida a la 38a edició del 080 Barcelona Fashion. El certamen ha arrencat amb la desfilada de moda circular 080 Reborn, una proposta centrada en roba de segona mà i en la reutilització dels tèxtils per allargar la vida útil de les peces. Des d’aquest dimarts i fins dijous, desfilaran a la […]",
+      "url": "https://beteve.cat/cultura/desfilada-moda-segona-ma-inauguracio-080-barcelona-fashion-2026/",
+      "published": "2026-10-20T17:14:24+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/moda-080-desfilada-reborn-1-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Una fallada elèctrica que afecta Google Cloud interromp serveis de Revolut i altres bancs europeus",
+      "excerpt": "L'origen de la incidència és un tall d'energia i ja hi ha enginyers treballant per recuperar el servei de manera gradual",
+      "url": "https://www.3cat.cat/3catinfo/una-fallada-electrica-que-afecta-google-cloud-interromp-serveis-de-revolut-i-altres-bancs-europeus/noticia/3435159/",
+      "published": "2026-10-20T17:13:59+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/2/1792506074022.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "2 anys i 4 mesos per complir una llei",
+      "excerpt": "Per a sorpresa de ningú, Feijóo ha amenaçat l’ensenyament en català a l’escola i ha tret de l’arsenal el concepte “adoctrinament”: “No hi haurà imposicions ni adoctrinament a les aules”. Traduït vol dir que l’ensenyament en castellà és normal i que en català és imposició. Que el 12 d’Octubre és història però l’11 de Setembre seria adoctrinament. Que els nens disfressats de legionaris o de toreros no són el resultat de cap imposició però sí que ho seria ensenyar nocions sobre la construcció social del…",
+      "url": "https://www.ara.cat/opinio/2-anys-4-mesos-complir-llei_129_5884904.html",
+      "published": "2026-10-20T17:09:09+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e5eab9e1-eee6-4054-8b1e-6988242b866f_16-9-aspect-ratio_default_0_x3724y1090.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Qui és més ric?",
+      "excerpt": "“Quant guanyen els teus veïns?\", ens pregunta el titular , llaminer, de l’ARA, per mostrar-nos aquesta estadística, de cada any, de la renda per càpita municipi a municipi. Matadepera, Sant Just Desvern i Sant Cugat del Vallès, com cada any, són els que tenen més ingressos per habitant, tenint en compte que la mitjana es fa amb l’estadística del pollastre: si jo em menjo un pollastre i vostè cap, tots dos ens hem menjat mig pollastre. En el cas que estiguem ofenent el col·lectiu vegà,…",
+      "url": "https://www.ara.cat/opinio/mes-ric_129_5884744.html",
+      "published": "2026-10-20T17:06:35+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/426c4433-12fe-4197-8913-8b08d0c9d424_16-9-aspect-ratio_default_0_x2086y1182.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Tornen les protestes a Perpinyà amb la convocatòria de manifestacions i blocatges",
+      "excerpt": "Els jupetins grocs preparen una nova jornada de mobilitzacions dissabte, després dels aldarulls del 17 d’octubre · La prefectura podria imposar restriccions i la CGT ja ha anunciat que no hi participarà",
+      "url": "https://www.vilaweb.cat/noticies/protestes-perpinya-convocatoria-manifestacions-blocatges/",
+      "published": "2026-10-20T17:05:48+02:00",
+      "category": "Catalunya Nord",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La foscor i les llums",
+      "excerpt": "“Es fa fosc al país de les llums\". Algú ho ha escrit en una finestra d’una planta baixa d’un carrer de París. El que està passant no és un moment de rauxa col·lectiva, sinó la conseqüència d’un model presidencial absolutament allunyat de la ciutadania. Podem entrar en mil detalls i especulacions, però el desgavell que viu França ara mateix expressa el fracàs del president Emmanuel Macron. A sis mesos del final del mandat, la seva figura política s’ha quedat sense respiració i ja només dona…",
+      "url": "https://www.ara.cat/opinio/foscor-llums_129_5884824.html",
+      "published": "2026-10-20T17:03:56+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/971b9c15-3759-44e0-8318-2ddbc813f849_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Més de 600 científics reclamen mesures de prevenció per al Superniño a Catalunya: \"Tenim 8 mesos\"",
+      "excerpt": "Reclamen a les administracions plans extraordinaris davant d'un episodi del Niño que podria accentuar l'escalfament global i agreujar els riscos climàtics també a Catalunya i Espanya",
+      "url": "https://www.3cat.cat/3catinfo/mes-de-600-cientifics-reclamen-mesures-de-prevencio-pel-supernino-a-catalunya-tenim-8-mesos/noticia/3435034/",
+      "published": "2026-10-20T17:01:19+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/5/1788457398157.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431510/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/mes-de-600-cientifics-reclamen-mesures-de-prevencio-pel-supernino-a-catalunya-tenim-8-mesos/noticia/3435034/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "Temps canviant i ambient de plena tardor els pròxims dies",
+      "excerpt": "La calma s’ha imposat a la majoria de comarques aquest dimarts, després del temporal de pluges dels últims dies, que ha estat històric, de rècord i tràgic al sud del País Valencià. Els pròxims dies no s’esperen nous temporals importants a casa nostra, tot i que el temps es mantindrà canviant i s’escaparan alguns ruixats locals. L’ambient es mantindrà de plena tardor.",
+      "url": "https://www.ara.cat/previsions/temps-canviant-ambient-plena-tardor-proxims-dies_1_5884909.html",
+      "published": "2026-10-20T16:58:59+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/66e1d363-6f40-478e-be6b-37cc9b3a9f38_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Mbappé arribarà al clàssic 'format' en catalanofòbia",
+      "excerpt": "Encara queden uns quants dies pel Barça-Madrid de diumenge al Camp Nou, però el clàssic ja s'ha començat a escalfar de valent. En aquest cas, hi ha contribuït Movistar, una de les plataformes amb drets televisius per al futbol de Primera Divisió i de la Champions League. Al seu compte de la xarxa X, Movistar s'ha fet ressò d'un contingut clarament catalanòfob que ha indignat molts barcelonistes.",
+      "url": "https://www.ara.cat/esports/barca/mbappe-arribara-classic-format-catalanofobia_1_5884931.html",
+      "published": "2026-10-20T16:58:15+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/29cfd2d0-ebda-41df-a375-859f05373f6b_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona es compromet dedicar un carrer a Arcadi Oliveres, economista i activista",
+      "excerpt": "Barcelona ha assolit el compromís de dedicar un carrer de la ciutat a Arcadi Oliveres, que va ser un reconegut economista i activista en defensa de la justícia social. Així ho ha acordat la Comissió de Drets Socials d’aquest mes d’octubre, a instàncies dels comuns. La proposta ha rebut el sí de BComú, de Junts, […]",
+      "url": "https://beteve.cat/politica/barcelona-dedicara-carrer-arcadi-oliveres/",
+      "published": "2026-10-20T16:51:50+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2019/06/arcadi-oliveres-060619.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Mor Pere Ferré, el veteraníssim del jazz català",
+      "excerpt": "Aquesta matinada ens ha deixat als 95 anys Pere Ferré i Balasch (1931, Cornellà de Llobregat), pianista de jazz de llarguíssima trajectòria i història viva del gènere al nostre país. Ferré va cursar estudis de piano al Conservatori Municipal de Música de Barcelona i va oferir les primeres actuacions a sales de l’època com Saratoga, […]",
+      "url": "https://beteve.cat/cultura/mor-pere-ferre-veteranissim-jazz-catala/",
+      "published": "2026-10-20T16:49:02+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/mor-pere-ferre-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -733,7 +918,12 @@
       "published": "2026-10-20T13:02:59+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/8/1613573319782.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431512/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-suprem-amnistia-junqueras-turull-romeva-i-bassa-que-podrien-optar-a-carrecs-publics/noticia/3434991/"
+      }
     },
     {
       "source": "betevé",
@@ -753,7 +943,12 @@
       "published": "2026-10-20T13:01:25+02:00",
       "category": "Principat",
       "image": null,
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431512/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-suprem-amnistia-junqueras-turull-romeva-i-bassa-que-podrien-optar-a-carrecs-publics/noticia/3434991/"
+      }
     },
     {
       "source": "ARA",
@@ -763,7 +958,12 @@
       "published": "2026-10-20T12:51:37+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/c6f26dc1-be63-4f51-a34d-6ac2190ad6e7_source-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431512/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-suprem-amnistia-junqueras-turull-romeva-i-bassa-que-podrien-optar-a-carrecs-publics/noticia/3434991/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -993,6 +1193,16 @@
       "published": "2026-10-20T10:38:46+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/f2e687af-f9c4-499c-b222-48dd383bf7e8_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Mor un motorista en un accident de trànsit a Sant Llorenç de Morunys",
+      "excerpt": "El conductor va ser traslladat en helicòpter en estat crític a l'Hospital Parc Taulí de Sabadell, on finalment ha mort",
+      "url": "https://www.3cat.cat/3catinfo/mor-un-motorista-en-un-accident-de-transit-a-sant-llorenc-de-morunys/noticia/3435012/",
+      "published": "2026-10-20T10:33:16+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/6/1/1792480126816.png",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1273,7 +1483,12 @@
       "published": "2026-10-20T06:45:27+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/2/1525423658723.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431525/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/15-anys-de-lalto-el-foc-definitiu-deta-cami-de-la-normalitat-democratica/noticia/3434492/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -1283,7 +1498,12 @@
       "published": "2026-10-20T06:44:19+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/7/1792440707478.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431517/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/les-parelles-de-fet-amb-fills-tindran-dret-a-la-pensio-de-viduitat-acreditant-2-anys-de-convivencia/noticia/3434978/"
+      }
     },
     {
       "source": "VilaWeb",
