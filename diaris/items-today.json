@@ -3,7 +3,7 @@
   "items": [
     {
       "source": "3CatInfo",
-      "title": "Els aiguats destapen una estafa a Malgrat: sense assegurances, estalvis ni plans de pensions",
+      "title": "Els aiguats destapen una estafa a Malgrat: descobreixen que cotxes i cases no estaven assegurats",
       "excerpt": "La policia ja ha rebut una dotzena de denúncies i n'espera més, perquè el presumpte estafador era una persona molt coneguda al barri de Malgrat Nord",
       "url": "https://www.3cat.cat/3catinfo/els-aiguats-destapen-una-estafa-a-malgrat-sense-assegurances-estalvis-ni-plans-de-pensions/noticia/3435058/",
       "published": "2026-10-20T13:33:41+02:00",
@@ -105,6 +105,46 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "betevé",
+      "title": "José Crespín agafa el relleu a Carlos Prieto com a delegat del Govern espanyol a Catalunya",
+      "excerpt": "El fins ara subdelegat del Govern espanyol a Lleida, José Crespín, ha agafat el relleu a Carlos Prieto com a delegat de l’Estat a Catalunya. Crespín ha passat a ocupar el càrrec perquè Prieto passa a formar part de la llista electoral del 29-N pel PSC a Barcelona, tal com va avançar en primícia betevé […]",
+      "url": "https://beteve.cat/politica/jose-crespin-agafa-relleu-carlos-prieto-delegat-govern-espanyol-catalunya/",
+      "published": "2026-10-20T14:40:00+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/jose-crespin-2-2026-10-20.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El govern italià desplegarà 500 militars a Milà arran dels aldarulls",
+      "excerpt": "Els aldarulls del cap de setmana es van acabar amb més de 200 detinguts",
+      "url": "https://www.vilaweb.cat/noticies/el-govern-italia-desplegara-500-militars-a-mila-arran-dels-aldarulls/",
+      "published": "2026-10-20T14:36:34+02:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El govern justifica l’intent de recol·locar l’ex-número dos de Niubó destituïda",
+      "excerpt": "El Departament d’Empresa i Treball ha proposat que Teresa Sambola sigui la nova secretària executiva del Consell de Treball Econòmic i Social",
+      "url": "https://www.vilaweb.cat/noticies/govern-justifica-intent-recollocar-teresa-sambola/",
+      "published": "2026-10-20T14:09:02+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Dos mestres per aula: la proposta de les famílies per millorar el sistema educatiu",
+      "excerpt": "En una entrevista al Bon dia, Barcelona, Jordi de Carreras, president de les Associacions Federades de Famílies d’Alumnes de Catalunya (aFFaC), ha defensat la codocència —la presència de dos docents a l’aula en els moments que calgui— com una eina per millorar l’atenció a la diversitat i reforçar l’aprenentatge. De Carreras ha assegurat que aquesta […]",
+      "url": "https://beteve.cat/societat/affac-reclama-dos-mestres-aula-millorar-educacio/",
+      "published": "2026-10-20T13:44:32+02:00",
+      "category": "educació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/12/estudiants-aula-111224.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "S'amplia el préstec a joves per comprar el primer habitatge i també inclourà el cost de les reformes",
       "excerpt": "La línia de préstecs ara inclourà la compra d'habitatges de protecció oficial (HPO), que fins quedaven fora dels Préstecs Emancipació",
@@ -142,6 +182,16 @@
       "published": "2026-10-20T12:32:00+02:00",
       "category": "Principat",
       "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El govern espanyol declararà zona catastròfica els municipis afectats per la dana al País Valencià",
+      "excerpt": "Pedro Sánchez ha visitat la zona afectada i també ha anunciat \"recursos econòmics\" per recuperar com més aviat millor la normalitat a la zona",
+      "url": "https://www.3cat.cat/3catinfo/el-pais-valencia-demanara-la-declaracio-de-zona-catastrofica-i-anuncia-un-paquet-dajudes/noticia/3435044/",
+      "published": "2026-10-20T12:17:24+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/4/1792494123542.jpg",
       "priority": "2 · Important"
     },
     {
@@ -211,6 +261,166 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "Els veïns d’Oliva tornen a casa: “Ho hem perdut tot”",
+      "excerpt": "Els afectats per les inundacions comencen a retirar el fang i els mobles malmesos després d'haver-se refugiat als pisos superiors dels edificis",
+      "url": "https://www.vilaweb.cat/noticies/els-veins-doliva-tornen-a-casa-ho-hem-perdut-tot/",
+      "published": "2026-10-20T14:52:46+02:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Comertia reclama a les administracions una defensa \"aferrissada\" del comerç físic a Catalunya",
+      "excerpt": "L'associació d'empreses familiars catalanes del sector del comerç al detall, Comertia, ha reclamat a les diferents administracions una defensa “aferrissada” del comerç físic a Catalunya, davant la competència “desigual” de grans plataformes com Amazon, Shein o Temu. En una atenció als mitjans celebrada aquest dimarts a Barcelona, el president de l'organització, Ignasi Pietx, ha reivindicat la importància de competir “en igualtat de condicions” amb uns gegants de la venda en línia que ja representen un 70% de la paqueteria que arriba de fora d'Espanya.",
+      "url": "https://www.ara.cat/economia/comerc/comertia-reclama-administracions-defensa-aferrissada-comerc-fisic-catalunya_1_5884637.html",
+      "published": "2026-10-20T14:52:11+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/dacaef92-d0a1-4eae-ae9c-b4eb190d7d31_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Guanya amb ‘La brama’ el tercer llibre de Maria Climent, ‘Punt de no retorn’",
+      "excerpt": "L’esperada tercera novel·la de Maria Climent ja és a les llibreries i l’autora en parla aquest dimecres, 21 d’octubre a La brama, de betevé. Punt de no retorn (L’Altra, 2026) és un relat sobre segones oportunitats passats els 40, teixit amb l’humor que caracteritza les seves primeres obres, Gina (L’Altra, 2019), guanyadora del premi Setè […]",
+      "url": "https://beteve.cat/cultura/guanya-la-brama-tercer-llibre-maria-climent-punt-de-no-retorn/",
+      "published": "2026-10-20T14:50:30+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/maria-climent-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Illa i Puente tractaran el traspàs pendent de l’R1 dijous en una reunió",
+      "excerpt": "Encara és incert com evolucionaran aquests acords després de les eleccions espanyoles del 29 de novembre",
+      "url": "https://www.vilaweb.cat/noticies/illa-puente-reunio-traspas-pendent-r1/",
+      "published": "2026-10-20T14:48:18+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Ajuntament estudia ajuts a empreses afectades per la suspensió de sortides i colònies escolars",
+      "excerpt": "Una de les conseqüències del conflicte laboral no resolt entre docents i el Departament d’Educació és la suspensió de sortides i colònies escolars, que no només afecta l’alumnat, sinó també la butxaca de les empreses i cooperatives que organitzen aquestes activitats. És per això que, a la Comissió de Drets Socials, Cultura i Esports d’aquest […]",
+      "url": "https://beteve.cat/politica/ajuntament-estudia-ajuts-empreses-afectades-suspensio-sortides-colonies-escolars/",
+      "published": "2026-10-20T14:47:17+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2020/09/casa-colonies-290920.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un home intenta matar una diputada australiana i la deixa sense una cama després d'atropellar-la",
+      "excerpt": "L'home acusat d'atropellar dues vegades amb el seu totterreny la diputada australiana independent Helen Haines, de 65 anys, era amic de la seva família des de feia dues dècades, segons ha revelat el pare de l'agressor. Brendan Nugent, de 43 anys, va ser detingut aquest dilluns després d'envestir la parlamentària davant de la seva oficina electoral a Wangaratta, al nord-est de Melbourne. Haines ha perdut una cama a conseqüència de les ferides i els metges intenten ara salvar-li l'altra.",
+      "url": "https://www.ara.cat/internacional/oceania/home-matar-diputada-australiana-deixa-cama-despres-d-atropellar_1_5884674.html",
+      "published": "2026-10-20T14:29:22+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cdcdf3e8-6ef5-4cb3-a10e-62ba85be023f_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Colau torna a X cinc anys després per acceptar l'entrevista amb Jordi Wild",
+      "excerpt": "Ada Colau torna a X. Després de cinc anys d'haver-lo deixat, la presidenciable de la coalició d'esquerres Front Ampli no vol desaprofitar cap altaveu i ha recuperat la seva activitat en aquesta xarxa social per acceptar públicament l'entrevista que li ha ofert el youtuber Jordi Wild. Fonts dels Comuns expliquen que l'exalcaldessa opta per tornar a aquests canals perquè no vol deixar el “terreny lliure” a la dreta, tot i que és conscient que l'algoritme està “esbiaixat” i “afavoreix el soroll i les mentides” dels…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/colau-torna-x-cinc-anys-despres-acceptar-l-entrevista-jordi-wild_1_5884737.html",
+      "published": "2026-10-20T14:14:01+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fac944bb-0ce0-4d2f-98a1-d27b1131f77b_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Del \"Per fi s'ha fet justícia\" al \"No és perdó\": reaccions a l'amnistia dels líders del procés",
+      "excerpt": "Turull demana l'amnistia total perquè puguin tornar els exiliats i Junqueras diu que la decisió posa fi a una injustícia",
+      "url": "https://www.3cat.cat/3catinfo/del-per-fi-sha-fet-justicia-al-no-es-perdo-reaccions-a-lamnistia-dels-liders-del-proces/noticia/3435100/",
+      "published": "2026-10-20T14:13:45+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/6/1623688258764.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "On hi ha parades de castanyes a Barcelona 2026? Totes les castanyeres i punts de venda | MAPA",
+      "excerpt": "A Barcelona hi ha més de 60 parades de Castanyes aquest 2026. Els castanyers de la ciutat han tornat a instal·lar-se en diversos carrers: de fet, ja des de fa dies que veiem (i olorem) les castanyes i els moniatos “a la voreta del foc”, com diu la cançó. L’Ajuntament de Barcelona ha concedit, d’acord […]",
+      "url": "https://beteve.cat/economia/castanyes-barcelona-parades/",
+      "published": "2026-10-20T14:10:20+02:00",
+      "category": "comerç",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/10/mapa-parades-castanyes-2026-2026-10-14.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La cara menys amable de l'esport professional: \"Estic en el punt de decidir si ho deixo o no\"",
+      "excerpt": "Com passa en moltes disciplines, jugar a Primera no sempre permet viure exclusivament de l'esport. En futbol sala, això passa especialment en la categoria femenina. Per a moltes jugadores, competir al màxim nivell implica compaginar els entrenaments i els partits amb una altra feina o amb els estudis. Laia Rojo, jugadora de l’AE Les Corts-UBAE, l’únic equip català que milita actualment a la màxima categoria estatal, n'és un exemple: ha d'estudiar biomedicina per pensar en el seu futur. “No podem no fer res”, afirma. Al…",
+      "url": "https://www.ara.cat/esports/cara-menys-amable-esport-professional-punt-decidir-ho-deixo-no_130_5883791.html",
+      "published": "2026-10-20T14:00:00+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/942dc5c9-ae24-4fca-8619-70a4e0e2450d_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "“No és perdó, és justícia”: les reaccions a l’amnistia dels inhabilitats per l’1-O",
+      "excerpt": "La decisió extingeix la responsabilitat penal dels quatre dirigents independentistes i els permet de recuperar la plena capacitat per a exercir càrrecs públics i presentar-se a les eleccions",
+      "url": "https://www.vilaweb.cat/noticies/reaccions-amnistia-junqueras-turull-bassa-romeva/",
+      "published": "2026-10-20T13:59:43+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El primer ministre neerlandès tindrà un fill per gestació subrogada: encara és legal a la UE?",
+      "excerpt": "El primer ministre dels Països Baixos, Rob Jetten, ha anunciat que ell i el seu promès, el jugador d'hoquei argentí Nicolas Keenan, esperen el seu primer fill i que el tindran per gestació subrogada, una pràctica que popularment es coneix com a ventre de lloguer. \"Estem esperant algú molt especial. Ens veiem el 2027, petit\", va escriure Jetten dilluns al seu compte d'Instagram.",
+      "url": "https://www.ara.cat/gent/ministre-neerlandes-tindra-fill-gestacio-subrogada-encara-legal-ue_1_5884479.html",
+      "published": "2026-10-20T13:54:56+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7395f80f-b0c3-49dd-bd76-adee493a39b1_source-aspect-ratio_default_0_x545y670.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Sánchez anuncia la declaració de zona catastròfica als municipis afectats per la gota freda Adam",
+      "excerpt": "El president espanyol ha fet l'anunci al centre de comandament avançat d’Oliva",
+      "url": "https://www.vilaweb.cat/noticies/sanchez-anuncia-la-declaracio-de-zona-catastrofica-als-municipis-afectats-per-la-gota-freda-adam/",
+      "published": "2026-10-20T13:50:56+02:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Pantalla Barcelona 2026, cinema gratuït als centres cívics: programa",
+      "excerpt": "Acostar el cinema als barris de la ciutat és l’objectiu del Pantalla Barcelona que organitza l’Institut de Cultura. Un pla per fer a Barcelona del 27 d’octubre de 2026 al 21 de març de 2027. Les pel·lícules, que en total són 21, es podran veure a 23 centres cívics. Es faran un total de 165 […]",
+      "url": "https://beteve.cat/agenda/pantalla-barcelona-cinema-centres-civics/",
+      "published": "2026-10-20T13:46:09+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pantalla-bcn-2026-oct-mars-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Competència exigeix a Renfe que doni accés a Ouigo als seus tallers de Madrid i Barcelona",
+      "excerpt": "La Comissió Nacional dels Mercats i la Competència (CNMC) ha instat Renfe a permetre que Ouigo faci servir els seus tallers de Cerro Negro/Santa Catalina i Fuencarral (a Madrid) i de Can Tunis (a Barcelona), perquè considera que es tracta de compromisos acordats entre les dues empreses.",
+      "url": "https://www.ara.cat/economia/competencia-exigeix-renfe-doni-acces-ouigo-als-tallers-madrid-barcelona_1_5884658.html",
+      "published": "2026-10-20T13:45:43+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2ffab53d-3377-48a1-8a4d-f5434da0c7a0_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Feijóo, amb la murga del català",
+      "excerpt": "Aquest home que es presenta pel PP, Alberto Núñez Feijóo, va anar a Catalunya a explicar una cosa que en diu Contrato con España i que venen a ser les mesures més destacades que pensa aplicar si Espanya el contracta a ell com a president del govern. Són un seguit de coses de dreta espantosament rància, que inclouen la defensa de la sobirania nacional (nacionalisme banal i no tan banal a balquena), l'“alleugeriment” de l'estat (retallades en els àmbits laboral, social i cultural), “ordenar” la…",
+      "url": "https://www.ara.cat/opinio/feijoo-murga-catala_129_5884712.html",
+      "published": "2026-10-20T13:40:12+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3dab50f2-b4f3-466f-8739-4ebffaac075d_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Bon dia Barcelona",
       "excerpt": "Comença el dia amb una entrevista dactualitat i una tertúlia 100% barcelonina. El dia a dia de la ciutat analitzat per un ampli espectre de tertulians periodistes, historiadors i experts en diferents àmbits. Presentat per Dani Clavera.",
@@ -243,7 +453,7 @@
     {
       "source": "ARA",
       "title": "Una caiguda al servei de Revolut impedeix als usuaris accedir als comptes i fer pagaments",
-      "excerpt": "El neobanc Revolut pateix una caiguda que ha deixat milers de clients sense poder fer servir els seus comptes. Segons ha confirmat l'entitat financera en una publicació a les seves xarxes socials, actualment “pateix una disrupció de servei” que afecta la majoria d'utilitats disponibles per als clients. De fet, d'acord amb la pàgina oficial de Revolut, la majoria d'activitats pateixen la caiguda: des de l'accés als comptes fins als pagaments, les transferències bancàries o les retirades d'efectiu en caixers, entre altres.",
+      "excerpt": "El neobanc Revolut pateix una caiguda que ha deixat els seus clients sense poder fer servir els seus comptes. Segons ha confirmat l'entitat financera en una publicació a les seves xarxes socials, actualment “pateix una disrupció de servei” que afecta la majoria d'utilitats disponibles per als clients. De fet, d'acord amb la pàgina oficial de Revolut, la majoria d'activitats pateixen la caiguda: des de l'accés als comptes fins als pagaments, les transferències bancàries o les retirades d'efectiu en caixers, entre altres.",
       "url": "https://www.ara.cat/economia/tecnologia/caiguda-servei-revolut-impedeix-als-usuaris-accedir-als-comptes-pagaments_1_5884661.html",
       "published": "2026-10-20T13:08:07+02:00",
       "category": "Actualitat",
@@ -252,7 +462,7 @@
     },
     {
       "source": "betevé",
-      "title": "Joan Laporta, orgullós del Barça: “És el millor partit de futbol que es pot veure a Europa”",
+      "title": "Joan Laporta, orgullós del Barça: “És el millor partit de futbol a Europa”",
       "excerpt": "El París Saint-Germain i el Barça es veuran les cares aquest vespre a les 21 h al Parc dels Prínceps. Abans del dinar de directives, Joan Laporta ha comparegut davant els mitjans de comunicació per presumir de l’enfrontament: “És el millor partit que es pot veure a Europa“. El president també ha lamentat les baixes […]",
       "url": "https://beteve.cat/esports/joan-laporta-millor-partit-futbol-pot-veure-europa-barca-psg/",
       "published": "2026-10-20T13:05:35+02:00",
@@ -293,11 +503,11 @@
     {
       "source": "ARA",
       "title": "El Suprem amnistia Junqueras, Turull, Bassa i Romeva i aixeca la seva inhabilitació",
-      "excerpt": "Dos anys i quatre mesos després que entrés en vigor, l'amnistia ha arribat plenament als condemnats per malversació al judici del Procés. El Tribunal Suprem, amb Manuel Marchena al capdavant, ha aplicat la llei a quatre membres del Govern de l'1-O, que estaven inhabilitats fins al 2030 i al 2031 : Oriol Junqueras, Jordi Turull, Dolors Bassa i Raül Romeva. D'aquesta manera, recuperen tots els drets polítics i podran tornar-se a presentar a les eleccions, ocupar càrrecs públics o, per exemple, tornar a donar classes…",
+      "excerpt": "Dos anys i quatre mesos després que entrés en vigor, l'amnistia ha arribat plenament als condemnats per malversació al judici del Procés. El Tribunal Suprem, amb Manuel Marchena al capdavant, ha aplicat la llei a quatre membres del Govern de l'1-O que estaven inhabilitats fins al 2030 i el 2031 : Oriol Junqueras, Jordi Turull, Dolors Bassa i Raül Romeva. D'aquesta manera, recuperen tots els drets polítics i podran tornar-se a presentar a les eleccions, ocupar càrrecs públics o, per exemple, tornar a donar classes…",
       "url": "https://www.ara.cat/politica/suprem-amnistia-junqueras-turull-bassa-romeva-aixeca-seva-inhabilitacio_1_5884626.html",
       "published": "2026-10-20T12:51:37+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/c6f26dc1-be63-4f51-a34d-6ac2190ad6e7_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/c6f26dc1-be63-4f51-a34d-6ac2190ad6e7_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -368,16 +578,6 @@
       "published": "2026-10-20T12:18:14+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/13b49b33-bc52-4d57-bd1c-16acad4cc3cb_16-9-aspect-ratio_default_0.png",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "3CatInfo",
-      "title": "El País Valencià demanarà la declaració de zona catastròfica i anuncia un paquet d'ajudes",
-      "excerpt": "Els veïns continuen retirant mobiliari que se'ls ha fet malbé i traient aigua dels baixos inundats",
-      "url": "https://www.3cat.cat/3catinfo/el-pais-valencia-demanara-la-declaracio-de-zona-catastrofica-i-anuncia-un-paquet-dajudes/noticia/3435044/",
-      "published": "2026-10-20T12:17:24+02:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/2/4/1792494123542.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -452,8 +652,8 @@
     },
     {
       "source": "ARA",
-      "title": "Augmenten els fumadors passius tot i les lleis antitabac",
-      "excerpt": "Després que l'any 2005 es prohibís fumar als interiors de bars, restaurants i llocs de treball, el 2007 els fumadors passius van passar del 49,5% al 37,9%. I quan cinc anys després es va estendre aquest veto als locals d'oci nocturn, els parcs infantils i els centres sanitaris, aquest percentatge global va caure a la meitat, fins al 21,3% l'any 2011. Però ara, quinze anys després, aquesta davallada s'ha estancat, i fins i tot ha augmentat l'exposició al fum. Així ho constata aquest dimarts la…",
+      "title": "Alerten que hi ha més fumadors passius tot i les lleis antitabac",
+      "excerpt": "Després que s'aprovés la primera llei antitabac, el percentatge de persones no fumadores que respiraven el fum del tabac va reduir-se al 37,9%. La prohibició de fumar als interiors de bars, restaurants i llocs de treball del 2006 va reduir-ne dràsticament l'exposició i, quan cinc anys després es va estendre aquest veto als locals d'oci nocturn, els parcs infantils i els centres sanitaris, aquest percentatge global va caure a la meitat, fins al 21,3% l'any 2011. Però ara, quinze anys després, aquesta davallada s'ha estancat,…",
       "url": "https://www.ara.cat/societat/salut/mes-fumadors-passius-lleis-antitabac_1_5884171.html",
       "published": "2026-10-20T11:18:50+02:00",
       "category": "Actualitat",
@@ -737,8 +937,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Judici clau a Lleida per al futur laboral dels bombers voluntaris: què reclamen",
-      "excerpt": "Està previst que es faci contra la Generalitat, amb 108 demandants de 22 parcs per reclamar els seus drets laborals",
+      "title": "Els bombers voluntaris protesten a Lleida en l'inici d'un judici clau per al seu futur laboral",
+      "excerpt": "La vista s'ha suspès poc després de començar perquè la Generalitat ha al·legat indefensió per falta de documentació i per un escrit d'última hora presentat pels bombers voluntaris",
       "url": "https://www.3cat.cat/3catinfo/judici-clau-a-lleida-per-al-futur-laboral-dels-bombers-voluntaris-que-reclamen/noticia/3434253/",
       "published": "2026-10-20T07:04:51+02:00",
       "category": "Actualitat",
