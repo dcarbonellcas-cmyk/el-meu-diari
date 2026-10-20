@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "pages": [
+    {
+      "page": 2,
+      "title": "Temporal amb registres extraordinaris al País Valencià: rècord històric a Forna amb 700 mm d'aigua",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/temporal-amb-registres-extraordinaris-al-pais-valencia-record-historic-a-forna-amb-700-mm-daigua/noticia/3434811/",
+      "published": "2026-10-19T12:44:24+02:00",
+      "priority": "1 · Urgent"
+    },
+    {
+      "page": 3,
+      "title": "La previsió de dimarts: adeu a les pluges més importants i retorn del sol",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-adeu-a-les-pluges-mes-importants-i-arribada-del-sol/noticia/3434942/",
+      "published": "2026-10-19T20:21:33+02:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431417/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-adeu-a-les-pluges-mes-importants-i-arribada-del-sol/noticia/3434942/"
+      }
+    },
+    {
+      "page": 4,
+      "title": "Un centenar de persones exigeixen a Andorra que el govern fixi la data del referèndum sobre l’acord amb la UE",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/un-centenar-de-persones-exigeixen-a-andorra-que-el-govern-fixi-la-data-del-referendum-sobre-lacord-amb-la-ue/",
+      "published": "2026-10-20T01:31:12+02:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 5,
+      "title": "Les classes reprenen amb normalitat a Mallorca, Eivissa i Formentera",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/les-classes-reprenen-amb-normalitat-a-mallorca-eivissa-i-formentera/",
+      "published": "2026-10-20T00:59:48+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 6,
+      "title": "Guia del partit PSG-Barça de Champions: horari, on veure'l i alineacions probables",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/esports/barca/psg-barca-champions-26-27_1_5883481.html",
+      "published": "2026-10-20T00:05:17+02:00",
+      "priority": "3 · Altres notícies"
+    }
+  ]
+}

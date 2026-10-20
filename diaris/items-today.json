@@ -2,6 +2,33 @@
   "date": "2026-10-20",
   "items": [
     {
+      "source": "3CatInfo · El temps",
+      "title": "Temporal amb registres extraordinaris al País Valencià: rècord històric a Forna amb 700 mm d'aigua",
+      "excerpt": "El municipi de la Marina Alta registra una precipitació excepcional, que l'apropa a les xifres de l'episodi de la dana del 29 d'octubre de 2024",
+      "url": "https://www.3cat.cat/3catinfo/temporal-amb-registres-extraordinaris-al-pais-valencia-record-historic-a-forna-amb-700-mm-daigua/noticia/3434811/",
+      "published": "2026-10-19T12:44:24+02:00",
+      "updated": "2026-10-20T06:10:10+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/4/1792405326747.jpeg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimarts: adeu a les pluges més importants i retorn del sol",
+      "excerpt": "Durant la tarda encara cauran alguns ruixats al nord i nord-est",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-adeu-a-les-pluges-mes-importants-i-arribada-del-sol/noticia/3434942/",
+      "published": "2026-10-19T20:21:33+02:00",
+      "updated": "2026-10-20T06:40:46+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/0/1792469791102.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431417/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-adeu-a-les-pluges-mes-importants-i-arribada-del-sol/noticia/3434942/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "Un centenar de persones exigeixen a Andorra que el govern fixi la data del referèndum sobre l’acord amb la UE",
       "excerpt": "La protesta, impulsada per l’USdA, ha aplegat partidaris i detractors del text el mateix dia que Xavier Espot l’ha signat a Brussel·les",
