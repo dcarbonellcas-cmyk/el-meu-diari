@@ -2,6 +2,16 @@
   "date": "2026-10-20",
   "items": [
     {
+      "source": "ARA",
+      "title": "La guerra arriba a l’espai: un satèl·lit rus en persegueix un altre d’ucraïnès",
+      "excerpt": "Es fa difícil esquivar la referència cinematogràfica evident en l’últim episodi del conflicte a Ucraïna. En aquests moments, un satèl·lit rus n’està perseguint un altre de nord-americà utilitzat per l’exèrcit ucraïnès, en el que els experts alerten que es podria convertir en el primer exemple de guerra espacial de la història . Ara bé, la versió real de la guerra de les galàxies no és tan èpica com la de la cèlebre saga ni es lliura amb espases làser. En plena batalla per les comunicacions,…",
+      "url": "https://www.ara.cat/internacional/europa/guerra-l-espai-satel-lit-rus-persegueix-d-ucraines_1_5884180.html",
+      "published": "2026-10-20T07:00:11+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/36cc3c58-3a5d-4c9d-a41f-8f2b97e81294_16-9-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "Temporal amb registres extraordinaris al País Valencià: rècord històric a Forna amb 700 mm d'aigua",
       "excerpt": "El municipi de la Marina Alta registra una precipitació excepcional, que l'apropa a les xifres de l'episodi de la dana del 29 d'octubre de 2024",
@@ -18,14 +28,24 @@
       "excerpt": "Durant la tarda encara cauran alguns ruixats al nord i nord-est",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-adeu-a-les-pluges-mes-importants-i-arribada-del-sol/noticia/3434942/",
       "published": "2026-10-19T20:21:33+02:00",
-      "updated": "2026-10-20T06:40:46+02:00",
+      "updated": "2026-10-20T07:38:21+02:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/2/0/1792469791102.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6431417/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6431453/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-adeu-a-les-pluges-mes-importants-i-arribada-del-sol/noticia/3434942/"
       },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Emancipació, Rodalies i la crisi de l'habitatge",
+      "excerpt": "Que Espanya és un dels estats de la Unió Europea (UE) on els joves triguen més a marxar de casa els pares per formar la seva pròpia llar és ben sabut. També és clar que la crisi de l'habitatge que patim actualment té una relació directa amb aquest fet. I així ho van admetre els experts que van participar ahir a la taula rodona Accés a l'habitatge i emancipació , la tercera del cicle de debat i cinema sobre habitatge impulsat pel Col·legi de l'Arquitectura…",
+      "url": "https://www.ara.cat/economia/immobiliari/emancipacio-rodalies-crisi-l-habitatge_1_5884204.html",
+      "published": "2026-10-20T07:00:10+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d6076a2a-d37a-49c8-b8d5-4a00e52b40c9_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -39,9 +59,109 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Quant guanyen els teus veïns? El mapa de la renda per llar a Barcelona, carrer a carrer | MAPA",
+      "excerpt": "La desigualtat a Barcelona continua anant per barris. Segons les dades de l’Atles de la renda de les llars de l’Institut Nacional d’Estadística (INE) del 2024, publicat aquest dilluns, les llars de Sant Gervasi – Galvany i Pedralbes són les que tenen una renda bruta per llar més alta, on s’enfila fins als 167.076 € anuals […]",
+      "url": "https://beteve.cat/economia/quant-guanyen-veins-mapa-renda-llars-barcelona-2024/",
+      "published": "2026-10-20T07:33:46+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/quant-cobren-veins-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Judici clau a Lleida per al futur laboral dels bombers voluntaris: què reclamen",
+      "excerpt": "Està previst que es faci contra la Generalitat, amb 108 demandants de 22 parcs per reclamar els seus drets laborals",
+      "url": "https://www.3cat.cat/3catinfo/judici-clau-a-lleida-per-al-futur-laboral-dels-bombers-voluntaris-que-reclamen/noticia/3434253/",
+      "published": "2026-10-20T07:04:51+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/1/1792399033519.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Com és el model d'escola gallega que Feijóo vol exportar a Catalunya?",
+      "excerpt": "Alberto Núñez Feijóo s'ha fet un fart de repetir el concepte de \"bilingüisme cordial\" a l'hora de parlar de l'encaix de les llengües cooficials a l'Estat. Un dels seus leitmotiv és defensar que garantirà l'ensenyament del castellà a les escoles perquè hi hagi un \"equilibri\" entre llengües en els territoris amb pluralitat lingüística. A la pràctica, això significa reduir la presència del català seguint el que ja va aplicar el líder del PP quan governava a Galícia. Repassem com funciona el model lingüístic a les…",
+      "url": "https://www.ara.cat/politica/model-d-escola-gallega-feijoo-vol-exportar-catalunya_1_5884012.html",
+      "published": "2026-10-20T07:00:11+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/16b07b11-cbed-4fa6-a4a9-6e1cb41c0caa_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "“L’Hispània no està a la venda; ens hem unit amb un soci apassionat i farem molts més plats”",
+      "excerpt": "És un migdia, les tres tocades, quan el Raimon Braun (Arenys de Mar, 1968) i la Marta Aulestia (Barcelona, 1972) s’asseuen a la taula de la cuina de l'Hispània per dinar . Els acompanyo, i entre ells dos decideixen el menú: per beure, el Gigi de Jean Leon; per dinar, bunyols, ensaladilla russa, amanida de cervellets; gambes d’Arenys a la sal; calamar de potera; llobarro, i de postres, flamet del cel i daus de pa de pessic. El Raimon i la Marta estan més contents…",
+      "url": "https://mengem.ara.cat/xefs/l-hispania-no-venda-hem-unit-soci-apassionat-farem-mes-plats_1_5880738.html",
+      "published": "2026-10-20T07:00:09+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2262c6b6-4508-4d44-b9a6-9d7b0053940f_source-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Quasi tres de cada deu treballadors que viuen de lloguer cauen en la pobresa després de pagar-lo, segons Oxfam",
+      "excerpt": "A Catalunya, \"treballar no és suficient\" per al 28,3% de les persones amb feina que viuen de lloguer, i que veuen com, després de pagar la mensualitat, queden per sota del llindar de la pobresa. Davant la greu crisi de l'habitatge, Oxfam Intermón constata que els costos per tenir un lloc on viure agreugen la pobresa laboral, en un estudi publicat aquest dimarts.",
+      "url": "https://www.ara.cat/economia/immobiliari/quasi-tres-deu-treballadors-viuen-lloguer-cauen-pobresa-despres-pagar-segons-oxfam_1_5883661.html",
+      "published": "2026-10-20T07:00:06+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a8f8057b-a83c-48ad-845e-950a9b43dbb1_source-aspect-ratio_default_0_x1938y1216.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Alguns deien que baixaríem a Segona i hem guanyat la Lliga\"",
+      "excerpt": "Marc Muntané (Igualada, 1989) arriba al pavelló de les Comes després d'un matí mogut, ja que el president de la Generalitat ha rebut la plantilla de l'Igualada HC per celebrar el títol de Lliga d'hoquei de la temporada 2024-25. La primera Lliga del club en 29 anys. I un dels grans responsables de la fita és Muntané, un home de la casa que sempre vol aprendre. Sempre té preguntes. De fet, torna entusiasmat del Palau de la Generalitat. \"Emociona la història que s'hi amaga. Tots…",
+      "url": "https://www.ara.cat/esports/jocs-olimpics/deien-baixariem-segona-hem-guanyat-lliga_128_5845432.html",
+      "published": "2026-10-20T07:00:06+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fd6fcb48-0168-4730-834c-cb3d16344ead_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El magnat de l'aviació que va inventar la primera ràdio per a cotxes",
+      "excerpt": "A la dècada dels setanta i vuitanta, la moda dels ovnis va fer un salt de dimensió amb l’estrena de pel·lícules com Encontres a la tercera fase i ET, l'extraterrestre , totes dues dirigides per Steven Spielberg. Enmig d’aquesta onada, va aparèixer a la llum pública un aviador amb vincles amb la CIA anomenat John Lear, que el 1987 va assegurar que el govern dels Estats Units mantenia relacions amb éssers extraterrestres i que existia un comitè secret anomenat Majestic-12 que tenia pactes inconfessables amb…",
+      "url": "https://empreses.ara.cat/directius/magnat-l-aviacio-inventar-primera-radio-cotxes_1_5883860.html",
+      "published": "2026-10-20T07:00:05+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d3033aee-efa5-4fc3-9018-27dfa098aaff_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El dia que ETA va plegar: per què es va prendre la decisió i com es va gestar",
+      "excerpt": "Es compleix el quinzè aniversari de l'abandó definitiu de les armes, una decisió que no va ser improvisada ni va sortir del no-res",
+      "url": "https://www.3cat.cat/3catinfo/el-dia-que-eta-va-plegar-per-que-es-va-prendre-la-decisio-i-com-es-va-gestar/noticia/3434117/",
+      "published": "2026-10-20T06:47:09+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/8/1792087439385.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "15 anys de l'alto el foc definitiu d'ETA, camí de la normalitat democràtica",
+      "excerpt": "A Euskadi s'ha obert pas el relat que tots els que han patit vulneracions dels drets humans són víctimes del conflicte polític",
+      "url": "https://www.3cat.cat/3catinfo/15-anys-de-lalto-el-foc-definitiu-deta-cami-de-la-normalitat-democratica/noticia/3434492/",
+      "published": "2026-10-20T06:45:27+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1525423658723.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Les parelles de fet amb fills tindran dret a la pensió de viduïtat acreditant 2 anys de convivència",
+      "excerpt": "El Consell de Ministres aprovarà aquest dimarts un reial decret llei amb diferents reformes socials, abans de les eleccions del 29 de novembre",
+      "url": "https://www.3cat.cat/3catinfo/les-parelles-de-fet-amb-fills-tindran-dret-a-la-pensio-de-viduitat-acreditant-2-anys-de-convivencia/noticia/3434978/",
+      "published": "2026-10-20T06:44:19+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/7/1792440707478.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
-      "title": "Les classes reprenen amb normalitat a Mallorca, Eivissa i Formentera",
-      "excerpt": "La UIB també recupera l’activitat acadèmica; la previsió meteorològica manté l’alerta groga fins a migdia",
+      "title": "Les classes es reprenen amb normalitat a Mallorca, Eivissa i Formentera",
+      "excerpt": "La UIB també recupera l’activitat acadèmica · La previsió meteorològica manté l’alerta groga fins a migdia",
       "url": "https://www.vilaweb.cat/noticies/les-classes-reprenen-amb-normalitat-a-mallorca-eivissa-i-formentera/",
       "published": "2026-10-20T00:59:48+02:00",
       "category": "Illes",
@@ -55,7 +175,7 @@
       "url": "https://www.ara.cat/esports/barca/psg-barca-champions-26-27_1_5883481.html",
       "published": "2026-10-20T00:05:17+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/cbabdcef-68b7-40e9-91cf-5b2a9f047829_16-9-aspect-ratio_default_1055542.jpg",
+      "image": "https://static1.ara.cat/clip/cbabdcef-68b7-40e9-91cf-5b2a9f047829_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     }
   ]
