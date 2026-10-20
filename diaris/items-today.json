@@ -150,24 +150,29 @@
       "priority": "1 · Urgent"
     },
     {
-      "source": "VilaWeb",
-      "title": "Junqueras tancarà la llista d’ERC al congrés espanyol i Romeva en serà el primer suplent",
-      "excerpt": "La composició s'ha fet pública hores després d'haver aplicat el Tribunal Suprem espanyol la llei d'amnistia",
-      "url": "https://www.vilaweb.cat/noticies/junqueras-tancara-la-llista-erc-congres-espanyol-romeva/",
-      "published": "2026-10-20T21:43:53+02:00",
-      "category": "Actualitat",
-      "image": null,
-      "priority": "2 · Important"
-    },
-    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dimecres: tranquil amb alguns matisos",
       "excerpt": "Matí força fresc i dia suau",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-tranquil-amb-alguns-matisos/noticia/3435174/",
       "published": "2026-10-20T18:35:35+02:00",
-      "updated": "2026-10-20T20:24:00+02:00",
+      "updated": "2026-10-20T22:20:45+02:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/3/1792505343436.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/1/1792527630218.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431637/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-tranquil-amb-alguns-matisos/noticia/3435174/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Junqueras tancarà la llista d’ERC al congrés espanyol i Romeva en serà el primer suplent",
+      "excerpt": "La composició s'ha fet pública quan feia poques hores que el Tribunal Suprem espanyol havia aplicat la llei d'amnistia",
+      "url": "https://www.vilaweb.cat/noticies/junqueras-tancara-la-llista-erc-congres-espanyol-romeva/",
+      "published": "2026-10-20T21:43:53+02:00",
+      "category": "Actualitat",
+      "image": null,
       "priority": "2 · Important"
     },
     {
@@ -249,21 +254,6 @@
       "published": "2026-10-20T16:55:19+02:00",
       "category": "educació",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pissarres-infantil-2026-10-20.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo",
-      "title": "El govern italià vol desplegar l'exèrcit a Milà per evitar protestes i aldarulls com els de diumenge",
-      "excerpt": "En algunes ciutats italianes hi ha hagut manifestacions inspirades per les de França, que han acabat amb destrosses i saquejos, i Meloni vol utilitzar la policia i l'exèrcit per evitar que es repeteixin",
-      "url": "https://www.3cat.cat/3catinfo/el-govern-italia-vol-desplegar-lexercit-a-mila-per-evitar-protestes-i-aldarulls-com-els-de-diumenge/noticia/3435045/",
-      "published": "2026-10-20T14:56:28+02:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/9/1792495713790.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6431520/embed/",
-        "source": "3CatInfo",
-        "articleUrl": "https://www.3cat.cat/3catinfo/el-govern-italia-vol-desplegar-lexercit-a-mila-per-evitar-protestes-i-aldarulls-com-els-de-diumenge/noticia/3435045/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -436,6 +426,66 @@
       "category": "Andorra",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Lluís Puig tornarà demà de l’exili i assistirà als Cants de la Llibertat a Terrassa",
+      "excerpt": "El conseller retorna després de nou anys d'exili i sense haver-se aplicat encara l'amnistia",
+      "url": "https://www.vilaweb.cat/noticies/lluis-puig-retorn-exili/",
+      "published": "2026-10-20T22:33:37+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El president del Constitucional demana \"respecte\" després dels durs retrets del Suprem arran de l'amnistia",
+      "excerpt": "El xoc institucional entre els dos tribunals per l'aplicació de l'amnistia als condemnats del procés obre un escenari inèdit",
+      "url": "https://www.3cat.cat/3catinfo/el-president-del-constitucional-demana-respecte-despres-dels-durs-retrets-del-suprem-arran-de-lamnistia/noticia/3435193/",
+      "published": "2026-10-20T22:04:33+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/0/1791381764808.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "bàsics",
+      "excerpt": "El programa d’anàlisi de l’actualitat de Barcelona amb els principals titulars del dia i l’anàlisi corresponent. Perquè això és el ‘bàsics’: fer un pas més i buscar més veus implicades en els temes tractats, per donar les claus del debat a partir d’entrevistes, reportatges, taules i anàlisi. Presentat per Sandra Mestres.",
+      "url": "https://beteve.cat/basics/basics-1409/",
+      "published": "2026-10-20T22:04:23+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Contra la pseudociència: la humilitat i provisionalitat de la bona ciència",
+      "excerpt": "Vacunes que provoquen autisme, astres que decideixen caràcters i destins, boles de sucre que alleugen malalties incurables i una Terra plana com un plat. La pseudociència ha deixat enrere el temps dels diplomes falsos penjats a les parets de consultes inventades. Ara és més subtil: s’ha apropiat del llenguatge científic, parla des dels altaveus del poder i, sovint, fa caixa. On és la frontera entre ciència i pseudociència, per què fins i tot persones formades acaben creient falsedats i com es poden combatre són algunes…",
+      "url": "https://www.ara.cat/societat/pseudociencia-humilitat-provisionalitat-bona-ciencia_1_5885244.html",
+      "published": "2026-10-20T21:50:24+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/82c58f70-0f1b-46d6-864f-7890048d34e6_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "ERC incorpora Junqueras i Romeva en llocs simbòlics de la llista del 29N després de l'amnistia",
+      "excerpt": "Els quatre caps de cartell seran Gabriel Rufián per Barcelona, Teresa Jordà per Girona, Inés Granollers per Lleida i Norma Pujol per Tarragona",
+      "url": "https://www.3cat.cat/3catinfo/erc-incorpora-junqueras-i-romeva-en-llocs-simbolics-de-la-llista-del-29n-despres-de-lamnistia/noticia/3435237/",
+      "published": "2026-10-20T21:50:03+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/0/0/1792525720200.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Governar contra la cultura pròpia",
+      "excerpt": "La suposada protecció del valencià serveix per a separar-lo dels circuits editorials, audiovisuals i professionals que li poden donar dimensió i continuïtat. La fragmentació es presenta com una afirmació pròpia, però produeix dependència",
+      "url": "https://www.vilaweb.cat/noticies/mail-obert-gemma-pasqual-governar-contra-cultura-propia/",
+      "published": "2026-10-20T21:40:52+02:00",
+      "category": "Mail Obert",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -1075,6 +1125,21 @@
       "published": "2026-10-20T14:57:13+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/png/7/3/1792515306937.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Meloni envia l'exèrcit a Milà i endureix la llei per evitar que protestes i aldarulls s'estenguin",
+      "excerpt": "Aprova un decret d'emergència que crea un nou delicte de participació violenta amb penes de presó i permet la detenció preventiva de menors",
+      "url": "https://www.3cat.cat/3catinfo/el-govern-italia-vol-desplegar-lexercit-a-mila-per-evitar-protestes-i-aldarulls-com-els-de-diumenge/noticia/3435045/",
+      "published": "2026-10-20T14:56:28+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/9/1792495713790.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431520/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-govern-italia-vol-desplegar-lexercit-a-mila-per-evitar-protestes-i-aldarulls-com-els-de-diumenge/noticia/3435045/"
+      },
       "priority": "3 · Altres notícies"
     },
     {
