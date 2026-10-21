@@ -2,6 +2,16 @@
   "date": "2026-10-21",
   "items": [
     {
+      "source": "ARA",
+      "title": "El govern Trump veta l'entrada d'Ada Colau a Puerto Rico: \"Ha estat per motius ideològics\"",
+      "excerpt": "El govern de Donald Trump impedeix l'entrada d'Ada Colau a Puerto Rico. Segons ha avançat Eldiario.es i confirmen fonts dels Comuns consultades per l'ARA, l'administració nord-americana ha denegat el permís de la candidata del Front Ampli al 29-N per entrar a l'estat associat als EUA, on estava convidada a participar en un acte al costat de l'alcalde de Nova York, Zohran Mamdani. El motiu oficial, segons les mateixes fonts, és la \"sospita\" que l'exalcaldessa de Barcelona \"vol migrar il·legalment al país\", però el partit denuncia…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/govern-trump-veta-l-entrada-d-ada-colau-puerto-rico-motius-ideologics_1_5885554.html",
+      "published": "2026-10-21T09:43:57+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fac944bb-0ce0-4d2f-98a1-d27b1131f77b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dimecres: temps tranquil amb alguns matisos",
       "excerpt": "Matí força fresc i ambient suau de dia",
@@ -40,7 +50,7 @@
     {
       "source": "3CatInfo",
       "title": "Els manifestants per l'habitatge a Lisboa desafien el govern i tornaran a acampar",
-      "excerpt": "Els participants de l'acampada denuncien l'actuació policial durant el desallotjament de dimarts, que va acabar amb 55 detinguts",
+      "excerpt": "Els participants en l'acampada denuncien l'actuació policial durant el desallotjament de dimarts, que va acabar amb 55 detinguts",
       "url": "https://www.3cat.cat/3catinfo/els-manifestants-per-lhabitatge-a-lisboa-desafien-el-govern-i-tornaran-a-acampar/noticia/3435256/",
       "published": "2026-10-21T08:23:49+02:00",
       "category": "Actualitat",
@@ -55,12 +65,12 @@
       "published": "2026-10-21T07:48:35+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/9/3/1792527431039.jpeg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431638/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/lluis-puig-torno-de-lexili-amb-la-cara-ben-alta-i-molta-illusio-dasseurem-al-parlament/noticia/3435224/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -87,6 +97,86 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-tranquil-amb-alguns-matisos/noticia/3435174/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Canvi d’hora de l'octubre: torna l’horari d’hivern, amb una hora més de son",
+      "excerpt": "Cada any canviem el rellotge dues vegades: a la primavera l'avancem i a la tardor l'endarrerim. En teoria, l'objectiu és fer encaixar l'activitat econòmica amb les hores de llum solar i així estalviar energia. A la pràctica, però, molts sectors qüestionen aquest canvi argumentant que l'estalvi seria inexistent o ínfim i, en canvi, modificar periòdicament el nostre rellotge biològic podria comportar riscos per a la salut. En qualsevol cas, aquest 2026, el segon canvi d'hora serà la nit del dissabte 24 al diumenge 25 d'octubre…",
+      "url": "https://www.ara.cat/societat/medi-ambient/canvi-hora_1_5885245.html",
+      "published": "2026-10-21T09:26:12+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0533e85f-89ca-4252-964c-130da582c98d_source-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Puigdemont, a Puig: “Gràcies per no defallir i per l’acompanyament de tots aquests anys”",
+      "excerpt": "El president celebra el retorn del conseller i remarca la seva “resistència, coratge i estima profunda a Catalunya”",
+      "url": "https://www.vilaweb.cat/noticies/puigdemont-a-puig-gracies-per-no-defallir-i-per-lacompanyament-de-tots-aquests-anys/",
+      "published": "2026-10-21T09:22:18+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La presentació del Triatló de Barcelona 2026 amb el retorn de la distància olímpica | DIRECTE",
+      "excerpt": "La 39a edició del Triatló de Barcelona arribarà aquest diumenge, 25 d’octubre, i es podrà seguir en directe a betevé. Abans, aquest dimecres, 21, es farà la presentació de la prova. L’acte per explicar tots els detalls de la competició se celebrarà al Museu Olímpic i de l’Esport Joan Antoni Samaranch. Començarà a les 12 […]",
+      "url": "https://beteve.cat/esports/presentacio-triatlo-barcelona-2026-retorn-distancia-olimpica-directe/",
+      "published": "2026-10-21T09:22:00+02:00",
+      "category": "atletisme",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/presentacio-triatlo-2026-4-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La justícia imposa l’amnistia a la Paula i tanca el cas pels abusos de la policia espanyola",
+      "excerpt": "Alerta Solidària denuncia que l'aplicació de la llei d'amnistia deixa sense esclarir les denúncies de vexacions i amenaces contra la Paula",
+      "url": "https://www.vilaweb.cat/noticies/justicia-imposa-amnistia-paula-tanca-cas-abusos-policia-espanyola/",
+      "published": "2026-10-21T09:11:25+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La joia de Netflix que estudia el crepuscle del moviment obrer",
+      "excerpt": "En la flamant trajectòria fílmica de Lee Chang-dong –que es va iniciar l’any 1997 amb Green fish , quan el sud-coreà tenia 40 anys i era un novel·lista consagrat–, el drama existencial sempre ha conviscut amb l’estudi incisiu de la realitat social contemporània. Aquesta combinació reapareix a Un amor posible , una producció de Netflix en què el director d' Oasis i Burning s’aproxima a la idea de la lluita de classes, o el que en queda. Inspirant-se en un cas real d’acomiadaments massius que…",
+      "url": "https://www.ara.cat/cultura/cinema/critiques/amor-posible-netflix-crepuscle-moviment-obrer_1_5885520.html",
+      "published": "2026-10-21T09:09:16+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1aa958f7-9250-4a31-aea8-7f8323b82def_source-aspect-ratio_default_1061175.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Comencen el Saló del Comerç i el de l’Ocupació, dues cites clau per a l’economia de Barcelona",
+      "excerpt": "El recinte firal de Montjuïc s’omple d’activitat amb dos salons que se fan a la vegada. Aquest dimecres i dijous hi coincideixen el Saló de l’Ocupació, que arriba a la 9a edició, i el Saló del Comerç, que s’estrena. Cadascú té la seva agenda i els seus ponents i activitats, però tots dos estan emplaçats […]",
+      "url": "https://beteve.cat/economia/obren-salo-comerc-salo-ocupacio-recinte-ferial-montjuic/",
+      "published": "2026-10-21T09:01:59+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/salo-ocupacio-2025-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "The Strokes troben una segona joventut al Palau Sant Jordi",
+      "excerpt": "El concert va començar amb un rugit de guitarres i el clam eixordador del públic barceloní. A l’escenari del Palau Sant Jordi, Julian Casablancas entonava Tyrants of the mellow moon amb un excés d’autotune. Va sortir vestit amb una gavardina negra i unes ulleres de sol que no es va treure en tot el concert. Al principi, més tímid: penjant-se del micròfon i balancejant-se d’un peu a l’altre, girant-se d’esquena per comprovar el llistat de cançons. Però, a poc a poc, alguna cosa es va…",
+      "url": "https://www.ara.cat/cultura/musica/the-strokes-troben-segona-joventut-palau-sant-jordi_1_5885525.html",
+      "published": "2026-10-21T09:00:48+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4d4681cf-9988-45fe-ab83-28404f64c358_source-aspect-ratio_default_0_x563y3043.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Fotos, futbol i un torneig revolucionari: un dia amb la gran estrella dels escacs mundial",
+      "excerpt": "El 30 de març del 1989 centenars d’aficionats dels escacs catalans van acostar-se al Saló del Tinell per veure en acció el soviètic Garri Kaspàrov, el millor jugador del moment. Kaspàrov, que llavors tenia 26 anys, va derrotar el seu compatriota Valery Sàlov en el marc de la quarta prova de la Copa del Món del moment. Va ser el darrer cop que el millor jugador mundial va jugar a Barcelona. Fins ara. El 2027 el noruec Magnus Carlsen serà la gran atracció d'un nou…",
+      "url": "https://www.ara.cat/esports/jocs-olimpics/futbol-torneig-revolucionari-gran-estrella-dels-escacs-magnus-carlsen_1_5885039.html",
+      "published": "2026-10-21T09:00:33+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/782589b8-39a5-4b0d-8f1f-271853b9dc3d_16-9-aspect-ratio_default_0_x1354y783.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -200,12 +290,12 @@
     },
     {
       "source": "ARA",
-      "title": "Txispa, la guspira que s’ha guanyat el seu lloc al costat de l’asador més famós del món",
-      "excerpt": "Si heu tingut la sort de visitar el Japó, potser heu viscut la sensació de veure que hi ha moltes coses que se us escapen. I enlloc de sentir-te superat per la situació, sents el confort de saber que et torbes en un complex entramat cultural en el qual ets un ignorant i que, encara que t’hi quedessis a viure per sempre, mai podràs desentortolligar en la seva totalitat. Un pòsit ancestral que va més enllà de la comprensió i pel qual només pots sentir…",
+      "title": "Txispa, la guspira que s’ha guanyat el seu lloc al costat de l’'asador' més famós del món",
+      "excerpt": "Si heu tingut la sort de visitar el Japó, potser heu viscut la sensació de veure que hi ha moltes coses que se us escapen. I en lloc de sentir-te superat per la situació, sents el confort de saber que et trobes en un complex entramat cultural en el qual ets un ignorant i que, encara que t’hi quedessis a viure per sempre, mai podràs desentortolligar totalment. Un pòsit ancestral que va més enllà de la comprensió i pel qual només pots sentir respecte i…",
       "url": "https://mengem.ara.cat/restaurants/txispa-guspira-s-guanyat-lloc-costat-l-asador-mes-famos-mon_1_5885040.html",
       "published": "2026-10-21T07:00:46+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/dec2c8e5-f993-4116-bb35-ad1887ccb239_16-9-aspect-ratio_default_0_x3643y863.jpg",
+      "image": "https://static1.ara.cat/clip/dec2c8e5-f993-4116-bb35-ad1887ccb239_source-aspect-ratio_default_0_x3643y863.jpg",
       "priority": "3 · Altres notícies"
     },
     {
