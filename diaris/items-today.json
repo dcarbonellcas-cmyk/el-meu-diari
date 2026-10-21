@@ -42,6 +42,62 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo",
+      "title": "Qui vigila les obres públiques? Sindicats de seguretat privada denuncien intrusisme de clans",
+      "excerpt": "Els sindicats del sector asseguren que hi ha desenes de grups fent feines de vigilància a les obres sense estar donats d'alta al Departament d'Interior i reclamen mesures",
+      "url": "https://www.3cat.cat/3catinfo/qui-vigila-les-obres-publiques-sindicats-de-seguretat-privada-denuncien-intrusisme-de-clans/noticia/3434178/",
+      "published": "2026-10-21T20:43:07+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/8/1792607798383.jpg",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431725/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/qui-vigila-les-obres-publiques-sindicats-de-seguretat-privada-denuncien-intrusisme-de-clans/noticia/3434178/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "França es prepara per a una nova mobilització mentre els sindicats criden a la vaga general",
+      "excerpt": "El president Macron avisa que \"cap violència és legítima\", mentre que els estudiants i els Armilles Grogues anuncien una nova jornada de manifestacions",
+      "url": "https://www.3cat.cat/3catinfo/franca-es-prepara-per-a-una-nova-mobilitzacio-mentre-els-sindicats-criden-a-la-vaga-general/noticia/3435430/",
+      "published": "2026-10-21T20:22:54+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/3/1792245988637.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dijous: sensació de tardor",
+      "excerpt": "Fresca i presència freqüent de núvols",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sensacio-de-tardor/noticia/3435255/",
+      "published": "2026-10-21T20:20:40+02:00",
+      "updated": "2026-10-21T20:21:52+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpeg/9/5/1792561388159.jpeg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Netanyahu revifa l’amenaça d’atacar l’Iran abans de les eleccions",
+      "excerpt": "La possibilitat d’una nova guerra oberta amb l’Iran torna a planar sobre Israel en plena recta final de la campanya electoral. A menys d’una setmana dels comicis legislatius del 27 d’octubre, el primer ministre israelià, Benjamin Netanyahu, ha intensificat les amenaces contra Teheran i ha reivindicat la necessitat de reprendre l’ofensiva militar. Una escalada retòrica que coincideix amb informacions sobre uns plans de bombardeig que Donald Trump hauria frenat i amb la visita sorpresa del secretari de Defensa estatunidenc, Pete Hegseth, a Israel.",
+      "url": "https://www.ara.cat/internacional/proxim-orient/netanyahu-revifa-l-amenaca-d-atacar-l-iran-eleccions_1_5886128.html",
+      "published": "2026-10-21T19:48:45+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/140cf3da-d13a-4177-a77e-e812bb0b5b75_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La CHA-Front Ampli renuncia a presentar-se al congrés espanyol per la demarcació de Terol",
+      "excerpt": "La coalició no presentarà candidatura al congrés per aquesta demarcació, que inclou una part de la Franja de Ponent, per evitar la dispersió del vot i afavorir una majoria progressista",
+      "url": "https://www.vilaweb.cat/noticies/cha-front-ampli-renuncia-presentar-congres-espanyol-terol/",
+      "published": "2026-10-21T19:43:00+02:00",
+      "category": "Franja de Ponent",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "Una greu fallada de seguretat descoberta amb IA amenaça milions de webs",
       "excerpt": "Una vulnerabilitat crítica en el llenguatge de programació PHP obliga governs europeus a desconnectar webs preventivament per evitar ciberatacs · Els experts alerten del risc d’intrusions en massa",
@@ -80,7 +136,7 @@
     {
       "source": "VilaWeb",
       "title": "Trencadissa a Més: Vicenç Vidal plega de la direcció i Carme Gomila serà la candidata al congrés espanyol",
-      "excerpt": "El diputat no es presentarà a les eleecions arran del vet d’Esquerra Republicana i Més per Menorca",
+      "excerpt": "El diputat no es presentarà a les eleccions arran del vet d’Esquerra Republicana i Més per Menorca",
       "url": "https://www.vilaweb.cat/noticies/vicenc-vidal-deixa-mes-carme-gomila-candidata-congres-espanyol/",
       "published": "2026-10-21T17:19:08+02:00",
       "category": "Illes",
@@ -307,8 +363,118 @@
     },
     {
       "source": "VilaWeb",
+      "title": "Sant Vicenç dels Horts celebra l’amnistia de Junqueras i Romeva: “Som aquí per continuar”",
+      "excerpt": "Romeva reivindica que l’amnistia no tanca res i que permet de recuperar els drets polítics perduts arran de la repressió del Primer d’Octubre",
+      "url": "https://www.vilaweb.cat/noticies/sant-vicenc-horts-amnistia-junqueras-romeva/",
+      "published": "2026-10-21T20:48:45+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Diversos governs europeus desconnecten les seves webs per risc de ciberatacs",
+      "excerpt": "Milers de pàgines web, entre les quals les de diversos governs d'Europa i altres parts del món, han quedat aquest dimecres fora de servei com a mesura preventiva davant del risc de ciberatacs. Ha passat després que s'hagin divulgat dues vulnerabilitats greus en PHP, un llenguatge de programació utilitzat per gran part de les pàgines d'internet a tot el món. Això ha obligat els administradors de nombrosos webs a prendre mesures urgents per protegir els seus sistemes.",
+      "url": "https://www.ara.cat/internacional/europa/diversos-governs-europeus-desconnecten-seves-webs-risc-ciberatacs_1_5886337.html",
+      "published": "2026-10-21T20:44:35+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9f59937e-cf63-4cbd-9314-77dca0634e76_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Oriol Junqueras, homenatjat a Sant Vicenç dels Horts l'endemà de rebre l'amnistia",
+      "excerpt": "A l'acte també hi ha estat present Raül Romeva, igualment amnistiat",
+      "url": "https://www.3cat.cat/3catinfo/junqueras-homenatjat-a-sant-vicenc-dels-horts-lendema-de-rebre-lamnistia/noticia/3435450/",
+      "published": "2026-10-21T20:31:47+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/2/5/1792607641752.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El factor Milei entra en campanya",
+      "excerpt": "El PP i Vox han dissenyat una campanya que té com a principal objectiu evitar que es mobilitzi l'esquerra. És per aquest motiu que els seus candidats, Alberto Núñez Feijóo (PP) i Santiago Abascal (Vox), han evitat aquest dimecres una fotografia incòmoda amb el president argentí, Javier Milei, un personatge conegut per les seves astracanades i insults cap al que ell anomena esquerrans ( zurdos , en castellà). L'estratègia, però, no els ha sortit gaire bé. Primer perquè la presidenta madrilenya, Isabel Díaz Ayuso, s'ha…",
+      "url": "https://www.ara.cat/editorial/factor-milei-entra-campanya_129_5886245.html",
+      "published": "2026-10-21T20:26:34+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/75082aee-4128-4029-b039-1964ead01852_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Infobarris",
+      "excerpt": "Torna Infobarris, el programa informatiu de betevé dedicat a explicar la realitat dels barris de Barcelona. Cada dia en directe, de 19 h a 19.40 h, la periodista Núria Llabina i un equip experimentat d’especialistes en el territori copsaran les històries i el batec als carrers de Barcelona.",
+      "url": "https://beteve.cat/infobarris/infobarris-190/",
+      "published": "2026-10-21T20:15:58+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Lluís Puig torna a Catalunya després de l'exili: \"Continuem ferms i volent la llibertat del poble català\"",
+      "excerpt": "Lluís Puig ja ha tornat de l'exili acompanyat per centenars de terrassencs i de tota la plana major de Junts, com el president del Parlament, Josep Rull, i el secretari general, Jordi Turull. \"Avui ha perdut la judicatura espanyola, que vol fer política sense presentar-se a les urnes\", ha reblat Puig des de davant del consistori egarenc, amb una forta emoció, múltiples abraçades i llàgrimes.",
+      "url": "https://www.ara.cat/politica/lluis-puig-torna-catalunya-despres-l-exili-seguim-ferms-volent-llibertat-poble-catala_1_5886483.html",
+      "published": "2026-10-21T20:12:31+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8b60efd0-99ef-4ccb-839d-3fd13f9bb4fe_source-aspect-ratio_default_0_x1300y1652.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sou molt bona gent",
+      "excerpt": "N’hi ha prou d’agafar un metro d’hora, al matí, per comprovar si n’hi ha de gent feinera que fa que rutlli el món. Em fan recordar l’Espinàs, que era més d’escriure fins a la matinada, i que deia que ell es llevava tard perquè confiava plenament que els seus conciutadans aixecarien la persiana.",
+      "url": "https://www.ara.cat/opinio/sou-bona-gent_129_5886329.html",
+      "published": "2026-10-21T19:55:30+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/35b73a55-2ba2-41fc-8820-8b80d1b11742_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La refineria de Tarragona, peça clau de les exportacions catalanes",
+      "excerpt": "Els productes derivats del petroli concentren el 60% de l'augment interanual registrat en les vendes totals a l'exterior a l'agost. Conjuntament amb una nova baixada dels aliments i el fort augment dels medicaments cap als Estats Units, són els aspectes més destacats del mes",
+      "url": "https://www.vilaweb.cat/noticies/la-refineria-de-tarragona-protagonitza-les-exportacions-catalanes/",
+      "published": "2026-10-21T19:50:43+02:00",
+      "category": "La píndola",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Argentina",
+      "excerpt": "Via 15 és una coproducció en què col·laboren 15 televisions locals de la regió metropolitana.",
+      "url": "https://beteve.cat/via-15/argentina/",
+      "published": "2026-10-21T19:48:43+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La poètica de 70 anys de 'Telediarios'",
+      "excerpt": "Televisió Espanyola està celebrant el seu setantè aniversari i dilluns al vespre el Telediario va homenatjar aquestes set dècades explicant què passa el món. L’informatiu de Pepa Bueno va deixar de banda l’actualitat per mirar al passat: un programa magnífic que, per a les generacions que van créixer davant del televisor abans que existís TV3, es va convertir en un exercici de memòria de cares, veus, noms i imatges del món.",
+      "url": "https://www.ara.cat/media/poetica-70-anys-telediarios_129_5886331.html",
+      "published": "2026-10-21T19:46:50+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/30764fa0-56c0-4c89-8bb4-59930391cff6_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Tesla i SpaceX es podrien acabar fusionant: Què hi guanyaria Musk?",
+      "excerpt": "Amb l'operació, naixeria un gegant de 3,5 bilions de dòlars de capitalització en què Musk intentaria aconseguir el control que ara només té a SpaceX",
+      "url": "https://www.3cat.cat/3catinfo/tesla-i-spacex-es-podrien-acabar-fusionant-que-hi-guanyaria-musk/noticia/3435429/",
+      "published": "2026-10-21T19:43:58+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/2/1779356947921.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
       "title": "Mig centenar d’entitats es mobilitzen el 15 de novembre a Móra d’Ebre contra la destrucció dels espais rurals",
-      "excerpt": "Els organitzadors alerten que els centres de dades i la gigafactoria s'afegeix a les amenaces de la transició energètica",
+      "excerpt": "Els organitzadors alerten que els centres de dades i la gigafactoria projectada a Móra la Nova s'afegeix a les amenaces de les instal·lacions derivades de la transició energètica",
       "url": "https://www.vilaweb.cat/noticies/mig-centenar-dentitats-es-mobilitzen-el-15-de-novembre-a-mora-debre-contra-la-destruccio-dels-espais-rurals/",
       "published": "2026-10-21T19:33:32+02:00",
       "category": "Societat",
@@ -317,8 +483,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Les primeres imatges de Lluís Puig a Terrassa després de nou anys d’exili",
-      "excerpt": "El conseller de Cultura del Primer d'Octubre assistirà demà al ple del parlament",
+      "title": "Lluís Puig, emocionat en el seu primer acte de retorn de l’exili: “Seguim ferms, seguim resilients”",
+      "excerpt": "Centenars de persones l'han rebut davant de la casa de la vila de Terrassa · El conseller de Cultura del Primer d'Octubre assistirà demà al ple del parlament",
       "url": "https://www.vilaweb.cat/noticies/primeres-imatges-lluis-puig-terrassa-nou-anys-exili/",
       "published": "2026-10-21T19:27:26+02:00",
       "category": "Principat",
@@ -382,7 +548,7 @@
       "url": "https://www.ara.cat/media/assenyalaments-racistes-culpar-redactor_129_5886253.html",
       "published": "2026-10-21T19:05:00+02:00",
       "category": "Actualitat",
-      "image": null,
+      "image": "https://static1.ara.cat/clip/3e1eb1b5-5e64-4b32-8097-56589abd451a_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -423,6 +589,16 @@
       "published": "2026-10-21T18:37:23+02:00",
       "category": "Actualitat",
       "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Optimisme entre els culers abans del Barça-Madrid, tot i la derrota contra el PSG",
+      "excerpt": "Els aficionats culers creuen que la derrota del Barça al Parc dels Prínceps no afectarà l’equip de cara al clàssic de diumenge, que es jugarà al Camp Nou a partir de les nou de la nit. L’afició tampoc creu que les lesions puguin afectar al rendiment dels de Hansi Flick davant el Reial Madrid. Els […]",
+      "url": "https://beteve.cat/esports/optimisme-aficionats-culers-barca-madrid-derrota-psg/",
+      "published": "2026-10-21T18:30:38+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/12/aficio-barca.jpg",
       "priority": "3 · Altres notícies"
     },
     {
