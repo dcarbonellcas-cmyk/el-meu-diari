@@ -33,6 +33,16 @@
     },
     {
       "source": "VilaWeb",
+      "title": "Trencadissa a Més: Vicenç Vidal fa un pas al costat i Carme Gomila serà la candidata al congrés espanyol",
+      "excerpt": "El diputat fa un pas al costat arran del veto d’Esquerra Republicana i Més per Menorca",
+      "url": "https://www.vilaweb.cat/noticies/vicenc-vidal-deixa-mes-carme-gomila-candidata-congres-espanyol/",
+      "published": "2026-10-21T17:19:08+02:00",
+      "category": "Illes",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
       "title": "Llanos Massó serà la número 2 de Vox per Castelló a les eleccions espanyoles",
       "excerpt": "Gil-Lázaro encapçala la candidatura per València",
       "url": "https://www.vilaweb.cat/noticies/llanos-masso-numero-2-vox-castello-eleccions-espanyoles-novembre/",
@@ -59,8 +69,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Milers d’estudiants i professors es manifesten a Grècia contra els retalls en educació i la crisi d’habitatge",
-      "excerpt": "Les protestes s’intensifiquen, amb parades i tancaments de metro a Atenes i Salònica",
+      "title": "Milers d’estudiants i professors es manifesten a Grècia contra les retallades en educació i la crisi d’habitatge",
+      "excerpt": "Les protestes s’intensifiquen, amb aturades i tancaments de metro a Atenes i Tessalonica",
       "url": "https://www.vilaweb.cat/noticies/milers-estudiants-professors-manifesten-grecia-educacio-crisi-habitatge/",
       "published": "2026-10-21T15:47:51+02:00",
       "category": "Europa",
@@ -250,6 +260,136 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Barcelona Oberta demana deixar de posar traves al comerç i facilitar l’activitat econòmica",
+      "excerpt": "La XI edició del Summit Barcelona Oberta ha servit per posar blanc sobre negre als acords i desacords que aquesta entitat —que agrupa 24 eixos comercials— manté amb les polítiques de l’Ajuntament de Barcelona en alguns camps. Els lloguers comercials en són un exemple. L’alcalde de Barcelona, Jaume Collboni, ha anat al gra a l’hora […]",
+      "url": "https://beteve.cat/economia/barcelona-oberta-demana-deixar-posar-traves-comerc/",
+      "published": "2026-10-21T17:39:54+02:00",
+      "category": "comerç",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/summit-barcelona-oberta-2026-10-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Detingut un menor a Manresa durant una protesta estudiantil",
+      "excerpt": "Els manifestants reclamen millores a l’ensenyament i causen desperfectes a la seu dels Serveis Territorials d’Educació",
+      "url": "https://www.vilaweb.cat/noticies/detencio-menor-manresa-protesta-estudiantil/",
+      "published": "2026-10-21T17:33:51+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"No podem fer un aiguabarreig sense criteri de les col·leccions del Museu del Disseny\"",
+      "excerpt": "El comissari, escriptor, músic i investigador Lluís Nacenta (1976) va assumir la direcció del Museu del Disseny al març, després que José Luis de Vicente abandonés el càrrec prematurament. Nacenta va ser el director d’Hangar, va col·laborar amb la Fundació Mies van der Rohe des del 2012 i és patró de la Fundació COAC. En el camp de la docència, ha sigut professor de diverses escoles de disseny i arquitectura de Barcelona, entre les quals hi ha Eina i Bau. Abans d'arribar al Museu del…",
+      "url": "https://www.ara.cat/cultura/art/lluis-nacenta-museu-disseny-no-aiguabarreig-criteri_128_5885678.html",
+      "published": "2026-10-21T17:29:06+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1740ebce-0993-454d-a59c-ea47dcb5c9d6_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Una “rebel·lia autèntica”: què hi ha darrere l’onada de protestes i aldarulls que sacseja Europa?",
+      "excerpt": "L’onada de protestes contra l’encariment de la vida s’estén ja per Europa. Itàlia, Bèlgica, Portugal i Albània són alguns dels molts països que des de fa setmanes viuen actes de protesta generades pel malestar social, però les imatges més impactants d’aquest cap de setmana s’han viscut a França, agreujades pels saqueigs i la crema de […]",
+      "url": "https://beteve.cat/politica/rebelia-autentica-darrere-onada-protestes-aldarulls-sacseja-europa/",
+      "published": "2026-10-21T17:28:50+02:00",
+      "category": "Europa",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/incendi-ajuntament-llemotges-2026-10-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Prendre's el clima seriosament",
+      "excerpt": "Un grup de científics important –en quantitat i qualitat–, acompanyat d'un seguit de noms de la societat civil, ha signat una carta oberta als governs de les dues Generalitats (la de Catalunya i la Valenciana) alertant-los de la necessitat de prendre mesures davant l'amenaça del fenomen meteorològic conegut com el Niño. Aquesta carta s'integra dins la campanya internacional Alerta el Niño, i qui es prengui la molèstia de llegir-la, s'adonarà que hi ha poc espai per a les opinions personals, i encara menys per a…",
+      "url": "https://www.ara.cat/opinio/prendre-s-clima-seriosament_129_5885902.html",
+      "published": "2026-10-21T17:18:30+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/47a506e5-da3a-4b96-9211-cdfec67208ee_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Col·laboració publicoprivada: una parella convenient però desconfiada",
+      "excerpt": "Una llosa important per a l'enlairament de la col·laboració publicoprivada és la desconfiança mútua. Ho admeten tant la part pública com la privada, però alhora coincideixen que serà difícil arribar als objectius de país en matèries tan transcendentals com l'habitatge, la transició energètica i la digital i les infraestructures, sense la suma de les dues parts. Tot plegat s'ha constatat durant una jornada sobre aquesta matèria organitzada per la Fundació Economia i Empresa, del Col·legi d'Economistes, i l'Institut Cerdà.",
+      "url": "https://www.ara.cat/economia/col-laboracio-publicoprivada-parella-convenient-desconfiada_1_5885790.html",
+      "published": "2026-10-21T17:08:21+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5baa4f25-9d57-4fd9-8587-a836e21b4f81_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Engrunes d’inestabilitat amb algun ruixat mar endins dijous, 22 d’octubre: migdia més fresc",
+      "excerpt": "La previsió del temps per a aquest dijous, 22 d’octubre, anuncia un increment destacable dels núvols. El sol brillarà amb poca força, especialment al matí on la nuvolositat serà densa i compacta. Fins al migdia hi haurà risc d’algun ruixat aïllat més probable a la façana marítima. Descens lleuger de la temperatura. Previsió horària per […]",
+      "url": "https://beteve.cat/medi-ambient/temps-barcelona-dijous-22-octubre-ruixat-dispers-migdia-fresc/",
+      "published": "2026-10-21T17:07:57+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/temps-barcelona-dijous-22-octubre-ruixat-dispers-migdia-fresc-2026-10-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els visigots van tenir poc impacte genètic a la península Ibèrica",
+      "excerpt": "Hi ha una historiografia tradicional i algun llibre recentment publicat que defensen que tot va començar amb els gots. A l’escola, moltes generacions van haver de memoritzar la llista infinita dels seus reis per consolidar un relat oficial que veia en aquelles elits germàniques la primera pedra del futur estat espanyol. Genèticament, però, el seu impacte va ser molt menor, com demostra un estudi internacional liderat per l’Institut de Biologia Evolutiva (IBE), el Museu de Ciències Naturals de Barcelona, la Universitat Harvard i l’Euskal Herriko…",
+      "url": "https://www.ara.cat/cultura/historia/visigots-poc-impacte-genetic-peninsula-iberica_1_5885555.html",
+      "published": "2026-10-21T17:00:45+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fc04b7a4-8e18-437f-b726-c9cd1353985c_source-aspect-ratio_default_0_x519y565.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Putin es mostra disposat a reprendre les converses sobre Ucraïna al novembre",
+      "excerpt": "L’enviat especial dels Estats Units, Steve Witkoff, ha demanat al president rus que desbloqui les negociacions amb Kíiv",
+      "url": "https://www.vilaweb.cat/noticies/putin-disposat-reprendre-converses-ucraina-novembre/",
+      "published": "2026-10-21T16:57:15+02:00",
+      "category": "Món",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Índia protagonitza el XIV Asian Film Festival, en què es projectaran 100 films de 25 països",
+      "excerpt": "L’Asian Film Festival Barcelona arrencarà aquest dijous i s’allargarà fins a l’1 de novembre. Es podran veure més de 100 obres de cinema asiàtic actual de 25 països, amb especial focus a les produccions de l’Índia. Organitzat per Casa Asia, el festival arriba a la 14a edició i ofereix el cinema més actual tant de […]",
+      "url": "https://beteve.cat/cultura/cinema-indi-asian-film-festival/",
+      "published": "2026-10-21T16:52:09+02:00",
+      "category": "cinema",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/asian-film-festival-no-good-men-01-2026-10-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1914/",
+      "published": "2026-10-21T16:50:34+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé instal·la dues càmeres més per seguir el temps: al Tibidabo i al Port Olímpic",
+      "excerpt": "betevé ha signat un acord de col·laboració amb Barcelona de Serveis Municipals (B:SM) que ha permès la instal·lació de dues càmeres d’alta definició que serviran especialment per fer seguiment del temps a casa nostra sense tenir cap zona sense cobrir. La del Port Olímpic, la vista cap el sud Aquestes càmeres se sumen a la […]",
+      "url": "https://beteve.cat/medi-ambient/beteve-dues-cameres-seguiment-temps/",
+      "published": "2026-10-21T16:46:29+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/beautiesportolimpic_1-2026-10-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "‘Les veles s’inflaran’, un espectacle amb música i personatges de Dagoll Dagom",
+      "excerpt": "(ACN/Redacció) El president d’Enraona Teatre i exdirector de la desapareguda i emblemàtica companyia de teatre Dagoll Dagom, Joan Lluís Bozzo, s’endinsa de nou en l’imaginari de Dagoll Dagom amb Les veles s’inflaran. L’espectacle tindrà més de 30 artistes i inclourà música i personatges de títols emblemàtics com Mar i cel, Flor de nit, Nit de […]",
+      "url": "https://beteve.cat/cultura/les-veles-inflaran-nou-espectacle/",
+      "published": "2026-10-21T16:44:17+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/les-veles-inflaran-2026-10-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Sis detinguts pel robatori mortal a Burgos que l’extrema dreta va atribuir falsament a dos joves catalans",
       "excerpt": "Els arrestats són dos menors i quatre adults, que presumptament van col·laborar en l'assalt · Els dos catalans assenyalats a les xarxes han decidit de denunciar conjuntament la campanya racista",
@@ -306,7 +446,7 @@
       "url": "https://www.ara.cat/esports/basquet/eurolliga/pedra-sabata-coixejar-barca_130_5885730.html",
       "published": "2026-10-21T15:58:31+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/da716bdf-3c7d-4bf7-acbf-d0e82f350757_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/2ad33918-c4de-4162-b936-2ab937937eca_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -341,7 +481,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Espot deixa entreveure que el referèndum sobre l’acord d’associació quedarà per a la legislatura vinent",
+      "title": "Espot insinua que el referèndum sobre l’acord d’associació quedarà per a la legislatura vinent",
       "excerpt": "El cap de govern andorrà veu “molt complicat” de convocar la consulta abans de les eleccions i diu que el nou executiu l’haurà d’organitzar si no es fa aquesta legislatura",
       "url": "https://www.vilaweb.cat/noticies/espot-referendum-acord-ue/",
       "published": "2026-10-21T15:25:50+02:00",
@@ -547,7 +687,7 @@
     {
       "source": "ARA",
       "title": "Set dels deu barris amb més estrangers de l'Estat són a Catalunya",
-      "excerpt": "Set dels deu barris amb més immigració de tot l'Estat es troben a Barcelona i l'Hospitalet de Llobregat, segons dades d'indicadors urbans del 2024 publicades aquest dimecres per l'Institut Nacional d'Estadística (INE). De fet, els cinc barris amb un percentatge més elevat de residents estrangers es troben tots al districte de Ciutat Vella de la capital catalana.",
+      "excerpt": "Set dels deu barris amb un percentatge més elevat de població estrangera de l'Estat es troben a Barcelona i l'Hospitalet de Llobregat, segons l'última edició dels indicadors urbans de l'Institut Nacional d'Estadística (INE), publicada aquest dimecres. De fet, els cinc barris amb un percentatge més elevat de residents estrangers es troben tots al districte de Ciutat Vella de la capital catalana.",
       "url": "https://www.ara.cat/societat/immigracio/set-dels-deu-barris-mes-immigracio-l-son-catalunya_1_5885771.html",
       "published": "2026-10-21T13:41:45+02:00",
       "category": "Actualitat",
@@ -566,8 +706,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Brussel·les obre una investigació a Booking per la proliferació d'anuncis falsos i risc d'estafa",
-      "excerpt": "La sospita és que la plataforma no fa prou esforços per evitar aquests fraus i altres pràctiques que poden comprometre les dades personals o la transparència de l'oferta que s'ofereix",
+      "title": "Brussel·les investiga Booking per la proliferació d'anuncis falsos i els riscos d'estafa",
+      "excerpt": "La Comissió Europea sospita que la plataforma no fa prou esforços per evitar aquests fraus ni per protegir les dades personals dels clients",
       "url": "https://www.3cat.cat/3catinfo/brusselles-obre-una-investigacio-a-booking-per-la-proliferacio-danuncis-falsos-i-risc-destafa/noticia/3435312/",
       "published": "2026-10-21T13:28:33+02:00",
       "category": "Actualitat",
