@@ -42,6 +42,22 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dijous: sensació de tardor",
+      "excerpt": "Fresca i presència freqüent de núvols",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sensacio-de-tardor/noticia/3435255/",
+      "published": "2026-10-21T20:20:40+02:00",
+      "updated": "2026-10-21T22:21:23+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/2/1792614067825.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431869/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sensacio-de-tardor/noticia/3435255/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "Qui vigila les obres públiques? Sindicats de seguretat privada denuncien intrusisme de clans",
       "excerpt": "Els sindicats del sector asseguren que hi ha desenes de grups fent feines de vigilància a les obres sense estar donats d'alta al Departament d'Interior i reclamen mesures",
@@ -68,24 +84,18 @@
     },
     {
       "source": "3CatInfo",
-      "title": "França es prepara per a una nova mobilització mentre els sindicats criden a la vaga general",
-      "excerpt": "El president Macron avisa que \"cap violència és legítima\", mentre que els estudiants i els Armilles Grogues anuncien una nova jornada de manifestacions",
+      "title": "França es prepara per a una nova mobilització i els sindicats fa una crida a la vaga general",
+      "excerpt": "El president Macron avisa que \"cap violència és legítima\", i els estudiants i els Armilles Grogues anuncien una nova jornada de manifestacions",
       "url": "https://www.3cat.cat/3catinfo/franca-es-prepara-per-a-una-nova-mobilitzacio-mentre-els-sindicats-criden-a-la-vaga-general/noticia/3435430/",
       "published": "2026-10-21T20:22:54+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/3/1792245988637.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dijous: sensació de tardor",
-      "excerpt": "Fresca i presència freqüent de núvols",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sensacio-de-tardor/noticia/3435255/",
-      "published": "2026-10-21T20:20:40+02:00",
-      "updated": "2026-10-21T20:21:52+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpeg/9/5/1792561388159.jpeg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431822/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/franca-es-prepara-per-a-una-nova-mobilitzacio-mentre-els-sindicats-criden-a-la-vaga-general/noticia/3435430/"
+      }
     },
     {
       "source": "ARA",
@@ -322,7 +332,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Els manifestants per l'habitatge a Lisboa desafien el govern i tornaran a acampar",
+      "title": "Els manifestants per l'habitatge a Lisboa desafien el govern i diuen que tornaran a acampar",
       "excerpt": "Els participants en l'acampada denuncien l'actuació policial durant el desallotjament de dimarts, que va acabar amb 55 detinguts",
       "url": "https://www.3cat.cat/3catinfo/els-manifestants-per-lhabitatge-a-lisboa-desafien-el-govern-i-tornaran-a-acampar/noticia/3435256/",
       "published": "2026-10-21T08:23:49+02:00",
@@ -373,7 +383,67 @@
     },
     {
       "source": "ARA",
-      "title": "¿El tiquet d'una pizza garanteix que els ocupes evitin el desallotjament com diu Feijóo?",
+      "title": "Multa de 25.000 milions de dòlars a Meta per enganyar usuaris",
+      "excerpt": "Un tribunal nord-americà ha condemnat aquest dimecres Meta, propietària de Facebook, Instagram i WhatsApp, a pagar 25.000 milions de dòlars per enganyar el públic sobre la protecció de les seves dades personals.",
+      "url": "https://www.ara.cat/economia/tecnologia/multa-25-000-milions-dolars-meta-enganyar-usuaris_1_5886579.html",
+      "published": "2026-10-21T22:04:42+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/05599679-80cb-4106-8708-d40d542d1961_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "bàsics",
+      "excerpt": "El programa d’anàlisi de l’actualitat de Barcelona amb els principals titulars del dia i l’anàlisi corresponent. Perquè això és el ‘bàsics’: fer un pas més i buscar més veus implicades en els temes tractats, per donar les claus del debat a partir d’entrevistes, reportatges, taules i anàlisi. Presentat per Sandra Mestres.",
+      "url": "https://beteve.cat/basics/basics-1410/",
+      "published": "2026-10-21T22:01:35+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Trump converteix Califòrnia en el principal blanc de les ingerències electorals a les 'midterms'",
+      "excerpt": "Califòrnia, el gran bastió progressista que representa una substanciosa part del pastís parlamentari dels demòcrates, s'ha convertit en principal blanc de les ingerències electorals de Donald Trump. A dues setmanes de les midterms , l'administració estatunidenca hi ha executat el que ha batejat com a \"Operació Protegir el Vot\", la qual està orientada a reforçar les seves teories de frau electoral sobre l'existència de persones sense papers que voten en favor dels demòcrates. També alimenta la idea que encara hi ha als registres electorals persones…",
+      "url": "https://www.ara.cat/internacional/estats-units/trump-converteix-california-principal-blanc-ingerencies-electorals-midterms_1_5886254.html",
+      "published": "2026-10-21T21:52:02+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/efda72f0-a7ef-4922-8d79-d38590ca9443_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Em van donar vint mesos de vida fa onze anys\": dues dècades de revolució oncològica a Barcelona",
+      "excerpt": "Isabel Lemus, Meritxell Jané i Francesc Tarruella van rebre, fa entre deu i vint anys, un diagnòstic de càncer avançat. Càncer de mama amb metàstasi hepàtica, càncer colorectal amb metàstasi hepàticai melanoma amb metàstasi pulmonar i cerebral... Els tractaments eren escassos i els pronòstics, poc esperançadors. Però dimarts, aquests tres catalans van pujar a l'escenari de la Llotja de Mar de Barcelona per explicar com els avenços mèdics i científics els han permès continuar vivint molts anys més. \"Em van diagnosticar càncer quan tenia 37…",
+      "url": "https://www.ara.cat/societat/salut/em-donar-vint-mesos-vida-onze-anys-dues-decades-revolucio-oncologica-barcelona_1_5886056.html",
+      "published": "2026-10-21T21:47:59+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4aa711a3-9e67-4414-bc78-310fadd607e2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La Brama",
+      "excerpt": "La cultura és la protagonista absoluta. Laura Sangrà presenta ‘La Brama’, un punt de trobada entre els grans noms del sector, els més consolidats i els emergents, els que estan en primera línia i els que es troben als marges. Volem que el programa sigui un clam, una reivindicació del paper de la cultura i […]",
+      "url": "https://beteve.cat/la-brama/la-brama-29/",
+      "published": "2026-10-21T21:45:45+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El 48h Open House BCN 2026 obre les portes de 63 d'espais mai vistos: tria què pots visitar",
+      "excerpt": "La 17a edició del festival d'arquitectura dona accés a més de 200 edificis de Barcelona i cinc municipis més per fer-hi visites lliures o guiades el 24 i 25 d'octubre",
+      "url": "https://www.3cat.cat/3catinfo/el-48h-open-house-bcn-2026-obre-les-portes-de-63-despais-mai-vistos-tria-que-pots-visitar/noticia/3435209/",
+      "published": "2026-10-21T21:39:09+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/3/1792530532739.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "¿El tiquet d'una pizza impedeix desallotjar els ocupes com diu Feijóo?",
       "excerpt": "“Hi ha propietaris que tenen por perquè, si un ocupa entra a casa seva, amb un paper que acrediti que ha demanat una pizza ningú el pot fer fora fins al cap d'uns quants anys”. El candidat del PP a les eleccions generals, Alberto Núñez Feijóo, ho ha dit aquest dimecres en un acte a Sevilla, en el qual ha desgranat les propostes del seu partit en matèria d'habitatge. Segons el líder conservador, una persona podria acreditar la seva residència en un habitatge amb el…",
       "url": "https://www.ara.cat/politica/eleccions-generals/tiquet-d-pizza-garanteix-ocupes-evitin-desallotjament-diu-feijoo_1_5886332.html",
       "published": "2026-10-21T21:37:52+02:00",
@@ -423,7 +493,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Quin dia és el canvi d’hora? Dormirem un hora més? Aquest cap de setmana arriba l’horari d’hivern",
+      "title": "Quin dia es fa el canvi d’hora? Dormirem un hora més? Aquest cap de setmana arriba l’horari d’hivern",
       "excerpt": "Expliquem tots els dubtes relacionats amb el canvi d'hora: haurem d'avançar el rellotge una hora o bé endarrerir-lo?",
       "url": "https://www.vilaweb.cat/noticies/acosta-canvi-hora-octubre-2026-quin-dia-sera/",
       "published": "2026-10-21T21:00:48+02:00",
@@ -454,17 +524,17 @@
     {
       "source": "3CatInfo",
       "title": "Junqueras, homenatjat a Sant Vicenç dels Horts: \"El rival pot fer servir tota mena d'eines antidemocràtiques\"",
-      "excerpt": "A l'acte per celebrar l'amnistia al president d'ERC també hi ha estat present Raül Romeva, igualment amnistiat aquest dimarts",
+      "excerpt": "En l'acte per celebrar l'amnistia al president d'ERC també hi ha estat present Raül Romeva, amnistiat també aquest dimarts",
       "url": "https://www.3cat.cat/3catinfo/junqueras-homenatjat-a-sant-vicenc-dels-horts-lendema-de-rebre-lamnistia/noticia/3435450/",
       "published": "2026-10-21T20:31:47+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/2/5/1792607641752.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431830/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/junqueras-homenatjat-a-sant-vicenc-dels-horts-lendema-de-rebre-lamnistia/noticia/3435450/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -488,12 +558,12 @@
     },
     {
       "source": "ARA",
-      "title": "Lluís Puig torna a Catalunya després de l'exili: \"Continuem ferms i volent la llibertat del poble català\"",
-      "excerpt": "Lluís Puig ja ha tornat de l'exili acompanyat per centenars de terrassencs i de tota la plana major de Junts, com el president del Parlament, Josep Rull, i el secretari general, Jordi Turull. \"Avui ha perdut la judicatura espanyola, que vol fer política sense presentar-se a les urnes\", ha reblat Puig des de davant del consistori egarenc, amb una forta emoció, múltiples abraçades i llàgrimes.",
+      "title": "Lluís Puig torna a Terrassa després de l'exili i entre llàgrimes: \"Volem la llibertat del poble català\"",
+      "excerpt": "Feia 3.272 dies que els cantaires de Terrassa projectaven la seva veu per la llibertat dels presos polítics i exiliats davant de l'Ajuntament. Concretament, des del 14 de novembre del 2017, quan van començar, i ja han passat nou anys d'exili dolorós. \"Plogui, nevi o faci calor\", la cita diària era ineludible entre els cantaires que hi anaven amb regularitats dispars. Alguns, amb cançoners per finançar la solidaritat antirepressiva. Aquest dimecres, però, i malgrat cantar les mateixes cançons de sempre —com Vull ser lliure ,…",
       "url": "https://www.ara.cat/politica/lluis-puig-torna-catalunya-despres-l-exili-seguim-ferms-volent-llibertat-poble-catala_1_5886483.html",
       "published": "2026-10-21T20:12:31+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/8b60efd0-99ef-4ccb-839d-3fd13f9bb4fe_source-aspect-ratio_default_0_x1300y1652.jpg",
+      "image": "https://static1.ara.cat/clip/b588986a-2839-48fe-bcb6-2f20563234b5_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -573,7 +643,7 @@
       "url": "https://www.3cat.cat/3catinfo/lluis-puig-apareix-a-terrassa-en-el-primer-acte-public-despres-de-nou-anys-a-lexili/noticia/3435415/",
       "published": "2026-10-21T19:23:55+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/5/1792603697750.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/3/1792614865439.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1543,8 +1613,8 @@
     },
     {
       "source": "ARA",
-      "title": "Le Pen capitalitza el caos per les protestes a França, segons les enquestes, i obtindria el doble de vots que Mélenchon",
-      "excerpt": "L'onada de protestes a França ha polaritzat encara més l'escenari de les eleccions presidencials del maig. Les primeres enquestes després de les manifestacions de dissabte, amb violència policial i aldarulls, han consolidat la primera posició de Marine Le Pen, que es disputaria la segona volta amb la França Insubmisa de Jean-Luc Mélenchon. La candidata de Reagrupament Nacional (RN) obtindria el doble de vots que el candidat de l'esquerra, segons l'última enquesta del diari conservador Le Figaro .",
+      "title": "Le Pen capitalitza el caos per les protestes a França i adverteix que són \"una amenaça per a la democràcia\"",
+      "excerpt": "Les imatges de joves trencant vitrines de comerços, saquejant botigues i cremant mobiliari urbà a diferents ciutats franceses el cap de setmana passat han donat una empenta electoral a Marine Le Pen, que aspira a fer-se amb l'Elisi a les eleccions presidencials que se celebraran d'aquí a sis mesos. \"Estimats vàndals: sou els millors agents electorals de Marine Le Pen\", lamentava l'endemà dels aldarulls el cronista de Libération Luc Le Vaillant. \"Els vostres saquejos, les vostres operacions de pillatge, les vostres «reapropiacions» revolucionàries són la…",
       "url": "https://www.ara.cat/internacional/europa/le-pen-capitalitza-caos-protestes-franca-segons-enquestes-obtindria-doble-vots-melechon_1_5885519.html",
       "published": "2026-10-21T10:20:13+02:00",
       "category": "Actualitat",
