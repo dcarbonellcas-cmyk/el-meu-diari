@@ -32,6 +32,32 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimecres: temps tranquil amb alguns matisos",
+      "excerpt": "Matí força fresc i ambient suau de dia",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-temps-tranquil-amb-alguns-matisos/noticia/3435174/",
+      "published": "2026-10-20T18:35:35+02:00",
+      "updated": "2026-10-21T15:48:22+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/1/1792590468911.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431779/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-temps-tranquil-amb-alguns-matisos/noticia/3435174/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Milers d’estudiants i professors es manifesten a Grècia contra els retalls en educació i la crisi d’habitatge",
+      "excerpt": "Les protestes s’intensifiquen, amb parades i tancaments de metro a Atenes i Salònica",
+      "url": "https://www.vilaweb.cat/noticies/milers-estudiants-professors-manifesten-grecia-educacio-crisi-habitatge/",
+      "published": "2026-10-21T15:47:51+02:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
       "title": "Collboni no desallotjarà l’acampada d’habitatge, però avisa: la GUB està preparada per actuar si cal",
       "excerpt": "El govern municipal de Jaume Collboni descarta de totes totes un desallotjament imminent de l’acampada prohabitatge de la plaça de Catalunya, que ja acumula unes 600 tendes de campanya, segons els organitzadors. Durant la Comissió de Presidència i Seguretat, el tinent d’alcaldia Albert Batlle ha assegurat que el consistori respecta i garanteix el dret a […]",
@@ -103,22 +129,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dimecres: temps tranquil amb alguns matisos",
-      "excerpt": "Matí força fresc i ambient suau de dia",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-temps-tranquil-amb-alguns-matisos/noticia/3435174/",
-      "published": "2026-10-20T18:35:35+02:00",
-      "updated": "2026-10-21T08:48:48+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/5/8/1792565313185.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6431695/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-temps-tranquil-amb-alguns-matisos/noticia/3435174/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "VilaWeb",
       "title": "Rull i la mesa del parlament rebran Lluís Puig demà a les 15.00",
       "excerpt": "El conseller de Cultura intervindrà al ple de la cambra i retirarà el llaç groc del seu escó",
@@ -183,16 +193,66 @@
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpeg/3/6/1792557291963.jpeg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6431695/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6431779/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-tranquil-amb-alguns-matisos/noticia/3435174/"
       },
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "'Les veles s'inflaran!': el llegat de Dagoll Dagom torna als escenaris",
+      "excerpt": "La companyia Enraona Teatre, capitanejada per Joan Lluís Bozzo i Mariona Bosch de la Cruz, es mou amb dues grans missions: impulsar el teatre social i terapèutic i reivindicar els musicals en català. Agafant-se a aquesta segona passió, ara han posat en marxa Les veles s'inflaran! , un espectacle que recull els moments més emblemàtics dels grans espectacles de Dagoll Dagom i els torna a portar a escena. Amb una trentena d'intèrprets a l'escenari i la codirecció de Bosch de la Cruz i la seva…",
+      "url": "https://www.ara.cat/cultura/teatre/veles-s-inflaran-llegat-dagoll-dagom-torna-als-escenaris_1_5885729.html",
+      "published": "2026-10-21T15:32:16+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1626e04b-4fda-4ca2-a4a4-8d7e7d13502f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Espot deixa entreveure que el referèndum sobre l’acord d’associació quedarà per a la legislatura vinent",
+      "excerpt": "El cap de govern andorrà veu “molt complicat” de convocar la consulta abans de les eleccions i diu que el nou executiu l’haurà d’organitzar si no es fa aquesta legislatura",
+      "url": "https://www.vilaweb.cat/noticies/espot-referendum-acord-ue/",
+      "published": "2026-10-21T15:25:50+02:00",
+      "category": "Andorra",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El Palau Robert reivindica el Pau Casals més combatiu",
+      "excerpt": "El Palau Robert de Barcelona acull a partir d'aquest dimecres Pau Casals, música per la pau , una exposició que reivindica la figura del violoncel·lista del Vendrell i el seu llegat com a artista compromès amb la llibertat, la democràcia i la pau. Comissariada per la directora del Museu Pau Casals, Núria Ballester, la mostra es pot visitar fins al 10 de gener i forma part de l'Any Pau Casals, que commemora el 150è aniversari del naixement del músic. Després viatjarà al CaixaForum Madrid, a…",
+      "url": "https://www.ara.cat/cultura/musica/palau-robert-reivindica-pau-casals-mes-combatiu_1_5885787.html",
+      "published": "2026-10-21T15:20:17+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d26ea902-8297-4632-afdc-9315664b56c0_16-9-aspect-ratio_default_0_x2000y2766.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El comerç posa deures a Barcelona: \"Hem deixat de ser una ciutat simpàtica i atractiva\"",
+      "excerpt": "L'onzè Summit organitzat per Barcelona Oberta porta per títol La Barcelona que podria ser . Una idea que no amaga una certa insatisfacció amb la ciutat que avui és. \"És un títol provocador\", admet només començar el president de l'entitat, Gabriel Jené, i ben aviat es comprova que sens dubte genera debat. La Barcelona que podria ser segons l'alcalde, Jaume Collboni, i diversos dels ponents que participen de l'acte no acaba de casar.",
+      "url": "https://www.ara.cat/societat/barcelona/comerc-posa-deures-barcelona-hem-deixat-ciutat-simpatica-atractiva_1_5885735.html",
+      "published": "2026-10-21T14:57:02+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/36935474-5e6b-45fa-815e-f0e121b8e986_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El deute públic espanyol es manté per sota del 100% del PIB per segon mes consecutiu",
+      "excerpt": "El deute públic espanyol es manté per sota del 100% del PIB per segon mes consecutiu, un fet que no es donava des de l'esclat de la pandèmia. Després que l'Estat aconseguís situar-se per sota d'aquesta barrera psicològica el juliol passat , les últimes dades del Banc d'Espanya confirmen la tendència a la baixa. Segons les estimacions donades a conèixer aquest dimecres, el deute públic espanyol a finals d'agost s'ubicaria en el 99,7% del producte interior brut (PIB, l'indicador que mostra la mida d'una economia),…",
+      "url": "https://www.ara.cat/economia/comptes-publics/deute-public-espanyol-mante-100-pib-segon-mes-consecutiu_1_5885701.html",
+      "published": "2026-10-21T14:49:29+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cf17d447-ea74-4ab1-80dc-a90d8ab80a2c_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
-      "title": "Males notícies per al Barça: Dani Olmo s’afegeix a la infermeria blaugrana",
-      "excerpt": "La derrota davant el París Saint-Germain per 4 a 2 no és l’única mala notícia per al Barça. Segons han informat el serveis mèdics del conjunt blaugrana, Dani Olmo pateix una lesió a l’adductor esquerre i estarà aproximadament un mes de baixa. El de Terrassa va haver de ser substituït al minut 27 després d’una […]",
+      "title": "Males notícies per al Barça: Dani Olmo s’afegeix als jugadors a la infermeria blaugrana",
+      "excerpt": "La derrota davant el París Saint-Germain per 4 a 2 no és l’única mala notícia per al Barça. Segons han informat el serveis mèdics del conjunt blaugrana, Dani Olmo té una lesió a l’adductor esquerre i estarà aproximadament un mes de baixa. El de Terrassa va haver de ser substituït al minut 27 després d’una […]",
       "url": "https://beteve.cat/esports/males-noticies-barca-dani-olmo-afegeix-infermeria-blaugrana/",
       "published": "2026-10-21T14:47:41+02:00",
       "category": "esports",
@@ -242,7 +302,7 @@
     {
       "source": "VilaWeb",
       "title": "L’oposició critica el triomfalisme d’una Marga Prohens que ja ha entrat obertament en campanya",
-      "excerpt": "La presidenta del Govern de les Illes Balears baixa al fang per respondre a una oposició que li ha retret que només governa per als poders econòmics i oblida els ciutadans que no tenen accés a l'habitatge",
+      "excerpt": "La presidenta del Govern de les Illes Balears opta pel cos a cos amb l'oposició, que li ha retret que només governava per als poders econòmics i oblidava els ciutadans sense accés a l'habitatge",
       "url": "https://www.vilaweb.cat/noticies/loposicio-critica-el-triomfalisme-duna-marga-prohens-que-ja-ha-entrat-obertament-en-campanya/",
       "published": "2026-10-21T14:21:00+02:00",
       "category": "Illes",
@@ -257,12 +317,12 @@
       "published": "2026-10-21T14:15:57+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/1/1/1792576435611.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431614/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/graneres-mans-i-botes-la-solidaritat-contra-la-tragedia-de-la-dana-adam-al-pais-valencia/noticia/3435289/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -312,6 +372,16 @@
       "published": "2026-10-21T13:59:21+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/6/1792583131067.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-740/",
+      "published": "2026-10-21T13:55:00+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -375,6 +445,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Del punk a la màquina: l’In-Edit 2026 reivindica la memòria musical i la contracultura",
+      "excerpt": "Del punk al flamenc, del jazz còsmic a la màquina i de les grans llegendes a les escenes més subterrànies. L’In-Edit torna a Barcelona del 29 d’octubre al 8 de novembre amb 70 documentals i una programació que reuneix noms com Marianne Faithfull, David Bowie, Pulp, NOFX, Dolly Parton, Sun Ra o Sonic Youth. Parlem […]",
+      "url": "https://beteve.cat/tot-passa/punk-maquina-in-edit-2026-reivindica-memoria-musical-contracultura/",
+      "published": "2026-10-21T13:28:00+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/totpassa_211026-2026-10-21.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "La catalana Esteve inverteix més de 70 milions en una nova planta a la Xina",
       "excerpt": "Esteve CDMO, el negoci de desenvolupament i fabricació de principis actius farmacèutics per a tercers (CDMO, per les seves sigles en anglès) de la farmacèutica catalana, invertirà 80 milions de dòlars, equivalents a una mica més de 71 milions d'euros, en una nova planta productiva a la Xina. Així ho han anunciat en un comunicat aquest mateix dimecres, en què detallen que el moviment servirà per entomar la \"reubicació, ampliació i modernització\" de les seves operacions al gegant asiàtic.",
@@ -397,7 +477,7 @@
     {
       "source": "3CatInfo",
       "title": "El TC manté la suspensió de vot dels milers de nacionalitzats per la llei de nets",
-      "excerpt": "El defensor del poble li demanava deixar sense efecte la suspensió cautelar del dret a vot, però amb la decisió del TC milers d'afectats continuaran amb el vot suspès",
+      "excerpt": "El defensor del poble es mostra preocupat per si la suspensió no permet \"exercir el dret a vot a ciutadans espanyols\"",
       "url": "https://www.3cat.cat/3catinfo/el-tc-denega-el-recurs-contra-la-suspensio-de-vot-dels-milers-de-nacionalitzats-per-la-llei-de-nets/noticia/3434957/",
       "published": "2026-10-21T13:14:05+02:00",
       "category": "Actualitat",
@@ -452,6 +532,16 @@
       "published": "2026-10-21T13:04:11+02:00",
       "category": "atletisme",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/presentacio-triatlo-barcelona-museu-2026-2026-10-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El penis censurat de la font del Geni Català a pla de Palau",
+      "excerpt": "A pla de Palau s’alça la font del Geni Català, un monument de Barcelona que amaga darrere dels seus blocs de pedra una crònica plena de canvis de criteri, disputes institucionals i una llarga controvèrsia moral entorn de la representació dels seus genitals. L’obra, que avui dia es mostra restaurada en la fisonomia original, reflecteix […]",
+      "url": "https://beteve.cat/va-passar-aqui/historia-font-del-geni-catala-pla-de-palau/",
+      "published": "2026-10-21T12:59:26+02:00",
+      "category": "història",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/font-geni-catala-pla-palau-2026-10-21.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -543,6 +633,21 @@
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2021/01/que-fer-amb-nens-a-barcelona-txt-01-1920x1080-1.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Estudiants del Bages es manifesten a Manresa contra la cancel·lació de sortides i colònies",
+      "excerpt": "Els sindicats educatius han obert una consulta telemàtica per saber si els docents estan disposats a fer més vagues",
+      "url": "https://www.3cat.cat/3catinfo/estudiants-del-bages-es-manifesten-a-manresa-i-se-sumen-a-les-reclamacions-dels-docents/noticia/3435260/",
+      "published": "2026-10-21T11:55:49+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/6/1792575606960.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431735/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/estudiants-del-bages-es-manifesten-a-manresa-i-se-sumen-a-les-reclamacions-dels-docents/noticia/3435260/"
+      }
     },
     {
       "source": "betevé",
@@ -937,12 +1042,12 @@
       "published": "2026-10-21T06:46:07+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/3/1792524488937.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431632/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/els-taxis-sense-conductor-de-waymo-desembarcaran-a-madrid-despres-de-lexperiencia-als-eua/noticia/3435226/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -952,7 +1057,12 @@
       "published": "2026-10-21T06:44:45+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/0/1792497273404.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431738/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/medinya-podria-ser-independent-gracies-a-la-llei-de-memoria-democratica/noticia/3434824/"
+      }
     },
     {
       "source": "3CatInfo",
