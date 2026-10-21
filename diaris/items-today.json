@@ -43,8 +43,34 @@
     },
     {
       "source": "VilaWeb",
+      "title": "Una greu fallada de seguretat descoberta amb IA amenaça milions de webs",
+      "excerpt": "Una vulnerabilitat crítica en el llenguatge de programació PHP obliga governs europeus a desconnectar webs preventivament per evitar ciberatacs · Els experts alerten del risc d’intrusions en massa",
+      "url": "https://www.vilaweb.cat/noticies/greu-fallada-seguretat-descoberta-ia-amenaca-webs/",
+      "published": "2026-10-21T19:22:58+02:00",
+      "category": "Internet",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "El Champi es converteix en el supertifó més intens del 2026",
+      "excerpt": "Amb vents sostinguts de prop de 300 km/h, el fenomen ha causat destrosses a Guam i les illes Mariannes del Nord i es desplaça pel mar de les Filipines en direcció al Japó",
+      "url": "https://www.3cat.cat/3catinfo/el-champi-es-converteix-en-el-supertifo-mes-intens-del-2026/noticia/3435423/",
+      "published": "2026-10-21T18:50:24+02:00",
+      "updated": "2026-10-21T18:50:55+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/5/1792596891852.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431791/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-champi-es-converteix-en-el-supertifo-mes-intens-del-2026/noticia/3435423/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
       "title": "El parlament accepta de tramitar la llei per a fixar un salari mínim de referència de 1.400 euros",
-      "excerpt": "La iniciativa supera el debat de totalitat tot i els intents de PP i Vox d'aturar-la",
+      "excerpt": "La iniciativa supera el debat de totalitat, malgrat l'intent del PP i de Vox d'aturar-la",
       "url": "https://www.vilaweb.cat/noticies/parlament-tramita-llei-crear-salari-minim-referencia-catalunya/",
       "published": "2026-10-21T18:16:28+02:00",
       "category": "Principat",
@@ -54,7 +80,7 @@
     {
       "source": "VilaWeb",
       "title": "Trencadissa a Més: Vicenç Vidal plega de la direcció i Carme Gomila serà la candidata al congrés espanyol",
-      "excerpt": "El diputat no es presentarà arran del vet d’Esquerra Republicana i Més per Menorca",
+      "excerpt": "El diputat no es presentarà a les eleecions arran del vet d’Esquerra Republicana i Més per Menorca",
       "url": "https://www.vilaweb.cat/noticies/vicenc-vidal-deixa-mes-carme-gomila-candidata-congres-espanyol/",
       "published": "2026-10-21T17:19:08+02:00",
       "category": "Illes",
@@ -109,8 +135,8 @@
     },
     {
       "source": "ARA",
-      "title": "Educació no podrà retirar les pantalles a Infantil tal com va prometre, però en limitarà l'ús",
-      "excerpt": "Educació no retirarà les pissarres digitals de les aules d'I3, I4 i I5, com va anunciar que faria el juny del 2025 . Finalment, el Govern ha optat per restringir-ne l'ús, però no les traurà de les aules dels més petits de les escoles. El motiu principal és que aquests dispositius es van adquirir a través de fons Next Generation –durant el mandat del conseller Cambray–, cosa que fa que, ara, el Govern no tingui poder per retirar-les totalment o moure-les sense córrer el risc…",
+      "title": "Crítiques de famílies i directors perquè Educació no retirarà les pantalles a Infantil com va prometre",
+      "excerpt": "Educació no retirarà les pissarres digitals de les aules d'I3, I4 i I5, com va anunciar que faria el juny del 2025 . Finalment, el Govern ha optat per restringir-ne l'ús, però no les traurà de les aules dels més petits de les escoles. El motiu principal és que aquests dispositius es van adquirir a través de fons Next Generation –durant el mandat del conseller Cambray–, cosa que fa que ara el Govern no tingui poder per retirar-les totalment o moure-les sense córrer el risc…",
       "url": "https://www.ara.cat/societat/educacio/educacio-no-podra-retirar-pantalles-infantil-prometre-limitara-l-us_1_5885556.html",
       "published": "2026-10-21T15:38:20+02:00",
       "category": "Actualitat",
@@ -278,6 +304,116 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-tranquil-amb-alguns-matisos/noticia/3435174/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Mig centenar d’entitats es mobilitzen el 15 de novembre a Móra d’Ebre contra la destrucció dels espais rurals",
+      "excerpt": "Els organitzadors alerten que els centres de dades i la gigafactoria s'afegeix a les amenaces de la transició energètica",
+      "url": "https://www.vilaweb.cat/noticies/mig-centenar-dentitats-es-mobilitzen-el-15-de-novembre-a-mora-debre-contra-la-destruccio-dels-espais-rurals/",
+      "published": "2026-10-21T19:33:32+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les primeres imatges de Lluís Puig a Terrassa després de nou anys d’exili",
+      "excerpt": "El conseller de Cultura del Primer d'Octubre assistirà demà al ple del parlament",
+      "url": "https://www.vilaweb.cat/noticies/primeres-imatges-lluis-puig-terrassa-nou-anys-exili/",
+      "published": "2026-10-21T19:27:26+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Lluís Puig apareix a Terrassa en el primer acte públic després de nou anys a l'exili",
+      "excerpt": "L'exconseller torna a casa envoltat de companys de partit, però també del món de la cultura popular",
+      "url": "https://www.3cat.cat/3catinfo/lluis-puig-apareix-a-terrassa-en-el-primer-acte-public-despres-de-nou-anys-a-lexili/noticia/3435415/",
+      "published": "2026-10-21T19:23:55+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/5/1792603697750.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Ajuntament es prepara per reobrir Collserola: la carretera de les Aigües és prioritària",
+      "excerpt": "(ACN) L’Ajuntament de Barcelona ja està preparant una proposta per treballar sobre les zones de Collserola que es podrien començar a desescalar quan es reobri el parc natural a finals d’any, com va anunciar diumenge el conseller d’Agricultura, Òscar Ordeig. La intenció del consistori és fer-ho en funció del risc i mantenint els criteris de […]",
+      "url": "https://beteve.cat/politica/barcelona-prepara-desescalada-collserola-pesta-porcina/",
+      "published": "2026-10-21T19:19:40+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/03/carretera-Aigues-restriccions-Collserola-300326-3.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Putin aprofita la fractura entre Trump i Zelenski per endurir les condicions de pau",
+      "excerpt": "“Hem d’aprofitar l’oportunitat per enfonsar Ucraïna en l’edat de pedra”. Aquesta frase d’un columnista del diari oficialista Moskovski Komsomólets resumeix l’enfocament de Rússia davant del nou gir de Donald Trump. Mentre el president dels Estats Units procura ser indulgent amb Vladímir Putin fins a l’adulació, el dirigent rus interpreta la tensió entre Washington i Kíiv com una finestra per augmentar les seves exigències de pau i prémer l’accelerador al front. La Casa Blanca pretén acostar el Kremlin a la taula de negociacions amb ofertes de…",
+      "url": "https://www.ara.cat/internacional/russia/putin-aprofita-fractura-trump-zelenski-endurir-condicions-pau_1_5886222.html",
+      "published": "2026-10-21T19:14:30+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/984ed03c-a85a-4fd6-ae18-f8a3514e4d33_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Emigrar a Puerto Rico",
+      "excerpt": "Llegeixo a l’ARA que el govern de Donald Trump “ha impedit l'entrada a Ada Colau a Puerto Rico, on anava a participar en un acte al costat de l'alcalde de Nova York, Zohran Mamdani”. El motiu oficial, es veu, és la \"sospita\" que l'exalcaldessa de Barcelona \"vol migrar il·legalment al país\". El president dels Estats Units i actual cap de premsa a l’ombra d’Ada Colau no sap el que diu.",
+      "url": "https://www.ara.cat/opinio/emigrar-puerto-rico_129_5886231.html",
+      "published": "2026-10-21T19:09:26+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fac944bb-0ce0-4d2f-98a1-d27b1131f77b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-22-10-2026_134_5886089.html",
+      "published": "2026-10-21T19:05:26+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Assenyalaments racistes i culpar el redactor",
+      "excerpt": "Dos nois catalans, l’Ahmed i el Youssef, han passat un calvari perquè algú va agafar les seves fotografies i va dir que eren els assassins d’una dona de 83 anys a Burgos. Perfils d’ultradreta van difondre massivament les seves respectives imatges per alimentar el discurs racista i, com passa sempre, les rectificacions viatgen més lentes que les boles, que roden i roden i arriben molt més lluny. Jo em vull fixar, en tot cas, en el mitjà El Imperial, que va ser un dels que…",
+      "url": "https://www.ara.cat/media/assenyalaments-racistes-culpar-redactor_129_5886253.html",
+      "published": "2026-10-21T19:05:00+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La nova generació daurada del Barça es prepara per regalar un rècord històric al clàssic",
+      "excerpt": "\"El seu nivell és increïble\". Així parlava Hansi Flick de Xavi Espart a París. El Barça va perdre el primer partit de la temporada contra el París Saint-Germain , però el lateral barceloní va brillar amb llum pròpia al Parc dels Prínceps. Va abandonar el mig del camp per tornar al lateral dret i va fer una exhibició, tant en defensa com en atac, i també va marcar el seu primer gol a la Champions. Per si hi havia algun dubte, Espart s'ha guanyat un…",
+      "url": "https://www.ara.cat/esports/barca/nova-generacio-daurada-barca-prepara-regalar-record-historic-classic_1_5885974.html",
+      "published": "2026-10-21T19:00:18+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fc1215cf-9bbd-47f3-b385-4e0fde790ad9_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-22-10-2026_134_5886032.html",
+      "published": "2026-10-21T19:00:16+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El príncep Enric envia nous senyals per a la reconciliació familiar",
+      "excerpt": "Després de l'exili daurat a Califòrnia, que s'ha allargat gairebé sis anys, i el retorn al Regne Unit amb la seva dona, Meghan Markle , i els dos fills de la parella aquest mes d'agost, el príncep Enric torna a enviar senyals per a la reconciliació amb la família Windsor. En una entrevista amb la revista GQ , la primera que concedeix des que s'ha instal·lat de nou al seu país, el duc de Sussex assegura que vol recuperar els vincles familiars. Però ha advertit…",
+      "url": "https://www.ara.cat/gent/monarquies/princep-enric-envia-nous-senyals-reconciliacio-familiar_1_5885033.html",
+      "published": "2026-10-21T18:49:16+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/472d33ba-4014-4264-b2e1-d72d0b1afde7_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -491,7 +627,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Sis detinguts pel robatori mortal a Burgos que l’extrema dreta va atribuir falsament a dos joves catalans",
+      "title": "Sis detinguts pel robatori mortal a Burgos que l’extrema dreta va atribuir falsament a dos nois catalans",
       "excerpt": "Els arrestats són dos menors i quatre adults, que presumptament van col·laborar en l'assalt · Els dos catalans assenyalats a les xarxes denunciaran conjuntament la campanya racista",
       "url": "https://www.vilaweb.cat/noticies/detinguts-robatori-mortal-burgos-extrema-dreta-catalans/",
       "published": "2026-10-21T16:42:00+02:00",
@@ -1186,16 +1322,6 @@
     },
     {
       "source": "betevé",
-      "title": "L’Ajuntament es prepara per reobrir Collserola: la carretera de les Aigües és prioritària",
-      "excerpt": "(ACN) L’Ajuntament de Barcelona ja està preparant una proposta per treballar sobre les zones de Collserola que es podrien començar a desescalar quan es reobri el parc natural a finals d’any, com va anunciar diumenge el conseller d’Agricultura, Òscar Ordeig. La intenció del consistori és fer-ho en funció del risc i mantenint els criteris de […]",
-      "url": "https://beteve.cat/politica/barcelona-prepara-desescalada-collserola-pesta-porcina/",
-      "published": "2026-10-21T10:12:29+02:00",
-      "category": "municipal",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/03/carretera-Aigues-restriccions-Collserola-300326-3.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
       "title": "La Llibreria Petta i Tot Bata perviuen gràcies al relleu generacional: ”M’hauria fet ràbia tancar”",
       "excerpt": "(ACN) La Llibreria Petta, a prop dels Encants, i la botiga d’uniformes i roba laboral Tot Bata, al carrer de Sant Pere Més Baix, han trobat nous propietaris a través de Reempresa, el programa que facilita el traspàs de negocis. Els dos casos exemplifiquen com la transmissió empresarial pot donar continuïtat al comerç de proximitat […]",
       "url": "https://beteve.cat/economia/relleu-generacional-llibreria-petta-tot-bata/",
@@ -1337,11 +1463,11 @@
     {
       "source": "ARA",
       "title": "Milei, de barra lliure a Madrid",
-      "excerpt": "Javier Milei ha tornat a Espanya, en concret a Madrid. Ho ha fet en un viatge llampec i de barra lliure que coincideix amb la precampanya electoral del 29-N. El president argentí va aterrar dimarts al vespre i només ha tingut agenda aquest dimecres. Aquest dijous a primera hora torna a marxar. En tot cas, només ha necessitat una jornada de 24 hores per fer allò que sempre fa quan visita la capital espanyola: llançar dards enverinats contra Pedro Sánchez. \"Impresentable dictador\", \"lladre” i \"delinqüent\",…",
+      "excerpt": "Javier Milei ha tornat a Espanya, en concret a Madrid. Ho ha fet en un viatge llampec i de barra lliure que coincideix amb la precampanya electoral del 29-N. El president argentí va aterrar dimarts al vespre i només ha tingut agenda aquest dimecres. Aquest dijous a primera hora torna a marxar. En tot cas, només ha necessitat una jornada de 24 hores per fer el que sempre fa quan visita la capital espanyola: llançar dards enverinats contra Pedro Sánchez. \"Impresentable dictador\", \"lladre” i \"delinqüent\",…",
       "url": "https://www.ara.cat/politica/milei-desembarca-espanya-plena-precampanya-29-n_1_5885157.html",
       "published": "2026-10-21T07:00:47+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/75082aee-4128-4029-b039-1964ead01852_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/f0857f8a-ea1a-4f44-b36d-f169aaf0f40a_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
