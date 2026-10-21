@@ -3,6 +3,32 @@
   "items": [
     {
       "source": "3CatInfo · El temps",
+      "title": "La previsió de dimecres: temps tranquil amb alguns matisos",
+      "excerpt": "Matí força fresc i ambient suau de dia",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-temps-tranquil-amb-alguns-matisos/noticia/3435174/",
+      "published": "2026-10-20T18:35:35+02:00",
+      "updated": "2026-10-21T07:43:40+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpeg/3/6/1792557291963.jpeg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431637/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-temps-tranquil-amb-alguns-matisos/noticia/3435174/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Què podrien fer el PP i Vox si controlen el Congrés i el Senat?",
+      "excerpt": "A ulls de la majoria de la població, el Senat pot semblar una cambra de representació amb poca utilitat en el dia a dia de la política parlamentària. Tanmateix, la convocatòria electoral ha demostrat que és un terreny en disputa perquè pot esdevenir un contrapès capaç de pressionar o obstaculitzar l’acció del govern espanyol , tal com ha fet durant els darrers anys el Partit Popular des de l’oposició. Però, depenent de les majories que surtin del 29-N, les dretes fins i tot podrien aspirar…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/podrien-pp-vox-controlen-congres-senat_130_5884701.html",
+      "published": "2026-10-21T07:00:46+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/add615df-b8d3-4ac8-a4b5-50c48953a38f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
       "title": "La previsió de dimecres: tranquil amb alguns matisos",
       "excerpt": "Matí força fresc i ambient suau de dia",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-tranquil-amb-alguns-matisos/noticia/3435174/",
@@ -18,9 +44,139 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Un accident i les obres nocturnes a la ronda del Litoral provoquen cues quilomètriques",
+      "excerpt": "Primera hora del matí complicada a la ronda del Litoral. Un accident minuts abans de les 6 h i el tall nocturn per les obres de pavimentació que s’estan fent en aquesta via —a l’altura del Moll de la Fusta— generen cues quilomètriques per sortir de Barcelona en sentit Llobregat. Trànsit també informa que, arran […]",
+      "url": "https://beteve.cat/mobilitat/accident-obres-ronda-litoral-cues-quilometriques-besos/",
+      "published": "2026-10-21T07:33:44+02:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/accident-ronda-litoral-cues-2026-09-03.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Una Alhambra i una llagosta, dues rèpliques amb història del barri de Galvany",
+      "excerpt": "L’Alhambra de Granada té una rèplica al barri de Sant Gervasi – Galvany, i la llagosta daurada del Faneuil Hall de Boston, també. Les dues es troben a pocs 100 metres de distància l’una de l’altra, i la primera és conseqüència de l’amor entre un alemany i una andalusa, i la segona d’un agermanament entre […]",
+      "url": "https://beteve.cat/cultura/alhambra-llagosta-repliques-historia-barri-galvany/",
+      "published": "2026-10-21T07:26:21+02:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/alhambra-arc-interior-2026-10-19.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Abascal tria guru econòmic per arribar a la gran empresa catalana",
+      "excerpt": "Moviment en clau empresarial de Vox. En les llistes al Congrés dels Diputats per la circumscripció de Barcelona, a les quals ha tingut accés l'ARA, s'incorpora de número 3 el guru econòmic del partit de dreta radical: Ignacio Fontcuberta. Santiago Abascal ha decidit col·locar el seu home de finances per potenciar un pont \"amb el teixit empresarial\" a Catalunya, segons fonts coneixedores de l'operació. Encara més tenint en compte el seu bagatge com a directiu, que li ha permès tenir una posició destacada en el…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/abascal-tria-guru-economic-arribar-gran-empresa-catalana_1_5884803.html",
+      "published": "2026-10-21T07:00:47+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cb1acee5-cd00-4448-8d14-3bb7fc2a959b_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Milei desembarca a Espanya en plena precampanya del 29-N",
+      "excerpt": "Fa set mesos de l'últim viatge llampec de Javier Milei a Espanya. Aleshores es va reunir amb Santiago Abascal (Vox) i va participar en la segona edició del Madrid Economic Forum –una oda al capitalisme més salvatge–. Aquest dimarts al vespre hi ha aterrat de nou, coincidint amb la precampanya electoral del 29-N. Aquest cop Milei no es reunirà amb el líder de Vox –ho farà amb altres personalitats del partit i amb el seu think thank– , però sí amb la presidenta de la…",
+      "url": "https://www.ara.cat/politica/milei-desembarca-espanya-plena-precampanya-29-n_1_5885157.html",
+      "published": "2026-10-21T07:00:47+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/49d714c0-b099-4d9a-8a41-f50f9821c313_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El gegant químic que s'amaga en milers de productes",
+      "excerpt": "Obres la nevera i agafes una bossa d’amanida. Els plàstics que s’utilitzen per envasar aliments poden contenir materials com el Lupolen o l’Ultramid. Els fabrica la química BASF. Et calces unes Adidas per sortir a córrer. Alguns models de la gamma Boost incorporen a la sola un material anomenat Infinergy. També de BASF. De tornada, passes per una botiga de joguines i veus uns Playmobil: les mans i les articulacions de les figures s’han fabricat amb un plàstic anomenat Ultraform. De BASF. Fins i tot…",
+      "url": "https://empreses.ara.cat/empreses/gegant-quimic-s-amaga-milers-productes_1_5885029.html",
+      "published": "2026-10-21T07:00:46+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/75ccc611-a8c5-4660-821d-7f510e1374c5_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Txispa, la guspira que s’ha guanyat el seu lloc al costat de l’asador més famós del món",
+      "excerpt": "Si heu tingut la sort de visitar el Japó, potser heu viscut la sensació de veure que hi ha moltes coses que se us escapen. I enlloc de sentir-te superat per la situació, sents el confort de saber que et torbes en un complex entramat cultural en el qual ets un ignorant i que, encara que t’hi quedessis a viure per sempre, mai podràs desentortolligar en la seva totalitat. Un pòsit ancestral que va més enllà de la comprensió i pel qual només pots sentir…",
+      "url": "https://mengem.ara.cat/restaurants/txispa-guspira-s-guanyat-lloc-costat-l-asador-mes-famos-mon_1_5885040.html",
+      "published": "2026-10-21T07:00:46+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/dec2c8e5-f993-4116-bb35-ad1887ccb239_16-9-aspect-ratio_default_0_x3643y863.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tindrà Rufián gent de la seva confiança a Madrid?",
+      "excerpt": "Gabriel Rufián confirmava divendres passat que havia demanat un equip de confiança per acompanyar-lo a la llista per les eleccions generals del 29-N. \"Rufián vol tenir gent de confiança. I qui no? Miriam Nogueras no té gent de confiança?\", deia en una entrevista a RAC1. Quan va fer arribar la seva petició al partit, la direcció li va recordar que els candidats que formen part de la llista sorgeixen d'assemblees territorials i que els vota la militància. Ell demanava poder tenir més marge de maniobra…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/tindra-rufian-gent-seva-confianca-madrid_1_5884509.html",
+      "published": "2026-10-21T07:00:46+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d127d54b-3069-43c2-bdce-5435c03ec5ec_16-9-aspect-ratio_default_0_x3329y1043.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "KPMG Austràlia, acorralada pel joc brut dels seus socis",
+      "excerpt": "“Vaig saber que existia aquest correu electrònic fa tres setmanes”. “No, no és una resposta satisfactòria. Senyora Hoggett, va escriure aquest correu electrònic? Hi ha el seu nom”. “Sí, i n’accepto tota la responsabilitat”. “N’era conscient, quan el va escriure el primer cop. Va ser una decisió conscient escriure’l i enviar-lo. Això no és postveritat. Ara pot dir: «Oh! Ara en soc conscient». Quan va escriure aquell correu electrònic vostè era una persona conscient, viva, que respirava i guanyava un milió i mig de dòlars…",
+      "url": "https://empreses.ara.cat/empreses/kpmg-australia-acorralada-pel-joc-brut-dels-socis_1_5884543.html",
+      "published": "2026-10-21T07:00:45+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c53dff03-5fc7-42da-a068-1108161b4e5e_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Catalunya té un repte per als pròxims 25 anys: fer del coneixement un projecte de país",
+      "excerpt": "Durant les darreres dues dècades, Catalunya ha protagonitzat una de les transformacions científiques més extraordinàries d’Europa. Allò que a principis dels anys 2000 era una aposta valenta per construir un sistema de recerca modern, competitiu i internacional és avui una realitat reconeguda arreu del món. Hem creat centres de recerca d’excel·lència, hem atret talent global, hem desenvolupat infraestructures científiques de primer nivell i hem situat les nostres institucions entre les més competitives d’Europa en captació de recursos i producció científica.",
+      "url": "https://www.ara.cat/ciencia-medi-ambient/catalunya-repte-als-proxims-25-anys-coneixement-projecte-pais_129_5839079.html",
+      "published": "2026-10-21T07:00:45+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/043e2b7a-09d7-45da-844e-d1c71e76eb0b_source-aspect-ratio_default_0_x4277y1413.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una absoluta falta de respecte",
+      "excerpt": "La veritat, el respecte i la lleialtat s’han convertit en símbols de feblesa. Ho deia el psiquiatre Léon Wurmser i ho fa seu Byung-Chul Han a l’assaig Sense respecte. Una crisi social (Edicions 62). Donald Trump, l’home més poderós del món, encarna a la perfecció la mentida, la burla i la deslleialtat: el desvergonyiment (manca de vergonya) o, com diu l’autor, \"l’hipermoralisme desmoralitzador\" d’un petulant arrogant. Ara mateix, només cal veure què està fent amb Ucraïna.",
+      "url": "https://llegim.ara.cat/opinio/absoluta-falta-respecte_129_5883391.html",
+      "published": "2026-10-21T07:00:44+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/13b9f43b-e2ed-4d9d-8bbb-f6e57e8ea35a_source-aspect-ratio_default_0_x1747y1066.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els taxis sense conductor de Waymo desembarcaran a Madrid després de l'experiència als EUA",
+      "excerpt": "La DGT autoritza la circulació en proves de 16 vehicles autònoms, que en una primera fase funcionaran amb conducció manual, amb la previsió de rebre clients el 2027",
+      "url": "https://www.3cat.cat/3catinfo/els-taxis-sense-conductor-de-waymo-desembarcaran-a-madrid-despres-de-lexperiencia-als-eua/noticia/3435226/",
+      "published": "2026-10-21T06:46:07+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/3/1792524488937.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Medinyà podria ser independent gràcies a la llei de memòria democràtica",
+      "excerpt": "Es considera la localitat víctima del franquisme, ja que es va annexionar per decret a Sant Julià de Ramis el 1972, i ara es podria restituir com a municipi",
+      "url": "https://www.3cat.cat/3catinfo/medinya-podria-ser-independent-gracies-a-la-llei-de-memoria-democratica/noticia/3434824/",
+      "published": "2026-10-21T06:44:45+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/0/1792497273404.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "L'ONU alerta que el planeta s'encamina cap a un escalfament de 2,8 graus a finals de segle",
+      "excerpt": "La proposta de l'ONU passa per reduir un 18% les emissions mundials de gasos d'efecte hivernacle abans del 2030",
+      "url": "https://www.3cat.cat/3catinfo/lonu-alerta-que-el-planeta-sencamina-cap-a-un-escalfament-de-2-8-graus-a-finals-de-segle/noticia/3435013/",
+      "published": "2026-10-21T06:42:12+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/5/1787125154853.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Els Cants de Llibertat, la cita tossuda de cada vespre que avui espera Lluís Puig a Terrassa",
-      "excerpt": "El col·lectiu es concentra davant l’ajuntament des del novembre del 2017, ni la pandèmia no l’ha aturat, i aquest vespre rebrà el conseller de cultura, després de nou anys d’exili",
+      "excerpt": "El col·lectiu s'ha concentrat davant l’ajuntament d'ençà del novembre del 2017, fins i tot durant la pandèmia, i aquest vespre rebrà el conseller de Cultura, després de nou anys d’exili",
       "url": "https://www.vilaweb.cat/noticies/els-cants-de-llibertat-la-cita-tossuda-de-cada-vespre-que-avui-espera-lluis-puig-a-terrassa/",
       "published": "2026-10-21T01:30:40+02:00",
       "category": "Principat",

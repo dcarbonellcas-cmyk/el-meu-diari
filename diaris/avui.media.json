@@ -3,6 +3,27 @@
   "pages": [
     {
       "page": 2,
+      "title": "La previsió de dimecres: temps tranquil amb alguns matisos",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-temps-tranquil-amb-alguns-matisos/noticia/3435174/",
+      "published": "2026-10-20T18:35:35+02:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431637/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-temps-tranquil-amb-alguns-matisos/noticia/3435174/"
+      }
+    },
+    {
+      "page": 3,
+      "title": "Què podrien fer el PP i Vox si controlen el Congrés i el Senat?",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/podrien-pp-vox-controlen-congres-senat_130_5884701.html",
+      "published": "2026-10-21T07:00:46+02:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 4,
       "title": "La previsió de dimecres: tranquil amb alguns matisos",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-22-doctubre-tranquil-amb-alguns-matisos/noticia/3435174/",
@@ -15,7 +36,111 @@
       }
     },
     {
-      "page": 3,
+      "page": 5,
+      "title": "Un accident i les obres nocturnes a la ronda del Litoral provoquen cues quilomètriques",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/mobilitat/accident-obres-ronda-litoral-cues-quilometriques-besos/",
+      "published": "2026-10-21T07:33:44+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 6,
+      "title": "Una Alhambra i una llagosta, dues rèpliques amb història del barri de Galvany",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/cultura/alhambra-llagosta-repliques-historia-barri-galvany/",
+      "published": "2026-10-21T07:26:21+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 7,
+      "title": "Abascal tria guru econòmic per arribar a la gran empresa catalana",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/abascal-tria-guru-economic-arribar-gran-empresa-catalana_1_5884803.html",
+      "published": "2026-10-21T07:00:47+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 8,
+      "title": "Milei desembarca a Espanya en plena precampanya del 29-N",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/milei-desembarca-espanya-plena-precampanya-29-n_1_5885157.html",
+      "published": "2026-10-21T07:00:47+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 9,
+      "title": "El gegant químic que s'amaga en milers de productes",
+      "source": "ARA",
+      "articleUrl": "https://empreses.ara.cat/empreses/gegant-quimic-s-amaga-milers-productes_1_5885029.html",
+      "published": "2026-10-21T07:00:46+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 10,
+      "title": "Txispa, la guspira que s’ha guanyat el seu lloc al costat de l’asador més famós del món",
+      "source": "ARA",
+      "articleUrl": "https://mengem.ara.cat/restaurants/txispa-guspira-s-guanyat-lloc-costat-l-asador-mes-famos-mon_1_5885040.html",
+      "published": "2026-10-21T07:00:46+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 11,
+      "title": "Tindrà Rufián gent de la seva confiança a Madrid?",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/tindra-rufian-gent-seva-confianca-madrid_1_5884509.html",
+      "published": "2026-10-21T07:00:46+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 12,
+      "title": "KPMG Austràlia, acorralada pel joc brut dels seus socis",
+      "source": "ARA",
+      "articleUrl": "https://empreses.ara.cat/empreses/kpmg-australia-acorralada-pel-joc-brut-dels-socis_1_5884543.html",
+      "published": "2026-10-21T07:00:45+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 13,
+      "title": "Catalunya té un repte per als pròxims 25 anys: fer del coneixement un projecte de país",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/ciencia-medi-ambient/catalunya-repte-als-proxims-25-anys-coneixement-projecte-pais_129_5839079.html",
+      "published": "2026-10-21T07:00:45+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 14,
+      "title": "Una absoluta falta de respecte",
+      "source": "ARA",
+      "articleUrl": "https://llegim.ara.cat/opinio/absoluta-falta-respecte_129_5883391.html",
+      "published": "2026-10-21T07:00:44+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 15,
+      "title": "Els taxis sense conductor de Waymo desembarcaran a Madrid després de l'experiència als EUA",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/els-taxis-sense-conductor-de-waymo-desembarcaran-a-madrid-despres-de-lexperiencia-als-eua/noticia/3435226/",
+      "published": "2026-10-21T06:46:07+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 16,
+      "title": "Medinyà podria ser independent gràcies a la llei de memòria democràtica",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/medinya-podria-ser-independent-gracies-a-la-llei-de-memoria-democratica/noticia/3434824/",
+      "published": "2026-10-21T06:44:45+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 17,
+      "title": "L'ONU alerta que el planeta s'encamina cap a un escalfament de 2,8 graus a finals de segle",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/lonu-alerta-que-el-planeta-sencamina-cap-a-un-escalfament-de-2-8-graus-a-finals-de-segle/noticia/3435013/",
+      "published": "2026-10-21T06:42:12+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 18,
       "title": "Els Cants de Llibertat, la cita tossuda de cada vespre que avui espera Lluís Puig a Terrassa",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/els-cants-de-llibertat-la-cita-tossuda-de-cada-vespre-que-avui-espera-lluis-puig-a-terrassa/",
@@ -23,7 +148,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 4,
+      "page": 19,
       "title": "Com puja tot… menys els sous!",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/campdetarragona/puja-menys-sous_129_5884011.html",
