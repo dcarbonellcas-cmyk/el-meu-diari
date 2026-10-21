@@ -2,6 +2,36 @@
   "date": "2026-10-21",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "El Front Ampli matisa que no negocia amb el PSOE les llistes al congrés espanyol",
+      "excerpt": "La coalició aclareix que l’acord amb els socialistes es limita al senat i manté la intenció de presentar llistes a tot l’estat espanyol el 29-N",
+      "url": "https://www.vilaweb.cat/noticies/el-front-ampli-matisa-que-no-negocia-amb-el-psoe-les-llistes-al-congres-espanyol/",
+      "published": "2026-10-21T11:30:00+02:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El govern de Trump nega l'entrada de Colau a Puerto Rico després de demanar-li per la flotilla",
+      "excerpt": "El document oficial dels EUA diu que no pot entrar al país perquè sospiten que vol \"migrar il·legalment al país\", però des del partit denuncien que és per motius polítics",
+      "url": "https://www.3cat.cat/3catinfo/el-govern-de-trump-nega-lentrada-de-colau-a-puerto-rico-despres-de-demanar-li-per-la-flotilla/noticia/3435267/",
+      "published": "2026-10-21T11:18:13+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/9/1792411300192.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona acorda que no hi haurà desnonaments en aplicació del decret anticrisi del Govern espanyol",
+      "excerpt": "(ACN) La Comissió d’Ecologia, Urbanisme i Habitatge de l’Ajuntament de Barcelona ha aprovat aquest dimarts a la tarda una proposta presentada per ERC que insta el govern municipal a garantir la moratòria de desnonaments, arran del decret amb mesures per pal·liar la crisi aprovat recentment per l’executiu estatal i ratificat per la Diputació Permanent del […]",
+      "url": "https://beteve.cat/politica/barcelona-acorda-garantir-moratoria-desnonaments-decret/",
+      "published": "2026-10-21T11:11:24+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/desnonament-burgos-sants-1.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La pluja d'estels Oriònids arriba al màxim: les millors hores per observar-la",
       "excerpt": "Al punt àlgid dels meteors del cometa Halley, es podran observar entre 15 i 70 estels fugaços per hora",
@@ -121,6 +151,96 @@
     },
     {
       "source": "betevé",
+      "title": "Bon dia Barcelona",
+      "excerpt": "Comença el dia amb una entrevista dactualitat i una tertúlia 100% barcelonina. El dia a dia de la ciutat analitzat per un ampli espectre de tertulians periodistes, historiadors i experts en diferents àmbits. Presentat per Dani Clavera.",
+      "url": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-159/",
+      "published": "2026-10-21T11:41:35+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'estatunidenca Hologic compra la 'biotech' catalana Reveal Genomics",
+      "excerpt": "La multinacional estatunidenca Hologic, especialitzada en salut de la dona, ha arribat a un acord per adquirir la biotech catalana Reveal Genomics, una empresa fundada a Barcelona l'any 2020 i centrada en el desenvolupament de tests genòmics per al tractament personalitzat del càncer de mama.",
+      "url": "https://www.ara.cat/economia/tecnologia/l-estatunidenca-hologic-compra-biotech-catalana-reveal-genomics_1_5885608.html",
+      "published": "2026-10-21T11:29:23+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/09f231eb-1ae3-4d4f-8ffa-5f2cd7d4bf03_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Normalització? La del Canadà i Alberta",
+      "excerpt": "Els que van ser presos polítics ja estan amnistiats. Aquest matí, el conseller Lluís Puig ha piulat :",
+      "url": "https://www.ara.cat/analisi/normalitzacio-canada-alberta_1_5885669.html",
+      "published": "2026-10-21T11:25:30+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/51fa5384-a77b-4bab-a006-b3150f126875_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Elon Musk planteja la fusió més gran de la història amb la unió de Tesla i Space X",
+      "excerpt": "El multimilionari Elon Musk planteja unir els negocis de Tesla i Space X —les dues companyies de les quals és fundador i conseller delegat— en una operació que es convertiria en la fusió empresarial més gran de la història. En cas que s'acabés consolidant, el grup resultant esdevindria el cinquè amb més valor borsari a escala global, amb una capitalització de gairebé 3,5 bilions de dòlars, superant gegants com Amazon i situant-se prop de Microsoft. Per davant només tindria Nvidia, Apple, Alphabet —la matriu de…",
+      "url": "https://www.ara.cat/economia/tecnologia/elon-musk-planteja-fusio-mes-gran-historia-unio-tesla-space-x_1_5885542.html",
+      "published": "2026-10-21T11:25:29+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/86bd9129-c484-4bff-87d7-504c342fe9b8_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Exposicions a Barcelona: la teva agenda de museus",
+      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
+      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
+      "published": "2026-10-21T11:19:04+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Operació Vivaldi: la contraofensiva ucraïnesa secreta que ha frustrat els desitjos de Putin al Donbàs",
+      "excerpt": "Els comandaments russos fa mesos que prometen a Vladímir Putin la conquesta imminent del Donbàs. El triomfalisme del president rus el va portar a proclamar, a principis d’octubre, que aquest territori cauria molt abans del que pronosticaven Volodímir Zelenski i els aliats europeus. Ara bé, durant els últims mesos, una contraofensiva de l’exèrcit ucraïnès, que no ha tingut gens de publicitat i de la qual només recentment se n’han començat a conèixer detalls, ha agafat per sorpresa les tropes russes i els mateixos observadors militars.…",
+      "url": "https://www.ara.cat/internacional/europa/operacio-vivaldi-contraofensiva-ucrainesa-secreta-frustrat-desitjos-putin-donbas_1_5885583.html",
+      "published": "2026-10-21T11:18:17+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c230a162-1df1-4257-8657-03246c6826ee_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Argüeso assenyala per primera vegada l’ex-consellera Pradas en la causa de la gota freda",
+      "excerpt": "L’ex-secretari d’Emergències assegura que no tenia competències sobre el CECOPI i l'Es-Alert i assenyala que l'ex-consellera era la responsable",
+      "url": "https://www.vilaweb.cat/noticies/argueso-assenyala-per-primera-vegada-lex-consellera-pradas-en-la-causa-de-la-gota-freda/",
+      "published": "2026-10-21T11:13:44+02:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Illa diu que l’amnistia tanca una etapa i Junts i ERC li recorden que s’hi va oposar",
+      "excerpt": "Els Comuns avisen el govern que presentaran la llei per a prohibir la compra especulativa d’habitatge",
+      "url": "https://www.vilaweb.cat/noticies/illa-diu-que-lamnistia-tanca-una-etapa-i-junts-i-erc-li-recorden-que-shi-va-oposar/",
+      "published": "2026-10-21T10:59:41+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Xavier Albertí: \"Conèixer o no conèixer la teva família biològica no pot ser mai un trauma\"",
+      "excerpt": "El director d'escena Xavier Albertí (Lloret de Mar, 1962) ha trepitjat desenes d'escenaris al llarg de la seva carrera, però fins ara encara no havia treballat mai a la Sala Flyhard. L'espai del barri de la Bordeta és un dels més petits de Barcelona, un dels pols de l'escena independent de la ciutat i una oportunitat per veure de ben a prop la feina interpretativa dels actors. \"Tenia unes ganes boges de fer-hi alguna cosa\", subratlla Albertí. El projecte que l'ha portat fins allà es…",
+      "url": "https://www.ara.cat/cultura/teatre/xavier-alberti-coneixer-no-coneixer-teva-familia-biologica-no-pot-mai-trauma_1_5885524.html",
+      "published": "2026-10-21T10:58:45+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9ea72e29-9e24-4309-9880-fefc50070783_16-9-aspect-ratio_default_0_x1183y1362.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
       "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
       "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
@@ -132,7 +252,7 @@
     {
       "source": "VilaWeb",
       "title": "Junqueras confirma dos actes a Catalunya de Rufián i Montero “sense sigles”",
-      "excerpt": "El dirigent d'ERC assegura que les relacions amb el cap de llista estan \"molt bé\" i que no va creure que plegués",
+      "excerpt": "El dirigent d'ERC assegura que les relacions amb el cap de llista van \"molt bé\" i que no va creure que plegués",
       "url": "https://www.vilaweb.cat/noticies/junqueras-confirma-dos-actes-a-catalunya-de-rufian-i-montero-sense-sigles/",
       "published": "2026-10-21T10:41:02+02:00",
       "category": "Espanya",
@@ -147,12 +267,12 @@
       "published": "2026-10-21T10:38:28+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/4/4/1792570388644.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431707/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/junqueras-celebra-que-amb-lamnistia-es-torna-al-terreny-de-la-politica-jugarem-en-condicions-digualtat/noticia/3435259/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -291,7 +411,7 @@
       "url": "https://beteve.cat/economia/obren-salo-comerc-salo-ocupacio-recinte-ferial-montjuic/",
       "published": "2026-10-21T09:01:59+02:00",
       "category": "economia",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/salo-ocupacio-2025-2026-10-20.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Salo-comerc-2026-2026-10-21.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -306,7 +426,7 @@
     },
     {
       "source": "ARA",
-      "title": "Fotos, futbol i un torneig revolucionari: un dia amb la gran estrella dels escacs mundial",
+      "title": "Magnus Carlsen arriba a Barcelona el 2027 per revolucionar els escacs",
       "excerpt": "El 30 de març del 1989 centenars d’aficionats dels escacs catalans van acostar-se al Saló del Tinell per veure en acció el soviètic Garri Kaspàrov, el millor jugador del moment. Kaspàrov, que llavors tenia 26 anys, va derrotar el seu compatriota Valery Sàlov en el marc de la quarta prova de la Copa del Món del moment. Va ser el darrer cop que el millor jugador mundial va jugar a Barcelona. Fins ara. El 2027 el noruec Magnus Carlsen serà la gran atracció d'un nou…",
       "url": "https://www.ara.cat/esports/jocs-olimpics/futbol-torneig-revolucionari-gran-estrella-dels-escacs-magnus-carlsen_1_5885039.html",
       "published": "2026-10-21T09:00:33+02:00",
@@ -342,16 +462,6 @@
       "published": "2026-10-21T07:53:14+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/4fe0079c-f846-4839-af50-c56d497035cd_source-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Exposicions a Barcelona: la teva agenda de museus",
-      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
-      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
-      "published": "2026-10-21T07:53:10+02:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
       "priority": "3 · Altres notícies"
     },
     {
