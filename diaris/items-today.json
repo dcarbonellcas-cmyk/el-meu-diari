@@ -49,12 +49,22 @@
       "published": "2026-10-21T20:43:07+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/8/1792607798383.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431725/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/qui-vigila-les-obres-publiques-sindicats-de-seguretat-privada-denuncien-intrusisme-de-clans/noticia/3434178/"
-      }
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "El síndic planteja la compra del Bloc Papallona per part d’entitats del sector de l’habitatge",
+      "excerpt": "L’habitatge ha tornat a centrar bona part del discurs del síndic de greuges de Barcelona, David Bondia, que ha advertit a l’Infobarris que ha proposat una compra col·laborativa del Bloc Papallona, a la Nova Esquerra de l’Eixample. El síndic que ha mediat entre el veïnat, les entitats socials, la propietat i l’Ajuntament ha assegurat que […]",
+      "url": "https://beteve.cat/economia/sindic-planteja-compra-bloc-papallona-entitats-sector-habitatge/",
+      "published": "2026-10-21T20:36:14+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/02/bloc-papallona-030226.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo",
@@ -362,9 +372,69 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "¿El tiquet d'una pizza garanteix que els ocupes evitin el desallotjament com diu Feijóo?",
+      "excerpt": "“Hi ha propietaris que tenen por perquè, si un ocupa entra a casa seva, amb un paper que acrediti que ha demanat una pizza ningú el pot fer fora fins al cap d'uns quants anys”. El candidat del PP a les eleccions generals, Alberto Núñez Feijóo, ho ha dit aquest dimecres en un acte a Sevilla, en el qual ha desgranat les propostes del seu partit en matèria d'habitatge. Segons el líder conservador, una persona podria acreditar la seva residència en un habitatge amb el…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/tiquet-d-pizza-garanteix-ocupes-evitin-desallotjament-diu-feijoo_1_5886332.html",
+      "published": "2026-10-21T21:37:52+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d3a48a6a-6c91-450a-9cea-a565c7609bc8_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "En defensa de Sitges",
+      "excerpt": "Després de les dures crítiques que ha rebut l'última edició del Festival de Cinema Fantàstic, també hi ha qui el defensa",
+      "url": "https://www.3cat.cat/3catinfo/en-defensa-de-sitges/noticia/3435444/",
+      "published": "2026-10-21T21:34:53+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/6/1791993645967.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "En risc milions de webs del món per dues vulnerabilitats a PHP, un dels llenguatges més utilitzats",
+      "excerpt": "El 70,5% de tots els llocs web de què es té informació utilitza el llenguatge de programació PHP",
+      "url": "https://www.3cat.cat/3catinfo/en-risc-milions-de-webs-del-mon-per-dues-vulnerabilitats-a-php-un-dels-llenguatges-mes-utilitzats/noticia/3435453/",
+      "published": "2026-10-21T21:19:29+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/6/1768984241468.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
-      "title": "Sant Vicenç dels Horts celebra l’amnistia de Junqueras i Romeva: “Som aquí per continuar”",
-      "excerpt": "Romeva reivindica que l’amnistia no tanca res i que permet de recuperar els drets polítics perduts arran de la repressió del Primer d’Octubre",
+      "title": "Multa històrica de 25.000 milions de dòlars contra Meta per haver enganyat els usuaris sobre la privadesa de les dades",
+      "excerpt": "Un jutge dels Estats Units considera que la matriu de Facebook i Instagram ha vulnerat més de quaranta-tres milions de vegades la legislació de protecció dels consumidors de Nou Mèxic",
+      "url": "https://www.vilaweb.cat/noticies/multa-historica-meta-privadesa-dades/",
+      "published": "2026-10-21T21:03:36+02:00",
+      "category": "Economia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Primera infància, tardor i panellets: què es pot fer amb nens aquesta setmana",
+      "excerpt": "Tenim a prop un nou cap de setmana ple d'activitats i totes ja comencen a tenyir-se de tardor. Com sempre, us hem preparat una selecció de plans per fer amb els vostres fills els dies 23, 24 i 25 d'octubre, com ara gaudir amb Canalla!, el nou festival del llibre infantil i juvenil de Vic; participar en les Jornades de la Petita Infància de Cambrils, o fer una excursió al Montseny per visitar la Fira de la Tardor i la Festa del Flabiol d'Arbúcies.",
+      "url": "https://criatures.ara.cat/criatures/primera-infancia-tardor-panellets-pot-nens-aquesta-setmana_1_5884657.html",
+      "published": "2026-10-21T21:00:59+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7a5a6923-989c-4e10-9cff-eb7429e39db4_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Quin dia és el canvi d’hora? Dormirem un hora més? Aquest cap de setmana arriba l’horari d’hivern",
+      "excerpt": "Expliquem tots els dubtes relacionats amb el canvi d'hora: haurem d'avançar el rellotge una hora o bé endarrerir-lo?",
+      "url": "https://www.vilaweb.cat/noticies/acosta-canvi-hora-octubre-2026-quin-dia-sera/",
+      "published": "2026-10-21T21:00:48+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Sant Vicenç dels Horts celebra l’amnistia de Junqueras i Romeva: “Som aquí per a continuar”",
+      "excerpt": "Junqueras denuncia el tracte rebut durant el procés judicial i Romeva assegura que són “més a prop que mai” d’aconseguir la independència",
       "url": "https://www.vilaweb.cat/noticies/sant-vicenc-horts-amnistia-junqueras-romeva/",
       "published": "2026-10-21T20:48:45+02:00",
       "category": "Principat",
@@ -383,13 +453,18 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Oriol Junqueras, homenatjat a Sant Vicenç dels Horts l'endemà de rebre l'amnistia",
-      "excerpt": "A l'acte també hi ha estat present Raül Romeva, igualment amnistiat",
+      "title": "Junqueras, homenatjat a Sant Vicenç dels Horts: \"El rival pot fer servir tota mena d'eines antidemocràtiques\"",
+      "excerpt": "A l'acte per celebrar l'amnistia al president d'ERC també hi ha estat present Raül Romeva, igualment amnistiat aquest dimarts",
       "url": "https://www.3cat.cat/3catinfo/junqueras-homenatjat-a-sant-vicenc-dels-horts-lendema-de-rebre-lamnistia/noticia/3435450/",
       "published": "2026-10-21T20:31:47+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/2/5/1792607641752.jpeg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431830/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/junqueras-homenatjat-a-sant-vicenc-dels-horts-lendema-de-rebre-lamnistia/noticia/3435450/"
+      }
     },
     {
       "source": "ARA",
@@ -483,8 +558,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Lluís Puig, emocionat en el seu primer acte de retorn de l’exili: “Seguim ferms, seguim resilients”",
-      "excerpt": "Centenars de persones l'han rebut davant de la casa de la vila de Terrassa · El conseller de Cultura del Primer d'Octubre assistirà demà al ple del parlament",
+      "title": "Lluís Puig, emocionat en el seu primer acte de retorn de l’exili: “Continuem ferms, continuem resilients”",
+      "excerpt": "Centenars de persones l'han rebut davant la casa de la vila de Terrassa · El conseller de Cultura del Primer d'Octubre assistirà demà al ple del parlament",
       "url": "https://www.vilaweb.cat/noticies/primeres-imatges-lluis-puig-terrassa-nou-anys-exili/",
       "published": "2026-10-21T19:27:26+02:00",
       "category": "Principat",
@@ -628,7 +703,7 @@
       "url": "https://www.ara.cat/media/medicades-no-atrevim-projectar-res-millor_128_5885610.html",
       "published": "2026-10-21T18:00:31+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/b394709b-d5ee-44cb-9f4f-6c96bcd3b4d4_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/b394709b-d5ee-44cb-9f4f-6c96bcd3b4d4_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
