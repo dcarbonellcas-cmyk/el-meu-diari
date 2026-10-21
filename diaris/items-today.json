@@ -39,7 +39,12 @@
       "published": "2026-10-21T10:35:19+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/0/1792579109602.jpg",
-      "priority": "1 · Urgent"
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431843/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/lenviat-de-trump-arriba-a-russia-per-negociar-i-putin-diu-que-no-fara-concessions-politiques/noticia/3435257/"
+      }
     },
     {
       "source": "3CatInfo · El temps",
@@ -84,18 +89,18 @@
     },
     {
       "source": "3CatInfo",
-      "title": "França es prepara per a una nova mobilització i els sindicats fa una crida a la vaga general",
+      "title": "França es prepara per a una nova mobilització i els sindicats fan una crida a la vaga general",
       "excerpt": "El president Macron avisa que \"cap violència és legítima\", i els estudiants i els Armilles Grogues anuncien una nova jornada de manifestacions",
       "url": "https://www.3cat.cat/3catinfo/franca-es-prepara-per-a-una-nova-mobilitzacio-mentre-els-sindicats-criden-a-la-vaga-general/noticia/3435430/",
       "published": "2026-10-21T20:22:54+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/3/1792245988637.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6431822/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/franca-es-prepara-per-a-una-nova-mobilitzacio-mentre-els-sindicats-criden-a-la-vaga-general/noticia/3435430/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -382,6 +387,36 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "Multa a Meta de 25.000 milions de dòlars per enganyar usuaris de Facebook i cedir dades a una consultora",
+      "excerpt": "La multa deriva de l'escàndol del cas de Cambridge Analytica fa gairebé una dècada, en què la consultora política va tenir accés a dades personals sense consentiment dels afectats",
+      "url": "https://www.3cat.cat/3catinfo/multa-a-meta-de-25000-milions-de-dolars-per-enganyar-usuaris-de-facebook-i-cedir-dades-a-una-consultora/noticia/3435471/",
+      "published": "2026-10-21T23:16:35+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/7/1783776140071.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Joan Lluís Bozzo impulsa \"Les veles s'inflaran\", una antologia dels musicals de Dagoll Dagom",
+      "excerpt": "Enraona Teatre, un projecte de teatre social, estrenarà el 15 de novembre a Martorell el muntatge, que fa reviure l'univers i els personatges de títols com \"Flor de nit\", \"Mar i Cel\", \"Glups!\", o \"El Mikado\"",
+      "url": "https://www.3cat.cat/3catinfo/joan-lluis-bozzo-impulsa-les-veles-sinflaran-una-antologia-dels-musicals-de-dagoll-dagom/noticia/3435409/",
+      "published": "2026-10-21T23:16:28+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/1/1792593018617.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Localitzen 55 quilos de coure sostret de la xarxa ferroviària en un gestor de residus de Barcelona",
+      "excerpt": "Durant aquest any, els Mossos han fet vint d'inspeccions a gestors de la capital catalana i hi ha 38 detinguts des del juliol, quan es va posar en marxa el Pla Via per combatre aquests robatoris",
+      "url": "https://www.3cat.cat/3catinfo/localitzen-55-quilos-de-coure-sostret-de-la-xarxa-ferroviaria-en-un-gestor-de-residus-de-barcelona/noticia/3435451/",
+      "published": "2026-10-21T23:14:49+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/0/1792603314900.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Multa de 25.000 milions de dòlars a Meta per enganyar usuaris",
       "excerpt": "Un tribunal nord-americà ha condemnat aquest dimecres Meta, propietària de Facebook, Instagram i WhatsApp, a pagar 25.000 milions de dòlars per enganyar el públic sobre la protecció de les seves dades personals.",
@@ -464,7 +499,7 @@
     {
       "source": "3CatInfo",
       "title": "En risc milions de webs del món per dues vulnerabilitats a PHP, un dels llenguatges més utilitzats",
-      "excerpt": "El 70,5% de tots els llocs web de què es té informació utilitza el llenguatge de programació PHP",
+      "excerpt": "El 70,5% de tots els llocs web de què es té informació utilitzen el llenguatge de programació PHP",
       "url": "https://www.3cat.cat/3catinfo/en-risc-milions-de-webs-del-mon-per-dues-vulnerabilitats-a-php-un-dels-llenguatges-mes-utilitzats/noticia/3435453/",
       "published": "2026-10-21T21:19:29+02:00",
       "category": "Actualitat",
@@ -559,7 +594,7 @@
     {
       "source": "ARA",
       "title": "Lluís Puig torna a Terrassa després de l'exili i entre llàgrimes: \"Volem la llibertat del poble català\"",
-      "excerpt": "Feia 3.272 dies que els cantaires de Terrassa projectaven la seva veu per la llibertat dels presos polítics i exiliats davant de l'Ajuntament. Concretament, des del 14 de novembre del 2017, quan van començar, i ja han passat nou anys d'exili dolorós. \"Plogui, nevi o faci calor\", la cita diària era ineludible entre els cantaires que hi anaven amb regularitats dispars. Alguns, amb cançoners per finançar la solidaritat antirepressiva. Aquest dimecres, però, i malgrat cantar les mateixes cançons de sempre —com Vull ser lliure ,…",
+      "excerpt": "Feia 3.272 dies que els cantaires de Terrassa projectaven la veu per la llibertat dels presos polítics i exiliats davant de l'Ajuntament. Concretament, des del 14 de novembre del 2017, quan van començar, i ja han passat nou anys d'exili dolorós. \"Plogui, nevi o faci calor\": la cita diària era ineludible entre els cantaires que hi anaven amb regularitats dispars. Alguns, amb cançoners per finançar la solidaritat antirepressiva. Aquest dimecres, però, i malgrat cantar les mateixes cançons de sempre –com Vull ser lliure , a…",
       "url": "https://www.ara.cat/politica/lluis-puig-torna-catalunya-despres-l-exili-seguim-ferms-volent-llibertat-poble-catala_1_5886483.html",
       "published": "2026-10-21T20:12:31+02:00",
       "category": "Actualitat",
@@ -974,7 +1009,12 @@
       "published": "2026-10-21T16:09:22+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/0/1792590135107.jpeg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431852/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/una-exposicio-vol-desmuntar-mites-sobre-el-tauro-un-animal-temut-pero-vital-per-als-oceans/noticia/3435408/"
+      }
     },
     {
       "source": "betevé",
@@ -1259,7 +1299,12 @@
       "published": "2026-10-21T13:29:26+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/7/1792578488671.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431847/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-esquerrans-et-donen-la-benvinguda-la-rebuda-del-psoe-a-milei-que-titlla-sanchez-de-dictador/noticia/3435296/"
+      }
     },
     {
       "source": "3CatInfo",
