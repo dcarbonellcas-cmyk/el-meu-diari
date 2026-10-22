@@ -247,9 +247,9 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/1/1792677473818.jpg",
       "video": {
-        "url": "https://www.youtube-nocookie.com/embed/MoYZuGQv9g4",
-        "source": "VilaWeb",
-        "articleUrl": "https://www.vilaweb.cat/noticies/video-lluis-puig-retira-finalment-llac-groc-parlament-ocupa-esco-ovacionat/"
+        "url": "https://www.3cat.cat/3cat/video/6432098/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/lluis-puig-ocupa-el-seu-esco-al-parlament-i-retira-el-llac-groc-en-el-seu-retorn-de-lexili/noticia/3435569/"
       },
       "priority": "2 · Important"
     },
@@ -374,9 +374,49 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "Denuncien maltractaments i penes abusives contra joves i menors detinguts pels aldarulls a França",
+      "excerpt": "Els advocats que els defensen en els judicis exprés denuncien la repressió autoritzada pel govern en detencions arbitràries, maltractaments a comissaria i vulneracions dels drets dels detinguts",
+      "url": "https://www.3cat.cat/3catinfo/denuncien-maltractaments-i-penes-abusives-contra-joves-i-menors-detinguts-pels-aldarulls-a-franca/noticia/3435687/",
+      "published": "2026-10-22T23:18:21+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/3/1792677798834.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432030/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/denuncien-maltractaments-i-penes-abusives-contra-joves-i-menors-detinguts-pels-aldarulls-a-franca/noticia/3435687/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Mor Tom Skerritt, actor d'\"Alien\"', \"Top Gun\" i \"MASH\", als 93 anys",
+      "excerpt": "L'intèrpret va començar la seva carrera als anys seixanta i va treballar fins a l'any 2020",
+      "url": "https://www.3cat.cat/3catinfo/mor-tom-skerritt-actor-dalien-top-gun-i-mash-als-93-anys/noticia/3435701/",
+      "published": "2026-10-22T22:52:35+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/9/1792701408499.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "160 obres del modernisme català s'apleguen a Múnic en una ambiciosa exposició",
+      "excerpt": "\"Barcelona moderna. De Gaudí a Picasso\" és la primera mostra a Alemanya dedicada al moviment a Catalunya i permetrà donar a conèixer artistes catalans en el mercat internacional",
+      "url": "https://www.3cat.cat/3catinfo/160-obres-del-modernisme-catala-sapleguen-a-munic-en-una-ambiciosa-exposicio/noticia/3435672/",
+      "published": "2026-10-22T22:52:01+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/4/1792686878647.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432112/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/160-obres-del-modernisme-catala-sapleguen-a-munic-en-una-ambiciosa-exposicio/noticia/3435672/"
+      }
+    },
+    {
       "source": "ARA",
       "title": "El Barça es treu l'espina més necessària",
-      "excerpt": "El Barça va sotmetre l'Armani Olímpia de Milà (81-89), un rival insípid que només ha guanyat un dels primers set partits de l'Eurolliga. Sense massa aficionats a les graderies i sense massa tensió competitiva, l'equip italià no va poder desactivar un conjunt blaugrana amb la necessitat d'esborrar el mal regust del partit de Badalona. Els culers van sumar del quart triomf en una nit en què els 17 rebots ofensius van ser clau.",
+      "excerpt": "El Barça va sotmetre l'Armani Olimpia de Milà (81-89), un rival insípid que només ha guanyat un dels primers set partits de l'Eurolliga. Sense massa aficionats a les graderies i sense massa tensió competitiva, l'equip italià no va poder desactivar un conjunt blaugrana amb la necessitat d'esborrar el mal regust del partit de Badalona. Els culers van sumar el quart triomf en una nit en què els 17 rebots ofensius van ser claus.",
       "url": "https://www.ara.cat/esports/basquet/eurolliga/cronica-armani-olimpia-mila-barca_1_5887660.html",
       "published": "2026-10-22T22:34:59+02:00",
       "category": "Actualitat",
@@ -411,6 +451,26 @@
       "published": "2026-10-22T21:58:31+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/48e0c431-4c9e-4fb6-a513-a2a2157922a8_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Itàlia i Espanya aixequen els controls fronterers a passatgers vigents per la crisi de Ceuta",
+      "excerpt": "Els dos països han acordat posar fi a la mesura iniciada pel govern de Giorgia Meloni fa quasi tres mesos arran de la crisi migratòria a Ceuta",
+      "url": "https://www.3cat.cat/3catinfo/italia-i-espanya-aixequen-els-controls-fronterers-a-passatgers-vigents-per-la-crisi-de-ceuta/noticia/3435646/",
+      "published": "2026-10-22T21:53:38+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/9/1792695726996.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Intervenen dues tones de menjar caducat, en mal estat o sense refrigeració en un comerç de Tortosa",
+      "excerpt": "Es venien i emmagatzemaven productes importats de fora de la Unió Europea, que no disposaven de la certificació sanitària requerida",
+      "url": "https://www.3cat.cat/3catinfo/intervenen-dues-tones-de-menjar-caducat-en-mal-estat-o-sense-refrigeracio-en-un-comerc-de-tortosa/noticia/3435670/",
+      "published": "2026-10-22T21:45:38+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/5/6/1792686608465.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -706,7 +766,12 @@
       "published": "2026-10-22T18:55:23+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/5/1783153245651.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432107/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-mossos-tenen-detectats-34-grups-juvenils-violents-amb-un-miler-de-persones-vinculades/noticia/3435665/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -961,7 +1026,12 @@
       "published": "2026-10-22T16:14:36+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/3/1792669114632.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432020/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/milei-exporta-a-espanya-el-model-dinsults-als-periodistes-que-ha-copiat-de-trump/noticia/3435550/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -1151,7 +1221,12 @@
       "published": "2026-10-22T14:13:16+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/2/1792663960425.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432099/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/comin-promet-la-constitucio-a-madrid-fent-referencia-a-l1-o-abans-de-tornar-de-lexili-diumenge/noticia/3435511/"
+      }
     },
     {
       "source": "ARA",
@@ -1240,7 +1315,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Alliberades prop de vuit-centes tortugues mediterrànies als Ports i a la Serra de Montsant",
+      "title": "Alliberades prop de vuit-centes tortugues mediterrànies als Ports i a la serra de Montsant",
       "excerpt": "El programa de reintroducció de la tortuga mediterrània suma més de 12.000 exemplars reintroduïts",
       "url": "https://www.vilaweb.cat/noticies/alliberades-prop-de-vuit-centes-tortugues-mediterranies-als-ports-i-a-la-serra-de-montsant/",
       "published": "2026-10-22T13:45:16+02:00",
@@ -1276,7 +1351,12 @@
       "published": "2026-10-22T13:33:09+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/3/1791381485137.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432103/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/preso-permanent-revisable-per-a-lhome-que-va-assassinar-i-agredir-sexualment-carla-fernandez/noticia/3435581/"
+      }
     },
     {
       "source": "ARA",
@@ -1347,6 +1427,21 @@
       "category": "Actualitat",
       "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Llum verda al nou barri del futur Hospital Ernest Lluch del Vallès, que suma anys de retard",
+      "excerpt": "El centre sanitari acumula dues dècades de retard i servirà per descongestionar el Parc Taulí de Sabadell",
+      "url": "https://www.3cat.cat/3catinfo/llum-verda-al-nou-barri-del-futur-hospital-ernest-lluch-del-valles-que-suma-anys-de-retard/noticia/3431599/",
+      "published": "2026-10-22T12:52:01+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1790846463626.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431938/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/llum-verda-al-nou-barri-del-futur-hospital-ernest-lluch-del-valles-que-suma-anys-de-retard/noticia/3431599/"
+      }
     },
     {
       "source": "VilaWeb",
