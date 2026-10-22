@@ -1,4 +1,25 @@
 {
   "date": "2026-10-23",
-  "items": []
+  "items": [
+    {
+      "source": "VilaWeb",
+      "title": "Javier Giralt reelegit president de l’Acadèmia Aragonesa de la Llengua fins al 2031",
+      "excerpt": "Maite Moret i Juan Pablo Martínez completen la nova Junta de Govern de l’AAL",
+      "url": "https://www.vilaweb.cat/noticies/javier-giralt-reelegit-president-de-lacademia-aragonesa-de-la-llengua-fins-al-2031/",
+      "published": "2026-10-23T00:55:49+02:00",
+      "category": "Franja de Ponent",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Albert Pintat rep la Creu dels Set Braços, la màxima distinció d’Andorra",
+      "excerpt": "El govern andorrà reconeix amb aquesta distinció la trajectòria de qui fou el cap de Govern entre el 2005 i el 2009",
+      "url": "https://www.vilaweb.cat/noticies/albert-pintat-rep-la-creu-dels-set-bracos-la-maxima-distincio-dandorra/",
+      "published": "2026-10-23T00:49:44+02:00",
+      "category": "Andorra",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    }
+  ]
 }
