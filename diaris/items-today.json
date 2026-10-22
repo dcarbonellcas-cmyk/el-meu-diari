@@ -22,6 +22,46 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "betevé",
+      "title": "Preu dels lloguers: Barcelona concentra 32 dels barris més cars d’Espanya",
+      "excerpt": "Barcelona concentra 32 dels 100 barris que més diners dediquen a pagar el lloguer de tot Espanya, segons les darreres dades de l’Institut Nacional d’Estadística (INE). La despesa mitjana destinada a pagar l’habitatge a la ciutat assoleix el seu màxim a Pedralbes, amb 2.002 € mensuals. És la segona zona més cara de tot l’Estat. […]",
+      "url": "https://beteve.cat/economia/preu-lloguer-barcelona-concentra-32-barris-mes-cars-espanya/",
+      "published": "2026-10-22T17:07:30+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/04/ajudes-lloguer.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Malestar de Junts per l’absència del president Illa durant el retorn de Lluís Puig al parlament",
+      "excerpt": "El govern explica que Illa i Puig han mantingut una trobada discreta abans del ple d'avui, sense cap escenificació institucional",
+      "url": "https://www.vilaweb.cat/noticies/salvador-illa-reuneix-discretament-lluis-puig/",
+      "published": "2026-10-22T17:06:50+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "La Plataforma per a l’Educació Mediàtica reclama una estratègia pública contra la desinformació",
+      "excerpt": "La 3a Jornada de la Plataforma per a l’Educació Mediàtica (PEM), celebrada avui dijous a la Biblioteca Sarrià – J. V. Foix de Barcelona, ha reunit experts, periodistes i representants d’entitats per reflexionar sobre l’impacte de la desinformació en la democràcia i els reptes que planteja la irrupció de la intel·ligència artificial. La sessió, emmarcada […]",
+      "url": "https://beteve.cat/cultura/plataforma-educacio-mediatica-reclama-estrategia-publica-contra-desinformacio/",
+      "published": "2026-10-22T17:06:49+02:00",
+      "category": "comunicació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/jornades-contra-desinformacio-2026-10-22.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "[VÍDEOS] Els moments més emotius de la tornada de Lluís Puig al parlament",
+      "excerpt": "El conseller de Cultura del Primer d’Octubre torna a la cambra nou anys després d’exili",
+      "url": "https://www.vilaweb.cat/noticies/videos-moments-mes-emotius-retorn-lluis-puig-parlament/",
+      "published": "2026-10-22T16:57:29+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dijous: cel mig ennuvolat i sensació de tardor",
       "excerpt": "Fresca i presència freqüent de núvols",
@@ -45,12 +85,12 @@
       "published": "2026-10-22T16:19:42+02:00",
       "category": "Principat",
       "image": null,
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.youtube-nocookie.com/embed/tRBH77BVoLc",
         "source": "VilaWeb",
         "articleUrl": "https://www.vilaweb.cat/noticies/discurs-integre-lluis-puig-parlament-em-declaro-convencudament-independentista/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -79,8 +119,8 @@
     },
     {
       "source": "ARA",
-      "title": "Lluís Puig torna al Parlament nou anys després",
-      "excerpt": "L'endemà del seu retorn de l'exili amb un emotiu acte a Terrassa, qui va ser conseller de Cultura durant l'1-O, Lluís Puig, ha tornat aquest dijous al Parlament. I per celebrar el seu retorn nou anys després, ha tingut una recepció d'honor amb el president de la cambra catalana, Josep Rull, la resta de la mesa i nombrosos diputats. El primer que ha fet abans d'entrar al Palau del Parlament ha estat abraçar precisament Rull, que va patir la repressió contra l'independentisme com a pres…",
+      "title": "Lluís Puig treu el penúltim llaç groc del Parlament",
+      "excerpt": "Del Parlament, \"el conseller de Cultura en va ser expulsat de forma il·legítima i amb el vistiplau d'alguns partits aquí presents\" pel simple fet de \"posar les urnes\". Així de clar s'ha expressat Lluís Puig , des del faristol de l'hemicicle, en el seu retorn a la seu de la sobirania del Principat després de nou anys d'exili, envoltat de la plana major de l'independentisme. Un gest com el de retirar el llaç groc del seu escó i alçar-lo en senyal de victòria ha estat…",
       "url": "https://www.ara.cat/politica/lluis-puig-torna-parlament-nou-anys-despres_1_5887101.html",
       "published": "2026-10-22T15:04:46+02:00",
       "category": "Actualitat",
@@ -125,12 +165,12 @@
       "published": "2026-10-22T13:20:17+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/6/1792665758366.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432021/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/illa-i-puente-diuen-que-el-contracte-de-rodalies-se-signara-dimarts-i-el-ministre-declara-irrevocable-la-cessio-de-lr1/noticia/3435568/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo",
@@ -269,6 +309,61 @@
     },
     {
       "source": "ARA",
+      "title": "Els brasilers que van sortir de la pobresa gràcies a Lula ara li donen l'esquena",
+      "excerpt": "Els sectors socials que van deixar enrere la pobresa gràcies a les polítiques inclusives de la primera etapa de Lula da Silva a la presidència (2003-2010), ara convertits en la nova classe mitjana brasilera, tenen la clau de la segona volta de les presidencials de diumenge. Aquest segment, que representa el 51% de l’electorat, dona majoritàriament suport al candidat de l’extrema dreta, el senador Flávio Bolsonaro, que ja es va imposar a la primera ronda amb el 47,03% dels suports, per davant del 45,16% de…",
+      "url": "https://www.ara.cat/internacional/america/brasilers-sortir-pobresa-gracies-lula-ara-li-donen-l-esquena_1_5886852.html",
+      "published": "2026-10-22T17:36:51+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/386cb4cd-d970-40e5-b1c7-d2c1e5039640_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Adeu a la veu fonda, rigorosa i emocionant de Jaume Pont",
+      "excerpt": "Quatre dels pilars de la poesia de Jaume Pont i Ibáñez (Lleida, 1947-2026) han estat l'amor, la follia, l'atzar i la mort. Mor aquest dijous als 79 anys, Pont, que era Llicenciat en Filosofia i lletres, es va donar a conèixer amb Límit(s) el 1976, publicat a l'emblemàtica Llibres del Mall , i no gaire després va fundar i dirigir la influent revista Quaderns de Ponent (1979-1983), que va ajudar a difondre i a valorar críticament l'obra de creadors de les terres de Lleida com…",
+      "url": "https://llegim.ara.cat/actualitat/adeu-veu-fonda-rigorosa-emocionant-jaume-pont_1_5887257.html",
+      "published": "2026-10-22T17:16:21+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2d7867bb-3c2e-40b8-9ae1-751911829269_4-3-aspect-ratio_default_1061193.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Centre Excursionista de Catalunya celebra 150 anys d’excursions i catalanisme",
+      "excerpt": "El parlament reconeix la trajectòria de l’entitat amb la Medalla d’Honor en la categoria d’or",
+      "url": "https://www.vilaweb.cat/noticies/centre-excursionista-de-catalunya-celebra-150-anys-excursions-catalanisme/",
+      "published": "2026-10-22T17:13:55+02:00",
+      "category": "Esports",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Un terç dels sol·licitants de la regularització ja treballa, però la majoria continua a l'espera de resolució",
+      "excerpt": "L'admissió a tràmit de la sol·licitud ja dona una autorització provisional de treball, però bona part dels sol·licitants descriuen que les empreses no s'atreveixen a contractar-los",
+      "url": "https://www.3cat.cat/3catinfo/un-terc-dels-sollicitants-de-la-regularitzacio-ja-treballa-pero-la-majoria-continua-a-lespera-de-resolucio/noticia/3434404/",
+      "published": "2026-10-22T17:11:54+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/6/1792154002169.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432029/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/un-terc-dels-sollicitants-de-la-regularitzacio-ja-treballa-pero-la-majoria-continua-a-lespera-de-resolucio/noticia/3434404/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "L'abraçada esperpèntica de Milei i la fúria",
+      "excerpt": "Els fotògrafs de premsa tenen el poder d’aturar el temps i congelar l’acció en la centèsima de segon més eloqüent. Una imatge de Javier Milei i Isabel Díaz Ayuso a punt de fusionar-se en una abraçada fa fortuna aquest dijous a les portades. És una estampa esperpèntica: la profusió de braços en direccions poc harmòniques i els troncs erràtics (ai, la presidenta madrilenya i la verticalitat) fa que semblin dos personatges de guinyol en una obra infantil histèrica: només falta que els putxinel·lis cridin “Si…",
+      "url": "https://www.ara.cat/media/l-abracada-esperpentica-milei-furia_129_5887236.html",
+      "published": "2026-10-22T16:52:42+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f0857f8a-ea1a-4f44-b36d-f169aaf0f40a_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
       "title": "Detinguts dos joves pels robatoris a adolescents que van posar en alerta la zona alta de Barcelona",
       "excerpt": "Els Mossos d'Esquadra han detingut dos nois de 19 i 20 anys com a presumptes autors dels robatoris a menors que els últims dies havien posat en alerta el districte de Sarrià-Sant Gervasi . Sobretot l'alarma es va produir després que la matinada del 10 d'octubre atraquessin i agredissin un grup d'adolescents a la cruïlla dels carrers de Bertrand i Serra i de Torras i Pujalt amb una pistola simulada. Segons fonts policials, els joves van explicar que els assaltants els van sostreure diversos objectes…",
       "url": "https://www.ara.cat/societat/successos/detinguts-joves-pels-robatoris-adolescents-posar-alerta-zona-alta-barcelona_1_5887077.html",
@@ -289,12 +384,32 @@
     },
     {
       "source": "betevé",
+      "title": "Inspecció de Treball insta Parcs i Jardins a corregir la falta de climatització a part dels vehicles",
+      "excerpt": "(ACN) Inspecció de Treball ha constatat que l’Institut Municipal de Parcs i Jardins de Barcelona no compleix els requisits mínims de seguretat laboral perquè una part dels vehicles que utilitza la plantilla no disposen de sistemes de climatització. Així ho recull un informe de l’organisme del 15 de setembre elaborat arran d’una denúncia de la […]",
+      "url": "https://beteve.cat/economia/inspeccio-treball-instar-parcs-jardins-falta-climatitzacio-part-vehicles/",
+      "published": "2026-10-22T16:27:08+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/treballadora-vehicle-parcs-jardins-2026-10-22.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "Tornen els noms d’àvia: quins són els noms de fa un segle que estan més de moda?",
       "excerpt": "Triar el nom d’un fill no sempre és fàcil. Cal trobar-ne un que convenci i, en cas que hi hagi dos progenitors, posar-se d’acord. Una tasca que es pot convertir en una missió impossible. A banda, com en tot, també hi ha modes. Júlia, Martina, Emma i Sofia van ser els noms femenins més posats […]",
       "url": "https://beteve.cat/societat/quins-noms-avia-tornen-estar-moda/",
       "published": "2026-10-22T16:19:52+02:00",
       "category": "societat",
       "image": "https://img.beteve.cat/wp-content/uploads/2022/06/nado-recent-nascut-140322-1536x864-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Milei exporta a Espanya el model d'insults als periodistes que ha copiat de Trump",
+      "excerpt": "És poc habitual a Espanya que un alt responsable polític tingui aquest comportament amb la premsa, però a Amèrica s'ha convertit en habitual, tot seguint l'exemple de Trump",
+      "url": "https://www.3cat.cat/3catinfo/milei-exporta-a-espanya-el-model-dinsults-als-periodistes-que-ha-copiat-de-trump/noticia/3435550/",
+      "published": "2026-10-22T16:14:36+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/3/1792669114632.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -335,12 +450,12 @@
       "published": "2026-10-22T15:45:27+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/0/1791982989304.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432026/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/el-broggi-referent-en-una-tecnica-per-tractar-les-metastasis-de-tumors-digestius-i-ginecologics/noticia/3434085/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -351,6 +466,21 @@
       "category": "societat",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/09/pluja-poblenou2-2026-09-16.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La pluja de l'octubre omple per primer cop els 15 dipòsits d'aigua de Barcelona: com funcionen",
+      "excerpt": "Aquestes infraestructures invisibles són clau per evitar que s'inundin els carrers i ara l'Ajuntament treballa per arribar a tenir-ne 29",
+      "url": "https://www.3cat.cat/3catinfo/la-pluja-de-loctubre-omple-per-primer-cop-els-15-diposits-daigua-de-barcelona-com-funcionen/noticia/3435503/",
+      "published": "2026-10-22T15:34:11+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/6/1792661241061.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431985/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-pluja-de-loctubre-omple-per-primer-cop-els-15-diposits-daigua-de-barcelona-com-funcionen/noticia/3435503/"
+      }
     },
     {
       "source": "betevé",
@@ -909,12 +1039,12 @@
     },
     {
       "source": "ARA",
-      "title": "El nucli dur de Feijóo per al 29-N: Cayetana Álvarez de Toledo serà la seva número dos",
+      "title": "La \"indisciplinada\" número 2 de Feijóo que aplicaria un 155 a l'escola catalana",
       "excerpt": "Alberto Núñez Feijóo redobla l'aposta per projectar una imatge d'un PP contundent contra Pedro Sánchez –en resposta també a l'auge de Vox– i ha optat per situar una de les veus més dures i incendiàries del partit en el número dos de la llista per Madrid. Cayetana Álvarez de Toledo (Madrid, 1974) ascendeix a aquesta posició de cara al 29-N, en unes eleccions que ella mateixa defineix com a \"existencials, històriques i decisives\" per al futur d'Espanya. El líder del PP ha confirmat aquest dijous…",
       "url": "https://www.ara.cat/politica/eleccions-generals/nucli-dur-feijoo-pel-29-n-cayetana-alvarez-toledo-sera-seva-numero_1_5886768.html",
       "published": "2026-10-22T10:28:40+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/bc298e09-3d6c-41d2-a71a-caa241c0ceaf_source-aspect-ratio_default_0_x2449y401.jpg",
+      "image": "https://static1.ara.cat/clip/9301c351-c83b-4848-90ef-62f8865e57a0_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1159,8 +1289,8 @@
     },
     {
       "source": "ARA",
-      "title": "La Bola, el col·leccionisme com a medicina de l’ànima",
-      "excerpt": "La cova d’Ali Baba està plena de tresors. La cova d’en Cabini també. Els tresors que t’exciten i et satisfan la memòria. Aquesta cova es diu La Bola i està al carrer de Supúlveda a tocar de la plaça Universitat. El Cabini és el Jordi Viñas, però tothom li diu així perquè era el nom de l’empresa de transports del seu pare i les lletres immenses del camió van quedar-se a la memòria de tots aquells que el veien entrar i sortir cada dia dels…",
+      "title": "La Bola, el col·leccionisme com a medicina per a l’ànima",
+      "excerpt": "La cova d’Alí Babà està plena de tresors. La cova del Cabini, també. Tresors que t’exciten i et satisfan la memòria. Aquesta cova es diu La Bola i està al carrer Sepúlveda de Barcelona, a tocar de la plaça Universitat. El Cabini és Jordi Viñas, però tothom li diu així perquè era el nom de l’empresa de transports del seu pare i les lletres immenses del camió han quedat a la memòria de tots els que el veien entrar i sortir cada dia dels Encants.…",
       "url": "https://empreses.ara.cat/empreses/bola-col-leccionisme-medicina-l-anima_1_5886170.html",
       "published": "2026-10-22T07:00:43+02:00",
       "category": "Actualitat",
@@ -1245,12 +1375,12 @@
       "published": "2026-10-22T06:51:56+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/5/1792579820058.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432028/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/encausats-per-aldarulls-durant-la-sentencia-del-proces-rebutgen-laplicacio-de-lamnistia/noticia/3435297/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
