@@ -32,6 +32,36 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "ARA",
+      "title": "Polèmica pels ingressos psiquiàtrics forçosos: Sanitat aclareix que se seguiran fent",
+      "excerpt": "A vegades, quan una persona amb un problema greu de salut mental té una crisi, els professionals que l'atenen l'hospitalitzen en contra de la seva voluntat per estabilitzar-la i evitar qualsevol dany tant per a ella com per als que estan al seu voltant. És el que es coneix com un ingrés involuntari o forçós. Aquest divendres, però, entra en vigor una nova llei que vol reforçar els drets d'aquests pacients i augmenta la seva protecció en diversos supòsits, com per exemple en aquest tipus…",
+      "url": "https://www.ara.cat/societat/salut/polemica-pels-ingressos-psiquiatrics-forcosos-sanitat-aclareix-seguiran-fent_1_5887022.html",
+      "published": "2026-10-22T20:20:40+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2beb7594-59e0-47b1-953c-7e26bde66ce0_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "El Vedruna Gràcia Bàsquet es manifesta per reclamar més espais d’entrenament",
+      "excerpt": "Unes 300 persones vinculades al Vedruna Gràcia Bàsquet s’han manifestat aquest dijous a la tarda per reclamar a l’Ajuntament de Barcelona que garanteixi els espais necessaris perquè el club pugui mantenir la seva activitat en condicions similars a les de la temporada passada. La protesta s’ha fet prop de l’Escola Vedruna, al carrer Gran de […]",
+      "url": "https://beteve.cat/societat/vedruna-gracia-basquet-manifesta-reclamar-mes-espais-entrenament/",
+      "published": "2026-10-22T19:59:57+02:00",
+      "category": "educació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/mani-vedruna-221016-2026-10-22.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Milions de ciberatacs pel forat de seguretat descobert per la IA",
+      "excerpt": "La \"columna vertebral de la web\" va trontollar ahir. La publicació de dues vulnerabilitats greus en PHP, el llenguatge de programació sobre el qual es fonamenten el 70% de les pàgines web d'internet, ha sacsejat governs, empreses i usuaris de tot el món. Després que administracions de múltiples països hagin decidit aturar el servei de moltes de les seves pàgines a l'espera de l'actualització que havia de resoldre els dos problemes, s'han multiplicat els intents d'explotar aquestes debilitats. Segons el conseller delegat de la firma…",
+      "url": "https://www.ara.cat/economia/tecnologia/milions-ciberatacs-pel-forat-seguretat-descobert-ia_1_5887081.html",
+      "published": "2026-10-22T19:49:21+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d6c3b4c8-1406-44cb-a219-89a3efb67955_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
       "title": "Pla de xoc dels Mossos contra les bandes juvenils: n’han detectat 34 amb un miler de membres",
       "excerpt": "(ACN/Redacció) Els Mossos d’Esquadra han començat a desplegar l’anomenat pla Proa, destinat a prevenir i erradicar les bandes juvenils. Per aconseguir-ho, els Mossos, amb una col·laboració estreta de la Guàrdia Urbana —en el cas de Barcelona—, reforçaran la presència policial amb més agents en aquells punts on tenen constància de la presència d’aquest tipus d’organitzacions. […]",
@@ -345,6 +375,121 @@
     },
     {
       "source": "betevé",
+      "title": "Altres esperes",
+      "excerpt": "Via 15 és una coproducció en què col·laboren 15 televisions locals de la regió metropolitana.",
+      "url": "https://beteve.cat/via-15/altres-esperes/",
+      "published": "2026-10-22T20:36:08+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Perejaume il·lustra amb un mar immens el cartell dels 150 anys del Centre Excursionista de Catalunya",
+      "excerpt": "L'artista ha respost a l'encàrrec de l'entitat amb una imatge que s'allunya de la representació més habitual de l'excursionisme i proposa una mirada més àmplia sobre la muntanya i el país",
+      "url": "https://www.3cat.cat/3catinfo/perejaume-illustra-amb-un-mar-immens-el-cartell-dels-150-anys-del-centre-excursionista-de-catalunya/noticia/3435653/",
+      "published": "2026-10-22T20:32:25+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/2/1/1792680158912.png",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432046/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/perejaume-illustra-amb-un-mar-immens-el-cartell-dels-150-anys-del-centre-excursionista-de-catalunya/noticia/3435653/"
+      }
+    },
+    {
+      "source": "betevé",
+      "title": "Infobarris",
+      "excerpt": "Torna Infobarris, el programa informatiu de betevé dedicat a explicar la realitat dels barris de Barcelona. Cada dia en directe, de 19 h a 19.40 h, la periodista Núria Llabina i un equip experimentat d’especialistes en el territori copsaran les històries i el batec als carrers de Barcelona.",
+      "url": "https://beteve.cat/infobarris/infobarris-191/",
+      "published": "2026-10-22T20:25:11+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Laura Galve: \"La família també pot ser un lloc hostil on es perpetuen violències i abusos\"",
+      "excerpt": "\"La primera novel·la de Laura Galve desplega amb intel·ligència i audàcia la història d'una noia que ens explica, en primera persona, un tros d'adolescència marcat per l'abandonament de la mare i la convivència amb un pare addicte a l'alcohol\". Amb aquestes paraules presenta Mariana Enriquez, presidenta del jurat del premi Diana Zaforteza , dotat amb 20.000 euros, l'obra guanyadora de la tercera edició del guardó, Dime, niña bonita , que Galaxia Gutenberg posarà en circulació el 4 de novembre. La seva autora, Laura Galve (Barcelona,…",
+      "url": "https://llegim.ara.cat/actualitat/familia-pot-ser-lloc-hostil-perpetuen-violencies-abusos-laura-galve-premi-diana-zaforteza_1_5887389.html",
+      "published": "2026-10-22T20:15:43+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/69a29873-8083-4515-8258-ed96f0fbaa38_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La ciberseguretat, assignatura pendent",
+      "excerpt": "Al Fòrum de Davos, la trobada de les elits econòmiques i polítiques mundials que se celebra cada gener a la ciutat suïssa, una de les principals preocupacions que hi ha damunt la taula és, des de fa temps, la ciberseguretat. Calen eines per combatre una de les grans amenaces per a les xarxes i els sistemes tecnològics. I els consellers delegats de les grans companyies en són conscients i hi inverteixen. Ho tenen més difícil les pimes, que tenen menys capacitats i recursos per fer…",
+      "url": "https://www.ara.cat/opinio/ciberseguretat-assignatura-pendent_129_5887347.html",
+      "published": "2026-10-22T20:13:48+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b9cbaf78-9968-4ee4-9b58-36e758b08916_16-9-aspect-ratio_default_0_x1839y544.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La televisió dels petits dictadors",
+      "excerpt": "L’acampada de la Puerta del Sol de Madrid s’ha convertit en un reducte molt pràctic per a les cadenes de televisió espanyoles on pescar testimonis amb qui enfrontar-se. Els acampats també han acceptat aquest joc adquirint minuts de glòria davant de les càmeres i exhibint-se com a contestataris de presentadors i tertulians amb ganes de brega. Als programes, el problema de l’habitatge els importa un rave, però són seqüències d’agressivitat dialèctica que es fan virals. L’espectacle decadent recorda els talk shows nord-americans dels vuitanta i…",
+      "url": "https://www.ara.cat/media/televisio-dels-petits-dictadors_129_5887497.html",
+      "published": "2026-10-22T20:01:35+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/795738ba-a385-442a-8b90-fdaf8574285a_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Macron prohibeix les manifestacions d'Armilles Grogues i estudiants i només autoritza els sindicats",
+      "excerpt": "A més s'hauran de canviar els recorreguts de les manifestacions de dissabte, lluny de les zones comercials, per evitar actes vandàlics i violència, que atribueix a grups d'ultraesquerra",
+      "url": "https://www.3cat.cat/3catinfo/macron-prohibeix-manifestar-se-els-armilles-grogues-dissabte-i-nomes-hi-autoritza-els-sindicats/noticia/3435654/",
+      "published": "2026-10-22T19:55:17+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/9/1792684261690.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Divendres de cel variable i alguns ruixats nocturns: amplitud tèrmica",
+      "excerpt": "La previsió del temps per a divendres, 23 d’octubre, ve marcada pels núvols prims, un matí fresc, un migdia suau i un augment dels xàfecs durant la nit i matinada de dissabte. A més, el vent de mestral es deixarà notar, a estones, amb moderada intensitat, que podria superar els 50 km/h. Previsió horària per […]",
+      "url": "https://beteve.cat/medi-ambient/divendres-23-octubre-estabilitat/",
+      "published": "2026-10-22T19:53:27+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/previsio-del-temps-2026-10-22.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "'La nit estelada' de Van Gogh no va ser fruit de la seva imaginació: la nit era apoteòsica",
+      "excerpt": "L'espectacular cel ple d'estrelles que retrata La nit estelada de Vincent van Gogh no va ser fruit d'una fantasia espontània, sinó resultat de l'observació d'una alineació celeste exacta. Segons un estudi publicat a la revista Scientific Reports , va tenir lloc minuts abans de l'alba del 22 de juliol del 1889 a Sant Romieg de Provença, a prop d'Avinyó. L'artista neerlandès va viure i treballar en aquest poble entre el maig del 1889 i el maig del 1890.",
+      "url": "https://www.ara.cat/cultura/art/nit-estelada-gogh-no-fruit-seva-imaginacio-nit-apoteosica_1_5887494.html",
+      "published": "2026-10-22T19:49:55+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a053b2f7-e411-4f25-8804-1ffd3d1a909d_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El CSE actua d’ofici, denuncia Javier Tebas al TAD i aquest es defensa atacant-lo",
+      "excerpt": "El Consell Superior d’Esports (CSE) ha decidit actuar d’ofici i ha elevat al Tribunal d’Administratiu de l’Esport (TAE), les declaracions de Javier Tebas, president de la Lliga de Futbol Professional, en què va comparar els mètodes de comunicació de la televisió del Reial Madrid amb els del règim nazi. El futur de Tebas depèn del […]",
+      "url": "https://beteve.cat/esports/csd-denuncia-javier-tebas-tad-declaracions-real-madrid-tv/",
+      "published": "2026-10-22T19:48:17+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/02/Javier-Tebas.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Txabi Franquesa",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/txabi-franquesa/",
+      "published": "2026-10-22T19:46:05+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "De Califòrnia i Hawaii fins a Barcelona: T’expliquem la curiosa història del naixement del triatló",
       "excerpt": "Avui el triatló és un esport consolidat arreu del món, amb diferents modalitats i distàncies. Però, com va sorgir la idea de combinar la natació, el ciclisme i la cursa a peu en una mateixa competició? Per trobar-ne l’origen, cal remuntar-se a la dècada dels 70. El triatló modern va néixer el 1974 a San […]",
       "url": "https://beteve.cat/esports/expliquem-curiosa-historia-naixement-triatlo/",
@@ -436,7 +581,7 @@
     {
       "source": "ARA",
       "title": "Freixenet dona la campanada: patrocinarà les campanades de Cap d'Any de TV3 després de la polèmica",
-      "excerpt": "Freixenet patrocinarà la retransmissió de les campanades de TV3 d’aquest any. Així ho ha confirmat el director de la televisió pública, Sigfrid Gras, que informa que la decisió està aprovada en un consell de direcció des de fa dies. Des que el 31 de desembre passat l’empresa catalana Estrella Damm en va ser el patrocinador, els elaboradors d’escumosos havien mostrat el seu malestar perquè un brindis tan especial es fes bevent cervesa i, a més, amb els presentadors, Miki Núñez i Laura Escanes, amorrats a…",
+      "excerpt": "Freixenet patrocinarà la retransmissió de les campanades de TV3 d’aquest any. Així ho ha pogut saber l'ARA de fons del sector vitivinícola i ho ha confirmat el director de la televisió pública, Sigfrid Gras, que ha explicat que la decisió està aprovada en un consell de direcció des de fa dies. Des que el 31 de desembre passat l’empresa catalana Estrella Damm en va ser la patrocinadora, els elaboradors d’escumosos havien mostrat el seu malestar perquè un brindis tan especial es fes amb cervesa i,…",
       "url": "https://mengem.ara.cat/vins-caves/freixenet-dona-campanada-patrocinara-campanades-cap-d-any-tv3-despres-polemica_1_5857656.html",
       "published": "2026-10-22T19:00:46+02:00",
       "category": "Actualitat",
@@ -476,7 +621,7 @@
     {
       "source": "ARA",
       "title": "Esquerrans i esquerranosos",
-      "excerpt": "A mi, quan en lloc de dir-me “una abraçada” m’envien per WhatsApp un bebè amb ulleres de sol circumspecte o un gatet que es beu un cubata, de veritat que tinc ganes servir-me uns decilitres de mata-rates en una copa Pompadour. Ara als grups de whats ja es nota molt quan hom ha rebut un nou mem. Diguis el que diguis, te l’envia per rematar. És com aquest lector que tenim a l'ARA (jo l’estimo infinitíssimanent) que a cada notícia, parli de Brad Pitt, de…",
+      "excerpt": "A mi, quan en lloc de dir-me “una abraçada” m’envien per WhatsApp un bebè amb ulleres de sol circumspecte o un gatet que es beu un cubata, de veritat que tinc ganes de servir-me uns decilitres de mata-rates en una copa Pompadour. Ara als grups de whats ja es nota molt quan hom ha rebut un nou mem. Diguis el que diguis, te l’envia per rematar. És com aquest lector que tenim a l'ARA (jo l’estimo infinitíssimanent) que a cada notícia, parli de Brad Pitt,…",
       "url": "https://www.ara.cat/opinio/esquerrans-esquerranosos_129_5887176.html",
       "published": "2026-10-22T18:25:26+02:00",
       "category": "Actualitat",
@@ -550,7 +695,7 @@
       "url": "https://www.ara.cat/estils/diva-em-cansa_128_5887008.html",
       "published": "2026-10-22T18:00:01+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/0ef5b037-4dcc-4184-ae3b-2a3ca29f5e8f_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/52286f1a-06f5-4bbf-8056-d0dc6d994a79_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -715,7 +860,7 @@
       "url": "https://www.3cat.cat/3catinfo/mor-a-franca-una-persona-infectada-pel-virus-de-shamonda-primer-cas-detectat-en-humans/noticia/3435596/",
       "published": "2026-10-22T16:07:23+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/8/1/1647463520618.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1792694611823.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1315,12 +1460,12 @@
     },
     {
       "source": "ARA",
-      "title": "Les borses registren caigudes amb els problemes de ciberseguretat de fons",
-      "excerpt": "La ciberseguretat torna a ser protagonista als mercats. Les borses han començat aquest dijous la sessió amb els panells tenyits de vermell. L'Íbex-35, la principal referència de la borsa espanyola, cedeix més de 300 punts, entre l'1,5% i l'1,7% a l'inici de la jornada, i la resta de parquets europeus també cauen amb els inversors pendents dels resultats empresarials, i especialment de l'alarma global provocada per dues vulnerabilitats crítiques a PHP, un dels llenguatges de programació més utilitzats per al funcionament de pàgines web i…",
+      "title": "L'Íbex cau més del 2% amb els problemes de ciberseguretat de fons",
+      "excerpt": "La ciberseguretat i els riscos d'atacs a webs i sistemes han tornat a ser protagonistes als mercats. Les borses han viscut aquest dijous una jornada de descensos a conseqüència de l'alarma global provocada per dues vulnerabilitats crítiques a PHP, el llenguatge més utilitzat a webs i aplicacions de tot el món. En una jornada marcada també per la nova escalada del petroli i del deute francès, l'Íbex-35, la principal referència de la borsa espanyola, ha cedit 410 punts, el 2,12%, fins a perdre el nivell…",
       "url": "https://www.ara.cat/economia/mercats/borses-registren-caigudes-problemes-cibersegurtat-fons_1_5886778.html",
       "published": "2026-10-22T10:37:10+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/df1a6a4f-2d4f-4070-8310-207340a6d38b_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/dae718fe-4936-41c0-8427-90f2ef8044e0_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1366,11 +1511,11 @@
     {
       "source": "ARA",
       "title": "Els Estats Units i altres països retiren diplomàtics de l'Aràbia Saudita per por dels atacs houthis",
-      "excerpt": "Els Estats Units han ordenat retirar una part del seu personal diplomàtic destinat a l'Aràbia Saudita, un dels seus principals aliats al Pròxim Orient, després dels atacs de les milícies houthis del Iemen. La petromonarquia pateix atacs constants d'aquest grup aliat de l'Iran, com el que ha deixat aquesta nit de dimecres un mort i vuit ferits a l'aeroport internacional rei Fahd de Damman, a l'est del país. L'anunci arriba després que Benjamin Netanyahu, el primer ministre d'Israel –l'altre aliat estratègic de Washington a la…",
+      "excerpt": "Els Estats Units han ordenat retirar una part del seu personal diplomàtic destinat a l'Aràbia Saudita, un dels seus principals aliats al Pròxim Orient, després dels atacs de les milícies houthis del Iemen. La petromonarquia pateix atacs constants d'aquest grup aliat de l'Iran, com el que ha deixat aquesta nit de dimecres un mort i vuit ferits a l'aeroport internacional rei Fahd de Damman, a l'est del país. També s'estan evacuant els familiars del personal de les ambaixades nord-americanes als Emirats Àrabs Units, Jordània, Qatar…",
       "url": "https://www.ara.cat/internacional/proxim-orient/estats-units-altres-paisos-retiren-diplomatics-l-arabia-saudita-dels-atacs-houthis_1_5886684.html",
       "published": "2026-10-22T10:13:52+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/713912c7-4b5a-44bd-a28f-0fef6bf39aa1_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/713912c7-4b5a-44bd-a28f-0fef6bf39aa1_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
