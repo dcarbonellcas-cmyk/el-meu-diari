@@ -2,6 +2,16 @@
   "date": "2026-10-22",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Confirmen com a crim masclista l'assassinat d'una dona de 52 anys a Madrid",
+      "excerpt": "Des del 2003, 1.384 dones han estat assassinades a l'estat per les seves parelles o exparelles, segons dades del Ministeri d'Igualtat",
+      "url": "https://www.3cat.cat/3catinfo/confirmen-com-a-crim-masclista-lassassinat-duna-dona-de-52-anys-a-madrid/noticia/3435220/",
+      "published": "2026-10-22T18:08:37+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/3/1792521413130.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "betevé",
       "title": "Els aiguats i les onades de calor disparen els serveis dels Bombers de Barcelona",
       "excerpt": "Els Bombers de Barcelona han incrementat el nombre de serveis en els darrers anys com a conseqüència de l’augment d’episodis meteorològics extrems —com els aiguats sobtats de les últimes setmanes o les onades de calor durant l’estiu. Així ho ha explicat el director del cos, Sebastià Massagué, en una entrevista al Bon dia, Barcelona. Massagué […]",
@@ -33,8 +43,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Malestar de Junts per l’absència del president Illa durant el retorn de Lluís Puig al parlament",
-      "excerpt": "El govern explica que Illa i Puig han mantingut una trobada discreta abans del ple d'avui, sense cap escenificació institucional",
+      "title": "Malestar de Junts per l’absència del president Illa en la tornada de Lluís Puig al parlament",
+      "excerpt": "El govern s'ha defensat dient que Illa i Puig s'havien reunit discretament abans del ple d'avui, sense cap escenificació institucional",
       "url": "https://www.vilaweb.cat/noticies/salvador-illa-reuneix-discretament-lluis-puig/",
       "published": "2026-10-22T17:06:50+02:00",
       "category": "Principat",
@@ -175,7 +185,7 @@
     {
       "source": "3CatInfo",
       "title": "Lluís Puig ocupa l'escó al Parlament i retira el llaç groc en el seu retorn de l'exili",
-      "excerpt": "L'exconseller va tornar aquest dimecres de l'exili i s'incorpora per primer cop presencialment al grup parlamentari de Junts",
+      "excerpt": "La presidenta del grup de Junts, Mònica Sales, ha retret per carta a Illa que no hagi assistit al retorn de l'exconseller, que s'ha incorporat presencialment al grup",
       "url": "https://www.3cat.cat/3catinfo/lluis-puig-ocupa-el-seu-esco-al-parlament-i-retira-el-llac-groc-en-el-seu-retorn-de-lexili/noticia/3435569/",
       "published": "2026-10-22T12:40:00+02:00",
       "category": "Actualitat",
@@ -308,6 +318,136 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "Detectat el virus Shamonda en tres explotacions de boví de llet a les comarques gironines",
+      "excerpt": "La Generalitat assegura que \"no és una zoonosi\" i que el risc d’infecció en humans a Catalunya és \"molt baix\"",
+      "url": "https://www.vilaweb.cat/noticies/virus-shamonda-tres-explotacions-bovi-de-llet/",
+      "published": "2026-10-22T18:40:39+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Esquerda al Front Ampli: EU anuncia que es presentarà per Terol tot i la renúncia de la CHA",
+      "excerpt": "La formació rebutja la decisió de la Chunta Aragonesista de retirar la candidatura per evitar la dispersió del vot i defensa que hi hagi una alternativa a l’esquerra del PSOE",
+      "url": "https://www.vilaweb.cat/noticies/esquerda-front-ampli-eu-anuncia-terol-cha/",
+      "published": "2026-10-22T18:32:17+02:00",
+      "category": "Franja de Ponent",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Esquerrans i esquerranosos",
+      "excerpt": "A mi, quan en lloc de dir-me “una abraçada” m’envien per WhatsApp un bebè amb ulleres de sol circumspecte o un gatet que es beu un cubata, de veritat que tinc ganes servir-me uns decilitres de mata-rates en una copa Pompadour. Ara als grups de whats ja es nota molt quan hom ha rebut un nou mem. Diguis el que diguis, te l’envia per rematar. És com aquest lector que tenim a l'ARA (jo l’estimo infinitíssimanent) que a cada notícia, parli de Brad Pitt, de…",
+      "url": "https://www.ara.cat/opinio/esquerrans-esquerranosos_129_5887176.html",
+      "published": "2026-10-22T18:25:26+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f15fb0e3-53b6-4499-95ef-1793158d967f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Gairebé cinc anys de rescats i evacuacions sense compensació ni protecció: el teixit civil ucraïnès s'esgota",
+      "excerpt": "Ucraïna continua resistint la invasió russa no només amb el seu exèrcit, sinó també amb una xarxa d'organitzacions d'iniciativa ciutadana que s'ocupen de tota mena de problemes quotidians i sostingudes per voluntaris sense cap mena de protecció. Després de gairebé cinc anys de guerra, aquesta xarxa està al límit de les seves forces. Ho constata un informe que l'ONG Novact ha presentat aquest dijous al Parlament de Catalunya. L'informe ha seguit 200 iniciatives civils al país entre el febrer de 2022 i el juny de…",
+      "url": "https://www.ara.cat/internacional/europa/gairebe-cinc-anys-rescats-evacuacions-compensacio-proteccio-teixit-civil-ucraines-s-esgota_1_5887231.html",
+      "published": "2026-10-22T18:09:03+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4eaf6183-b7cf-40ea-8d7d-3f9699061d47_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La convivència",
+      "excerpt": "Quan sento que el president Illa celebra l’aplicació de la llei d’amnistia (la que ell no volia que existís, la que rebutjava fins i tot com a hipòtesi) perquè segons ell és un “triomf de la convivència”, en veritat es refereix al triomf de la unitat d’Espanya. Hi ha un tipus de convivència (ho sabem perfectament en aquest país) que des de fa segles consisteix a desatendre les demandes catalanes: si el reconeixement dels drets nacionals dels catalans queda aparcat, rebutjat, o fins i tot…",
+      "url": "https://www.ara.cat/opinio/convivencia_129_5886039.html",
+      "published": "2026-10-22T18:08:50+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d0c4c8df-acbf-4ec6-96d4-f5d1ea278108_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Alguns canvis pel pas de fronts atlàntics desgastats",
+      "excerpt": "Deixem enrere un dijous marcat pel pas d’una cua de front que ha provocat la circulació de bandes de núvols alts i mitjans. Ha estat un dia de cel entelat, a estones variable, però s’ha mantingut la calma i no ha plogut enlloc. L’ambient ha estat més fresc i tardorenc en general. De fet, a primera hora el fred era més evident arreu, amb glaçades al Pirineu. I els pròxims dies es mantindrà aquest temps canviant, ja que, tot i que dominaran les altes pressions,…",
+      "url": "https://www.ara.cat/previsions/canvis-pel-pas-fronts-atlantics-desgastats_1_5887295.html",
+      "published": "2026-10-22T18:07:36+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3ab81c84-c180-414e-b66e-003be23c4fc9_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Leo Messi: “Amb el Barça vam guanyar-ho tot… i la manera de fer-ho!, gaudíem jugant”",
+      "excerpt": "L’exjugador argentí del Barça Leo Messi, que aquest divendres recollirà el Premi Princesa d’Astúries dels esports, ha recordat la seva etapa en el club blaugrana i ha destacat els bons records durant els 17 anys que va estar com a jugador del primer equip. Ho ha fet en una entrevista exclusiva a l’agència de notícies […]",
+      "url": "https://beteve.cat/esports/leo-messi-barca-vam-guanyar-tot-gaudiem-jugant/",
+      "published": "2026-10-22T18:06:49+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/leo-messi-entrevista-efe-2026-10-22.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Florentino morirà matant el futbol espanyol\"",
+      "excerpt": "Per un tema d'edat (farà 80 anys d'aquí cinc mesos), a ningú que li escapa que la llarguíssima aventura de Florentino Pérez com a president del Reial Madrid està més a prop del final que no pas del començament. Tanmateix, el poderós empresari madrileny va renovar la seva condició de mandatari blanc el passat mes de juny en les primeres eleccions que el club celebrava des del 2006. Va derrotar a les urnes el jove Enrique Riquelme, que va sumar un 35% de suports tot…",
+      "url": "https://www.ara.cat/esports/futbol/florentino-morira-matant-futbol-espanyol_130_5885963.html",
+      "published": "2026-10-22T18:00:01+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/047075bf-8b0f-4fa8-ab0e-6ccc7b5b2ddd_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Anar de diva em cansa molt\"",
+      "excerpt": "El més habitual és que els convidats s’incomodin una mica quan se’ls ha de fer la fotografia. Sempre pregunten alguna cosa: Així? Segur? O em col·loco diferent? Judit Mascó, en canvi, no necessita indicacions. Ella mateixa explica que la seva professió és jugar a seduir la càmera. Però, en canvi, resta importància a la foto que du al WhatsApp. Diu que les filles s’horroritzen que no la canviï, perquè ja és antiga, però ella no hi pensa. Acompanya la imatge d'una frase, un principi budista:…",
+      "url": "https://www.ara.cat/estils/diva-em-cansa_128_5887008.html",
+      "published": "2026-10-22T18:00:01+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0ef5b037-4dcc-4184-ae3b-2a3ca29f5e8f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "29-N: l'estratègia de les renúncies",
+      "excerpt": "Un dels riscos de la política és l’oscil·lació extrema entre la tàctica i la promesa vàcua de màxims, deixant desproveït l’espai essencial, l’espai decisiu de l’estratègia. Aquest espai desproveït és el més necessari per poder plantejar propostes sòlides, viables i sostingudes en el temps. Vivim, però, i tots en som conscients, agafats a un pèndol que empeny no la força tangencial de la gravetat sinó els decibels dels crits i els improperis.",
+      "url": "https://www.ara.cat/opinio/29-estrategia-renuncies_129_5884192.html",
+      "published": "2026-10-22T18:00:01+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4c934d83-07c9-43d5-868d-90e1cfcddf73_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Catalunya, entre les comunitats on és més car el menú del dia dels restaurants",
+      "excerpt": "Menjar de menú continua sent una de les opcions habituals per dinar fora de casa, però cada cop costa una mica més. El preu del menú del dia ja arriba als 14,7 euros de mitjana a Espanya, enfront dels 14,2 euros del 2025. Això representa un increment del 3,5% en un any, segons l’última enquesta d’Hostelería de España i Edenred, que analitza l’evolució dels preus i els hàbits dels establiments.",
+      "url": "https://www.ara.cat/economia/alimentacio/catalunya-comunitats-mes-car-menu-dia-dels-restaurants_1_5887033.html",
+      "published": "2026-10-22T17:55:55+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/89e71cb8-765a-43dc-9ee1-65853d38ca9f_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Més de 14.000 barcelonins ja han fet servir els Bonus Consum: “El descompte s’agraeix”",
+      "excerpt": "Una setmana després d’activar els Bonus Consum, més de 70.000 barcelonins ja s’han registrat per obtenir-los. I d’entre tots ells, més de 14.000 ja els ha fet servir en alguna de les més de 1.900 botigues de barri que, de moment, s’han adherit a la iniciativa. La Pilar, de Sant Andreu, és una de les […]",
+      "url": "https://beteve.cat/politica/14000-barcelonins-ja-han-fet-servir-bonus-consum/",
+      "published": "2026-10-22T17:55:29+02:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/bonus-consum-2-221026-2026-10-22.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Messi s'emociona parlant del Barça: \"Vam guanyar-ho tot... i de quina manera!\"",
+      "excerpt": "Leo Messi ha arribat avui a Oviedo, on demà recollirà el premi Princesa d'Astúries dels esports 2026 en una cerimònia presidida pels reis d'Espanya. L'actual jugador de l'Inter Miami ha participat en un acte amb nens i ha estat rebut amb la tradicional recepció asturiana amb gaiters. Milers de persones l'han esperat a les portes de l'Hotel de la Reconquista, entre ells un senyor amb una samarreta de Cristiano Ronaldo que no ha acabat de fer amics amb els altres espectadors presents.",
+      "url": "https://www.ara.cat/esports/futbol/messi-s-emociona-parlant-barca-messi-vam-guanyar-ho-quina-manera_1_5887303.html",
+      "published": "2026-10-22T17:46:06+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/33059062-f7bb-46c6-b395-4efac7470caf_source-aspect-ratio_default_0_x44y44.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Els brasilers que van sortir de la pobresa gràcies a Lula ara li donen l'esquena",
       "excerpt": "Els sectors socials que van deixar enrere la pobresa gràcies a les polítiques inclusives de la primera etapa de Lula da Silva a la presidència (2003-2010), ara convertits en la nova classe mitjana brasilera, tenen la clau de la segona volta de les presidencials de diumenge. Aquest segment, que representa el 51% de l’electorat, dona majoritàriament suport al candidat de l’extrema dreta, el senador Flávio Bolsonaro, que ja es va imposar a la primera ronda amb el 47,03% dels suports, per davant del 45,16% de…",
@@ -320,7 +460,7 @@
     {
       "source": "ARA",
       "title": "Adeu a la veu fonda, rigorosa i emocionant de Jaume Pont",
-      "excerpt": "Quatre dels pilars de la poesia de Jaume Pont i Ibáñez (Lleida, 1947-2026) han estat l'amor, la follia, l'atzar i la mort. Mor aquest dijous als 79 anys, Pont, que era Llicenciat en Filosofia i lletres, es va donar a conèixer amb Límit(s) el 1976, publicat a l'emblemàtica Llibres del Mall , i no gaire després va fundar i dirigir la influent revista Quaderns de Ponent (1979-1983), que va ajudar a difondre i a valorar críticament l'obra de creadors de les terres de Lleida com…",
+      "excerpt": "Quatre dels pilars de la poesia de Jaume Pont i Ibáñez (Lleida, 1947-2026) han estat l'amor, la follia, l'atzar i la mort. Mort aquest dijous als 79 anys, Pont, que era llicenciat en filosofia i lletres, es va donar a conèixer amb Límit(s) el 1976, publicat a l'emblemàtica Llibres del Mall , i no gaire després va fundar i dirigir la influent revista Quaderns de Ponent (1979-1983), que va ajudar a difondre i a valorar críticament l'obra de creadors de les Terres de Lleida com…",
       "url": "https://llegim.ara.cat/actualitat/adeu-veu-fonda-rigorosa-emocionant-jaume-pont_1_5887257.html",
       "published": "2026-10-22T17:16:21+02:00",
       "category": "Actualitat",
@@ -345,12 +485,12 @@
       "published": "2026-10-22T17:11:54+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/6/1792154002169.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432029/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/un-terc-dels-sollicitants-de-la-regularitzacio-ja-treballa-pero-la-majoria-continua-a-lespera-de-resolucio/noticia/3434404/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -360,6 +500,16 @@
       "published": "2026-10-22T16:52:42+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/f0857f8a-ea1a-4f44-b36d-f169aaf0f40a_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona acull la primera trobada per revisar la Declaració Universal dels Drets Lingüístics",
+      "excerpt": "La seu de l’Institut d’Estudis Catalans acull aquesta setmana la primera reunió per revisar i redactar la nova Declaració Universal dels Drets Lingüístics. Es tracta d’un text que vetlla per les llengües minoritàries i per totes aquelles que no tenen garantida la seva conservació. Experts i intel·lectuals de tot el món són a Barcelona per […]",
+      "url": "https://beteve.cat/societat/barcelona-acull-cimera-per-revisar-declaracio-universal-drets-linguistics/",
+      "published": "2026-10-22T16:40:06+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/declaracio-universal-drets-linguistics-3-2026-10-22.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -909,12 +1059,12 @@
     },
     {
       "source": "ARA",
-      "title": "Mor un home a França pel virus de Shamonda, que rarament afecta els humans",
-      "excerpt": "Les autoritats sanitàries de França han confirmat aquest dijous la mort d'un home a causa del virus Shamonda, un patogen transmès principalment per mosquits a bestiar boví, oví i cabrum i fins ara considerat molt poc transmissible als humans. De fet, aquesta és la primera detecció documentada i notificada del virus en humans, si bé hi ha documentació que altres virus del mateix grup poden fer el salt d'espècie.",
+      "title": "Què és el virus de Shamonda, que ha causat la mort d'un home a França?",
+      "excerpt": "Les autoritats sanitàries de França han confirmat aquest dijous la mort d'un home a causa del virus Shamonda, un patogen transmès principalment per mosquits a bestiar boví, oví i cabrum i fins ara considerat molt poc transmissible als humans. De fet, aquesta és la primera detecció documentada i notificada del virus en humans, si bé se sap que altres virus del mateix grup poden fer aquest salt d'espècie.",
       "url": "https://www.ara.cat/societat/salut/mor-home-franca-pel-virus-shamonda-rarament-afecta-humans_1_5886861.html",
       "published": "2026-10-22T12:00:33+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/b3a2f0c8-524f-42c5-b351-0b87cded190f_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/ecdfb3f6-5c34-49fa-a264-e0ec5c20b694_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1289,7 +1439,7 @@
     },
     {
       "source": "ARA",
-      "title": "La Bola, el col·leccionisme com a medicina per a l’ànima",
+      "title": "La Bola, el col·leccionisme com a medicina de l’ànima",
       "excerpt": "La cova d’Alí Babà està plena de tresors. La cova del Cabini, també. Tresors que t’exciten i et satisfan la memòria. Aquesta cova es diu La Bola i està al carrer Sepúlveda de Barcelona, a tocar de la plaça Universitat. El Cabini és Jordi Viñas, però tothom li diu així perquè era el nom de l’empresa de transports del seu pare i les lletres immenses del camió han quedat a la memòria de tots els que el veien entrar i sortir cada dia dels Encants.…",
       "url": "https://empreses.ara.cat/empreses/bola-col-leccionisme-medicina-l-anima_1_5886170.html",
       "published": "2026-10-22T07:00:43+02:00",
