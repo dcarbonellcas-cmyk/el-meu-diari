@@ -32,6 +32,22 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de divendres: moltes estones de sol i ventades als dos extrems",
+      "excerpt": "El vent de tramuntana i mestral bufarà amb cops superiors als 90 km/h",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/",
+      "published": "2026-10-22T19:00:00+02:00",
+      "updated": "2026-10-22T22:31:59+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/3/1792701103933.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432115/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "Polèmica pels ingressos psiquiàtrics forçosos: Sanitat aclareix que se seguiran fent",
       "excerpt": "A vegades, quan una persona amb un problema greu de salut mental té una crisi, els professionals que l'atenen l'hospitalitzen en contra de la seva voluntat per estabilitzar-la i evitar qualsevol dany tant per a ella com per als que estan al seu voltant. És el que es coneix com un ingrés involuntari o forçós. Aquest divendres, però, entra en vigor una nova llei que vol reforçar els drets d'aquests pacients i augmenta la seva protecció en diversos supòsits, com per exemple en aquest tipus…",
@@ -69,22 +85,6 @@
       "published": "2026-10-22T19:14:16+02:00",
       "category": "seguretat ciutadana",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pla-bandes-juvenils-2026-10-22.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de divendres: moltes estones de sol i ventades als dos extrems",
-      "excerpt": "El vent de tramuntana i mestral bufarà amb cops superiors als 90 km/h",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/",
-      "published": "2026-10-22T19:00:00+02:00",
-      "updated": "2026-10-22T19:01:13+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/1/2/1792688203921.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432063/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -374,12 +374,62 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "El Barça es treu l'espina més necessària",
+      "excerpt": "El Barça va sotmetre l'Armani Olímpia de Milà (81-89), un rival insípid que només ha guanyat un dels primers set partits de l'Eurolliga. Sense massa aficionats a les graderies i sense massa tensió competitiva, l'equip italià no va poder desactivar un conjunt blaugrana amb la necessitat d'esborrar el mal regust del partit de Badalona. Els culers van sumar del quart triomf en una nit en què els 17 rebots ofensius van ser clau.",
+      "url": "https://www.ara.cat/esports/basquet/eurolliga/cronica-armani-olimpia-mila-barca_1_5887660.html",
+      "published": "2026-10-22T22:34:59+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ecf49f04-92e0-443f-b75c-537380cd2578_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
-      "title": "Múnic acull el primer projecte expositiu a Alemanya dedicat al modernisme català",
-      "excerpt": "La mostra compta amb més d'un centenar d'obres d'artistes com Gaudí, Picasso, Puig i Cadafalch, Rusiñol o Casas",
+      "title": "L’Inter d’Escaldes s’entrena en la fase de lliga europea a Andorra amb un gol històric",
+      "excerpt": "L'equip perd contra l’Universitatea Craiova (1-3), però Borja Arellano marca el primer gol d’un equip andorrà en aquesta fase d’una competició europea",
+      "url": "https://www.vilaweb.cat/noticies/linter-descaldes-sentrena-en-la-fase-de-lliga-europea-a-andorra-amb-un-gol-historic/",
+      "published": "2026-10-22T22:15:28+02:00",
+      "category": "Esports",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "bàsics",
+      "excerpt": "El programa d’anàlisi de l’actualitat de Barcelona amb els principals titulars del dia i l’anàlisi corresponent. Perquè això és el ‘bàsics’: fer un pas més i buscar més veus implicades en els temes tractats, per donar les claus del debat a partir d’entrevistes, reportatges, taules i anàlisi. Presentat per Sandra Mestres.",
+      "url": "https://beteve.cat/basics/basics-1411/",
+      "published": "2026-10-22T22:10:57+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Mercedes-AMG GT SUV: el malson de Ferrari, Porsche i Lotus és un totcamí elèctric",
+      "excerpt": "Si fa uns anys ens arriben a explicar que la divisió de cotxes esportius d’altes prestacions Mercedes-AMG fabricaria un SUV elèctric per competir de tu a tu amb Ferrari, possiblement hauríem pensat que tots plegats estàvem bojos. De fet, en els 59 anys d’història de la divisió AMG mai s’havia fabricat un cotxe amb carrosseria elevada de tipus SUV o totcamí, i encara menys allotjant una mecànica elèctrica capaç d’arribar als 1.169 CV de potència.",
+      "url": "https://motor.ara.cat/novetats/mercedes-amg-gt-suv-malson-ferrari-porsche-lotus-totcami-electric_1_5887602.html",
+      "published": "2026-10-22T21:58:31+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/48e0c431-4c9e-4fb6-a513-a2a2157922a8_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Munic acull el primer projecte expositiu a Alemanya dedicat al modernisme català",
+      "excerpt": "La mostra compta amb més d'un centenar d'obres d'artistes com Gaudí, Picasso, Puig i Cadafalch, Rusiñol i Casas",
       "url": "https://www.vilaweb.cat/noticies/munic-acull-el-primer-projecte-expositiu-a-alemanya-dedicat-al-modernisme-catala/",
       "published": "2026-10-22T21:43:39+02:00",
       "category": "Art i museus",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Saber-se un lloc",
+      "excerpt": "El pis va deixar de ser nostre però en enderrocar-lo va tornar a ser nostre per sempre",
+      "url": "https://www.vilaweb.cat/noticies/saber-se-un-lloc-mail-obert-tina-valles/",
+      "published": "2026-10-22T21:40:30+02:00",
+      "category": "Mail Obert",
       "image": null,
       "priority": "3 · Altres notícies"
     },
@@ -486,6 +536,16 @@
       "published": "2026-10-22T20:01:35+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/795738ba-a385-442a-8b90-fdaf8574285a_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Macron prohibeix les manifestacions dels Armilles Grogues i estudiants i només autoritza les dels sindicats",
+      "excerpt": "A més, s'hauran de canviar els recorreguts de les manifestacions de dissabte, lluny de les zones comercials, per evitar actes vandàlics i violència, que atribueix a grups d'ultraesquerra",
+      "url": "https://www.3cat.cat/3catinfo/macron-prohibeix-manifestar-se-als-armilles-grogues-dissabte-i-nomes-ho-autoritza-als-sindicats/noticia/3435654/",
+      "published": "2026-10-22T19:55:17+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/9/1792684261690.jpg",
       "priority": "3 · Altres notícies"
     },
     {
