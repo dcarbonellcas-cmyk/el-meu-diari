@@ -22,19 +22,50 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dijous: cel mig ennuvolat i sensació de tardor",
+      "excerpt": "Fresca i presència freqüent de núvols",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sensacio-de-tardor/noticia/3435255/",
+      "published": "2026-10-21T20:20:40+02:00",
+      "updated": "2026-10-22T16:45:46+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/6/1792680331365.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432045/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sensacio-de-tardor/noticia/3435255/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
-      "title": "[VÍDEO] Lluís Puig retira finalment el llaç groc del parlament i ocupa l’escó ovacionat",
+      "title": "[VÍDEO] El discurs íntegre de Lluís Puig al parlament: “Em declaro convençudament independentista”",
+      "excerpt": "El conseller de Cultura del Primer d’Octubre denuncia la repressió de l’estat espanyol i reivindica la persistència de l’independentisme després de nou anys d’exili",
+      "url": "https://www.vilaweb.cat/noticies/discurs-integre-lluis-puig-parlament-em-declaro-convencudament-independentista/",
+      "published": "2026-10-22T16:19:42+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.youtube-nocookie.com/embed/tRBH77BVoLc",
+        "source": "VilaWeb",
+        "articleUrl": "https://www.vilaweb.cat/noticies/discurs-integre-lluis-puig-parlament-em-declaro-convencudament-independentista/"
+      }
+    },
+    {
+      "source": "VilaWeb",
+      "title": "[VÍDEO] Lluís Puig retira finalment el llaç groc del parlament i ocupa l’escó, ovacionat",
       "excerpt": "El conseller de Cultura del Primer d'Octubre ja pot exercir de diputat després de l'aplicació de l'amnistia",
       "url": "https://www.vilaweb.cat/noticies/video-lluis-puig-retira-finalment-llac-groc-parlament-ocupa-esco-ovacionat/",
       "published": "2026-10-22T15:41:35+02:00",
       "category": "Actualitat",
       "image": null,
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.youtube-nocookie.com/embed/MoYZuGQv9g4",
         "source": "VilaWeb",
         "articleUrl": "https://www.vilaweb.cat/noticies/video-lluis-puig-retira-finalment-llac-groc-parlament-ocupa-esco-ovacionat/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -69,7 +100,7 @@
     {
       "source": "VilaWeb",
       "title": "[VÍDEO] Lluís Puig torna al parlament després de nou anys d’exili",
-      "excerpt": "Puig va ser per última vegada al ple el 27 d'octubre de 2017, quan es va proclamar la independència",
+      "excerpt": "El conseller ha tornat al seu escó en un acte de benvinguda sense la presència del president Illa ni la consellera de Cultura",
       "url": "https://www.vilaweb.cat/noticies/video-lluis-puig-torna-parlament-exili/",
       "published": "2026-10-22T14:59:40+02:00",
       "category": "Principat",
@@ -94,22 +125,27 @@
       "published": "2026-10-22T13:20:17+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/6/1792665758366.jpg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432021/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/illa-i-puente-diuen-que-el-contracte-de-rodalies-se-signara-dimarts-i-el-ministre-declara-irrevocable-la-cessio-de-lr1/noticia/3435568/"
+      }
     },
     {
       "source": "3CatInfo",
-      "title": "Lluís Puig ocupa el seu escó al Parlament i retira el llaç groc en el seu retorn de l'exili",
+      "title": "Lluís Puig ocupa l'escó al Parlament i retira el llaç groc en el seu retorn de l'exili",
       "excerpt": "L'exconseller va tornar aquest dimecres de l'exili i s'incorpora per primer cop presencialment al grup parlamentari de Junts",
       "url": "https://www.3cat.cat/3catinfo/lluis-puig-ocupa-el-seu-esco-al-parlament-i-retira-el-llac-groc-en-el-seu-retorn-de-lexili/noticia/3435569/",
       "published": "2026-10-22T12:40:00+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/8/1/1792676733618.jpg",
-      "priority": "2 · Important",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/1/1792677473818.jpg",
       "video": {
         "url": "https://www.youtube-nocookie.com/embed/MoYZuGQv9g4",
         "source": "VilaWeb",
         "articleUrl": "https://www.vilaweb.cat/noticies/video-lluis-puig-retira-finalment-llac-groc-parlament-ocupa-esco-ovacionat/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -164,7 +200,7 @@
     {
       "source": "ARA",
       "title": "La UE desafia Trump i premia el Tribunal Penal Internacional",
-      "excerpt": "La Unió Europea torna a desafiar Donald Trump. L'Eurocambra ha decidit atorgar el premi Sàkharov a la llibertat de consciència al Tribunal Penal Internacional i als seus treballadors, que han estat el blanc d'atacs i sancions de l'administració nord-americana .",
+      "excerpt": "La Unió Europea torna a desafiar Donald Trump. L'Eurocambra ha decidit atorgar el premi Sàkharov a la llibertat de consciència al Tribunal Penal Internacional i als seus treballadors, que han estat el blanc d'atacs i sancions de l'administració nord-americana . La decisió envia un missatge clar al president nord-americà, submergit en una ofensiva per desmantellar l'organisme amb seu a la Haia a causa de les actuacions que aquest ha emprès per investigar el genocidi de Gaza.",
       "url": "https://www.ara.cat/internacional/europa/ue-desafia-trump-premia-tribunal-penal-internacional_1_5886875.html",
       "published": "2026-10-22T11:57:13+02:00",
       "category": "Actualitat",
@@ -222,22 +258,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dijous: cel mig ennuvolat i sensació de tardor",
-      "excerpt": "Fresca i presència freqüent de núvols",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sensacio-de-tardor/noticia/3435255/",
-      "published": "2026-10-21T20:20:40+02:00",
-      "updated": "2026-10-22T08:26:22+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/4/1792650363943.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6431924/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sensacio-de-tardor/noticia/3435255/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "ARA",
       "title": "El vot exterior podria decantar les eleccions a Israel",
       "excerpt": "Bar Luzon, ciutadana israeliana que viu a Cambridge (Estats Units), mai s'havia considerat \"una persona política\". És professora assistent al Massachusetts Institute of Technology i no havia votat en cap elecció israeliana des que va arribar als Estats Units, ara fa vuit anys. Però després dels esdeveniments del 7 d'octubre de 2023, diu que no es podia quedar al marge.",
@@ -246,6 +266,46 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/8a2dd881-df51-41a6-a6aa-2c14a9de2e5d_source-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Detinguts dos joves pels robatoris a adolescents que van posar en alerta la zona alta de Barcelona",
+      "excerpt": "Els Mossos d'Esquadra han detingut dos nois de 19 i 20 anys com a presumptes autors dels robatoris a menors que els últims dies havien posat en alerta el districte de Sarrià-Sant Gervasi . Sobretot l'alarma es va produir després que la matinada del 10 d'octubre atraquessin i agredissin un grup d'adolescents a la cruïlla dels carrers de Bertrand i Serra i de Torras i Pujalt amb una pistola simulada. Segons fonts policials, els joves van explicar que els assaltants els van sostreure diversos objectes…",
+      "url": "https://www.ara.cat/societat/successos/detinguts-joves-pels-robatoris-adolescents-posar-alerta-zona-alta-barcelona_1_5887077.html",
+      "published": "2026-10-22T16:39:18+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f2a01185-b96a-440a-9f7a-6b85d5ba21b5_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1915/",
+      "published": "2026-10-22T16:34:40+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Tornen els noms d’àvia: quins són els noms de fa un segle que estan més de moda?",
+      "excerpt": "Triar el nom d’un fill no sempre és fàcil. Cal trobar-ne un que convenci i, en cas que hi hagi dos progenitors, posar-se d’acord. Una tasca que es pot convertir en una missió impossible. A banda, com en tot, també hi ha modes. Júlia, Martina, Emma i Sofia van ser els noms femenins més posats […]",
+      "url": "https://beteve.cat/societat/quins-noms-avia-tornen-estar-moda/",
+      "published": "2026-10-22T16:19:52+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/06/nado-recent-nascut-140322-1536x864-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Mor a França una persona infectada pel virus de Shamonda, primer cas detectat en humans",
+      "excerpt": "Fins ara no es creia que el virus, propi del bestiar boví, es pogués contagiar a les persones, i les autoritats ho consideren un \"cas excepcional\"",
+      "url": "https://www.3cat.cat/3catinfo/mor-a-franca-una-persona-infectada-pel-virus-de-shamonda-primer-cas-detectat-en-humans/noticia/3435596/",
+      "published": "2026-10-22T16:07:23+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/1/1647463520618.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -259,12 +319,47 @@
     },
     {
       "source": "betevé",
+      "title": "Cancel·lada la segona edició del Festival Feroe",
+      "excerpt": "El Festival Feroe s’ha vist obligat a cancel·lar la seva segona edició, després d’estrenar-se el novembre de l’any 2025 al Poble Espanyol, on van actuar grups com Squeeze o The Tallest Man on Earth. L’organització ha explicat en un comunicat que no s’han venut les entrades necessàries per fer-lo viable. El director del Feroe, Albert […]",
+      "url": "https://beteve.cat/cultura/cancelada-segona-edicio-festival-feroe/",
+      "published": "2026-10-22T15:49:43+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/10/concerts-2-1536x864-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Broggi, referent en una tècnica per tractar les metàstasis de tumors digestius i ginecològics",
+      "excerpt": "Catalunya té una de les primeres unitats al món especialitzades en tractament de la carcinomatosi peritoneal, una tècnica que millora la supervivència dels pacients",
+      "url": "https://www.3cat.cat/3catinfo/el-broggi-referent-en-una-tecnica-per-tractar-les-metastasis-de-tumors-digestius-i-ginecologics/noticia/3434085/",
+      "published": "2026-10-22T15:45:27+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/0/1791982989304.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432026/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-broggi-referent-en-una-tecnica-per-tractar-les-metastasis-de-tumors-digestius-i-ginecologics/noticia/3434085/"
+      }
+    },
+    {
+      "source": "betevé",
       "title": "Entitats socials demanen garantir refugi a persones sense llar durant les alertes meteorològiques",
       "excerpt": "Els avisos ES-Alert s’han convertit gairebé en habituals les darreres setmanes per la pluja torrencial. Són alertes que suposen un trasbals per a tota la població, però especialment per a les persones que viuen al carrer. Ara, diverses entitats socials, agrupades en la Comissió de Sensellarisme del Grup de Reducció de Danys de Catalunya, han […]",
       "url": "https://beteve.cat/societat/demanen-garantir-refugi-persones-sense-llar-durant-alertes/",
       "published": "2026-10-22T15:35:56+02:00",
       "category": "societat",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/09/pluja-poblenou2-2026-09-16.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Leandro Cabrera assenyala el mal de l’Espanyol: “Ens falta picardia i malícia”",
+      "excerpt": "Leandro Cabrera, el capità de l’Espanyol, que ja suma 250 partits amb el club, assenyala el mal de l’equip i reclama un pas endavant per deixar enrere la mala dinàmica i fa costat amb Manolo González abans de visitar el Racing de Santander. El jugador ha reconegut que la situació preocupa l’afició, però ha defensat […]",
+      "url": "https://beteve.cat/esports/leandro-cabrera-assenyala-mal-moment-espanyol/",
+      "published": "2026-10-22T15:21:48+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/05/GnuIgL-XMAE6LKc-1.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -380,7 +475,7 @@
     {
       "source": "ARA",
       "title": "'Llei de nets': estupor i tremolor",
-      "excerpt": "Algun malpensat podria arribar a creure que els magistrats del Tribunal Constitucional van quedar exhausts després d'enfrontar-se amb els del Tribunal Suprem per la llei d'amnistia, i ja no els van quedar forces per contradir-los en un nou atropellament, tan o més greu democràticament que l'anterior. Es tracta de les mesures cautelars que va imposar el Suprem contra la disposició addicional vuitena de la llei de memòria democràtica, que a la pràctica deixen sense dret a votar els 163.020 nacionalitzats en virtut d'aquesta mesura. El…",
+      "excerpt": "Algun malpensat podria arribar a creure que els magistrats del Tribunal Constitucional van quedar exhausts després d'enfrontar-se amb els del Tribunal Suprem per la llei d'amnistia, i ja no els van quedar forces per contradir-los en un nou atropellament, tant o més greu democràticament que l'anterior. Es tracta de les mesures cautelars que va imposar el Suprem contra la disposició addicional vuitena de la llei de memòria democràtica, que a la pràctica deixen sense dret a votar els 163.020 nacionalitzats en virtut d'aquesta mesura. El…",
       "url": "https://www.ara.cat/opinio/llei-nets-estupor-tremolor_129_5887061.html",
       "published": "2026-10-22T14:08:31+02:00",
       "category": "Actualitat",
@@ -1150,7 +1245,12 @@
       "published": "2026-10-22T06:51:56+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/5/1792579820058.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432028/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/encausats-per-aldarulls-durant-la-sentencia-del-proces-rebutgen-laplicacio-de-lamnistia/noticia/3435297/"
+      }
     },
     {
       "source": "3CatInfo",
