@@ -1,5 +1,20 @@
 {
   "date": "2026-10-22",
-  "updatedAt": "2026-10-22T05:46:19.117113+02:00",
-  "forecast": null
+  "updatedAt": "2026-10-22T06:44:20.861776+02:00",
+  "forecast": {
+    "source": "3CatInfo · El temps",
+    "title": "La previsió de dijous: cel mig ennuvolat i sensació de tardor",
+    "excerpt": "Fresca i presència freqüent de núvols",
+    "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sensacio-de-tardor/noticia/3435255/",
+    "published": "2026-10-21T20:20:40+02:00",
+    "updated": "2026-10-22T06:29:06+02:00",
+    "category": "El temps",
+    "image": "https://img.3cat.cat/multimedia/jpeg/9/5/1792561388159.jpeg",
+    "video": {
+      "url": "https://www.3cat.cat/3cat/video/6431869/embed/",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sensacio-de-tardor/noticia/3435255/"
+    },
+    "priority": "2 · Important"
+  }
 }
