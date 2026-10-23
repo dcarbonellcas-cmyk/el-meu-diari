@@ -2,9 +2,19 @@
   "date": "2026-10-23",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Un terratrèmol de magnitud 7 al Tibet mata almenys 16 persones",
+      "excerpt": "N’hi ha 54 de ferides i almenys 339 cases s’han ensorrat a la ciutat de Nagqu, al nord del Tibet",
+      "url": "https://www.vilaweb.cat/noticies/terratremol-tibet-magnitud-7/",
+      "published": "2026-10-23T08:28:00+02:00",
+      "category": "Àsia-Pacífic",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "Un terratrèmol de magnitud 7 sacseja el Tibet xinès i deixa almenys 16 morts i centenars de cases destruïdes",
-      "excerpt": "Un terratrèmol de magnitud 7 ha sacsejat la regió xinesa del Tibet i ha causat almenys 16 morts, 65 ferits i ha ensorrat 339 d'habitatges a la ciutat de Nagqu, al nord de la regió, informen els mitjans oficials. Més de 1.600 persones del districte afectat s'han mobilitzat per participar en les tasques de rescat. S'han enviat subministraments d'emergència, entre els quals hi ha 1.000 habitatges prefabricats, unes 3.000 tendes de campanya i llits plegables, així com llanternes i roba d'hivern. Es tracta del sisme…",
+      "excerpt": "Un terratrèmol de magnitud 7 ha sacsejat la regió xinesa del Tibet i ha causat almenys 16 morts, 65 ferits i ha ensorrat 339 habitatges a la ciutat de Nagqu, al nord de la regió, segons informen els mitjans oficials. Més de 1.600 persones del districte afectat s'han mobilitzat per participar en les tasques de rescat. S'han enviat subministraments d'emergència, entre els quals hi ha 1.000 habitatges prefabricats, unes 3.000 tendes de campanya i llits plegables, així com llanternes i roba d'hivern. És el sisme…",
       "url": "https://www.ara.cat/internacional/asia/terratremol-magnitud-7-sacseja-tibet-xines-deixa-almenys-16-morts-centenars-cases-destruides_1_5887752.html",
       "published": "2026-10-23T07:21:29+02:00",
       "category": "Actualitat",
@@ -13,7 +23,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Europa ha viscut l'estiu amb més morts estimades per la calor: més de 50.000",
+      "title": "Europa ha viscut l'estiu amb més morts estimades per la calor",
       "excerpt": "Barcelona és la segona ciutat, de les 850 analitzades, amb més decessos associats a l'escalfament global derivat de l'activitat humana",
       "url": "https://www.3cat.cat/3catinfo/europa-viu-lestiu-amb-mes-morts-estimades-per-la-calor/noticia/3435695/",
       "published": "2026-10-23T06:59:33+02:00",
@@ -30,6 +40,16 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/png/2/2/1792594616622.png",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Salut descarta cap risc pel virus Shamonda i diu que la transmissió a humans és “molt limitada”",
+      "excerpt": "El secretari de Salut Pública recorda que l'home infectat a França tenia una immunodepressió greu que presentava símptomes neurològics",
+      "url": "https://www.vilaweb.cat/noticies/salut-descarta-cap-risc-shamonda/",
+      "published": "2026-10-23T08:37:40+02:00",
+      "category": "Sanitat",
+      "image": null,
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -58,6 +78,76 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
+      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-10-23T08:52:51+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La 'grandeur' i la frustració de França",
+      "excerpt": "Els francesos són propensos a la protesta de carrer. Això sembla indiscutible. Però hi ha d'haver alguna cosa més, alguna cosa que expliqui una frustració pràcticament endèmica. I aquesta cosa podria estar relacionada amb el fet que França se sent especial, com un far de llum únic al món. La suposada identitat francesa , construïda, com totes, al segle XIX, es basa en la invenció de la grandeur .",
+      "url": "https://www.ara.cat/opinio/grandeur-frustracio-franca_129_5886775.html",
+      "published": "2026-10-23T08:37:01+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/32383718-f9eb-428b-b990-e966f36c2725_16-9-aspect-ratio_default_0_x2007y1484.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El pla de xoc de Sant Antoni continua amb la retirada dels bancs de formigó davant l’Escola Aldana",
+      "excerpt": "El districte de l’Eixample ha retirat els bancs de ciment del carrer d’Aldana amb la confluència del carrer del Comte Borrell “per un ús indegut”. La decisió, segons fonts municipals, s’ha pres “arran de les queixes reiterades dels veïns”. El districte va procedir a retirar-los a finals de setembre, després de consensuar-ho amb la comunitat […]",
+      "url": "https://beteve.cat/societat/pla-xoc-sant-antoni-retirada-bancs-aldana/",
+      "published": "2026-10-23T08:34:22+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/retirada-banc-aldana-1-2026-10-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Una permuta salva les cases històriques de Vilapicina i preserva els Jardins de Can Xiringoi",
+      "excerpt": "El govern de Nou Barris ha trobat la fórmula per desbloquejar dos conflictes urbanístics al barri de Vilapicina i la Torre Llobeta amb una sola jugada: l’intercanvi de qualificacions urbanístiques que no és altra cosa que la finalitat marcada per a cada terreny. Les peces són, d’una banda, l’illa de cases centenàries dels carrers de […]",
+      "url": "https://beteve.cat/societat/permuta-salva-cases-historiques-vilapicina-jardins-can-xiringoi/",
+      "published": "2026-10-23T08:12:11+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/permuta-vilapicina-torre-llobeta-can-xiringoi-cases-2026-10-22-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Afegir poc per canviar molt la casa: una reforma clàssica amb solucions revolucionàries",
+      "excerpt": "No sempre cal fer una gran reforma per canviar radicalment una casa i la vida que s’hi pot fer. A Fonolleres, un petit nucli de l’Empordà, l’estudi Anna & Eugeni Bach va partir d’un habitatge construït a principis dels anys 2000 i hi ha intervingut amb una estratègia gairebé clàssica: conservar bona part del que ja existia i afegir-hi el que hi faltava per guanyar confort i, sobretot, per adequar la casa als gustos i costums del seu propietari. El resultat, però, no és gens…",
+      "url": "https://diumenge.ara.cat/diumenge/afegir-poc-canviar-casa-reforma-classica-solucions-revolucionaries_130_5884887.html",
+      "published": "2026-10-23T08:04:44+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f2f6be6c-330a-4b2d-ab22-3de0720ab638_source-aspect-ratio_default_0_x998y899.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'instrument més singular de la cultura catalana perdura al peu del Montseny",
+      "excerpt": "El flabiol és un instrument únic al món. Una flauta curta, estreta i aguda, hereva dels instruments de vent medieval, amb cinc forats per afinar les notes. De flautes i flautins de tres forats n’hi ha arreu de la Península, a Zamora, l'Aragó o el País Basc, però de cinc forats, com el flabiol, només a Catalunya i les Illes Balears. I un dels municipis catalans on aquest instrument té més arrelament és Arbúcies, al peu del Montseny. Des del 1985 s'hi celebra la Festa…",
+      "url": "https://www.ara.cat/girona/l-instrument-mes-singular-cultura-catalana-perdura-peu-montseny_1_5884667.html",
+      "published": "2026-10-23T08:00:37+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5436e40c-d4c0-4372-838a-661dad3ee89f_source-aspect-ratio_default_0_x1014y699.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les portades del divendres 23 de octubre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-divendres-23-de-octubre-de-2026/",
+      "published": "2026-10-23T08:00:02+02:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Pedro Sánchez agafa impuls a 'La revuelta'",
       "excerpt": "Pedro Sánchez aspira a la majoria absoluta i David Broncano vol vocalitzar millor. Aquests són els dos grans anhels expressats pels protagonistes de La revuelta . És difícil dir quin dels dos ho té més complicat. Sánchez es va presentar amb un look texà, que és la nova pana dels polítics d’esquerres. Broncano es va col·locar amb sarcasme el pin d’una bandera espanyola a la solapa “ para que vean que esto va en serio ”. I en essència, l’hora i mitja d’entrevista va tenir…",
@@ -74,7 +164,7 @@
       "url": "https://www.ara.cat/llengua/no-s-arrisca-no-pisca-neix-primera-apli-lligar-catala_1_5887271.html",
       "published": "2026-10-23T07:30:13+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/d307a760-24be-4436-9e2b-5dc20b084c86_source-aspect-ratio_default_0.png",
+      "image": "https://static1.ara.cat/clip/bfd7d180-aa89-4d72-aab3-d6515890fbaf_16-9-aspect-ratio_default_0_x3323y2459.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -106,6 +196,21 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/0b44e673-0b8c-41fe-89ec-b3574a53135f_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Una millora genètica als arbres vol accelerar la producció de pinyons a Catalunya",
+      "excerpt": "A Catalunya, de les 20 tones que es collien s'ha passat a 6 en una dècada, i això ha fet pujar el preu fins als més de 100 euros que val ara mateix el quilo",
+      "url": "https://www.3cat.cat/3catinfo/una-millora-genetica-als-arbres-vol-accelerar-la-produccio-de-pinyons-a-catalunya/noticia/3435629/",
+      "published": "2026-10-23T07:01:38+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/8/1792671323784.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431988/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/una-millora-genetica-als-arbres-vol-accelerar-la-produccio-de-pinyons-a-catalunya/noticia/3435629/"
+      }
     },
     {
       "source": "ARA",

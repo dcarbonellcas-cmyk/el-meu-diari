@@ -3,6 +3,14 @@
   "pages": [
     {
       "page": 2,
+      "title": "Un terratrèmol de magnitud 7 al Tibet mata almenys 16 persones",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/terratremol-tibet-magnitud-7/",
+      "published": "2026-10-23T08:28:00+02:00",
+      "priority": "1 · Urgent"
+    },
+    {
+      "page": 3,
       "title": "Un terratrèmol de magnitud 7 sacseja el Tibet xinès i deixa almenys 16 morts i centenars de cases destruïdes",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/asia/terratremol-magnitud-7-sacseja-tibet-xines-deixa-almenys-16-morts-centenars-cases-destruides_1_5887752.html",
@@ -10,15 +18,15 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 3,
-      "title": "Europa ha viscut l'estiu amb més morts estimades per la calor: més de 50.000",
+      "page": 4,
+      "title": "Europa ha viscut l'estiu amb més morts estimades per la calor",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/europa-viu-lestiu-amb-mes-morts-estimades-per-la-calor/noticia/3435695/",
       "published": "2026-10-23T06:59:33+02:00",
       "priority": "1 · Urgent"
     },
     {
-      "page": 4,
+      "page": 5,
       "title": "Mapa de la guerra híbrida a Europa: sis mesos d'ingerències amb segell rus",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/mapa-de-la-guerra-hibrida-a-europa-sis-mesos-dingerencies-amb-segell-rus/noticia/3435414/",
@@ -26,7 +34,15 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 5,
+      "page": 6,
+      "title": "Salut descarta cap risc pel virus Shamonda i diu que la transmissió a humans és “molt limitada”",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/salut-descarta-cap-risc-shamonda/",
+      "published": "2026-10-23T08:37:40+02:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 7,
       "title": "El periodisme gironí de la Transició sota la lupa ideològica del Govern Civil",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/media/periodisme-gironi-transicio-lupa-ideologica-govern-civil_130_5883864.html",
@@ -34,7 +50,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 6,
+      "page": 8,
       "title": "La previsió de divendres: moltes estones de sol i ventades als dos extrems",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/",
@@ -47,7 +63,63 @@
       }
     },
     {
-      "page": 7,
+      "page": 9,
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-10-23T08:52:51+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 10,
+      "title": "La 'grandeur' i la frustració de França",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/grandeur-frustracio-franca_129_5886775.html",
+      "published": "2026-10-23T08:37:01+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 11,
+      "title": "El pla de xoc de Sant Antoni continua amb la retirada dels bancs de formigó davant l’Escola Aldana",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/pla-xoc-sant-antoni-retirada-bancs-aldana/",
+      "published": "2026-10-23T08:34:22+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 12,
+      "title": "Una permuta salva les cases històriques de Vilapicina i preserva els Jardins de Can Xiringoi",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/permuta-salva-cases-historiques-vilapicina-jardins-can-xiringoi/",
+      "published": "2026-10-23T08:12:11+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 13,
+      "title": "Afegir poc per canviar molt la casa: una reforma clàssica amb solucions revolucionàries",
+      "source": "ARA",
+      "articleUrl": "https://diumenge.ara.cat/diumenge/afegir-poc-canviar-casa-reforma-classica-solucions-revolucionaries_130_5884887.html",
+      "published": "2026-10-23T08:04:44+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 14,
+      "title": "L'instrument més singular de la cultura catalana perdura al peu del Montseny",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/girona/l-instrument-mes-singular-cultura-catalana-perdura-peu-montseny_1_5884667.html",
+      "published": "2026-10-23T08:00:37+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 15,
+      "title": "Les portades del divendres 23 de octubre de 2026",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-divendres-23-de-octubre-de-2026/",
+      "published": "2026-10-23T08:00:02+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 16,
       "title": "Pedro Sánchez agafa impuls a 'La revuelta'",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/media/tv/pedro-sanchez-agafa-impuls-revuelta_129_5887765.html",
@@ -55,7 +127,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 8,
+      "page": 17,
       "title": "\"Qui no s'arrisca no pisca\": neix la primera apli per lligar en català",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/llengua/no-s-arrisca-no-pisca-neix-primera-apli-lligar-catala_1_5887271.html",
@@ -63,7 +135,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 9,
+      "page": 18,
       "title": "Barcelona com a mare i com a àvia",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/critiques-literaries/barcelona-mare-avia-maria-canelles-si-fos-una-sibila_1_5881146.html",
@@ -71,7 +143,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 10,
+      "page": 19,
       "title": "Entra en vigor la reforma de les lleis de Dependència i Discapacitat: quins canvis inclou",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/entra-en-vigor-la-reforma-de-les-lleis-de-dependencia-i-discapacitat-quins-canvis-inclou/noticia/3435698/",
@@ -79,7 +151,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 11,
+      "page": 20,
       "title": "\"El pitjor que pot heretar un fill és un pare o una mare que no ha viscut la vida que volia\"",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/actualitat/douglas-stuart-pitjor-pot-heretar-fill-pare-mare-no-viscut-vida-volia_1_5851852.html",
@@ -87,7 +159,20 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 12,
+      "page": 21,
+      "title": "Una millora genètica als arbres vol accelerar la producció de pinyons a Catalunya",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/una-millora-genetica-als-arbres-vol-accelerar-la-produccio-de-pinyons-a-catalunya/noticia/3435629/",
+      "published": "2026-10-23T07:01:38+02:00",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6431988/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/una-millora-genetica-als-arbres-vol-accelerar-la-produccio-de-pinyons-a-catalunya/noticia/3435629/"
+      }
+    },
+    {
+      "page": 22,
       "title": "El Front Ampli de Colau perd una de les seves dues 'sectes'",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/front-ampli-colau-perd-seves-dues-sectes_130_5886042.html",
@@ -95,7 +180,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 13,
+      "page": 23,
       "title": "El futur dels joves a l’Afganistan: obligats a callar, sense qüestionar res",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/afganistan/futur-dels-joves-l-afganistan-obligats-callar-questionar-res_129_5887613.html",
@@ -103,7 +188,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 14,
+      "page": 24,
       "title": "La sorprenent solució a un mal endèmic del nou Camp Nou",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/barca/sorprenent-solucio-mal-endemic-nou-camp-nou_1_5887614.html",
@@ -111,7 +196,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 15,
+      "page": 25,
       "title": "El PP i Vox podrien acabar amb l'autonomia de Catalunya, tal com alerta Salvador Illa?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/pp-vox-podrien-acabar-l-autonomia-catalunya-alerta-salvador-illa_1_5886057.html",
@@ -119,7 +204,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 16,
+      "page": 26,
       "title": "\"Les ingerències de l'arquebisbat m'han produït un desànim profund\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/educacio/ingerencies-l-arquebisbat-m-han-produit-desanim-profund_128_5886942.html",
@@ -127,7 +212,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 17,
+      "page": 27,
       "title": "¿La millor pel·lícula d’animació ‘stop-motion’ de la història?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/cinema/wildwood-millor-animacio-stop-motion-historia_1_5887179.html",
@@ -135,7 +220,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 18,
+      "page": 28,
       "title": "Els ultraortodoxos, el soci incòmode que pot decidir el futur de Netanyahu",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/proxim-orient/ultraortodoxos-soci-incomode-pot-decidir-futur-netanyahu_1_5887294.html",
@@ -143,7 +228,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 19,
+      "page": 29,
       "title": "Festes a l'escola, entre globalització i identitat",
       "source": "ARA",
       "articleUrl": "https://criatures.ara.cat/criatures/festes-l-escola-globalitzacio-identitat_129_5883548.html",
@@ -151,7 +236,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 20,
+      "page": 30,
       "title": "La IA o el deute públic podria fer caure els mercats",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/empreses/ia-deute-public-caure-mercats_1_5886808.html",
@@ -159,7 +244,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 21,
+      "page": 31,
       "title": "Em prenc magnesi al matí, omega-3 a la tarda i melatonina a la nit: un 75% de la població consumeix suplements perquè creu que…",
       "source": "ARA",
       "articleUrl": "https://mengem.ara.cat/salut_i_nutricio/em-prenc-magnesi-mati-omega-3-tarda-melatonina-nit-75-poblacio-consumeix-suplements-perque-creu-aixi-envellira-be_1_5866213.html",
@@ -167,7 +252,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 22,
+      "page": 32,
       "title": "Urbanitzacions irregulars en situació límit: \"M'estan embargant per pagar l'enderroc de casa meva\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/urbanitzacions-irregulars-en-situacio-limit-mestan-embargant-per-pagar-lenderroc-de-casa-meva/noticia/3435422/",
@@ -175,7 +260,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 23,
+      "page": 33,
       "title": "Javier Giralt, reelegit president de l’Acadèmia Aragonesa de la Llengua fins el 2031",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/javier-giralt-reelegit-president-de-lacademia-aragonesa-de-la-llengua-fins-al-2031/",
@@ -183,7 +268,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 24,
+      "page": 34,
       "title": "Albert Pintat rep la Creu dels Set Braços, la màxima distinció d’Andorra",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/albert-pintat-rep-la-creu-dels-set-bracos-la-maxima-distincio-dandorra/",
