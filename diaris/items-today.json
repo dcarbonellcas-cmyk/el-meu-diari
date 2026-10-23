@@ -2,6 +2,16 @@
   "date": "2026-10-23",
   "items": [
     {
+      "source": "ARA",
+      "title": "Almenys set morts en un tiroteig dins d'una església de Jordània",
+      "excerpt": "Almenys set persones han mort i deu més han resultat ferides en un tiroteig a la governació de Karak, a Jordània, on diversos homes armats han obert foc durant un funeral en una església. Els supervivents han explicat que han sentit una explosió quan començava un funeral, després de la qual diversos homes armats i emmascarats han irromput a l'església i han començat a disparar. La televisió pública Al-Mamlaka ha informat que les forces de seguretat s'han desplegat a l'església de Hamoud i busquen dos…",
+      "url": "https://www.ara.cat/internacional/proxim-orient/almenys-set-morts-tiroteig-d-esglesia-jordania_1_5888365.html",
+      "published": "2026-10-23T16:01:09+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f0fa1153-e49f-4905-8e65-77a9201f6a5d_16-9-aspect-ratio_default_0.png",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "La fiscalia demana fins a 27 anys de presó per l’atemptat contra Vidal-Quadras i assenyala el règim iranià",
       "excerpt": "El ministeri públic acusa set persones d’haver participat en l’intent d’assassinat de l’ex-vice-president del Parlament Europeu, que va rebre un tret a la cara a Madrid el novembre del 2023",
@@ -72,6 +82,22 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de divendres: moltes estones de sol i ventades als dos extrems",
+      "excerpt": "El vent de tramuntana i mestral bufarà amb cops superiors als 90 km/h",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/",
+      "published": "2026-10-22T19:00:00+02:00",
+      "updated": "2026-10-23T16:00:45+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/2/1792746611725.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432272/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "La mobilització docent perd força: només dos de cada deu mestres vota tornar a fer vaga",
       "excerpt": "La mobilització docent es refreda. Segons la consulta que han fet aquesta setmana els sindicats USTEC, CGT, Intersindical, COS, CNT i Assemblea Educativa de Catalunya (AEC), hi ha més docents que no volen tornar a fer vaga que els que demanen una nova jornada d'aturades. Concretament, dels gairebé 33.000 professionals que han participat en la consulta —n'hi ha 96.000 al conjunt del sistema—, 16.358 han assegurat que estan disposats a fer vaga. A efectes pràctics, això implica que menys de dos de cada deu docents…",
@@ -79,6 +105,16 @@
       "published": "2026-10-23T14:53:10+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/6ad68e5a-d080-44f6-b217-41145d910b9a_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "La meitat dels docents no està disposat a seguir amb les vagues, segons l’última consulta sindical",
+      "excerpt": "Nou termòmetre educatiu dels sindicats per mesurar i valorar les forces del col·lectiu en el conflicte. Els sindicats convocants de les vagues i que continuen posicionats en contra dels acords signats, USTEC, CGT, Intersindical, COS i CNT, han dut a terme una enquesta sobre la continuïtat de la mobilització. En aquesta hi han participat 32.845 […]",
+      "url": "https://beteve.cat/societat/meitat-docents-no-vol-seguir-vagues-consulta-ustec/",
+      "published": "2026-10-23T14:49:57+02:00",
+      "category": "educació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/03/manifestacio-educacio-200326.jpeg",
       "priority": "2 · Important"
     },
     {
@@ -213,22 +249,6 @@
     },
     {
       "source": "3CatInfo · El temps",
-      "title": "La previsió de divendres: moltes estones de sol i ventades als dos extrems",
-      "excerpt": "El vent de tramuntana i mestral bufarà amb cops superiors als 90 km/h",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/",
-      "published": "2026-10-22T19:00:00+02:00",
-      "updated": "2026-10-23T11:32:07+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/5/2/1792746611725.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432115/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/"
-      },
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
       "title": "La previsió del cap de setmana: cel variable i temperatura amunt i avall",
       "excerpt": "Tindrem alguns xàfecs puntuals per començar dissabte",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/",
@@ -262,6 +282,96 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/607e26b4-2801-49b5-be5b-6ec91fdfac8e_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1916/",
+      "published": "2026-10-23T16:34:04+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Nou escàndol al món literari: un llibre escrit amb IA ha guanyat un premi literari de 20.000 euros",
+      "excerpt": "Aquest divendres s'havia de presentar a Madrid l'obra guanyadora del primer Premi Internacional de Novel·la Breu Almadía Ventosa-Arrufat, dotat amb 20.000 euros, al qual optaven 2.204 manuscrits. El jurat format per tres autores de renom, Cristina Rivera Garza , Selva Almada i Mónica Ojeda havia escollit Donde el agua trabaja , primera novel·la de l'advocat peruà David Silva Rojas (Ica, 1981).",
+      "url": "https://llegim.ara.cat/actualitat/escandol-mon-literari-llibre-escrit-ia-premi-literari-20-000_1_5888360.html",
+      "published": "2026-10-23T16:27:41+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b32f7a54-0f1e-424d-a2dd-46eec6964690_16-9-aspect-ratio_default_1025234.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El full de ruta del CN Sant Andreu a la fase prèvia de la Conference Cup masculina de waterpolo",
+      "excerpt": "Després del gran paper que va fer la temporada passada, el Club Natació Sant Andreu va aconseguir el dret a disputar la Conference Cup, la tercera competició masculina del waterpolo europeu. El conjunt de Juan Carlos Sanchón inicia la competició disputant la fase prèvia i amb l’objectiu d’acabar entre els dos primers del seu grup. […]",
+      "url": "https://beteve.cat/esports/full-ruta-cn-sant-andreu-conference-cup/",
+      "published": "2026-10-23T16:25:53+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/sant-andreu-cami-conference-26-27-2026-09-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els dos acusats falsament d’un robatori mortal a Burgos van als tribunals: “El perdó no ens serveix”",
+      "excerpt": "Un estudiant de Barcelona i un taxista de Manresa van ser acusats a les xarxes socials com els autors de l’assassinat d’una dona de vuitanta-tres anys, tot i que no hi tenien cap vinculació",
+      "url": "https://www.vilaweb.cat/noticies/joves-falsament-robatori-mortal-burgos-tribunals/",
+      "published": "2026-10-23T16:22:21+02:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Europa i Espanyol tenen ja tancat l’acord perquè el derbi contra el Sant Andreu es jugui a Cornellà",
+      "excerpt": "El derbi entre l’Europa i el Sant Andreu del proper 14 novembre es disputarà a l’RCDE Stadium si la RFEF hi dona el vistiplau. Àlex López Vendrell, vicepresident del CE Europa, ha confirmat a La porteria, de betevé, que l’acord amb l’Espanyol està tancat perquè el derbi entre escapulats i quadribarrats sigui una festa i […]",
+      "url": "https://beteve.cat/esports/europa-tanca-acord-espanyol-derbi-sant-andreu-cornella-accepta-rfef/",
+      "published": "2026-10-23T16:21:49+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/europa-sant-andreu-derbi-estadi-espanyol-2026-10-23-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Noves mobilitzacions a Perpinyà entre prohibicions, queda nocturna i un fort desplegament policíac",
+      "excerpt": "Els jupetins grocs mantenen les protestes, amb convocatòries als peatges de la A9 i en més punts de la ciutat, malgrat les restriccions imposades per la prefectura",
+      "url": "https://www.vilaweb.cat/noticies/noves-mobilitzacions-a-perpinya-entre-prohibicions-queda-nocturna-i-un-fort-desplegament-policiac/",
+      "published": "2026-10-23T16:08:11+02:00",
+      "category": "Catalunya Nord",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Liceu homenatjarà Paco Ibáñez amb un concert amb Serrat, Maria del Mar Bonet i Marina Rossell",
+      "excerpt": "El 24 de novembre, el cantautor celebrarà la seva trajectòria envoltat de músics, poetes i artistes de diverses generacions",
+      "url": "https://www.3cat.cat/3catinfo/el-liceu-homenatjara-paco-ibanez-amb-un-concert-amb-serrat-maria-del-mar-bonet-i-marina-rossell/noticia/3435761/",
+      "published": "2026-10-23T15:59:07+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/9/1792748515492.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Alerten que “hi haurà més suïcidis” per Meta: “Ningú no està preparat per ser moderador”",
+      "excerpt": "Abús de menors, violacions, assassinats i suïcidis en directe. Aquests són els continguts als quals s’exposaven diàriament els moderadors de contingut de Meta que treballaven a la Torre Glòries. Tot plegat, expliquen, els ha provocat importants seqüeles psicològiques i físiques, fins a tal punt que quatre persones s’han tret la vida. El cas més recent […]",
+      "url": "https://beteve.cat/societat/alerten-moderadors-meta-mes-suicidis-advocat-extreballadors/",
+      "published": "2026-10-23T15:55:00+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/08/xarxes-socials-meta-080425-2026-08-28-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Cauen els lladres que robaven el coure dels molins eòlics de Catalunya",
+      "excerpt": "Venien a Catalunya, s'arribaven a un parc eòlic, robaven el coure dels molins i fugien ràpidament del país. Aquest era el mètode d'un grup criminal desmantellat pels Mossos d'Esquadra amb quatre detencions de persones d'entre 32 i 41 anys que haurien comès dotze robatoris, vuit dels quals a les demarcacions de Tarragona i Lleida —els restants van ser al País Valencià i a l'Aragó—. El cap de la Divisió d'Investigació Criminal (DIC) del Camp de Tarragona, Marc Bayón, s'ha mostrat sorprès perquè cap dels quatre…",
+      "url": "https://www.ara.cat/societat/successos/cauen-lladres-robaven-coure-dels-molins-eolics-catalunya_1_5888206.html",
+      "published": "2026-10-23T15:53:48+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8e08f041-61ee-41be-a1a5-e8104ff51407_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -404,6 +514,21 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "En dius turó, tossal o tuc? Els nous mapes que mostren la diversitat dialectal del català",
+      "excerpt": "L'Institut Cartogràfic i Geològic de Catalunya recull les variants toponímiques del país per preservar un patrimoni lingüístic i cultural que es pot perdre",
+      "url": "https://www.3cat.cat/3catinfo/en-dius-turo-tossal-o-tuc-els-nous-mapes-que-mostren-la-diversitat-dialectal-del-catala/noticia/3434442/",
+      "published": "2026-10-23T14:11:53+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/8/1792747979189.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432183/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/en-dius-turo-tossal-o-tuc-els-nous-mapes-que-mostren-la-diversitat-dialectal-del-catala/noticia/3434442/"
+      }
+    },
+    {
       "source": "betevé",
       "title": "Maria Climent: “L’única cosa irreversible és tenir fills”",
       "excerpt": "A Punt de no retorn (L’Altra editorial), la tercera novel·la publicada per Maria Climent, després de Gina i A casa teníem un himne, l’autora explora la “crisi dels 40 galopant” per la que està passant Júlia, una dona “molt cremada de la maternitat, la criança, la rutina, el matrimoni i pensa que és el normal”, […]",
@@ -520,7 +645,7 @@
       "url": "https://www.3cat.cat/3catinfo/un-mort-i-quatre-ferits-en-un-tiroteig-als-afores-de-paris-que-sinvestiga-com-a-acte-terrorista/noticia/3435789/",
       "published": "2026-10-23T13:29:54+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/2/1792754906120.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/4/1792764824742.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -636,11 +761,11 @@
     {
       "source": "ARA",
       "title": "La Fiscalia demana imputar Zapatero per malversació per les joies de l'Aràbia Saudita",
-      "excerpt": "Moviments de pes al cas Plus Ultra. La Fiscalia Anticorrupció ha sol·licitat formalment la imputació de José Luis Rodríguez Zapatero també per malversació per haver-se quedat les joies que el 2007 li va regalar el rei de l'Aràbia Saudita , segons consta a l'escrit a què ha tingut accés l'ARA. Va ser l'expresident espanyol qui fa un mes va assegurar al jutge que aquest era l'origen de les joies de més valor que la UDEF va trobar al seu despatx el passat mes de maig.…",
+      "excerpt": "Moviments de pes al cas Plus Ultra. La Fiscalia Anticorrupció ha sol·licitat formalment la imputació de José Luis Rodríguez Zapatero per malversació per haver-se quedat les joies que li va regalar el rei de l'Aràbia Saudita el 2007 durant una visita oficial a Espanya, segons consta a l'escrit a què ha tingut accés l'ARA. Va ser l'expresident espanyol qui fa un mes va assegurar al jutge que aquest era l'origen de les joies de més valor que la UDEF va trobar al seu despatx el…",
       "url": "https://www.ara.cat/politica/leire-diez-querella-pp-pel-video-fet-ia-li-suplanten-identitat_1_5888092.html",
       "published": "2026-10-23T12:43:38+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/004761d5-0279-4b4f-bcf5-3102c52aa8d1_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/004761d5-0279-4b4f-bcf5-3102c52aa8d1_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1165,7 +1290,7 @@
       "url": "https://www.ara.cat/societat/educacio/ingerencies-l-arquebisbat-m-han-produit-desanim-profund_128_5886942.html",
       "published": "2026-10-23T07:00:42+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/d7c3cd50-1d15-4728-8364-c3a4b5c17613_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/b5e2d33f-ffe0-4342-99ef-736955921aa7_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1210,7 +1335,7 @@
     },
     {
       "source": "ARA",
-      "title": "Prenc magnesi al matí, omega-3 a la tarda i melatonina a la nit: un 75% de la població consumeix suplements perquè creu que així…",
+      "title": "El que la indústria vol que prenguis, i el que la ciència diu que no fa cap falta",
       "excerpt": "Com que volem envellir bé, hem assumit per ciència infusa que hem de prendre suplements: magnesi al matí, creatina i vitamina D a la tarda i melatonina a la nit per dormir millor. I ens els prenem perquè hem sentit dir que van bé per envellir amb salut. Potser ens ho han explicat els amics, o bé ho hem llegit a les xarxes socials, però el que hem oblidat és que si menges de forma saludable, que vol dir amb verdures i fruites, llegums, peix,…",
       "url": "https://mengem.ara.cat/salut_i_nutricio/em-prenc-magnesi-mati-omega-3-tarda-melatonina-nit-75-poblacio-consumeix-suplements-perque-creu-aixi-envellira-be_1_5866213.html",
       "published": "2026-10-23T07:00:39+02:00",
