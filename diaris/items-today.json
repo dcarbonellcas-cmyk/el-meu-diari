@@ -2,6 +2,16 @@
   "date": "2026-10-23",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "El govern francès qualifica d’atemptat terrorista un tiroteig a Yvelines, als afores de París",
+      "excerpt": "L'atacant ha causat un mort i quatre ferits, entre els quals, una nena",
+      "url": "https://www.vilaweb.cat/noticies/govern-frances-qualifica-atemptat-terrorista-tiroteig-yvelines/",
+      "published": "2026-10-23T17:31:25+02:00",
+      "category": "França",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "Almenys set morts en un tiroteig dins d'una església de Jordània",
       "excerpt": "Almenys set persones han mort i deu més han resultat ferides en un tiroteig a la governació de Karak, a Jordània, on diversos homes armats han obert foc durant un funeral en una església. Els supervivents han explicat que han sentit una explosió quan començava un funeral, després de la qual diversos homes armats i emmascarats han irromput a l'església i han començat a disparar. La televisió pública Al-Mamlaka ha informat que les forces de seguretat s'han desplegat a l'església de Hamoud i busquen dos…",
@@ -87,19 +97,44 @@
       "excerpt": "El vent de tramuntana i mestral bufarà amb cops superiors als 90 km/h",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/",
       "published": "2026-10-22T19:00:00+02:00",
-      "updated": "2026-10-23T16:00:45+02:00",
+      "updated": "2026-10-23T17:22:59+02:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/5/2/1792746611725.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/3/1792768961732.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432272/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6432279/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/"
       },
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "Lloguers de 60.000 euros per un restaurant a Barcelona: gremi i ajuntament plantegen topalls",
+      "excerpt": "Els lloguers desorbitats obliguen restaurants a tancar, mentre l'Ajuntament de Barcelona planteja regular-los i posar-hi un topall com en l'habitatge",
+      "url": "https://www.3cat.cat/3catinfo/lloguers-de-60000-euros-per-un-restaurant-a-barcelona-gremi-i-ajuntament-plantegen-topalls/noticia/3435717/",
+      "published": "2026-10-23T16:57:53+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/2/1673188386229.jpg",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432210/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/lloguers-de-60000-euros-per-un-restaurant-a-barcelona-gremi-i-ajuntament-plantegen-topalls/noticia/3435717/"
+      }
+    },
+    {
+      "source": "betevé",
+      "title": "La Policia alerta sobre els “curis”: comptes anònimes a xarxes que humilien alumnes i professors",
+      "excerpt": "Fa temps que l’assetjament escolar no acaba en finalitzar l’escola i s’amaga, sovint, darrere de comptes anònims a les xarxes. Ara, la Policia Nacional ha alertat d’un altre mètode de ciberassetjament: es tracta dels curis, comptes anònims i principalment de TikTok que pengen dibuixos o vídeos en què es recreen escenes escolars quotidianes. Fins ara, […]",
+      "url": "https://beteve.cat/societat/alerta-curis-nou-ciberassetjament/",
+      "published": "2026-10-23T16:10:33+02:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/infant_pantalla-2026-10-23.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
-      "title": "La mobilització docent perd força: només dos de cada deu mestres vota tornar a fer vaga",
+      "title": "La mobilització docent perd força: només dos de cada deu mestres voten tornar a fer vaga",
       "excerpt": "La mobilització docent es refreda. Segons la consulta que han fet aquesta setmana els sindicats USTEC, CGT, Intersindical, COS, CNT i Assemblea Educativa de Catalunya (AEC), hi ha més docents que no volen tornar a fer vaga que els que demanen una nova jornada d'aturades. Concretament, dels gairebé 33.000 professionals que han participat en la consulta —n'hi ha 96.000 al conjunt del sistema—, 16.358 han assegurat que estan disposats a fer vaga. A efectes pràctics, això implica que menys de dos de cada deu docents…",
       "url": "https://www.ara.cat/societat/educacio/mobilitzacio-docent-perd-forca-nomes-deu-mestres-vota-tornar-vaga_1_5888136.html",
       "published": "2026-10-23T14:53:10+02:00",
@@ -284,6 +319,66 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "\"Pesteta\", \"fardatxo\", \"catxel\"... Un concurs de paraules de les Terres de l'Ebre al Festival de les Varietats Dialectals",
+      "excerpt": "Tortosa acull la segona edició del festival Posa-hi Tu l'Accent, que vol potenciar i prestigiar els parlars locals de la llengua catalana",
+      "url": "https://www.3cat.cat/3catinfo/pesteta-fardatxo-catxel-un-concurs-de-paraules-de-les-terres-de-lebre-al-festival-de-les-varietats-dialectals/noticia/3435791/",
+      "published": "2026-10-23T17:45:27+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/7/1792754615572.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432224/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/pesteta-fardatxo-catxel-un-concurs-de-paraules-de-les-terres-de-lebre-al-festival-de-les-varietats-dialectals/noticia/3435791/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Virus Shamonda: els ramaders gironins estan tranquils i creuen que la majoria de granges ja l'han passat",
+      "excerpt": "El virus s'ha detectat en vaques de tres granges de la Selva i, tot i que no afecta el consum dels productes derivats, provoca una davallada temporal de la producció de llet",
+      "url": "https://www.3cat.cat/3catinfo/virus-shamonda-els-ramaders-gironins-estan-tranquils-i-creuen-que-la-majoria-de-granges-ja-lhan-passat/noticia/3435764/",
+      "published": "2026-10-23T17:30:42+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/0/1792751209203.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432204/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/virus-shamonda-els-ramaders-gironins-estan-tranquils-i-creuen-que-la-majoria-de-granges-ja-lhan-passat/noticia/3435764/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "Cap de setmana aprofitable, però amb matisos",
+      "excerpt": "La calma dels últims dies tindrà continuïtat el cap de setmana, ja que ens trobem sota els efectes de l’anticicló de les Açores. No obstant això, continuaran arribant cues de fronts molt desgastats associats a potents i llunyanes borrasques atlàntiques que provocaran petits canvis. Per exemple, la nit de dissabte a diumenge cauran alguns ruixats entre la Costa Brava i el litoral de Barcelona, així com a la cara nord del Pirineu. La resta del dia dominarà la variabilitat, amb ambient més fresc, mentre que…",
+      "url": "https://www.ara.cat/previsions/cap-setmana-aprofitable-matisos_1_5888419.html",
+      "published": "2026-10-23T17:30:05+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fa089945-7218-41bf-8b09-1727e7dd86a3_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Joan Garcia es mulla al test sobre els companys del Barça: el més presumit, competitiu, cabut…",
+      "excerpt": "Joan Garcia s’ha sotmès a un test ràpid al final de l’entrevista que li ha fet La porteria de betevé en exclusiva i s’ha mullat en totes les respostes. El porter blaugrana ha anomenat el jugador més ràpid, el que és millor persona, el més garrepa i el més competitiu, entre d’altres. “El més competitiu […]",
+      "url": "https://beteve.cat/esports/joan-garcia-tria-jugador-barca-mes-garrepa-mes-competitiu/",
+      "published": "2026-10-23T17:24:28+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/joan-garcia-test-rapid-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Accident entre un tramvia i un cotxe a la Diagonal",
+      "excerpt": "Ensurt aquest divendres a la Diagonal, a l’altura de la plaça de les Glòries. Un accident entre un cotxe i un tramvia han topat poc després de les tres de la tarda. La topada ha obligat a suspendre la circulació de combois entre les parades de Glòries i Ciutadella – Vila Olímpica, durant trenta minuts. […]",
+      "url": "https://beteve.cat/societat/accident-tramvia-cotxe-diagonal-servei-alterat/",
+      "published": "2026-10-23T16:44:31+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/accident-glories-231026-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "La porteria",
       "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
@@ -296,7 +391,7 @@
     {
       "source": "ARA",
       "title": "Nou escàndol al món literari: un llibre escrit amb IA ha guanyat un premi literari de 20.000 euros",
-      "excerpt": "Aquest divendres s'havia de presentar a Madrid l'obra guanyadora del primer Premi Internacional de Novel·la Breu Almadía Ventosa-Arrufat, dotat amb 20.000 euros, al qual optaven 2.204 manuscrits. El jurat format per tres autores de renom, Cristina Rivera Garza , Selva Almada i Mónica Ojeda havia escollit Donde el agua trabaja , primera novel·la de l'advocat peruà David Silva Rojas (Ica, 1981).",
+      "excerpt": "Aquest divendres s'havia de presentar a Madrid l'obra guanyadora del primer Premi Internacional de Novel·la Breu Almadía - Ventosa Arrufat, dotat amb 20.000 euros, al qual optaven 2.204 manuscrits. El jurat, format per tres autores de renom, Cristina Rivera Garza , Selva Almada i Mónica Ojeda, havia escollit Donde el agua trabaja , primera novel·la de l'advocat peruà David Silva Rojas (Ica, 1981).",
       "url": "https://llegim.ara.cat/actualitat/escandol-mon-literari-llibre-escrit-ia-premi-literari-20-000_1_5888360.html",
       "published": "2026-10-23T16:27:41+02:00",
       "category": "Actualitat",
@@ -311,6 +406,16 @@
       "published": "2026-10-23T16:25:53+02:00",
       "category": "esports",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/09/sant-andreu-cami-conference-26-27-2026-09-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Un Triatló sense contratemps meteorològics però amb una mica de vent lateral",
+      "excerpt": "Aquest diumenge se celebra el Triatló de Barcelona 2026. La prova s’iniciarà a primera hora del matí i s’allargarà fins el migdia. El temps no sembla que hagi de ser un impediment per a la prova, però en un esdeveniment que uneix natació, ciclisme i atletisme sempre hi ha detalls que poden marcar la diferència. […]",
+      "url": "https://beteve.cat/medi-ambient/triatlo-barcelona-2026-previsio-temps/",
+      "published": "2026-10-23T16:22:30+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Triatlo_Barcelona_previsio_temps-2026-2026-10-23.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -334,6 +439,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Joan Garcia demana prudència abans del Barça-Madrid: “Seria un error creure que sentenciem la Lliga”",
+      "excerpt": "Joan Garcia té clar que una victòria del Barça contra el Reial Madrid al clàssic no significaria tenir la Lliga sentenciada. En una entrevista a betevé, el porter blaugrana ha volgut rebaixar l’eufòria abans del duel contra els blancs i ha assegurat que “seria un error pensar que si guanyem sentenciem la Lliga, els títols […]",
+      "url": "https://beteve.cat/esports/joan-garcia-guanyar-madrid-no-sentenciem-lliga-classic-barca/",
+      "published": "2026-10-23T16:20:46+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/231026pgjoangarcia231026pgjoangarciaOK_4-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Noves mobilitzacions a Perpinyà entre prohibicions, queda nocturna i un fort desplegament policíac",
       "excerpt": "Els jupetins grocs mantenen les protestes, amb convocatòries als peatges de la A9 i en més punts de la ciutat, malgrat les restriccions imposades per la prefectura",
@@ -342,6 +457,21 @@
       "category": "Catalunya Nord",
       "image": null,
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Robatoris de coure també en parcs eòlics: cau un grup que operava a Vandellòs i altres punts",
+      "excerpt": "Els Mossos els atribueixen robatoris també a Lleida, Castelló i Saragossa, i han destacat la importància d'actuar contra els compradors de material sostret",
+      "url": "https://www.3cat.cat/3catinfo/robatoris-de-coure-tambe-en-parcs-eolics-cau-un-grup-que-operava-a-vandellos-i-altres-punts/noticia/3435769/",
+      "published": "2026-10-23T16:05:26+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/6/1792755586169.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432205/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/robatoris-de-coure-tambe-en-parcs-eolics-cau-un-grup-que-operava-a-vandellos-i-altres-punts/noticia/3435769/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -521,12 +651,12 @@
       "published": "2026-10-23T14:11:53+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/8/1792747979189.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432183/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/en-dius-turo-tossal-o-tuc-els-nous-mapes-que-mostren-la-diversitat-dialectal-del-catala/noticia/3434442/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -680,8 +810,8 @@
     },
     {
       "source": "ARA",
-      "title": "El Suprem amenaça amb multar la Moncloa si no lliura els 160.000 noms afectats per la 'llei de nets'",
-      "excerpt": "El Tribunal Suprem accentua en el conflicte amb el govern espanyol pel vot dels nacionalitzats amb la llei de nets . L'alt tribunal ha donat un termini de cinc dies als ministres de Justícia, Félix Bolaños, i d'Exteriors, José Manuel Albares, perquè entreguin la llista de les 163.020 persones afectades per la suspensió del vot de cara a les espanyoles del 29-N, i que aquest dimecres va mantenir el Tribunal Constitucional (TC) . I els amenaça amb una possible multa o fins i tot accions…",
+      "title": "El Suprem amenaça amb multar la Moncloa si no lliura els 160.000 noms afectats per la ‘llei de nets’",
+      "excerpt": "El Tribunal Suprem eleva el to en el conflicte amb el govern espanyol pel vot dels nacionalitzats amb la llei de nets . L'alt tribunal ha donat un termini de cinc dies als ministres José Manuel Albares i Félix Bolaños perquè entreguin la llista de les 163.020 persones afectades per la suspensió del vot de cara a les eleccions espanyoles del 29-N. Han d'enviar-la al Suprem, a la Junta Electoral Central i a l'Oficina del Cens Electoral, i tenen temps per fer-ho fins al dimecres…",
       "url": "https://www.ara.cat/politica/eleccions-generals/suprem-amenaca-multar-moncloa-no-lliura-160-000-noms-afectats-llei-nets_1_5888135.html",
       "published": "2026-10-23T13:18:21+02:00",
       "category": "Actualitat",
