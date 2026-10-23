@@ -51,6 +51,22 @@
     },
     {
       "page": 8,
+      "title": "El Parlament Europeu confirma que Toni Comín ja és eurodiputat",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/parlament-europeu-comin-confirma-eurodiputat/",
+      "published": "2026-10-23T12:30:54+02:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 9,
+      "title": "Famílies de l’Escola el Turó es neguen a pagar les quotes i demanen més diners per a la pública",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/families-escola-el-turo-deixen-pagar-quotes/",
+      "published": "2026-10-23T11:46:13+02:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 10,
       "title": "La previsió de divendres: moltes estones de sol i ventades als dos extrems",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/",
@@ -63,7 +79,7 @@
       }
     },
     {
-      "page": 9,
+      "page": 11,
       "title": "La previsió del cap de setmana: cel variable i temperatura amunt i avall",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/",
@@ -76,7 +92,7 @@
       }
     },
     {
-      "page": 10,
+      "page": 12,
       "title": "Salut descarta cap risc pel virus Shamonda i diu que la transmissió a humans és “molt limitada”",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/salut-descarta-cap-risc-shamonda/",
@@ -84,7 +100,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 11,
+      "page": 13,
       "title": "El periodisme gironí de la Transició sota la lupa ideològica del Govern Civil",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/media/periodisme-gironi-transicio-lupa-ideologica-govern-civil_130_5883864.html",
@@ -92,15 +108,111 @@
       "priority": "2 · Important"
     },
     {
-      "page": 12,
-      "title": "Mercats de cap de setmana a Barcelona, fires i festes del 2026: agenda amb horaris",
+      "page": 14,
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
       "source": "betevé",
-      "articleUrl": "https://beteve.cat/agenda/mercats-del-cap-de-setmana-barcelona/",
-      "published": "2026-10-23T11:43:45+02:00",
+      "articleUrl": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-10-23T12:29:10+02:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 13,
+      "page": 15,
+      "title": "Sabies que… Fas 6 anys? Tria el llibre que més t’agradi",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/catakrac/fas-6-anys-tria-un-llibre-recomanar/",
+      "published": "2026-10-23T12:24:39+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 16,
+      "title": "Rècords d'ocupació hotelera a Catalunya tot i l'augment de preus",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/economia/aerolinies/records-d-ocupacio-hotelera-catalunya-l-augment-preus_1_5887972.html",
+      "published": "2026-10-23T12:24:03+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 17,
+      "title": "Netanyahu ordena el tancament immediat d’Hebron i prepara el blocatge de tot Cisjordània",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/netanyahu-tancament-immediat-hebron-blocatge-cisjordania/",
+      "published": "2026-10-23T12:15:27+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 18,
+      "title": "‘Matemàgia’ amb el mag Stigman",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/catakrac/matemagia-amb-el-mag-stigman/",
+      "published": "2026-10-23T12:13:15+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 19,
+      "title": "Què fer amb nens a Barcelona? Activitats i plans en família",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/que-fer-amb-nens-a-barcelona/",
+      "published": "2026-10-23T12:04:20+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 20,
+      "title": "Sánchez arrasa a \"La Revuelta\" i manté l'esperança del PSOE",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/analisi/sanchez-arrasa-revuelta-mante-l-esperanca-psoe_1_5888057.html",
+      "published": "2026-10-23T12:02:49+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 21,
+      "title": "15 anys del Catakrac: Quan opinàvem sobre qui diu més paraulotes",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/catakrac/qui-diu-mes-paraulotes/",
+      "published": "2026-10-23T12:01:08+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 22,
+      "title": "L’ERC de Rufián",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/l-erc-rufian_129_5887146.html",
+      "published": "2026-10-23T12:00:39+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 23,
+      "title": "El petó de Lamine Yamal i Mbappé abans del clàssic, el nou mural de TVBoy",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/cultura/peto-lamine-yamal-mbappe-nou-mural-tvboy/",
+      "published": "2026-10-23T11:57:12+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 24,
+      "title": "Mercats de cap de setmana a Barcelona, fires i festes del 2026: agenda amb horaris",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/mercats-del-cap-de-setmana-barcelona/",
+      "published": "2026-10-23T11:55:26+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 25,
+      "title": "La importància d’una bona higiene bucal",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/catakrac/dentistes-higiene-bucal-escola-pia-sabadell/",
+      "published": "2026-10-23T11:55:23+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 26,
+      "title": "Asens diu que el van vetar com a ministre espanyol per haver ajudat Comín a exiliar-se",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/asens-vetar-ministre-espanyol-ajudat-comin-exili/",
+      "published": "2026-10-23T11:46:04+02:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 27,
       "title": "Quants anys de sou calen per comprar un pis de 90 m² a Barcelona?",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/quants-anys-sou-calen-comprar-pis-barcelona/",
@@ -108,7 +220,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 14,
+      "page": 28,
       "title": "El menú del dia puja a 15,70 euros i és un dels més cars de l'Estat",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/el-menu-del-dia-puja-a-15-70-euros-i-es-un-dels-mes-cars-de-lestat/noticia/3435732/",
@@ -116,7 +228,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 15,
+      "page": 29,
       "title": "Rosalía guanya tres premis Billboard llatins en una gala en què triomfen Fuerza Regida i Bad Bunny",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/rosalia-guanya-tres-premis-billboard-llatins-en-una-gala-en-que-triomfen-fuerza-regida-i-bad-bunny/noticia/3435723/",
@@ -124,7 +236,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 16,
+      "page": 30,
       "title": "Netanyahu ordena tancar Cisjordània després d'un atac palestí",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/proxim-orient/netanyahu-ordena-tancar-cisjordania-despres-d-atac-palesti_1_5888034.html",
@@ -132,15 +244,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 17,
-      "title": "Què fer amb nens a Barcelona? Activitats i plans en família",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/agenda/que-fer-amb-nens-a-barcelona/",
-      "published": "2026-10-23T11:18:59+02:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 18,
+      "page": 31,
       "title": "El jutge torna a citar a declarar les activistes antiturisme de Santa Maria del Camí",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/jutge-torna-a-citar-activistes-antiturisme/",
@@ -148,7 +252,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 19,
+      "page": 32,
       "title": "Bon dia Barcelona",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-161/",
@@ -156,7 +260,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 20,
+      "page": 33,
       "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
@@ -164,7 +268,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 21,
+      "page": 34,
       "title": "Exposicions a Barcelona: la teva agenda de museus",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
@@ -172,7 +276,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 22,
+      "page": 35,
       "title": "El festival Escena Poblenou celebra un quart de segle",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/cultura/festival-escena-poblenou-celebra-25-anys/",
@@ -180,7 +284,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 23,
+      "page": 36,
       "title": "Les obres per completar la connexió del tramvia per la Diagonal començaran a l'estiu",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/barcelona/obres-completar-connexio-tramvia-diagonal-comencaran-l-estiu_1_5887971.html",
@@ -188,15 +292,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 24,
-      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-10-23T10:31:25+02:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 25,
+      "page": 37,
       "title": "Mahler per obrir la nova temporada d'Ibercamera",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/musica/mahler-obrir-nova-temporada-ibercamera-auditori-adam-fischer_1_5887750.html",
@@ -204,7 +300,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 26,
+      "page": 38,
       "title": "On hi ha parades de castanyes a Barcelona 2026? Totes les castanyeres i punts de venda | MAPA",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/castanyes-barcelona-parades/",
@@ -212,7 +308,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 27,
+      "page": 39,
       "title": "Les obres de connexió del tramvia per la Diagonal ja tenen data: començaran aquest estiu",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/politica/collboni-obres-connexio-tramvia-diagonal-inici-estiu/",
@@ -220,7 +316,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 28,
+      "page": 40,
       "title": "Feijóo promet reobrir el debat de l'avortament i reformar la llei d'eutanàsia",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/feijoo-promet-reobrir-debat-l-avortament-reformar-llei-d-eutanastia_1_5887950.html",
@@ -228,7 +324,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 29,
+      "page": 41,
       "title": "Feijóo qüestiona el dret d’avortament de les menors d’edat",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/feijoo-avortament-pre-campanya-electoral-16-anys/",
@@ -236,7 +332,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 30,
+      "page": 42,
       "title": "Mor Ryu Murakami, l'escriptor japonès del sexe i la violència",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/actualitat/mor-ryu-murakami-l-escriptor-japones-sexe-violencia_1_5887934.html",
@@ -244,7 +340,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 31,
+      "page": 43,
       "title": "Una avaria als FGC obliga a circular per via única a un tram de la línia Llobregat-Anoia",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/avaria-fgc-via-unica-llobregat-anoia/",
@@ -252,7 +348,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 32,
+      "page": 44,
       "title": "Dos accidents múltiples afecten l'AP-7 i la C-58 i un camió bolca i obliga a tallar una hora la C-55",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/un-accident-multiple-amb-un-cotxe-incendiat-talla-dos-carrils-a-lap-7-a-sant-cugat-en-sentit-girona/noticia/3435718/",
@@ -260,7 +356,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 33,
+      "page": 45,
       "title": "La 'grandeur' i la frustració de França",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/opinio/grandeur-frustracio-franca_129_5886775.html",
@@ -268,7 +364,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 34,
+      "page": 46,
       "title": "El pla de xoc de Sant Antoni continua amb la retirada dels bancs de formigó davant l’Escola Aldana",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/pla-xoc-sant-antoni-retirada-bancs-aldana/",
@@ -276,7 +372,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 35,
+      "page": 47,
       "title": "Una permuta salva les cases històriques de Vilapicina i preserva els Jardins de Can Xiringoi",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/permuta-salva-cases-historiques-vilapicina-jardins-can-xiringoi/",
@@ -284,7 +380,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 36,
+      "page": 48,
       "title": "Afegir poc per canviar molt la casa: una reforma clàssica amb solucions revolucionàries",
       "source": "ARA",
       "articleUrl": "https://diumenge.ara.cat/diumenge/afegir-poc-canviar-casa-reforma-classica-solucions-revolucionaries_130_5884887.html",
@@ -292,7 +388,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 37,
+      "page": 49,
       "title": "L'instrument més singular de la cultura catalana perdura al peu del Montseny",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/girona/l-instrument-mes-singular-cultura-catalana-perdura-peu-montseny_1_5884667.html",
@@ -300,7 +396,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 38,
+      "page": 50,
       "title": "Les portades del divendres 23 de octubre de 2026",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-divendres-23-de-octubre-de-2026/",
@@ -308,7 +404,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 39,
+      "page": 51,
       "title": "Pedro Sánchez agafa impuls a 'La revuelta'",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/media/tv/pedro-sanchez-agafa-impuls-revuelta_129_5887765.html",
@@ -316,7 +412,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 40,
+      "page": 52,
       "title": "\"Qui no s'arrisca no pisca\": neix la primera apli per lligar en català",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/llengua/no-s-arrisca-no-pisca-neix-primera-apli-lligar-catala_1_5887271.html",
@@ -324,7 +420,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 41,
+      "page": 53,
       "title": "Barcelona com a mare i com a àvia",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/critiques-literaries/barcelona-mare-avia-maria-canelles-si-fos-una-sibila_1_5881146.html",
@@ -332,7 +428,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 42,
+      "page": 54,
       "title": "Entra en vigor la reforma de les lleis de Dependència i Discapacitat: quins canvis inclou",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/entra-en-vigor-la-reforma-de-les-lleis-de-dependencia-i-discapacitat-quins-canvis-inclou/noticia/3435698/",
@@ -340,7 +436,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 43,
+      "page": 55,
       "title": "\"El pitjor que pot heretar un fill és un pare o una mare que no ha viscut la vida que volia\"",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/actualitat/douglas-stuart-pitjor-pot-heretar-fill-pare-mare-no-viscut-vida-volia_1_5851852.html",
@@ -348,7 +444,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 44,
+      "page": 56,
       "title": "Una millora genètica als arbres vol accelerar la producció de pinyons a Catalunya",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/una-millora-genetica-als-arbres-vol-accelerar-la-produccio-de-pinyons-a-catalunya/noticia/3435629/",
@@ -361,7 +457,7 @@
       }
     },
     {
-      "page": 45,
+      "page": 57,
       "title": "El Front Ampli de Colau perd una de les seves dues 'sectes'",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/front-ampli-colau-perd-seves-dues-sectes_130_5886042.html",
@@ -369,7 +465,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 46,
+      "page": 58,
       "title": "El futur dels joves a l’Afganistan: obligats a callar, sense qüestionar res",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/afganistan/futur-dels-joves-l-afganistan-obligats-callar-questionar-res_129_5887613.html",
@@ -377,7 +473,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 47,
+      "page": 59,
       "title": "La sorprenent solució a un mal endèmic del nou Camp Nou",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/barca/sorprenent-solucio-mal-endemic-nou-camp-nou_1_5887614.html",
@@ -385,7 +481,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 48,
+      "page": 60,
       "title": "El PP i Vox podrien acabar amb l'autonomia de Catalunya, tal com alerta Salvador Illa?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/pp-vox-podrien-acabar-l-autonomia-catalunya-alerta-salvador-illa_1_5886057.html",
@@ -393,7 +489,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 49,
+      "page": 61,
       "title": "\"Les ingerències de l'arquebisbat m'han produït un desànim profund\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/educacio/ingerencies-l-arquebisbat-m-han-produit-desanim-profund_128_5886942.html",
@@ -401,7 +497,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 50,
+      "page": 62,
       "title": "¿La millor pel·lícula d’animació ‘stop-motion’ de la història?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/cinema/wildwood-millor-animacio-stop-motion-historia_1_5887179.html",
@@ -409,7 +505,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 51,
+      "page": 63,
       "title": "Els ultraortodoxos, el soci incòmode que pot decidir el futur de Netanyahu",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/proxim-orient/ultraortodoxos-soci-incomode-pot-decidir-futur-netanyahu_1_5887294.html",
@@ -417,7 +513,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 52,
+      "page": 64,
       "title": "Festes a l'escola, entre globalització i identitat",
       "source": "ARA",
       "articleUrl": "https://criatures.ara.cat/criatures/festes-l-escola-globalitzacio-identitat_129_5883548.html",
@@ -425,7 +521,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 53,
+      "page": 65,
       "title": "La IA o el deute públic podrien fer caure els mercats",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/empreses/ia-deute-public-caure-mercats_1_5886808.html",
@@ -433,7 +529,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 54,
+      "page": 66,
       "title": "Prenc magnesi al matí, omega-3 a la tarda i melatonina a la nit: un 75% de la població consumeix suplements perquè creu que així…",
       "source": "ARA",
       "articleUrl": "https://mengem.ara.cat/salut_i_nutricio/em-prenc-magnesi-mati-omega-3-tarda-melatonina-nit-75-poblacio-consumeix-suplements-perque-creu-aixi-envellira-be_1_5866213.html",
@@ -441,7 +537,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 55,
+      "page": 67,
       "title": "Urbanitzacions irregulars en situació límit: \"M'estan embargant per pagar l'enderroc de casa meva\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/urbanitzacions-irregulars-en-situacio-limit-mestan-embargant-per-pagar-lenderroc-de-casa-meva/noticia/3435422/",
@@ -454,7 +550,7 @@
       }
     },
     {
-      "page": 56,
+      "page": 68,
       "title": "Javier Giralt, reelegit president de l’Acadèmia Aragonesa de la Llengua fins el 2031",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/javier-giralt-reelegit-president-de-lacademia-aragonesa-de-la-llengua-fins-al-2031/",
@@ -462,7 +558,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 57,
+      "page": 69,
       "title": "Albert Pintat rep la Creu dels Set Braços, la màxima distinció d’Andorra",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/albert-pintat-rep-la-creu-dels-set-bracos-la-maxima-distincio-dandorra/",

@@ -62,6 +62,26 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "El Parlament Europeu confirma que Toni Comín ja és eurodiputat",
+      "excerpt": "La cambra formalitzarà el reconeixement a la sessió plenària de l'11 de novembre",
+      "url": "https://www.vilaweb.cat/noticies/parlament-europeu-comin-confirma-eurodiputat/",
+      "published": "2026-10-23T12:30:54+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Famílies de l’Escola el Turó es neguen a pagar les quotes i demanen més diners per a la pública",
+      "excerpt": "Els centres públics disposen d’un gruix de diners que provenen de les quotes que paguen les famílies destinades a materials fungibles, activitats, sortides i serveis. Són unes quotes que, tot i ser voluntàries, sovint són imprescindibles per al funcionament habitual de les escoles per poder pagar llicències digitals, renovacions de llibres, tallers educatius, material d’arts, […]",
+      "url": "https://beteve.cat/societat/families-escola-el-turo-deixen-pagar-quotes/",
+      "published": "2026-10-23T11:46:13+02:00",
+      "category": "educació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/05/proves-sise-040521.jpeg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de divendres: moltes estones de sol i ventades als dos extrems",
       "excerpt": "El vent de tramuntana i mestral bufarà amb cops superiors als 90 km/h",
@@ -115,12 +135,132 @@
     },
     {
       "source": "betevé",
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
+      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-10-23T12:29:10+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Sabies que… Fas 6 anys? Tria el llibre que més t’agradi",
+      "excerpt": "Si tens sis anys o els fas aquest any, estàs de sort! Amb la campanya “Fas 6 anys. Tria un llibre“, rebràs una carta a casa amb una targeta de 14 euros per anar a una llibreria i escollir el llibre que més t’agradi. Si el llibre costa més, hauràs d’afegir-hi la diferència. La iniciativa […]",
+      "url": "https://beteve.cat/catakrac/fas-6-anys-tria-un-llibre-recomanar/",
+      "published": "2026-10-23T12:24:39+02:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/tria-un-llibre-ia-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Rècords d'ocupació hotelera a Catalunya tot i l'augment de preus",
+      "excerpt": "Mai tants turistes havien dormit en hotels de Catalunya com en els primers nou mesos d'aquest any, quan han superat els 18,7 milions d'allotjats, un 4,42% més que en el mateix període de l'any passat. Ara bé, les estades continuen fent-se cada vegada més curtes, en un context en què els serveis turístics s'encareixen per sobre de la inflació.",
+      "url": "https://www.ara.cat/economia/aerolinies/records-d-ocupacio-hotelera-catalunya-l-augment-preus_1_5887972.html",
+      "published": "2026-10-23T12:24:03+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d0160bac-7662-412b-b1cd-ac9927242cf5_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Netanyahu ordena el tancament immediat d’Hebron i prepara el blocatge de tot Cisjordània",
+      "excerpt": "La mesura arriba després d’un atac armat que ha causat cinc ferits i la mort dels dos assaltants",
+      "url": "https://www.vilaweb.cat/noticies/netanyahu-tancament-immediat-hebron-blocatge-cisjordania/",
+      "published": "2026-10-23T12:15:27+02:00",
+      "category": "Llevant",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "‘Matemàgia’ amb el mag Stigman",
+      "excerpt": "Aquesta setmana, l’espai de màgia amb el Mag Stigman, la ‘Matemàgia’ arriba a l’Institut Escola Arts. Amb una simple resta i una suma, descobrim un truc sorprenent que deixa tothom bocabadat. Una manera divertida d’aprendre i practicar el càlcul mental mentre posem a prova les habilitats amb les sumes i les restes. Qui ha dit […]",
+      "url": "https://beteve.cat/catakrac/matemagia-amb-el-mag-stigman/",
+      "published": "2026-10-23T12:13:15+02:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/matemagia-mag-stigman-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer amb nens a Barcelona? Activitats i plans en família",
+      "excerpt": "Aquí trobaràs què fer amb nens a Barcelona, amb un munt d’activitats, plans i propostes pensats per als més petits de casa! A betevé ens encanta donar-te idees per fer en família, per a avui, demà, els pròxims dies i també el cap de setmana! N’hi ha un bon grapat: espectacles infantils, festes a l’aire […]",
+      "url": "https://beteve.cat/agenda/que-fer-amb-nens-a-barcelona/",
+      "published": "2026-10-23T12:04:20+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/01/que-fer-amb-nens-a-barcelona-txt-01-1920x1080-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sánchez arrasa a \"La Revuelta\" i manté l'esperança del PSOE",
+      "excerpt": "Després de 9 anys d’exili, el diputat Lluís Puig va poder tornar ahir a seure al seu escó del Parlament. La seva emoció va contrastar amb la fredor amb què va ser rebut pel grup socialista, al capdavant del qual no hi va haver el president Illa, potser perquè una cosa és haver-se convertit a la fe de l’amnistia quan el seu amic Pedro Sánchez ha necessitat Junts per ser investit com a president i l’altra aparèixer al costat d’algú que no ha passat per…",
+      "url": "https://www.ara.cat/analisi/sanchez-arrasa-revuelta-mante-l-esperanca-psoe_1_5888057.html",
+      "published": "2026-10-23T12:02:49+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/51fa5384-a77b-4bab-a006-b3150f126875_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "15 anys del Catakrac: Quan opinàvem sobre qui diu més paraulotes",
+      "excerpt": "Avui recuperem un dels moments del nostre arxiu. Parlem de les paraulotes i d’una pregunta que continua ben viva: qui en diu més, el pare o la mare? Això és el que opinaven els nens i nenes l’any 2013.",
+      "url": "https://beteve.cat/catakrac/qui-diu-mes-paraulotes/",
+      "published": "2026-10-23T12:01:08+02:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pares-paraulotes-catakrac-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L’ERC de Rufián",
+      "excerpt": "Què voteu, els partits o les persones? En general, recomano fixar-se més en els partits, o sigui, en la ideologia o el programa que els inspira, que en els noms propis que hi ha al capdavant. Les persones passen, les organitzacions es queden. I si no es queden, sovint és precisament per culpa dels hiperlideratges. És el que li va passar a la Convergència de Pujol. Més aviat o més tard caldrà veure què li passa al Junts de Puigdemont. Alhora, també és veritat que…",
+      "url": "https://www.ara.cat/opinio/l-erc-rufian_129_5887146.html",
+      "published": "2026-10-23T12:00:39+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/60d566cc-21bf-4a14-bed3-4d7543635987_16-9-aspect-ratio_default_0_x1792y64.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El petó de Lamine Yamal i Mbappé abans del clàssic, el nou mural de TVBoy",
+      "excerpt": "L’artista urbà TVBoy ha tornat a immortalitzar un petó impossible. En aquest cas els protagonistes són el davanter del Barça Lamine Yamal i el del Madrid Kylian Mbappé. Tots dos es fonen en un apassionat petó en un mural a la confluència del carrer de les Basses de Sant Pere amb el d’en Cortines, al […]",
+      "url": "https://beteve.cat/cultura/peto-lamine-yamal-mbappe-nou-mural-tvboy/",
+      "published": "2026-10-23T11:57:12+02:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/tv-boy-peto-lamine-pm-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "Mercats de cap de setmana a Barcelona, fires i festes del 2026: agenda amb horaris",
       "excerpt": "Afegeix betevé com a font preferida Els mercats de cap de setmana a Barcelona proliferen. I ens encanten. Busques fires de productes vintage o mercats de pagès, comerç al carrer, àpats populars i festetes per gaudir-ne divendres, dissabte i diumenge? Aquí t’oferim una agenda actualitzada cada setmana perquè no te’n perdis cap detall! Pots trobar-hi […]",
       "url": "https://beteve.cat/agenda/mercats-del-cap-de-setmana-barcelona/",
-      "published": "2026-10-23T11:43:45+02:00",
+      "published": "2026-10-23T11:55:26+02:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2023/03/Proyecto-nuevo-3.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La importància d’una bona higiene bucal",
+      "excerpt": "Els nens i nenes de primer de primària de l’Escola Pia Sabadell reben la visita de les dentistes del CAP Centre per passar una revisió bucodental. Durant l’exploració, les professionals comproven l’estat de les dents i les genives, detecten possibles problemes com càries i fan un seguiment del canvi de les dents de llet a […]",
+      "url": "https://beteve.cat/catakrac/dentistes-higiene-bucal-escola-pia-sabadell/",
+      "published": "2026-10-23T11:55:23+02:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/salut-dentista-escola-pia-sabadell-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Asens diu que el van vetar com a ministre espanyol per haver ajudat Comín a exiliar-se",
+      "excerpt": "El va acompanyar a l'exili el 2017 i diu que ara Comín li ha demanat que l'acompanyi en la tornada",
+      "url": "https://www.vilaweb.cat/noticies/asens-vetar-ministre-espanyol-ajudat-comin-exili/",
+      "published": "2026-10-23T11:46:04+02:00",
+      "category": "Principat",
+      "image": null,
       "priority": "3 · Altres notícies"
     },
     {
@@ -136,7 +276,7 @@
     {
       "source": "3CatInfo",
       "title": "El menú del dia puja a 15,70 euros i és un dels més cars de l'Estat",
-      "excerpt": "L'àpat complet a un restaurant és un 1,9% més car que l'any passat, un increment inferior a la mitjana espanyola",
+      "excerpt": "L'àpat complet en un restaurant és un 1,9% més car que l'any passat, un increment inferior al de la mitjana espanyola",
       "url": "https://www.3cat.cat/3catinfo/el-menu-del-dia-puja-a-15-70-euros-i-es-un-dels-mes-cars-de-lestat/noticia/3435732/",
       "published": "2026-10-23T11:25:02+02:00",
       "category": "Actualitat",
@@ -161,16 +301,6 @@
       "published": "2026-10-23T11:24:05+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/fb2a2254-1fa5-4975-8f26-0f78932bb316_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Què fer amb nens a Barcelona? Activitats i plans en família",
-      "excerpt": "Aquí trobaràs què fer amb nens a Barcelona, amb un munt d’activitats, plans i propostes pensats per als més petits de casa! A betevé ens encanta donar-te idees per fer en família, per a avui, demà, els pròxims dies i també el cap de setmana! N’hi ha un bon grapat: espectacles infantils, festes a l’aire […]",
-      "url": "https://beteve.cat/agenda/que-fer-amb-nens-a-barcelona/",
-      "published": "2026-10-23T11:18:59+02:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2021/01/que-fer-amb-nens-a-barcelona-txt-01-1920x1080-1.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -234,16 +364,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
-      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
-      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-10-23T10:31:25+02:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "ARA",
       "title": "Mahler per obrir la nova temporada d'Ibercamera",
       "excerpt": "Ibercamera ha obert la 43a temporada amb un plat fort com és la Tercera simfonia de Gustav Mahler, en un programa d’una única peça (es tracta d’una de les simfonies més llargues de tot el repertori) i amb la sempre luxosa presència d’Ádám Fischer al podi, davant de l’Orquestra Simfònica de Düsseldorf. En aquesta ocasió, i a banda de la mezzo Catriona Morison per als passatges que se li reserven al quart i cinquè moviments, s’ha comptat amb el Cor Madrigal i amb el Cor…",
@@ -276,7 +396,7 @@
     {
       "source": "ARA",
       "title": "Feijóo promet reobrir el debat de l'avortament i reformar la llei d'eutanàsia",
-      "excerpt": "Alberto Núñez Feijóo comença a desgranar el seu programa conservador per a les eleccions espanyoles del 29-N. El líder i candidat del PP ha afirmat a la SER que si arriba a la Moncloa vol reobrir el debat sobre l'avortament i reformar la llei d'eutanàsia, en una entrevista en què ha assumit obertament l'escenari d'un govern amb Vox per fer fora Pedro Sánchez del poder.",
+      "excerpt": "Alberto Núñez Feijóo comença a desgranar el seu programa conservador per a les eleccions espanyoles del 29-N. El líder i candidat del PP ha afirmat a la SER que si arriba a la Moncloa vol reobrir el debat sobre l'avortament i reformar la llei d'eutanàsia, en una entrevista en què ha assumit obertament l'escenari d'un govern amb Vox per fer fora Pedro Sánchez del poder. \"Soc un demòcrata\", ha dit, sobre la possibilotat d'haver de comptar amb els ultres si no aconsegueix una majoria suficient.",
       "url": "https://www.ara.cat/politica/eleccions-generals/feijoo-promet-reobrir-debat-l-avortament-reformar-llei-d-eutanastia_1_5887950.html",
       "published": "2026-10-23T09:43:32+02:00",
       "category": "Actualitat",
@@ -556,12 +676,12 @@
       "published": "2026-10-23T06:57:53+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/2/1792605378021.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432184/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/urbanitzacions-irregulars-en-situacio-limit-mestan-embargant-per-pagar-lenderroc-de-casa-meva/noticia/3435422/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
