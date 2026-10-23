@@ -3,6 +3,19 @@
   "pages": [
     {
       "page": 2,
+      "title": "La previsió de divendres: moltes estones de sol i ventades als dos extrems",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/",
+      "published": "2026-10-22T19:00:00+02:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432115/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-moltes-estones-de-sol-i-ventades-als-dos-extrems/noticia/3435487/"
+      }
+    },
+    {
+      "page": 3,
       "title": "Javier Giralt reelegit president de l’Acadèmia Aragonesa de la Llengua fins al 2031",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/javier-giralt-reelegit-president-de-lacademia-aragonesa-de-la-llengua-fins-al-2031/",
@@ -10,7 +23,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 3,
+      "page": 4,
       "title": "Albert Pintat rep la Creu dels Set Braços, la màxima distinció d’Andorra",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/albert-pintat-rep-la-creu-dels-set-bracos-la-maxima-distincio-dandorra/",
