@@ -301,12 +301,12 @@
       "published": "2026-10-23T13:04:25+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/4/1792749919140.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432310/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/feijoo-assumeix-un-govern-amb-vox-i-diu-que-reformara-la-llei-de-leutanasia-i-obstaculitzara-lavortament/noticia/3435752/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -359,6 +359,41 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "L’Europa perd davant un Saragossa que no mereixia un premi tan gran",
+      "excerpt": "Massa càstig. Aquesta és la conclusió de la derrota de l’Europa contra el Reial Saragossa en un partit en què els aragonesos han aconseguit el gol al tram final del partit i després de no haver fet un gran partit. Tot el contrari del conjunt de Luis Blanco que fins al gol aragonès havia tingut […]",
+      "url": "https://beteve.cat/esports/europa-saragossa-massa-premi-derrota/",
+      "published": "2026-10-23T23:15:25+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/europa-saragossa-jornada-9-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "\"França serà inflexible\": 70.000 policies i cossos especialitzats desplegats per les manifestacions",
+      "excerpt": "Comerciants i ciutadans de moltes ciutats franceses prenen les seves pròpies mesures d'autoprotecció malgrat les manifestacions prohibides o restringides",
+      "url": "https://www.3cat.cat/3catinfo/franca-sera-inflexible-70000-policies-i-cossos-especialitzats-desplegats-per-les-manifestacions/noticia/3435854/",
+      "published": "2026-10-23T22:50:14+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1792787552623.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Un llibre narra l'aventura americana de Guimerà: \"Van rebre el seu teatre com una cosa exòtica\"",
+      "excerpt": "La catedràtica nord-americana Sharon G. Feldman, experta en teatre català, publica un llibre sobre com les obres de Guimerà van travessar l'Atlàntic",
+      "url": "https://www.3cat.cat/3catinfo/un-llibre-narra-laventura-americana-de-guimera-van-rebre-el-seu-teatre-com-una-cosa-exotica/noticia/3435859/",
+      "published": "2026-10-23T22:40:17+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/9/1792776613299.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432132/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/un-llibre-narra-laventura-americana-de-guimera-van-rebre-el-seu-teatre-com-una-cosa-exotica/noticia/3435859/"
+      }
+    },
+    {
       "source": "ARA",
       "title": "Josep Irla, veterà lluitador empordanès (1938)",
       "excerpt": "De l’editorial de La Humanitat (2-X-1938). Aquest dissabte és el 150è aniversari del naixement de Josep Irla (Sant Feliu de Guíxols, 1876-Sant Rafèu, Provença, 1958). Membre d’ERC, va ésser president de la Generalitat a l’exili des de la mort de Companys fins al 1954. Exercia aquest càrrec per mandat de l’Estatut, que li atorgava el rang de segona autoritat de Catalunya en la seva condició de president del Parlament.",
@@ -366,6 +401,26 @@
       "published": "2026-10-23T22:00:41+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/d2cfbd58-c29c-449f-a92a-3c492284aa78_16-9-aspect-ratio_default_0_x118y159.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Melania Trump anuncia que ha aconseguit una treva entre Ucraïna i Rússia en una ciutat del front",
+      "excerpt": "Tant Moscou com Kíiv confirmen l'alto el foc a la localitat d'Oleshki impulsada per la primera dama dels Estats Units, que entrarà en vigor el 29 d'octubre",
+      "url": "https://www.3cat.cat/3catinfo/melania-trump-anuncia-que-ha-aconseguit-una-treva-entre-ucraina-i-russia-en-una-ciutat-del-front/noticia/3435868/",
+      "published": "2026-10-23T21:48:35+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/2/1792782221928.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Polèmica per un centre de dades al cor de l'East End londinenc",
+      "excerpt": "El govern britànic ha aprovat el projecte de construcció d'un centre de dades i de pisos de luxe a Brick Lane, un dels carrers més famosos de Londres",
+      "url": "https://www.3cat.cat/3catinfo/polemica-per-un-centre-de-dades-al-cor-de-least-end-londinenc/noticia/3431337/",
+      "published": "2026-10-23T21:48:34+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/9/1791201658299.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -386,6 +441,16 @@
       "published": "2026-10-23T21:47:50+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/5e892756-d49d-4b98-9431-a12efd719648_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Van Gogh es va inspirar en un fenomen astronòmic real per pintar \"La nit estrellada\"",
+      "excerpt": "Una investigació sosté que l'artista va observar una alineació celeste exacta uns minuts abans de l'alba del 22 de juliol del 1889 a la Provença francesa",
+      "url": "https://www.3cat.cat/3catinfo/van-gogh-es-va-inspirar-en-un-fenomen-astronomic-real-per-pintar-la-nit-estrellada/noticia/3435860/",
+      "published": "2026-10-23T21:46:41+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/9/7/1792784658279.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1191,12 +1256,12 @@
       "published": "2026-10-23T14:05:11+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/b8d0638d-bcd2-4a88-a516-0e01f0a11251_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432311/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/un-mort-i-quatre-ferits-en-un-tiroteig-als-afores-de-paris-que-sinvestiga-com-a-acte-terrorista/noticia/3435789/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -1301,12 +1366,12 @@
       "published": "2026-10-23T13:29:54+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/4/1792764824742.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432311/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/un-mort-i-quatre-ferits-en-un-tiroteig-als-afores-de-paris-que-sinvestiga-com-a-acte-terrorista/noticia/3435789/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -1336,12 +1401,12 @@
       "published": "2026-10-23T13:22:31+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/5/1792750849350.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432312/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/netanyahu-ordena-el-tancament-total-de-cisjordania-despres-dun-atac-a-hebron/noticia/3435768/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -1466,12 +1531,12 @@
       "published": "2026-10-23T12:40:02+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/7/1792744922076.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432316/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/que-es-el-virus-shamonda-com-es-transmet-i-quin-risc-hi-ha-per-a-les-persones/noticia/3435730/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
