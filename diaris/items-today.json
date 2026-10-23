@@ -92,6 +92,42 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "Tensió al carrer de Calàbria de Barcelona pel desallotjament d’un edifici ocupat per activistes de l’habitatge",
+      "excerpt": "Els activistes de l’acampada de la plaça de Catalunya han entrat en un bloc de sis pisos per allotjar-hi persones sense llar · Els Mossos han començat a desallotjar l’immoble",
+      "url": "https://www.vilaweb.cat/noticies/tensio-al-carrer-de-calabria-de-barcelona-pel-desallotjament-dun-edifici-ocupat-per-activistes-de-lhabitatge/",
+      "published": "2026-10-23T19:30:44+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió del cap de setmana: cel variable i temperatura amunt i avall",
+      "excerpt": "Tindrem alguns xàfecs puntuals per començar dissabte",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/",
+      "published": "2026-10-23T09:19:50+02:00",
+      "updated": "2026-10-23T19:30:05+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/5/1792776263452.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432288/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Estanteries buides i benzineres sense benzina: Itàlia promet ajudes als camioners per frenar la vaga",
+      "excerpt": "Estanteries de supermercats buides, tomàquets a sis euros el quilo... aquesta és una part de la fotografia que deixa la vaga salvatge encapçalada pels transportistes italians per protestar per l'augment del preu del carburant. L'altra part de la imatge són les files de camions que des de fa una setmana bloquegen les principals autovies del país, que causen desproveïment, especialment a les regions del sud d'Itàlia.",
+      "url": "https://www.ara.cat/internacional/europa/estanteries-buides-benzineres-benzina-italia-promet-ajudes-als-camioners-frenar-vaga_1_5888451.html",
+      "published": "2026-10-23T19:23:31+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/88b5bea1-4d0d-4541-9c1a-d77455ee06d2_source-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "\"Mori la intel·ligència\" i les eleccions del Brasil",
       "excerpt": "De les moltes possibilitats d’anàlisi que ofereixen les eleccions del Brasil del 24 d’octubre n’hi ha una que, potser perquè em toca de prop, m’interessa i m’esgarrifa particularment: l’antiintel·lectualisme del partit de Flávio Bolsonaro.",
@@ -214,8 +250,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Activistes per l'habitatge es manifesten al centre de Barcelona i ocupen un edifici a l'Eixample",
-      "excerpt": "Els impulsors de l'acció han sortit de l'acampada de plaça Catalunya i asseguren que l'immoble, propietat d'un fons d'inversió, fa més de vuit anys que està buit",
+      "title": "Desallotgen l'edifici a l'Eixample de Barcelona ocupat durant la manifestació per l'habitatge",
+      "excerpt": "Els impulsors de l'acció han sortit de l'acampada de plaça Catalunya i han ocupat l'immoble durant unes sis hores aproximadament, des de la una del migdia",
       "url": "https://www.3cat.cat/3catinfo/activistes-per-lhabitatge-es-manifesten-al-centre-de-barcelona-i-ocupen-un-edifici-a-leixample/noticia/3435790/",
       "published": "2026-10-23T13:55:50+02:00",
       "category": "Actualitat",
@@ -293,22 +329,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió del cap de setmana: cel variable i temperatura amunt i avall",
-      "excerpt": "Tindrem alguns xàfecs puntuals per començar dissabte",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/",
-      "published": "2026-10-23T09:19:50+02:00",
-      "updated": "2026-10-23T11:11:13+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/1/7/1792739304771.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432175/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "VilaWeb",
       "title": "Salut descarta cap risc pel virus Shamonda i diu que la transmissió a humans és “molt limitada”",
       "excerpt": "El secretari de Salut Pública recorda que l'home infectat a Lió tenia una immunodepressió greu que presentava símptomes neurològics",
@@ -327,6 +347,136 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/607e26b4-2801-49b5-be5b-6ec91fdfac8e_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "La Pegaso, 80 anys d’una fàbrica identitària de la Sagrera: “Hi van néixer famílies”",
+      "excerpt": "On avui hi ha un parc, ara fa tot just 80 anys va obrir portes la fàbrica de l’empresa automobilística Pegaso. Per a molts, les històries i la trascendència que va tenir aquesta indústria per a la Sagrera, han quedat en un record difús. En canvi, per altres, la Pegaso continua sent el seu motor […]",
+      "url": "https://beteve.cat/historia/la-pegaso-80-anys-fabrica-identitat-sagrera/",
+      "published": "2026-10-23T19:35:30+02:00",
+      "category": "història",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pegaso-80-anys-1-2026-10-22.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Andorra i Suïssa comparteixen experiències sobre les seves relacions amb la Unió Europea",
+      "excerpt": "El vice-president del Consell Federal suís, Ignazio Cassis, visita Andorra per primera vegada i es reuneix amb Xavier Espot i Imma Tor",
+      "url": "https://www.vilaweb.cat/noticies/andorra-i-suissa-comparteixen-experiencies-sobre-les-seves-relacions-amb-la-unio-europea/",
+      "published": "2026-10-23T19:35:27+02:00",
+      "category": "Andorra",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Cotó fluix contra la deriva ultra del PP",
+      "excerpt": "En política, ballar la música d’un altre acostuma a portar problemes i turmells revinclats. El PP fa temps que mira d’aturar la sagnia de vots cap a Vox i, en la seva gesticulació poc graciosa i descoordinada per seguir aquest frenètic txa-txa-txa, només fa que eixamplar la pista de ball perquè Abascal i els seus inflin el pitram, Saturday Night Live style . La premsa juga un paper en tot plegat, esclar. I així, trobem que aquest divendres El País aprofitava el fitxatge de Cayetana…",
+      "url": "https://www.ara.cat/media/coto-fluix-deriva-ultra-pp_129_5888685.html",
+      "published": "2026-10-23T19:30:36+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/afbdb322-d020-4bf6-90d9-db973b6db78f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La Casa Seat incorpora Cupra al nom: passa a dir-se Casa Seat Cupra",
+      "excerpt": "El popular edifici barceloní Casa Seat passa a dir-se definitivament Casa Seat Cupra. Després que en els darrers mesos fos rebatejat com a Casa Cupra Raval en un moviment de màrqueting per promocionar el nou vehicle de la firma catalana, finalment les dues marques de Martorell estaran representades en el naming del cèntric edifici, ubicat a la cruïlla del passeig de Gràcia amb l'avinguda Diagonal.",
+      "url": "https://www.ara.cat/economia/automocio/casa-seat-incorpora-cupra-nom-passa-dir-casa-seat-cupra_1_5888513.html",
+      "published": "2026-10-23T19:12:57+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2505e8d9-4021-46de-93a8-83151599ce7d_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "França es blinda per evitar una altra jornada de caos als carrers",
+      "excerpt": "La Gendarmeria ha col·locat als carrers de París que van a parar a l'Elisi unes tanques de tres metres d'alçada que semblen infranquejables. Durant els aldarulls que va viure França dissabte passat, grups de violents van intentar assaltar la seu de la presidència francesa. Es van quedar a poc més de cent metres. Aquesta vegada serà més difícil apropar-se al palau presidencial. Les ciutats franceses s'han blindat per evitar que es repeteixin les escenes de saquejos, incendis i violència del 17 d'octubre amb mesures excepcionals…",
+      "url": "https://www.ara.cat/internacional/europa/franca-blinda-evitar-altra-jornada-caos-als-carrers_1_5888036.html",
+      "published": "2026-10-23T19:09:08+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/639ad931-de38-4a56-b7ed-96a4d5c45899_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Dani Martín suspèn els dos concerts al Palau Sant Jordi",
+      "excerpt": "El cantant Dani Martín ha anunciat a través de les xarxes socials que suspèn els dos concerts previstos al Palau Sant Jordi previstos per a aquest divendres i aquest dissabte. En una publicació a Instagram el cantant ha fet públic que es cancel·laven per una “situació familiar d’extrema gravetat“. L’anunci arriba tot just unes hores […]",
+      "url": "https://beteve.cat/cultura/dani-martin-suspen-dos-concerts-palau-sant-jordi/",
+      "published": "2026-10-23T19:07:02+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/11/dani-martin-palau-sant-jordi-4-141121-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Àngel Garcia, fotògraf col·laborador de VilaWeb, guanya el segon premi Miravisions",
+      "excerpt": "El fotoperiodista ha estat reconegut pel treball \"Mans vermelles\", que documenta les manifestacions del 3 i 4 d’octubre de 2025 a Barcelona · Ariadna Creus s’ha endut el primer premi de la categoria professional per un reportatge sobre la “violència silenciosa” de les festes populars taurines",
+      "url": "https://www.vilaweb.cat/noticies/angel-garcia-fotoperiodista-collaborador-vilaweb-guanya-segon-premi-miravisions/",
+      "published": "2026-10-23T19:06:20+02:00",
+      "category": "Mitjans de comunicació",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-24-10-2026_134_5888477.html",
+      "published": "2026-10-23T19:05:18+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Ara que no s'ofengui ningú",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ara-no-s-ofengui-ningu-24-10-2026_134_5888411.html",
+      "published": "2026-10-23T19:05:16+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Anna Alós",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/anna-alos/",
+      "published": "2026-10-23T19:01:53+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-24-10-2026_134_5888344.html",
+      "published": "2026-10-23T19:00:10+02:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Dani Martín cancel·la els dos concerts a Barcelona per \"una situació familiar d'extrema gravetat\"",
+      "excerpt": "L'exvocalista d'El Canto del Loco ho ha anunciat quan faltaven poques hores perquè comencés l'espectacle al Palau Sant Jordi",
+      "url": "https://www.3cat.cat/3catinfo/dani-martin-cancella-els-dos-concerts-a-barcelona-per-una-situacio-familiar-dextrema-gravetat/noticia/3435863/",
+      "published": "2026-10-23T18:53:03+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/2/1762769150022.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La Fiscalia demana investigar Zapatero per malversació per ocultar les joies de l'Aràbia Saudita",
+      "excerpt": "Anticorrupció assenyala en un escrit que l'expresident espanyol va acceptar joies \"de molt significatiu valor\" per part del monarca saudita i no va lliurar-les a Patrimoni de l'Estat",
+      "url": "https://www.3cat.cat/3catinfo/la-fiscalia-demana-investigar-zapatero-per-malversacio-per-ocultar-les-joies-de-larabia-saudita/noticia/3435845/",
+      "published": "2026-10-23T18:49:19+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/4/1790237727442.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -349,6 +499,26 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Repunt de la inestabilitat, amb possibilitat d’algun xàfec puntual",
+      "excerpt": "La previsió del temps per a dissabte, 24 d’octubre, indica un temps més insegur i amb molta presència de núvols. A més a més, no es descarta algun ruixat o xàfec, que de manera puntual podria ser una mica intens. Previsió horària per a Barcelona: Ruixats i xàfecs dispersos Els núvols seran els grans protagonistes […]",
+      "url": "https://beteve.cat/medi-ambient/temps-barcelona-dissabte-24-octubre-risc-xafecs/",
+      "published": "2026-10-23T18:26:33+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/temps-barcelona-dissabte-24-octubre-2026-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El supermercat situat al local de l’antiga llibreria Ona a Gràcia té els dies comptats",
+      "excerpt": "Al barri de Gràcia, l’Ajuntament de Barcelona ha iniciat els tràmits per tancar el supermercat que ha obert recentment al local de l’antiga llibreria Ona, al número 217 del carrer Gran de Gràcia. Segons informa TOT Barcelona, una inspecció municipal ha comprovat que l’establiment no té llicència d’activitat i que s’hi han fet obres sense […]",
+      "url": "https://beteve.cat/economia/supermercat-antiga-llibreria-ona-gracia-tanca-dies-comptats/",
+      "published": "2026-10-23T18:24:32+02:00",
+      "category": "comerç",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/supermercat-llibreria-ona-gracia-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
       "title": "Joan Garcia sobre el victimisme del Madrid: \"Molesta una mica que ens treguin mèrits\"",
       "excerpt": "El porter del Barça ha atès 3Cat abans del Barça-Madrid de diumenge al Camp Nou",
@@ -367,6 +537,31 @@
       "category": "societat",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/edifici-ocupat-2026-10-23.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Retiren del mercat una crema depilatòria masculina per un problema en l’etiquetatge",
+      "excerpt": "L’Agència Espanyola de Medicaments i Productes Sanitaris (AEMPS) ha ordenat que s’aturi la venda i es retirin del mercat tots els lots de la crema depilatòria Daen Crema Depilatoria for Men. Aquesta ordre s’ha donat després de detectar deficiències en les instruccions d’ús del producte que no garantien la seguretat pels usuaris. En concret, el […]",
+      "url": "https://beteve.cat/societat/retiren-mercat-crema-depilatoria-masculina-etiqueta/",
+      "published": "2026-10-23T18:13:05+02:00",
+      "category": "salut",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/crema-depilatoria-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Emé, la rapera de Salt que debuta a les Fires de Girona: \"La música m'ha ajudat a sanar\"",
+      "excerpt": "L'artista gironina Miranda Agustí va canviar la competició esportiva per la música urbana i aquest estiu ha actuat a Nova York",
+      "url": "https://www.3cat.cat/3catinfo/eme-la-rapera-de-salt-que-debuta-a-les-fires-de-girona-la-musica-mha-ajudat-a-sanar/noticia/3435846/",
+      "published": "2026-10-23T18:08:30+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/3/1792759789439.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432217/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/eme-la-rapera-de-salt-que-debuta-a-les-fires-de-girona-la-musica-mha-ajudat-a-sanar/noticia/3435846/"
+      }
     },
     {
       "source": "ARA",
@@ -426,6 +621,16 @@
       "published": "2026-10-23T18:00:28+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/356f0eaf-a678-466e-bfd7-4c283d3604c8_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Manolo González: “No veig que perilli el meu lloc a la banqueta”",
+      "excerpt": "L’Espanyol té una nova prova de foc aquest dissabte, 24 d’octubre, al camp del Racing de Santander. L’entrenador de l’Espanyol, Manolo González, no creu que aquest partit sigui una final per a la salvació, tot i que ha afirmat que el seu equip ha de fer un pas endavant si es vol retrobar amb la […]",
+      "url": "https://beteve.cat/esports/manolo-gonzalez-no-veig-perilli-meu-lloc-banqueta/",
+      "published": "2026-10-23T17:54:58+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/manolo-gonzalez-previa-atletic-madrid-2026-10-16.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -745,7 +950,7 @@
     },
     {
       "source": "ARA",
-      "title": "L'Ajuntament frenarà la conversió de la llibreria Ona de Gràcia en un súper 24 hores",
+      "title": "L'Ajuntament frenarà la conversió de l'antiga llibreria Ona de Gràcia en un súper 24 hores",
       "excerpt": "Fa exactament un any la Vila de Gràcia de Barcelona va confirmar que perdia definitivament la llibreria Ona, una de les més emblemàtiques de la zona. Aquests dies, el barri ha vist com la commemoració d'aquell fet coincidia amb l'obertura d'un nou establiment que, involuntàriament, s'ha convertit en un símbol de com s'està transformant el paisatge comercial de la ciutat. En el local on hi havia la llibreria, al carrer Gran de Gràcia 217, ara hi ha obert un nou supermercat 24 hores.",
       "url": "https://www.ara.cat/societat/barcelona/l-ajuntament-frenara-conversio-llibreria-ona-gracia-super-24-hores_1_5888054.html",
       "published": "2026-10-23T14:18:48+02:00",
@@ -851,7 +1056,7 @@
     {
       "source": "ARA",
       "title": "Els temes del debat educatiu: de la professionalitat docent a la inclusió i la responsabilitat de les famílies",
-      "excerpt": "Aquest divendres s'han fet oficials els temes que formaran part del debat educatiu de país per fer remuntar els resultats acadèmics. Després de reunir-se amb els grups parlamentaris, el president del Consell d'Educació de Catalunya (CEC), Joan Manuel del Pozo, ha anunciat que finalment el procés se centrarà en cinc grans qüestions: la inclusió i no segregació; la professionalitat docent —sobretot la formació inicial i al llarg de la carrera laboral—; la corresponsabilitat de les famílies; la governança al servei dels aprenentatges —tant a escala…",
+      "excerpt": "Aquest divendres s'han fet oficials els temes que formaran part del debat educatiu de país per fer remuntar els resultats acadèmics. Després de reunir-se amb els grups parlamentaris, el president del Consell d'Educació de Catalunya (CEC), Joan Manuel del Pozo, ha anunciat que finalment el procés se centrarà en cinc grans qüestions: la inclusió i no segregació; la professionalitat docent –sobretot la formació inicial i al llarg de la carrera laboral–; la corresponsabilitat de les famílies; la governança al servei dels aprenentatges –tant a escala…",
       "url": "https://www.ara.cat/societat/educacio/temes-debat-educatiu-professionalitat-docent-inclusio-responsabilitat-families_1_5888195.html",
       "published": "2026-10-23T13:55:53+02:00",
       "category": "Actualitat",
@@ -920,8 +1125,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Netanyahu ordena el tancament total de Cisjordània després d'un atac a Hebron",
-      "excerpt": "Israel ha bombardejat diversos edificis del camp de refugiats de Nuseirat, a Gaza, després d'ordenar que es desallotgés",
+      "title": "Netanyahu anuncia una operació militar a gran escala a Cisjordània després de la mort de dos soldats",
+      "excerpt": "Dos homes palestins armats han estat abatuts per les forces israelianes a Hebron després de matar dos efectius de l'exèrcit i ferir-ne tres més",
       "url": "https://www.3cat.cat/3catinfo/netanyahu-ordena-el-tancament-total-de-cisjordania-despres-dun-atac-a-hebron/noticia/3435768/",
       "published": "2026-10-23T13:22:31+02:00",
       "category": "Actualitat",
