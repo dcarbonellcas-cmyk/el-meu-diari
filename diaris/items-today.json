@@ -89,12 +89,28 @@
       "published": "2026-10-23T06:55:20+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/png/2/2/1792594616622.png",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432245/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/mapa-de-la-guerra-hibrida-a-europa-sis-mesos-dingerencies-amb-segell-rus/noticia/3435414/"
-      }
+      },
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió del cap de setmana: cel variable i temperatura amunt i avall",
+      "excerpt": "Tindrem alguns xàfecs puntuals per començar dissabte",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/",
+      "published": "2026-10-23T09:19:50+02:00",
+      "updated": "2026-10-23T22:30:38+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/3/1792787399532.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432336/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/"
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo",
@@ -104,22 +120,6 @@
       "published": "2026-10-23T20:22:47+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/9/1792773197291.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió del cap de setmana: cel variable i temperatura amunt i avall",
-      "excerpt": "Tindrem alguns xàfecs puntuals per començar dissabte",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/",
-      "published": "2026-10-23T09:19:50+02:00",
-      "updated": "2026-10-23T19:30:05+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/2/5/1792776263452.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432288/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -301,7 +301,12 @@
       "published": "2026-10-23T13:04:25+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/4/1792749919140.jpg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432310/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/feijoo-assumeix-un-govern-amb-vox-i-diu-que-reformara-la-llei-de-leutanasia-i-obstaculitzara-lavortament/noticia/3435752/"
+      }
     },
     {
       "source": "betevé",
@@ -355,12 +360,42 @@
     },
     {
       "source": "ARA",
+      "title": "Josep Irla, veterà lluitador empordanès (1938)",
+      "excerpt": "De l’editorial de La Humanitat (2-X-1938). Aquest dissabte és el 150è aniversari del naixement de Josep Irla (Sant Feliu de Guíxols, 1876-Sant Rafèu, Provença, 1958). Membre d’ERC, va ésser president de la Generalitat a l’exili des de la mort de Companys fins al 1954. Exercia aquest càrrec per mandat de l’Estatut, que li atorgava el rang de segona autoritat de Catalunya en la seva condició de president del Parlament.",
+      "url": "https://www.ara.cat/opinio/josep-irla-vetera-lluitador-empordanes-1938_129_5883891.html",
+      "published": "2026-10-23T22:00:41+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d2cfbd58-c29c-449f-a92a-3c492284aa78_16-9-aspect-ratio_default_0_x118y159.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Fukuyama tenia raó?",
+      "excerpt": "Fa pocs dies vaig llegir les recentment publicades memòries de Francis Fukuyama. Al llibre, Fukuyama parla de la seva carrera des del govern fins a l’acadèmia, dels seus mentors directes com Allan Bloom o indirectes com Leo Strauss, del trencament amb els seus amics neoconservadors, dels seus hobbies, que van des de construir mobles fins a muntar robots. És un dels millors manuals per a qualsevol persona que aspiri a ser un intel·lectual públic, combinant rellevància amb profunditat.",
+      "url": "https://www.ara.cat/internacional/asia/fukuyama-tenia-rao_129_5888506.html",
+      "published": "2026-10-23T21:48:30+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9ba48c33-e67a-45f3-a753-25c133734608_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El matrimoni ja no és el que era: hi ha menys catalans casats i més divorciats",
+      "excerpt": "\"Ja estem bé com estem\". És la resposta que dona la Teresa, de 59 anys, quan li pregunten per què no s'ha casat amb el Jordi. Es van conèixer de joves, se'n van anar a viure junts i van tenir una criatura, però mai s'han casat. D'això fa gairebé 40 anys. La seva història, que no és gaire diferent de la de moltes altres parelles, il·lustra un canvi social: el matrimoni, tant religiós com civil, està deixant de ser un pas imprescindible en la trajectòria…",
+      "url": "https://www.ara.cat/societat/matrimoni-ja-no-hi-menys-catalans-casats-mes-divorciats_1_5888436.html",
+      "published": "2026-10-23T21:47:50+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5e892756-d49d-4b98-9431-a12efd719648_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
       "title": "Interior alerta d'una crida en webs jihadistes a atacar manifestants i policies",
       "excerpt": "\"S'ha detectat una pàgina web de l'entorn jihadista afí al Daeix on es fa una crida a atacar tant la policia com els manifestants en les protestes que tenen lloc en diversos països europeus. La publicació esmenta concretament Espanya\". Aquest és un dels punts més destacats d'una alerta interna, al qual ha tingut accés l'ARA, que ha emès el ministeri de l'Interior i que han rebut els principals cossos de seguretat de l'Estat.",
       "url": "https://www.ara.cat/societat/successos/interior-alerta-d-crida-webs-jihadistes-atacar-manifestants-policies_1_5888860.html",
       "published": "2026-10-23T21:38:13+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/947b56bf-54c7-45f8-8ca8-814b9be8f758_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/947b56bf-54c7-45f8-8ca8-814b9be8f758_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1110,7 +1145,7 @@
       "url": "https://www.ara.cat/societat/barcelona/l-ajuntament-frenara-conversio-llibreria-ona-gracia-super-24-hores_1_5888054.html",
       "published": "2026-10-23T14:18:48+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/cbff7e69-e1ce-4e17-8e24-6bfb07e22cfa_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/cbff7e69-e1ce-4e17-8e24-6bfb07e22cfa_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1156,7 +1191,12 @@
       "published": "2026-10-23T14:05:11+02:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/b8d0638d-bcd2-4a88-a516-0e01f0a11251_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432311/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/un-mort-i-quatre-ferits-en-un-tiroteig-als-afores-de-paris-que-sinvestiga-com-a-acte-terrorista/noticia/3435789/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -1236,12 +1276,12 @@
       "published": "2026-10-23T13:44:56+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/3/1792754950038.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432256/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/com-sera-el-debat-educatiu-de-pais-docents-direccions-families-i-alumnes-tractaran-5-grans-temes/noticia/3435582/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -1255,13 +1295,18 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Un mort i cinc ferits en un tiroteig als afores de París que s'investiga com a acte terrorista",
-      "excerpt": "Els fets han passat a Trappes i La Verrière, al sud-oest de la capital de França",
+      "title": "Un mort i cinc ferits en un tiroteig als afores de París que s'investiga com a acte \"terrorista racista\"",
+      "excerpt": "Els fets han passat a Trappes i La Verrière, al sud-oest de la capital, on més tard s'ha desplaçat Macron que ha vinculat els incidents a l'\"ambient d'inestabilitat que estan creant determinats discursos\"",
       "url": "https://www.3cat.cat/3catinfo/un-mort-i-quatre-ferits-en-un-tiroteig-als-afores-de-paris-que-sinvestiga-com-a-acte-terrorista/noticia/3435789/",
       "published": "2026-10-23T13:29:54+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/4/1792764824742.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432311/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/un-mort-i-quatre-ferits-en-un-tiroteig-als-afores-de-paris-que-sinvestiga-com-a-acte-terrorista/noticia/3435789/"
+      }
     },
     {
       "source": "betevé",
@@ -1291,7 +1336,12 @@
       "published": "2026-10-23T13:22:31+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/5/1792750849350.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432312/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/netanyahu-ordena-el-tancament-total-de-cisjordania-despres-dun-atac-a-hebron/noticia/3435768/"
+      }
     },
     {
       "source": "ARA",
@@ -1341,12 +1391,12 @@
       "published": "2026-10-23T12:56:19+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/8/1700828869088.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432243/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/laudiencia-nacional-amnistia-els-12-cdr-acusats-de-terrorisme-pel-cas-judes/noticia/3434478/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -1416,7 +1466,12 @@
       "published": "2026-10-23T12:40:02+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/7/1792744922076.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432316/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/que-es-el-virus-shamonda-com-es-transmet-i-quin-risc-hi-ha-per-a-les-persones/noticia/3435730/"
+      }
     },
     {
       "source": "betevé",
