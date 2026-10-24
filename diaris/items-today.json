@@ -4,7 +4,7 @@
     {
       "source": "VilaWeb",
       "title": "Un incendi destrueix el Niu de l’Àguila de Hitler a Alemanya",
-      "excerpt": "La policia investiga l’origen del foc que ha calcinat l’antic refugi nazi als Alps bavaresos i no descarta que fos intencionat · Hi ha un detingut",
+      "excerpt": "La policia investiga l’origen del foc, que ha calcinat l’antic refugi nazi als Alps bavaresos, i no descarta que fos intencionat · Hi ha un detingut",
       "url": "https://www.vilaweb.cat/noticies/incendi-destrueix-niu-aguila-hitler-alemanya/",
       "published": "2026-10-24T11:19:54+02:00",
       "category": "Europa",
@@ -20,6 +20,16 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/5/1792823130557.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Innovacions en seguretat, ciutats adaptades i formació: antídot contra la sinistralitat dels motoristes",
+      "excerpt": "Desenes de professionals i experts d'àmbit internacional procuren blindar el col·lectiu en un congrés únic sobre motos i seguretat",
+      "url": "https://www.3cat.cat/3catinfo/innovacions-en-seguretat-ciutats-adaptades-i-formacio-antidot-contra-la-sinistralitat-dels-motoristes/noticia/3435779/",
+      "published": "2026-10-24T13:35:37+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/5/1792839040955.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -95,8 +105,108 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Més d’un miler de persones es manifesten a Perpinyà contra l’encariment de la vida i l’extrema dreta",
-      "excerpt": "La mobilització recorre el centre de la ciutat i provoca talls de trànsit a l’entrada nord",
+      "title": "Rufián i Montero defensen una esquerra forta en l’inici de la precampanya pel 29-N",
+      "excerpt": "Primer acte conjunt d’ERC i Podem a Nou Barris després del pacte per col·laborar a les eleccions generals",
+      "url": "https://www.vilaweb.cat/noticies/rufian-montero-defensen-esquerra-forta-inici-precampanya-29n/",
+      "published": "2026-10-24T13:38:51+02:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Hansi Flick passa de polèmiques arbitrals i lloa el Madrid i Mourinho: “És un company molt exitòs”",
+      "excerpt": "Hansi Flick ha passat per la sala de premsa per valorar el clàssic contra el Reial Madrid d’aquest diumenge 25 d’octubre a les 21 h. El tècnic del Barça no ha volgut entrar en cap polèmica pels àrbitres, ha lloat José Mourinho, ha assegurat que la derrota al camp del PSG no els ha afectat […]",
+      "url": "https://beteve.cat/esports/hansi-flick-no-polemiques-arbitres-lloa-mourinho-abans-classic/",
+      "published": "2026-10-24T13:32:03+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/hansi-flick-campanya-pilota-or-2026-09-15.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Tothom vol aconseguir un 'efecte Guggenheim' però és una idea del passat\"",
+      "excerpt": "L'arquitecta nord-americana d'origen polonès Elizabeth Diller (Lódz, 1954) és un dels professionals més influents de l’escena internacional, al capdavant de l'estudi que va fundar juntament amb el seu marit, Ricardo Scofidio (1935-2025), i Charles Renfro. Diller és aquest dissabte a Barcelona per participar en la primera jornada del cicle del Museu Nacional d'Art de Catalunya Pensar el museu, imaginar futurs , organitzat per parlar dels reptes arquitectònics dels museus amb motiu de l'ampliació del centre. Una de les primeres obres de l'estudi va ser l'Institut…",
+      "url": "https://www.ara.cat/cultura/arquitectura/tothom-vol-aconseguir-efecte-guggenheim-idea-passat_128_5886126.html",
+      "published": "2026-10-24T13:31:35+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/63c83d89-963c-4475-9adf-cd2b852eb0c9_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Primeres cues en la festa de l’arquitectura: Barcelona obre les portes amb el 48h Open House",
+      "excerpt": "Una biblioteca, un mercat i un centre cívic connectats a través d’una illa de l’Eixample, un recorregut per la transformació del litoral olímpic des de la suite de l’Hotel Arts i un clàssic que cada any desperta l’interès dels visitants, com l’antic convent de la Mercè. Són només tres de les 155 propostes que formen […]",
+      "url": "https://beteve.cat/cultura/primer-dia-portes-obertes-48h-open-house-barcelona-arquitectura/",
+      "published": "2026-10-24T13:23:29+02:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cues-palau-macaya-241026-2026-10-24.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El pla dels demòcrates per ressuscitar en les midterms i vèncer Trump",
+      "excerpt": "Els demòcrates busquen retrobar la seva veu de cara al pròxim tres de novembre. Més enllà del plebiscit sobre Donald Trump, les eleccions de mig mandat poden marcar el punt en què el Partit Demòcrata trobi una solució a la crisi d'identitat que pateix. Els comicis són la primera oportunitat real de la formació per reconciliar-se amb unes bases desencisades després de la desfeta electoral del 2024.",
+      "url": "https://www.ara.cat/internacional/estats-units/pla-dels-democrates-ressuscitar-midterms-vencer-trump_1_5888413.html",
+      "published": "2026-10-24T13:00:38+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/75c0f2f4-ef9d-4654-b5d1-1a311c0e6b3f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Som germans\": punt final a nou anys lluny de casa",
+      "excerpt": "Ara ja només falta el president de l'1-O, Carles Puigdemont. L'exili s'acaba nou anys després que diversos dirigents independentistes triessin aquest camí per respondre a la repressó de l'Estat. Ja han tornat sis dels set exiliats, amb els exconsellers Lluís Puig i Toni Comín acabats d'arribar gràcies a l'aixecament de les ordres de detenció. En els darrers anys, també ha pogut deslliurar-se de l'exili l'exsecretària general d'ERC Marta Rovira, l'exconsellera Meritxell Serret, l'exdiputada de la CUP Anna Gabriel i l'exconsellera Clara Ponsatí. Nou anys després,…",
+      "url": "https://www.ara.cat/politica/germans-punt-final-nou-anys-lluny-casa_1_5874336.html",
+      "published": "2026-10-24T13:00:37+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ba4c974e-92e2-434a-8364-dac294794256_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Si se separen els alumnes amb necessitats especials és perquè no es forma prou els docents\"",
+      "excerpt": "Linda Darling-Hammond és una de les investigadores i responsables de política educativa més influents dels Estats Units. Va ser presidenta de l'Associació Americana de Recerca Educativa i va dirigir l'equip de transició educativa de Barack Obama el 2008 i de Joe Biden el 2020. També ha participat de manera directa en la reforma educativa que ha fet reflotar els resultats educatius de Califòrnia. Visita Barcelona amb motiu de les jornades de l'anuari d'Equitat.org.",
+      "url": "https://www.ara.cat/societat/educacio/separen-alumnes-necessitats-especials-perque-no-forma-prou-docents_128_5887233.html",
+      "published": "2026-10-24T13:00:34+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0efd5c3d-7a15-4f79-8ab2-a71ace95d7be_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Tensió i càrregues policials en la protesta antifeixista a Maó contra un míting d'Abascal",
+      "excerpt": "Prop de 500 persones s'han mobilitzat contra l'acte del líder de Vox a Menorca, marcat per un fort desplegament policial i moments de tensió",
+      "url": "https://www.3cat.cat/3catinfo/tensio-i-carregues-policials-en-la-protesta-antifeixista-a-mao-contra-un-miting-dabascal/noticia/3435895/",
+      "published": "2026-10-24T12:56:45+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/9/1792831838794.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Primeres manifestacions a França, amb protestes a Orleans contra Le Pen i gasos lacrimògens a Lió",
+      "excerpt": "A Orleans, 11.000 persones han participat aquest dissabte en una marxa contra la celebració del Congrés de Reagrupament Nacional, mentre a París els sindicats han acceptat el canvi de recorregut",
+      "url": "https://www.3cat.cat/3catinfo/primeres-manifestacions-a-franca-amb-protestes-a-orleans-contra-le-pen-i-gasos-lacrimogens-a-lio/noticia/3435897/",
+      "published": "2026-10-24T12:55:24+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/4/1792838892549.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Aurora Bassu guanya el CantAlguer amb la cançó inèdita “La Tua Ombra”",
+      "excerpt": "S’imposa al 5è concurs de joves cantants de l’Alguer i obté com a premi enregistrar un EP i actuar a la Universitat Catalana d’Estiu del 2027",
+      "url": "https://www.vilaweb.cat/noticies/aurora-bassu-guanya-cantalguer-canco-inedita-tua-ombra/",
+      "published": "2026-10-24T12:52:18+02:00",
+      "category": "Música",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Més d’un miler de manifestants protesten a Perpinyà contra l’encariment de la vida i l’extrema dreta",
+      "excerpt": "La mobilització recorre el centre de la ciutat i causa talls de trànsit a l’entrada nord",
       "url": "https://www.vilaweb.cat/noticies/prop-miler-persones-manifesten-perpinya-contra-encariment-vida-extrema-dreta/",
       "published": "2026-10-24T12:30:52+02:00",
       "category": "Catalunya Nord",
@@ -116,7 +226,7 @@
     {
       "source": "ARA",
       "title": "Rússia posa a prova els límits d’Europa",
-      "excerpt": "L’agost passat es va localitzar un dron carregat d’explosius a l’aeroport de Leipzig, prop d’un avió de càrrega ucraïnès. El govern alemany va atribuir l’intent d’atac a Rússia, que en nega l’autoria. Leipzig és un important centre logístic europeu. L’episodi mostra que la capacitat de Kíiv per sostenir la guerra també depèn de fàbriques, magatzems i xarxes de transport situats a Europa que permeten fer arribar armament i equips a Ucraïna.",
+      "excerpt": "L’agost passat es va localitzar un dron carregat d’explosius a l’aeroport de Leipzig, prop d’un avió de càrrega ucraïnès. El govern alemany va atribuir l’intent d’atac a Rússia, que en nega l’autoria. Leipzig és un important centre logístic europeu. L’episodi mostra que la capacitat de Kíiv per sostenir la guerra també depèn de fàbriques, magatzems i xarxes de transport que se situen a Europa que permeten fer arribar armament i equips a Ucraïna.",
       "url": "https://www.ara.cat/opinio/russia-posa-prova-limits-d-europa_129_5888863.html",
       "published": "2026-10-24T12:24:25+02:00",
       "category": "Actualitat",
@@ -191,16 +301,6 @@
       "published": "2026-10-24T11:49:21+02:00",
       "category": "art i disseny",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/foto-080-web-2026-10-24.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Primeres cues en la festa de l’arquitectura: Barcelona obre les portes amb el 48h Open House",
-      "excerpt": "Una biblioteca, un mercat i un centre cívic connectats a través d’una illa de l’Eixample, un recorregut per la transformació del litoral olímpic des de la suite de l’Hotel Arts i un clàssic que cada any desperta l’interès dels visitants, com l’antic convent de la Mercè. Són només tres de les 155 propostes que formen […]",
-      "url": "https://beteve.cat/cultura/primer-dia-portes-obertes-48h-open-house-barcelona-arquitectura/",
-      "published": "2026-10-24T11:06:00+02:00",
-      "category": "art i disseny",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cues-palau-macaya-241026-2026-10-24.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -306,7 +406,7 @@
     {
       "source": "VilaWeb",
       "title": "Urtasun reivindica ara la defensa del català malgrat les polèmiques que ha acumulat durant els seus anys com a ministre",
-      "excerpt": "El ministre reivindica la protecció de les llengües cooficials amb vista al 29-N, però ha estat criticat per haver enviat cartes en castellà a autoritats catalanoparlants i per haver ignorat l’ofensiva contra el català a Alacant",
+      "excerpt": "El ministre reivindica la protecció de les llengües cooficials amb vista al 29-N · Ha estat criticat per haver enviat cartes en castellà a autoritats catalanoparlants i per haver ignorat l’ofensiva contra el català a Alacant",
       "url": "https://www.vilaweb.cat/noticies/ernest-urtasun-futur-catala-joc-29n/",
       "published": "2026-10-24T09:25:54+02:00",
       "category": "Espanya",
