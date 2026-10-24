@@ -60,7 +60,7 @@
     {
       "source": "VilaWeb",
       "title": "Els Mossos reforcen els protocols de seguretat i autoprotecció per l’alerta gihadista",
-      "excerpt": "La policia espanyola, que opera a les Illes i el País Valencià, també s'ha posat en alerta arran d’uns missatges que inciten a atemptar contra manifestants i policies",
+      "excerpt": "La policia espanyola, que actua a les Illes i el País Valencià, també s'ha posat en alerta arran d’uns missatges que inciten a atemptar contra manifestants i policies",
       "url": "https://www.vilaweb.cat/noticies/mossos-reforcen-seguretat-alerta-gihadista/",
       "published": "2026-10-24T10:51:03+02:00",
       "category": "Policia i justícia",
@@ -104,6 +104,66 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Rufián i Montero comencen la campanya disparant a Colau: “El front som nosaltres”",
+      "excerpt": "La líder de Podem, Irene Montero, i el republicà Gabriel Rufián han engegat la precampanya del 29-N carregant contra la resta de les esquerres a escala estatal , i s’han autoerigit en l’única alternativa possible a la dreta i a l’extrema dreta espanyola. Fent referència implícita a la coalició progressista liderada per Ada Colau, Front Ampli, l’exministra d’Igualtat els ha retret que “s’assemblen molt al PSOE” i que “es presentin a les eleccions amb les mateixes paperetes”, tot i que només concorren de forma conjunta…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/rufian-montero-comencen-campanya-disparant-colau-front_1_5889325.html",
+      "published": "2026-10-24T14:19:35+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cb66bb2a-e614-4d68-8807-76b30597fb25_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "\"Va ser aterridor\": un periodista que cobria una tempesta rescata un home atrapat al cotxe",
+      "excerpt": "Les pluges torrencials a Queensland, a Austràlia, van provocar rescats dramàtics, com el d'un conductor atrapat en una furgoneta, salvat per un reporter i un vianant",
+      "url": "https://www.3cat.cat/3catinfo/va-ser-aterridor-un-periodista-que-cobria-una-tempesta-rescata-un-home-atrapat-al-cotxe/noticia/3435909/",
+      "published": "2026-10-24T13:58:34+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/5/1792840037252.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Rufián i Montero, junts a Nou Barris en el primer acte de precampanya, s’erigeixen com el “vot útil”",
+      "excerpt": "(ACN) Els candidats d’ERC i Podem a les eleccions generals del 29-N, Gabriel Rufián i Irene Montero, han protagonitzat aquest dissabte el primer acte junts de precampanya al districte de Nou Barris, després del pacte entre les dues formacions per col·laborar en els comicis. Tant Rufián com Montero han defensat una esquerra forta per “sotmetre” […]",
+      "url": "https://beteve.cat/politica/gabriel-rufian-irene-montero-nou-barris-primer-acte-precampanya-eleccions-generals-29-n/",
+      "published": "2026-10-24T13:53:31+02:00",
+      "category": "política",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/rufian-montero-nou-barris-241026-2026-10-24.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Primer acte conjunt de Rufián i Montero pel 29N amb retrets a Junts i al \"masclisme que mata\" de Feijóo",
+      "excerpt": "Rufián ha reivindicat l'aliança amb Podem, al marge de Front Ampli: \"El front som nosaltres\"",
+      "url": "https://www.3cat.cat/3catinfo/primer-acte-conjunt-de-rufian-i-montero-pel-29-n-amb-retrets-a-junts-i-al-masclisme-que-mata-de-feijoo/noticia/3435904/",
+      "published": "2026-10-24T13:47:28+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/4/1792840386043.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un detingut a Alemanya, sospitós d'haver incendiat el Niu de l'Àliga, la famosa residència de muntanya de Hitler",
+      "excerpt": "La policia alemanya ha informat aquest dissabte que ha detingut un home sospitós després que divendres a la nit es declarés un incendi de grans dimensions al xalet conegut popularment amb el nom del Niu de l'Àliga, la famosa residència de muntanya d'Adolf Hitler a l'estat de Baviera, on els alts càrrecs nazis rebien convidats estrangers.",
+      "url": "https://www.ara.cat/internacional/europa/detingut-alemanya-sospitos-d-incendiat-niu-l-aliga-famosa-residencia-muntanya-hitler_1_5889264.html",
+      "published": "2026-10-24T13:44:56+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4cef6a04-e1af-4dfe-9daf-28b4374bf57d_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Mediterrani: el nostre mar Carib, amb tempestes tropicals i huracans de categoria zero",
+      "excerpt": "Les pluges de finals de setembre i de la primera quinzena d’octubre —que han deixat registres superiors als 450 litres en poc més d’un mes— han estat especialment colpidores als barris de muntanya. Els efectes dels aiguats han deixat nombrosos danys materials en aquestes zones, amb una factura municipal de 27 milions d’euros. Un dipòsit […]",
+      "url": "https://beteve.cat/medi-ambient/mediterrani-nou-carib-tempestes-huracans/",
+      "published": "2026-10-24T13:41:32+02:00",
+      "category": "clima",
+      "image": "https://img.beteve.cat/wp-content/uploads/2018/12/151118tempesta.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Rufián i Montero defensen una esquerra forta en l’inici de la precampanya pel 29-N",
       "excerpt": "Primer acte conjunt d’ERC i Podem a Nou Barris després del pacte per col·laborar a les eleccions generals",
@@ -115,8 +175,8 @@
     },
     {
       "source": "betevé",
-      "title": "Hansi Flick passa de polèmiques arbitrals i lloa el Madrid i Mourinho: “És un company molt exitòs”",
-      "excerpt": "Hansi Flick ha passat per la sala de premsa per valorar el clàssic contra el Reial Madrid d’aquest diumenge 25 d’octubre a les 21 h. El tècnic del Barça no ha volgut entrar en cap polèmica pels àrbitres, ha lloat José Mourinho, ha assegurat que la derrota al camp del PSG no els ha afectat […]",
+      "title": "Hansi Flick passa de polèmiques arbitrals i lloa el Madrid i Mourinho: “És un company amb molt èxit”",
+      "excerpt": "Hansi Flick ha passat per la sala de premsa per valorar el clàssic contra el Reial Madrid d’aquest diumenge, 25 d’octubre, a les 21 h. El tècnic del Barça no ha volgut entrar en cap polèmica pels àrbitres, ha lloat José Mourinho, ha assegurat que la derrota al camp del PSG no els ha afectat […]",
       "url": "https://beteve.cat/esports/hansi-flick-no-polemiques-arbitres-lloa-mourinho-abans-classic/",
       "published": "2026-10-24T13:32:03+02:00",
       "category": "esports",
@@ -326,7 +386,7 @@
     {
       "source": "VilaWeb",
       "title": "Nogueras critica l’aliança d’ERC i Podem i considera que Rufián té obediència espanyola",
-      "excerpt": "La candidata de Junts retreu a Rufián i Montero la seva col·laboració i defensa el paper clau del seu partit al congrés espanyol",
+      "excerpt": "La candidata de Junts retreu a Rufián i Montero que col·laborin políticament i defensa el paper clau del seu partit al congrés espanyo",
       "url": "https://www.vilaweb.cat/noticies/nogueras-critica-alianca-erc-podem-rufian-obediencia-espanyola/",
       "published": "2026-10-24T10:35:11+02:00",
       "category": "Espanya",
