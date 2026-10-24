@@ -4,7 +4,7 @@
     {
       "source": "VilaWeb",
       "title": "Un incendi destrueix el Niu de l’Àguila de Hitler a Alemanya",
-      "excerpt": "La policia investiga les causes del foc, que va calcinar l’antic refugi nazi als Alps bavaresos · Hi ha un detingut i no es descarta que el foc sigui intencionat",
+      "excerpt": "La policia investiga l’origen del foc que ha calcinat l’antic refugi nazi als Alps bavaresos i no descarta que fos intencionat · Hi ha un detingut",
       "url": "https://www.vilaweb.cat/noticies/incendi-destrueix-niu-aguila-hitler-alemanya/",
       "published": "2026-10-24T11:19:54+02:00",
       "category": "Europa",
@@ -20,6 +20,16 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/5/1792823130557.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "betevé",
+      "title": "Els Mossos reforcen els protocols de seguretat i autoprotecció davant l’alerta gihadista",
+      "excerpt": "(ACN) Els Mossos d’Esquadra reforçaran les mesures de seguretat i autoprotecció del personal policial davant l’alerta gihadista per una sèrie de missatges en canals interns d’Estat Islàmic en què s’anima a atacar policies i manifestants en les protestes massives convocades aquest cap de setmana a Barcelona i altres punts de l’estat. El comissari sotscap executiu […]",
+      "url": "https://beteve.cat/societat/mossos-reforcen-protocols-seguretat-alerta-gihadista/",
+      "published": "2026-10-24T12:12:07+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/mossos-alerta-terrorista-241026-2026-10-24-scaled.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo · El temps",
@@ -39,8 +49,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Els Mossos reforcen els protocols de seguretat i autoprotecció davant l’alerta gihadista",
-      "excerpt": "La policia espanyola, que opera a les Illes i el País Valencià, també s'ha posat en alerta per missatges que animen a atemptar contra manifestants i policies",
+      "title": "Els Mossos reforcen els protocols de seguretat i autoprotecció per l’alerta gihadista",
+      "excerpt": "La policia espanyola, que opera a les Illes i el País Valencià, també s'ha posat en alerta arran d’uns missatges que inciten a atemptar contra manifestants i policies",
       "url": "https://www.vilaweb.cat/noticies/mossos-reforcen-seguretat-alerta-gihadista/",
       "published": "2026-10-24T10:51:03+02:00",
       "category": "Policia i justícia",
@@ -84,6 +94,106 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "Més d’un miler de persones es manifesten a Perpinyà contra l’encariment de la vida i l’extrema dreta",
+      "excerpt": "La mobilització recorre el centre de la ciutat i provoca talls de trànsit a l’entrada nord",
+      "url": "https://www.vilaweb.cat/noticies/prop-miler-persones-manifesten-perpinya-contra-encariment-vida-extrema-dreta/",
+      "published": "2026-10-24T12:30:52+02:00",
+      "category": "Catalunya Nord",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona impulsa ajudes per comprar bicicletes elèctriques a particulars i empreses",
+      "excerpt": "La bicicleta com a mitjà de transport és una opció per la qual aposten molts ciutadans i bona part d’ells escullen l’elèctrica. Ara bé, això suposa una gran inversió econòmica, i ara l’Ajuntament de Barcelona ha encetat la tramitació d’una convocatòria amb ajudes per la compra d’aquests vehicles. Durant el 2027 s’oferiran ajudes de fins […]",
+      "url": "https://beteve.cat/mobilitat/ajuntament-barcelona-impulsa-ajudes-comprar-bicicletes-electriques/",
+      "published": "2026-10-24T12:30:36+02:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Copia-de-tv-boy-peto-lamine-pc-ok-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Rússia posa a prova els límits d’Europa",
+      "excerpt": "L’agost passat es va localitzar un dron carregat d’explosius a l’aeroport de Leipzig, prop d’un avió de càrrega ucraïnès. El govern alemany va atribuir l’intent d’atac a Rússia, que en nega l’autoria. Leipzig és un important centre logístic europeu. L’episodi mostra que la capacitat de Kíiv per sostenir la guerra també depèn de fàbriques, magatzems i xarxes de transport situats a Europa que permeten fer arribar armament i equips a Ucraïna.",
+      "url": "https://www.ara.cat/opinio/russia-posa-prova-limits-d-europa_129_5888863.html",
+      "published": "2026-10-24T12:24:25+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/de595121-9ef4-4dc3-b9d9-ee7442a26442_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Barcelona comença els tràmits per a concedir ajuts de 400 euros a qui compri una bicicleta elèctrica al desembre",
+      "excerpt": "Els ajuts seran per a particulars i empreses de la ciutat i arribaran fins als 800 euros per bicicleta de càrrega",
+      "url": "https://www.vilaweb.cat/noticies/barcelona-subvencionar-compra-bicicletes-electriques-carrega/",
+      "published": "2026-10-24T12:21:04+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Desallotgen una desena de veïns per l’esfondrament d’una casa deshabitada al centre històric de Balaguer",
+      "excerpt": "Els afectats viuen al costat de la casa esfondrada",
+      "url": "https://www.vilaweb.cat/noticies/desallotgen-desena-persones-collapse-casa-deshabitada-centre-balaguer/",
+      "published": "2026-10-24T12:16:32+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Així ha canviat el mapa del món",
+      "excerpt": "“Un mapa és una eina tècnica, però també dona forma a la percepció que tenim dels pobles i els continents”. Així justificava el ministre d’Afers Exteriors de Togo, Robert Dussey, la resolució aprovada per l’ONU, que recomana fer servir a partir d’ara un mapamundi diferent de l’habitual.",
+      "url": "https://diumenge.ara.cat/diumenge/aixi-canviat-mapa-mon_130_5885793.html",
+      "published": "2026-10-24T12:00:53+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/580cdb1b-77e2-4c63-8492-50c253884ffb_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Joan Garcia valora positivament la catalanitat del vestidor del Barça: “És important tenir-la”",
+      "excerpt": "Joan Garcia ha passat pels micròfons de betevé a les portes del clàssic al Camp Nou. El porter veu molt bé l’equip, tot i que ha afegit que han de seguir treballant perquè a l’octubre no es guanyen els títols. Considera que la derrota contra el PSG no canvia res i que l’objectiu ha de […]",
+      "url": "https://beteve.cat/esports/joan-garcia-valora-positivament-catalanitat-vestidor-barca-es-important-tenir/",
+      "published": "2026-10-24T11:57:12+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/231026pgjoangarcia231026pgjoangarciaOK_4-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "José Mourinho respon les paraules de Fermín sobre els àrbitres: “Ens cansen coses que encara passen”",
+      "excerpt": "Mourinho ja ha començat a jugar el clàssic. El tècnic portuguès ha atès els mitjans de comunicació en la prèvia del duel d’aquest diumenge (21 h) davant el Barça i ha volgut sortir al pas de les declaracions de Fermín López, en què el futbolista andalús es mostrava cansat per les reiterades queixes arbitrals del […]",
+      "url": "https://beteve.cat/esports/mourinho-fermin-arbitres-cansen-coses-encara-passen/",
+      "published": "2026-10-24T11:55:16+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/jose_mourinho_reial_madrid_241026-2026-10-24.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Ibai Gómez dona suport a l’Europa per la gespa i lloa l’afició i l’ambient: “Futbol de veritat”",
+      "excerpt": "L’Europa va perdre per la mínima contra tot un Saragossa, però la imatge de Can Dragó, ple de gom a gom per primer cop en un partit dels escapulats, va captivar Ibai Gómez. L’entrenador dels aragonesos va titllar l’ambient de “futbol de veritat” i va donar suport a l’Europa en la seva lluita per eliminar […]",
+      "url": "https://beteve.cat/esports/europa-suport-gespa-artificial-primera-rfef/",
+      "published": "2026-10-24T11:51:17+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/picto-europa-gespa-aficio-2026-10-24.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El 080 Barcelona Fashion tanca edició amb xifra rècord: més de 18.500 visitants",
+      "excerpt": "El 38è 080 Barcelona Fashion ha registrat un total de 18.500 visitants, segons dades del Departament d’Empresa i Treball. D’aquests, 15.500 han assistit a les desfilades i 3.000 ho han fet a la primera edició de la iniciativa PLEC. Enguany el 080 ha estrenat ubicació, a la Marina Vela del Port Vell, on ha combinat […]",
+      "url": "https://beteve.cat/cultura/080-barcelona-fashion-tanca-xifra-record-visitants-port-vell/",
+      "published": "2026-10-24T11:49:21+02:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/foto-080-web-2026-10-24.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Primeres cues en la festa de l’arquitectura: Barcelona obre les portes amb el 48h Open House",
       "excerpt": "Una biblioteca, un mercat i un centre cívic connectats a través d’una illa de l’Eixample, un recorregut per la transformació del litoral olímpic des de la suite de l’Hotel Arts i un clàssic que cada any desperta l’interès dels visitants, com l’antic convent de la Mercè. Són només tres de les 155 propostes que formen […]",
@@ -115,7 +225,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Nogueras critica l’aliança d’ERC i Podem i considera que Rufián té “obediència espanyola”",
+      "title": "Nogueras critica l’aliança d’ERC i Podem i considera que Rufián té obediència espanyola",
       "excerpt": "La candidata de Junts retreu a Rufián i Montero la seva col·laboració i defensa el paper clau del seu partit al congrés espanyol",
       "url": "https://www.vilaweb.cat/noticies/nogueras-critica-alianca-erc-podem-rufian-obediencia-espanyola/",
       "published": "2026-10-24T10:35:11+02:00",
@@ -125,8 +235,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El Regne Unit recomana tenir un lot d’emergència i recursos a casa per a subsistir durant tres dies",
-      "excerpt": "La campanya del govern britànic aconsella acumular aigua, aliments i medicaments per a afrontar tempestes, ciberatacs i talls dels serveis essencials, com els que ha causat la tempesta Austen",
+      "title": "El Regne Unit recomana de tenir un lot d’emergència i recursos a casa per a subsistir durant tres dies",
+      "excerpt": "La campanya del govern britànic aconsella d’acumular aigua, aliments i medicaments per afrontar tempestes, ciberatacs i talls dels serveis essencials, com els que ha causat la tempesta Austen",
       "url": "https://www.vilaweb.cat/noticies/regne-unit-kit-emergencia-recusos-casa-subsistir-tres-dies/",
       "published": "2026-10-24T10:14:44+02:00",
       "category": "Europa",
@@ -195,8 +305,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Urtasun reivindica ara la defensa del català, tot i les polèmiques que acumula durant els seus anys de ministre",
-      "excerpt": "El ministre reivindica la protecció de les llengües cooficials de cara al 29-N, però ha estat criticat per enviar cartes en castellà a autoritats catalanoparlants i per desconèixer l’ofensiva contra el català a Alacant",
+      "title": "Urtasun reivindica ara la defensa del català malgrat les polèmiques que ha acumulat durant els seus anys com a ministre",
+      "excerpt": "El ministre reivindica la protecció de les llengües cooficials amb vista al 29-N, però ha estat criticat per haver enviat cartes en castellà a autoritats catalanoparlants i per haver ignorat l’ofensiva contra el català a Alacant",
       "url": "https://www.vilaweb.cat/noticies/ernest-urtasun-futur-catala-joc-29n/",
       "published": "2026-10-24T09:25:54+02:00",
       "category": "Espanya",
