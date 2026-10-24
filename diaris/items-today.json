@@ -22,6 +22,32 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: sol, precipitació al vessant nord del Pirineu i temperatures en ascens",
+      "excerpt": "La recuperació de la temperatura diürna marcarà l'últim dia de la setmana",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/",
+      "published": "2026-10-24T11:17:13+02:00",
+      "updated": "2026-10-24T18:38:24+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/1/1792830979516.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432415/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Orriols defensa votar Vox a les eleccions espanyoles",
+      "excerpt": "La dirigent diu que els electors no són propietat privada d’Aliança i que no hi ha contradicció entre votar una formació o l’altra",
+      "url": "https://www.vilaweb.cat/noticies/orriols-defensa-votar-vox-eleccions-espanyoles/",
+      "published": "2026-10-24T18:15:57+02:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "La CUP reivindica els municipis com a motor de transformació social de cara a les eleccions del 2027",
       "excerpt": "L’acte de Vilanova i la Geltrú posa l’accent en l’habitatge digne, els serveis públics i la defensa de la llengua catalana",
@@ -108,22 +134,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge: sol, precipitació al vessant nord del Pirineu i temperatures en ascens",
-      "excerpt": "La recuperació de la temperatura diürna marcarà l'últim dia de la setmana",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/",
-      "published": "2026-10-24T11:17:13+02:00",
-      "updated": "2026-10-24T11:17:53+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/1/1792830979516.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432375/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "VilaWeb",
       "title": "Els Mossos reforcen els protocols de seguretat i autoprotecció per l’alerta gihadista",
       "excerpt": "La policia espanyola, que actua a les Illes i el País Valencià, també s'ha posat en alerta arran d’uns missatges que inciten a atemptar contra manifestants i policies",
@@ -152,6 +162,116 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/3d70b5ac-f48b-4238-8415-7ef815d09165_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Tensió i forta presència policial per una protesta al centre de Barcelona convocada per xarxes",
+      "excerpt": "La concentració, convocada a través de xarxes socials, ha sorprès els vianants que hi havia a la plaça de Catalunya",
+      "url": "https://www.3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941/",
+      "published": "2026-10-24T18:28:00+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/3/0/1792859047003.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La garrofa, el fruit mediterrani de propietats excel·lents que li pot fer ombra al cacau",
+      "excerpt": "La garrofa és un fruit mediterrani “inconfusible” pel seu color marró fosc, lluent i la seva forma de banya, afirma el Joan Solé, biòleg i educador ambiental de l’Aula Bosc Turull (passeig de Turull, 2). També per la seva olor quan es torra i el seu sabor dolç. A més, és un aliment molt versàtil […]",
+      "url": "https://beteve.cat/estils-de-vida/garrofa-fruit-alternativa-cacau/",
+      "published": "2026-10-24T18:24:30+02:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/garrofa-cistell-1-2026-10-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Rayo Majadahonda furga en la ferida del Sant Andreu, que encadena quatre partits sense guanyar",
+      "excerpt": "El Sant Andreu no aconsegueix guanyar. El Rayo Majadahonda, un rival que té com a objectiu la permanència i que sumava quatre derrotes consecutives, s’ha imposat als quadribarrats per 2 a 1. Els de Natxo González pateixen un petit sotrac i encadenen quatre enfrontaments sense conèixer la victòria. Primera meitat dolenta dels dos conjunts Després […]",
+      "url": "https://beteve.cat/esports/rayo-majadahonda-furga-ferida-sant-andreu-2-1/",
+      "published": "2026-10-24T18:21:16+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/rayo-majadahonda-sant-andreu-primera-rfef-2026-10-24.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El Racing de Santander fa trontollar Manolo González",
+      "excerpt": "Manolo González està contra les cordes. El tècnic de l'Espanyol afrontava la visita al Racing de Santander necessitat d'una reacció que no va arribar i va sortir del Sardinero encara més debilitat. Ni una decisió d'allò més controvertida de Gil Manzano, un àrbitre de funest record per als periquitos, pot amagar una realitat cada cop més difícil de sostenir: l'equip no arrenca i el marge del seu entrenador s'esgota.",
+      "url": "https://www.ara.cat/esports/rcd-espanyol/racing-santander-trontollar-manolo-gonzalez_1_5889365.html",
+      "published": "2026-10-24T18:11:32+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/26f542f7-5be3-47ec-93e2-b09a6ad27c02_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Okupes vs. grans tenidors",
+      "excerpt": "El debat polític espanyol s’assembla cada cop més a les tertúlies esportives o a la crònica social. I tu, amb qui vas? Amb els okupes o amb els grans tenidors? Quin absurd dilema! Però si arribem a la síntesi màxima de les ofertes electorals, tal com se’ns presenta a les xarxes socials, sembla que ens veiem abocats a aquesta mena de maniqueisme. I no ens ho podem permetre: Tenim al davant dos reptes enormes, que són l’habitatge i la immigració. Tots dos estan íntimament relacionats,…",
+      "url": "https://www.ara.cat/opinio/okupes-vs-grans-tenidors_129_5889404.html",
+      "published": "2026-10-24T18:03:18+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5819f6eb-c392-4fba-854d-db4906263dfb_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El canvi climàtic també es vota",
+      "excerpt": "Després d'un estiu de calor sufocant, incendis i pluges torrencials, sembla que la tardor ha arribat per fi a Catalunya. Entrem de ple en una precampanya electoral, ara ja sense nits tòrrides que no ens deixen dormir, alertes als mòbils ni onades de calor. Però tot apunta que el canvi climàtic serà un dels grans absents del debat.",
+      "url": "https://www.ara.cat/opinio/canvi-climatic-tambe-vota_129_5888175.html",
+      "published": "2026-10-24T18:00:23+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fa220b62-889e-4933-97ce-08fe3dd464fc_16-9-aspect-ratio_default_0_x1232y548.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les claus de Barcelona",
+      "excerpt": "Una amiga m’envia una fotografia preciosa d’un llençol penjat a França, amb els carrers plens de manifestants, on s’hi llegeix: “La burgesia prepararà la guerra, el jovent prepara el futur”. És aquesta tensió constant entre la visió pessimista i interessada de la por, la de culpar els migrants o el creixement de les ciutats (¿us imagineu que els nostres avis, als anys seixanta, s’haguessin oposat a la tendència demogràfica?) i la responsabilitat de planificar un futur una mica més encoratjador el que em connecta amb…",
+      "url": "https://www.ara.cat/opinio/claus-barcelona_129_5884178.html",
+      "published": "2026-10-24T18:00:23+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/70d95883-a12e-4438-8d9e-df3cb92031c5_16-9-aspect-ratio_default_0_x3198y949.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El perill té amo",
+      "excerpt": "Durant la Guerra Freda, el món va estar dues vegades al llindar d’una conflagració atòmica. L’octubre de 1962, durant la crisi dels míssils cubans, un oficial de la marina soviètica, Vasili Arjípov, a bord del submarí B-59, incomunicat i sacsejat per càrregues de profunditat llançades per destructors dels Estats Units, va negar-se a prémer el botó nuclear. Per detonar el torpede calia la decisió unànime del comandant, d’ell mateix i del comissari polític. A diferència dels altres dos, Arjípov va dir que no.",
+      "url": "https://www.ara.cat/opinio/perill-amo_129_5886280.html",
+      "published": "2026-10-24T18:00:23+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e0bfc456-8caa-4db3-b555-c60db75d8917_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "“Les bromes porten aigua”",
+      "excerpt": "Segons una dita catalana ancestral, “les bromes porten aigua”. És semànticament interessant perquè juga amb les dues accepcions de la paraula broma : el meteorològic, que equival a boira, i el jocós, en el sentit que poden fer plorar o, més àmpliament, ser desagradables o tenir conseqüències negatives. Vejam com apliquem el refrany a dos correus que he rebut, referits tots dos a un diari del mateix dia.",
+      "url": "https://www.ara.cat/defensor-del-lector/bromes-porten-aigua_129_5887318.html",
+      "published": "2026-10-24T18:00:22+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1963fdac-60f7-46e8-9802-b050048ccac4_source-aspect-ratio_default_0_x747y590.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Desenes de milers de francesos tornen a protestar al carrer en una jornada amb pocs incidents",
+      "excerpt": "Desenes de milers de persones han tornat a sortir al carrer a França per protestar aquest dissabte contra l'elevat cost de la vida i la falta d'inversions en educació. A diferència del 17 d'octubre, en què moltes ciutats van viure moments de caos amb incendis, saquejos i enfrontaments amb la policia, aquest dissabte la mobilització ciutadana ha estat més tranquil·la i només s'han registrat alguns aldarulls en ciutats com Lió, Marsella i Niça. A París, la marxa ha estat multitudinària, pacífica i gairebé sense incidents.…",
+      "url": "https://www.ara.cat/internacional/europa/desenes-milers-francesos-tornen-protestar-carrer-jornada-pocs-incidents_1_5889371.html",
+      "published": "2026-10-24T17:45:27+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8e76ac76-34c9-42d2-98a9-51ad22e1767f_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "B de gust: Jazminos",
+      "excerpt": "Assaboreix l’oferta gastronòmica de Barcelona cada migdia. El ‘B de gust’ et convida a entrar a bars i forns de barri, restaurants de cuina catalana o internacional i mercats de producte fresc. Tot això, amanit amb entrevistes, receptes, reportatges i recomanacions. Presentat per Carmen Cortés.",
+      "url": "https://beteve.cat/b-de-gust/b-de-gust-36/",
+      "published": "2026-10-24T17:40:47+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -184,6 +304,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Tons de tardor: calendari setmanal de coloració dels caducifolis catalans",
+      "excerpt": "La tardor ja és aquí, els dies s’escurcen i, tot i alguns alts i baixos, la temperatura tendeix a baixar gradualment. Els tons de tardor als arbres caducifolis solen començar habitualment a principis d’octubre a les cotes mitjanes i altes dels Pirineus i al llarg del novembre també s’acaben estenent per la terra baixa i, […]",
+      "url": "https://beteve.cat/medi-ambient/calendari-setmanal-colors-tardor-caducifolis-catalunya/",
+      "published": "2026-10-24T17:13:31+02:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/colors-tardor-catalunya-barcelona-2026-10-24.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "“El malvat mai creu ser el malvat. Només al cinema el dolent riu sinistrament”",
       "excerpt": "Acaba de publicar El fill de l'oligarca (Periscopi/Seix Barral, traducció al català de Ricard Gil), una investigació dolorosa i fascinant sobre un jove que mor després de precipitar-se al Tàmesi des d'un cinquè pis d'un apartament de luxe del Riverside londinenc. Patrick Radden Keefe s'endinsa en els motius d'aquell salt, en la doble vida que portava i, sobretot, en el contrast que sorgeix entre la façana resplendent que és el Londres actual i el seu interior, corromput pels diners.",
@@ -201,6 +331,16 @@
       "published": "2026-10-24T16:55:05+02:00",
       "category": "Illes",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’exposició dels 80 anys de la fàbrica Pegaso: vehicles clàssics, records i molts retrobaments",
+      "excerpt": "Al febrer, antics empleats de la fàbrica Pegaso van projectar un primer esbós del que hauria de ser l’exposició dels 80 anys d’aquesta indústria. Sabien que volien el Parc de la Pegaso de fons i un grapat de vehicles per representar el valor de la marca. Aquest dissabte, després d’aconseguir tots els contactes, batallar per […]",
+      "url": "https://beteve.cat/societat/exposicio-80-anys-pegaso-vehicles-records-retrobaments/",
+      "published": "2026-10-24T16:50:48+02:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/exposicio-pegaso-80-anys-2-2026-10-24.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -340,7 +480,7 @@
       "url": "https://www.ara.cat/cultura/arquitectura/tothom-vol-aconseguir-efecte-guggenheim-idea-passat_128_5886126.html",
       "published": "2026-10-24T13:31:35+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/c4d130f0-7300-4551-a318-a4e0a50fe65b_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/c4d130f0-7300-4551-a318-a4e0a50fe65b_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -395,12 +535,12 @@
     },
     {
       "source": "3CatInfo",
-      "title": "En marxa la multitudinària manifestació a París, en un dissabte de nombroses protestes a França",
-      "excerpt": "A Orleans, més d'11.000 persones s'han manifestat contra la celebració del Congrés de Reagrupament Nacional, mentre que a Lió la policia ha fet servir gasos lacrimògens per dispersar una concentració",
+      "title": "Nous disturbis a França després de les multitudinàries protestes pacífiques pel cost de la vida",
+      "excerpt": "Més de 400.000 persones, segons la policia, s'han manifestat aquest dissabte a tot el país contra l'encariment de la vida, el racisme i el feixisme",
       "url": "https://www.3cat.cat/3catinfo/primeres-manifestacions-a-franca-amb-protestes-a-orleans-contra-le-pen-i-gasos-lacrimogens-a-lio/noticia/3435897/",
       "published": "2026-10-24T12:55:24+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/8/1792848032286.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/6/1792858940361.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -445,7 +585,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Barcelona comença els tràmits per a concedir ajuts de 400 euros a qui compri una bicicleta elèctrica al desembre",
+      "title": "Barcelona engega els tràmits per a concedir ajuts de 400 euros per a comprar bicicletes elèctriques al desembre",
       "excerpt": "Els ajuts seran per a particulars i empreses de la ciutat i arribaran fins als 800 euros per bicicleta de càrrega",
       "url": "https://www.vilaweb.cat/noticies/barcelona-subvencionar-compra-bicicletes-electriques-carrega/",
       "published": "2026-10-24T12:21:04+02:00",
@@ -615,7 +755,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Urtasun reivindica ara la defensa del català malgrat les polèmiques que ha acumulat durant els seus anys com a ministre",
+      "title": "Urtasun reivindica ara la defensa del català malgrat les polèmiques que ha acumulat durant l’etapa com a ministre",
       "excerpt": "El ministre reivindica la protecció de les llengües cooficials amb vista al 29-N · Ha estat criticat per haver enviat cartes en castellà a autoritats catalanoparlants i per haver ignorat l’ofensiva contra el català a Alacant",
       "url": "https://www.vilaweb.cat/noticies/ernest-urtasun-futur-catala-joc-29n/",
       "published": "2026-10-24T09:25:54+02:00",
