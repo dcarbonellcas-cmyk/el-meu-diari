@@ -3,19 +3,59 @@
   "items": [
     {
       "source": "3CatInfo · El temps",
-      "title": "La previsió del cap de setmana: cel variable i temperatura amunt i avall",
-      "excerpt": "Tindrem alguns xàfecs puntuals per començar dissabte",
+      "title": "La previsió de dissabte: cel variable, algun xàfec puntual i temperatura en descens",
+      "excerpt": "Hem tingut alguns xàfecs de matinada per començar el dissabte",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/",
       "published": "2026-10-23T09:19:50+02:00",
-      "updated": "2026-10-24T06:41:43+02:00",
+      "updated": "2026-10-24T07:41:11+02:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/2/3/1792787399532.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432336/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6432375/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Canvi d’hora: per què ja no té sentit?",
+      "excerpt": "El canvi d’hora d’estiu i hivern es va instaurar de manera estable el 1974 arran de la crisi del petroli per intentar estalviar energia. Des d’aleshores cada sis mesos avancem o endarrerim una hora els rellotges a la primavera i a la tardor. El gest es continua fent malgrat que molts experts asseguren que, si […]",
+      "url": "https://beteve.cat/economia/per-que-canvi-hora-no-te-sentit/",
+      "published": "2026-10-24T07:30:00+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/03/Copia-de-Copia-de-Disseny-sense-titol-1-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Instruccions reflexives per ser un dissident",
+      "excerpt": "Com ser un dissident , del periodista nord-americà Gal Beckerman (1976), és un assaig en forma de manual d’instruccions sobre un tema –un concepte, un posicionament vital, una actitud davant el poder– que, d’entrada, no és gens fàcil de definir i de delimitar. De què parlem exactament quan parlem de dissidència, de dissidents? Des del moment que tant dissident és un creient cristià que durant l’Edat Mitjana trencava amb la jerarquia catòlica romana com un obrer alemany que es negava a deixar-se arrossegar per l’eufòria…",
+      "url": "https://llegim.ara.cat/critiques-literaries/instruccions-reflexives-dissident-gal-beckerman_1_5887339.html",
+      "published": "2026-10-24T07:15:37+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6a1addaf-4504-4599-9e97-c8516b322e11_16-9-aspect-ratio_default_0_x2431y198.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Narcís, el nom del patró de Girona que està a punt de desaparèixer",
+      "excerpt": "El nom de Narcís embriaga com la família de plantes bulboses homònima amb flors boniques i perfumades ( Narcissus ); així i tot, és un d’aquells noms en perill d’extinció a casa nostra. Entre els noms masculins, Narcís ocupa avui la 239a posició a Catalunya, molt lluny de la 125a posició que té entre els nascuts abans del 1940.",
+      "url": "https://criatures.ara.cat/criatures/narcis-nom-patro-girona-punt-desapareixer_1_5885126.html",
+      "published": "2026-10-24T07:00:27+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/44c782ea-28c9-467f-847e-00def5e8bde8_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Pastís de poma, la recepta de l'Ada Parellada",
+      "excerpt": "Avui teniu gent a berenar? Voleu cuinar amb la mainada? O senzillament teniu ganes de posar-vos el davantal? Feu aquest pastís de poma que proposa la cuinera del restaurant Semproniana Ada Parellada. Senzillíssim, a més a més.",
+      "url": "https://mengem.ara.cat/receptes/pastis-poma-recepta-l-ada-parellada_1_5855244.html",
+      "published": "2026-10-24T07:00:26+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3544c30b-d1df-4255-89ba-888936792cac_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     }
   ]
 }
