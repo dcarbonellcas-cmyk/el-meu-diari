@@ -22,6 +22,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "ARA",
+      "title": "Accés a l’habitatge i emancipació",
+      "excerpt": "El tercer episodi del pòdcast Tocar sostre aborda les dificultats d’accés a l’habitatge i els reptes que plantegen per a l’emancipació. Hi participen Pol Casellas , arquitecte i comunicador digital; Jose Téllez , representant de Sostre Cívic; i Anna Puigdevall , directora general de Som Habitatge. Modera Laura Casserres, periodista de l’ARA especialitzada en habitatge.",
+      "url": "https://www.ara.cat/podcasts/tocar-sostre/acces-l-habitatge-emancipacio_1_5888450.html",
+      "published": "2026-10-24T15:00:05+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d0e7809d-a68b-4d2e-9072-37b99b60fb01_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "Innovacions en seguretat, ciutats adaptades i formació: antídot contra la sinistralitat dels motoristes",
       "excerpt": "Desenes de professionals i experts d'àmbit internacional procuren blindar el col·lectiu en un congrés únic sobre motos i seguretat",
@@ -104,9 +114,29 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "Mataró estudia denunciar una alcaldessa d'Extremadura per enviar-li uns ocupes en taxi",
+      "excerpt": "Nieves del Vado, alcaldessa del PP de Baños de Montemayor, admet que va pagar el desplaçament a uns ocupes per fer-los fora",
+      "url": "https://www.3cat.cat/3catinfo/mataro-estudia-denunciar-una-alcaldessa-dextremadura-per-enviar-li-uns-ocupes-en-taxi/noticia/3435922/",
+      "published": "2026-10-24T15:27:18+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/1/1792846700610.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Addictes a Mourinho",
+      "excerpt": "José Mourinho va aparèixer en la prèvia del clàssic amb un perfil baix i va deixar els addictes al drama orfes de la polèmica de torn. Que no es preocupin, que tornarà el Mou que els enganxa amb els seus grans èxits d'ahir, d'avui i de sempre quan perdi. És a dir, aquest mateix diumenge si es compleixen els pronòstics que atorguen al Barça l'estatus de favorit.",
+      "url": "https://www.ara.cat/esports/futbol/addictes-mourinho_129_5889283.html",
+      "published": "2026-10-24T15:01:06+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/35246d67-06e5-4da9-a396-6015dfe5c43d_16-9-aspect-ratio_default_1061219.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Rufián i Montero comencen la campanya disparant a Colau: “El front som nosaltres”",
-      "excerpt": "La líder de Podem, Irene Montero, i el republicà Gabriel Rufián han engegat la precampanya del 29-N carregant contra la resta de les esquerres a escala estatal , i s’han autoerigit en l’única alternativa possible a la dreta i a l’extrema dreta espanyola. Fent referència implícita a la coalició progressista liderada per Ada Colau, Front Ampli, l’exministra d’Igualtat els ha retret que “s’assemblen molt al PSOE” i que “es presentin a les eleccions amb les mateixes paperetes”, tot i que només concorren de forma conjunta…",
+      "excerpt": "La líder de Podem, Irene Montero, i el republicà Gabriel Rufián han engegat la precampanya del 29-N carregant contra la resta de les esquerres a escala estatal , i s’han autoerigit en l’única alternativa possible a la dreta i a l’extrema dreta espanyola. Fent referència implícita a la coalició progressista liderada per Ada Colau, Front Ampli, l’exministra d’Igualtat els ha retret que “s’assemblen molt al PSOE” i els ha suggerit que “es presentin a les eleccions amb les mateixes paperetes”, tot i que només concorren…",
       "url": "https://www.ara.cat/politica/eleccions-generals/rufian-montero-comencen-campanya-disparant-colau-front_1_5889325.html",
       "published": "2026-10-24T14:19:35+02:00",
       "category": "Actualitat",
@@ -136,7 +166,7 @@
     {
       "source": "3CatInfo",
       "title": "Primer acte conjunt de Rufián i Montero pel 29N amb retrets a Junts i al \"masclisme que mata\" de Feijóo",
-      "excerpt": "Rufián ha reivindicat l'aliança amb Podem, al marge de Front Ampli: \"El front som nosaltres\"",
+      "excerpt": "Rufián ha reivindicat l'aliança amb Podem, al marge del Front Ampli: \"El front som nosaltres\"",
       "url": "https://www.3cat.cat/3catinfo/primer-acte-conjunt-de-rufian-i-montero-pel-29-n-amb-retrets-a-junts-i-al-masclisme-que-mata-de-feijoo/noticia/3435904/",
       "published": "2026-10-24T13:47:28+02:00",
       "category": "Actualitat",
@@ -205,7 +235,7 @@
     },
     {
       "source": "ARA",
-      "title": "El pla dels demòcrates per ressuscitar en les midterms i vèncer Trump",
+      "title": "El pla dels demòcrates per ressuscitar en les 'midterms' i vèncer Trump",
       "excerpt": "Els demòcrates busquen retrobar la seva veu de cara al pròxim tres de novembre. Més enllà del plebiscit sobre Donald Trump, les eleccions de mig mandat poden marcar el punt en què el Partit Demòcrata trobi una solució a la crisi d'identitat que pateix. Els comicis són la primera oportunitat real de la formació per reconciliar-se amb unes bases desencisades després de la desfeta electoral del 2024.",
       "url": "https://www.ara.cat/internacional/estats-units/pla-dels-democrates-ressuscitar-midterms-vencer-trump_1_5888413.html",
       "published": "2026-10-24T13:00:38+02:00",
@@ -245,12 +275,12 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Primeres manifestacions a França, amb protestes a Orleans contra Le Pen i gasos lacrimògens a Lió",
-      "excerpt": "A Orleans, 11.000 persones han participat aquest dissabte en una marxa contra la celebració del Congrés de Reagrupament Nacional, mentre a París els sindicats han acceptat el canvi de recorregut",
+      "title": "En marxa la multitudinària manifestació a París, en un dissabte de nombroses protestes a França",
+      "excerpt": "A Orleans, més de 11.000 persones s'han manifestat contra la celebració del Congrés de Reagrupament Nacional, mentre que a Lió la policia ha fet servir gasos lacrimògens per dispersar una concentració",
       "url": "https://www.3cat.cat/3catinfo/primeres-manifestacions-a-franca-amb-protestes-a-orleans-contra-le-pen-i-gasos-lacrimogens-a-lio/noticia/3435897/",
       "published": "2026-10-24T12:55:24+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/9/4/1792838892549.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/8/1792848032286.jpg",
       "priority": "3 · Altres notícies"
     },
     {
