@@ -2,6 +2,16 @@
   "date": "2026-10-24",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Un incendi destrueix el Niu de l’Àguila de Hitler a Alemanya",
+      "excerpt": "La policia investiga les causes del foc, que va calcinar l’antic refugi nazi als Alps bavaresos · Hi ha un detingut i no es descarta que el foc sigui intencionat",
+      "url": "https://www.vilaweb.cat/noticies/incendi-destrueix-niu-aguila-hitler-alemanya/",
+      "published": "2026-10-24T11:19:54+02:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo",
       "title": "Detenen un home per l'incendi del Niu de l'Àguila, el xalet refugi d'Adolf Hitler als Alps",
       "excerpt": "Tot i que s'hi han desplaçat prop de 200 bombers, l'edifici, utilitzat pel dictador per celebrar reunions amb comandaments militars i diplomàtics, ha quedat completament calcinat",
@@ -10,6 +20,32 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/5/1792823130557.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: sol, precipitació al vessant nord del Pirineu i temperatures en ascens",
+      "excerpt": "La recuperació de la temperatura diürna marcarà l'últim dia de la setmana",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/",
+      "published": "2026-10-24T11:17:13+02:00",
+      "updated": "2026-10-24T11:17:53+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/1/1792830979516.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432375/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els Mossos reforcen els protocols de seguretat i autoprotecció davant l’alerta gihadista",
+      "excerpt": "La policia espanyola, que opera a les Illes i el País Valencià, també s'ha posat en alerta per missatges que animen a atemptar contra manifestants i policies",
+      "url": "https://www.vilaweb.cat/noticies/mossos-reforcen-seguretat-alerta-gihadista/",
+      "published": "2026-10-24T10:51:03+02:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -48,6 +84,36 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Primeres cues en la festa de l’arquitectura: Barcelona obre les portes amb el 48h Open House",
+      "excerpt": "Una biblioteca, un mercat i un centre cívic connectats a través d’una illa de l’Eixample, un recorregut per la transformació del litoral olímpic des de la suite de l’Hotel Arts i un clàssic que cada any desperta l’interès dels visitants, com l’antic convent de la Mercè. Són només tres de les 155 propostes que formen […]",
+      "url": "https://beteve.cat/cultura/primer-dia-portes-obertes-48h-open-house-barcelona-arquitectura/",
+      "published": "2026-10-24T11:06:00+02:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cues-palau-macaya-241026-2026-10-24.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Segona mort per Ebola a Kenya mentre l'epidèmia assola la RD del Congo",
+      "excerpt": "La víctima era familiar del primer mort al país, i Nigèria també ha confirmat un contagi",
+      "url": "https://www.3cat.cat/3catinfo/segona-mort-per-ebola-a-kenya-mentre-lepidemia-assola-la-rd-del-congo/noticia/3435888/",
+      "published": "2026-10-24T10:56:58+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/0/1792826426506.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Seat atura torns per manca de subministrament de bateries",
+      "excerpt": "(ACN) Seat ha aturat els tres torns de divendres i aturarà els tres de dilluns al taller de muntatge de la planta de Martorell —la dedicada a vehicles elèctrics— per un problema puntual de manca de subministraments de cel·les de bateries, segons ha avançat La Vanguardia i ha confirmat l’ACN. L’empresa confia que dimarts es […]",
+      "url": "https://beteve.cat/economia/seat-atura-torns-manca-subministraments-bateries/",
+      "published": "2026-10-24T10:39:58+02:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/06/seat-electrics.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Nogueras critica l’aliança d’ERC i Podem i considera que Rufián té “obediència espanyola”",
       "excerpt": "La candidata de Junts retreu a Rufián i Montero la seva col·laboració i defensa el paper clau del seu partit al congrés espanyol",
@@ -69,8 +135,8 @@
     },
     {
       "source": "betevé",
-      "title": "Els 4 Gats vol recuperar el públic local amb una “aposta radical” per la cuina catalana",
-      "excerpt": "Els 4 Gats (Montsió, 3) vol tornar a ser un referent de la cuina catalana a Barcelona i ho vol fer envoltat del públic local, aquell que omplia el menjador del mític restaurant modernista quan el pare de la Sílvia Ferré i dels seus tres germans el va adquirir el 1984. L’aposta és forta i […]",
+      "title": "El 4 Gats vol recuperar el públic local amb una “aposta radical” per la cuina catalana",
+      "excerpt": "El 4 Gats (Montsió, 3) vol tornar a ser un referent de la cuina catalana a Barcelona i ho vol fer envoltat del públic local, aquell que omplia el menjador del mític restaurant modernista quan el pare de Sílvia Ferré i dels seus tres germans el va adquirir, el 1984. L’aposta és forta i arriba […]",
       "url": "https://beteve.cat/estils-de-vida/restaurant-4-gats-recuperar-public-local-cuina-catalana/",
       "published": "2026-10-24T10:10:41+02:00",
       "category": "estils de vida",
@@ -90,7 +156,7 @@
     {
       "source": "ARA",
       "title": "Pas de gegant de Marc Márquez per tornar a ser campió mundial",
-      "excerpt": "Gir de guió al Mundial de GP. Els astres es van alineant a favor de Marc Márquez, guanyador de la cursa ràpida del Gran premi d'Austràlia en una jornada on tot li ha anat de cara. Primer s'ha fet amb la pole position per al Gran premi de diumenge i després ha guanyat la cursa en modalitat esprint, èxit que li ha permès recuperat el liderat del Mundial. I de pas ha vist com el seu gran rival, Jorge Martin, patia una caiguda que evitarà…",
+      "excerpt": "Gir de guió al Mundial de GP. Els astres es van alineant a favor de Marc Márquez, guanyador de la cursa ràpida del Gran premi d'Austràlia en una jornada en què tot li ha anat de cara. Primer s'ha fet amb la pole position per al Gran premi de diumenge i després ha guanyat la cursa en modalitat esprint, èxit que li ha permès recuperar la primera posició del Mundial. I de pas ha vist com el seu gran rival, Jorge Martín, patia una caiguda…",
       "url": "https://www.ara.cat/esports/motor/motogp/pas-gegant-marc-marquez-tornar-campio-mundial_1_5889129.html",
       "published": "2026-10-24T09:58:12+02:00",
       "category": "Actualitat",
@@ -129,8 +195,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Ernest Urtasun considera que el futur del català és en joc el 29-N",
-      "excerpt": "El ministre de Cultura espanyol defensa les polítiques pel català i critica la gestió de Rodalia",
+      "title": "Urtasun reivindica ara la defensa del català, tot i les polèmiques que acumula durant els seus anys de ministre",
+      "excerpt": "El ministre reivindica la protecció de les llengües cooficials de cara al 29-N, però ha estat criticat per enviar cartes en castellà a autoritats catalanoparlants i per desconèixer l’ofensiva contra el català a Alacant",
       "url": "https://www.vilaweb.cat/noticies/ernest-urtasun-futur-catala-joc-29n/",
       "published": "2026-10-24T09:25:54+02:00",
       "category": "Espanya",
@@ -159,8 +225,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La policia espanyola carrega contra centenars d’antifeixistes a Maó que protestaven contra Santiago Abascal",
-      "excerpt": "Els manifestants han irromput la plaça de la Constitució, però no han aconseguit d'interrompre el míting del dirigent de Vox",
+      "title": "La policia espanyola reprimeix centenars d’antifeixistes a Maó que protestaven contra Santiago Abascal",
+      "excerpt": "Els manifestants han irromput a la plaça de la Constitució, però no han aconseguit d'interrompre el míting del dirigent de Vox",
       "url": "https://www.vilaweb.cat/noticies/policia-espanyola-carrega-quatre-cents-antifeixistes-santiago-abascal/",
       "published": "2026-10-24T08:20:54+02:00",
       "category": "Illes",
@@ -179,7 +245,7 @@
     },
     {
       "source": "ARA",
-      "title": "El PP i Vox acorden un matrimoni de conveniència per al 29-N",
+      "title": "El pacte de Vox i PP per acabar amb les esquerres el 29-N",
       "excerpt": "Les mateixes cares, però una interacció diferent. Alberto Núñez Feijóo i Santiago Abascal repeteixen com a candidats del bloc de la dreta en les eleccions del 29 de novembre, però, a diferència dels anteriors comicis, de fa tres anys i mig, l'estratègia del PP i Vox sobre com relacionar-se entre ells s'ha transformat. Han passat de la desconfiança i els atacs creuats de 2023 a una mena de pacte de no-agressió entre els dos partits, que han assumit que, ara per ara, estan condemnats a…",
       "url": "https://www.ara.cat/politica/pp-vox-acorden-matrimoni-conveniencia-29-n_1_5885853.html",
       "published": "2026-10-24T08:00:15+02:00",
@@ -239,7 +305,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Les portades del dissabte 24 de octubre de 2026",
+      "title": "Les portades del dissabte 24 d’octubre de 2026",
       "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
       "url": "https://www.vilaweb.cat/noticies/les-portades-del-dissabte-24-de-octubre-de-2026/",
       "published": "2026-10-24T08:00:02+02:00",
