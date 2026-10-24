@@ -42,9 +42,19 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "ARA",
+      "title": "Què ens dona seguretat en un món incert?",
+      "excerpt": "El context no és gaire tranquil·litzador. Gairebé cap de les certeses que teníem fa una dècada es manté en peu. Rússia ja no és un soci energètic fiable per a Europa sinó un enèmic que pretén apoderar-se d'Ucraïna i posa a prova països europeus amb drons, ciberatacs, intervencionisme electoral i provocacions frontereres. Els Estats Units de Donald Trump ja no són un aliat segur i, tot i els tractats firmats, no està clar que acudissin al rescat dels europeus en un potencial atac rus; més…",
+      "url": "https://www.ara.cat/editorial/dona-seguretat-mon-incert_129_5888874.html",
+      "published": "2026-10-24T19:45:20+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/29ddf893-f8de-48a6-92db-2582c6a34606_source-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
-      "title": "Tensió al centre de Barcelona en una concentració que segueix l’onada de protestes a Europa",
-      "excerpt": "Els Mossos d’Esquadra han desplegat aquest dissabte a la tarda un ampli dispositiu policial a la plaça de Catalunya i els seus voltants per una concentració que s’ha convocat a través de les xarxes socials. S’han viscut moments de tensió, algunes càrregues, moltes corredisses, identificacions i algunes detencions. La policia ha carregat després del llançament […]",
+      "title": "Aldarulls al centre de Barcelona per una concentració de joves que segueix les protestes a Europa",
+      "excerpt": "Els Mossos d’Esquadra han desplegat aquest dissabte a la tarda un ampli dispositiu policial a la plaça de Catalunya i els seus voltants per una concentració que s’ha convocat a través de les xarxes socials. Des de primera hora de la tarda s’han viscut moments de tensió, càrregues, corredisses i crema de mobiliari urbà. La […]",
       "url": "https://beteve.cat/societat/tensio-centre-barcelona-concentracio-xarxes/",
       "published": "2026-10-24T18:58:41+02:00",
       "category": "seguretat ciutadana",
@@ -79,8 +89,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La CUP reivindica els municipis com a motor de transformació social de cara a les eleccions del 2027",
-      "excerpt": "L’acte de Vilanova i la Geltrú posa l’accent en l’habitatge digne, els serveis públics i la defensa de la llengua catalana",
+      "title": "La CUP reivindica els municipis com a motor de transformació social amb vista a les eleccions del 2027",
+      "excerpt": "L’acte a Vilanova i la Geltrú posa l’accent en l’habitatge digne, els serveis públics i la defensa de la llengua catalana",
       "url": "https://www.vilaweb.cat/noticies/cup-reivindica-municipis-motor-transformacio-social-eleccions-2027/",
       "published": "2026-10-24T17:23:13+02:00",
       "category": "Principat",
@@ -90,7 +100,7 @@
     {
       "source": "VilaWeb",
       "title": "Carme Gomila, proclamada candidata d’Ara Més al congrés espanyol per les Illes",
-      "excerpt": "Substitueix Vicenç Vidal i encapçalarà la llista d’una candidatura unitària d’esquerres sense Podem",
+      "excerpt": "Substituirà Vicenç Vidal i encapçalarà una candidatura unitària d’esquerres sense Podem",
       "url": "https://www.vilaweb.cat/noticies/carme-gomila-candidata-ara-mes-congres-espanyol-illes/",
       "published": "2026-10-24T16:51:48+02:00",
       "category": "Illes",
@@ -109,8 +119,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "L’Assemblea Educativa convoca una manifestació pel 21 de novembre i un cicle de vagues que començarà el dia 26",
-      "excerpt": "El col·lectiu educatiu reclama més plantilla, millores salarials i aposta per mantindre suspeses les activitats fora del centre",
+      "title": "L’Assemblea Educativa convoca una manifestació per al 21 de novembre i un cicle de vagues que començarà el dia 26",
+      "excerpt": "El col·lectiu educatiu reclama més plantilla i millores salarials i acorda de mantenir suspeses les activitats fora del centre",
       "url": "https://www.vilaweb.cat/noticies/assemblea-educativa-manifestacio-21-novembre-cicle-vagues-comencara-26/",
       "published": "2026-10-24T16:25:37+02:00",
       "category": "Educació",
@@ -194,6 +204,96 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "Agressions i insults racistes i catalanòfobs contra afeccionats de la UE Sant Andreu a Madrid",
+      "excerpt": "Un grup d’ultres del Rayo Majadahonda ha llançat llaunes als seguidors andreuencs, ha insultat un afeccionat negre i n'ha agredit un altre · La Guàrdia Civil ha escortat els seguidors catalans",
+      "url": "https://www.vilaweb.cat/noticies/afeccionats-sant-andreu-agressions-insults-racistes-catalanofobs-madrid/",
+      "published": "2026-10-24T20:38:53+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El PSOE, molt a prop d'emportar-se onze escons de la dreta (i de perdre'n uns quants, també)",
+      "excerpt": "Com ja va passar fa tres anys, el bloc de la dreta parteix amb avantatge en la cursa de les eleccions generals. Falta aproximadament un mes per als comicis i la mitjana de PP i Vox se situa per sobre dels 190 escons, còmodament per sobre dels 176 que marquen la majoria absoluta: la demoscòpia vaticina una lleugera caiguda dels populars, teòricament compensada per l'auge de l'extrema dreta. Però com també va passar el 2023, a mesura que s'acosta la jornada electoral, la distància que…",
+      "url": "https://www.ara.cat/politica/psoe-prop-d-emportar-onze-escons-dreta-perdre-n-quants-tambe_129_5888851.html",
+      "published": "2026-10-24T20:30:02+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5542f2e2-21d6-4a1e-9ea6-6556e81d4d74_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una maneta, festival i espectacle a les Fires del Girona",
+      "excerpt": "Les Fires de Girona van estrenar-se divendres, però les Fires del Girona van ser les que van donar el tret de sortida a un cap de setmana festiu per a la ciutat. Vanat, Unai Hernández, Carles Pérez i companyia van donar permís a tots els ciutadans perquè, després de posar-se el pitet a Montilivi en la golejada contra el Celta Fortuna (5-1), s’ho passin pipa pujant a les atraccions, jugant als camells i ballant a les barraques, inaugurades de matinada amb un concert de Miki…",
+      "url": "https://www.ara.cat/esports/girona-fc/maneta-festival-espectacle-fires-girona_1_5889771.html",
+      "published": "2026-10-24T20:25:22+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8a30a136-a1fc-480a-891b-fdd328224455_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Polítiques d’alfabetització mediàtica, més enllà del mantra",
+      "excerpt": "Com lluitem contra les fake news ? “Amb l’alfabetització mediàtica!”, respon el cor, a l’uníson, amb la satisfacció cofoia de saber-se la resposta. Però, a banda d’entonar aquest clam autocomplaent, ¿què estem fent per realment augmentar-la a les nostres democràcies? Entenc que aquest és el neguit subjacent que ha motivat el manifest de la Plataforma per a l’Educació Mediàtica, que reclama al govern que tradueixi les bones paraules en mesures concretes. Efectivament, com que es tracta d’un afer transversal que de cap manera afecta només…",
+      "url": "https://www.ara.cat/media/politiques-d-alfabetitzacio-mediatica-mes-enlla-mantra_129_5889770.html",
+      "published": "2026-10-24T20:22:34+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/306a25c7-28ee-4fb2-aaac-093dd8ce6946_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Les protestes s'estenen arreu d'Europa: els joves surten al carrer a Itàlia, Albània i Bèlgica",
+      "excerpt": "Al país balcà els enfrontaments entre la policia i els manifestants han deixat més de 300 ferits, mentre que a Bèlgica i Itàlia també hi ha hagut topades amb els cossos policials",
+      "url": "https://www.3cat.cat/3catinfo/les-protestes-sestenen-arreu-deuropa-els-joves-surten-al-carrer-a-italia-albania-i-belgica/noticia/3435927/",
+      "published": "2026-10-24T20:17:45+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/9/1792856573797.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Prop de 700 persones visiten betevé pel 48h Open House Barcelona 2026",
+      "excerpt": "Prop de 700 persones s’han apropat aquest dissabte a betevé per conèixer les instal·lacions del mitjà públic de Barcelona. Amb motiu del 48h Open House Barcelona, l’edifici de betevé ha obert la porta a tots aquells curiosos que han volgut descobrir la televisió barcelonina de ben a prop. Al llarg de tot el dia han […]",
+      "url": "https://beteve.cat/cultura/prop-700-persones-visiten-beteve-48h-open-house-barcelona-2026/",
+      "published": "2026-10-24T20:15:50+02:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/48h-open-house-beteve-fotos-5-2026-10-24.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tensió al centre de Barcelona per una manifestació convocada per les xarxes socials",
+      "excerpt": "Tensió al centre de Barcelona per una concentració convocada a través de les xarxes socials, seguint l'estela de les protestes a França i altres països europeus. Els Mossos d'Esquadra i la Guàrdia Urbana mantenen a aquesta hora un ampli dispositiu desplegat a la plaça Catalunya de la capital catalana i als seus entorns per intentar controlar el grup de centenars de joves que s'hi ha aplegat, la majoria vestits de negre i amb caputxes.",
+      "url": "https://www.ara.cat/societat/tensio-centre-barcelona-manifestacio-convocada-xarxes-socials_1_5889607.html",
+      "published": "2026-10-24T19:47:16+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6076a1a0-90ce-4eef-9db2-1619ec1a2a10_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Grups de joves encaputxats saquegen alguns comerços, calen focs i llancen pedres a la policia a Barcelona",
+      "excerpt": "Els Mossos parlen de grups violents i recomanen de no acostar-se a la zona",
+      "url": "https://www.vilaweb.cat/noticies/carregues-policials-incidents-centre-barcelona-protesta-convocada-xarxes-molts-joves-encaputxats/",
+      "published": "2026-10-24T19:46:21+02:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Incertesa absoluta en l’embat final entre Lula i Bolsonaro fill",
+      "excerpt": "Prop de 159 milions de brasilers amb dret a vot decidiran aquest diumenge qui ocuparà el Palácio do Planalto durant els pròxims quatre anys i, implícitament, el futur de la Nova República tal com va ser concebuda en la Constitució del 1988. El president Lula da Silva, de 80 anys, del Partido dos Trabalhadores (PT), amb una carrera política de cinc dècades, s’enfronta al senador Flávio Bolsonaro, de 45 anys, del Partido Liberal (PL), primogènit de l’expresident empresonat per intent de cop d’estat. La situació…",
+      "url": "https://www.ara.cat/internacional/america/incertesa-absoluta-l-embat-final-lula-bolsonaro-fill_1_5889513.html",
+      "published": "2026-10-24T19:38:12+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/dbc7b513-4a1c-4981-a3e3-817ee91b7228_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Dani Martín cancel·la els dos concerts a Barcelona per la mort del seu pare: \"Vola amunt, capità\"",
       "excerpt": "Dani Martín va anunciar a través de les xarxes que cancel·lava a última hora els dos concerts previstos per a aquest divendres i dissabte a Barcelona. El motiu, \"una situació familiar d'extrema gravetat\". Aquest dissabte el cantant ha explicat que ha mort el seu pare.",
@@ -216,7 +316,7 @@
     {
       "source": "ARA",
       "title": "El sol es combinarà amb els núvols alts en un diumenge més càlid",
-      "excerpt": "La calma dels últims dies tindrà continuïtat de cara a diumenge, després d'un dissabte més fresc i amb un cel enteranyinat per la presència de núvols alts. Diumenge el sol intentarà imposar-se, tot i que encara arribaran bandes de núvols alts que no aconseguiran tapar-lo. On sí que hi haurà més núvols serà al vessant nord pirinenc, on de cara a la tarda hi arribaran algunes precipitacions poc importants. La setmana vinent continuarà marcada per l'estabilitat i per una temperatura que pujarà una mica més.",
+      "excerpt": "La calma dels últims dies tindrà continuïtat de cara a diumenge, després d'un dissabte més fresc i amb un cel enteranyinat per la presència de núvols alts. Diumenge el sol intentarà imposar-se, tot i que encara arribaran bandes de núvols alts que no aconseguiran tapar-lo. On sí que hi haurà més núvols serà al vessant nord pirinenc, on de cara a la tarda arribaran algunes precipitacions poc importants. La setmana vinent continuarà marcada per l'estabilitat i per una temperatura que pujarà una mica més.",
       "url": "https://www.ara.cat/previsions/sol-combinara-nuvols-alts-diumenge-mes-calid_1_5889426.html",
       "published": "2026-10-24T19:20:27+02:00",
       "category": "Actualitat",
@@ -354,6 +454,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "De la televisió als estrímers: els polítics busquen nous votants fora dels mitjans tradicionals",
+      "excerpt": "Els candidats exploren per al 29N noves plataformes, com creadors de contingut, pòdcasts i xarxes socials, en què l'entreteniment guanya protagonisme",
+      "url": "https://www.3cat.cat/3catinfo/de-la-televisio-als-estrimers-els-politics-busquen-nous-votants-fora-dels-mitjans-tradicionals/noticia/3435918/",
+      "published": "2026-10-24T18:42:03+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/7/1792853117270.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "La vinyeta",
       "excerpt": "",
@@ -365,12 +475,12 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Incidents i forta presència policial al centre de Barcelona per una protesta \"contra el sistema\"",
-      "excerpt": "La concentració, convocada a través de xarxes socials, ha sorprès els vianants que hi havia a la plaça de Catalunya",
+      "title": "Aldarulls al centre de Barcelona per una protesta de joves \"contra el sistema\"",
+      "excerpt": "La concentració, convocada a través de xarxes socials, ha derivat en incidents, corredisses, contenidors cremats i carrers tallats al voltant de la plaça de Catalunya",
       "url": "https://www.3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941/",
       "published": "2026-10-24T18:28:00+02:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpeg/3/0/1792859047003.jpeg",
+      "image": "https://img.3cat.cat/multimedia/jpeg/8/8/1792863770088.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -495,12 +605,12 @@
     },
     {
       "source": "ARA",
-      "title": "Els docents convoquen un nou cicle de vagues a les escoles a partir de novembre",
-      "excerpt": "Tornen les mobilitzacions en l'àmbit escolar. L'Assemblea Educativa de Catalunya ha aprovat aquest dissabte un nou cicle de vagues que s'allargarà també fins al segon trimestre del curs. La primera de les aturades està prevista pel 26 de novembre, tres dies abans de les eleccions generals. També han convocat una manifestació prèvia, pel 21 de novembre, i han fet una crida a la vaga general.",
+      "title": "Els docents convoquen un nou cicle de vagues a les escoles a partir del novembre",
+      "excerpt": "Tornen les mobilitzacions en l'àmbit escolar. L'Assemblea Educativa de Catalunya ha aprovat aquest dissabte un nou cicle de vagues que s'allargarà també fins al segon trimestre del curs. La primera de les aturades està prevista per al 26 de novembre, tres dies abans de les eleccions generals. També han convocat una manifestació prèvia, per al 21 de novembre, i han fet una crida a la vaga general.",
       "url": "https://www.ara.cat/societat/educacio/docents-convoquen-nou-cicle-vagues-escoles-partir-novembre_1_5889385.html",
       "published": "2026-10-24T17:16:45+02:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/7e832805-645c-4a2d-b5d4-d6aa96723c5a_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/7e832805-645c-4a2d-b5d4-d6aa96723c5a_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -526,7 +636,7 @@
     {
       "source": "VilaWeb",
       "title": "Més per Menorca condemna la violència policíaca contra manifestants al míting de Vox a Maó",
-      "excerpt": "El partit expressa suport a la ciutadania que es va manifestar pacíficament",
+      "excerpt": "El partit dóna suport a la ciutadania que es va manifestar pacíficament",
       "url": "https://www.vilaweb.cat/noticies/mes-menorca-condemna-violencia-policiaca-contra-manifestants-miting-vox-mao/",
       "published": "2026-10-24T16:55:05+02:00",
       "category": "Illes",
@@ -631,7 +741,12 @@
       "published": "2026-10-24T13:47:28+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/4/1792840386043.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432392/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/primer-acte-conjunt-de-rufian-i-montero-pel-29-n-amb-retrets-a-junts-i-al-masclisme-que-mata-de-feijoo/noticia/3435904/"
+      }
     },
     {
       "source": "ARA",
@@ -655,8 +770,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Rufián i Montero defensen una esquerra forta en l’inici de la precampanya pel 29-N",
-      "excerpt": "Primer acte conjunt d’ERC i Podem a Nou Barris després del pacte per col·laborar a les eleccions generals",
+      "title": "Rufián i Montero defensen una esquerra forta al començament de la pre-campanya del 29-N",
+      "excerpt": "ERC i Podem fan el primer acte conjunt a Nou Barris després del pacte per a col·laborar a les eleccions generals",
       "url": "https://www.vilaweb.cat/noticies/rufian-montero-defensen-esquerra-forta-inici-precampanya-29n/",
       "published": "2026-10-24T13:38:51+02:00",
       "category": "Espanya",
@@ -736,7 +851,7 @@
     {
       "source": "3CatInfo",
       "title": "Nous disturbis a França després de les multitudinàries protestes pacífiques pel cost de la vida",
-      "excerpt": "Més de 400.000 persones, segons la policia, s'han manifestat aquest dissabte a tot el país contra l'encariment de la vida, el racisme i el feixisme",
+      "excerpt": "Ja hi ha un miler de detinguts per aldarulls, enfrontaments amb la policia i pillatge protagonitzats per grups d'emmascarats en ciutats com París, Lió, Marsella, Bordeus, Tolosa, Estrasburg, Nantes, Lilla, Grenoble o Niça",
       "url": "https://www.3cat.cat/3catinfo/primeres-manifestacions-a-franca-amb-protestes-a-orleans-contra-le-pen-i-gasos-lacrimogens-a-lio/noticia/3435897/",
       "published": "2026-10-24T12:55:24+02:00",
       "category": "Actualitat",
@@ -1136,6 +1251,16 @@
       "published": "2026-10-24T07:20:50+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/4/1792777530645.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Canvi d'hora 2026: aquest diumenge torna l'horari d'hivern",
+      "excerpt": "La matinada d'aquest diumenge, 25 d'octubre, els rellotges s'endarreriran una hora i dormirem una hora més: a les 3 seran les 2, i començarà l'horari d'hivern",
+      "url": "https://www.3cat.cat/3catinfo/canvi-dhora-quin-dia-torna-lhorari-dhivern/noticia/3428630/",
+      "published": "2026-10-24T07:20:02+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/8/1792821523684.jpg",
       "priority": "3 · Altres notícies"
     },
     {
