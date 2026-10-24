@@ -52,6 +52,22 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: sol, precipitació al vessant nord del Pirineu i temperatures en ascens",
+      "excerpt": "La recuperació de la temperatura diürna marcarà l'últim dia de la setmana",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/",
+      "published": "2026-10-24T11:17:13+02:00",
+      "updated": "2026-10-24T22:20:54+02:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/1/1792830979516.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432470/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "Què ens dona seguretat en un món incert?",
       "excerpt": "El context no és gaire tranquil·litzador. Gairebé cap de les certeses que teníem fa una dècada es manté en peu. Rússia ja no és un soci energètic fiable per a Europa sinó un enèmic que pretén apoderar-se d'Ucraïna i posa a prova països europeus amb drons, ciberatacs, intervencionisme electoral i provocacions frontereres. Els Estats Units de Donald Trump ja no són un aliat segur i, tot i els tractats firmats, no està clar que acudissin al rescat dels europeus en un potencial atac rus; més…",
@@ -64,27 +80,11 @@
     {
       "source": "betevé",
       "title": "Aldarulls i destrosses al centre de Barcelona per una protesta de joves",
-      "excerpt": "El centre de Barcelona viu aquest dissabte aldarulls i moments de tensió per una protesta juvenil amb contenidors cremats, aparadors de diverses botigues trencats i destrosses al mobiliari urbà. Els Mossos d’Esquadra han desplegat un ampli dispositiu policial als entorns de la plaça de Catalunya on es concentren els fets. La protesta ha començat a […]",
+      "excerpt": "El centre de Barcelona viu aquest dissabte aldarulls i moments de tensió per una protesta juvenil amb contenidors cremats, aparadors de diverses botigues trencats i destrosses al mobiliari urbà. Els Mossos d’Esquadra han desplegat un ampli dispositiu policial als entorns de la plaça de Catalunya on es concentren els fets. A les 23 h hi […]",
       "url": "https://beteve.cat/societat/tensio-centre-barcelona-concentracio-xarxes/",
       "published": "2026-10-24T18:58:41+02:00",
       "category": "seguretat ciutadana",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/aldarulls-catalunya-5-2026-10-24.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge: sol, precipitació al vessant nord del Pirineu i temperatures en ascens",
-      "excerpt": "La recuperació de la temperatura diürna marcarà l'últim dia de la setmana",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/",
-      "published": "2026-10-24T11:17:13+02:00",
-      "updated": "2026-10-24T18:38:24+02:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/1/1792830979516.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432415/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/"
-      },
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/aldarulls-bomber-2026-10-24.jpg",
       "priority": "2 · Important"
     },
     {
@@ -129,7 +129,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "L’Assemblea Educativa convoca una manifestació per al 21 de novembre i un cicle de vagues que començarà el dia 26",
+      "title": "L’Assemblea Educativa convoca una manifestació per al 21 de novembre i un cicle de vagues que començarà el 26",
       "excerpt": "El col·lectiu educatiu reclama més plantilla i millores salarials i acorda de mantenir suspeses les activitats fora del centre",
       "url": "https://www.vilaweb.cat/noticies/assemblea-educativa-manifestacio-21-novembre-cicle-vagues-comencara-26/",
       "published": "2026-10-24T16:25:37+02:00",
@@ -215,6 +215,56 @@
     },
     {
       "source": "ARA",
+      "title": "El desequilibri de Graham Hansen tomba el mur defensiu del Granada",
+      "excerpt": "El Barça va suar de valent per sumar una nova victòria a la Lliga F. Les blaugranes, que es van trobar un mur defensiu al davant, van haver d'esperar a la segona part per trobar el desequilibri de Caroline Graham Hansen, que va generar els tres gols i va liderar l'equip de Pere Romeu al triomf contra el Granada (3-0).",
+      "url": "https://www.ara.cat/esports/barca-femeni/desequilibri-graham-hansen-tomba-mur-defensiu-granada_1_5889613.html",
+      "published": "2026-10-24T22:25:55+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/defa2522-e110-4e33-9540-7f0c9d4dc240_16-9-aspect-ratio_default_1061229.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé esports",
+      "excerpt": "LÀlex Masana i la Marina Garrido repassen tota lactualitat esportiva del cap de setmana els dissabtes i diumenges al betevé esports.",
+      "url": "https://beteve.cat/beteve-esports/beteve-esports-77/",
+      "published": "2026-10-24T22:04:52+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies vespre",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-vespre/beteve-noticies-vespre-451/",
+      "published": "2026-10-24T21:53:10+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Cargo",
+      "excerpt": "A ‘Punt de fuga’ veurem un documental sobre un vaixell de mercaderies que navega des de lÀsia fins a Europa i mostra tota la complexitat logística, humana i els conflictes amb el medi ambient. Tot seguit, a la sala, traslladarem aquesta temàtica al port de Barcelona i explicarem la importància del transport de mercaderies i […]",
+      "url": "https://beteve.cat/punt-de-fuga/cargo/",
+      "published": "2026-10-24T21:53:06+02:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Tito Pueyo, director del Triatló: “Se’m posa la pell de gallina quan Barcelona es posa de gom a gom”",
+      "excerpt": "El Triatló de Barcelona 2026, que es podrà seguir en directe a betevé, farà vibrar la ciutat, ho explica Tito Pueyo, el director de la competició. Barcelona es prepara per viure una gran festa de l’esport. El Triatló de Barcelona 2026 reunirà aquest diumenge 4.000 participants, 1.000 més que en l’edició anterior, i recuperarà la […]",
+      "url": "https://beteve.cat/esports/tito-pueyo-director-triatlo-pell-gallina-barcelona-gom-gom/",
+      "published": "2026-10-24T21:37:24+02:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/10/151025-triatlo-2025-barcelona.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
       "title": "El Civet de la Fonteta reuneix empresaris i polítics per fomentar el \"diàleg\"",
       "excerpt": "Nova trobada d'empresaris i polítics en el marc del Civet de la Fonteta. La vetllada, que organitza l’empresari Luis Conde a l’Empordà, s'ha celebrat aquest dissabte i ha reunit desenes de personalitats del món econòmic i polític, tant català com d'àmbit estatal. Entre d'altres, hi han assistit el president de la Generalitat, Salvador Illa; el president del Parlament, Josep Rull, així com el ministre de Presidència, Justícia i Relacions amb les Corts, Félix Bolaños.",
       "url": "https://www.ara.cat/politica/civet-fonteta-reuneix-empresaris-politics-fomentar-dialeg_1_5889356.html",
@@ -226,7 +276,7 @@
     {
       "source": "VilaWeb",
       "title": "Agressions i insults racistes i catalanòfobs contra afeccionats de la UE Sant Andreu a Madrid",
-      "excerpt": "Un grup d’ultres del Rayo Majadahonda ha llançat llaunes als seguidors andreuencs, ha insultat un afeccionat negre i n'ha agredit un altre · La Guàrdia Civil ha escortat els seguidors catalans",
+      "excerpt": "Un grup d’ultres del CF Rayo Majadahonda els ha llançat llaunes, ha insultat un afeccionat negre i n’ha agredit un altre · La Guàrdia Civil ha escortat els seguidors catalans",
       "url": "https://www.vilaweb.cat/noticies/afeccionats-sant-andreu-agressions-insults-racistes-catalanofobs-madrid/",
       "published": "2026-10-24T20:38:53+02:00",
       "category": "Societat",
@@ -235,7 +285,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Esborrany automàtic",
+      "title": "Terrorisme sense terroristes",
       "excerpt": "#oj {--paper: #e7e6e2; --gallery: #ffffff; --ink: #141414; --ink-soft: #55534e; --night: #0b0b0c; --night-fg: #f1f0ec; --night-soft: #9a9892; --red: #f4a259; --strike: #c4122f; --rule: #c9c7c1; --display: \"Archivo\", \"Arial Narrow\", \"Helvetica Neue\", Arial, sans-serif; --text: \"Newsreader\", Georgia, \"Times New Roman\", serif; --mono: \"Archivo\", \"Helvetica Neue\", Arial, sans-serif; --measure: 36rem; --gutter-l: max(16px, env(safe-area-inset-left, 0px)); --gutter-r: max(16px, env(safe-area-inset-right, 0px)); color-scheme: light;} #oj, #oj * {box-sizing: border-box;} #oj {background: var(--paper); color: var(--ink); font-family: var(--text); font-size: 19px; line-height: 1.6; font-optical-sizing: auto;} #oj img {display: block; max-width: 100%; height: auto;} #oj .",
       "url": "https://www.vilaweb.cat/noticies/cdr-operacio-judes-terrorisme-sense-terroristes/",
       "published": "2026-10-24T20:30:36+02:00",
@@ -315,7 +365,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Uns quants joves encaputxats assalten comerços, causen incendis i apedreguen la policia a Barcelona",
+      "title": "Els Mossos detenen algunes persones involucrades en els aldarulls de Barcelona",
       "excerpt": "Els Mossos parlen de grups violents i recomanen de no acostar-s’hi",
       "url": "https://www.vilaweb.cat/noticies/carregues-policials-incidents-centre-barcelona-protesta-convocada-xarxes-molts-joves-encaputxats/",
       "published": "2026-10-24T19:46:21+02:00",
@@ -515,7 +565,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Aldarulls i saquejos al centre de Barcelona per una protesta de joves \"contra el sistema\"",
+      "title": "Aldarulls i saquejos al centre de Barcelona per una protesta de grups violents \"contra el sistema\"",
       "excerpt": "La concentració, convocada a través de xarxes socials, ha derivat en incidents, corredisses, contenidors cremats i carrers tallats al voltant de la plaça de Catalunya",
       "url": "https://www.3cat.cat/3catinfo/tensio-i-forta-presencia-policia-per-una-protesta-al-centre-de-barcelona/noticia/3435941/",
       "published": "2026-10-24T18:28:00+02:00",
@@ -605,8 +655,8 @@
     },
     {
       "source": "ARA",
-      "title": "Desenes de milers de francesos tornen a protestar al carrer en una jornada amb pocs incidents",
-      "excerpt": "Desenes de milers de persones han tornat a sortir al carrer a França per protestar aquest dissabte contra l'elevat cost de la vida i la falta d'inversions en educació. A diferència del 17 d'octubre, en què moltes ciutats van viure moments de caos amb incendis, saquejos i enfrontaments amb la policia, aquest dissabte la mobilització ciutadana ha estat més tranquil·la i només s'han registrat alguns aldarulls en ciutats com Lió, Marsella i Niça. A París, la marxa ha estat multitudinària, pacífica i gairebé sense incidents.…",
+      "title": "Desenes de milers de francesos tornen a protestar al carrer en una jornada amb incidents menys greus",
+      "excerpt": "Desenes de milers de persones han tornat a sortir al carrer a França per protestar aquest dissabte contra l'elevat cost de la vida i la falta d'inversions en educació. A diferència del 17 d'octubre, en què moltes ciutats van viure moments de caos amb incendis, saquejos i enfrontaments amb la policia, aquest dissabte la mobilització ciutadana ha estat més tranquil·la i només s'han registrat enfrontaments entre la policia i alguns manifestants en ciutats com París, Lió, Marsella i Niça. A París, la marxa ha estat…",
       "url": "https://www.ara.cat/internacional/europa/desenes-milers-francesos-tornen-protestar-carrer-jornada-pocs-incidents_1_5889371.html",
       "published": "2026-10-24T17:45:27+02:00",
       "category": "Actualitat",
@@ -890,7 +940,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Nous disturbis a França després de les multitudinàries protestes pacífiques pel cost de la vida",
+      "title": "Nous disturbis a França després de les protestes pacífiques multitudinàries pel cost de la vida",
       "excerpt": "Ja hi ha un miler de detinguts per aldarulls, enfrontaments amb la policia i pillatge protagonitzats per grups d'emmascarats en ciutats com París, Lió, Marsella, Bordeus, Tolosa, Estrasburg, Nantes, Lilla, Grenoble o Niça",
       "url": "https://www.3cat.cat/3catinfo/primeres-manifestacions-a-franca-amb-protestes-a-orleans-contra-le-pen-i-gasos-lacrimogens-a-lio/noticia/3435897/",
       "published": "2026-10-24T12:55:24+02:00",
