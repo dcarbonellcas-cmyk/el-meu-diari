@@ -2,6 +2,16 @@
   "date": "2026-10-24",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Detenen un home per l'incendi del Niu de l'Àguila, el xalet refugi d'Adolf Hitler als Alps",
+      "excerpt": "Tot i que s'hi han desplaçat prop de 200 bombers, l'edifici, utilitzat pel dictador per celebrar reunions amb comandaments militars i diplomàtics, ha quedat completament calcinat",
+      "url": "https://www.3cat.cat/3catinfo/detenen-un-home-per-lincendi-del-niu-de-laguila-el-xalet-refugi-dadolf-hitler-als-alps/noticia/3435887/",
+      "published": "2026-10-24T09:10:51+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/5/1792823130557.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "\"En aquestes eleccions ens hi juguem el futur del català\"",
       "excerpt": "El ministre de Cultura, Ernest Urtasun (Barcelona, 1982), visita la redacció de l’ARA pocs dies després de fer-se públic que serà el número 2 de la candidatura de Front-Ampli per Barcelona a les pròximes eleccions generals.",
@@ -36,6 +46,56 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Mapa del 48h Open House Barcelona 2026: Quins edificis pots visitar gratis a prop de casa?",
+      "excerpt": "El festival d’arquitectura 48h Open House Barcelona 2026 convida barcelonins i ciutadans d’altres punts de Catalunya a visitar de forma gratuïta diversos edificis de la ciutat de Barcelona i d’altres municipis de l’àrea metropolitana com Badalona, l’Hospitalet de Llobregat, Sitges i Vilassar de Dalt. La cita és aquest cap de setmana. El festival ha programat […]",
+      "url": "https://beteve.cat/cultura/mapa-open-house-barcelona-edificis-gratis/",
+      "published": "2026-10-24T09:38:43+02:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/10/mapa-48-hores-open-house-2026-2026-10-13.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "48h Open House BCN 2026: Dates i programa del festival d’Arquitectura",
+      "excerpt": "Torna el 48h Open House Barcelona. Un cop l’any, quan arriba l’octubre, se celebra aquest festival d’arquitectura, tant a Barcelona com a l’àrea metropolitana. La 17a edició es farà el 24 i 25 d’octubre del 2026 i com sempre convidarà la ciutadania a conèixer edificis i espais que habitualment no es poden visitar. I recordeu […]",
+      "url": "https://beteve.cat/agenda/48h-open-house-barcelona/",
+      "published": "2026-10-24T09:32:38+02:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cartell-open-house-2026-2026-10-07.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Ernest Urtasun considera que el futur del català és en joc el 29-N",
+      "excerpt": "El ministre de Cultura espanyol defensa les polítiques pel català i critica la gestió de Rodalia",
+      "url": "https://www.vilaweb.cat/noticies/ernest-urtasun-futur-catala-joc-29n/",
+      "published": "2026-10-24T09:25:54+02:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "TMB reforça el bus 183 a Torre Baró amb una llançadora a la ruta tallada per un esvoranc",
+      "excerpt": "Després de reunir-se amb el veïnat de Torre Baró, TMB ha incorporat des d’aquest dijous un bus llançadora per reforçar el servei de la línia de bus 183 i reduir-ne les esperes dels usuaris, que podien superar l’hora. La situació havia aixecat les queixes d’uns veïns que necessiten aquest bus a la seva vida quotidiana. […]",
+      "url": "https://beteve.cat/mobilitat/tmb-reforca-bus-183-torre-baro-llancadora-ruta-tallada-esvoranc/",
+      "published": "2026-10-24T09:18:48+02:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/bus-183-llansadora-torre-baro-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Catakrac (24/10/2026): higiene bucal, bolets, màgia i llibres!",
+      "excerpt": "Aquesta setmana visitem l’Escola Pia de Sabadell, on els nens i nenes de primer de primària reben les dentistes del CAP Centre, que els fan la revisió bucodental. Descobrim com es desenvolupa aquest control preventiu, què observen les professionals durant l’exploració i quins consells donen als infants per mantenir una bona higiene bucal en una […]",
+      "url": "https://beteve.cat/catakrac/higiene-bucal-bolets-magia-llibres/",
+      "published": "2026-10-24T09:01:00+02:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/catakrac-2410-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -175,12 +235,12 @@
       "published": "2026-10-24T07:26:05+02:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/7/1792656971675.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6430672/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/consells-contra-la-soledat-no-desitjada-sentia-que-ningu-mentenia-ara-ja-no-em-sento-sol/noticia/3435510/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
