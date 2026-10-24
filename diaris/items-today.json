@@ -2,20 +2,150 @@
   "date": "2026-10-24",
   "items": [
     {
+      "source": "ARA",
+      "title": "\"En aquestes eleccions ens hi juguem el futur del català\"",
+      "excerpt": "El ministre de Cultura, Ernest Urtasun (Barcelona, 1982), visita la redacció de l’ARA pocs dies després de fer-se públic que serà el número 2 de la candidatura de Front-Ampli per Barcelona a les pròximes eleccions generals.",
+      "url": "https://www.ara.cat/politica/eleccions-generals/aquestes-eleccions-hi-juguem-futur-catala_128_5888500.html",
+      "published": "2026-10-24T08:00:16+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5dd9955b-757f-419c-a7bc-e6dfafb69479_source-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Europa busca la fórmula per salvar les pensions: què en pot aprendre Espanya?",
+      "excerpt": "L'etern debat sobre el model de les pensions a Espanya ha tornat a omplir titulars a cop de retrets. Els partidaris del model actual defensen que és perfectament sostenible, mentre que els contraris intenten fer equilibris per justificar alhora que podran pagar els futurs jubilats i que cal aplicar canvis al sistema.",
+      "url": "https://empreses.ara.cat/sector-public/europa-busca-formula-salvar-pensions-pot-aprendre-espanya_130_5884937.html",
+      "published": "2026-10-24T08:00:15+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3d70b5ac-f48b-4238-8415-7ef815d09165_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dissabte: cel variable, algun xàfec puntual i temperatura en descens",
       "excerpt": "Hem tingut alguns xàfecs de matinada per començar el dissabte",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/",
       "published": "2026-10-23T09:19:50+02:00",
-      "updated": "2026-10-24T07:41:11+02:00",
+      "updated": "2026-10-24T07:44:40+02:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/2/3/1792787399532.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/6/1792820660162.jpg",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432375/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-variable-i-temperatura-amunt-i-avall/noticia/3435714/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La policia espanyola carrega contra centenars d’antifeixistes a Maó que protestaven contra Santiago Abascal",
+      "excerpt": "Els manifestants han irromput la plaça de la Constitució, però no han aconseguit d'interrompre el míting del dirigent de Vox",
+      "url": "https://www.vilaweb.cat/noticies/policia-espanyola-carrega-quatre-cents-antifeixistes-santiago-abascal/",
+      "published": "2026-10-24T08:20:54+02:00",
+      "category": "Illes",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Fabricar cotxes xinesos a Seat? Els sindicats plantegen alternatives a la retallada de Volkswagen",
+      "excerpt": "Els fabricants xinesos trien les plantes espanyoles com a pista de proves per produir a Europa aprofitant la capacitat sobrera",
+      "url": "https://www.3cat.cat/3catinfo/fabricar-cotxes-xinesos-a-seat-els-sindicats-plantegen-alternatives-a-la-retallada-de-volkswagen/noticia/3435049/",
+      "published": "2026-10-24T08:14:30+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1792792581526.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El PP i Vox acorden un matrimoni de conveniència per al 29-N",
+      "excerpt": "Les mateixes cares, però una interacció diferent. Alberto Núñez Feijóo i Santiago Abascal repeteixen com a candidats del bloc de la dreta en les eleccions del 29 de novembre, però, a diferència dels anteriors comicis, de fa tres anys i mig, l'estratègia del PP i Vox sobre com relacionar-se entre ells s'ha transformat. Han passat de la desconfiança i els atacs creuats de 2023 a una mena de pacte de no-agressió entre els dos partits, que han assumit que, ara per ara, estan condemnats a…",
+      "url": "https://www.ara.cat/politica/pp-vox-acorden-matrimoni-conveniencia-29-n_1_5885853.html",
+      "published": "2026-10-24T08:00:15+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7cacdb43-106f-4482-9403-102e7860730a_16-9-aspect-ratio_default_1056429.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El Liceu canta contra l'odi que separa Romeu i Julieta",
+      "excerpt": "El públic que assisteixi a les funcions d' I Capuleti e i Montecchi al Gran Teatre del Liceu es trobarà amb un escenari capitanejat per dues grans parets, una escalinata de pedra i un riu majestuós al centre. L'òpera de Vincenzo Bellini (Catània, 1801 - Puteaux, 1835) torna al teatre barceloní sota la direcció de Riccardo Frizza —que ja la va liderar en l'última versió, vista al mateix escenari ara fa 10 anys—, amb direcció escènica d'Allex Aguilera i la soprano Lisette Oropesa i la…",
+      "url": "https://www.ara.cat/cultura/opera/liceu-capuleti-montecchi-odi-romeu-julieta_1_5888076.html",
+      "published": "2026-10-24T08:00:14+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/53ee2cb2-c600-4856-9bf3-2e3cc191fbe0_source-aspect-ratio_default_0_x1144y546.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Torna el castor i arriba el xacal: nous veïns per a Catalunya?",
+      "excerpt": "Són dos animals que associem a terres llunyanes i feréstegues, però sembla que aviat els podrem trobar als nostres rius i muntanyes. El més precoç és el castor, el rosegador més gros de l’hemisferi nord, que està arribant a Catalunya per l’Ebre. El xacal encara viu lluny, però l’expansió de la seva població europea fa preveure'n l’arribada els pròxims anys. La vinguda dels uns i els altres promet nous reptes, oportunitats i conflictes que caldrà gestionar amb cura.",
+      "url": "https://www.ara.cat/ciencia-medi-ambient/conservacio/torna-castor-xacal-nous-veins-catalunya_1_5883808.html",
+      "published": "2026-10-24T08:00:12+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d7ad6742-3ba5-42a3-af56-d93d45421691_source-aspect-ratio_default_0_x2363y1629.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Bon Preu ultima un assistent d'IA per millorar la planificació de compra a través de l'aplicació",
+      "excerpt": "El grup Bon Preu ultima els preparatius per introduir un assistent d'intel·ligència artificial pioner a l'Estat que pretén millorar la planificació de la compra dels usuaris a través de la seva aplicació. La nova funcionalitat, desenvolupada de manera conjunta amb la start-up catalana Shoptimus, començarà a estar disponible durant les pròximes setmanes per al personal intern de l'empresa a manera de prova.",
+      "url": "https://www.ara.cat/economia/comerc/bon-preu-ultima-assistent-d-ia-millorar-planificacio-compra-traves-l-aplicacio_1_5888498.html",
+      "published": "2026-10-24T08:00:12+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9fb5b90e-7daf-4ad6-9b9f-12c293ccb1a5_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La vida normal de Rodri a Barcelona",
+      "excerpt": "En un vídeo promocional que ha compartit el Barça a les seves xarxes, Adeyemi i Gordon fan broma abaixant-se els pantalons curts per sota de la cintura: \"Així els porta Lamine\", bromegen. En una altra part li ensenyen el vídeo a Lamine Yamal, que riu i respon: \"Així els acabaran portant tots, ja ho veureu. Bé, tots menys Rodri\". El migcampista madrileny és una rara avis en l'univers del futbol d'elit: mai duu looks extravagants, ni es tenyeix ni es fa tallats de cabells a…",
+      "url": "https://www.ara.cat/esports/barca/vida-normal-rodri-barcelona_1_5888073.html",
+      "published": "2026-10-24T08:00:11+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a0c47e9d-171f-4955-a042-5d95347d7ffd_source-aspect-ratio_default_0_x2209y750.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El Brasil no es pot permetre les retallades de despesa de Bolsonaro",
+      "excerpt": "El Brasil s'enfronta a una decisió difícil aquest 25 d'octubre, el dia en què el candidat d'extrema dreta Flávio Bolsonaro i el president Luiz Inácio Lula da Silva es presentaran a la segona volta presidencial del país.",
+      "url": "https://empreses.ara.cat/opinio/brasil-no-pot-permetre-retallades-despesa-bolsonaro_129_5887312.html",
+      "published": "2026-10-24T08:00:10+02:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ff12bdc3-d92f-45d7-bb5d-7736ae875b5c_16-9-aspect-ratio_default_0_x5305y1838.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les portades del dissabte 24 de octubre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-dissabte-24-de-octubre-de-2026/",
+      "published": "2026-10-24T08:00:02+02:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La Generalitat compra \"Fugint de la crítica II\", de Pere Borrell, per 130.000 euros",
+      "excerpt": "La segona versió coneguda de la composició \"Fugint de la crítica\" s'ha adquirit per 130.000 euros i s'incorporarà al MNAC",
+      "url": "https://www.3cat.cat/3catinfo/la-generalitat-compra-fugint-de-la-critica-ii-de-pere-borrell-per-130000-euros/noticia/3435874/",
+      "published": "2026-10-24T07:46:50+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/5/1/1792781567615.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Una novel·la premiada amb 20.000 €, sospitosa d'haver-se escrit amb IA en un 99% de probabilitats",
+      "excerpt": "Després d'una investigació de El País, l'editorial mexicana Almadía ha anunciat una \"revisió detallada\" de l'obra \"Donde el agua trabaja\" de l'autor peruà David Silva Rojas",
+      "url": "https://www.3cat.cat/3catinfo/una-novella-premiada-amb-20000-sospitosa-dhaver-se-escrit-amb-ia-en-un-99-de-probabilitats/noticia/3435879/",
+      "published": "2026-10-24T07:41:33+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/8/6/1792791381668.jpeg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -25,6 +155,41 @@
       "published": "2026-10-24T07:30:00+02:00",
       "category": "economia",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/03/Copia-de-Copia-de-Disseny-sense-titol-1-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Clara Mattei, economista: \"L'austeritat ha impulsat governs autoritaris i feixistes\"",
+      "excerpt": "La professora de la Universitat de Tulsa (EUA) acaba de publica \"Escapar del capitalismo\", on posa en dubte que el sistema econòmic actual sigui natural",
+      "url": "https://www.3cat.cat/3catinfo/clara-mattei-economista-lausteritat-ha-impulsat-governs-autoritaris-i-feixistes/noticia/3435770/",
+      "published": "2026-10-24T07:28:38+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/5/1792750674354.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Consells contra la soledat no desitjada: \"Sentia que ningú m'entenia; ara ja no em sento sol\"",
+      "excerpt": "Recull de recomanacions i recursos per a totes les edats, també per a joves i infants, per combatre un sentiment que afecta una de cada cinc persones a la nostra societat",
+      "url": "https://www.3cat.cat/3catinfo/consells-contra-la-soledat-no-desitjada-sentia-que-ningu-mentenia-ara-ja-no-em-sento-sol/noticia/3435510/",
+      "published": "2026-10-24T07:26:05+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/7/1792656971675.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6430672/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/consells-contra-la-soledat-no-desitjada-sentia-que-ningu-mentenia-ara-ja-no-em-sento-sol/noticia/3435510/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Per què els mercats posen França en el focus? Una crisi a peu canviat",
+      "excerpt": "El gir a l'alça dels tipus d'interès arriba en el pitjor moment, amb el deute disparat i en plena precampanya electoral",
+      "url": "https://www.3cat.cat/3catinfo/per-que-els-mercats-posen-franca-en-el-focus-una-crisi-a-peu-canviat/noticia/3435468/",
+      "published": "2026-10-24T07:20:50+02:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/4/1792777530645.jpg",
       "priority": "3 · Altres notícies"
     },
     {
