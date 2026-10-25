@@ -22,6 +22,36 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "El Suprem del Brasil ordena d’allargar dues hores la votació de les eleccions presidencials",
+      "excerpt": "El tribunal accepta una petició de Lula, que havia denunciat restriccions en el transport públic que dificultaven l’accés dels electors als col·legis electorals",
+      "url": "https://www.vilaweb.cat/noticies/el-suprem-del-brasil-ordena-dallargar-dues-hores-la-votacio-de-les-eleccions-presidencials/",
+      "published": "2026-10-25T21:25:58+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Podem s’incorpora a la coalició Ara Més-Front Ampli per a les eleccions espanyoles",
+      "excerpt": "Lucía Muñoz ocuparà el tercer lloc de la candidatura, encapçalada per Carme Gomila",
+      "url": "https://www.vilaweb.cat/noticies/podem-sincorpora-a-la-coalicio-ara-mes-front-ampli-per-a-les-eleccions-espanyoles/",
+      "published": "2026-10-25T21:17:34+01:00",
+      "category": "Illes",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La justícia del Brasil allarga la jornada de votació per problemes amb el transport",
+      "excerpt": "El Tribunal Suprem del Brasil amplia l'horari de votació per problemes de transport, permetent als brasilers votar dues hores més aquest diumenge",
+      "url": "https://www.3cat.cat/3catinfo/la-justicia-del-brasil-allarga-la-jornada-de-votacio-per-problemes-amb-el-transport/noticia/3436038/",
+      "published": "2026-10-25T21:13:36+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/3/1792954304635.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dilluns: pas de núvols prims i alguns núvols baixos costaners",
       "excerpt": "Mantenim un temps variable i amb una temperatura lleugerament per sobre de la mitjana climàtica",
@@ -65,8 +95,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Sánchez adverteix que un govern del PP i Vox significaria una “autèntica involució”",
-      "excerpt": "El president espanyol assegura que una coalició entre Feijóo i Abascal seria un retrocés de cinquanta anys",
+      "title": "Sánchez adverteix que un govern del PP i Vox seria una autèntica involució",
+      "excerpt": "El president espanyol assegura que una coalició entre Feijóo i Abascal implicaria un retrocés de cinquanta anys",
       "url": "https://www.vilaweb.cat/noticies/sanchez-adverteix-que-un-govern-del-pp-i-vox-significaria-una-autentica-involucio/",
       "published": "2026-10-25T15:54:53+01:00",
       "category": "Espanya",
@@ -75,8 +105,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El valencianisme s’aplega un any més al Puig, amb les eleccions espanyoles com a teló de fons",
-      "excerpt": "Com és habitual, s'hi han fet dos actes públics. A l'esplanada del monestir s'hi han concentrat Compromís i Front Valencià, mentre dalt de la muntanyeta s'ha fet l'acte organitzat per ERPV, Decidim, la Intersindical i tot d'organitzacions cíviques i culturals.",
+      "title": "El valencianisme es torna a aplegar al Puig, amb les eleccions espanyoles com a teló de fons",
+      "excerpt": "A l'esplanada del monestir, s'hi han concentrat Compromís i Front Valencià · Dalt de la muntanyeta, s'hi ha fet l'acte organitzat per ERPV, Decidim, la Intersindical i tot d'organitzacions cíviques i culturals",
       "url": "https://www.vilaweb.cat/noticies/el-valencianisme-saplega-un-any-mes-al-puig-amb-les-eleccions-espanyoles-com-a-telo-de-fons/",
       "published": "2026-10-25T15:27:19+01:00",
       "category": "País Valencià",
@@ -204,6 +234,116 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Torn de guàrdia: Companys lleials [capítol 4]",
+      "excerpt": "La Guàrdia Urbana de Barcelona disposa d’unitats i seccions molt diverses però, sens dubte, les més singulars tenen animals com a protagonistes: els gossos i els cavalls. La secció canina forma part de la Unitat de Reforç, Emergències i Proximitat (UREP) i s’encarrega de la detecció de droga i grans quantitats de diners. La secció […]",
+      "url": "https://beteve.cat/torn-de-guardia/companys-lleials/",
+      "published": "2026-10-25T21:30:00+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/titol_companys_lleials_torn_de_guardia_E04-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Rubén Aguilar fa justícia des dels onze metres i l’Espanyol B supera el filial de l’Osasuna",
+      "excerpt": "Els de Sergio García han tornat al camí del triomf després de caure la setmana passada a Reus. Davant el filial de l’Osasuna, l’Espanyol B ha estat millor i ha acabat trobant el premi del gol amb un penal executat per Rubén Aguilar. Eloi Tost i Jan Peries, clau per a l’Espanyol L’Espanyol B ha […]",
+      "url": "https://beteve.cat/esports/ruben-aguilar-justicia-espanyol-b-guanya-osasuna-b/",
+      "published": "2026-10-25T21:24:51+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/espanyol-b-osasuna-promesas-2026-10-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Mor un motorista en un xoc amb un porc senglar a la C-35 a Maçanet de la Selva",
+      "excerpt": "104 persones han mort aquest any a les carreteres catalanes",
+      "url": "https://www.3cat.cat/3catinfo/mor-un-motorista-en-un-xoc-amb-un-porc-senglar-a-la-c-35-a-macanet-de-la-selva/noticia/3436042/",
+      "published": "2026-10-25T21:08:20+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/9/6/1792958525269.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "En la mort de Jaume Pont",
+      "excerpt": "Hi ha consternació entre els lectors i escriptors en llengua catalana per la mort, fa uns dies, de Jaume Pont , un dels poetes més destacats de la seva generació. Pont havia nascut l'any 1947, com Josep Piera , un altre dels grans poetes en llengua catalana de les últimes dècades: per aquestes dues morts, és adequat pensar en 2026 com un any atziac. Corre per les xarxes una foto preciosa en què apareixen tots dos, Piera i Pont, a la casa del primer a…",
+      "url": "https://www.ara.cat/opinio/mort-jaume-pont_129_5888249.html",
+      "published": "2026-10-25T21:00:40+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3bfa6cb4-235f-4d4f-bc9c-1055c074b5fa_16-9-aspect-ratio_default_0_x409y170.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Digitals per obligació",
+      "excerpt": "Les empreses han descobert una manera molt eficaç d’obligar-nos a fer alguna cosa sense prohibir-nos res: encarir, alentir o dificultar l’opció que no volen que escollim fins que preferim la que mai no hauríem escollit.",
+      "url": "https://www.ara.cat/opinio/digitals-obligacio_129_5888389.html",
+      "published": "2026-10-25T21:00:39+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/dfcfa6c4-0091-453a-9721-c35fb8915030_16-9-aspect-ratio_default_1060166.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les esquerres? Bé, gràcies a Déu",
+      "excerpt": "Davant les pròximes eleccions generals, hi ha hagut un interès i cobertura inusitats a l'entorn de la possibilitat que es construís una candidatura unitària de l’esquerra que hi ha més enllà del PSOE. A totes les comunitats autònomes, a l’esquerra dels socialistes hi ha un espai polític més o menys gran, força consolidat, que no poden aspirar a ocupar les candidatures del PSOE, tot i que les diferències programàtiques reals no siguin, a hores d’ara, excessivament grans. És una qüestió de procedència i cultura política,…",
+      "url": "https://www.ara.cat/opinio/esquerres-be-gracies-deu_129_5885023.html",
+      "published": "2026-10-25T21:00:39+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b62b1042-6fee-4736-bd33-81fb3f84e242_source-aspect-ratio_default_0_x632y191.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Nadons maltractats: protocols o treball en xarxa?",
+      "excerpt": "La notícia de tres nadons hospitalitzats per maltractaments greus ha saltat als mitjans de comunicació en els últims dies. Es diu que “ els protocols han fallat ” i jo em pregunto si la ciutadania entén què significa aquesta expressió davant situacions tan greus que sens dubte ens colpeixen. Els protocols són una de les eines principals de les quals ens hem dotat els professionals dels àmbits de l’atenció a les persones –salut, educació, atenció social, violències masclistes, diversitat funcional, i tants d’altres– per mirar…",
+      "url": "https://www.ara.cat/opinio/nadons-maltractats-protocols-treball-xarxa_129_5887256.html",
+      "published": "2026-10-25T21:00:39+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a6667151-bdec-40a7-a9bd-110f25584aa2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Més enllà de l'alçada: les barreres i els prejudicis que afronten les persones de talla baixa",
+      "excerpt": "Amb motiu del Dia Mundial de les Persones de Talla Baixa, coneixem l'Ana i en Joan, que expliquen com els obstacles quotidians i els estereotips encara els condicionen l'autonomia personal",
+      "url": "https://www.3cat.cat/3catinfo/mes-enlla-de-lalcada-les-barreres-i-els-prejudicis-que-afronten-les-persones-de-talla-baixa/noticia/3435934/",
+      "published": "2026-10-25T20:57:45+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/7/1792950559877.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies vespre",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-vespre/beteve-noticies-vespre-452/",
+      "published": "2026-10-25T20:48:02+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Dilluns tranquil però de cel més canviant: punt de partida d’una setmana anticiclònica",
+      "excerpt": "La setmana vindrà marcada per l’estabilitat atmosfèrica, però també per la presència d’alguns núvols baixos. La previsió del temps per a aquest dilluns anuncia cel canviant, sobretot al matí, i més estones de sol a la tarda. Previsió horària per a Barcelona: Ambient suau i presència de núvols baixos La presència de vent de component […]",
+      "url": "https://beteve.cat/medi-ambient/temps-barcelona-dilluns-26-octubre-dilluns-tranquil/",
+      "published": "2026-10-25T20:46:54+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/previsio-temps-dilluns-26-novembre-2026-2026-10-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Diada de Santa Úrsula marcada per les caigudes",
+      "excerpt": "Valls s’ha convertit un any més en el centre del món casteller amb la Diada de Santa Úrsula. La plaça del Blat, considerada el quilòmetre zero dels castells, s’ha omplert de gom a gom per viure el gran duel entre la Colla Vella dels Xiquets de Valls i la Colla Joves Xiquets de Valls. Les dues colles han arribat a la cita amb ganes de fer història i de portar els seus límits una mica més enllà. Però, en una jornada que s’ha allargat gairebé…",
+      "url": "https://www.ara.cat/castells/diada-santa-ursula-marcada-caigudes_1_5890162.html",
+      "published": "2026-10-25T20:33:50+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a3c4fce0-8c69-4fd3-afbf-d2acc44f9475_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
       "title": "Aldarulls a Barcelona: el perfil dels autors no és el dels sospitosos habituals per desordres públics",
       "excerpt": "És la nit amb més detinguts per desordres públics, n'hi va haver 128, però no es va evitar que saquegessin 23 comerços.",
@@ -211,12 +351,22 @@
       "published": "2026-10-25T20:32:26+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/5/1792954936255.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432508/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/aldarulls-a-barcelona-el-perfil-dels-autors-no-es-el-dels-sospitosos-habituals-per-desordres-publics/noticia/3436035/"
-      }
+      },
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "EN DIRECTE | Barça - Reial Madrid (0-0): Balde substitueix el lesionat Espart",
+      "excerpt": "Rodrigo, que va ser suplent a París, torna a la titularitat per al clàssic contra el Reial Madrid a l'Spotify Camp Nou",
+      "url": "https://www.3cat.cat/3catinfo/en-directe-barca-reial-madrid-primer-classic-de-la-temporada-al-camp-nou/noticia/3435689/",
+      "published": "2026-10-25T20:23:23+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/5/1792959171453.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -273,7 +423,7 @@
       "title": "El Nou Estadi s'acostuma a celebrar gols del Nàstic des del mig del camp",
       "excerpt": "L'equip tarragoní guanya a casa i marca des del mig del camp per segona setmana consecutiva",
       "url": "https://www.3cat.cat/3catinfo/el-nou-estadi-sacostuma-a-celebrar-gols-del-nastic-des-del-mig-del-camp/noticia/3436039/",
-      "published": "2026-10-25T19:56:55+01:00",
+      "published": "2026-10-25T19:50:55+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/png/3/5/1792954394253.png",
       "priority": "3 · Altres notícies"
@@ -475,8 +625,8 @@
     },
     {
       "source": "ARA",
-      "title": "Quatre ferits greus en l'accident d'autobús de Fogars de Montclús",
-      "excerpt": "Quatre persones han resultat ferides de gravetat en l'accident d'un autobús a la carretera BV-5144 a Fogars de Montclús (Vallès Oriental). L'accident s'ha produït al punt quilomètric 18,4, on un autobús de Sagalés ha xocat amb un cotxe i s'ha precipitat per un talús d'uns 20 metres. A l'autobús, que cobreix la ruta del Centre d'Informació de Fogars de Montclús a Santa Fe del Montseny, hi viatjaven 80 passatgers. Vint-i-dos han quedat ferits, quatre dels quals els han derivat a diferents hospitals.",
+      "title": "Set ferits greus en l'accident d'autobús de Fogars de Montclús",
+      "excerpt": "Almenys set persones han resultat ferides de gravetat en l'accident d'un autobús a la carretera BV-5144 a Fogars de Montclús (Vallès Oriental). L'accident s'ha produït al punt quilomètric 18,4, on un autobús de Sagalés ha xocat amb un cotxe i s'ha precipitat per un talús d'uns 20 metres. A l'autobús, que cobreix la ruta del Centre d'Informació de Fogars de Montclús a Santa Fe del Montseny, hi viatjaven més de 80 passatgers. Segons el darrer balanç publicat pel departament de Salut, fins al moment s'han…",
       "url": "https://www.ara.cat/societat/almenys-vint-ferits-greus-accident-d-autobus-fogars-montclus_1_5890216.html",
       "published": "2026-10-25T18:14:13+01:00",
       "category": "Actualitat",
@@ -550,8 +700,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "80 ferits, 7 de greus, per l'accident d'un autobús que ha caigut per un talús a Fogars de Montclús",
-      "excerpt": "L'accident ha obligat a tallar la carretera BV-5114 i s'ha habilitat un centre d'acollida a Can Ramis, a Sant Celoni, per atendre les persones afectades que necessitin algun tipus d'assistència",
+      "title": "83 ferits, 7 de greus, per l'accident d'un autobús que ha caigut per un talús a Fogars de Montclús",
+      "excerpt": "Els bombers encara estan rastrejant la zona i no descarten que hi pugui haver més ferits o alguna víctima mortal que no hagi estat localitzada",
       "url": "https://www.3cat.cat/3catinfo/un-autobus-cau-per-un-terraple-a-fogars-de-montclus-sense-victimes-mortals/noticia/3436028/",
       "published": "2026-10-25T17:39:30+01:00",
       "category": "Actualitat",
@@ -560,7 +710,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Quatre ferits greus en l’accident d’un autobús que ha caigut per un talús a Fogars de Montclús",
+      "title": "Set ferits greus en l’accident d’un autobús que ha caigut per un talús a Fogars de Montclús",
       "excerpt": "El SEM ha atès vuitanta-tres persones · Arran de l'accident, s'ha tallat la carretera BV-5114",
       "url": "https://www.vilaweb.cat/noticies/uns-quants-ferits-en-un-accident-dautobus-a-fogars-de-montclus/",
       "published": "2026-10-25T17:37:39+01:00",
@@ -630,8 +780,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Les caigudes marquen una Diada de Santa Úrsula amb quatre castells de gamma extra",
-      "excerpt": "La Colla Vella ha carregat un 3 de 9 sense folre · La Colla Joves ha intentat un pilar de 7",
+      "title": "Les caigudes marquen una diada de Santa Úrsula amb quatre castells de gamma extra",
+      "excerpt": "La Colla Vella ha carregat un 3 de 9 sense folre · La Colla Joves ha mirat de fer un pilar de 7",
       "url": "https://www.vilaweb.cat/noticies/caigudes-diada-santa-ursula-quatre-castells-gamma-extra/",
       "published": "2026-10-25T16:52:31+01:00",
       "category": "Cultura",
@@ -651,7 +801,7 @@
     {
       "source": "VilaWeb",
       "title": "S’ha mort l’actriu i activista Pepa Arenós",
-      "excerpt": "Arenós va dedicar més de mig segle al teatre, al cinema, la televisió i la ràdio · Va ser la presentadora de l'acte de la Diada de 1976",
+      "excerpt": "Arenós va dedicar més de mig segle al teatre, el cinema, la televisió i la ràdio · Va ser la presentadora de l'acte de la Diada del 1976",
       "url": "https://www.vilaweb.cat/noticies/sha-mort-lactriu-i-activista-pepa-arenos/",
       "published": "2026-10-25T16:19:34+01:00",
       "category": "Cultura",
@@ -720,8 +870,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Urtasun ironitza sobre la catalanitat de Junts i recorda a Nogueras “l’obediència” a la patronal",
-      "excerpt": "El número dos del Front Ampli per Barcelona acusa Junts d’afavorir la banca i els especuladors i confia en una remuntada de l’esquerra el 29-N",
+      "title": "Urtasun ironitza sobre la catalanitat de Junts i recorda a Nogueras l’obediència a la patronal",
+      "excerpt": "El número dos del Front Ampli per Barcelona acusa Junts d’afavorir la banca i els especuladors · També confia en una remuntada de l’esquerra el 29-N",
       "url": "https://www.vilaweb.cat/noticies/urtasun-ironitza-sobre-la-catalanitat-de-junts-i-recorda-a-nogueras-lobediencia-a-la-patronal/",
       "published": "2026-10-25T14:31:54+01:00",
       "category": "Principat",
@@ -730,8 +880,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Feijóo vincula els aldarulls amb Sánchez: “Com han perdut el carrer, volen incendiar-lo”",
-      "excerpt": "El dirigent del PP creu que l'esquerra \"s'està resistint a abandonar el poder amb violència\"",
+      "title": "Feijóo vincula els aldarulls amb Sánchez: “Com que han perdut el carrer, volen incendiar-lo”",
+      "excerpt": "El dirigent del PP acusa l'esquerra de resistir-se a abandonar el poder amb violència",
       "url": "https://www.vilaweb.cat/noticies/feijoo-vincula-els-aldarulls-amb-sanchez-com-han-perdut-el-carrer-volen-incendiar-lo/",
       "published": "2026-10-25T14:29:11+01:00",
       "category": "Espanya",
@@ -740,8 +890,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Rufián veu “probable” que els aldarulls de Barcelona siguin una “operació d’estat” de l’extrema dreta",
-      "excerpt": "El candidat d’ERC diu que cap idea \"mereix ser defensada amb violència\" en la política",
+      "title": "Rufián considera probable que els aldarulls de Barcelona siguin una operació d’estat de l’extrema dreta",
+      "excerpt": "El candidat d’ERC rebutja la violència en política i afirma que cap idea no justifica de defensar-la violentament",
       "url": "https://www.vilaweb.cat/noticies/rufian-veu-probable-que-els-aldarulls-de-barcelona-siguin-una-operacio-destat-de-lextrema-dreta/",
       "published": "2026-10-25T14:23:58+01:00",
       "category": "Principat",
@@ -750,18 +900,18 @@
     },
     {
       "source": "ARA",
-      "title": "Somriu el ianqui que va escollir Girona seguint la intuïció del seu cor: l'Instant Replay de l'ARA",
-      "excerpt": "El FIATC Girona va fer-se fort a casa contra l'Asisa Joventut (101-87). Mac McClung (23 punts), el nord-americà que va escollir Girona seguint la intuïció del seu cor, va ser decisiu. Andrzej Pluta i Jassel Perez van complementar la feina del tres vegades campió del concurs d'esmaixades de la NBA. \"McClung està fent un esforç molt gran per adaptar-se a un nou estil\", va analitzar Moncho Fernández. \"Ens hem descentrat\", va opinar Dani Miret, que va trobar a faltar Ludde Hakanson i Boogie Ellis.",
+      "title": "Somriu el ianqui que va escollir Girona seguint una intuïció: l'Instant Replay de l'ARA",
+      "excerpt": "El FIATC Girona va fer-se fort a casa contra l'Asisa Joventut (101-87). Mac McClung (23 punts), el nord-americà que va escollir Girona seguint la intuïció del seu cor, va ser decisiu. Andrzej Pluta i Jassel Perez van complementar la feina del tres vegades campió del concurs d'esmaixades de la NBA. “McClung està fent un esforç molt gran per adaptar-se a un nou estil”, va analitzar Moncho Fernández. “Ens hem descentrat”, va opinar Dani Miret, que va trobar a faltar Ludde Hakanson i Boogie Ellis.",
       "url": "https://www.ara.cat/esports/basquet/acb/nord-america-escollir-girona-seguint-intuicio-cor-tomba-penya-instant-replay-ara_1_5890005.html",
       "published": "2026-10-25T14:21:04+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/4bf690c6-2d93-4e72-b527-6edb5f7729dd_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/4bf690c6-2d93-4e72-b527-6edb5f7729dd_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
       "title": "El discurs del retorn de Comín: “Per alt que sigui el preu, la independència és possible”",
-      "excerpt": "Comín reivindica la victòria de la resistència de l'exili en un discurs carregat d'emoció des del coll de Belitres",
+      "excerpt": "Comín reivindica la victòria de la resistència de l'exili en un discurs carregat d'emoció al coll de Belitres",
       "url": "https://www.vilaweb.cat/noticies/discurs-retorn-comin-preu-independencia/",
       "published": "2026-10-25T14:16:06+01:00",
       "category": "Principat",
