@@ -19,6 +19,19 @@
     },
     {
       "page": 4,
+      "title": "\"Som 39 alumnes a classe\": què reclamen els joves per millorar l'educació?",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/som-39-alumnes-a-classe-que-reclamen-els-joves-per-millorar-leducacio/noticia/3435123/",
+      "published": "2026-10-25T12:02:29+01:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432350/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/som-39-alumnes-a-classe-que-reclamen-els-joves-per-millorar-leducacio/noticia/3435123/"
+      }
+    },
+    {
+      "page": 5,
       "title": "Els restauradors critiquen una “resposta policial insuficient” i l’avaluació del risc dels aldarulls",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/restauradors-critiquen-resposta-policial-aldarulls/",
@@ -26,7 +39,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 5,
+      "page": 6,
       "title": "Trias creu que Puigdemont no es presentarà a més eleccions i defensa que continuï presidint Junts",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/trias-creu-puigdemont-no-presentara-eleccions-junts/",
@@ -34,7 +47,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 6,
+      "page": 7,
       "title": "Els estudiants de Sèrbia, pioners a Europa: de protestar al carrer a competir a les eleccions",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/els-estudiants-de-serbia-pioners-a-europa-de-protestar-al-carrer-a-competir-a-les-eleccions/noticia/3435950/",
@@ -47,7 +60,7 @@
       }
     },
     {
-      "page": 7,
+      "page": 8,
       "title": "Com vota la diàspora a les eleccions sud-americanes: més suport a la dreta a Madrid que a Barcelona",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/com-vota-la-diaspora-a-les-eleccions-sud-americanes-mes-suport-a-la-dreta-a-madrid-que-a-barcelona/noticia/3421742/",
@@ -55,7 +68,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 8,
+      "page": 9,
       "title": "Abascal, disposat a col·laborar amb Aliança Catalana en immigració, seguretat i defensa de la identitat",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/abascal-collaborar-alianca-catalana-immigracio-seguretat-identitat/",
@@ -63,7 +76,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 9,
+      "page": 10,
       "title": "128 detinguts, 72 dels quals són menors, pels aldarulls al centre de Barcelona: “No quedarà impune”",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/tensio-centre-barcelona-concentracio-xarxes/",
@@ -71,7 +84,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 10,
+      "page": 11,
       "title": "La previsió de diumenge: sol, precipitació al vessant nord del Pirineu i temperatures en ascens",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/",
@@ -84,7 +97,7 @@
       }
     },
     {
-      "page": 11,
+      "page": 12,
       "title": "Eleccions a Israel: cinc perfils de votant per entendre un país amb moltes cares",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/eleccions-a-israel-cinc-perfils-de-votant-per-entendre-un-pais-amb-moltes-cares/noticia/3428416/",
@@ -97,7 +110,7 @@
       }
     },
     {
-      "page": 12,
+      "page": 13,
       "title": "Lula o Bolsonaro: el Brasil es mira al mirall en unes eleccions que decidiran el futur del país",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/lula-o-bolsonaro-el-brasil-es-mira-al-mirall-en-unes-eleccions-que-decidiran-el-futur-del-pais/noticia/3435942/",
@@ -110,7 +123,47 @@
       }
     },
     {
-      "page": 13,
+      "page": 14,
+      "title": "Mor José Luis García Sánchez, director i guionista clau del cinema espanyol",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/mor-jose-luis-garcia-sanchez-director-i-guionista-clau-del-cinema-espanyol/noticia/3435987/",
+      "published": "2026-10-25T12:20:25+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 15,
+      "title": "Santa Úrsula de reptes pendents: Vella i Joves, amb l'objectiu de rematar la bona feina del curs",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/santa-ursula-de-reptes-pendents-vella-i-joves-amb-lobjectiu-de-rematar-la-bona-feina-del-curs/noticia/3435988/",
+      "published": "2026-10-25T12:07:32+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 16,
+      "title": "Catorze establiments saquejats o amb destrosses i crítiques per la falta de previsió",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/successos/l-ajuntament-xifra-36-000-euros-destrosses-mobiliari-urba_1_5890004.html",
+      "published": "2026-10-25T12:05:38+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 17,
+      "title": "Kyle Smith i Damm Nielsen, guanyadors de la mitjana distància del Triatló de Barcelona 2026",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/esports/kyle-smith-i-damm-nielsen-guanyen-triatlo-barcelona-2026/",
+      "published": "2026-10-25T12:02:18+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 18,
+      "title": "Pere Romeu carrega contra l’arbitratge de la Lliga F: “Tan difícil és?”",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/esports/pere-romeu-carrega-arbitratge-lliga/",
+      "published": "2026-10-25T11:48:44+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 19,
       "title": "El Triatló de Barcelona 2026, amb més proves que mai | DIRECTE",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/beteve-emetra-directe-triatlo-barcelona-2026-mes-proves-que-mai/",
@@ -118,7 +171,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 14,
+      "page": 20,
       "title": "Els 'therian' i l'embrió dels aldarulls",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/barcelona/therian-l-embrio-dels-aldarulls_129_5890006.html",
@@ -126,7 +179,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 15,
+      "page": 21,
       "title": "Un comboi del metro de València descarrila i obliga a interrompre la circulació de la línia 4",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/un-comboi-del-metro-de-valencia-descarrila-i-obliga-a-interrompre-la-circulacio-de-la-linia-4/",
@@ -134,7 +187,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 16,
+      "page": 22,
       "title": "Toni Comín torna de l'exili a peu pel coll dels Belitres fins a Portbou",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/toni-comin-torna-de-lexili-a-peu-pel-coll-dels-belitres-fins-a-portbou/noticia/3435933/",
@@ -142,7 +195,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 17,
+      "page": 23,
       "title": "Veïns de Nou Barris fabriquen un capgròs en record de l’activista cultural Rafa Juncadella",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/veins-nou-barris-uneixen-fabricar-capgros-rafa-juncadella/",
@@ -150,7 +203,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 18,
+      "page": 24,
       "title": "Un clàssic sense Thibaut Courtois, el mur del Madrid de Mourinho",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/futbol/baixa-sensible-reial-madrid-classic_1_5889991.html",
@@ -158,15 +211,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 19,
-      "title": "El Madrid tremola abans de trepitjar el Camp Nou: Thibaut Courtois baixa d’última hora",
+      "page": 25,
+      "title": "El Madrid tremola abans de trepitjar el Camp Nou: Thibaut Courtois, baixa de darrera hora",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/el-madrid-tremola-abans-de-trepitjar-el-camp-nou-courtois-baixa-dultima-hora/",
       "published": "2026-10-25T11:07:41+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 20,
+      "page": 26,
       "title": "Afectacions de trànsit i canvis en el recorregut d’autobusos per les obres del pont de la Marina",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/afectacions-transit-obres-pont-marina/",
@@ -174,15 +227,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 21,
-      "title": "Blocus, TikTok i comptes anònims: qui hi ha rere els aldarulls i saqueigs de Barcelona?",
+      "page": 27,
+      "title": "Blocus, TikTok i comptes anònims: qui hi ha darrere els aldarulls i pillatges de Barcelona?",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/blocus-tiktok-comptes-anonims-aldarulls-saqueigs-barcelona/",
       "published": "2026-10-25T10:36:26+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 22,
+      "page": 28,
       "title": "Els Mossos, \"sorpresos\": \"No és una manifestació com les que estem acostumats\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/successos/mossos-sorpresos-no-manifestacio-acostumats_1_5889981.html",
@@ -190,7 +243,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 23,
+      "page": 29,
       "title": "El rastre dels saquejos a Barcelona en botigues de tecnologia, roba i complements",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/el-rastre-dels-saquejos-a-barcelona-en-botigues-de-tecnologia-roba-i-complements/noticia/3435978/",
@@ -198,7 +251,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 24,
+      "page": 30,
       "title": "Primer recompte de danys dels aldarulls: 23 comerços vandalitzats i 36.000 € en mobiliari urbà",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/recompte-danys-aldarulls-centre-23-comercos-vandalitzats-31-contenidors-cremats/",
@@ -206,15 +259,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 25,
-      "title": "Ultres espanyolistes ataquen cases amb estelades al centre de Sabadell: “No ens feu por”",
+      "page": 31,
+      "title": "Uns quants ultres espanyolistes ataquen cases amb estelades al centre de Sabadell: “No ens feu por”",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/ultres-espanyolistes-ataquen-cases-estelades-centre-sabadell/",
       "published": "2026-10-25T10:01:36+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 26,
+      "page": 32,
       "title": "Els Mossos, sobre els saquejos: “Ens sorprèn la virulència perquè no hi ha grups criminals darrere”",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/mossos-saquejos-centre-barcelona-no-grups-criminals/",
@@ -222,23 +275,23 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 27,
-      "title": "El Gremi de Restauració atribueix els aldarulls a una valoració errònia del risc i a la manca de policies",
+      "page": 33,
+      "title": "El Gremi de Restauració atribueix els aldarulls a una valoració errònia del risc i un dispositiu policíac insuficient",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/gremi-restauracio-aldarulls-valoracio-erronia-risc-poca-policia/",
       "published": "2026-10-25T09:30:00+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 28,
-      "title": "Catà, sobre els saquejos: “És bastant inexplicable, no és una manifestació com les que estem acostumats a protegir”",
+      "page": 34,
+      "title": "Catà, sobre els pillatges: “És bastant inexplicable; no és una manifestació com les que estem acostumats a protegir”",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/cata-saquejos-inexplicable-manifestacio-barcelona/",
       "published": "2026-10-25T09:10:13+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 29,
+      "page": 35,
       "title": "El corall vermell de les Medes, icona del Mediterrani, es mor: \"Són com arbres calcinats\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/el-corall-vermell-de-les-medes-icona-del-mediterrani-es-mor-son-com-arbres-calcinats/noticia/3435729/",
@@ -246,7 +299,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 30,
+      "page": 36,
       "title": "Un llibre rodó per quan les esperances fluctuen",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/opinio/llibre-rodo-esperances-fluctuen-xialou-guo-angle-editorial_129_5888102.html",
@@ -254,7 +307,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 31,
+      "page": 37,
       "title": "Fontaines D.C. encén Barcelona",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/musica/fontaines-d-c-encen-barcelona_1_5889918.html",
@@ -262,7 +315,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 32,
+      "page": 38,
       "title": "Triatló de Barcelona 2026: recorregut, data, horaris, inscripcions i tot el que cal saber",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/triatlo-barcelona-recorregut-data/",
@@ -270,7 +323,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 33,
+      "page": 39,
       "title": "Com s'han gestat els aldarulls de dissabte a la nit al centre de Barcelona",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/com-shan-gestat-els-aldarulls-de-dissabte-a-la-nit-al-centre-de-barcelona/noticia/3435967/",
@@ -278,7 +331,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 34,
+      "page": 40,
       "title": "\"El 2014 ens vam equivocar: no vam saber interpretar les intencions de Putin\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/europa/vam-equivocar-no-vam-interpretar-intencions-putin_128_5888885.html",
@@ -286,7 +339,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 35,
+      "page": 41,
       "title": "\"Vaig marxar per fidelitat al president Puigdemont i l'he mantingut fins al final\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/marxar-fidelitat-president-puigdemont-l-he-mantingut-fins-final_128_5888986.html",
@@ -294,7 +347,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 36,
+      "page": 42,
       "title": "Com ajudar els adolescents a tenir més força de voluntat",
       "source": "ARA",
       "articleUrl": "https://criatures.ara.cat/criatures/ajudar-adolescents-mes-forca-voluntat_129_5880539.html",
@@ -302,7 +355,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 37,
+      "page": 43,
       "title": "Una nova patronal de pimes plana sobre l'ambient",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/opinio/nova-patronal-pimes-plana-l-ambient_129_5887250.html",
@@ -310,7 +363,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 38,
+      "page": 44,
       "title": "Per què hi ha 420.000 pisos pendents de construir als municipis amb topalls del lloguer?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/immobiliari/hi-420-000-pisos-pendents-construir-als-municipis-topalls-lloguer_1_5886910.html",
@@ -318,7 +371,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 39,
+      "page": 45,
       "title": "El retorn de Mourinho, l'home que hauria pogut ser estimat al Barça",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/barca/retorn-mourinho-l-home-hauria-pogut-estimat-barca_1_5888988.html",
@@ -326,7 +379,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 40,
+      "page": 46,
       "title": "Un delicte contra els animals al dia: així es persegueixen els maltractadors",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/successos/delicte-animals-dia-aixi-persegueixen-maltractadors_1_5888023.html",
@@ -334,7 +387,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 41,
+      "page": 47,
       "title": "Les portades del diumenge 25 d’octubre de 2026",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-diumenge-25-de-octubre-de-2026/",
@@ -342,7 +395,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 42,
+      "page": 48,
       "title": "Llibertaris, ultres sota l'ombra de Trump: \"Som aquí per lluitar contra l'Estat dels collons\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/llibertaris-ultres-sota-lombra-de-trump-som-aqui-per-lluitar-contra-lestat-dels-collons/noticia/3434875/",
@@ -350,7 +403,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 43,
+      "page": 49,
       "title": "El preu de l'electricitat continua encarint-se a les portes de l'hivern: com pot afectar la factura",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/el-preu-de-lelectricitat-continua-encarint-se-a-les-portes-de-lhivern-com-pot-afectar-la-factura/noticia/3435952/",
@@ -358,7 +411,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 44,
+      "page": 50,
       "title": "Obama dona suport a El-Sayed a Michigan: \"Es respira un aire de canvi\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/estats-units/obama-dona-suport-sayed-michigan-respira-aire-canvi_1_5889001.html",
@@ -366,7 +419,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 45,
+      "page": 51,
       "title": "Més-Compromís fa una crida a la participació de tota la militància i l’esquerra valenciana a l’Aplec del Puig",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/mes-compromis-fa-una-crida-a-la-participacio-de-tota-la-militancia-i-lesquerra-valenciana-a-laplec-del-puig/",
@@ -374,7 +427,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 46,
+      "page": 52,
       "title": "La traducció a l’anglès de l’últim llibre d’Irene Solà, distingida amb el National Translation Award",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/la-traduccio-a-langles-de-lultim-llibre-direne-sola-distingida-amb-el-national-translation-award/",
@@ -382,7 +435,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 47,
+      "page": 53,
       "title": "“No permetrem que el que ha passat a Barcelona quedi impune”: Collboni i Parlon condemnen els aldarulls",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/",
