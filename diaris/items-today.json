@@ -22,6 +22,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "betevé",
+      "title": "Els comerciants, entre la tristesa i la por: “Els que han vingut aquesta nit que no tornin”",
+      "excerpt": "Els comerciants del centre de Barcelona intenten pair el que ha passat durant les darreres hores en una nit d’aldarulls i saquejos amb 23 establiments perjudicats. Elvira García, la directora de Barcelona Oberta, que aplega els eixos comercials del centre, ho ha resumit amb una barreja de sentiments: “decepció, frustració i molta tristor”, però també […]",
+      "url": "https://beteve.cat/societat/comerciants-endema-aldarulls-centre-tristesa-por/",
+      "published": "2026-10-25T13:01:11+01:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/desperfectes-botigues-diumenge-3-2026-10-25.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "\"Som 39 alumnes a classe\": què reclamen els joves per millorar l'educació?",
       "excerpt": "Els Joves expliquen a \"L'ofici d'educar\" que comparteixen reivindicacions amb els estudiants francesos i defensen mobilitzar-se, però sense violència",
@@ -29,12 +39,12 @@
       "published": "2026-10-25T12:02:29+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/4/1792926025543.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432350/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/som-39-alumnes-a-classe-que-reclamen-els-joves-per-millorar-leducacio/noticia/3435123/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -63,7 +73,7 @@
       "url": "https://www.3cat.cat/3catinfo/els-estudiants-de-serbia-pioners-a-europa-de-protestar-al-carrer-a-competir-a-les-eleccions/noticia/3435950/",
       "published": "2026-10-25T09:26:25+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/2/1792911829120.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/7/1792929821175.jpg",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6359007/embed/",
         "source": "3CatInfo",
@@ -83,8 +93,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Abascal, disposat a col·laborar amb Aliança Catalana en immigració, seguretat i defensa de la identitat",
-      "excerpt": "El dirigent defensa possibles acords malgrat les discrepàncies sobre la independència de Catalunya",
+      "title": "Abascal, disposat a col·laborar amb Aliança Catalana en qüestions d’immigració, seguretat i identitat catalana",
+      "excerpt": "El dirigent no descarta acords malgrat les discrepàncies sobre la independència de Catalunya",
       "url": "https://www.vilaweb.cat/noticies/abascal-collaborar-alianca-catalana-immigracio-seguretat-identitat/",
       "published": "2026-10-25T08:58:00+01:00",
       "category": "Principat",
@@ -148,6 +158,66 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Collboni: “El que va passar a Barcelona no es pot tornar a repetir”",
+      "excerpt": "L’endemà dels greus incidents viscuts a centre de Barcelona, l’alcalde de la ciutat, Jaume Collboni, s’ha apropat fins a la plaça de Catalunya per donar suport als comerciants que han patit els desperfectes i saquejos. Com ja va dir en una primera compareixença poc després dels fets, Collboni ha tornat a repetir aquest diumenge al […]",
+      "url": "https://beteve.cat/politica/collboni-endema-aldarulls-no-es-pot-repetir/",
+      "published": "2026-10-25T13:43:19+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/collboni-diumenge-2026-10-25-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Meghan Markle sabia des del 2019 que el seu pare consumia pornografia infantil",
+      "excerpt": "La duquessa de Sussex, Meghan Markle, sabia des del gener del 2019 que el seu pare presumptament consumia pornografia infantil. La policia la va alertar fa set anys, després del seu casament i abans que el 2020 deixés la Casa Reial britànica i marxés amb el príncep Enric als Estats Units. Aquesta va ser la raó per la qual va tallar el contacte amb ell, va explicar la mateixa Markle divendres en una carta al diari The Sun . La duquessa afirma que ha aguantat…",
+      "url": "https://www.ara.cat/gent/monarquies/meghan-markle-sabia-des-pare-consumia-pornografia-infantil_1_5890052.html",
+      "published": "2026-10-25T13:17:27+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/caf20870-5941-4eec-94bd-a7df03211b9e_16-9-aspect-ratio_default_0_x1749y1446.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Josep Maria Mainat: \"Deixar-ho tot endreçat abans de morir és l'últim acte d'amor\"",
+      "excerpt": "El cantant i productor de televisió celebra 80 anys amb humor i reflexiona a \"Col·lapse\" sobre la mort, les pèrdues i la importància de preparar la marxa per no complicar la vida als qui es queden",
+      "url": "https://www.3cat.cat/3catinfo/josep-maria-mainat-deixar-ho-tot-endrecat-abans-de-morir-es-lultim-acte-damor/noticia/3435910/",
+      "published": "2026-10-25T13:14:28+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/6/1792841075861.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "S’ha mort Dolors Negre Butjosa, mare de Jordi Turull",
+      "excerpt": "Turull ha agraït les mostres de condol i ha dedicat un missatge emotiu a la seva mare",
+      "url": "https://www.vilaweb.cat/noticies/sha-mort-dolors-negre-butjosa-mare-de-jordi-turull/",
+      "published": "2026-10-25T13:09:57+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Illa promet mà dura contra els participants dels aldarulls, els organitzadors i els pares dels menors",
+      "excerpt": "El president de la Generalitat qualifica els aldarulls de \"violència gratuïta\"",
+      "url": "https://www.vilaweb.cat/noticies/illa-ma-dura-aldarulls-barcelona-pares/",
+      "published": "2026-10-25T13:00:33+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Abby Choi, la 'influencer' esquarterada que ha tornat de l'oblit",
+      "excerpt": "Si quan els famosos eren famosos pel seu ofici, el fet de fer-se més coneguts es considerava un actiu per a les seves carreres artístiques, imagineu-vos què passa amb la majoria dels famosos actuals, que no tenen cap talent i han crescut només a l'arbitrari caliu de l'algoritme. Què no estaran disposats a fer per aconseguir alguns followers més si això és l'únic que els pot proporcionar més ingressos, ja que no tenen cap altra via de negoci? Farien –i fan– el que fes falta!…",
+      "url": "https://www.ara.cat/gent/abby-choi-influencer-esquarterada-tornat-l-oblit_1_5886328.html",
+      "published": "2026-10-25T13:00:14+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/33ebcaeb-b261-4d0d-abd4-8465306d6937_16-9-aspect-ratio_default_0_x306y349.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
       "title": "Mor José Luis García Sánchez, director i guionista clau del cinema espanyol",
       "excerpt": "Va guanyar l'Os d'Or a Berlín amb \"Las truchas\" i va adaptar al cine \"Divinas palabras\" i \"Tirano Banderas\", de Valle-Inclán",
@@ -159,12 +229,12 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Santa Úrsula de reptes pendents: Vella i Joves, amb l'objectiu de rematar la bona feina del curs",
+      "title": "Santa Úrsula de reptes pendents: la Vella carrega de nou el 3d9sf i el 4d10fm i la Joves fa el 4d9sf",
       "excerpt": "La Vella planteja anar més enllà que al Concurs i descarregar el 4d10fm i el 3d9sf; la Joves podria provar l'inèdit pd7sf",
       "url": "https://www.3cat.cat/3catinfo/santa-ursula-de-reptes-pendents-vella-i-joves-amb-lobjectiu-de-rematar-la-bona-feina-del-curs/noticia/3435988/",
       "published": "2026-10-25T12:07:32+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpeg/2/5/1792926047352.jpeg",
+      "image": "https://img.3cat.cat/multimedia/jpeg/2/9/1792931436192.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -174,7 +244,7 @@
       "url": "https://www.ara.cat/societat/successos/l-ajuntament-xifra-36-000-euros-destrosses-mobiliari-urba_1_5890004.html",
       "published": "2026-10-25T12:05:38+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/9230b83f-6bec-4888-8218-7962f4913a87_16-9-aspect-ratio_default_0_x660y531.jpg",
+      "image": "https://static1.ara.cat/clip/5f6d23fd-a934-4a47-9862-4fc309579f5b_16-9-aspect-ratio_default_0_x1079y639.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -199,12 +269,12 @@
     },
     {
       "source": "betevé",
-      "title": "El Triatló de Barcelona 2026, amb més proves que mai | DIRECTE",
-      "excerpt": "betevé emet en directe el Triatló de Barcelona 2026. Aquest diumenge 25 d’octubre el mitjà de comunicació públic de Barcelona emet per quarta vegada una de les curses més destacades de la ciutat i més prestigioses en l’àmbit mundial. El programa especial del Triatló de Barcelona 2026, produït de manera conjunta per betevé i La Xarxa, s’allargarà fins a les […]",
+      "title": "4.000 triatletes omplen la façana marítima amb el Triatló de Barcelona 2026",
+      "excerpt": "Barcelona, una vegada més, ha demostrat la seva fantàstica capacitat organitzativa. La façana marítima de la ciutat s’ha omplert amb 4.000 triatletes, que han participat en el Triatló de Barcelona 2026. Un èxit organitzatiu, que ha servit per viure una excel·lent matinal esportiva. A més, aquesta 39a edició és la que més modalitats de proves […]",
       "url": "https://beteve.cat/esports/beteve-emetra-directe-triatlo-barcelona-2026-mes-proves-que-mai/",
       "published": "2026-10-25T11:38:24+01:00",
       "category": "atletisme",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cartela-triatlo-barcelona-1-2026-10-12.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/picto-generic-triatlo-2026-10-25.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -229,12 +299,12 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Toni Comín torna de l'exili a peu pel coll dels Belitres fins a Portbou",
+      "title": "Comín torna de l'exili a peu: \"Hem guanyat, torno lliure, l'últim que l'estat espanyol volia\"",
       "excerpt": "L'exconseller ha escollit un punt simbòlic per la memòria dels exiliats republicans",
       "url": "https://www.3cat.cat/3catinfo/toni-comin-torna-de-lexili-a-peu-pel-coll-dels-belitres-fins-a-portbou/noticia/3435933/",
       "published": "2026-10-25T11:28:11+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpeg/1/9/1792927269091.jpeg",
+      "image": "https://img.3cat.cat/multimedia/jpeg/8/2/1792931784828.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -299,7 +369,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "El rastre dels saquejos a Barcelona en botigues de tecnologia, roba i complements",
+      "title": "El rastre dels saquejos a Barcelona: \"Tristos, decebuts i amb por que es pugui repetir\"",
       "excerpt": "Els aldarulls d'aquest dissabte al vespre, amb 128 detinguts, han deixat el centre de Barcelona amb un paisatge d'establiments destrossats mentre la ciutat intenta tornar a la normalitat",
       "url": "https://www.3cat.cat/3catinfo/el-rastre-dels-saquejos-a-barcelona-en-botigues-de-tecnologia-roba-i-complements/noticia/3435978/",
       "published": "2026-10-25T10:04:44+01:00",
@@ -319,8 +389,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Uns quants ultres espanyolistes ataquen cases amb estelades al centre de Sabadell: “No ens feu por”",
-      "excerpt": "Els agressors han trencat una finestra amb una pedra i hi han fet pintades amenaçadores amb simbologia nazi",
+      "title": "Un grup d’ultres espanyolistes ataca cases amb estelades al centre de Sabadell: “No ens feu por”",
+      "excerpt": "Els agressors han trencat una finestra amb una pedra i han fet pintades amenaçadores amb simbologia nazi a les façanes",
       "url": "https://www.vilaweb.cat/noticies/ultres-espanyolistes-ataquen-cases-estelades-centre-sabadell/",
       "published": "2026-10-25T10:01:36+01:00",
       "category": "Societat",
@@ -519,8 +589,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Més-Compromís fa una crida a la participació de tota la militància i l’esquerra valenciana a l’Aplec del Puig",
-      "excerpt": "La coalició reivindica un valencianisme sense subordinacions i posa l’accent en la pluralitat amb vista a les eleccions del 29-N",
+      "title": "Més-Compromís fa una crida a tota la militància i l’esquerra valenciana perquè participin en l’Aplec del Puig",
+      "excerpt": "La coalició reivindica un valencianisme sense subordinacions i defensa la pluralitat de la candidatura amb vista a les eleccions del 29-N",
       "url": "https://www.vilaweb.cat/noticies/mes-compromis-fa-una-crida-a-la-participacio-de-tota-la-militancia-i-lesquerra-valenciana-a-laplec-del-puig/",
       "published": "2026-10-25T01:41:33+02:00",
       "category": "País Valencià",
@@ -529,7 +599,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La traducció a l’anglès de l’últim llibre d’Irene Solà, distingida amb el National Translation Award",
+      "title": "La traducció a l’anglès del darrer llibre d’Irene Solà, distingida amb el National Translation Award",
       "excerpt": "El premi, atorgat als Estats Units, també reconeix el valor de l’obra original en català",
       "url": "https://www.vilaweb.cat/noticies/la-traduccio-a-langles-de-lultim-llibre-direne-sola-distingida-amb-el-national-translation-award/",
       "published": "2026-10-25T01:35:12+02:00",
