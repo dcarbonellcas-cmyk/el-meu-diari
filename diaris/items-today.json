@@ -178,9 +178,69 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "Uns quants ferits en un accident d’autobús a Fogars de Montclús",
+      "excerpt": "Arran de l'accident s'ha tallat la carretera BV-5114 · S'ha activat la pre-alerta del pla Procicat",
+      "url": "https://www.vilaweb.cat/noticies/uns-quants-ferits-en-un-accident-dautobus-a-fogars-de-montclus/",
+      "published": "2026-10-25T17:37:39+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Quina responsabilitat legal tenen les famílies dels menors detinguts pels aldarulls?",
+      "excerpt": "Els pares dels menors detinguts podrien afrontar responsabilitats econòmiques si es demostra que no han corregit adequadament la conducta dels seus fills",
+      "url": "https://www.3cat.cat/3catinfo/quina-responsabilitat-legal-tenen-les-families-dels-menors-detinguts-pels-aldarulls/noticia/3435991/",
+      "published": "2026-10-25T17:14:29+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/1/1792941223110.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-744/",
+      "published": "2026-10-25T17:10:55+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els Mossos blinden el centre de Granollers davant d'una convocatòria com la de Barcelona",
+      "excerpt": "Els agents s'han desplegat a la plaça de la Porxada de Granollers, on cartells de Blocus criden a concentrar-se aquest diumenge a la tarda",
+      "url": "https://www.3cat.cat/3catinfo/els-mossos-blinden-el-centre-de-granollers-davant-duna-convocatoria-com-la-de-barcelona/noticia/3436024/",
+      "published": "2026-10-25T17:08:41+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/0/2/1792943935420.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Edmundo González diu que l’opositora María Corina Machado ha tornat a Veneçuela",
+      "excerpt": "González, que viu a Madrid, ha afirmat que aviat es reunirà amb ella a Veneçuela",
+      "url": "https://www.vilaweb.cat/noticies/edmundo-gonzalez-assegura-opositora-maria-corina-machado-tornat-venecuela/",
+      "published": "2026-10-25T17:05:27+01:00",
+      "category": "Amèrica",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les caigudes marquen una Diada de Santa Úrsula amb quatre castells de gamma extra",
+      "excerpt": "La Colla Vella ha carregat un 3 de 9 sense folre · La Colla Joves ha intentat un pilar de 7",
+      "url": "https://www.vilaweb.cat/noticies/caigudes-diada-santa-ursula-quatre-castells-gamma-extra/",
+      "published": "2026-10-25T16:52:31+01:00",
+      "category": "Cultura",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "El Sabadell acaba topant amb un mur i empata amb el Tenerife",
-      "excerpt": "El Sabadell ha acabat frustrat per no poder endur-se els tres punts davant del Tenerife en un partit on l'arbitratge de Saúl Ais ha tret de polleguera als arlequinats (1-1). No ha estat un arbitratge dels que decideix un partit, però si un d'aquells que genera frustració ja que costava entendre el criteri. Si Saúl Ais en tenia, és clar. Ara demanava repetir faltes, ara movia la pilota uns centímetres, ara expulsava algú de la banqueta. Les banquetes anaven caient generoses i ell semblava més…",
+      "excerpt": "El Sabadell ha acabat frustrat per no poder endur-se els tres punts davant del Tenerife en un partit en què l'arbitratge de Saúl Ais ha tret de polleguera els arlequinats (1-1). No ha estat un arbitratge dels que decideixen un partit, però sí un d'aquells que generen frustració, ja que costava entendre el criteri. Si és que Saúl Ais en tenia, esclar. Ara demanava repetir faltes, ara movia la pilota uns centímetres, ara expulsava algú de la banqueta. Les banquetes anaven caient generoses i ell…",
       "url": "https://www.ara.cat/esports/futbol/sabadell-acaba-topant-mur-empata-tenerife_1_5890108.html",
       "published": "2026-10-25T16:24:11+01:00",
       "category": "Actualitat",
@@ -200,7 +260,7 @@
     {
       "source": "3CatInfo",
       "title": "Els aldarulls a Barcelona entren en precampanya i Feijóo acusa Sánchez \"d'incendiar els carrers\"",
-      "excerpt": "Junts, PP i Vox han demanat la compareixença de la consellera d'Interior al Parlament mentre que Illa promet que els que van ser part dels aldarulls \"pagaran un preu\"",
+      "excerpt": "Junts, PP i Vox han demanat la compareixença de la consellera d'Interior al Parlament, mentre que Illa promet que els que van ser part dels aldarulls \"pagaran un preu\"",
       "url": "https://www.3cat.cat/3catinfo/els-aldarulls-a-barcelona-entren-en-precampanya-i-feijoo-acusa-sanchez-dincendiar-els-carrers/noticia/3435999/",
       "published": "2026-10-25T16:18:27+01:00",
       "category": "Actualitat",
@@ -350,7 +410,7 @@
     {
       "source": "ARA",
       "title": "Rufián: \"M'agradaria ser president de la Generalitat després de Junqueras\"",
-      "excerpt": "Cap acte sense titular. Gabriel Rufián ha criticat en la presentació del seu llibre a Front Ampli i Junts, i ha tornat a advocar per la unitat de les forces a l'esquerra del PSOE. També ha reivindicat els seus orígens —\"Jo vinc de la merda\", ha insistit— i ha remarcat la necessitat de prendre mesures per posar fi a la crisi d'habitatge. Tot això era d'esperar i, de fet, ja ho va assenyalar en el llançament d'aquest dissabte de la candidatura conjunta d'ERC i Podem…",
+      "excerpt": "Cap acte sense titular. Gabriel Rufián ha criticat el Front Ampli i Junts en la presentació del seu llibre, i ha tornat a advocar per la unitat de les forces a l'esquerra del PSOE. També ha reivindicat els seus orígens –\"Jo vinc de la merda\", ha insistit– i ha remarcat la necessitat de prendre mesures per posar fi a la crisi d'habitatge. Tot això era d'esperar i, de fet, ja ho va assenyalar en el llançament d'aquest dissabte de la candidatura conjunta d'ERC i Podem…",
       "url": "https://www.ara.cat/politica/eleccions-generals/rufian-m-agardaria-president-generalitat-despres-junqueras_1_5890056.html",
       "published": "2026-10-25T13:48:18+01:00",
       "category": "Actualitat",
@@ -370,7 +430,7 @@
     {
       "source": "ARA",
       "title": "Meghan Markle sabia des del 2019 que el seu pare consumia pornografia infantil",
-      "excerpt": "La duquessa de Sussex, Meghan Markle, sabia des del gener del 2019 que el seu pare presumptament consumia pornografia infantil. La policia la va alertar fa set anys, després del seu casament i abans que el 2020 deixés la Casa Reial britànica i marxés amb el príncep Enric als Estats Units. Aquesta va ser la raó per la qual va tallar el contacte amb ell, va explicar la mateixa Markle divendres en una carta al diari The Sun . La duquessa afirma que ha aguantat…",
+      "excerpt": "La duquessa de Sussex, Meghan Markle, sabia des del gener del 2019 que el seu pare, presumptament, consumia pornografia infantil. La policia va alertar-la dels fets fa set anys, després del seu casament i abans que el 2020 deixés la casa reial britànica i marxés amb el príncep Enric als Estats Units. Aquesta va ser la raó per la qual va tallar el contacte amb ell, segons va explicar la mateixa Markle divendres en una carta al diari The Sun . La duquessa afirma que…",
       "url": "https://www.ara.cat/gent/monarquies/meghan-markle-sabia-des-pare-consumia-pornografia-infantil_1_5890052.html",
       "published": "2026-10-25T13:17:27+01:00",
       "category": "Actualitat",
@@ -435,7 +495,12 @@
       "published": "2026-10-25T12:07:32+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/2/2/1792940367222.jpeg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432538/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/santa-ursula-de-reptes-pendents-vella-i-joves-amb-lobjectiu-de-rematar-la-bona-feina-del-curs/noticia/3435988/"
+      }
     },
     {
       "source": "ARA",
@@ -454,7 +519,7 @@
       "url": "https://beteve.cat/esports/kyle-smith-i-damm-nielsen-guanyen-triatlo-barcelona-2026/",
       "published": "2026-10-25T12:02:18+01:00",
       "category": "atletisme",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/guanyadors-triatlo-OK-2026-2026-10-25.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/guanyadors-triatlo-2026-2026-10-25-1.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -569,8 +634,8 @@
     },
     {
       "source": "ARA",
-      "title": "Qui eren aquests joves i per què ho han fet: les respostes dels aldarulls a Barcelona",
-      "excerpt": "S'ho esperaven? La resposta és que sí, els Mossos d'Esquadra s'esperaven protestes aquest dissabte a Barcelona . Feia dies que monitoraven les xarxes socials i havien detectat crides a emular els aldarulls de París. Sabien que hi havia grups de Telegram amb 700 joves a dins. Des de les 16 hores es van fer més de 300 identificacions a joves i es van requisar martells i altres eines de metall que anaven a fer servir per saquejar negocis. Però els va sorprendre? Molt. S'esperaven inicialment…",
+      "title": "Qui eren aquests joves i per què ho han fet: les respostes als aldarulls de Barcelona",
+      "excerpt": "S'ho esperaven? La resposta és que sí. Els Mossos d'Esquadra s'esperaven protestes aquest dissabte a Barcelona . Feia dies que monitoritzaven les xarxes socials i havien detectat crides a emular els aldarulls de París. Sabien que hi havia grups de Telegram amb 700 joves. Des de les 16 hores es van identificar més de 300 joves i es van requisar martells i altres eines de metall que pretenien fer servir per saquejar negocis. Però els va sorprendre? Molt. Inicialment, s'esperaven unes 300 persones i en…",
       "url": "https://www.ara.cat/societat/successos/mossos-sorpresos-no-manifestacio-acostumats_1_5889981.html",
       "published": "2026-10-25T10:13:06+01:00",
       "category": "Actualitat",
@@ -660,7 +725,7 @@
     {
       "source": "ARA",
       "title": "Fontaines D.C. encén Barcelona",
-      "excerpt": "Una hora abans del concert, el cel de Barcelona es transformava del rosat de Romance (2024) a un Dopamine Chamber (2026) tornassolat. Fontaines D.C. arribaven a la ciutat deu dies després de l'estrena del disc, que explora un so més electrònic, però manté els temes de justícia social. Aquella mateixa tarda, un esclat d’aldarulls a Barcelona havia forçat canvis en el tren i el metro, i els seguidors de la banda es van veure forçats a pujar i baixar els turons que envolten el Sant…",
+      "excerpt": "Una hora abans del concert, el cel de Barcelona passava del rosat de Romance (2024) a un Dopamine Chamber (2026) tornassolat. Fontaines D.C. arribaven a la ciutat deu dies després de l'estrena del disc, que explora un so més electrònic però manté els temes de justícia social. Aquella mateixa tarda, un esclat d’aldarulls a Barcelona havia forçat canvis en el tren i el metro, i els seguidors de la banda es van veure forçats a pujar i baixar els turons que envolten el Sant Jordi…",
       "url": "https://www.ara.cat/cultura/musica/fontaines-d-c-encen-barcelona_1_5889918.html",
       "published": "2026-10-25T08:29:50+01:00",
       "category": "Actualitat",
