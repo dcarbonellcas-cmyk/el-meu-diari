@@ -2,6 +2,26 @@
   "date": "2026-10-25",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Trump ataca Obama arran de les crítiques per la guerra contra l’Iran: “És un incompetent”",
+      "excerpt": "L’ex-president nord-americà acusa Trump de ser el responsable directe de l’augment dels preus per la guerra",
+      "url": "https://www.vilaweb.cat/noticies/trump-ataca-obama-critiques-guerra-iran/",
+      "published": "2026-10-25T10:13:48+01:00",
+      "category": "Amèrica",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Trias creu que Puigdemont no es presentarà a més eleccions i defensa que continuï presidint Junts",
+      "excerpt": "L’ex-batlle de Barcelona considera que Junts és en una etapa de renovació i defensa d’aixecar el cordó sanitari a Aliança Catalana",
+      "url": "https://www.vilaweb.cat/noticies/trias-creu-puigdemont-no-presentara-eleccions-junts/",
+      "published": "2026-10-25T10:18:13+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "Els estudiants de Sèrbia, pioners a Europa: de protestar al carrer a competir a les eleccions",
       "excerpt": "Els estudiants arriben als comicis d'aquest diumenge amb opcions de fer caure Aleksandar Vucic, que porta 12 anys en el poder enmig d'acusacions de corrupció i d'autoritarisme",
@@ -9,6 +29,16 @@
       "published": "2026-10-25T09:26:25+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/2/1792911829120.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Com vota la diàspora a les eleccions sud-americanes: més suport a la dreta a Madrid que a Barcelona",
+      "excerpt": "Els brasilers i els xilens residents a Catalunya són els que han votat més a l'esquerra; bolivians i argentins, els que més s'han acostat a la dreta",
+      "url": "https://www.3cat.cat/3catinfo/com-vota-la-diaspora-a-les-eleccions-sud-americanes-mes-suport-a-la-dreta-a-madrid-que-a-barcelona/noticia/3421742/",
+      "published": "2026-10-25T09:17:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/6/1790891539665.jpg",
       "priority": "2 · Important"
     },
     {
@@ -23,8 +53,8 @@
     },
     {
       "source": "betevé",
-      "title": "128 detinguts, 73 menors, pels aldarulls al centre de Barcelona: “No quedarà impune”",
-      "excerpt": "Els Mossos d’Esquadra han detingut 128 persones, 73 de les quals menors d’edat, pels actes vandàlics que han tingut lloc dissabte al vespre al centre de Barcelona després d’una protesta espontània convocada a través de les xarxes socials. Dels detinguts, només dos tenien antecedents i en ambdós casos era per desordres públics. També es van […]",
+      "title": "128 detinguts, 72 dels quals són menors, pels aldarulls al centre de Barcelona: “No quedarà impune”",
+      "excerpt": "Els Mossos d’Esquadra han detingut 128 persones, 72 de les quals són menors d’edat, pels actes vandàlics de dissabte al vespre al centre de Barcelona després d’una protesta espontània convocada a través de les xarxes socials. Dels detinguts, només dos tenen antecedents i en ambdós casos són per desordres públics. També s’han aixecat 68 actes […]",
       "url": "https://beteve.cat/societat/tensio-centre-barcelona-concentracio-xarxes/",
       "published": "2026-10-25T08:48:09+01:00",
       "category": "seguretat ciutadana",
@@ -78,6 +108,76 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "El Triatló de Barcelona 2026, amb més proves que mai | DIRECTE",
+      "excerpt": "betevé emet en directe el Triatló de Barcelona 2026. Aquest diumenge 25 d’octubre el mitjà de comunicació públic de Barcelona emet per quarta vegada una de les curses més destacades de la ciutat i més prestigioses en l’àmbit mundial. El programa especial del Triatló de Barcelona 2026, produït de manera conjunta per betevé i La Xarxa, s’allargarà fins a les […]",
+      "url": "https://beteve.cat/esports/beteve-emetra-directe-triatlo-barcelona-2026-mes-proves-que-mai/",
+      "published": "2026-10-25T10:39:52+01:00",
+      "category": "atletisme",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cartela-triatlo-barcelona-1-2026-10-12.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Blocus, TikTok i comptes anònims: qui hi ha rere els aldarulls i saqueigs de Barcelona?",
+      "excerpt": "Els cartells de Blocus van començar a circular dies abans dels incidents i la policia encara no ha identificat els responsables de la convocatòria",
+      "url": "https://www.vilaweb.cat/noticies/blocus-tiktok-comptes-anonims-aldarulls-saqueigs-barcelona/",
+      "published": "2026-10-25T10:36:26+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els Mossos, \"sorpresos\": \"No és una manifestació com les que estem acostumats\"",
+      "excerpt": "Les fonts policials consultades ahir a la nit per l'ARA ja ho apuntaven i, aquest matí, la comissària en cap dels Mossos d'Esquadra, Sílvia Catà, ho ha admès obertament. El cos policial està \"sorprès\" pel caire que va agafar la protesta juvenil d'aquest dissabte a la nit a Barcelona, que va acabar com una batalla campal al centre de la ciutat. \"És bastant inexplicable, no és una manifestació com les que estem acostumats a protegir\", ha argumentat la comissària, en una entrevista a Catalunya Ràdio.",
+      "url": "https://www.ara.cat/societat/successos/mossos-sorpresos-no-manifestacio-acostumats_1_5889981.html",
+      "published": "2026-10-25T10:13:06+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3656ff6c-2f22-4995-9081-b41bfbf2b08f_16-9-aspect-ratio_default_0_x3789y1863.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El rastre dels saquejos a Barcelona en botigues de tecnologia, roba i complements",
+      "excerpt": "Els aldarulls d'aquest dissabte al vespre, amb 128 detinguts, han deixat el centre de Barcelona amb un paisatge d'establiments destrossats mentre la ciutat intenta tornar a la normalitat",
+      "url": "https://www.3cat.cat/3catinfo/el-rastre-dels-saquejos-a-barcelona-en-botigues-de-tecnologia-roba-i-complements/noticia/3435978/",
+      "published": "2026-10-25T10:04:44+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/5/1792916558754.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Primer recompte de danys dels aldarulls: 23 comerços vandalitzats i 36.000 € en mobiliari urbà",
+      "excerpt": "El centre de Barcelona s’ha llevat aquest diumenge marcat pels greus aldarulls de la darrera nit i matinada. El balanç policial es tanca amb 128 detinguts, 72 dels quals menors, i 68 actes administratives per decomís d’armes blanques, esprais, passamuntanyes, pirotècnia, pedres i altres objectes. A banda hi ha 14 agents lesionats, quatre d’ells, greus. […]",
+      "url": "https://beteve.cat/societat/recompte-danys-aldarulls-centre-23-comercos-vandalitzats-31-contenidors-cremats/",
+      "published": "2026-10-25T10:04:00+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/destrosses-botiges-aldarulls-1-2026-10-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Ultres espanyolistes ataquen cases amb estelades al centre de Sabadell: “No ens feu por”",
+      "excerpt": "Els agressors han trencat una finestra amb una pedra i han fet pintades amb amenaces i simbologia nazi",
+      "url": "https://www.vilaweb.cat/noticies/ultres-espanyolistes-ataquen-cases-estelades-centre-sabadell/",
+      "published": "2026-10-25T10:01:36+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els Mossos, sobre els saquejos: “Ens sorprèn la virulència perquè no hi ha grups criminals darrere”",
+      "excerpt": "(ACN) La comissària en cap dels Mossos, Sílvia Catà, ha expressat sorpresa de la policia catalana davant els saquejos d’aquest dissabte al vespre al centre de Barcelona. “És bastant inexplicable, no és una manifestació com les que estem acostumats a protegir”, ha explicat en una entrevista a El suplement, de Catalunya Ràdio, diumenge al matí. […]",
+      "url": "https://beteve.cat/societat/mossos-saquejos-centre-barcelona-no-grups-criminals/",
+      "published": "2026-10-25T09:38:38+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/destrosses-botiges-aldarulls-2-2026-10-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "El Gremi de Restauració atribueix els aldarulls a una valoració errònia del risc i a la manca de policies",
       "excerpt": "Els restauradors critiquen que cap administració els “alertés de la convocatòria”",
@@ -105,16 +205,6 @@
       "published": "2026-10-25T09:09:04+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/6/1792870475261.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "El Triatló de Barcelona 2026, amb més proves que mai | DIRECTE",
-      "excerpt": "betevé emet en directe el Triatló de Barcelona 2026. Aquest diumenge 25 d’octubre el mitjà de comunicació públic de Barcelona emet per quarta vegada una de les curses més destacades de la ciutat i més prestigioses en l’àmbit mundial. El programa especial del Triatló de Barcelona 2026, produït de manera conjunta per betevé i La Xarxa, s’allargarà fins a les […]",
-      "url": "https://beteve.cat/esports/beteve-emetra-directe-triatlo-barcelona-2026-mes-proves-que-mai/",
-      "published": "2026-10-25T08:33:50+01:00",
-      "category": "atletisme",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cartela-triatlo-barcelona-1-2026-10-12.jpg",
       "priority": "3 · Altres notícies"
     },
     {
