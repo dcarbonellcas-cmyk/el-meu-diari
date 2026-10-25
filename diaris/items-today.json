@@ -22,6 +22,37 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: pas de núvols prims i alguns núvols baixos costaners",
+      "excerpt": "Mantenim un temps variable i amb una temperatura lleugerament per sobre de la mitjana climàtica",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pas-de-nuvols-prims-i-alguns-nuvols-baixos-costaners/noticia/3435972/",
+      "published": "2026-10-25T19:00:00+01:00",
+      "updated": "2026-10-25T22:29:43+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/3/1792920549633.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432601/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pas-de-nuvols-prims-i-alguns-nuvols-baixos-costaners/noticia/3435972/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El moviment dels Estudiants de Sèrbia guanya per sorpresa les eleccions i derroca Vucic",
+      "excerpt": "L'expresident Aleksandar Vucic ha reconegut la derrota als comicis legislatius d'aquest diumenge",
+      "url": "https://www.3cat.cat/3catinfo/els-estudiants-de-serbia-es-perfilen-com-a-guanyadors-dunes-eleccions-amb-una-participacio-record/noticia/3436041/",
+      "published": "2026-10-25T21:58:30+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/9/1792956421092.jpg",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6359007/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-estudiants-de-serbia-es-perfilen-com-a-guanyadors-dunes-eleccions-amb-una-participacio-record/noticia/3436041/"
+      }
+    },
+    {
       "source": "VilaWeb",
       "title": "El Suprem del Brasil ordena d’allargar dues hores la votació de les eleccions presidencials",
       "excerpt": "El tribunal accepta una petició de Lula, que havia denunciat restriccions en el transport públic que dificultaven l’accés dels electors als col·legis electorals",
@@ -44,27 +75,11 @@
     {
       "source": "3CatInfo",
       "title": "La justícia del Brasil allarga la jornada de votació per problemes amb el transport",
-      "excerpt": "El Tribunal Suprem del Brasil amplia l'horari de votació per problemes de transport, permetent als brasilers votar dues hores més aquest diumenge",
+      "excerpt": "El Tribunal Suprem del Brasil amplia l'horari de votació per problemes de mobilitat, i dona als brasilers dues hores més per votar aquest diumenge",
       "url": "https://www.3cat.cat/3catinfo/la-justicia-del-brasil-allarga-la-jornada-de-votacio-per-problemes-amb-el-transport/noticia/3436038/",
       "published": "2026-10-25T21:13:36+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/3/1792954304635.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dilluns: pas de núvols prims i alguns núvols baixos costaners",
-      "excerpt": "Mantenim un temps variable i amb una temperatura lleugerament per sobre de la mitjana climàtica",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pas-de-nuvols-prims-i-alguns-nuvols-baixos-costaners/noticia/3435972/",
-      "published": "2026-10-25T19:00:00+01:00",
-      "updated": "2026-10-25T20:17:57+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/3/1792920549633.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432535/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pas-de-nuvols-prims-i-alguns-nuvols-baixos-costaners/noticia/3435972/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -234,6 +249,56 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "EN DIRECTE | Barça - Reial Madrid (1-1): De Jong substitueix Fermín López",
+      "excerpt": "Rodrigo, que va ser suplent a París, torna a la titularitat per al clàssic contra el Reial Madrid a l'Spotify Camp Nou",
+      "url": "https://www.3cat.cat/3catinfo/en-directe-barca-reial-madrid-primer-classic-de-la-temporada-al-camp-nou/noticia/3435689/",
+      "published": "2026-10-25T22:23:23+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/7/1792964083271.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Vučić reconeix la derrota electoral contra el moviment estudiantil",
+      "excerpt": "Ha atribuït el resultat de les eleccions sèrbies a una \"revolució\" impulsada amb el suport de països estrangers",
+      "url": "https://www.vilaweb.cat/noticies/vucic-reconeix-derrota-electoral-moviment-estudiantil/",
+      "published": "2026-10-25T22:03:38+01:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Brasil ajorna dues hores el tancament dels col·legis electorals",
+      "excerpt": "La segona volta de les eleccions presidencials brasileres ha derivat en un caos inèdit per culpa de la reducció deliberada de la flota d’autobusos, que és gratuït el dia de les votacions, per part d’una sèrie d’alcaldies governades per l’extrema dreta, aliades del candidat Flávio Bolsonaro (Partit Liberal). La mesura buscava castigar el desplaçament dels sector populars, que depenen del transport públic perquè no tenen vehicle privat, i que constitueixen la base electoral del candidat a la reelecció, Luiz Inácio Lula da Silva (Partit dels…",
+      "url": "https://www.ara.cat/internacional/america/brasil-ajorna-dues-hores-tancament-dels-col-legis-electorals_1_5890415.html",
+      "published": "2026-10-25T21:57:01+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/62c734c9-34ed-440b-8eab-8efb308f55c4_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé esports",
+      "excerpt": "LÀlex Masana i la Marina Garrido repassen tota lactualitat esportiva del cap de setmana els dissabtes i diumenges al betevé esports.",
+      "url": "https://beteve.cat/beteve-esports/beteve-esports-78/",
+      "published": "2026-10-25T21:53:59+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Nou contratemps per al Barça en defensa: Xavi Espart, lesionat durant el clàssic",
+      "excerpt": "El futbolista barceloní ha estat substituït per Alejandro Balde. Uns minuts abans havia rebut una dura entrada per part de Tchouameni",
+      "url": "https://www.3cat.cat/3catinfo/nou-contratemps-pel-barca-en-defensa-xavi-espart-es-lesiona-al-classic/noticia/3436044/",
+      "published": "2026-10-25T21:48:19+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/5/7/1792961250375.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Torn de guàrdia: Companys lleials [capítol 4]",
       "excerpt": "La Guàrdia Urbana de Barcelona disposa d’unitats i seccions molt diverses però, sens dubte, les més singulars tenen animals com a protagonistes: els gossos i els cavalls. La secció canina forma part de la Unitat de Reforç, Emergències i Proximitat (UREP) i s’encarrega de la detecció de droga i grans quantitats de diners. La secció […]",
@@ -359,16 +424,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "3CatInfo",
-      "title": "EN DIRECTE | Barça - Reial Madrid (0-0): Balde substitueix el lesionat Espart",
-      "excerpt": "Rodrigo, que va ser suplent a París, torna a la titularitat per al clàssic contra el Reial Madrid a l'Spotify Camp Nou",
-      "url": "https://www.3cat.cat/3catinfo/en-directe-barca-reial-madrid-primer-classic-de-la-temporada-al-camp-nou/noticia/3435689/",
-      "published": "2026-10-25T20:23:23+01:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/5/1792959171453.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "betevé",
       "title": "Higor de Souza, jugador del Barça de futbol sala: “Tot l’equip pensa a guanyar la Champions”",
       "excerpt": "Higor de Souza va arribar a Barcelona com qualsevol brasiler que arriba a Barcelona: il·lusionat, content, feliç i amb un somriure d’orella a orella. Té 28 anys i juga de pivot, una posició que tradicionalment al Palau sempre ha tingut ídols amb accent brasiler. Higor ha aterrat al feu blaugrana després de quatre anys vestint […]",
@@ -456,7 +511,7 @@
     {
       "source": "VilaWeb",
       "title": "El camí secret de Toni Comín de l’exili a Castellterçol",
-      "excerpt": "Maria Lluïsa Oliveres ha estat ben present aquest migdia de diumenge, 25 d’octubre de 2026, quan el seu fill petit l’ha invocat i l’ha recordat just després d’haver travessat aquesta línia absurda que separa dos trossos d’un sol país",
+      "excerpt": "Maria Lluïsa Oliveres ha estat ben present aquest migdia de diumenge, 25 d’octubre de 2026, quan el seu fill petit l’ha invocada i l’ha recordada just després d’haver travessat aquesta línia absurda que separa dos trossos d’un sol país",
       "url": "https://www.vilaweb.cat/noticies/toni-comin-cronica-retorn-exili-cami-secret-castelltercol/",
       "published": "2026-10-25T19:34:51+01:00",
       "category": "Diari de la guerra judicial",
@@ -700,7 +755,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "83 ferits, 7 de greus, per l'accident d'un autobús que ha caigut per un talús a Fogars de Montclús",
+      "title": "Continua la recerca de persones per l'accident d'autobús a Fogars de Montclús amb 83 ferits, 7 de greus",
       "excerpt": "Els bombers encara estan rastrejant la zona i no descarten que hi pugui haver més ferits o alguna víctima mortal que no hagi estat localitzada",
       "url": "https://www.3cat.cat/3catinfo/un-autobus-cau-per-un-terraple-a-fogars-de-montclus-sense-victimes-mortals/noticia/3436028/",
       "published": "2026-10-25T17:39:30+01:00",
