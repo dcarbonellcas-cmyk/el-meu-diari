@@ -22,6 +22,22 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: pas de núvols prims i alguns núvols baixos costaners",
+      "excerpt": "Mantenim un temps variable i amb una temperatura lleugerament per sobre de la mitjana climàtica",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pas-de-nuvols-prims-i-alguns-nuvols-baixos-costaners/noticia/3435972/",
+      "published": "2026-10-25T19:00:00+01:00",
+      "updated": "2026-10-25T19:00:44+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/3/1792920549633.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432484/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pas-de-nuvols-prims-i-alguns-nuvols-baixos-costaners/noticia/3435972/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
       "title": "L’oposició a l’Ajuntament condemna els incidents i exigeix responsabilitat al govern de Collboni",
       "excerpt": "La ciutat de Barcelona viu aquest diumenge marcada pels greus incidents de la nit passada al centre, que s’han tancat amb 128 detinguts, 23 comerços saquejats i danys a l’espai públic per valor de 36.000 euros. Tot els grups de l’oposició han compartit la seva preocupació i han condemnat aquests fets a les xarxes socials. […]",
@@ -188,6 +204,161 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "Mor als 78 anys l'actriu i activista Pepa Arenós",
+      "excerpt": "Amb 50 anys de carrera als platós i als escenaris, va presentar la històrica Diada de Sant Boi de 1976",
+      "url": "https://www.3cat.cat/3catinfo/mor-als-78-anys-lactriu-i-activista-pepa-arenos/noticia/3436034/",
+      "published": "2026-10-25T19:37:16+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/8/1792951261480.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6423922/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/mor-als-78-anys-lactriu-i-activista-pepa-arenos/noticia/3436034/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "El PP, campió olímpic d’entrevista sincronitzada",
+      "excerpt": "Els diaris de la dreta aprofitaven les edicions dominicals per entrevistar diferents perfils del PP, a veure si acaben d’apuntalar la majoria de 200 diputats a la qual aspiren. Xavier García Albiol feia doblet a La Razón i l’ Abc , mentre que Cayetana Álvarez de Toledo protagonitzava la portada d’ El Mundo , el diari que més li fa la gara-gara. Fa uns dies aquests mateixos rotatius parlaven de les dues ànimes del PP, la moderada i la dura. Queda clar quina és la…",
+      "url": "https://www.ara.cat/media/pp-campio-olimpic-d-entrevista-sincronitzada_129_5890257.html",
+      "published": "2026-10-25T19:35:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/de20858f-ffc2-4561-aeb5-d25ca348a099_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El camí secret de Toni Comín de l’exili a Castellterçol",
+      "excerpt": "Maria Lluïsa Oliveres ha estat ben present aquest migdia de diumenge, 25 d’octubre de 2026, quan el seu fill petit l’ha invocat i l’ha recordat just després d’haver travessat aquesta línia absurda que separa dos trossos d’un sol país",
+      "url": "https://www.vilaweb.cat/noticies/toni-comin-cronica-retorn-exili-cami-secret-castelltercol/",
+      "published": "2026-10-25T19:34:51+01:00",
+      "category": "Diari de la guerra judicial",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A qui beneficien els aldarulls?",
+      "excerpt": "Durant tota la setmana hi havia hagut anuncis a les xarxes socials d'una mobilització dissabte a imatge del que estava passant a França. No quedava clar qui l'organitzava –encara no se sap–, i la convocatòria corria per TikTok i altres xarxes socials i es dirigia sobretot a gent jove. A Madrid va punxar, però a Barcelona es van arribar a reunir més de 500 joves, moltíssims d'ells menors, la majoria nois, que gairebé no van ni intentar fer veure que els movia una protesta reivindicativa…",
+      "url": "https://www.ara.cat/opinio/beneficien-aldarulls_129_5890171.html",
+      "published": "2026-10-25T19:32:41+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ecdbefdb-9d99-4713-94c9-15ca08c2d549_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Ricardo Gabaldón escortarà Català en la llista del PP a València",
+      "excerpt": "El batlle d'Utiel, que va adquirir notorietat arran de la gestió de la gota freda, serà el número dos de la candidatura",
+      "url": "https://www.vilaweb.cat/noticies/ricardo-gabaldon-numero-dos-pp-valencia-eleccions-espanyoles/",
+      "published": "2026-10-25T19:22:00+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els núvols baixos aniran a més al litoral, tot i que no hi ha cap canvi de temps a la vista",
+      "excerpt": "El cap de setmana ha estat dominat per la calma anticiclònica, sense cap novetat meteorològica destacable i amb una temperatura que, tot i que durant la nit i la matinada s'ha mantingut entre fresca i freda, ha pujat clarament al migdia. La setmana vinent començarà marcada per l'estabilitat i per una temperatura que pujarà una mica més, amb un ambient molt suau durant les hores centrals de la jornada.",
+      "url": "https://www.ara.cat/previsions/nuvols-baixos-aniran-mes-litoral-no-hi-cap-canvi-temps-vista_1_5890215.html",
+      "published": "2026-10-25T19:20:52+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7a1a3ded-b01c-4e0e-89bd-3b1dc7b1699a_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-26-10-2026_134_5890172.html",
+      "published": "2026-10-25T19:05:05+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El disseny modern en clau de gènere, a la Fundació Joan Miró amb Charlotte Perriand",
+      "excerpt": "La Fundació Joan Miró presenta fins al 28 de febrer del 2027 una exposició que ressegueix la producció de la primera meitat de la vida de Charlotte Perriand (1903-1999), una de les dissenyadores més influents del segle XX. És la primera gran exposició a l’estat espanyol dedicada a aquesta pensadora i creadora, que també va […]",
+      "url": "https://beteve.cat/cultura/disseny-modern-clau-genere-fundacio-joan-miro/",
+      "published": "2026-10-25T19:01:05+01:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/perriand-expo-fundacio-miro-03-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La gran epopeia per ser el primer català a pujar tots els cims de vuit mil metres",
+      "excerpt": "El 14 de setembre del 1985 milers de catalans van aplegar-se a l'aeroport del Prat per rebre l'expedició que tornava a casa després de fer el cim. Per primer cop la senyera catalana havia onejat dalt de la muntanya més alta del món, l'Everest. Dues setmanes abans, Òscar Cadiach, Toni Sors i Carles Vallès havien fet història, i Cadiach s'havia encarregat de fer arribar la bona nova amb una precària connexió per ràdio: “Catalunya ha assolit el sostre del món”. Curiosament, molta gent encara creu…",
+      "url": "https://diumenge.ara.cat/diumenge/gran-epopeia-catala-pujar-tots-cims-vuit-mil-metres_130_5870999.html",
+      "published": "2026-10-25T19:00:54+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d3372072-ef9d-4b74-a159-5219497b5d94_source-aspect-ratio_default_0_x1111y507.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Estufes, bombes de calor o calderes? Aquests són els millors sistemes de calefacció",
+      "excerpt": "Amb la baixada de les temperatures de la tardor, la majoria de les llars catalanes o bé ja han hagut d'engegar la calefacció i les estufes, o estan a punt de fer-ho. Davant la pujada dels rebuts de la llum i del gas, però, ara és un bon moment per plantejar-se quins són els millors sistemes per escalfar un habitatge amb el mínim de consum possible.",
+      "url": "https://www.ara.cat/economia/finances-personals/estufes-bombes-calor-calderes-aquests-son-millors-sistemes-calefaccio_1_5887308.html",
+      "published": "2026-10-25T19:00:54+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/dc196ede-3a5e-49d0-92df-4f0b89066393_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-26-10-2026_134_5888346.html",
+      "published": "2026-10-25T19:00:53+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els aldarulls entren en campanya: \"Sánchez vol veure créixer el foc\"",
+      "excerpt": "Els aldarulls de Barcelona entren de ple en campanya i la gran majoria de partits estan aprofitant els desordres per atacar els rivals polítics. El més dur ha sigut el líder del PP, Alberto Núñez Feijóo, que ha vinculat el president del govern espanyol, Pedro Sánchez, amb el que considera que és una “barbàrie”. “¿Com s'atreveixen a pontificar per la pau en el món al matí i a no garantir-la al seu país a la nit? Deixi de donar lliçons, si l'ha dinamitat a Espanya”,…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/aldarulls-entren-campanya-sanchez-vol-veure-creixer-foc_1_5890143.html",
+      "published": "2026-10-25T18:53:51+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/eac4e42c-4ec2-4cb8-8b44-70c004d6eaf6_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Festival de Sopes del Món celebra la diversitat gastronòmica a Nou Barris",
+      "excerpt": "Múltiples olles, ingredients d’arreu del món i tots, amb l’objectiu de convertir la sopa en un intercanvi cultural i social. A Nous Barris, aquest diumenge s’ha celebrat el Festival de Sopes del Món amb una nova edició que reivindica la cuina com una eina per trencar prejudicis, descobrir altres tradicions i crear vincles comunitaris. Un […]",
+      "url": "https://beteve.cat/cultura/festival-sopes-mon-celebra-diversitat-gastronomica-nou-barris/",
+      "published": "2026-10-25T18:51:41+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/festival-sopes-mon-251026-2026-10-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Pomaterra, el nou restaurant de Gràcia que a través de la patata et fa viatjar pel món",
+      "excerpt": "Entrar al Pomaterra (Torrent d’en Vidalet, 7) és, ja en si, una experiència perquè pocs restaurants, potser un grup reduït ara mateix a Barcelona, es prenen la molèstia de conservar amb tant d’encert l’esperit de barri d’un negoci. I darrere d’aquesta sensibilitat es troben l’Ana Díaz de León i l’Eduardo Durand, que van liderar durant […]",
+      "url": "https://beteve.cat/estils-de-vida/pomaterra-restaurant-aposta-patata/",
+      "published": "2026-10-25T18:46:53+01:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/POMATERRA_RATATOUILLE-2026-10-09.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "María Corina Machado torna a Veneçuela: \"Soc aquí, amb vostès\"",
+      "excerpt": "La líder opositora va sortir clandestinament del país al desembre per recollir el premi Nobel de la Pau a Oslo",
+      "url": "https://www.3cat.cat/3catinfo/maria-corina-machado-torna-a-venecuela-soc-aqui-amb-vostes/noticia/3436029/",
+      "published": "2026-10-25T18:45:16+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/4/1792949067644.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Els preliminars d’anar a rebentar aparadors",
       "excerpt": "El més nou de la violència de dissabte va ser, segons els Mossos, que els encaputxats no van fer la clàssica acció d’amagar-se a la cua d’una manifestació de protesta organitzada, sinó que els van convocar a TikTok, es van citar per WhatsApp en colles de no més de 15 o 20 joves (d’això, en l’argot en diuen “l’embut”), es van plantar al centre de Barcelona i es van posar a destrossar i saquejar. Dit en una paraula, els violents van començar a trencar vidres…",
@@ -200,11 +371,11 @@
     {
       "source": "ARA",
       "title": "Almenys vint ferits greus en un accident d'autobús a Fogars de Montclús",
-      "excerpt": "Almenys 20 persones haurien resultat ferides de gravetat arran del xoc d'un cotxe i un autobús a la carretera BV-5144 a Fogars de Montclús (Vallès Oriental), segons ha informat el Sistema d'Emergències Mèdiques (SEM). L'accident s'ha produït al punt quilomètric 18,4, on l'autobús s'ha precipitat per un talús d'uns 20 metres, segons han indicat els Bombers de la Generalitat.",
+      "excerpt": "Almenys 20 persones haurien resultat ferides de gravetat arran del xoc d'un cotxe i un autobús a la carretera BV-5144 a Fogars de Montclús (Vallès Oriental). L'accident s'ha produït al punt quilomètric 18,4, on l'autobús de Sagalés, que cobreix la ruta del Centre d'Informació de Fogars de Montclús a Santa Fe del Montseny, s'ha precipitat per un talús d'uns 20 metres.",
       "url": "https://www.ara.cat/societat/almenys-vint-ferits-greus-accident-d-autobus-fogars-montclus_1_5890216.html",
       "published": "2026-10-25T18:14:13+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/9730d6b6-4096-4fa3-84ba-e86f3f7748a1_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/23a2501d-dc45-40d5-b78d-a41757f92fd6_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -255,7 +426,12 @@
       "published": "2026-10-25T17:58:28+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/5b4454cc-2819-4704-bd21-5336b504406a_16-9-aspect-ratio_default_0_x412y258.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6423922/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/mor-als-78-anys-lactriu-i-activista-pepa-arenos/noticia/3436034/"
+      }
     },
     {
       "source": "ARA",
@@ -269,18 +445,18 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Un autobús cau per un talús a Fogars de Montclús i podria haver-hi uns 20 ferits greus",
-      "excerpt": "Un accident entre l'autobús i un turisme ha provocat la caiguda, que ha obligat a tallar la carretera BV-5114",
+      "title": "80 ferits, 4 de greus, per l'accident d'un autobús que ha caigut per un talús a Fogars de Montclús",
+      "excerpt": "L'accident ha obligat a tallar la carretera BV-5114 i s'ha habilitat un centre d'acollida a Can Ramis, a Sant Celoni, per atendre les persones afectades que necessitin algun tipus d'assistència",
       "url": "https://www.3cat.cat/3catinfo/un-autobus-cau-per-un-terraple-a-fogars-de-montclus-sense-victimes-mortals/noticia/3436028/",
       "published": "2026-10-25T17:39:30+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/3/1792948483436.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/0/1792953566903.jpg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
-      "title": "Una quarantena de ferits en l’accident d’un autobús que ha caigut per un talús a Fogars de Montclús",
-      "excerpt": "Una vintena dels ferits \"revesteix gravetat\", segons el SEM · Arran de l'accident, s'ha tallat la carretera BV-5114",
+      "title": "Quatre ferits greus en l’accident d’un autobús que ha caigut per un talús a Fogars de Montclús",
+      "excerpt": "El SEM ha atès vuitanta-tres persones · Arran de l'accident, s'ha tallat la carretera BV-5114",
       "url": "https://www.vilaweb.cat/noticies/uns-quants-ferits-en-un-accident-dautobus-a-fogars-de-montclus/",
       "published": "2026-10-25T17:37:39+01:00",
       "category": "Societat",
@@ -319,8 +495,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Els Mossos blinden el centre de Granollers davant d'una convocatòria com la de Barcelona",
-      "excerpt": "Els agents s'han desplegat a la plaça de la Porxada de Granollers, on cartells de Blocus criden a concentrar-se aquest diumenge a la tarda",
+      "title": "Desplegament dels Mossos a Granollers i Girona davant d'una convocatòria com la de Barcelona",
+      "excerpt": "Tot i les convocatòries que han circulat per les xarxes socials, de moment no hi ha hagut les concentracions anunciades a cap de les dues ciutats",
       "url": "https://www.3cat.cat/3catinfo/els-mossos-blinden-el-centre-de-granollers-davant-duna-convocatoria-com-la-de-barcelona/noticia/3436024/",
       "published": "2026-10-25T17:08:41+01:00",
       "category": "Actualitat",
@@ -393,6 +569,16 @@
       "excerpt": "El candidat d’ERC defensa la col·laboració entre els partits d’esquerres i adverteix de les conseqüències d’un govern del PP i Vox",
       "url": "https://www.vilaweb.cat/noticies/rufian-diu-que-li-agradaria-ser-president-de-la-generalitat-despres-de-junqueras/",
       "published": "2026-10-25T15:42:19+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Toni Comín torna al Principat després de nou anys d’exili",
+      "excerpt": "El conseller de salut del Primer d'Octubre ha travessat la frontera administrativa entre Catalunya Nord i Sud amb el seu entorn més pròxim",
+      "url": "https://www.vilaweb.cat/noticies/toni-comin-torna-avui-principat-nou-anys-exili/",
+      "published": "2026-10-25T15:00:18+01:00",
       "category": "Principat",
       "image": null,
       "priority": "3 · Altres notícies"
@@ -614,8 +800,8 @@
     },
     {
       "source": "ARA",
-      "title": "Catorze establiments saquejats o amb destrosses i crítiques per la falta de previsió",
-      "excerpt": "Els aldarulls d'aquest dissabte a la nit a Barcelona han deixat 14 establiments saquejats o rebentats i nombroses destrosses al mobiliari urbà, que l'Ajuntament de Barcelona ja ha xifrat en un valor inicial de 36.000 euros. El centre de Barcelona s'ha despertat aquest matí de diumenge amb els efectes dels aldarulls que es van produir ahir a la nit. Molts botiguers i treballadors intentaven solucionar o tapar alguns dels desperfectes –que van afectar sobretot franquícies o botigues de luxe–, mentre que altres botigues continuaven esperant…",
+      "title": "\"Estem acollonits\": les noves convocatòries per xarxa espanten els comerciants",
+      "excerpt": "Tenen por i no ho amaguen. \"Estem acollonits. Pel que va passar ahir i pel que pot passar el 31 d'octubre [quan hi ha una nova convocatòria], el dia 11 amb la vaga general o el 29 amb les eleccions\". Qui parla és l'Albert Moya, que juntament amb el seu pare i la seva tieta regenten tres floristeries a la plaça de Catalunya que ahir van quedar destrossades. Aquest diumenge ell ha tornat a obrir, amb els vidres trencats i coberts amb cartrons. \"A veure…",
       "url": "https://www.ara.cat/societat/successos/l-ajuntament-xifra-36-000-euros-destrosses-mobiliari-urba_1_5890004.html",
       "published": "2026-10-25T12:05:38+01:00",
       "category": "Actualitat",
@@ -664,7 +850,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Un comboi del metro de València descarrila i obliga a interrompre la circulació de la línia 4",
+      "title": "Un comboi del metro de València descarrila i interromp temporalment la circulació de la línia 4",
       "excerpt": "L’incident no ha causat ferits",
       "url": "https://www.vilaweb.cat/noticies/un-comboi-del-metro-de-valencia-descarrila-i-obliga-a-interrompre-la-circulacio-de-la-linia-4/",
       "published": "2026-10-25T11:33:19+01:00",
