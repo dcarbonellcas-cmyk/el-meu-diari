@@ -2,6 +2,22 @@
   "date": "2026-10-25",
   "items": [
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: sol, precipitació al vessant nord del Pirineu i temperatures en ascens",
+      "excerpt": "La recuperació de la temperatura diürna marcarà l'últim dia de la setmana",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/",
+      "published": "2026-10-24T11:17:13+02:00",
+      "updated": "2026-10-25T08:38:11+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/6/1792913888167.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432484/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "Eleccions a Israel: cinc perfils de votant per entendre un país amb moltes cares",
       "excerpt": "Parlem amb un home de dretes, una dona d'esquerres, una ultraortodoxa, un araboisraelià i un colon per saber què prioritzen a l'hora de votar en les eleccions d'aquesta setmana",
@@ -9,26 +25,10 @@
       "published": "2026-10-25T07:42:26+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/6/1792853556161.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432418/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/eleccions-a-israel-cinc-perfils-de-votant-per-entendre-un-pais-amb-moltes-cares/noticia/3428416/"
-      }
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge: sol, precipitació al vessant nord del Pirineu i temperatures en ascens",
-      "excerpt": "La recuperació de la temperatura diürna marcarà l'últim dia de la setmana",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/",
-      "published": "2026-10-24T11:17:13+02:00",
-      "updated": "2026-10-25T07:40:25+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/1/1792830979516.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432484/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/"
       },
       "priority": "2 · Important"
     },
@@ -40,12 +40,142 @@
       "published": "2026-10-25T07:35:47+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/8/1792861421085.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432458/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/lula-o-bolsonaro-el-brasil-es-mira-al-mirall-en-unes-eleccions-que-decidiran-el-futur-del-pais/noticia/3435942/"
-      }
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "El Triatló de Barcelona 2026, amb més proves que mai | DIRECTE",
+      "excerpt": "betevé emet en directe el Triatló de Barcelona 2026. Aquest diumenge 25 d’octubre el mitjà de comunicació públic de Barcelona emet per quarta vegada una de les curses més destacades de la ciutat i més prestigioses en l’àmbit mundial. El programa especial del Triatló de Barcelona 2026, produït de manera conjunta per betevé i La Xarxa, s’allargarà fins a les […]",
+      "url": "https://beteve.cat/esports/beteve-emetra-directe-triatlo-barcelona-2026-mes-proves-que-mai/",
+      "published": "2026-10-25T08:33:50+01:00",
+      "category": "atletisme",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cartela-triatlo-barcelona-1-2026-10-12.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un llibre rodó per quan les esperances fluctuen",
+      "excerpt": "A Frankenstein, l’escriptora Mary Shelley va escriure: “El meu valor i la meva resolució són ferms; les meves esperances, però, fluctuen”. Qualsevol persona amb aspiracions polítiques podria estar d’acord amb aquesta frase; els catalans, sens dubte, ens hi sumaríem ràpidament. Però no la recupero perquè l’hagi sentit dir a cap veí de, posem-hi, Tona, Vilafranca o l’Ampolla, sinó perquè l’he trobat en una novel·la boníssima que parla d’unes terres ben llunyanes de les nostres, i amb una situació contextual ben diferent. Estic parlant de La…",
+      "url": "https://llegim.ara.cat/opinio/llibre-rodo-esperances-fluctuen-xialou-guo-angle-editorial_129_5888102.html",
+      "published": "2026-10-25T08:30:59+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e147bf33-38c2-40c3-a053-ce27cca78cd1_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Fontaines D.C. encén Barcelona",
+      "excerpt": "Una hora abans del concert, el cel de Barcelona es transformava del rosat de Romance (2024) a un Dopamine Chamber (2026) tornassolat. Fontaines D.C. arribaven a la ciutat deu dies després de l'estrena del disc, que explora un so més electrònic, però manté els temes de justícia social. Aquella mateixa tarda, un esclat d’aldarulls a Barcelona havia forçat canvis en el tren i el metro, i els seguidors de la banda es van veure forçats a pujar i baixar els turons que envolten el Sant…",
+      "url": "https://www.ara.cat/cultura/musica/fontaines-d-c-encen-barcelona_1_5889918.html",
+      "published": "2026-10-25T08:29:50+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0001c168-2f4b-4b12-8954-b9aeb4469952_16-9-aspect-ratio_default_0_x1211y693.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Triatló de Barcelona 2026: recorregut, data, horaris, inscripcions i tot el que cal saber",
+      "excerpt": "El Triatló de Barcelona 2026 tornarà a omplir els carrers de la ciutat i de l’entorn metropolità el diumenge 25 d’octubre. El 2025 ha estrenat per primer cop la modalitat de la middle distance (també coneguda com a half ironman). La novetat per al 2026 és que es recupera la distància olímpica, que el 2025 […]",
+      "url": "https://beteve.cat/esports/triatlo-barcelona-recorregut-data/",
+      "published": "2026-10-25T08:12:25+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/10/Triatlo-Barcelona-2025-10.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Com s'han gestat els aldarulls de dissabte a la nit al centre de Barcelona",
+      "excerpt": "La convocatòria de manifestació portava activa una setmana a Barcelona i altres ciutats i ha derivat en actes vandàlics per saquejar comerços",
+      "url": "https://www.3cat.cat/3catinfo/com-shan-gestat-els-aldarulls-de-dissabte-a-la-nit-al-centre-de-barcelona/noticia/3435967/",
+      "published": "2026-10-25T08:06:53+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/2/2/1792866879722.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"El 2014 ens vam equivocar: no vam saber interpretar les intencions de Putin\"",
+      "excerpt": "Fa uns mesos que Roberta Pinotti (Gènova, 1961) va assumir la presidència del Teatre Nacional de Gènova, fundat el 1951, en un moment en què Itàlia, com mig Europa, intentava reconstruir la seva vida cultural després de la Segona Guerra Mundial. El càrrec podria sobtar si es té en compte l'etapa més recent de la seva dilatada trajectòria política: va ser ministra de Defensa italiana del 2014 al 2018, la primera dona a ocupar aquesta cartera. El decorat ha canviat abruptament en l'última dècada i…",
+      "url": "https://www.ara.cat/internacional/europa/vam-equivocar-no-vam-interpretar-intencions-putin_128_5888885.html",
+      "published": "2026-10-25T08:00:42+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/81359edd-f0ac-47a8-afbd-e8204c3ca729_1-1-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Vaig marxar per fidelitat al president Puigdemont i l'he mantingut fins al final\"",
+      "excerpt": "Lluís Puig (Terrassa, 1959) s’ha passat nou anys a l’exili per haver format part del Govern de l’1-O com a conseller de Cultura. Aquesta setmana ha tornat a casa.",
+      "url": "https://www.ara.cat/politica/marxar-fidelitat-president-puigdemont-l-he-mantingut-fins-final_128_5888986.html",
+      "published": "2026-10-25T08:00:42+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/068b0dbb-7cfe-404c-a693-9eccbae7bd19_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Com ajudar els adolescents a tenir més força de voluntat",
+      "excerpt": "Hi ha moments en què conviure amb un adolescent sembla una negociació constant: recordar-li que reculli les seves coses, que compleixi un compromís o que no deixi sempre per demà el que li toca fer avui. Els adults insisteixen, els joves s’hi resisteixen, i una qüestió quotidiana acaba en discussió. És fàcil interpretar-ho com a falta de voluntat. Però aprendre a assumir responsabilitats és més complex que obeir indicacions.",
+      "url": "https://criatures.ara.cat/criatures/ajudar-adolescents-mes-forca-voluntat_129_5880539.html",
+      "published": "2026-10-25T08:00:41+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c45a11f1-e5de-4e43-b405-9c6c93849f93_source-aspect-ratio_default_0_x1982y560.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una nova patronal de pimes plana sobre l'ambient",
+      "excerpt": "No ho descartin. Després de les eleccions generals del 29 de novembre podria néixer una nova patronal d'àmbit estatal. Un cop trencada la vinculació amb Conpymes per la catalana Pimec , que en va ser fundadora, i un grup de 18 organitzacions més, es comença a albirar aquesta entitat estatal per defensar les petites i mitjanes empreses. Els que s'han donat de baixa consideren que Conpymes queda ara com \"un grup d'amics amb escassa representativitat\", mentre que des de l'organització presidida per José María Torres…",
+      "url": "https://empreses.ara.cat/opinio/nova-patronal-pimes-plana-l-ambient_129_5887250.html",
+      "published": "2026-10-25T08:00:41+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4a2180d8-60ee-46f7-bdba-bf543829e55d_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Per què hi ha 420.000 pisos pendents de construir als municipis amb topalls del lloguer?",
+      "excerpt": "La situació és contradictòria en majúscules: mentre que els promotors alerten que la falta de sòl és un dels principals impediments a la creació d'habitatge nou, les dades mostren que hi ha una \"sobreabundància\" de terreny vacant i estancat, que no està entrant al mercat. Només als municipis declarats zona de mercat residencial tensat (ZMRT) –és a dir, on calen polítiques com els topalls per facilitar l'accés a l'habitatge en un context de molta demanda–, hi ha sòl per construir 423.600 pisos en parcel·les que…",
+      "url": "https://www.ara.cat/economia/immobiliari/hi-420-000-pisos-pendents-construir-als-municipis-topalls-lloguer_1_5886910.html",
+      "published": "2026-10-25T08:00:41+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a567cce4-34e8-443f-bd85-49754a389577_16-9-aspect-ratio_default_1017665.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El retorn de Mourinho, l'home que hauria pogut ser estimat al Barça",
+      "excerpt": "La història és plena de moments en què un detall ho pot canviar tot. L'any 2008 José Mourinho va arribar a creure que seria el nou entrenador del Barça, un club en el qual ja havia treballat i del qual tenia un gran record aleshores. Aquell any el portuguès ja es veia tornant a una ciutat de la qual només deia coses bones. És més, no amagava que estimava el club que avui en dia, coses de la vida, s'ha convertit en el seu gran…",
+      "url": "https://www.ara.cat/esports/barca/retorn-mourinho-l-home-hauria-pogut-estimat-barca_1_5888988.html",
+      "published": "2026-10-25T08:00:41+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/452db7bb-7e85-4a94-9e9e-dedc427bc233_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un delicte contra els animals al dia: així es persegueixen els maltractadors",
+      "excerpt": "Un cas de maltractament d'un cavall es va resoldre com si fos un crim. Al recinte on el van agredir, els Mossos d'Esquadra van trobar una eina tacada amb sang i aquesta va ser la clau per solucionar el cas. El cavall pertanyia a una raça molt concreta i tenia el seu perfil genètic oficialment registrat en una base de dades. Comparant aquesta informació, la policia va poder confirmar que l'ADN de l'animal corresponia amb la que hi havia a l'eina. Aquella havia estat l'arma…",
+      "url": "https://www.ara.cat/societat/successos/delicte-animals-dia-aixi-persegueixen-maltractadors_1_5888023.html",
+      "published": "2026-10-25T08:00:41+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/64cbb09f-164e-4a01-8502-de57448f5c34_source-aspect-ratio_default_0_x1085y563.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les portades del diumenge 25 de octubre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-diumenge-25-de-octubre-de-2026/",
+      "published": "2026-10-25T08:00:03+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -65,16 +195,6 @@
       "published": "2026-10-25T07:34:29+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/4/1792872206141.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "El Triatló de Barcelona 2026, amb més proves que mai | DIRECTE",
-      "excerpt": "betevé emet en directe el Triatló de Barcelona 2026. Aquest diumenge 25 d’octubre el mitjà de comunicació públic de Barcelona emet per quarta vegada una de les curses més destacades de la ciutat i més prestigioses en l’àmbit mundial. El programa especial del Triatló de Barcelona 2026, produït de manera conjunta per betevé i La Xarxa, s’allargarà fins a les […]",
-      "url": "https://beteve.cat/esports/beteve-emetra-directe-triatlo-barcelona-2026-mes-proves-que-mai/",
-      "published": "2026-10-25T05:46:00+01:00",
-      "category": "atletisme",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cartela-triatlo-barcelona-1-2026-10-12.jpg",
       "priority": "3 · Altres notícies"
     },
     {
