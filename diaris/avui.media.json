@@ -3,27 +3,69 @@
   "pages": [
     {
       "page": 2,
+      "title": "Eleccions a Israel: cinc perfils de votant per entendre un país amb moltes cares",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/eleccions-a-israel-cinc-perfils-de-votant-per-entendre-un-pais-amb-moltes-cares/noticia/3428416/",
+      "published": "2026-10-25T07:42:26+01:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432418/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/eleccions-a-israel-cinc-perfils-de-votant-per-entendre-un-pais-amb-moltes-cares/noticia/3428416/"
+      }
+    },
+    {
+      "page": 3,
       "title": "La previsió de diumenge: sol, precipitació al vessant nord del Pirineu i temperatures en ascens",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/",
       "published": "2026-10-24T11:17:13+02:00",
       "priority": "2 · Important",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432470/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6432484/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/"
       }
     },
     {
-      "page": 3,
-      "title": "Segueix en directe el Triatló de Barcelona 2026, amb més proves que mai",
+      "page": 4,
+      "title": "Lula o Bolsonaro: el Brasil es mira al mirall en unes eleccions que decidiran el futur del país",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/lula-o-bolsonaro-el-brasil-es-mira-al-mirall-en-unes-eleccions-que-decidiran-el-futur-del-pais/noticia/3435942/",
+      "published": "2026-10-25T07:35:47+01:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432458/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/lula-o-bolsonaro-el-brasil-es-mira-al-mirall-en-unes-eleccions-que-decidiran-el-futur-del-pais/noticia/3435942/"
+      }
+    },
+    {
+      "page": 5,
+      "title": "Llibertaris, ultres sota l'ombra de Trump: \"Som aquí per lluitar contra l'Estat dels collons\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/llibertaris-ultres-sota-lombra-de-trump-som-aqui-per-lluitar-contra-lestat-dels-collons/noticia/3434875/",
+      "published": "2026-10-25T07:46:35+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 6,
+      "title": "El preu de l'electricitat continua encarint-se a les portes de l'hivern: com pot afectar la factura",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/el-preu-de-lelectricitat-continua-encarint-se-a-les-portes-de-lhivern-com-pot-afectar-la-factura/noticia/3435952/",
+      "published": "2026-10-25T07:34:29+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 7,
+      "title": "El Triatló de Barcelona 2026, amb més proves que mai | DIRECTE",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/beteve-emetra-directe-triatlo-barcelona-2026-mes-proves-que-mai/",
       "published": "2026-10-25T05:46:00+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 4,
+      "page": 8,
       "title": "Obama dona suport a El-Sayed a Michigan: \"Es respira un aire de canvi\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/estats-units/obama-dona-suport-sayed-michigan-respira-aire-canvi_1_5889001.html",
@@ -31,7 +73,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 5,
+      "page": 9,
       "title": "Més-Compromís fa una crida a la participació de tota la militància i l’esquerra valenciana a l’Aplec del Puig",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/mes-compromis-fa-una-crida-a-la-participacio-de-tota-la-militancia-i-lesquerra-valenciana-a-laplec-del-puig/",
@@ -39,7 +81,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 6,
+      "page": 10,
       "title": "La traducció a l’anglès de l’últim llibre d’Irene Solà, distingida amb el National Translation Award",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/la-traduccio-a-langles-de-lultim-llibre-direne-sola-distingida-amb-el-national-translation-award/",
@@ -47,7 +89,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 7,
+      "page": 11,
       "title": "“No permetrem que el que ha passat a Barcelona quedi impune”: Collboni i Parlon condemnen els aldarulls",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/",
