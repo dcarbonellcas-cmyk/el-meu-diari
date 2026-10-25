@@ -2,6 +2,16 @@
   "date": "2026-10-25",
   "items": [
     {
+      "source": "betevé",
+      "title": "Concentració d’ànecs al llac del Parc de l’Espanya Industrial: baby-boom o efecte dels aiguats?",
+      "excerpt": "Aquests dies, al llac del Parc de l’Espanya Industrial s’hi poden observar més d’una vintena d’ànecs, una concentració d’aus que ha cridat l’atenció d’alguns usuaris habituals de l’espai. Tot i que a primera vista pot semblar una bona notícia, els experts recorden que una elevada concentració d’ànecs pot alterar l’equilibri ecològic de l’espai. Però què […]",
+      "url": "https://beteve.cat/medi-ambient/concentracio-anecs-llac-parc-espanya-industrial-baby-boom-efecte-aiguats/",
+      "published": "2026-10-25T11:07:29+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/anecs-llac-sants-2026-10-22.webp",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "Trump ataca Obama arran de les crítiques per la guerra contra l’Iran: “És un incompetent”",
       "excerpt": "L’ex-president nord-americà acusa Trump de ser el responsable directe de l’augment dels preus per la guerra",
@@ -10,6 +20,16 @@
       "category": "Amèrica",
       "image": null,
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "betevé",
+      "title": "Els restauradors critiquen una “resposta policial insuficient” i l’avaluació del risc dels aldarulls",
+      "excerpt": "El Gremi de Restauració de Barcelona carrega contra la gestió policial dels aldarulls i denuncia una “avaluació incorrecta del risc” i una “resposta policial insuficient”. En un comunicat, l’entitat lamenta els greus aldarulls, que qualifica d’episodi “de robatoris i violència”, i retreu a les administracions que no els alertessin prèviament de la convocatòria. El gremi […]",
+      "url": "https://beteve.cat/societat/restauradors-critiquen-resposta-policial-aldarulls/",
+      "published": "2026-10-25T10:24:47+01:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/destrosses-botiges-aldarulls-4-2026-10-25.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -24,12 +44,17 @@
     {
       "source": "3CatInfo",
       "title": "Els estudiants de Sèrbia, pioners a Europa: de protestar al carrer a competir a les eleccions",
-      "excerpt": "Els estudiants arriben als comicis d'aquest diumenge amb opcions de fer caure Aleksandar Vucic, que porta 12 anys en el poder enmig d'acusacions de corrupció i d'autoritarisme",
+      "excerpt": "Els universitaris arriben als comicis d'aquest diumenge amb opcions de fer caure Aleksandar Vucic, que porta 12 anys en el poder enmig d'acusacions de corrupció i d'autoritarisme",
       "url": "https://www.3cat.cat/3catinfo/els-estudiants-de-serbia-pioners-a-europa-de-protestar-al-carrer-a-competir-a-les-eleccions/noticia/3435950/",
       "published": "2026-10-25T09:26:25+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/2/1792911829120.jpg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6359007/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-estudiants-de-serbia-pioners-a-europa-de-protestar-al-carrer-a-competir-a-les-eleccions/noticia/3435950/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -43,8 +68,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Abascal s’obre a col·laborar amb Aliança Catalana en immigració, seguretat i defensa de la identitat",
-      "excerpt": "El dirigent defensa possibles acords, tot i les discrepàncies sobre la independència de Catalunya",
+      "title": "Abascal, disposat a col·laborar amb Aliança Catalana en immigració, seguretat i defensa de la identitat",
+      "excerpt": "El dirigent defensa possibles acords malgrat les discrepàncies sobre la independència de Catalunya",
       "url": "https://www.vilaweb.cat/noticies/abascal-collaborar-alianca-catalana-immigracio-seguretat-identitat/",
       "published": "2026-10-25T08:58:00+01:00",
       "category": "Principat",
@@ -112,9 +137,79 @@
       "title": "El Triatló de Barcelona 2026, amb més proves que mai | DIRECTE",
       "excerpt": "betevé emet en directe el Triatló de Barcelona 2026. Aquest diumenge 25 d’octubre el mitjà de comunicació públic de Barcelona emet per quarta vegada una de les curses més destacades de la ciutat i més prestigioses en l’àmbit mundial. El programa especial del Triatló de Barcelona 2026, produït de manera conjunta per betevé i La Xarxa, s’allargarà fins a les […]",
       "url": "https://beteve.cat/esports/beteve-emetra-directe-triatlo-barcelona-2026-mes-proves-que-mai/",
-      "published": "2026-10-25T10:39:52+01:00",
+      "published": "2026-10-25T11:38:24+01:00",
       "category": "atletisme",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cartela-triatlo-barcelona-1-2026-10-12.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els 'therian' i l'embrió dels aldarulls",
+      "excerpt": "Potser recordeu els therian . Durant uns dies, el passat mes de febrer, aquests adolescents que suposadament s’identificaven amb animals i actuaven com a tals, van monopolitzar la conversa. Es van dedicar molts articles i hores de ràdio i televisió a analitzar aquest fenomen del qual fins aleshores ningú havia sentit a parlar mai. Avui sabem que més que joves que es creien gatets, els therian van ser ratolins de laboratori. M’explico.",
+      "url": "https://www.ara.cat/societat/barcelona/therian-l-embrio-dels-aldarulls_129_5890006.html",
+      "published": "2026-10-25T11:37:51+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2a1356da-5ea9-4c84-9cfe-446aa1b9fbc6_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Un comboi del metro de València descarrila i obliga a interrompre la circulació de la línia 4",
+      "excerpt": "L’incident no ha causat ferits i FGV preveu de restablir el servei durant el matí",
+      "url": "https://www.vilaweb.cat/noticies/un-comboi-del-metro-de-valencia-descarrila-i-obliga-a-interrompre-la-circulacio-de-la-linia-4/",
+      "published": "2026-10-25T11:33:19+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Toni Comín torna de l'exili a peu pel coll dels Belitres fins a Portbou",
+      "excerpt": "L'exconseller ha escollit un punt simbòlic per la memòria dels exiliats republicans",
+      "url": "https://www.3cat.cat/3catinfo/toni-comin-torna-de-lexili-a-peu-pel-coll-dels-belitres-fins-a-portbou/noticia/3435933/",
+      "published": "2026-10-25T11:28:11+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/3/7/1792924683673.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Veïns de Nou Barris fabriquen un capgròs en record de l’activista cultural Rafa Juncadella",
+      "excerpt": "La seu de l’AV Prosperitat s’ha convertit des de fa setmanes en un taller en què es fabrica un capgròs ben especial. El que vol captar les faccions i l’essència d’en Rafa Juncadella (1931-2019), l’activista social i cultural que durant dècades va marcar les Roquetes i, de fet, Nou Barris, amb les seves idees i […]",
+      "url": "https://beteve.cat/societat/veins-nou-barris-uneixen-fabricar-capgros-rafa-juncadella/",
+      "published": "2026-10-25T11:19:33+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/capgros-rafa-juncadella-2026-10-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un clàssic sense Thibaut Courtois, el mur del Madrid de Mourinho",
+      "excerpt": "El Barça i el Reial Madrid es veuran les cares aquest diumenge a la nit al Camp Nou (21.00 hores, DAZN). El destí ha volgut que el primer clàssic de Lamine Yamal al Camp Nou coincideixi amb el retorn de José Mourinho com a entrenador blanc a un estadi en què va rebre un 5-0 inoblidable en la memòria culer i on va protagonitzar sortides de to absolutament lamentables. El tècnic portuguès, que tornarà al feu blaugrana tretze anys després, tindrà la baixa d'última hora…",
+      "url": "https://www.ara.cat/esports/futbol/baixa-sensible-reial-madrid-classic_1_5889991.html",
+      "published": "2026-10-25T11:09:13+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c4a465dc-8e4e-4f3a-a91a-8e3408758077_16-9-aspect-ratio_default_1061231.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Madrid tremola abans de trepitjar el Camp Nou: Thibaut Courtois baixa d’última hora",
+      "excerpt": "El porter belga és baixa per un procés gripal · Andrí Lunin és el principal candidat a defensar la porteria del Madrid",
+      "url": "https://www.vilaweb.cat/noticies/el-madrid-tremola-abans-de-trepitjar-el-camp-nou-courtois-baixa-dultima-hora/",
+      "published": "2026-10-25T11:07:41+01:00",
+      "category": "Esports",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Afectacions de trànsit i canvis en el recorregut d’autobusos per les obres del pont de la Marina",
+      "excerpt": "Les obres de rehabilitació de la part superior del pont de la Marina entren en una nova fase aquest diumenge, 25, fet que suposa afectacions noves a la mobilitat i alteracions en el recorregut de diverses línies d’autobús. Les restriccions afecten sobretot el carrer de la Marina entre Alí Bei i l’avinguda Meridiana. Durant aquesta […]",
+      "url": "https://beteve.cat/societat/afectacions-transit-obres-pont-marina/",
+      "published": "2026-10-25T11:00:47+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pont-marina-obres-2026-10-24.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -190,7 +285,7 @@
     {
       "source": "VilaWeb",
       "title": "Catà, sobre els saquejos: “És bastant inexplicable, no és una manifestació com les que estem acostumats a protegir”",
-      "excerpt": "La comissària en cap dels Mossos diu que els va \"sorprendre la virulència\" perquè \"no hi ha grups criminals\" darrere",
+      "excerpt": "La comissària en cap dels Mossos diu que els va sorprendre la virulència dels fets perquè no hi ha grups criminals darrere",
       "url": "https://www.vilaweb.cat/noticies/cata-saquejos-inexplicable-manifestacio-barcelona/",
       "published": "2026-10-25T09:10:13+01:00",
       "category": "Societat",
@@ -319,7 +414,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Les portades del diumenge 25 de octubre de 2026",
+      "title": "Les portades del diumenge 25 d’octubre de 2026",
       "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
       "url": "https://www.vilaweb.cat/noticies/les-portades-del-diumenge-25-de-octubre-de-2026/",
       "published": "2026-10-25T08:00:03+01:00",
@@ -360,7 +455,7 @@
     {
       "source": "VilaWeb",
       "title": "Més-Compromís fa una crida a la participació de tota la militància i l’esquerra valenciana a l’Aplec del Puig",
-      "excerpt": "La coalició reivindica un valencianisme sense subordinacions i posa l’accent en la pluralitat per encarar les eleccions del 29N",
+      "excerpt": "La coalició reivindica un valencianisme sense subordinacions i posa l’accent en la pluralitat amb vista a les eleccions del 29-N",
       "url": "https://www.vilaweb.cat/noticies/mes-compromis-fa-una-crida-a-la-participacio-de-tota-la-militancia-i-lesquerra-valenciana-a-laplec-del-puig/",
       "published": "2026-10-25T01:41:33+02:00",
       "category": "País Valencià",
@@ -380,7 +475,7 @@
     {
       "source": "VilaWeb",
       "title": "“No permetrem que el que ha passat a Barcelona quedi impune”: Collboni i Parlon condemnen els aldarulls",
-      "excerpt": "Parlon no descarta que hi hagi noves detencions, tant durant la nit com arran de la investigació que s'iniciï a partir d'ara.",
+      "excerpt": "Parlon no descarta noves detencions, tant durant la nit com arran de la investigació que començarà ara",
       "url": "https://www.vilaweb.cat/noticies/no-permetrem-que-el-que-ha-passat-a-barcelona-quedi-impune-collboni-i-parlon-condemnen-els-aldarulls/",
       "published": "2026-10-25T00:17:04+02:00",
       "category": "Societat",
