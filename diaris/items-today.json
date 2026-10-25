@@ -22,6 +22,32 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: sol, precipitació al vessant nord del Pirineu i temperatures en ascens",
+      "excerpt": "La recuperació de la temperatura diürna marcarà l'últim dia de la setmana",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/",
+      "published": "2026-10-24T11:17:13+02:00",
+      "updated": "2026-10-25T16:11:48+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/6/1792913888167.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432535/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Sánchez adverteix que un govern del PP i Vox significaria una “autèntica involució”",
+      "excerpt": "El president espanyol assegura que una coalició entre Feijóo i Abascal seria un retrocés de cinquanta anys",
+      "url": "https://www.vilaweb.cat/noticies/sanchez-adverteix-que-un-govern-del-pp-i-vox-significaria-una-autentica-involucio/",
+      "published": "2026-10-25T15:54:53+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "El valencianisme s’aplega un any més al Puig, amb les eleccions espanyoles com a teló de fons",
       "excerpt": "Com és habitual, s'hi han fet dos actes públics. A l'esplanada del monestir s'hi han concentrat Compromís i Front Valencià, mentre dalt de la muntanyeta s'ha fet l'acte organitzat per ERPV, Decidim, la Intersindical i tot d'organitzacions cíviques i culturals.",
@@ -122,22 +148,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge: sol, precipitació al vessant nord del Pirineu i temperatures en ascens",
-      "excerpt": "La recuperació de la temperatura diürna marcarà l'últim dia de la setmana",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/",
-      "published": "2026-10-24T11:17:13+02:00",
-      "updated": "2026-10-25T08:38:11+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/6/1792913888167.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432484/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-sol-precipitacio-al-vessant-nord-del-pirineu-i-temperatures-en-ascens/noticia/3435884/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "3CatInfo",
       "title": "Eleccions a Israel: cinc perfils de votant per entendre un país amb moltes cares",
       "excerpt": "Parlem amb un home de dretes, una dona d'esquerres, una ultraortodoxa, un araboisraelià i un colon per saber què prioritzen a l'hora de votar en les eleccions d'aquesta setmana",
@@ -166,6 +176,56 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/lula-o-bolsonaro-el-brasil-es-mira-al-mirall-en-unes-eleccions-que-decidiran-el-futur-del-pais/noticia/3435942/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "El Sabadell acaba topant amb un mur i empata amb el Tenerife",
+      "excerpt": "El Sabadell ha acabat frustrat per no poder endur-se els tres punts davant del Tenerife en un partit on l'arbitratge de Saúl Ais ha tret de polleguera als arlequinats (1-1). No ha estat un arbitratge dels que decideix un partit, però si un d'aquells que genera frustració ja que costava entendre el criteri. Si Saúl Ais en tenia, és clar. Ara demanava repetir faltes, ara movia la pilota uns centímetres, ara expulsava algú de la banqueta. Les banquetes anaven caient generoses i ell semblava més…",
+      "url": "https://www.ara.cat/esports/futbol/sabadell-acaba-topant-mur-empata-tenerife_1_5890108.html",
+      "published": "2026-10-25T16:24:11+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bb9f10b3-365b-4ff2-a885-ce471199e3a0_16-9-aspect-ratio_default_0_x1055y432.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "S’ha mort l’actriu i activista Pepa Arenós",
+      "excerpt": "Arenós va dedicar més de mig segle al teatre, al cinema, la televisió i la ràdio · Va ser la presentadora de l'acte de la Diada de 1976",
+      "url": "https://www.vilaweb.cat/noticies/sha-mort-lactriu-i-activista-pepa-arenos/",
+      "published": "2026-10-25T16:19:34+01:00",
+      "category": "Cultura",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els aldarulls a Barcelona entren en precampanya i Feijóo acusa Sánchez \"d'incendiar els carrers\"",
+      "excerpt": "Junts, PP i Vox han demanat la compareixença de la consellera d'Interior al Parlament mentre que Illa promet que els que van ser part dels aldarulls \"pagaran un preu\"",
+      "url": "https://www.3cat.cat/3catinfo/els-aldarulls-a-barcelona-entren-en-precampanya-i-feijoo-acusa-sanchez-dincendiar-els-carrers/noticia/3435999/",
+      "published": "2026-10-25T16:18:27+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1792930924512.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Seny, la IA catalana que vigila els agents",
+      "excerpt": "D'ençà del llançament dels primers models de ChatGPT, les empreses catalanes han mirat la intel·ligència artificial amb curiositat. L'adopció ha estat, segons diversos estudis, ràpida però mancada d'ordre: d'acord amb un informe elaborat per la mateixa OpenAI, creadora del cèlebre xatbot, el 96% de les petites i mitjanes empreses catalanes ja fan servir la IA en algun àmbit de la seva empresa. Tot i això, prop del 40% declara que encara no compta amb una política formal per utilitzar-la.",
+      "url": "https://empreses.ara.cat/innovacio/seny-ia-catalana-vigila-agents_1_5888174.html",
+      "published": "2026-10-25T16:12:25+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b87d2a43-d94b-4a20-8b26-38420f1eb2d4_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Rufián diu que li agradaria ser president de la Generalitat després de Junqueras",
+      "excerpt": "El candidat d’ERC defensa la col·laboració entre els partits d’esquerres i adverteix de les conseqüències d’un govern del PP i Vox",
+      "url": "https://www.vilaweb.cat/noticies/rufian-diu-que-li-agradaria-ser-president-de-la-generalitat-despres-de-junqueras/",
+      "published": "2026-10-25T15:42:19+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -260,11 +320,11 @@
     {
       "source": "ARA",
       "title": "Així ha estat el retorn a peu de Toni Comín a Catalunya pel coll dels Belitres",
-      "excerpt": "Toni Comín ha tornat a trepitjar Catalunya. Ho ha fet diumenge 25 d’octubre, passada la una del migdia, travessant a peu el coll dels Belitres, frontera administrativa amb França, en un acte molt simbòlic i emotiu, acompanyat dels amics i familiars més propers. L’exconseller de Salut ja havia anat dijous a Madrid a jurar l’acte d’eurodiputat i, durant el període de 9 anys d'exili a Bèlgica, havia estat en algunes ocasions a la Catalunya del Nord, però no ha estat fins aquest diumenge que ha…",
+      "excerpt": "Toni Comín ha tornat a trepitjar Catalunya. Ho ha fet el diumenge 25 d’octubre, passada la una del migdia, travessant a peu el coll dels Belitres, frontera administrativa amb França, en un acte molt simbòlic i emotiu, acompanyat dels amics i familiars més propers. L’exconseller de Salut ja havia anat dijous a Madrid a jurar la Constitució per obtenir l’acta d’eurodiputat i, durant el període de nou anys d'exili a Bèlgica, havia estat en algunes ocasions a la Catalunya del Nord, però no ha estat…",
       "url": "https://www.ara.cat/politica/aixi-retorn-peu-toni-comin-catalunya-pel-coll-dels-belitres_1_5889980.html",
       "published": "2026-10-25T13:59:21+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/8b562568-f8ba-4d1b-ac93-a76b580457ef_16-9-aspect-ratio_default_0_x907y577.jpg",
+      "image": "https://static1.ara.cat/clip/59837041-5630-4015-92d9-b8acdc008bf0_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -294,7 +354,7 @@
       "url": "https://www.ara.cat/politica/eleccions-generals/rufian-m-agardaria-president-generalitat-despres-junqueras_1_5890056.html",
       "published": "2026-10-25T13:48:18+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/b2b99088-d912-4c8a-99f6-09ba8622cc8a_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/71b5a29e-bf6b-49d4-87a8-ce702990e7d3_source-aspect-ratio_default_1061237.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -314,7 +374,7 @@
       "url": "https://www.ara.cat/gent/monarquies/meghan-markle-sabia-des-pare-consumia-pornografia-infantil_1_5890052.html",
       "published": "2026-10-25T13:17:27+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/caf20870-5941-4eec-94bd-a7df03211b9e_16-9-aspect-ratio_default_0_x1749y1446.jpg",
+      "image": "https://static1.ara.cat/clip/caf20870-5941-4eec-94bd-a7df03211b9e_source-aspect-ratio_default_0_x1749y1446.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -369,22 +429,22 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Santa Úrsula de reptes pendents i de grans objectius de la Vella i la Joves que queden carregats",
-      "excerpt": "La Vella carrega el 4d10fm i el 3d9sf mentre la Joves fa l'aleta al 2d8sf i descarrega el 4d9sf",
+      "title": "Santa Úrsula agredolça: Vella i Joves planten gamma extra, però sense descarregar els grans objectius",
+      "excerpt": "La Vella carrega el 4d10fm i el 3d9sf mentre la Joves intenta el pilar de set net, fa l'aleta al 2d8sf i descarrega el 4d9sf",
       "url": "https://www.3cat.cat/3catinfo/santa-ursula-de-reptes-pendents-vella-i-joves-amb-lobjectiu-de-rematar-la-bona-feina-del-curs/noticia/3435988/",
       "published": "2026-10-25T12:07:32+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpeg/2/9/1792931436192.jpeg",
+      "image": "https://img.3cat.cat/multimedia/jpeg/2/2/1792940367222.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
       "title": "Catorze establiments saquejats o amb destrosses i crítiques per la falta de previsió",
-      "excerpt": "Els aldarulls de dissabte a la nit a Barcelona han deixat 14 establiments saquejats o rebentats i nombroses destrosses al mobiliari urbà, que l'Ajuntment de Barcelona ja ha xifrat en un valor inicial de 36.000 euros. El centre de Barcelona s'ha despertat aquest matí de diumenge amb els efectes dels aldarulls que es van produir ahir a la nit. Molts botiguers i treballadors intentaven aquest matí solucionar o tapar alguns dels desperfectes —que van afectar sobretot a franquícies o botigues de luxe— mentre que d'altres…",
+      "excerpt": "Els aldarulls d'aquest dissabte a la nit a Barcelona han deixat 14 establiments saquejats o rebentats i nombroses destrosses al mobiliari urbà, que l'Ajuntament de Barcelona ja ha xifrat en un valor inicial de 36.000 euros. El centre de Barcelona s'ha despertat aquest matí de diumenge amb els efectes dels aldarulls que es van produir ahir a la nit. Molts botiguers i treballadors intentaven solucionar o tapar alguns dels desperfectes –que van afectar sobretot franquícies o botigues de luxe–, mentre que altres botigues continuaven esperant…",
       "url": "https://www.ara.cat/societat/successos/l-ajuntament-xifra-36-000-euros-destrosses-mobiliari-urba_1_5890004.html",
       "published": "2026-10-25T12:05:38+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/5f6d23fd-a934-4a47-9862-4fc309579f5b_16-9-aspect-ratio_default_0_x1079y639.jpg",
+      "image": "https://static1.ara.cat/clip/5f6d23fd-a934-4a47-9862-4fc309579f5b_source-aspect-ratio_default_0_x1079y639.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -420,11 +480,11 @@
     {
       "source": "ARA",
       "title": "Els 'therian' i l'embrió dels aldarulls",
-      "excerpt": "Potser recordeu els therian . Durant uns dies, el passat mes de febrer, aquests adolescents que suposadament s’identificaven amb animals i actuaven com a tals, van monopolitzar la conversa. Es van dedicar molts articles i hores de ràdio i televisió a analitzar aquest fenomen del qual fins aleshores ningú havia sentit a parlar mai. Avui sabem que més que joves que es creien gatets, els therian van ser ratolins de laboratori. M’explico.",
+      "excerpt": "Potser recordeu els therian . Durant uns dies, el passat mes de febrer, aquests adolescents que suposadament s’identificaven amb animals i actuaven com a tals van monopolitzar la conversa. Es van dedicar molts articles i hores de ràdio i televisió a analitzar aquest fenomen, del qual fins aleshores ningú havia sentit a parlar mai. Avui sabem que més que joves que es creien gatets, els therian van ser ratolins de laboratori. M’explico.",
       "url": "https://www.ara.cat/societat/barcelona/therian-l-embrio-dels-aldarulls_129_5890006.html",
       "published": "2026-10-25T11:37:51+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/8fa5cdf7-541d-4441-8e55-fc13006de7d7_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/8fa5cdf7-541d-4441-8e55-fc13006de7d7_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -514,7 +574,7 @@
       "url": "https://www.ara.cat/societat/successos/mossos-sorpresos-no-manifestacio-acostumats_1_5889981.html",
       "published": "2026-10-25T10:13:06+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/fc5d49be-43eb-4b03-8d0a-0e1387400989_16-9-aspect-ratio_default_0_x944y332.jpg",
+      "image": "https://static1.ara.cat/clip/fc5d49be-43eb-4b03-8d0a-0e1387400989_source-aspect-ratio_default_0_x944y332.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -604,7 +664,7 @@
       "url": "https://www.ara.cat/cultura/musica/fontaines-d-c-encen-barcelona_1_5889918.html",
       "published": "2026-10-25T08:29:50+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/0001c168-2f4b-4b12-8954-b9aeb4469952_16-9-aspect-ratio_default_0_x1211y693.jpg",
+      "image": "https://static1.ara.cat/clip/0001c168-2f4b-4b12-8954-b9aeb4469952_source-aspect-ratio_default_0_x1211y693.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -644,7 +704,7 @@
       "url": "https://www.ara.cat/politica/marxar-fidelitat-president-puigdemont-l-he-mantingut-fins-final_128_5888986.html",
       "published": "2026-10-25T08:00:42+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/068b0dbb-7cfe-404c-a693-9eccbae7bd19_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/f533f477-7cf1-41b4-9a4d-9b85e2af64aa_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -734,7 +794,7 @@
       "url": "https://www.ara.cat/internacional/estats-units/obama-dona-suport-sayed-michigan-respira-aire-canvi_1_5889001.html",
       "published": "2026-10-25T02:30:54+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/778f5795-dfe6-4637-8fab-b2541d7ef2c9_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/778f5795-dfe6-4637-8fab-b2541d7ef2c9_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
