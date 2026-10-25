@@ -2,6 +2,36 @@
   "date": "2026-10-25",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Els estudiants de Sèrbia, pioners a Europa: de protestar al carrer a competir a les eleccions",
+      "excerpt": "Els estudiants arriben als comicis d'aquest diumenge amb opcions de fer caure Aleksandar Vucic, que porta 12 anys en el poder enmig d'acusacions de corrupció i d'autoritarisme",
+      "url": "https://www.3cat.cat/3catinfo/els-estudiants-de-serbia-pioners-a-europa-de-protestar-al-carrer-a-competir-a-les-eleccions/noticia/3435950/",
+      "published": "2026-10-25T09:26:25+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/2/1792911829120.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Abascal s’obre a col·laborar amb Aliança Catalana en immigració, seguretat i defensa de la identitat",
+      "excerpt": "El dirigent defensa possibles acords, tot i les discrepàncies sobre la independència de Catalunya",
+      "url": "https://www.vilaweb.cat/noticies/abascal-collaborar-alianca-catalana-immigracio-seguretat-identitat/",
+      "published": "2026-10-25T08:58:00+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "128 detinguts, 73 menors, pels aldarulls al centre de Barcelona: “No quedarà impune”",
+      "excerpt": "Els Mossos d’Esquadra han detingut 128 persones, 73 de les quals menors d’edat, pels actes vandàlics que han tingut lloc dissabte al vespre al centre de Barcelona després d’una protesta espontània convocada a través de les xarxes socials. Dels detinguts, només dos tenien antecedents i en ambdós casos era per desordres públics. També es van […]",
+      "url": "https://beteve.cat/societat/tensio-centre-barcelona-concentracio-xarxes/",
+      "published": "2026-10-25T08:48:09+01:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/aldarulls-bomber-2026-10-24.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de diumenge: sol, precipitació al vessant nord del Pirineu i temperatures en ascens",
       "excerpt": "La recuperació de la temperatura diürna marcarà l'últim dia de la setmana",
@@ -46,6 +76,36 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/lula-o-bolsonaro-el-brasil-es-mira-al-mirall-en-unes-eleccions-que-decidiran-el-futur-del-pais/noticia/3435942/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Gremi de Restauració atribueix els aldarulls a una valoració errònia del risc i a la manca de policies",
+      "excerpt": "Els restauradors critiquen que cap administració els “alertés de la convocatòria”",
+      "url": "https://www.vilaweb.cat/noticies/gremi-restauracio-aldarulls-valoracio-erronia-risc-poca-policia/",
+      "published": "2026-10-25T09:30:00+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Catà, sobre els saquejos: “És bastant inexplicable, no és una manifestació com les que estem acostumats a protegir”",
+      "excerpt": "La comissària en cap dels Mossos diu que els va \"sorprendre la virulència\" perquè \"no hi ha grups criminals\" darrere",
+      "url": "https://www.vilaweb.cat/noticies/cata-saquejos-inexplicable-manifestacio-barcelona/",
+      "published": "2026-10-25T09:10:13+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El corall vermell de les Medes, icona del Mediterrani, es mor: \"Són com arbres calcinats\"",
+      "excerpt": "La mortalitat d'aquesta espècie emblemàtica del Mediterrani s'ha detectat després d'un estiu de temperatures rècord a la superfície del mar",
+      "url": "https://www.3cat.cat/3catinfo/el-corall-vermell-de-les-medes-icona-del-mediterrani-es-mor-son-com-arbres-calcinats/noticia/3435729/",
+      "published": "2026-10-25T09:09:04+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/6/1792870475261.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
