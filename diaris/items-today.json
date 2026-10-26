@@ -2,6 +2,32 @@
   "date": "2026-10-26",
   "items": [
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: pas de núvols prims i alguns núvols baixos costaners",
+      "excerpt": "Mantenim un temps variable i una temperatura lleugerament per sobre de la mitjana climàtica",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pas-de-nuvols-prims-i-alguns-nuvols-baixos-costaners/noticia/3435972/",
+      "published": "2026-10-25T19:00:00+01:00",
+      "updated": "2026-10-26T06:44:50+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/3/1792920549633.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432601/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-pas-de-nuvols-prims-i-alguns-nuvols-baixos-costaners/noticia/3435972/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Nou decret d'habitatge: quins drets tens com a llogater i com pots reclamar-los",
+      "excerpt": "El nou decret d'habitatge inclou mesures per suspendre desnonaments de persones vulnerables i pròrrogues extraordinàries dels contractes de lloguer fins al 2028",
+      "url": "https://www.3cat.cat/3catinfo/nou-decret-dhabitatge-quins-drets-tens-com-a-llogater-i-com-pots-reclamar-los/noticia/3434177/",
+      "published": "2026-10-26T06:44:37+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/9/1787053970898.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "Lula guanya clarament les eleccions al Brasil, però Bolsonaro diu que no reconeix la derrota i demana que siguin anul·lades",
       "excerpt": "El líder del Partit del Treball guanya les eleccions presidencials, protagonitzant una remuntada espectacular respecte a la primera volta de les eleccions i trencant amb tots els pronòstics.",
@@ -10,6 +36,26 @@
       "category": "Amèrica",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Un mes de l'acampada a Madrid, de més durada que la del 15M: qui hi queda i què reivindiquen",
+      "excerpt": "Després de la marxa del Sindicat de Llogateres, els acampats es preparen per posar-hi punt i final, mentre les tendes buides s'omplen de persones sense llar",
+      "url": "https://www.3cat.cat/3catinfo/un-mes-de-lacampada-a-madrid-de-mes-durada-que-la-del-15m-qui-hi-queda-i-que-reivindiquen/noticia/3435762/",
+      "published": "2026-10-26T06:37:06+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/0/1790682799108.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El CAP de Bàscara utilitza codis QR per geolocalitzar pacients d'entorns rurals poc senyalitzats",
+      "excerpt": "L'objectiu és poder atendre de pressa en cas d'urgència les persones que viuen en nuclis disseminats o masies aïllades",
+      "url": "https://www.3cat.cat/3catinfo/el-cap-de-bascara-utilitza-codis-qr-per-geolocalitzar-pacients-dentorns-rurals-poc-senyalitzats/noticia/3435526/",
+      "published": "2026-10-26T06:29:44+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/9/1792672097293.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
