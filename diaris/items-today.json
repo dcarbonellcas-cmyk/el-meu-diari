@@ -22,6 +22,32 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimarts: termòmetre amunt en zones de muntanya",
+      "excerpt": "Cel amb boires matinals i un tel de núvols prims",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-termometre-amunt-en-zones-de-muntanya/noticia/3436060/",
+      "published": "2026-10-26T19:14:13+01:00",
+      "updated": "2026-10-26T19:37:39+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/8/1793039556386.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432734/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-termometre-amunt-en-zones-de-muntanya/noticia/3436060/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els sindicats de docents es tanquen a la Conselleria d’Educació a València per exigir la represa de les negociacions",
+      "excerpt": "STEPV, CCOO i UGT denuncien que el govern valencià incompleix els compromisos adquirits i adverteixen que poden reprendre en qualsevol moment la vaga indefinida, suspesa d’ençà del juny",
+      "url": "https://www.vilaweb.cat/noticies/els-sindicats-docents-es-tanquen-a-la-conselleria-deducacio-per-exigir-la-represa-de-les-negociacions/",
+      "published": "2026-10-26T19:05:15+01:00",
+      "category": "Educació",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "El govern francès anuncia concessions als estudiants, que diuen de continuar les mobilitzacions",
       "excerpt": "L’executiu promet de reformar el sistema d’accés a la universitat, crear 15.000 places i invertir 5.000 milions en educació, però els estudiants exigeixen garanties",
@@ -195,12 +221,152 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Els Mossos identifiquen joves a la plaça d’Espanya de Barcelona davant la convocatòria per xarxes d’una nova manifestació",
-      "excerpt": "Alguns comerços opten per autoprotegir-se malgrat que la crida no ha provocat de moment aldarulls",
+      "title": "Les pimes catalanes guanyen productivitat i milloren la solvència",
+      "excerpt": "La capitalització continua augmentant, l'endeutament es redueix i cada vegada són més nombroses les que exporten. La gran assignatura pendent, per a ser més competitives, és que tenen una dimensió mitjana massa petita i que creix molt lentament",
+      "url": "https://www.vilaweb.cat/noticies/les-pimes-catalanes-guanyen-productivitat-i-milloren-solvencia/",
+      "published": "2026-10-26T19:50:10+01:00",
+      "category": "La píndola",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El col·lapse de 'Col·lapse'",
+      "excerpt": "El Telenotícies vespre de dissabte, amb Joan Raventós al capdavant en absència de Raquel Sans, explicava els aldarulls violents d’aquell mateix dia a la plaça Catalunya de Barcelona. A l’hora d’acomiadar-se, el presentador va dirigir-se a l’audiència que volgués continuar informant-se: “Uns fets que nosaltres continuarem seguint, com no pot ser d’una altra manera, des del canal i l’aplicació 3CatInfo”.",
+      "url": "https://www.ara.cat/media/ccma/col-lapse-col-lapse_129_5891165.html",
+      "published": "2026-10-26T19:40:17+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a7f25d16-4e32-4e56-b3ff-73ce3273eec5_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La patronal de les constructores d'obra civil proposa tornar al sistema de peatges",
+      "excerpt": "El govern té obert un debat sobre el pagament per ús de les vies d'alta capacitat i reclama que, si s'ha de reprendre, es faci a tot l'Estat",
+      "url": "https://www.3cat.cat/3catinfo/la-patronal-de-les-constructores-dobra-civil-proposa-tornar-al-sistema-de-peatges/noticia/3436210/",
+      "published": "2026-10-26T19:33:12+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/0/1775559672701.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Arxivada la causa per prevaricació contra l'alcaldessa de Sitges en l'adjudicació d'una parada del mercat",
+      "excerpt": "Una denúncia anònima qüestionava la concessió del negoci a una empresa vinculada al fill d'Aurora Carbonell",
+      "url": "https://www.3cat.cat/3catinfo/arxivada-la-causa-per-prevaricacio-contra-lalcaldessa-de-sitges-en-ladjudicacio-duna-parada-del-mercat/noticia/3436181/",
+      "published": "2026-10-26T19:31:22+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/6/1793023965267.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un fàrmac que s'utilitza contra el VIH mostra potencial per frenar l'Alzheimer",
+      "excerpt": "A Europa ja hi ha dos medicaments aprovats contra l'Alzheimer (tot i que a l'Estat encara no han rebut l'autorització ) i la previsió dels experts és que en els pròxims anys s'ampliï l'arsenal de fàrmacs per combatre aquesta malaltia amb més alternatives terapèutiques. Un dels medicaments que té potencial per formar part d'aquest grup és la lamivudina, que històricament s'ha utilitzat contra el virus del VIH, però que en els darrers anys diversos estudis han assenyalat com un prometedor recurs contra l'Alzheimer. Un grup…",
+      "url": "https://www.ara.cat/societat/salut/farmac-s-utilitza-conta-vih-mostra-potencial-frenar-l-alzheimer_1_5890929.html",
+      "published": "2026-10-26T19:20:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cd2cda2d-8cc2-4dd0-b46e-cd5e5edc0ffe_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-27-10-2026_134_5888493.html",
+      "published": "2026-10-26T19:05:27+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Pol Casellas",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/pol-casellas/",
+      "published": "2026-10-26T19:03:22+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1917/",
+      "published": "2026-10-26T19:02:22+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-27-10-2026_134_5891012.html",
+      "published": "2026-10-26T19:00:21+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Eixample dels passatges: dreceres i galeries entre carrers",
+      "excerpt": "Barcelona és una ciutat de passatges, en té prop de 400, i a tots els barris n’hi ha almenys un. El districte que més en té és el de l’Eixample, amb una quarantena. Això s’explica perquè el pla Cerdà va generar molts carrers als interiors d’illa, entre finals del segle XIX i principis del XX, […]",
+      "url": "https://beteve.cat/historia/eixample-passatges-dreceres-galeries-carrers/",
+      "published": "2026-10-26T18:59:02+01:00",
+      "category": "història",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/aeria-passatge-permanyer-2026-09-01.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els primers bolets dels Pirineus comencen a arribar als mercats de Barcelona",
+      "excerpt": "Després d’un inici de temporada marcat per la manca de pluja i el domini del producte de fora, parades com les del mercat de Sants ja estan rebent els primers rovellons dels Pirineus i camagrocs de Berga, mentre els preus comencen a moderar-se respecte a l’inici de la tardor. El bolet de proximitat fa acte […]",
+      "url": "https://beteve.cat/estils-de-vida/primers-bolets-pirineus-arriben-mercats-barcelona/",
+      "published": "2026-10-26T18:50:12+01:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/BOLETS_SANT_ANTONI_01-2026-10-26.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Un 70% dels ebrencs està en contra dels correbous, segons un estudi dels animalistes",
+      "excerpt": "La plataforma Prou Correbous ha encarregat un estudi per saber el posicionament dels residents de les quatre comarques de les Terres de l'Ebre",
+      "url": "https://www.3cat.cat/3catinfo/un-70-dels-ebrencs-esta-en-contra-dels-correbous-segons-un-estudi-dels-animalistes/noticia/3436167/",
+      "published": "2026-10-26T18:49:07+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/5/1624886158455.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Europa vol arribar lluny a la Copa del Rei: Calamocha és la primera parada",
+      "excerpt": "L’Europa jugarà aquest dimarts, a les 19 h, davant el Calamocha, equip que milita a la Segona Federació. Luis Blanco, entrenador del conjunt escapulat, sap que serà un enfrontament complicat: “Hem de fer un partit molt bo per passar d’eliminatòria. A tots dos ens fa molta il·lusió passar de ronda”. El partit es podrà seguir […]",
+      "url": "https://beteve.cat/esports/europa-vol-fer-bon-paper-copa-del-rei-primera-parada-calamocha/",
+      "published": "2026-10-26T18:46:58+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/europa-calamocha-copa-2026-10-26.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els Mossos identifiquen joves a la plaça d’Espanya de Barcelona arran de la convocatòria per xarxes d’una nova manifestació",
+      "excerpt": "Alguns comerços opten per autoprotegir-se malgrat que la crida no ha originat de moment aldarulls",
       "url": "https://www.vilaweb.cat/noticies/els-mossos-identifiquen-joves-a-la-placa-despanya-de-barcelona-davant-la-convocatoria-per-xarxes-duna-nova-manifestacio/",
       "published": "2026-10-26T18:46:10+01:00",
       "category": "Policia i justícia",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La borsa del Brasil s'ensorra per la victòria de Lula",
+      "excerpt": "La borsa de São Paulo, la més important del Brasil, s'ha enfonsat a l'obertura d'aquest dilluns més d'un 15% després de la inesperada victòria en segona volta de Luiz Inácio Lula da Silva a les eleccions presidencials celebrades aquest diumenge. La reelecció de Lula no ha estat ben rebuda pels mercats, que esperaven un canvi al capdavant del país més poblat de l'Amèrica del Sud i l'entrada de l'ultraconservador Flávio Bolsonaro.",
+      "url": "https://www.ara.cat/economia/mercats/borsa-brasil-s-ensorra-victoria-lula_1_5891078.html",
+      "published": "2026-10-26T18:44:35+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7261cbc1-9a1d-46a1-a174-99f8fd2e20d1_16-9-aspect-ratio_default_0_x1317y729.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -280,7 +446,7 @@
       "url": "https://www.ara.cat/previsions/pic-l-estiuet-dimarts-massa-calor-l-epoca-migdia_1_5891025.html",
       "published": "2026-10-26T17:30:08+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/ceda7c8e-e828-459d-9a6d-296e9e3c04eb_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/cbeda43b-48a4-441c-97fd-89fd2064f13a_16-9-aspect-ratio_default_0.png",
       "priority": "3 · Altres notícies"
     },
     {
@@ -340,13 +506,13 @@
       "url": "https://beteve.cat/cultura/premis-montserrat-roig-2026-directe-beteve/",
       "published": "2026-10-26T16:21:18+01:00",
       "category": "comunicació",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/salo-cent-directe-2026-10-26.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/06/salo-cent-barcelona-160623-1.jpg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
       "title": "Els Mossos alerten els comerços de Sants davant una manifestació no autoritzada aquesta tarda",
-      "excerpt": "Els Mossos d’Esquadra s’han adreçat aquest dilluns a l’oficina de l’Associació de Comerciants de Creu Coberta per advertir-los d’una manifestació no autoritzada convocada a partir de les 17 h a la plaça d’Espanya. El president de l’entitat, David Jericó, ha explicat a betevé que els agents han demanat que “extremin les precaucions” per possibles aldarulls. […]",
+      "excerpt": "Els Mossos d’Esquadra s’han adreçat aquest dilluns a l’oficina de l’Associació de Comerciants de Creu Coberta per advertir-los d’una manifestació no autoritzada convocada a partir de les 17 h a la plaça d’Espanya. El gerent de l’entitat, David Jericó, ha explicat a betevé que els agents han demanat que “extremin les precaucions” per possibles aldarulls. […]",
       "url": "https://beteve.cat/societat/mossos-alerten-comercos-sants-manifestacio-no-autoritzada/",
       "published": "2026-10-26T16:21:10+01:00",
       "category": "societat",
@@ -396,11 +562,11 @@
     {
       "source": "3CatInfo",
       "title": "EN DIRECTE | Gala de la Pilota d'Or 2026, a Esport3",
-      "excerpt": "France Football anuncia els primers jugadors de la llista de 30 futbolistes amb la presència destacada de Ferran Torres (16) i Cata Coll (15)",
+      "excerpt": "Arriben els primers protagonistes de la gala de la Pilota d'Or a la catifa vermella del London Palladium",
       "url": "https://www.3cat.cat/3catinfo/en-directe-gala-de-la-pilota-dor-2026-a-esport3/noticia/3436128/",
       "published": "2026-10-26T15:59:41+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/1/1758611640917.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/3/1793039800038.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -666,7 +832,7 @@
     {
       "source": "ARA",
       "title": "Acord PP-Vox: les dretes pacten en 23 províncies per derrotar Sánchez al Senat",
-      "excerpt": "Acord entre PP i Vox al Senat per frenar les esquerres. Els d'Alberto Núñez Feijóo i Santiago Abascal han pactat una col·laboració en 23 províncies per derrotar el PSOE, que s'ha aliat amb el Front Ampli a la cambra alta. D'una banda, l'extrema dreta renuncia a presentar candidatura pròpia en sis províncies (Las Palmas, Santa Cruz de Tenerife, Cadis, València, Castelló i Balears) amb el compromís que el PP incorpori a la seva un candidat a proposta de Vox (com a número dos o tres…",
+      "excerpt": "L'estratègia del PP i Vox d'anar de bracet per derrotar Pedro Sánchez en les eleccions generals del 29 de novembre es tradueix ja en acords concrets. Els d'Alberto Núñez Feijóo i els de Santiago Abascal han pactat una col·laboració en 23 províncies per frenar l'esquerra. La dreta espanyola ha anunciat aquesta \"entesa\" aquest dilluns amb l'objectiu d'intentar neutralitzar l'aliança que el PSOE i el Front Ampli ja havien tancat fa deu dies per concórrer en coalició a la cambra alta. Així doncs, els comicis al…",
       "url": "https://www.ara.cat/politica/acord-pp-vox-dretes-pacten-23-provincies-derrotar-sanchez-senat_1_5890923.html",
       "published": "2026-10-26T13:59:44+01:00",
       "category": "Actualitat",
@@ -936,7 +1102,7 @@
     {
       "source": "3CatInfo",
       "title": "L'autobús accidentat a Fogars de Montclús tenia 65 seients i portava una norantena de passatgers",
-      "excerpt": "Dels 87 ferits, encara hi ha vuit persones en estat greu o molt greu ingressades a l'hospital",
+      "excerpt": "Un cop retirat el vehicle, els Bombers han comprovat que no hi ha cap víctima mortal",
       "url": "https://www.3cat.cat/3catinfo/unes-40-persones-viatjaven-dretes-a-lautobus-accidentat-a-fogars-de-montclus/noticia/3436054/",
       "published": "2026-10-26T11:50:04+01:00",
       "category": "Actualitat",
@@ -1145,8 +1311,8 @@
     },
     {
       "source": "ARA",
-      "title": "Mems, provocació, atacs i IA: l’artilleria del PP a les xarxes pel 29-N",
-      "excerpt": "“Diuen que és bo, ho he llegit”. Així defensava divendres Alberto Núñez Feijóo el misteriós community manager del PP, que s’ha convertit en un dels grans protagonistes de la precampanya electoral del 29-N. Amb un estil combatiu, despietat, irònic i atrevit, les publicacions dels populars a Instagram, TikTok i X es viralitzen amb rapidesa, treuen el cap als mitjans convencionals i han estat capaces de sacsejar el debat, desfermant el suport entre els propis i intensificant les crítiques entre els detractors. El mateix perfil del…",
+      "title": "El PP podrà fer servir la IA per fer dir a Sánchez el que mai ha dit",
+      "excerpt": "“Diuen que és bo, ho he llegit”. Així defensava divendres Alberto Núñez Feijóo el misteriós community manager del PP, que s’ha convertit en un dels grans protagonistes de la precampanya electoral del 29-N. Amb un estil combatiu, despietat, irònic i atrevit, les publicacions dels populars a Instagram, TikTok i X s'han viralitzat amb rapidesa i han sigut capaces de treure el cap als mitjans convencionals. El que ha tingut més ressò és un vídeo fet amb intel·ligència artificial , vist per més de dos milions…",
       "url": "https://www.ara.cat/politica/eleccions-generals/mems-provocacio-atacs-ia-l-artilleria-pp-xarxes-pel-29-n_1_5888596.html",
       "published": "2026-10-26T09:36:45+01:00",
       "category": "Actualitat",
