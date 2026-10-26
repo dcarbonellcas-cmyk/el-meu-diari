@@ -80,7 +80,7 @@
     {
       "source": "VilaWeb",
       "title": "Els sindicats de docents posen fi al tancament a la Conselleria d’Educació de València després d’aconseguir una reunió",
-      "excerpt": "STEPV, CCOO i UGT es reuniran dilluns vinent, a les 9.00, amb representants de la Conselleria per abordar les negociacions pendents · La vaga indefinida continua suspesa, però no desconvocada",
+      "excerpt": "STEPV, CCOO i UGT es reuniran dilluns vinent, a les 9.00, amb representants de la conselleria per abordar les negociacions pendents · La vaga indefinida continua suspesa, però no desconvocada",
       "url": "https://www.vilaweb.cat/noticies/els-sindicats-docents-es-tanquen-a-la-conselleria-deducacio-per-exigir-la-represa-de-les-negociacions/",
       "published": "2026-10-26T19:05:15+01:00",
       "category": "Educació",
@@ -260,9 +260,39 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Alexia Putellas guanya la tercera Pilota d’Or després del seu any amb el Barça",
+      "excerpt": "L’exfutbolista del Barça Alexia Putellas torna a convertir-se en la millor jugadora del món per tercera vegada. La jugadora de Mollet del Vallès ha guanyat la Pilota d’Or després de la seva temporada al club blaugrana. Actualment, al London City Lionesses, ja va guanyar-la en dues ocasions més: l’any 2021i el 2022. A banda de […]",
+      "url": "https://beteve.cat/esports/alexia-putellas-guanya-pilota-or-despres-any-barca-2026/",
+      "published": "2026-10-26T23:34:38+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/07/GwKVTZEXYAE_aOK-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Alèxia Putellas guanya la tercera Pilota d’Or",
+      "excerpt": "La futbolista de Mollet del Vallès recupera el guardó quatre anys després i fa créixer fins a sis les Pilotes d’Or consecutives de jugadores catalanes",
+      "url": "https://www.vilaweb.cat/noticies/alexia-putellas-guanya-la-tercera-pilota-dor/",
+      "published": "2026-10-26T23:34:23+01:00",
+      "category": "Esports",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La nova lliçó d'Alexia Putellas en una nit màgica del Barça",
+      "excerpt": "Quan el 5 de juliol del 2022 Alexia Putellas es va trencar el lligament creuat anterior en un entrenament previ a l'Eurocopa la seva vida va canviar per complet. \"Em va fer molta pena, perquè s'acabava aquella Alexia i seria una altra, no sabia si millor o pitjor, però una altra\". Així descrivia la jugadora de Mollet del Vallès aquella fatídica lesió, una de les pitjors que pot patir un futbolista, quan tot just havia guanyat la seva segona Pilota d'Or.",
+      "url": "https://www.ara.cat/esports/barca-femeni/alexia-putellas-pilota-d-or-2026_1_5890837.html",
+      "published": "2026-10-26T23:34:16+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ebf1f531-ebc6-42da-8f85-b099fb2ab7e2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Sèrbia i la victòria democràtica de la protesta",
-      "excerpt": "Sèrbia és avui un experiment democràtic que genera esperances en plena onada d’autocratització i malestar social que sacseja mitja Europa. Després de dos anys de mobilitzacions ininterrompudes i una participació electoral sense precedents, la llista dels estudiants serbis ha aconseguit posar fi a l’era Vucic i el seu model autoritari. És l’altra cara d’aquest hivern del descontentament que ja encén la protesta a França, Itàlia, Albània, Espanya, Portugal o Grècia. Una victòria transversal sobre un sistema corrupte, reforçat pels seus megàfons comunicatius i uns suports…",
+      "excerpt": "Sèrbia és avui un experiment democràtic que genera esperances en plena onada d’autocratització i malestar social que sacseja mig Europa. Després de dos anys de mobilitzacions ininterrompudes i una participació electoral sense precedents, la llista dels estudiants serbis ha aconseguit posar fi a l’era Vucic i el seu model autoritari. És l’altra cara d’aquest hivern del descontentament que ja encén la protesta a França, Itàlia, Albània, Espanya, Portugal o Grècia. Una victòria transversal sobre un sistema corrupte, reforçat pels seus megàfons comunicatius i uns suports…",
       "url": "https://www.ara.cat/opinio/serbia-victoria-democratica-protesta_129_5891326.html",
       "published": "2026-10-26T22:30:17+01:00",
       "category": "Actualitat",
@@ -327,12 +357,12 @@
       "published": "2026-10-26T22:04:19+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/8/1792965801184.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432771/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/tomb-a-serbia-com-una-revolta-destudiants-aconsegueix-derrotar-a-les-urnes-el-regim-de-vucic/noticia/3436225/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -392,12 +422,12 @@
       "published": "2026-10-26T21:09:48+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/4/1793042617946.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432793/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-importancia-per-a-pp-i-psoe-de-controlar-el-senat-i-per-que-vox-i-front-ampli-savenen-a-ajudar-los/noticia/3436237/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -857,7 +887,7 @@
     {
       "source": "3CatInfo",
       "title": "EN DIRECTE | Domini blaugrana a la gala de la Pilota d'Or 2026",
-      "excerpt": "Lamine Yamal, Vicky López, Pere Romeu i Cata Coll aixequen quatre premis en la gala de la Pilota d'Or",
+      "excerpt": "Lamine Yamal, Vicky López, Pere Romeu i Cata Coll aixequen quatre premis en la gala de la Pilota d'Or i Laporta ho fa amb el de millor club femení",
       "url": "https://www.3cat.cat/3catinfo/en-directe-gala-de-la-pilota-dor-2026-a-esport3/noticia/3436128/",
       "published": "2026-10-26T15:59:41+01:00",
       "category": "Actualitat",
@@ -1302,12 +1332,12 @@
       "published": "2026-10-26T12:34:24+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/9/1793001698999.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432780/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/els-mossos-demanen-permis-al-jutge-per-identificar-a-les-xarxes-els-instigadors-els-aldarulls-a-barcelona/noticia/3436079/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -1402,17 +1432,17 @@
     {
       "source": "3CatInfo",
       "title": "L'autobús accidentat a Fogars de Montclús tenia 65 seients i portava una norantena de passatgers",
-      "excerpt": "Un cop retirat el vehicle, els Bombers han comprovat que no hi ha cap víctima mortal",
+      "excerpt": "Un cop retirat el vehicle, els Bombers han comprovat que no hi ha cap víctima mortal sota",
       "url": "https://www.3cat.cat/3catinfo/unes-40-persones-viatjaven-dretes-a-lautobus-accidentat-a-fogars-de-montclus/noticia/3436054/",
       "published": "2026-10-26T11:50:04+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/7/1793002742477.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432781/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/unes-40-persones-viatjaven-dretes-a-lautobus-accidentat-a-fogars-de-montclus/noticia/3436054/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
