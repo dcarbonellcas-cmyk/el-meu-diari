@@ -2,6 +2,16 @@
   "date": "2026-10-26",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Has anat a Santa Úrsula o a la guerra?",
+      "excerpt": "Newton s’imposa a la patrona de Valls en una diada amb molta llenya i només un castell de gamma extra descarregat",
+      "url": "https://www.vilaweb.cat/noticies/has-anat-a-santa-ursula-o-a-la-guerra/",
+      "published": "2026-10-26T13:00:51+01:00",
+      "category": "Cultura popular",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "Falangistes i bruixes bones en plena guerra civil",
       "excerpt": "No voldria de cap manera ficar-me a la pell de cap d’aquells autors o autores que triomfen amb el primer llibre publicat –no somnio pas a ressuscitar com a Carmen Laforet –, perquè les expectatives generades són tan altes que és molt difícil no fracassar. Tot i que l’èxit que l’escriptora Alana S. Portero (Madrid, 1978) va obtenir amb la seva primera novel·la, La mala costumbre , va ser més que justificat, ara la publicació de la segona, Cosamala , la posa en una tessitura…",
@@ -10,6 +20,26 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/cef9b612-a132-48a4-9e63-b99ea5699395_16-9-aspect-ratio_default_0.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Zelenski anuncia una reunió a Brussel·les amb la UE, els EUA i l’OTAN per negociar la seguretat d’Ucraïna",
+      "excerpt": "El líder ucraïnès anuncia que la trobada se celebrarà dimarts o dimecres",
+      "url": "https://www.vilaweb.cat/noticies/zelenski-anuncia-reunio-brusselles-ue-eua-otan-negociar-seguretat-ucraina/",
+      "published": "2026-10-26T12:52:44+01:00",
+      "category": "Món",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Serveis mínims per la vaga de maquinistes del 29 d’octubre",
+      "excerpt": "El govern ha decretat serveis mínims del 66 % en hora punta i del 33 % en hores vall a Rodalies i Regionals per la vaga del 29 d’octubre convocada pel sindicat majoritari de maquinistes SEMAF a totes les empreses del grup Renfe per exigir millores en seguretat ferroviària. L’aturada afecta tot el col·lectiu de […]",
+      "url": "https://beteve.cat/economia/serveis-minims-rodalies-vaga-29-octubre/",
+      "published": "2026-10-26T11:58:00+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/01/rodalies-220126.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -94,12 +124,182 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Contratemps important pel Barça: Xavi Espart set setmanes de baixa",
+      "excerpt": "Nou contratemps per al Barça i per a Hansi Flick. El club en un comunicat ha informat que Xavi Espart té una lesió a la sindesmosi del turmell dret. En el mateix comunicat s’informa que el futbolista estarà set setmanes de baixa. Hansi Flick perd a Xavi Espart Xavi Espart es va lesionar en el […]",
+      "url": "https://beteve.cat/esports/contratemps-important-barca-xavi-espart-set-setmanes-baixa/",
+      "published": "2026-10-26T13:52:25+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/xavi-espart-2026-09-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
-      "title": "'Panorama des del pont': un gran clàssic molt ben servit",
-      "excerpt": "Arthur Miller (Nova York, 1915 - Roxbury, Connecticut, 2005) és un dels dramaturgs més punyents del teatre realista del segle XX als Estats Units. La seva obra Panorama des del pont no perd actualitat: el tema de la immigració irregular està molt viu entre nosaltres i també als Estats Units de Donald Trump, amb una policia d’immigració (ICE) tan temuda i salvatge com en els anys cinquanta, quan Miller situa aquesta història.",
-      "url": "https://www.ara.cat/cultura/teatre/panorama-des-pont-gran-classic-ben-servit_1_5890735.html",
-      "published": "2026-10-26T11:42:04+01:00",
+      "title": "El PP i el bigoti suat de Nixon",
+      "excerpt": "Un tuit del Partit Popular ironitza que les últimes entrevistes de Pedro Sánchez han estat en mitjans afins ( El intermedio , Mañaneros , La revuelta , El País ) i que diumenge farà el repòquer a Salvados , també considerada amiga. I, en canvi, expliquen que Feijóo va visitar presumpte territori hostil anant a la Cadena SER (ai las, però sense Barceló) i que el cap de setmana serà entrevistat a El País i La Vanguardia (que són les principals bastides impreses que aguanten…",
+      "url": "https://www.ara.cat/media/pp-bigoti-suat-nixon_129_5890904.html",
+      "published": "2026-10-26T13:51:43+01:00",
       "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/eac4e42c-4ec2-4cb8-8b44-70c004d6eaf6_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La Fiscalia demana internar 6 menors pels aldarulls de Barcelona i els detinguts s'eleven a 130",
+      "excerpt": "Continuen les detencions i arriba la primera resposta judicial pels aldarulls de dissabte a Barcelona. La Fiscalia de Menors ha demanat l'internament de 6 detinguts i la prohibició d'assistir a manifestacions a 20 implicats més. Mentrestant, el nombre de detinguts s'eleva a 130 —78 dels quals menors d'edat—, segons el darrer balanç dels Mossos d'Esquadra, que continuen investigant qui hi ha darrere d'aquest episodi.",
+      "url": "https://www.ara.cat/societat/successos/fiscalia-demana-internar-6-menors-pels-aldarulls-barcelona-detinguts-s-eleven-130_1_5890834.html",
+      "published": "2026-10-26T13:39:36+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/86e416cd-dd52-4b9b-8c68-680401674d3b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’ajuntament de Barcelona crea un fons d’emergència per als comerciants afectats pels aldarulls",
+      "excerpt": "L’ajuntament hi destina 500.000 euros i es reuneix amb afectats i Generalitat",
+      "url": "https://www.vilaweb.cat/noticies/barcelona-crea-fons-emergencia-comerciants-afectats-aldarulls/",
+      "published": "2026-10-26T13:29:18+01:00",
+      "category": "Barcelona",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Castanyada i Halloween 2026: Què fer a Barcelona? Activitats més destacades",
+      "excerpt": "Arriba la festa de la Castanyada 2026 i el Halloween a Barcelona! Els diferents barris de la ciutat han preparat desenes d’activitats per viure la nit més terrorífica de l’any, celebrar la Castanyada i la nit de Tots Sants. Prepara la teva disfressa de por, els panellets i les castanyes i suma’t a la proposta […]",
+      "url": "https://beteve.cat/agenda/castanyada-halloween-barcelona/",
+      "published": "2026-10-26T13:27:07+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/10/castanyada-halloween-barcelona.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Pedro Sánchez fa seva la victòria de Lula per llançar el missatge de \"remuntada\"",
+      "excerpt": "Hi ha esperança contra el trumpisme i l'extrema dreta global. Un home de 80 anys, que aquest dimarts en farà 81, ho ha demostrat contra tot pronòstic. La victòria, aquest diumenge, a les presidencials del Brasil de Luiz Inácio Lula da Silva ha estat rebuda per la socialdemocràcia global i també pels demòcrates liberals com un ferro roent a què agafar-se davant l'embranzida ultra que irradia la Casa Blanca, el moviment MAGA i les xarxes socials al seu servei.",
+      "url": "https://www.ara.cat/politica/pedro-sanchez-seva-victoria-lula-llancar-missatge-remuntada_1_5890728.html",
+      "published": "2026-10-26T13:23:09+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/34d83c64-6945-4b48-a1a3-7727e8cc111b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "S’ha mort a vuitanta-cinc anys Til Stegmann, el gran aliat alemany de Catalunya",
+      "excerpt": "Filòleg, romanista i catalanòfil alemany, conegut especialment per la seva tasca de difusió de la llengua, la literatura i la cultura catalanes a Alemanya",
+      "url": "https://www.vilaweb.cat/noticies/sha-mort-a-vuitanta-cinc-anys-til-stegmann-el-gran-aliat-alemany-de-catalunya/",
+      "published": "2026-10-26T13:20:44+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Arxiven la causa contra la batllessa de Sitges per la llicència d’una parada del mercat de Sitges",
+      "excerpt": "La jutgessa considera que no hi ha hagut intencionalitat i desvincula la batlessa de cap irregularitat",
+      "url": "https://www.vilaweb.cat/noticies/arxiven-causa-contra-aurora-carbonell-llicencia-parada-mercat-sitges/",
+      "published": "2026-10-26T13:17:18+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les pimes catalanes redueixen la bretxa de productivitat amb les grans empreses",
+      "excerpt": "Les petites i mitjanes empreses catalanes gaudeixen de bona salut. Així ho demostra la darrera edició de l'Anuari de la Pime Catalana, elaborat cada curs per la patronal Pimec. Segons les dades del document, presentat per l'organització aquest dilluns, les empreses de mida més petita del Principat van aconseguir el 2024 retallar l'escletxa de productivitat que les separa històricament dels negocis de més dimensió. D'acord amb l'informe, les petites i mitjanes empreses del país van elevar la seva productivitat en un 2,7%, fins a una…",
+      "url": "https://www.ara.cat/economia/industria/pimes-catalanes-redueixen-bretxa-productivitat-grans-empreses_1_5890753.html",
+      "published": "2026-10-26T13:09:30+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1fe8057b-9c78-44aa-9fd2-c4e25785141e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Exposicions a Barcelona: la teva agenda de museus",
+      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
+      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
+      "published": "2026-10-26T13:05:01+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "“Sense dones no hauríem tingut indústria de salaons d’anxoves a l’Escala”",
+      "excerpt": "Entrevisto el cuiner Jordi Jacas el dia que ha preparat un càtering en una casa particular, on l’Acadèmia Catalana de Gastronomia i Nutrició ha donat la benvinguda a l’acadèmic Sandro Rossell. Hi ha preparat un àpat amb aliments en què la mel i l’oli han brillat. Per postres, el pastisser Oriol Balaguer hi ha posat els bisbalencs, els petits mossecs de pasta de full farcits de cabell d’àngel. El Jordi és un ambaixador de la cuina i el producte de l’Escala, on va néixer, créixer…",
+      "url": "https://mengem.ara.cat/xefs/dones-no-hauriem-tingut-industria-salaons-d-anxoves-l-escala_128_5886959.html",
+      "published": "2026-10-26T13:00:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/10b07ea8-226c-4717-ba22-1fa5369bd71b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Sant Andreu somia en la Copa del Rei: primera eliminatòria contra el Manresa",
+      "excerpt": "El Sant Andreu visita aquest dimarts el Nou Congost per enfrontar-se amb el Manresa en la primera eliminatòria de la Copa del Rei. Els andreuencs somien a tornar a viure una nit màgica de Copa al Narcís Sala, com la temporada passada davant el Celta, i per aconseguir-ho han de guanyar els manresans Els quadribarrats, […]",
+      "url": "https://beteve.cat/esports/sant-andreu-somia-copa-rei-primera-eliminatoria-manresa/",
+      "published": "2026-10-26T12:58:37+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/LUCAS-VINA-PREVIA-COPA-MANRESA-2026-10-26.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El retrobament de Tricicle: \"Érem millors que Rowan Atkinson\"",
+      "excerpt": "Joan Gràcia, Carles Sans i Paco Mir es retroben a \"El suplement\" i reivindiquen més de 40 anys de trajectòria en què van fer riure generacions amb el teatre gestual",
+      "url": "https://www.3cat.cat/3catinfo/el-retrobament-de-tricicle-erem-millors-que-rowan-atkinson/noticia/3435659/",
+      "published": "2026-10-26T12:57:09+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/1/1792226159418.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Festa Major de la Verneda 2026: Programa i dates de les festes",
+      "excerpt": "La Festa Major de la Verneda 2026 portarà alegria i un munt d’activitats. La festa major se celebrarà del 6 al 15 de novembre en aquest barri del districte de Sant Martí. Hi ha moltes propostes de cultura popular perquè en gaudeixis al màxim. Aquí tens un resum del programa amb les activitats destacades: Programa de […]",
+      "url": "https://beteve.cat/agenda/festa-major-verneda-programa/",
+      "published": "2026-10-26T12:42:36+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/cartell-festa-major-verneda-2026-2026-10-26.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Com serà la Castanyada: haurem de dur màniga curta o serà freda, com les de tota la vida? Això diuen els mapes",
+      "excerpt": "Fins fa uns anys, la Castanyada sempre s’havia associat al fred. Una nit que convidava a menjar castanyes o panellets a la vora del foc per escalfar-se de la fredor prehivernal. Però, des de fa un temps, això ja no és així. Amb la crisi climàtica i l’escalfament global, les temperatures no paren de pujar, i la majoria de les últimes Castanyades han estat càlides per a l’època, amb poc fred de nit i, fins i tot, migdies de màniga curta o de camisa per…",
+      "url": "https://www.ara.cat/ara-cat/meteo/sera-castanyada-haurem-dur-maniga-curta-sera-freda-tota-vida-aixo-diuen-mapes_1_5888398.html",
+      "published": "2026-10-26T12:39:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/292972d7-c713-432f-af1b-6e03e5b16e59_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Quines pel·lícules veure per Halloween 2025? Propostes per a la nit del 31 d’octubre",
+      "excerpt": "El dia 31 d’octubre, amb el permís de la castanyada, Barcelona s’omple de carbasses, esquelets, fantasmes i teranyines. La festa de Halloween torna a casa nostra importada de la cultura anglosaxona i popularitzada internacionalment gràcies, sobretot, al cinema. Per això, des de ‘Plaça Tísner’ us proposem vuit pel·lícules per passar un Halloween de por, però […]",
+      "url": "https://beteve.cat/placa-tisner/pelicules-halloween-propostes-31-octubre/",
+      "published": "2026-10-26T12:36:59+01:00",
+      "category": "cinema",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/10/pelis-halloween-281022.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Interior vol tancar els grups de missatgeria on es van promoure els aldarulls de Barcelona",
+      "excerpt": "La Fiscalia ha demanat que sis dels menors detinguts ingressin en centres juvenils i que una vintena més no puguin participar en protestes",
+      "url": "https://www.3cat.cat/3catinfo/els-mossos-demanen-permis-al-jutge-per-identificar-a-les-xarxes-els-instigadors-els-aldarulls-a-barcelona/noticia/3436079/",
+      "published": "2026-10-26T12:34:24+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/9/1793001698999.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Convergents tan sols es presentarà per Tarragona perquè no ha aconseguit prou avals",
+      "excerpt": "La formació de Germà Gordó diu que també tenia les signatures de Girona i Lleida, però que no té sentit fer una candidatura a tot Catalunya sense Barcelona",
+      "url": "https://www.vilaweb.cat/noticies/convergents-presentara-tarragona-prou-avals/",
+      "published": "2026-10-26T12:25:29+01:00",
+      "category": "Principat",
       "image": null,
       "priority": "3 · Altres notícies"
     },
@@ -108,9 +308,99 @@
       "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
       "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
       "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-10-26T11:41:39+01:00",
+      "published": "2026-10-26T12:24:59+01:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Festes majors a Barcelona aquest 2026: consulta les dates i programes de cada festa a la ciutat",
+      "excerpt": "Saps que hi ha gairebé 90 festes majors a Barcelona repartides pels barris? Tradicionalment, Sant Antoni inaugura el calendari i Sant Andreu el tanca. Si fins ara només coneixies la Mercè com la Festa Major de Barcelona, descobriràs que gairebé cada barri té una celebració pròpia. Fins i tot hi ha barriades, carrers i places […]",
+      "url": "https://beteve.cat/agenda/festes-majors-barcelona-barris/",
+      "published": "2026-10-26T12:22:09+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/07/que-fer-a-barcelona-festes-majors-05-2026-07-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Consum expedienta una plataforma per no retirar anuncis de pisos turístics a la Palestina ocupada",
+      "excerpt": "El ministeri detecta publicitat que correspon a allotjaments situats en més de 200 codis postals corresponents als assentaments israelians en territoris palestins ocupats",
+      "url": "https://www.3cat.cat/3catinfo/consum-expedienta-una-plataforma-per-no-retirar-anuncis-de-pisos-turistics-a-la-palestina-ocupada/noticia/3436080/",
+      "published": "2026-10-26T12:13:08+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/8/1793013110580.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Telefónica entra amb un 10 % al capital de l’empresa tecnològica OGA per impulsar solucions d’IA",
+      "excerpt": "(ACN) Telefónica España ha adquirit una participació del 10 % en l’empresa tecnològica OGA, una companyia amb seu a Camas (Sevilla) especialitzada en intel·ligència artificial i investigació operativa, per impulsar el desenvolupament de solucions avançades per a empreses i administracions. L’operació inclou una aliança comercial i tècnica per incorporar les tecnologies d’OGA al catàleg de […]",
+      "url": "https://beteve.cat/economia/telefonica-entra-empresa-tecnologica-oga/",
+      "published": "2026-10-26T12:10:22+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/06/telefonica-dades-movistar-030625.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Burnham defensa una relació més estreta amb la Unió Europea però en descarta la reincorporació a curt termini",
+      "excerpt": "El primer ministre britànic diu que li agradaria tornar a la UE, però que no impulsarà un referèndum sobre la qüestió",
+      "url": "https://www.vilaweb.cat/noticies/burnham-relacio-mes-estreta-unio-europea/",
+      "published": "2026-10-26T12:10:21+01:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La fiscalia demana internament i llibertat vigilada per alguns dels menors detinguts pels aldarulls",
+      "excerpt": "La Fiscalia de Menors ja ha demanat mesures cautelars per 26 dels 76 menors detinguts durant els aldarulls de dissabte a Barcelona. El fiscal ha demanat mesures d’internament per a sis menors, tres dels quals ja han comparegut i els altres tres es preveu que ho facin aquest dilluns. També ha demanat 20 mesures de […]",
+      "url": "https://beteve.cat/societat/fiscalia-demana-mesures-cautelars-menors-detinguts-aldarulls-barcelona/",
+      "published": "2026-10-26T12:09:13+01:00",
+      "category": "justícia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/menors-detinguts-aldarulls-barcelona-2026-10-26.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "10 videojocs en català del SAGA Barcelona Game Fest que cal seguir de prop",
+      "excerpt": "Un parell de setmanes després del debut del SAGA Barcelona Game Fest i de la confirmació de la segona edició , ens endinsem a descobrir alguns dels més de 200 videojocs indie que s’hi van poder veure. La fusió de les tres fires va ser un èxit, i la presència dels creadors locals va continuar sent un pal de paller fonamental en l’experiència. En especial, destaca l’atenció als creadors per part de l’equip de l’IndieDevDay i la presència del català, impulsat per Plataforma per la…",
+      "url": "https://www.ara.cat/media/videojocs/10-videojocs-catala-saga-barcelona-game-fest-cal-seguir-prop_1_5888247.html",
+      "published": "2026-10-26T11:52:31+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e2af6950-8c28-4737-bdd8-3d04b188b6c5_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Pujol incrementa la facturació un 19% el 2025, fins als 250 M€",
+      "excerpt": "La facturació de la lleidatana Prefabricats Pujol, dedicada als productes prefabricats de formigó i altres solucions per a la construcció, va créixer un 19% durant l'exercici 2025, fins als 249,9 milions d'euros. La companyia s'ha compromès a mantenir \"una estratègia basada en el creixement i la reinversió dels recursos generats per l'activitat\", segons diu en un comunicat d'aquest dilluns.",
+      "url": "https://www.ara.cat/economia/industria/pujol-incrementa-facturacio-19-2025-fins-als-250-m_1_5890734.html",
+      "published": "2026-10-26T11:52:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/32ce1150-a8e3-4ff2-bbc4-c81af16dd5f8_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Unes 40 persones viatjaven dretes a l'autobús accidentat a Fogars de Montclús",
+      "excerpt": "Dels 87 ferits, encara hi ha vuit persones en estat greu o molt greu ingressades a l'hospital",
+      "url": "https://www.3cat.cat/3catinfo/unes-40-persones-viatjaven-dretes-a-lautobus-accidentat-a-fogars-de-montclus/noticia/3436054/",
+      "published": "2026-10-26T11:50:04+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/7/1793002742477.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "'Panorama des del pont': un gran clàssic molt ben servit",
+      "excerpt": "Arthur Miller (Nova York, 1915 - Roxbury, Connecticut, 2005) és un dels dramaturgs més punyents del teatre realista del segle XX als Estats Units. La seva obra Panorama des del pont no perd actualitat: el tema de la immigració irregular està molt viu entre nosaltres i també als Estats Units de Donald Trump, amb una policia d’immigració (ICE) tan temuda i salvatge com en els anys cinquanta, quan Miller situa aquesta història.",
+      "url": "https://www.ara.cat/cultura/teatre/panorama-des-pont-gran-classic-ben-servit_1_5890735.html",
+      "published": "2026-10-26T11:42:04+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3130a507-5420-4023-8721-e66b3b3e2b4e_16-9-aspect-ratio_default_0_x2820y1163.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -135,8 +425,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Gran part dels detinguts pels aldarulls de dissabte a Barcelona són posats a disposició judicial",
-      "excerpt": "Ahir quasi tots els menors detinguts ja van passar per la fiscalia de menors",
+      "title": "La fiscalia de menors demana d’internar sis detinguts pels aldarulls a Barcelona",
+      "excerpt": "Gran part dels detinguts ja han estat posats a disposició judicial",
       "url": "https://www.vilaweb.cat/noticies/detinguts-aldarulls-dissabte-disposicio-judicial/",
       "published": "2026-10-26T11:33:17+01:00",
       "category": "Policia i justícia",
@@ -171,6 +461,16 @@
       "published": "2026-10-26T11:23:35+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/d18178be-c2ff-43d0-82fd-e6124b66f3a3_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Alarma al Barça: es queda en quadre a la defensa",
+      "excerpt": "Els darrers partits del Barça han deixat l’equip de Hansi Flick amb pocs efectius a la defensa. Dels vuits jugadors que poden ocupar posicions en aquesta línia del camp, quatre estan lesionats: Andreas Christensen, Eric Garcia, Jules Kounde i, el darrer, Xavi Espart, que es va lesionar en el clàssic contra el Reial Madrid. La […]",
+      "url": "https://beteve.cat/esports/alarma-barca-queda-quadre-defensa/",
+      "published": "2026-10-26T11:18:53+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/xavi-espart-lesionat-classic-2026-10-26.webp",
       "priority": "3 · Altres notícies"
     },
     {
@@ -215,8 +515,8 @@
     },
     {
       "source": "ARA",
-      "title": "Parlon, oberta a prohibir que els passatgers viatgin drets en autobusos interurbans després de l'accident al Montseny",
-      "excerpt": "La consellera d’Interior, Núria Parlon, ha obert la porta a modificar la normativa perquè els passatgers no puguin viatjar drets en autobusos interurbans, especialment en carreteres de muntanya. \"Això no és il·legal, i ara hauríem de veure realment si això no s’ha de canviar\", ha afirmat en una entrevista a RAC1 arran de l’accident d’un autocar a Fogars de Montclús. Parlon ha defensat que cal estudiar si els passatgers han de viatjar asseguts en aquests trajectes per reduir els riscos: \"Els passatgers en vies interurbanes,…",
+      "title": "Parlon, oberta a prohibir que els passatgers viatgin drets en autobusos interurbans",
+      "excerpt": "La normativa ho permet en determinats models de vehicles, i l'augment de la demanda fa que passi sovint: molts passatgers que agafen busos interurbans viatgen habitualment drets. També va passar diumenge, en l'accident de l'autobús de Sagalés a Fogars de Montclús, al Montseny, que ja ha deixat almenys 83 ferits, dels quals vuit en estat greu . Aquesta evidència ha fet que la consellera d’Interior, Núria Parlon, hagi obert aquest dilluns la porta a modificar la normativa per evitar que hi hagi usuaris drets als…",
       "url": "https://www.ara.cat/societat/mobilitat/parlon-oberta-prohibir-passatgers-viatgin-drets-autobusos-interurbans-despres-l-accident-montseny_1_5890703.html",
       "published": "2026-10-26T10:30:18+01:00",
       "category": "Actualitat",
@@ -224,19 +524,9 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Castanyada i Halloween 2026: Què fer a Barcelona? Activitats més destacades",
-      "excerpt": "Arriba la festa de la Castanyada 2026 i el Halloween a Barcelona! Els diferents barris de la ciutat han preparat desenes d’activitats per viure la nit més terrorífica de l’any, celebrar la Castanyada i la nit de Tots Sants. Prepara la teva disfressa de por, els panellets i les castanyes i suma’t a la proposta […]",
-      "url": "https://beteve.cat/agenda/castanyada-halloween-barcelona/",
-      "published": "2026-10-26T10:22:38+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2021/10/castanyada-halloween-barcelona.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "VilaWeb",
-      "title": "Els germans abandonats a l’estació de França denuncien que ni 3Cat ni HBO hi han parlat per fer una sèrie del seu cas",
-      "excerpt": "'Els orfes' es basarà en la història real de l'abandonament de tres infants el 1987, que van créixer sense saber qui eren els seus pares biològics",
+      "title": "Els germans abandonats a l’estació de França diuen que ni 3Cat ni HBO hi han parlat per fer una sèrie del seu cas",
+      "excerpt": "La productora responsable ho nega i diu que hi ha proves que li van oferir de col·laborar en la sèrie",
       "url": "https://www.vilaweb.cat/noticies/germans-abandonats-estacio-franca-3cat-hbo-orfes/",
       "published": "2026-10-26T10:19:20+01:00",
       "category": "Cinema i sèries",
@@ -305,8 +595,8 @@
     },
     {
       "source": "ARA",
-      "title": "Toni Comín i Lluís Puig reprenen l'activitat política catalana després de nou anys d'exili",
-      "excerpt": "Nou pas cap a la normalització de la vida política catalana després de la repressió del Procés. Lluís Puig i Toni Comín participen aquest dilluns en l'executiva de Junts a Barcelona després d'haver tornat els últims dies a Catalunya i haver posat fi a nou anys d'exili. La reunió, prevista a primera hora d'aquest matí, precedeix la roda de premsa que la candidata de Junts per Barcelona a les eleccions generals del 29-N, Miriam Nogueras, oferirà a les 12 hores a la seu del partit.",
+      "title": "Junts exigirà cessaments en 48 hores si Illa i Collboni no donen explicacions pels aldarulls",
+      "excerpt": "L'executiva de Junts no ha quedat satisfeta amb les explicacions de la consellera d'Interior, Núria Parlon, després dels aldarulls que van tenir lloc dissabte a la nit pels carrers de Barcelona. Míriam Nogueras, candidata de Junts per Barcelona a les eleccions generals del 29-N, ha anunciat aquest dilluns en una roda de premsa que els juntaires demanaran \"responsabilitats i cessaments\" si, en 48 hores, el president de la Generalitat, Salvador Illa, i l'alcalde de Barcelona, Jaume Collboni, no donen explicacions davant \"la incapacitat de garantir…",
       "url": "https://www.ara.cat/politica/toni-comin-lluis-puig-reincorporen-activitat-politica-catalana-despres-nou-anys-exili_1_5890672.html",
       "published": "2026-10-26T09:42:31+01:00",
       "category": "Actualitat",
@@ -325,12 +615,12 @@
     },
     {
       "source": "ARA",
-      "title": "Putin es desentén dels aldarulls a Europa i Trump assenyala la immigració",
-      "excerpt": "El president rus, Vladímir Putin, ha qualificat aquest diumenge d'\"exageració evident\" les acusacions que responsabilitzen Moscou de fomentar les protestes que sacsegen diverses ciutats europees. En una entrevista amb la televisió pública russa VGTRK, ha assegurat que els dirigents europeus busquen culpables externs per no haver d'assumir les seves responsabilitats davant el malestar social. El president nord-americà, Donald Trump, també s'ha pronunciat sobre les protestes a Europa, però les ha vinculat a la immigració, després de diverses setmanes de mobilitzacions estudiantils a França i dels…",
+      "title": "La Moncloa assenyala a l'extrema dreta pels aldarulls a Barcelona: \"És qui surt guanyant amb el caos i l'odi\"",
+      "excerpt": "Dos dies després dels aldarulls i saquejos de dissabte a Barcelona, la pregunta clau continua sent qui hi ha al darrere d'unes accions que es van promoure a través de les xarxes socials i que van portar centenars de joves, molts d'ells menors d'edat, a fer destrosses i saquejar botigues del centre de la ciutat. En plena precampanya del 29-N, la dreta i l'extrema dreta van córrer diumenge a apuntar el govern espanyol . Però aquest dilluns, la Moncloa ha disparat en sentit contrari.",
       "url": "https://www.ara.cat/internacional/europa/putin-desenten-dels-aldarulls-europa-trump-assenyala-immigracio_1_5890650.html",
       "published": "2026-10-26T09:14:03+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/f257f22e-f3a6-4cc6-89f6-f9a23a475332_16-9-aspect-ratio_default_1061249.jpg",
+      "image": "https://static1.ara.cat/clip/f2557680-e71c-4f2f-bb1c-2972aba4147c_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -420,8 +710,8 @@
     },
     {
       "source": "ARA",
-      "title": "Flávio Bolsonaro, el primogènit fet a imatge i semblança del pare",
-      "excerpt": "El pla familiar de l’expresident Jair Bolsonaro, empresonat per intent de cop d’estat, era que tot el seu clan visqués paràsitament de la política. El seu primogènit, el Flávio, de 45 anys i fins ara senador, va ser qui va obrir el camí als seus altres tres germans. Ell, però, és qui ha arribat més lluny optant a la presidència del Brasil.",
+      "title": "Flávio Bolsonaro, el primogènit fet a imatge i semblança del pare que tampoc accepta la derrota",
+      "excerpt": "El pla familiar de l’expresident Jair Bolsonaro, empresonat per intent de cop d’estat, era que tot el seu clan visqués paràsitament de la política. El seu primogènit, el Flávio, de 45 anys i fins ara senador, va ser qui va obrir el camí als seus altres tres germans. Ell, però, és qui ha arribat més lluny optant a la presidència del Brasil. Tot i que s'hi ha quedat a les portes. De moment, Bolsonaro no ha acceptat la derrota i ha demanat l'anul·lació dels comicis.",
       "url": "https://www.ara.cat/internacional/america/flavio-bolsonaro-primogenit-fet-imatge-semblanca-pare_1_5887242.html",
       "published": "2026-10-26T07:47:13+01:00",
       "category": "Actualitat",
