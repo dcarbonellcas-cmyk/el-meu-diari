@@ -22,6 +22,32 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimecres: baixa la temperatura a l'interior i al Pirineu",
+      "excerpt": "Sense pluges a la vista i amb temperatura més baixa fora de la costa",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/",
+      "published": "2026-10-27T18:47:10+01:00",
+      "updated": "2026-10-27T22:35:36+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/1/1793136907215.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433036/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El govern espanyol flexibilitza les exigències energètiques per als centres de dades",
+      "excerpt": "L'executiu espanyol ha modificat el reial decret que regula l'aspecte energètic d'aquestes infraestructures després de rebre més de 600 al·legacions",
+      "url": "https://www.3cat.cat/3catinfo/el-govern-espanyol-flexibilitza-les-exigencies-energetiques-per-als-centres-de-dades/noticia/3436389/",
+      "published": "2026-10-27T21:52:04+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/2/1718543002721.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
       "title": "Metges de Catalunya comença una vaga indefinida: una manifestació recorrerà l’avinguda Diagonal",
       "excerpt": "El sindicat Metges de Catalunya comença aquest dimecres una vaga indefinida. La jornada de protesta començarà amb una manifestació dels facultatius a l’avinguda Diagonal. La marxa començarà a les 9 del matí a la cruïlla amb l’avinguda del Doctor Marañón i finalitzarà a les portes del Departament de Salut, a la travessera de les Corts. […]",
@@ -114,22 +140,6 @@
       "published": "2026-10-27T19:07:53+01:00",
       "category": "Amèrica",
       "image": null,
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dimecres: baixa la temperatura a l'interior i al Pirineu",
-      "excerpt": "Sense pluges a la vista i amb temperatura més baixa fora de la costa",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/",
-      "published": "2026-10-27T18:47:10+01:00",
-      "updated": "2026-10-27T18:50:44+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/5/3/1793123431735.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432980/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -300,6 +310,66 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "La Comissió Europea proposa donar més poders a Frontex perquè pugui deportar des de tercers països",
+      "excerpt": "Vol donar més competències a l'agència europea de fronteres i convertir-la en l'actor principal de la política migratòria de retorns",
+      "url": "https://www.3cat.cat/3catinfo/la-comissio-europea-proposa-donar-mes-poders-a-frontex-perque-pugui-deportar-des-de-tercers-paisos/noticia/3436485/",
+      "published": "2026-10-27T22:37:45+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/9/1793132743891.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Enxampen un home que circulava amb patinet elèctric per la C-58 en sentit contrari",
+      "excerpt": "Els Mossos l'han denunciat per conducció temerària",
+      "url": "https://www.3cat.cat/3catinfo/enxampen-un-home-que-circulava-amb-patinet-electric-per-la-c-58-en-sentit-contrari/noticia/3436457/",
+      "published": "2026-10-27T22:37:18+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/8/9/1793121437698.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Les darreres paraules de Manolo González a l’Espanyol: “És el pitjor dia de la meva vida”",
+      "excerpt": "Manolo González ha estat cessat com a entrenador de l’Espanyol. Abans, però hi havia molta expectació per escoltar la roda de premsa del gallec després de caure contra el Sestao River a la Copa del Rei i el discurs ha estat un comiat. S’ha vist un tècnic molt afectat, amb un tarannà de desil·lusió en […]",
+      "url": "https://beteve.cat/esports/manolo-gonzalez-sesta-copa-rei-pitjors-dies-meva-vida/",
+      "published": "2026-10-27T22:26:10+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/05/manolo_gonzalez_2027_ok.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Som l'única espècie que pensa en el futur i l'única que roba a les generacions futures\"",
+      "excerpt": "L'espècie humana ha deixat de tenir com a objectiu fonamental la supervivència de l'espècie. Així de contundent ha estat el biòleg i divulgador científic italià Stefano Mancuso en la seva intervenció a l 'Enfoquem, el fòrum de debat organitzat per l'ARA aquest dilluns i dimarts al Recinte Modernista de Sant Pau de Barcelona. En conversa amb el director adjunt de l'ARA, Ignasi Aragay, Mancuso ha admès haver virat des de l'optimisme cap al \"pessimisme moderat\" davant els avenços tecnològics actuals, però tot i així ha…",
+      "url": "https://www.ara.cat/societat/l-unica-especie-pensa-futur-l-unica-roba-generacions-futures_1_5892219.html",
+      "published": "2026-10-27T22:04:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/864ed644-54b0-431b-93c2-35dc3282949d_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El Barça recorre a temps a la partitura adequada",
+      "excerpt": "El Barça va sobreviure a un Bayern de Múnic farcit d'exjugadors culers (84-88). L'equip blaugrana, que va impedir que el rival alemany guanyés el seu primer partit com a local, va tirar endavant amb més ofici que brillantor un matx que va estar ple de canvis en el marcador. Kevin Punter (23 punts) i Josh Nebo (12 punts i 9 rebots) van liderar el triomf culer en un dia en què els visitants van perdre massa pilotes. Aleksander Sekulic va tenir les baixes de Joel…",
+      "url": "https://www.ara.cat/esports/basquet/eurolliga/cronica-bayern-munic-barca_1_5892218.html",
+      "published": "2026-10-27T22:01:19+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/301eda00-c2f0-44ed-afd6-855cc4304190_16-9-aspect-ratio_default_1061275.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Manolo González, destituït com a entrenador de l’Espanyol",
+      "excerpt": "Manolo González ha estat acomiadat després de caure contra el Sestao River (4-3) en la primera eliminatòria de la Copa del Rei. El fins ara tècnic perico ha estat destituït amb l’equip blanc-i-blau eliminat de la competició del KO i en divuitena posició de la Lliga, a un punt de la salvació. La ratxa és […]",
+      "url": "https://beteve.cat/esports/manolo-gonzalez-destituit-entrenador-espanyol/",
+      "published": "2026-10-27T21:44:02+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/manolo-gonzalez-acomiadat-espanyol-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Jordi Amat: “Si hem perdut la confiança que puguem viure a la ciutat, tenim un problema democràtic”",
       "excerpt": "Jordi Amat ha estat entrevistat al bàsics, de betevé. Concretament a la secció ‘El mirador Barcelona’, en què diferents personalitats vinculades a la ciutat en parlen. Escriptor i autor del llibre Les batalles de Barcelona, premi Bones Lletres d’assaig humanístic, Amat ha repassat les bondats i defectes de mig segle de democràcia a la ciutat […]",
@@ -320,14 +390,49 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "Dani Martín reprograma els concerts suspesos a Barcelona per al 19 i 20 de març del 2027",
+      "excerpt": "Les entrades que s'havien comprat per a les dates cancel·lades seran vàlides automàticament per a les noves cites al Palau Sant Jordi",
+      "url": "https://www.3cat.cat/3catinfo/dani-martin-reprograma-els-concerts-suspesos-a-barcelona-per-al-19-i-20-de-marc-de-2027/noticia/3436490/",
+      "published": "2026-10-27T21:31:58+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/7/1793132613773.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
-      "title": "L'Espanyol continua acumulant ridículs a la Copa",
-      "excerpt": "Per tercera temporada consecutiva l'Espanyol va caure a la Copa del Rei al camp d'un equip de la Segona Federació. Barbastre, Atlètic Balears i enguany Sestao River (4-3), a l'últim minut de la pròrroga, han estat els botxins de Manolo González, a qui tothom donava per sentenciat després de la derrota de dissabte a Santander i que dimarts no va aprofitar la vida extra que li van regalar. La situació ja és insostenible i tot fa pensar que serà destituït més d'hora que tard.",
+      "title": "Manolo destituït després de l'enèsim ridícul a la Copa del Rei",
+      "excerpt": "\"L'Espanyol ha decidit posar fi a l’etapa de Manolo González com a entrenador del primer equip\". Amb aquesta frase comença el comunicat del club blanc-i-blau en què oficialitza la destitució del tècnic gallec després de perdre al camp del Sestao River (4-3) i quedar eliminat de la Copa del Rei. Per tercera temporada consecutiva l'Espanyol va caure al camp d'un equip de la Segona Federació. El Barbastre, l'Atlètic Balears i aquest any el Sestao River, a l'últim minut de la pròrroga, han estat els botxins…",
       "url": "https://www.ara.cat/esports/rcd-espanyol/l-espanyol-continua-acumulant-ridiculs-copa_1_5892290.html",
       "published": "2026-10-27T21:31:18+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/e68e8813-f853-433e-8797-37b7b198260e_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/a0f18c78-1f42-46fd-b362-e6f5c16121ed_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Feijóo centra la precampanya en el vandalisme i demana endurir les penes per aldarulls",
+      "excerpt": "Els populars centren la precampanya en els disturbis i acusen Sánchez de crear tensió perquè veu a venir que perdrà les eleccions",
+      "url": "https://www.3cat.cat/3catinfo/feijoo-centra-la-precampanya-en-el-vandalisme-i-demana-endurir-les-penes-per-aldarulls/noticia/3436475/",
+      "published": "2026-10-27T21:31:17+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/9/1793123496190.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Anthropic demana un acte de fe als inversors per sortir a borsa",
+      "excerpt": "La companyia d'IA podria sortir al novembre valorada en 2 bilions de dòlars, la xifra més alta de la història",
+      "url": "https://www.3cat.cat/3catinfo/anthropic-demana-un-acte-de-fe-als-inversors-per-sortir-a-borsa/noticia/3436243/",
+      "published": "2026-10-27T21:21:02+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/6/1791649625867.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432791/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/anthropic-demana-un-acte-de-fe-als-inversors-per-sortir-a-borsa/noticia/3436243/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -337,12 +442,12 @@
       "published": "2026-10-27T21:16:12+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/6/1793126368863.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432947/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/mor-el-pintor-i-escultor-robert-llimos-als-83-anys/noticia/3436472/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -356,8 +461,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Els sondatges a Israel donen una lleugera majoria al bloc opositor però Netanyahu és el més votat",
-      "excerpt": "Els partits àrabs sorprenent aconseguint un resultat històric però el bloc opositor no els vol tenir en compte per formar una aliança contra Netanyahu",
+      "title": "Els sondatges a Israel donen una lleugera majoria al bloc opositor, però Netanyahu és el més votat",
+      "excerpt": "Els partits àrabs sorprenen amb un resultat històric, però el bloc opositor no els vol tenir en compte per formar una aliança contra Netanyahu",
       "url": "https://www.vilaweb.cat/noticies/bloc-majoria-parlament-disrael-segons-les-enquestes/",
       "published": "2026-10-27T21:07:47+01:00",
       "category": "Llevant",
@@ -377,7 +482,7 @@
     {
       "source": "ARA",
       "title": "Resultat molt ajustat entre Netanyahu i el bloc opositor, segons els primers sondejos a Israel",
-      "excerpt": "Israel afronta una nova etapa d’incertesa política després d’unes eleccions en què el Likud, el partit del primer ministre Benjamin Netanyahu, ha obtingut el nombre més alt de vots, segons l’enquesta a peu d’urna de Channel 12. Tot i això, els resultats no garanteixen a cap dels dos grans blocs una majoria suficient per formar govern. La suma dels partits jueus contraris a Netanyahu arribaria als 52 escons, davant dels 50 de les formacions que li donen suport, lluny dels 61 necessaris per assolir la…",
+      "excerpt": "Israel s’encamina cap a una nova etapa d’incertesa política després d’unes eleccions en què el Likud, el partit del primer ministre Benjamin Netanyahu, se situaria com la força més votada, segons les primeres enquestes a peu d’urna de les cadenes Channel 11, 12 i 13. Els sondejos preliminars atribueixen al Likud entre 24 i 25 escons, mentre que Yashar, la formació liderada per Gadi Eisenkot, un dels principals rivals de Netanyahu, n’obtindria entre 21 i 23.",
       "url": "https://www.ara.cat/internacional/proxim-orient/israel-registra-participacio-record-eleccions-decisives-futur-netanyahu_1_5892377.html",
       "published": "2026-10-27T20:44:07+01:00",
       "category": "Actualitat",
@@ -636,8 +741,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "L'excandidat Flávio Bolsonaro ha fugit del Brasil i està de camí als Estats Units",
-      "excerpt": "Ho ha confirmat una font oficial dels Estats Units i un diputat del seu partit, que diu que ha marxat a \"l'exili\"",
+      "title": "Flávio Bolsonaro fuig del Brasil cap als Estats Units, que confirmen que l'acolliran",
+      "excerpt": "El Tribunal Suprem l'investiga per blanqueig de capitals i li havia reclamat els passaports, que el senador no ha entregat",
       "url": "https://www.3cat.cat/3catinfo/investiguen-si-flavio-bolsonaro-ha-fugit-del-brasil-despres-de-no-haver-entregat-el-passaport/noticia/3436444/",
       "published": "2026-10-27T18:16:05+01:00",
       "category": "Actualitat",
@@ -762,7 +867,7 @@
     {
       "source": "ARA",
       "title": "Els Mossos demanen ajuda al Centre d'Intel·ligència contra el Terrorisme per tancar els grups que inciten als aldarulls",
-      "excerpt": "Com frenar l'efecte dòmino de canals de Telegram i comptes a les xarxes socials que fan crides a nous aldarulls de l'estil Blocus, tal com es va veure dissabte a Barcelona, és ara mateix una de les principals preocupacions dels Mossos d'Esquadra. Fer-ho demanant una ordre judicial és un procés que pot ser lent i les plataformes sovint també tenen uns ritmes poc accelerats. Per això, segons ha pogut saber l'ARA, la policia catalana ha demanat ajuda al CITCO, el Centre d'Intel·ligència contra el Terrorisme…",
+      "excerpt": "Com frenar l'efecte dòmino de canals de Telegram i comptes a les xarxes socials que fan crides a nous aldarulls de l'estil Blocus, tal com es va veure dissabte a Barcelona, és ara mateix una de les principals preocupacions dels Mossos d'Esquadra. Fer-ho demanant una ordre judicial és un procés que pot ser lent i les plataformes sovint també tenen uns ritmes poc accelerats. Per això, segons ha pogut saber l'ARA, la policia catalana ha demanat ajuda al Citco, el Centre d'Intel·ligència contra el Terrorisme…",
       "url": "https://www.ara.cat/societat/successos/mossos-demanen-ajuda-centre-d-intel-ligencia-terrorisme-tancar-grups-inciten-als-aldarulls_1_5891795.html",
       "published": "2026-10-27T16:41:00+01:00",
       "category": "Actualitat",
@@ -967,12 +1072,12 @@
       "published": "2026-10-27T14:36:36+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/8/1793110357481.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/5581924/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/enrique-vila-matas-premi-nacional-de-les-lletres-espanyoles/noticia/3436388/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -1012,12 +1117,12 @@
       "published": "2026-10-27T14:05:22+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/f7c558cb-28f9-442d-998e-958a7cd57abe_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/5581924/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/enrique-vila-matas-premi-nacional-de-les-lletres-espanyoles/noticia/3436388/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -1227,7 +1332,12 @@
       "published": "2026-10-27T12:20:14+01:00",
       "category": "Principat",
       "image": null,
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433010/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-comuns-retiren-les-llistes-del-senat-a-girona-lleida-i-tarragona-per-concentrar-el-vot-en-el-psc/noticia/3436330/"
+      }
     },
     {
       "source": "betevé",
@@ -1247,7 +1357,12 @@
       "published": "2026-10-27T12:15:44+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/1/1792770755918.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433010/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-comuns-retiren-les-llistes-del-senat-a-girona-lleida-i-tarragona-per-concentrar-el-vot-en-el-psc/noticia/3436330/"
+      }
     },
     {
       "source": "betevé",
@@ -1631,8 +1746,8 @@
     },
     {
       "source": "ARA",
-      "title": "Flávio Bolsonaro fuig als Estats Units després de ser derrotat per Lula a les urnes",
-      "excerpt": "Dimarts de desconcert al Brasil, el dia que Lula da Silva celebra el seu 81è aniversari . El país s’ha llevat amb un degoteig d’informacions periodístiques procedents de l’Argentina que indicaven que el senador i candidat de l'extrema dreta Flávio Bolsonaro, derrotat diumenge a les urnes en la segona volta de les presidencials, hauria abandonat el territori brasiler en direcció a l’Argentina, on faria escala abans de desplaçar-se als Estats Units, on ja resideix el seu germà, l’exdiputat federal Eduardo. Allà, l’administració republicana el protegiria…",
+      "title": "Flávio Bolsonaro fuig als Estats Units i eludeix l'acció de la justícia en dos casos de corrupció",
+      "excerpt": "Hores després de prometre que faria oposició al president electe del Brasil Luiz Inácio Lula da Silva, el candidat d'extrema dreta Flávio Bolsonaro, derrotat contra tot pronòstic en les eleccions d'aquest diumenge , ha fugit als Estats Units. El secretari d'Estat nord-americà, Marco Rubio, hauria orquestrat tota la logística de la maniobra. La confirmació de la fugida ha arribat aquest dimarts a mitja tarda, hora de Catalunya, a través de l'agència Reuters, que citava fonts oficials de Washington. Flávio Bolsonaro s'ha convertit així, en 48…",
       "url": "https://www.ara.cat/internacional/america/bolsonaro-reconeix-victoria-lula-diu-liderara-l-oposicio_1_5891511.html",
       "published": "2026-10-27T08:29:41+01:00",
       "category": "Actualitat",
