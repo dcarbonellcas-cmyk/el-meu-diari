@@ -2,6 +2,57 @@
   "date": "2026-10-27",
   "items": [
     {
+      "source": "betevé",
+      "title": "Declarar la guerra al temps: així bateguen les cançons de Joia",
+      "excerpt": "Joia declara la guerra al temps amb les guitarres ben amunt i el cor a la intempèrie. El quartet presenta Les hores mortes, el seu primer llarga durada, publicat per BCore: un viatge entre records, muntanyes, monstres interiors i ganes de viure-ho tot intensament. Parlem amb Eloi Sellés, veu i guitarra, i Joan Manel Pérez, […]",
+      "url": "https://beteve.cat/tot-passa/declarar-guerra-temps-aixi-bateguen-cancons-joia/",
+      "published": "2026-10-27T13:09:24+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/totpassa_271026-2026-10-27.webp",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimarts: el dia més càlid de la setmana",
+      "excerpt": "Cel amb boires matinals i un tel de núvols prims",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-termometre-amunt-en-zones-de-muntanya/noticia/3436060/",
+      "published": "2026-10-26T19:14:13+01:00",
+      "updated": "2026-10-27T15:57:56+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/5/1793113033359.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432846/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-termometre-amunt-en-zones-de-muntanya/noticia/3436060/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La participació en les eleccions d’Israel supera el 31% al migdia, la més alta d’ençà del 1973",
+      "excerpt": "Més de 2,3 milions d’israelians ja han votat en uns comicis en què Benjamin Netanyahu es juga la continuïtat al poder davant el bloc opositor encapçalat per Gadi Eisenkot",
+      "url": "https://www.vilaweb.cat/noticies/participacio-eleccions-israel/",
+      "published": "2026-10-27T15:38:43+01:00",
+      "category": "Llevant",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Passatgers drets en autobusos i autocars: què diu la normativa que el govern planteja revisar",
+      "excerpt": "Els Mossos investiguen si l'autobús que es va accidentar a Fogars de Montclús va superar la capacitat màxima autoritzada",
+      "url": "https://www.3cat.cat/3catinfo/passatgers-drets-en-autobusos-i-autocars-que-diu-la-normativa-que-el-govern-planteja-revisar/noticia/3436321/",
+      "published": "2026-10-27T15:00:54+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/6/1793104765367.jpeg",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432857/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/passatgers-drets-en-autobusos-i-autocars-que-diu-la-normativa-que-el-govern-planteja-revisar/noticia/3436321/"
+      }
+    },
+    {
       "source": "VilaWeb",
       "title": "El govern espanyol nomena Pere Joan Pons nou delegat a les Illes",
       "excerpt": "El relleu es produeix arran de la dimissió d’Alfonso Rodríguez",
@@ -73,22 +124,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dimarts: el dia més càlid de la setmana",
-      "excerpt": "Cel amb boires matinals i un tel de núvols prims",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-termometre-amunt-en-zones-de-muntanya/noticia/3436060/",
-      "published": "2026-10-26T19:14:13+01:00",
-      "updated": "2026-10-27T08:19:10+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/8/7/1793085506178.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432846/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-termometre-amunt-en-zones-de-muntanya/noticia/3436060/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "3CatInfo",
       "title": "El govern concedeix a Manuela Carmena el premi Blanquerna per haver \"establert ponts amb Catalunya\"",
       "excerpt": "El jurat també destaca que l'exalcaldessa de Madrid va mantenir una relació \"oberta i constructiva\" amb Barcelona",
@@ -117,6 +152,76 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/3/1789674769238.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Frontex podrà deportar migrants des de fora de la UE",
+      "excerpt": "Brussel·les vol donar més poders a Frontex, l'agència de la Unió Europea encarregada de la gestió de fronteres. L'executiu comunitari proposa reforçar el paper del cos en les deportacions per tal que pugui retornar immigrants al seu país d'origen des de territori extracomunitari. Així, per exemple i segons la reforma prevista, l'agència podria retornar una persona procedent de Mali que es troba al Marroc. Per dur a terme aquestes operacions, però, caldrà que prèviament el país tercer en qüestió hagi firmat un acord específic amb…",
+      "url": "https://www.ara.cat/internacional/europa/frontex-podra-deportar-migrants-des-fora-ue_1_5891848.html",
+      "published": "2026-10-27T15:53:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6dac0431-2b48-45c8-b36f-9e33648193f4_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Indra lidera des de Barcelona el desplegament de les noves estacions del GPS europeu",
+      "excerpt": "Europa continua buscant formes d'aprofundir en la seva sobirania tecnològica, tant a la terra com a l'espai. I ho fa, en bona manera, des de Barcelona: aquest dimarts Indra ha signat dos contractes amb l'Agència Espacial Europea (ESA) per al disseny i desenvolupament de les estacions terrestres per a la nova generació del projecte Galileo, el sistema global de navegació per satèl·lit europeu, equiparable al GPS nord-americà, i al qual ja es connecten 5.000 milions de dispositius.",
+      "url": "https://www.ara.cat/economia/tecnologia/indra-lidera-des-barcelona-desplegament-noves-estacions-gps-europeu_1_5891787.html",
+      "published": "2026-10-27T15:40:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0693edaa-952b-46a5-a228-14cd12784840_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'avís de la UE: l'amenaça climàtica fa perillar les inversions en territoris com València",
+      "excerpt": "Europa s'enfronta a uns pronòstics climàtics incòmodes: amb les polítiques actuals, la temperatura al món s'enfilarà 1,5 °C el 2030, uns 2 °C el 2050 i fins a 3 °C el 2100. Al Vell Continent, on la velocitat de l'escalfament climàtic és encara més alta, les temperatures podrien arribar als 4 o 5 graus més a finals de segle. Davant d'aquest escenari, la Unió Europea avisa: cal passar de la prevenció a l'adaptació. Per això, la Comissió Europea ha presentat aquest dimarts una proposta de…",
+      "url": "https://www.ara.cat/societat/canvi-climatic/l-avis-ue-l-amenaca-climatica-perillar-inversions-territoris-valencia_1_5891749.html",
+      "published": "2026-10-27T15:40:21+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b2889e76-b825-4ac4-8def-74b74bab5a2b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "“La lluita continua”: el sobiranisme cors es retira de les negociacions amb l’estat francès arran del rebuig del senat a l’autonomia",
+      "excerpt": "La dreta francesa rebutja el text acordat entre les parts, fruit de quatre anys de negociacions, i els nacionalistes es reuniran demà per decidir les passes següents",
+      "url": "https://www.vilaweb.cat/noticies/sobiranisme-cors-negociacions-estat-frances-autonomia/",
+      "published": "2026-10-27T15:29:05+01:00",
+      "category": "Còrsega",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Halloween amb nens: Què fer a casa i activitats a Barcelona per als més petits",
+      "excerpt": "Arriba la Castanyada i també el Halloween 2026, que arribat dels Estats Units i en els últims anys, ha anat trobant el seu espai també a casa nostra. Per tant, quan s’acosta el 31 d’octubre ja ens comencem a preparar per a una cosa o l’altra, o totes dues alhora. Aquí tens un recull d’activitats […]",
+      "url": "https://beteve.cat/agenda/halloween-nens-barcelona/",
+      "published": "2026-10-27T15:28:23+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/10/halloween-nens-071025.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Junts s'obre a investir un president del PSOE, sempre que no sigui Pedro Sánchez",
+      "excerpt": "Miriam Nogueras estaria disposada a negociar una investidura que impedeixi un govern de dretes si es posen sobre la taula mesures que beneficiïn Catalunya, com el concert econòmic",
+      "url": "https://www.3cat.cat/3catinfo/junts-sobre-a-investir-un-president-del-psoe-sempre-que-no-sigui-pedro-sanchez/noticia/3436368/",
+      "published": "2026-10-27T15:10:14+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/9/1761646250095.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Batman se'n va de Gotham per combatre a Londres l'augment del cost de la vida",
+      "excerpt": "Un petit misteri recorre Londres des de fa un mes. A poc a poc s'ha anat escampant com una taca d'oli. I al segle XXI, això vol dir que s'ha viralitzat. En aquest cas a través d'un compte d'Instagram ( Officiallondonsbatman ) que té, ara per ara, 126.000 seguidors, amb un dels seus vuit posts que ha estat visualitzat per almenys 1,8 milions de persones.",
+      "url": "https://www.ara.cat/internacional/europa/batman-n-gotham-combatre-londres-l-augment-cost-vida_130_5891783.html",
+      "published": "2026-10-27T15:07:43+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/560890bd-7176-4968-8588-b702da2086cb_16-9-aspect-ratio_default_1061265.png",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -155,7 +260,7 @@
       "url": "https://www.3cat.cat/3catinfo/enrique-vila-matas-premi-nacional-de-les-lletres-espanyoles/noticia/3436388/",
       "published": "2026-10-27T14:36:36+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/5/7/1773852818875.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/8/1793110357481.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -241,7 +346,7 @@
     {
       "source": "ARA",
       "title": "Mor Robert Llimós, l'artista al marge d'etiquetes que va retratar els alienígenes",
-      "excerpt": "El pintor i escultor Robert Llimós ha mort aquest dimarts als 83 anys, segons han confirmat fons de la família a l'ARA. Fill del pintor Camil Llimós, Robert Llimós va estudiar a l’Escola Massana i a l’Escola Superior de Belles Arts de Sant Jordi, a Barcelona. Durant els anys seixanta es va iniciar en el moviment de la nova figuració, juntament amb artistes reconeguts com Eduard Arranz-Bravo, Rafael Bartolozzi i Gerard Sala. Més endavant, entre el 1969 i el 1973, va experimentar amb l’art conceptual,…",
+      "excerpt": "El pintor i escultor Robert Llimós va morir dilluns als 83 anys, segons han confirmat fons de la família a l'ARA. Fill del pintor Camil Llimós, Robert Llimós va estudiar a l’Escola Massana i a l’Escola Superior de Belles Arts de Sant Jordi, a Barcelona. Durant els anys seixanta es va iniciar en el moviment de la nova figuració, juntament amb artistes reconeguts com Eduard Arranz-Bravo, Rafael Bartolozzi i Gerard Sala. Més endavant, entre el 1969 i el 1973, va experimentar amb l’art conceptual, les…",
       "url": "https://www.ara.cat/cultura/art/mor-artista-robert-llimos-alienigenes_1_5891721.html",
       "published": "2026-10-27T13:51:28+01:00",
       "category": "Actualitat",
