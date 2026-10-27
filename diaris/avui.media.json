@@ -9,13 +9,133 @@
       "published": "2026-10-26T19:14:13+01:00",
       "priority": "2 · Important",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432799/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6432846/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-termometre-amunt-en-zones-de-muntanya/noticia/3436060/"
       }
     },
     {
       "page": 3,
+      "title": "Comença la votació a Israel en unes eleccions clau per a Netanyahu",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/proxim-orient/netanyahu-juga-pressionat-pels-errors-7-gestio-guerres_1_5891212.html",
+      "published": "2026-10-27T07:00:24+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 4,
+      "title": "El primer contracte programa de Rodalies en 15 anys: què és i què hauria d'incloure",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/el-primer-contracte-programa-de-rodalies-en-15-anys-que-es-i-que-hauria-dincloure/noticia/3436109/",
+      "published": "2026-10-27T06:48:17+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 5,
+      "title": "Eleccions a Israel: una pugna ajustada amb l'oposició pot deixar Netanyahu fora del govern",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/eleccions-a-israel-una-pugna-ajustada-amb-loposicio-pot-deixar-netanyahu-fora-del-govern/noticia/3435598/",
+      "published": "2026-10-27T06:43:46+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 6,
+      "title": "Adif ha de portar cable de coure d'altres punts de l'Estat per l'efecte dels robatoris a Catalunya",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/adif-ha-de-portar-cable-de-coure-daltres-punts-de-lestat-per-lefecte-dels-robatoris-a-catalunya/noticia/3435801/",
+      "published": "2026-10-27T07:39:09+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 7,
+      "title": "El sindicat SIP-Fepol, sobre els aldarulls: “Hem de donar una resposta molt més contundent”",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/sindicat-sip-fepol-resposta-mes-contundent-aldarulls-barcelona/",
+      "published": "2026-10-27T07:07:49+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 8,
+      "title": "Augmenten les complicacions per operacions genitals masculines en centres d'estètica no especialitzats",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/augmenten-les-complicacions-per-operacions-genitals-masculines-en-centres-destetica-no-especialitzats/noticia/3435738/",
+      "published": "2026-10-27T07:01:24+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 9,
+      "title": "Els mapes de les dretes i les esquerres per al 29-N",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/mapes-dretes-esquerres-29-n_1_5891218.html",
+      "published": "2026-10-27T07:00:25+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 10,
+      "title": "L'alcaldable d'Aliança Catalana a Vilassar de Mar impugna la seva destitució de l'ANC",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/l-alcaldable-d-alianca-catalana-vilassar-mar-impugna-seva-destitucio-l-anc_1_5886161.html",
+      "published": "2026-10-27T07:00:25+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 11,
+      "title": "Miki Esparbé: \"Encara costa dir obertament que vas al psicòleg\"",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/cultura/teatre/miki-esparbe-encara-costa-dir-obertament-vas-psicoleg_1_5883564.html",
+      "published": "2026-10-27T07:00:24+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 12,
+      "title": "De TikTok a saquejar una ciutat: el \"mètode\" Blocus que posa en alerta Europa",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/tiktok-saquejar-ciutat-metode-blocus-posa-alerta-europa_1_5890812.html",
+      "published": "2026-10-27T07:00:24+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 13,
+      "title": "L'aval de Trump és bo o dolent per a Netanyahu?",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/proxim-orient/l-aval-trump-bo-dolent-netanyahu_1_5891126.html",
+      "published": "2026-10-27T07:00:23+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 14,
+      "title": "Per què els joves duen gomets a la cara?",
+      "source": "ARA",
+      "articleUrl": "https://diumenge.ara.cat/diumenge/joves-duen-gomets-cara_129_5890712.html",
+      "published": "2026-10-27T07:00:21+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 15,
+      "title": "El banquer que va posar ordre a les finances vaticanes",
+      "source": "ARA",
+      "articleUrl": "https://empreses.ara.cat/directius/banquer-posar-ordre-finances-vaticanes_1_5890226.html",
+      "published": "2026-10-27T07:00:20+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 16,
+      "title": "Suquet de verat, la recepta de l'Ada Parellada",
+      "source": "ARA",
+      "articleUrl": "https://mengem.ara.cat/receptes/suquet-verat-recepta-l-ada-parellada_1_5888117.html",
+      "published": "2026-10-27T07:00:20+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 17,
+      "title": "Reconeixen el dret d'indemnització a una dona que es va quedar embarassada per una vasectomia fallida",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/reconeixen-el-dret-dindemnitzacio-a-una-dona-que-es-va-quedar-embarassada-per-una-vasectomia-fallida/noticia/3436222/",
+      "published": "2026-10-27T06:55:41+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 18,
       "title": "Adif té dificultats per trobar coure i reposar tot el cable robat",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/mobilitat/adif-dificultats-trobar-coure-reposar-cable-robat_1_5890989.html",
@@ -23,7 +143,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 4,
+      "page": 19,
       "title": "Nonagenaris",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/via-15/nonagenaris/",
@@ -31,15 +151,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 5,
-      "title": "Baldoví sobre Montero i Rufian: “vull una campanya valenciana, amb polítics valencians”",
+      "page": 20,
+      "title": "Baldoví sobre Montero i Rufián: “Vull una campanya valenciana, amb polítics valencians”",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/baldovi-sobre-montero-i-rufian-vull-una-campanya-valenciana-amb-politics-valencians/",
       "published": "2026-10-27T00:43:36+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 6,
+      "page": 21,
       "title": "EH Bildu refusa els incidents després de la manifestació contra la visita de Vito Quiles a Bilbao",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/eh-bildu-refusa-els-incidents-despres-de-la-manifestacio-contra-la-visita-de-vito-quiles-a-bilbao/",
@@ -47,7 +167,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 7,
+      "page": 22,
       "title": "Greus aldarulls a Bilbao, amb contenidors i vehicles cremats i botigues saquejades",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/greus-aldarulls-a-bilbao-amb-contenidors-i-vehicles-cremats-i-botigues-saquejades/",
