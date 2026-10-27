@@ -22,6 +22,46 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "betevé",
+      "title": "Metges de Catalunya comença una vaga indefinida: una manifestació recorrerà l’avinguda Diagonal",
+      "excerpt": "El sindicat Metges de Catalunya comença aquest dimecres una vaga indefinida. La jornada de protesta començarà amb una manifestació dels facultatius a l’avinguda Diagonal. La marxa començarà a les 9 del matí a la cruïlla amb l’avinguda del Doctor Marañón i finalitzarà a les portes del Departament de Salut, a la travessera de les Corts. […]",
+      "url": "https://beteve.cat/societat/metges-catalunya-comenca-vaga-indefinida-manifestacio-diagonal/",
+      "published": "2026-10-27T21:34:25+01:00",
+      "category": "salut",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/01/vaga-metges-130126.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Un tribunal iranià condemna el cineasta Jafar Panahi a cinc anys de presó i li confisca els béns",
+      "excerpt": "La sentència, dictada en absència del director, també li prohibeix de sortir del país i de publicar a les xarxes socials durant dos anys",
+      "url": "https://www.vilaweb.cat/noticies/un-tribunal-irania-condemna-el-cineasta-jafar-panahi-a-cinc-anys-de-preso-i-li-confisca-els-bens/",
+      "published": "2026-10-27T21:32:20+01:00",
+      "category": "Llevant",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Telegram bloqueja un segon grup de Blocus que incitava als saquejos el pròxim dissabte a Barcelona",
+      "excerpt": "(ACN) Telegram ha bloquejat un segon grup de Blocus que incitava als saquejos el pròxim dissabte a Barcelona. Abans, la plataforma de missatgeria ja havia bloquejat un grup amb el títol BLOCUS-BCN, però en crear-s’hi un altre amb el nom BLOCUS-BCN2, aquest també ha estat bloquejat. Per controlar aquestes crides, els Mossos d’Esquadra han demanat […]",
+      "url": "https://beteve.cat/societat/telegram-bloqueja-segon-grup-blocus-saquejos-dissabte-barcelona/",
+      "published": "2026-10-27T21:13:05+01:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/destrosses-botiges-aldarulls-2-2026-10-25.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Veïns desallotjats per l'esvoranc de l'L9 no volen tornar: \"No em transmet seguretat\"",
+      "excerpt": "Aquesta setmana els habitants del bloc del carrer de Teodora Lamadrid ja poden tornar a casa, però la majoria han decidit no fer-ho",
+      "url": "https://www.3cat.cat/3catinfo/veins-desallotjats-per-lesvoranc-de-ll9-no-volen-tornar-no-em-transmet-seguretat/noticia/3436441/",
+      "published": "2026-10-27T21:10:10+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1793119520723.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "L'\"exèrcit digital\" de Lula, clau en la remuntada èpica per guanyar les eleccions del Brasil",
       "excerpt": "L'esquerra ha estat capaç d'utilitzar les xarxes socials per mobilitzar el seu electorat",
@@ -29,12 +69,12 @@
       "published": "2026-10-27T20:37:59+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/2/1793106780428.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432943/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/lexercit-digital-de-lula-clau-en-la-remuntada-epica-per-guanyar-les-eleccions-del-brasil/noticia/3436346/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -64,16 +104,6 @@
       "published": "2026-10-27T19:44:38+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/5/1771237468151.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo",
-      "title": "El rècord de participació en les eleccions d'Israel inquieta Netanyahu",
-      "excerpt": "A les 8 del vespre havia votat més del 74% del cens, una xifra que no s'havia vist des del 1988, mentre el primer ministre ha reclamat als seus partidaris que \"surtin a votar immediatament\"",
-      "url": "https://www.3cat.cat/3catinfo/el-record-de-participacio-en-les-eleccions-disrael-inquieta-netanyahu/noticia/3436273/",
-      "published": "2026-10-27T19:33:03+01:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/6/1793118082667.jpg",
       "priority": "2 · Important"
     },
     {
@@ -271,12 +301,87 @@
     },
     {
       "source": "betevé",
-      "title": "Calamocha-Europa, de la Copa del Rei, minut a minut",
-      "excerpt": "L’Europa debuta aquest dimarts, a les 19 h, a la Copa del Rei d’aquesta temporada, 2026-27, al camp del Calamocha. El partit el podeu seguir en directe a través de la TDT d’aquesta casa, betevé, i també en aquesta pàgina web, en què farem un minut a minut del partit per mantenir-vos informats de tot […]",
+      "title": "Jordi Amat: “Si hem perdut la confiança que puguem viure a la ciutat, tenim un problema democràtic”",
+      "excerpt": "Jordi Amat ha estat entrevistat al bàsics, de betevé. Concretament a la secció ‘El mirador Barcelona’, en què diferents personalitats vinculades a la ciutat en parlen. Escriptor i autor del llibre Les batalles de Barcelona, premi Bones Lletres d’assaig humanístic, Amat ha repassat les bondats i defectes de mig segle de democràcia a la ciutat […]",
+      "url": "https://beteve.cat/cultura/amat-habitatge-problema-democratic/",
+      "published": "2026-10-27T21:39:17+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/jordi-amat-mirador-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Espanyol i Manolo González toquen fons a la Copa del Rei davant el Sestao River",
+      "excerpt": "El Sestao River podria haver posat l’últim clau al taüt futbolístic de Manolo González amb l’Espanyol. Els periquitos han perdut per 4 a 3 contra un rival de Segona RFEF i queden eliminats de la Copa del Rei a la primera ronda. Un cop duríssim per a l’equip, però sobretot per a un tècnic que, […]",
+      "url": "https://beteve.cat/esports/espanyol-manolo-gonzalez-toquen-fons-sestao-copa-rei/",
+      "published": "2026-10-27T21:33:00+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/sestao-river-espanyol-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'Espanyol continua acumulant ridículs a la Copa",
+      "excerpt": "Per tercera temporada consecutiva l'Espanyol va caure a la Copa del Rei al camp d'un equip de la Segona Federació. Barbastre, Atlètic Balears i enguany Sestao River (4-3), a l'últim minut de la pròrroga, han estat els botxins de Manolo González, a qui tothom donava per sentenciat després de la derrota de dissabte a Santander i que dimarts no va aprofitar la vida extra que li van regalar. La situació ja és insostenible i tot fa pensar que serà destituït més d'hora que tard.",
+      "url": "https://www.ara.cat/esports/rcd-espanyol/l-espanyol-continua-acumulant-ridiculs-copa_1_5892290.html",
+      "published": "2026-10-27T21:31:18+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e68e8813-f853-433e-8797-37b7b198260e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Mor el pintor i escultor Robert Llimós als 83 anys",
+      "excerpt": "A principis de novembre, l'artista havia d'inaugurar una exposició a la Fundació Vila Casas amb obres dels anys 60 i inicis dels 70, una dècada de producció àmplia en el marc de l'art conceptual català",
+      "url": "https://www.3cat.cat/3catinfo/mor-el-pintor-i-escultor-robert-llimos-als-83-anys/noticia/3436472/",
+      "published": "2026-10-27T21:16:12+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/6/1793126368863.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432947/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/mor-el-pintor-i-escultor-robert-llimos-als-83-anys/noticia/3436472/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "El pols que Vox està guanyant a Catalunya (i que genera malestar al PP català)",
+      "excerpt": "Malgrat el seu pacte de no-agressió , en aquestes eleccions espanyoles s'està lliurant una particular batalla entre el PP i Vox per marcar territori dins del bloc conservador. L'extrema dreta és qui puja a les enquestes, tot i que encara es manté lluny dels populars. A Catalunya, però, és Vox qui està guanyant la batalla, almenys la simbòlica. En l'acord de dretes al Senat s'ha acordat la col·laboració en 23 províncies , que implica que Vox es retira de sis circumscripcions, el PP de tres…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/pols-vox-guanyant-catalunya-genera-malestar-pp-catala_1_5892016.html",
+      "published": "2026-10-27T21:13:07+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/08ad8d0a-4450-4764-a27b-5733173b4692_16-9-aspect-ratio_default_1061267.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els sondatges a Israel donen una lleugera majoria al bloc opositor però Netanyahu és el més votat",
+      "excerpt": "Els partits àrabs sorprenent aconseguint un resultat històric però el bloc opositor no els vol tenir en compte per formar una aliança contra Netanyahu",
+      "url": "https://www.vilaweb.cat/noticies/bloc-majoria-parlament-disrael-segons-les-enquestes/",
+      "published": "2026-10-27T21:07:47+01:00",
+      "category": "Llevant",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Europa es guanya el premi de viure una nit de Copa del Rei al Nou Sardenya",
+      "excerpt": "L‘Europa s’ha classificat per a la segona eliminatòria de la Copa del Rei i, per tant, s’ha guanyat el premi de viure una nit de Copa al Nou Sardenya. Els escapulats s’han imposat al camp del Calamocha per 0 a 3. Youssef i Khalid, que n’ha marcat dos, han estat els golejadors dels graciencs. L’Europa […]",
       "url": "https://beteve.cat/esports/calamocha-europa-copa-rei-directe-beteve/",
       "published": "2026-10-27T20:46:55+01:00",
       "category": "esports",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/picto-europa-rayo-victoria-2026-09-27.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/calamocha-europa-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Resultat molt ajustat entre Netanyahu i el bloc opositor, segons els primers sondejos a Israel",
+      "excerpt": "Israel afronta una nova etapa d’incertesa política després d’unes eleccions en què el Likud, el partit del primer ministre Benjamin Netanyahu, ha obtingut el nombre més alt de vots, segons l’enquesta a peu d’urna de Channel 12. Tot i això, els resultats no garanteixen a cap dels dos grans blocs una majoria suficient per formar govern. La suma dels partits jueus contraris a Netanyahu arribaria als 52 escons, davant dels 50 de les formacions que li donen suport, lluny dels 61 necessaris per assolir la…",
+      "url": "https://www.ara.cat/internacional/proxim-orient/israel-registra-participacio-record-eleccions-decisives-futur-netanyahu_1_5892377.html",
+      "published": "2026-10-27T20:44:07+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/af141556-d60a-4cc5-8faa-cf49b94125df_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -417,6 +522,16 @@
       "published": "2026-10-27T19:35:14+01:00",
       "category": "esports",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/08/julian-alvarez-at-madrid-2026-08-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Netanyahu guanyaria però l'oposició el superaria en escons, segons els sondejos a Israel",
+      "excerpt": "Els dos blocs tindrien 50 i 53 diputats respectivament, lluny dels 61 de la majoria absoluta, i els partits arabo-israelians tindrien la clau de la governabilitat",
+      "url": "https://www.3cat.cat/3catinfo/el-record-de-participacio-en-les-eleccions-disrael-inquieta-netanyahu/noticia/3436273/",
+      "published": "2026-10-27T19:33:03+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/2/1793090985224.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -607,7 +722,12 @@
       "published": "2026-10-27T16:55:35+01:00",
       "category": "cultura",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/vila-matas-2026-10-27.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/5581924/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/enrique-vila-matas-premi-nacional-de-les-lletres-espanyoles/noticia/3436388/"
+      }
     },
     {
       "source": "ARA",
@@ -847,11 +967,16 @@
       "published": "2026-10-27T14:36:36+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/8/1793110357481.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/5581924/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/enrique-vila-matas-premi-nacional-de-les-lletres-espanyoles/noticia/3436388/"
+      }
     },
     {
       "source": "3CatInfo",
-      "title": "Mossos recorre al Centre d'Intel·ligència contra el Terrorisme per tancar grups que inciten als aldarulls",
+      "title": "Els Mossos recorren al Centre d'Intel·ligència contra el Terrorisme per tancar grups que inciten als aldarulls",
       "excerpt": "La Generalitat endureix el to i ha anunciat que es personarà com a acusació particular contra els autors dels aldarulls de dissabte a Barcelona",
       "url": "https://www.3cat.cat/3catinfo/com-perseguir-les-convocatories-violentes-a-xarxes-la-dificultat-darribar-a-lorigen/noticia/3436319/",
       "published": "2026-10-27T14:29:23+01:00",
@@ -887,7 +1012,12 @@
       "published": "2026-10-27T14:05:22+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/f7c558cb-28f9-442d-998e-958a7cd57abe_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/5581924/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/enrique-vila-matas-premi-nacional-de-les-lletres-espanyoles/noticia/3436388/"
+      }
     },
     {
       "source": "ARA",
