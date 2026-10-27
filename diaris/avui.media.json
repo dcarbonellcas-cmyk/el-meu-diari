@@ -3,6 +3,27 @@
   "pages": [
     {
       "page": 2,
+      "title": "La previsió de dimarts: el dia més càlid de la setmana",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-termometre-amunt-en-zones-de-muntanya/noticia/3436060/",
+      "published": "2026-10-26T19:14:13+01:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432799/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-termometre-amunt-en-zones-de-muntanya/noticia/3436060/"
+      }
+    },
+    {
+      "page": 3,
+      "title": "Adif té dificultats per trobar coure i reposar tot el cable robat",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/mobilitat/adif-dificultats-trobar-coure-reposar-cable-robat_1_5890989.html",
+      "published": "2026-10-27T06:00:02+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 4,
       "title": "Nonagenaris",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/via-15/nonagenaris/",
@@ -10,7 +31,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 3,
+      "page": 5,
       "title": "Baldoví sobre Montero i Rufian: “vull una campanya valenciana, amb polítics valencians”",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/baldovi-sobre-montero-i-rufian-vull-una-campanya-valenciana-amb-politics-valencians/",
@@ -18,7 +39,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 4,
+      "page": 6,
       "title": "EH Bildu refusa els incidents després de la manifestació contra la visita de Vito Quiles a Bilbao",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/eh-bildu-refusa-els-incidents-despres-de-la-manifestacio-contra-la-visita-de-vito-quiles-a-bilbao/",
@@ -26,7 +47,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 5,
+      "page": 7,
       "title": "Greus aldarulls a Bilbao, amb contenidors i vehicles cremats i botigues saquejades",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/greus-aldarulls-a-bilbao-amb-contenidors-i-vehicles-cremats-i-botigues-saquejades/",
