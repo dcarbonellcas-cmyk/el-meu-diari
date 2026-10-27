@@ -12,6 +12,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "Vox expulsa Badenas i Herrero i deixa el govern de Catalá en minoria a l’Ajuntament de València",
+      "excerpt": "Els dos regidors passaran a ser no adscrits i el govern municipal del PP i Vox es quedarà amb quinze representants, dos menys dels necessaris per a tenir majoria absoluta",
+      "url": "https://www.vilaweb.cat/noticies/vox-expulsa-badenas-herrero-catala-ajuntament-de-valencia/",
+      "published": "2026-10-27T17:09:11+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dimarts: el dia més càlid de la setmana",
       "excerpt": "Cel amb boires matinals i un tel de núvols prims",
@@ -29,8 +39,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La participació en les eleccions d’Israel supera el 31% al migdia, la més alta d’ençà del 1973",
-      "excerpt": "Més de 2,3 milions d’israelians ja han votat en uns comicis en què Benjamin Netanyahu es juga la continuïtat al poder davant el bloc opositor encapçalat per Gadi Eisenkot",
+      "title": "La participació en les eleccions d’Israel arriba al 55,7% a les quatre, un màxim històric",
+      "excerpt": "Més de quatre milions d'israelians ja han votat en uns comicis en què Benjamin Netanyahu es juga la continuïtat al poder contra el bloc opositor encapçalat per Gadi Eisenkot",
       "url": "https://www.vilaweb.cat/noticies/participacio-eleccions-israel/",
       "published": "2026-10-27T15:38:43+01:00",
       "category": "Llevant",
@@ -121,12 +131,12 @@
       "published": "2026-10-27T09:25:43+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/1/1714981083516.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432939/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/latur-repunta-a-catalunya-en-superar-el-8-a-lestiu-mentre-la-creacio-docupacio-sestanca-segons-lepa/noticia/3436281/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo",
@@ -157,6 +167,56 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/3/1789674769238.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "S’ha mort el pintor Robert Llimós a vuitanta-tres anys",
+      "excerpt": "L’autor treballava en una exposició amb la Fundació Vila Casas que ara esdevindrà un homenatge",
+      "url": "https://www.vilaweb.cat/noticies/sha-mort-el-pintor-robert-llimos-a-vuitanta-tres-anys/",
+      "published": "2026-10-27T17:34:53+01:00",
+      "category": "Art i museus",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Comencen a arribar canvis després del pic càlid",
+      "excerpt": "L’estiuet ha tocat sostre aquest dimarts, amb un ambient clarament massa càlid per a l’època. S’han registrat moltes màximes de 21 a 26 ºC, però localment s’han superat aquestes xifres al Priorat i a la vall de l’Ebre. Ha estat un migdia de màniga curta més propi del setembre que no pas de finals d’octubre, amb fins a cinc graus per sobre de la mitjana. Però tot plegat serà història els pròxims dies, ja que a partir d’aquest dimecres les temperatures aniran baixant i normalitzant-se.…",
+      "url": "https://www.ara.cat/previsions/comencen-arribar-canvis-despres-pic-calid_1_5891983.html",
+      "published": "2026-10-27T17:30:59+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4d090c8b-475d-433c-8ab5-0d009e13062f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona guanyarà 44 places de jutge en els pròxims dos anys, prop d’un 25 % més dels actuals",
+      "excerpt": "Barcelona guanyarà 44 places de jutge en els pròxims dos anys. D’entrada, en sumarà 17 a partir de l’1 de juliol del 2027, les quals es repartiran entre els jutjats penals, civils i socials. Les places s’han aprovat recentment en un decret llei que ha permès crear-ne 500 a tot l’estat l’any vinent. D’altra banda, […]",
+      "url": "https://beteve.cat/societat/barcelona-sumara-44-places-jutge-dos-anys/",
+      "published": "2026-10-27T17:03:30+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/02/facana-ciutat-justicia-060225-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Enrique Vila-Matas, Premi Nacional de les Lletres Espanyoles 2026",
+      "excerpt": "(ACN/Redacció) El Ministeri de Cultura ha concedit aquest dimarts el Premi Nacional de les Lletres Espanyoles 2026 a l’escriptor Enrique Vila-Matas (Barcelona, 1948). El jurat ha escollit l’autor “per la seva influència decisiva en la narrativa contemporània, la seva aportació a la tradició borgiana en llengua espanyola, així com per una originalitat formal i una […]",
+      "url": "https://beteve.cat/cultura/enrique-vila-matas-premi-nacional-2026/",
+      "published": "2026-10-27T16:55:35+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/vila-matas-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Pintant les pilotes d’or",
+      "excerpt": "“Èxtasi del futbol espanyol”, diu Marca a la seva portada, a compte de la gala de la Pilota d’or. “Guanya Kane, arrasa Espanya”, secunda l’ As , també des de Madrid. A les dues primeres pàgines la paraula Barça apareix tan sols a l’últim subtítol, quan explica que les blaugranes van ser escollides millor equip femení. A Catalunya, esclar, el plantejament tenia un marc mental ben diferent: “El Barça arrasa”, escrivia Mundo Deportivo recordant els guardons a Alexia Putellas, Lamine Yamal, Vicky López, Cata Coll,…",
+      "url": "https://www.ara.cat/media/pintant-pilotes-d-or_129_5892048.html",
+      "published": "2026-10-27T16:55:05+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ebf1f531-ebc6-42da-8f85-b099fb2ab7e2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -221,7 +281,7 @@
     {
       "source": "ARA",
       "title": "Voteu Vox per l'estat català",
-      "excerpt": "La líder del partit feixista Aliança Catalana, Sílvia Orriols, va animar els seus votants fa uns dies, en una entrevista a Ràdio 4, a votar Vox a les eleccions espanyoles. Preguntada per si veia contradiccions entre votar Vox a les eleccions espanyoles i Aliança Catalana a les eleccions al Parlament de Catalunya, va respondre: “Crec que no. Ells [els electors], en el marc de les eleccions espanyoles, fan confiança a qui creguin convenient, i en el marc del Principat de Catalunya ens fan confiança a…",
+      "excerpt": "La líder del partit feixista Aliança Catalana, Sílvia Orriols, va animar els seus votants fa uns dies, en una entrevista a Ràdio 4, a votar Vox a les eleccions espanyoles. Quan li van preguntar si veia contradiccions entre votar Vox a les eleccions espanyoles i Aliança Catalana a les eleccions al Parlament de Catalunya, va respondre: “Crec que no. Ells [els electors], en el marc de les eleccions espanyoles, fan confiança a qui creguin convenient, i en el marc del Principat de Catalunya ens fan…",
       "url": "https://www.ara.cat/opinio/voteu-vox-catala_129_5892013.html",
       "published": "2026-10-27T16:31:00+01:00",
       "category": "Actualitat",
@@ -311,7 +371,7 @@
     {
       "source": "VilaWeb",
       "title": "“La lluita continua”: el sobiranisme cors es retira de les negociacions amb l’estat francès arran del rebuig del senat a l’autonomia",
-      "excerpt": "La dreta francesa rebutja el text acordat entre les parts, fruit de quatre anys de negociacions, i els nacionalistes es reuniran demà per decidir les passes següents",
+      "excerpt": "La dreta francesa rebutja el text acordat entre les parts, fruit de quatre anys de negociacions, i els sobiranistes es reuniran demà per decidir els passos següents",
       "url": "https://www.vilaweb.cat/noticies/sobiranisme-cors-negociacions-estat-frances-autonomia/",
       "published": "2026-10-27T15:29:05+01:00",
       "category": "Còrsega",
@@ -380,7 +440,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Enrique Vila-Matas, Premi Nacional de les Lletres Espanyoles",
+      "title": "Enrique Vila-Matas, Premi Nacional de les lletres espanyoles",
       "excerpt": "El Ministeri de Cultura ha concedit el guardó a l'escriptor català per la seva influència decisiva en la narrativa contemporània",
       "url": "https://www.3cat.cat/3catinfo/enrique-vila-matas-premi-nacional-de-les-lletres-espanyoles/noticia/3436388/",
       "published": "2026-10-27T14:36:36+01:00",
@@ -445,7 +505,7 @@
       "url": "https://llegim.ara.cat/actualitat/historia-llibre-poemes-guanya-tots-premis_1_5891786.html",
       "published": "2026-10-27T14:00:22+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/03aa7fcd-5f4b-4912-9345-2b36ee9280af_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/03aa7fcd-5f4b-4912-9345-2b36ee9280af_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1206,12 +1266,12 @@
       "published": "2026-10-27T06:48:17+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/3/1793013923533.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432935/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/el-primer-contracte-programa-de-rodalies-en-15-anys-que-es-i-que-hauria-dincloure/noticia/3436109/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
