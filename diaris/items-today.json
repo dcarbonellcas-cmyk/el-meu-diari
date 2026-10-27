@@ -21,7 +21,7 @@
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/9/5/1793113033359.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432846/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6432950/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-termometre-amunt-en-zones-de-muntanya/noticia/3436060/"
       },
@@ -45,12 +45,12 @@
       "published": "2026-10-27T15:00:54+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/6/1793104765367.jpeg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432857/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/passatgers-drets-en-autobusos-i-autocars-que-diu-la-normativa-que-el-govern-planteja-revisar/noticia/3436321/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -121,7 +121,12 @@
       "published": "2026-10-27T09:25:43+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/1/1714981083516.jpg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432939/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/latur-repunta-a-catalunya-en-superar-el-8-a-lestiu-mentre-la-creacio-docupacio-sestanca-segons-lepa/noticia/3436281/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -154,6 +159,116 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Mariana Enriquez: “La por tracta temes molt complexos”",
+      "excerpt": "L’escriptora Mariana Enriquez (l’Argentina, 1973) fa parada a Barcelona en la seva gira mundial de presentació del llibre Conversación con la oscuridad (Páginas de Espuma). Considerada una de les novel·listes més influents en llengua castellana, és una de les principals veus del terror contemporani, amb un públic que no para de créixer i llibres traduïts […]",
+      "url": "https://beteve.cat/cultura/mariana-enriquez-conversacion-oscuridad/",
+      "published": "2026-10-27T16:53:15+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/mariana-enriquez-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Les tres capitals europees del Nadal preparen unes festes amb llum, mercats i racons de conte",
+      "excerpt": "Aquest 2026 Barcelona no només exerceix de Capital Europea del Comerç de Proximitat, sinó que també ostenta la Capitalitat Europea del Nadal. Aquest reconeixement li va ser concedit ara fa un any per l’associació European Capital of Christmas. El jurat internacional va valorar un model que combina elements tradicionals i esperit creatiu i innovador i, […]",
+      "url": "https://beteve.cat/economia/tres-capitals-europees-nadal-preparen-llums-mercats-conte/",
+      "published": "2026-10-27T16:44:02+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/wels-capital-nadal-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els Mossos demanen ajuda al Centre d'Intel·ligència contra el Terrorisme per tancar els grups que inciten als aldarulls",
+      "excerpt": "Com frenar l'efecte dòmino de canals de Telegram i comptes a les xarxes socials que fan crides a nous aldarulls de l'estil Blocus, tal com es va veure dissabte a Barcelona, és ara mateix una de les principals preocupacions dels Mossos d'Esquadra. Fer-ho demanant una ordre judicial és un procés que pot ser lent i les companyies sovint també tenen uns ritmes poc accelerats. Per això, segons ha pogut saber l'ARA, la policia catalana ha demanat ajuda al CITCO, el Centre d'Intel·ligència contra el Terrorisme…",
+      "url": "https://www.ara.cat/societat/successos/mossos-demanen-ajuda-centre-d-intel-ligencia-terrorisme-tancar-grups-inciten-als-aldarulls_1_5891795.html",
+      "published": "2026-10-27T16:41:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/24e907ac-f4fc-4581-a4ad-6f2ea6d260d5_16-9-aspect-ratio_default_0_x1733y1054.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El boicot xinès força Mbappé i la lliga espanyola a disculpar-se per haver qualificat Mao de dictador",
+      "excerpt": "La televisió estatal xinesa ha suspès les emissions de la lliga espanyola i unes quantes empreses han trencat els contractes comercials amb el futbolista del Reial Madrid",
+      "url": "https://www.vilaweb.cat/noticies/boicot-xines-forca-mbappe-lliga-espanyola-mao-dictador/",
+      "published": "2026-10-27T16:40:43+01:00",
+      "category": "Món",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-746/",
+      "published": "2026-10-27T16:39:17+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1918/",
+      "published": "2026-10-27T16:34:28+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Voteu Vox per l'estat català",
+      "excerpt": "La líder del partit feixista Aliança Catalana, Sílvia Orriols, va animar els seus votants fa uns dies, en una entrevista a Ràdio 4, a votar Vox a les eleccions espanyoles. Preguntada per si veia contradiccions entre votar Vox a les eleccions espanyoles i Aliança Catalana a les eleccions al Parlament de Catalunya, va respondre: “Crec que no. Ells [els electors], en el marc de les eleccions espanyoles, fan confiança a qui creguin convenient, i en el marc del Principat de Catalunya ens fan confiança a…",
+      "url": "https://www.ara.cat/opinio/voteu-vox-catala_129_5892013.html",
+      "published": "2026-10-27T16:31:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b79eb4ec-134b-4bb0-9e40-f73665df0d15_16-9-aspect-ratio_default_0_x921y224.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La PTP reclama ampliar l’oferta d’autobusos interurbans: “No és un problema d’anar dret o no”",
+      "excerpt": "Els usuaris que viatgen en autobusos interurbans en el seu dia a dia ja estan acostumats a fer el trajecte drets o veure passatgers en aquesta situació. Després del greu accident a Fogars de Montclús, el govern català ha obert la porta a prohibir que hi hagi passatgers drets en aquests trajectes. Des de l’Associació […]",
+      "url": "https://beteve.cat/mobilitat/ptp-reclama-mes-oferta-autobusos-interurbans/",
+      "published": "2026-10-27T16:21:52+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/autobus-interurba-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un nou despreniment al túnel de Gornal torna a limitar el servei de la línia Llobregat-Anoia de FGC",
+      "excerpt": "Ferrocarrils de la Generalitat de Catalunya (FGC) s'ha vist obligat a tornar a limitar el servei de la línia Llobregat-Anoia per una nova incidència d'Adif al túnel de Gornal, a l'Hospitalet de Llobregat, molt similar a la de la setmana passada. Tot plegat, 24 hores després d'haver normalitzat el servei per l'altra avaria al mateix punt. Així ho han confirmat a l'ARA fonts de l'empresa pública.",
+      "url": "https://www.ara.cat/societat/mobilitat/nou-despreniment-tunel-gornal-torna-limitar-servei-linia-llobregat-anoia-fgc_1_5891979.html",
+      "published": "2026-10-27T16:20:13+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/87202fe6-d771-42ae-b352-5799c24ea5dd_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer aquest cap de setmana a Barcelona? Agenda",
+      "excerpt": "Afegeix betevé com a font preferida A l’agenda de betevé ens encanta remenar i triar els millors plans de la ciutat! Com que n’hi ha tants, mirem de fer-te’n una selecció, tot i que ja saps que la llista és gairebé infinita. Aquestes són les nostres recomanacions per a aquest cap de setmana. 🤸 Tres […]",
+      "url": "https://beteve.cat/agenda/que-fer-aquest-cap-de-setmana-a-barcelona/",
+      "published": "2026-10-27T16:12:26+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/04/que-fer-finde-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Per què Lamine Yamal s'ha quedat a les portes de guanyar la Pilota d'Or?",
+      "excerpt": "Lamine Yamal va viatjar a Londres en jet privat acompanyat del seu cercle més íntim. Com Kylian Mbappé i Harry Kane, l'estrella blaugrana tenia esperances de convertir-se en el guanyador d'una Pilota d'Or que s'acabaria enduent el britànic , i ell s'hauria de consolar amb el trofeu Kopa, que premia el millor talent menor de 21 anys. És el tercer any consecutiu que Lamine rep aquest guardó, tot i que en aquesta edició esperava endur-se la Pilota d'Or i que fos Pau Cubarsí, que va…",
+      "url": "https://www.ara.cat/esports/barca/lamine-yamal-s-quedat-portes-guanyar-pilota-d-or_1_5891726.html",
+      "published": "2026-10-27T16:00:30+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7f3d54a9-c448-4aaf-9cdb-be4c2857e14d_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Frontex podrà deportar migrants des de fora de la UE",
       "excerpt": "Brussel·les vol donar més poders a Frontex, l'agència de la Unió Europea encarregada de la gestió de fronteres. L'executiu comunitari proposa reforçar el paper del cos en les deportacions per tal que pugui retornar immigrants al seu país d'origen des de territori extracomunitari. Així, per exemple i segons la reforma prevista, l'agència podria retornar una persona procedent de Mali que es troba al Marroc. Per dur a terme aquestes operacions, però, caldrà que prèviament el país tercer en qüestió hagi firmat un acord específic amb…",
@@ -161,6 +276,16 @@
       "published": "2026-10-27T15:53:24+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/6dac0431-2b48-45c8-b36f-9e33648193f4_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Punt de partida aquest dimecres, 28 d’octubre, d’una baixada de la temperatura",
+      "excerpt": "La previsió del temps per a aquest dimecres, 28 d’octubre, anuncia que l’estiuet entra en temps de descompte. La suavitat atípica per a finals d’octubre comença a esgotar-se i, és que, la tardor i la fresca reclamen protagonisme. Previsió horària per a Barcelona: L’estiuet començarà a fer les maletes Matinada i matí de dimecres, 28 […]",
+      "url": "https://beteve.cat/medi-ambient/temps-barcelona-dimecres-28-octubre-estiuet-baixada-temperatura/",
+      "published": "2026-10-27T15:45:12+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/temps-barcelona-dimecres-28-octubre-estiuet-baixada-temperatura-2026-10-27.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -835,7 +960,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Telegram tanca un canal que incitava a fer aldarulls a Barcelona",
+      "title": "Telegram tanca un segon grup de Blocus que que incitava a fer aldarulls a Barcelona",
       "excerpt": "El canal Blocus-BCN s’ha tancat perquè infringia les condicions d’ús, segons l’aplicació",
       "url": "https://www.vilaweb.cat/noticies/telegram-tanca-canal-blocus/",
       "published": "2026-10-27T09:48:45+01:00",
@@ -1081,7 +1206,12 @@
       "published": "2026-10-27T06:48:17+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/3/1793013923533.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432935/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-primer-contracte-programa-de-rodalies-en-15-anys-que-es-i-que-hauria-dincloure/noticia/3436109/"
+      }
     },
     {
       "source": "ARA",
