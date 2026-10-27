@@ -3,6 +3,26 @@
   "items": [
     {
       "source": "VilaWeb",
+      "title": "El govern espanyol nomena Pere Joan Pons nou delegat a les Illes",
+      "excerpt": "El relleu es produeix arran de la dimissió d’Alfonso Rodríguez",
+      "url": "https://www.vilaweb.cat/noticies/pere-joan-pons-delegat-govern-illes/",
+      "published": "2026-10-27T13:19:55+01:00",
+      "category": "Illes",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Junts s’avindria a investir un govern del PSOE si Pedro Sánchez se n’apartés",
+      "excerpt": "La candidata de Junts, Míriam Nogueras, ha posat l'accent en el \"concert econòmic\" com una de les mesures clau per a negociar la investidura",
+      "url": "https://www.vilaweb.cat/noticies/junts-obre-investir-govern-psoe-pedro-sanchez-aparta/",
+      "published": "2026-10-27T13:09:56+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
       "title": "Mas creu que un govern del PP i Vox podria fer reviscolar l’independentisme, però que no és desitjable",
       "excerpt": "Creu que tard o d’hora hi haurà un nou procés cap a la independència i remarca la importància d’“aprendre algunes coses d'allò que ha passat fins ara”",
       "url": "https://www.vilaweb.cat/noticies/artur-mas-govern-pp-vox-reviscolar-independentisme/",
@@ -35,7 +55,7 @@
     {
       "source": "ARA",
       "title": "L'atur repunta a Catalunya i se situa en el 8,3%",
-      "excerpt": "L'atur va repuntar a Catalunya durant el tercer trimestre de l'any. Segons l'Enquesta de Població Activa (EPA) publicada aquest dimarts per l'Institut Nacional d'Estadística (INE), la taxa de desocupats catalana se situa en el 8,3%, després que durant el segon trimestre de l'any fos del 7,9%. A més, el total de treballadors ha tornat a fregar la barrera dels 4 milions. En concret, entre el juliol i el setembre els ocupats catalans van pujar fins als 3.999.900, tan sols 2.100 persones més (+0,05%) que en…",
+      "excerpt": "L'atur va repuntar a Catalunya durant el tercer trimestre de l'any. Segons l'Enquesta de Població Activa (EPA), publicada aquest dimarts per l'Institut Nacional d'Estadística (INE), la taxa d'atur catalana se situa en el 8,3%, després que durant el segon trimestre de l'any fos del 7,9%. A més, el total de treballadors ha tornat a fregar la barrera dels 4 milions. En concret, entre el juliol i el setembre els ocupats catalans van pujar fins als 3.999.900, tan sols 2.100 persones més (+0,05%) que en el…",
       "url": "https://www.ara.cat/economia/mercat-laboral/l-atur-repunta-catalunya-situa-8-3_1_5891610.html",
       "published": "2026-10-27T09:36:57+01:00",
       "category": "Actualitat",
@@ -81,21 +101,11 @@
     {
       "source": "ARA",
       "title": "Netanyahu es juga el poder pressionat pels errors de seguretat del 7-O i la gestió de les guerres",
-      "excerpt": "Israel celebra aquest dimarts unes eleccions parlamentàries que poden marcar un punt d’inflexió després dels atacs de Hamàs del 7 d’octubre del 2023 i de tres anys de guerra i crisi política. Benjamin Netanyahu aspira a continuar al poder, mentre l’oposició intenta convertir el seu desgast en una alternativa viable.",
+      "excerpt": "Israel celebra aquest dimarts unes eleccions parlamentàries que poden marcar un punt d’inflexió després dels atacs de Hamàs del 7 d’octubre del 2023 i de tres anys de guerra i crisi política. Benjamin Netanyahu aspira a continuar al poder, mentre l’oposició intenta convertir el seu desgast en una alternativa viable. La participació al migdia ha estat del 16.68%, segons la junta electoral, una de les més altres de l'última dècada.",
       "url": "https://www.ara.cat/internacional/proxim-orient/netanyahu-juga-pressionat-pels-errors-7-gestio-guerres_1_5891212.html",
       "published": "2026-10-27T07:00:24+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/b4d1f660-6d0c-4975-8e44-6594aa01f1ab_source-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo",
-      "title": "El primer contracte programa de Rodalies en 15 anys: què és i què hauria d'incloure",
-      "excerpt": "El govern i Renfe aproven aquest dimarts les condicions de prestació del servei de trens previ al traspàs definitiu previst ja per al 2028",
-      "url": "https://www.3cat.cat/3catinfo/el-primer-contracte-programa-de-rodalies-en-15-anys-que-es-i-que-hauria-dincloure/noticia/3436109/",
-      "published": "2026-10-27T06:48:17+01:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/3/1793013923533.jpg",
       "priority": "2 · Important"
     },
     {
@@ -113,9 +123,89 @@
       "title": "Exposicions a Barcelona: la teva agenda de museus",
       "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
       "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
-      "published": "2026-10-27T12:42:40+01:00",
+      "published": "2026-10-27T13:54:30+01:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Sebastià Alzamora rep el premi Lletra d’Or pel millor llibre del 2025",
+      "excerpt": "'Sala Augusta seguit de Llengua materna' reafirma l’èxit del poeta",
+      "url": "https://www.vilaweb.cat/noticies/sebastia-alzamora-rep-el-premi-lletra-dor-pel-millor-llibre-del-2025/",
+      "published": "2026-10-27T13:52:44+01:00",
+      "category": "Cultura",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Mor Robert Llimós, l'artista al marge d'etiquetes que va retratar els alienígenes",
+      "excerpt": "El pintor i escultor Robert Llimós ha mort aquest dimarts als 83 anys, segons han confirmat fons de la família a l'ARA. Fill del pintor Camil Llimós, Robert Llimós va estudiar a l’Escola Massana i a l’Escola Superior de Belles Arts de Sant Jordi, a Barcelona. Durant els anys seixanta es va iniciar en el moviment de la nova figuració, juntament amb artistes reconeguts com Eduard Arranz-Bravo, Rafael Bartolozzi i Gerard Sala. Més endavant, entre el 1969 i el 1973, va experimentar amb l’art conceptual,…",
+      "url": "https://www.ara.cat/cultura/art/mor-artista-robert-llimos-alienigenes_1_5891721.html",
+      "published": "2026-10-27T13:51:28+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/15a4026c-1702-4e73-bb92-c62613996f77_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Europastry desembarca als antics terrenys de Nissan a la Zona Franca amb un nou macrocentre logístic",
+      "excerpt": "La reindustrialització dels antics terrenys de la fàbrica de Nissan a la Zona Franca de Barcelona segueix el seu curs. Després de l'arribada dels fabricants d'automòbils Chery i EV Motors , a partir de l'any 2027 desembarcarà a l'espai el grup català de masses congelades Europastry. La companyia alimentària posarà en marxa un nou macrocentre logístic d'emmagatzematge en fred, una construcció ubicada prop del port de Barcelona, just al davant de Mercabarna, i amb una superfície total de gairebé 9.000 metres quadrats.",
+      "url": "https://www.ara.cat/economia/alimentacio/europastry-desembarca-als-antics-terrenys-nissan-zona-franca-nou-macrocentre-logistic_1_5891748.html",
+      "published": "2026-10-27T13:43:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/94038fb9-93d9-42ff-9bd8-0553acfde15b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La Comissió Europea proposa d’ampliar el mandat de Frontex per deportar migrants des de fora de la UE",
+      "excerpt": "Frontex també podrà intervenir per detectar amb antelació crides a les xarxes socials per travessar les fronteres exteriors de la Unió",
+      "url": "https://www.vilaweb.cat/noticies/comissio-europea-frontex-deportar/",
+      "published": "2026-10-27T13:39:20+01:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
+      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-10-27T13:34:36+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La Generalitat atorga el XXI Premi Blanquerna a l’ex-batllessa de Madrid Manuela Carmena",
+      "excerpt": "L'executiu reconeix l’actitud de diàleg i col·laboració de Carmena amb Barcelona i Catalunya",
+      "url": "https://www.vilaweb.cat/noticies/premi-blanquerna-generalitat-manuela-carmena/",
+      "published": "2026-10-27T13:23:48+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les activistes contra la turistificació detingudes a Santa Maria declaren que van rebre pressions de la Guàrdia Civil",
+      "excerpt": "Quan van ser detingudes no van poder parlar amb cap advocat sense la presència dels agents",
+      "url": "https://www.vilaweb.cat/noticies/activistes-santa-maria-pressions-guardia-civil/",
+      "published": "2026-10-27T13:00:06+01:00",
+      "category": "Illes",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els aldarulls de dissabte a Barcelona es poden repetir? Blocus anuncia noves convocatòries aquest cap de setmana",
+      "excerpt": "¿Els disturbis que va viure aquest dissabte Barcelona es podrien tornar a repetir? Mentre encara s'investiguen les circumstàncies de la convocatòria, que va reunir centenars de joves al centre de la ciutat per saquejar desenes de comerços, arriben alertes de noves crides aquest cap de setmana a la capital catalana i altres ciutats de l'Estat. El que se sap, de moment, és que les xarxes han estat el mètode per reunir els joves, molts dels quals menors, que van protagonitzar els aldarulls. L'operació es diu…",
+      "url": "https://www.ara.cat/societat/aldarulls-dissabte-barcelona-repetir-blocus-anuncia-noves-convocatories-aquest-cap-setmana_1_5891699.html",
+      "published": "2026-10-27T12:59:12+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3656ff6c-2f22-4995-9081-b41bfbf2b08f_16-9-aspect-ratio_default_0_x3789y1863.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -123,15 +213,35 @@
       "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
       "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
       "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-10-27T12:39:57+01:00",
+      "published": "2026-10-27T12:58:04+01:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Alerta per presència de salmonel·la en una tahina de sèsam",
+      "excerpt": "L’Agència Espanyola de Seguretat Alimentària i Nutrició (AESAN) ha emès una alerta per la presència de salmonel·la en un lot de tahina. Es tracta del producte Pure Sesame Tahini de la marca Arkan, amb número de lot 0257502493 i data de caducitat 12/2027. S’ha comercialitzat a Catalunya, Madrid i el País Basc, tot i que […]",
+      "url": "https://beteve.cat/societat/alerta-salmonela-tahina-sesam-marca-arkan/",
+      "published": "2026-10-27T12:44:14+01:00",
+      "category": "salut",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/alerta-salmonela-tahini-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Mbappé desencadena una crisi amb la Xina, que suspèn les emissions de LaLiga",
+      "excerpt": "La referència del davanter del Madrid a Mao Tse-tung com un \"dictador\" és rebuda al gegant asiàtic com una difamació d'herois i màrtirs. Tebas s'afanya a disculpar-se",
+      "url": "https://www.3cat.cat/3catinfo/mbappe-desencadena-una-crisi-amb-la-xina-que-suspen-les-emissions-de-laliga/noticia/3436303/",
+      "published": "2026-10-27T12:38:43+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/6/1789640175562.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Junts s'obre a investir un president socialista, però veta Sánchez",
-      "excerpt": "Junts podria investir un president socialista si el PSOE atén les reivindicacions del partit de Carles Puigdemont, però no pas a Pedro Sánchez. La candidata juntaire a les eleccions espanyoles, Miriam Nogueras, ha fixat aquest dimarts la posició per a la investidura del futur president del govern estatal després del 29-N, aclarint què volia dir que la formació no investiria ni Pedro Sánchez ni Alberto Núñez Feijóo, com havien dit els màxims dirigents: això no significa que quedi al marge de la governabilitat de l'Estat.…",
+      "excerpt": "Junts podria investir un president socialista si el PSOE atén les reivindicacions del partit de Carles Puigdemont, però no seria pas Pedro Sánchez. La candidata juntaire a les eleccions espanyoles, Miriam Nogueras, ha fixat aquest dimarts la posició per a la investidura del futur president del govern estatal després del 29-N i aclarit què volia dir que la formació no investiria ni Pedro Sánchez ni Alberto Núñez Feijóo , com havien expressat els màxims dirigents. Això no significa que quedi al marge de la governabilitat…",
       "url": "https://www.ara.cat/politica/eleccions-generals/junts-s-obre-investir-president-socialista-veta-sanchez_1_5891753.html",
       "published": "2026-10-27T12:36:49+01:00",
       "category": "Actualitat",
@@ -170,8 +280,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Puigdemont encoratja a aprofitar les crisis que causa Espanya per a aconseguir la independència nou anys després de la DUI",
-      "excerpt": "El president a l'exili diu que, tot i que l'independentisme no està en el seu millor moment, paradoxalment, \"Espanya està pitjor\"",
+      "title": "Puigdemont encoratja a aprofitar les crisis que causa Espanya per aconseguir la independència nou anys després de la DUI",
+      "excerpt": "El president a l'exili diu que, tot i que l'independentisme no passa pel millor moment, paradoxalment \"Espanya està pitjor\"",
       "url": "https://www.vilaweb.cat/noticies/puigdemont-encoratja-aprofitar-crisis-espanya-aconseguir-independencia-nou-anys-despres-dui/",
       "published": "2026-10-27T12:22:47+01:00",
       "category": "Principat",
@@ -181,16 +291,16 @@
     {
       "source": "ARA",
       "title": "Colau retira tres candidatures del Senat per concentrar el vot al PSC",
-      "excerpt": "Acord entre PSC i Comuns per a les candidatures al Senat. Les dues formacions han arribat a un pacte per fer front comú a les pròximes eleccions a la cambra alta espanyola, i el partit d'Ada Colau es compromet retirar les seves candidatures a Tarragona, Lleida i Girona a canvi que els socialistes catalans designin un senador a proposta dels Comuns. La portaveu del PSC, Lluïsa Moret, que ha anunciat l'entesa en roda de premsa, l'ha justificat perquè \"s'ha de fer front a la ultradreta\".",
+      "excerpt": "Acord entre PSC i Comuns per a les candidatures al Senat. Les dues formacions han arribat a un pacte per fer front comú a les pròximes eleccions a la cambra alta espanyola i el partit d'Ada Colau s'ha compromès a retirar les seves candidatures a Tarragona, Lleida i Girona a canvi que els socialistes catalans designin un senador autonòmic a proposta dels Comuns. La portaveu del PSC, Lluïsa Moret, que ha anunciat l'entesa, l'ha justificat en roda de premsa perquè \"s'ha de fer front a…",
       "url": "https://www.ara.cat/politica/eleccions-generals/colau-retira-tres-candidatures-senat-afavorir-psc_1_5891751.html",
       "published": "2026-10-27T12:22:41+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/d3c0ea1d-09ee-49bd-b26a-3fb90947f8c6_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/16238c50-955e-43e3-990f-cd7c3d3b600a_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
-      "title": "850 autors se solidaritzen amb Sally Rooney després que se li hagi prohibit vendre llibres al Regne Unit",
+      "title": "850 autors se solidaritzen amb Sally Rooney després que hagi aturat la venda dels seus llibres al Regne Unit",
       "excerpt": "L'escriptora va donar suport a Palestine Action, i ara autors, il·lustradors, poetes i editors irlandesos i gal·lesos han firmat un manifest en què demanen que el govern laborista britànic aixequi la prohibició",
       "url": "https://www.3cat.cat/3catinfo/850-autors-se-solidaritzen-amb-sally-rooney-despres-que-se-li-hagi-prohibit-vendre-llibres-al-regne-unit/noticia/3436261/",
       "published": "2026-10-27T12:22:22+01:00",
@@ -225,13 +335,13 @@
       "url": "https://beteve.cat/esports/instalacio-gespa-natural-narcis-sala-en-marxa/",
       "published": "2026-10-27T12:19:49+01:00",
       "category": "esports",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/picto_gespa_narcis-_sala-2026-10-27.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/gespa-natural-narcis-sala-2026-10-27.jpg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
       "title": "Els Comuns retiren les llistes del Senat a Girona, Lleida i Tarragona per concentrar el vot en el PSC",
-      "excerpt": "L'acord per les eleccions del 29N entre els de Colau i els socialistes arriba l'endemà de l'anunci de l'estratègia conjunta de PP i Vox amb l'objectiu de frenar l'extrema dreta",
+      "excerpt": "L'acord per a les eleccions del 29N entre els de Colau i els socialistes arriba l'endemà de l'anunci de l'estratègia conjunta de PP i Vox, amb l'objectiu de frenar l'extrema dreta",
       "url": "https://www.3cat.cat/3catinfo/els-comuns-retiren-les-llistes-del-senat-a-girona-lleida-i-tarragona-per-concentrar-el-vot-en-el-psc/noticia/3436330/",
       "published": "2026-10-27T12:15:44+01:00",
       "category": "Actualitat",
@@ -280,6 +390,16 @@
     },
     {
       "source": "betevé",
+      "title": "Només un miracle impedirà que el 2026 entri al podi dels més càlids registrats a l’Observatori Fabra",
+      "excerpt": "El 2026 serà, tret que hi hagi un daltabaix difícil d’imaginar, un dels tres anys més càlids registrats a l’Observatori Fabra. Quedarà saber en quina posició final queda. Que sigui rècord absolut és, a hores d’ara, molt més factible que no pas que surti d’un podi al que sembla empès de cap a peus. 2026: […]",
+      "url": "https://beteve.cat/medi-ambient/any-2026-record-calid-observatori-fabra-miracle/",
+      "published": "2026-10-27T11:54:07+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/observatori-fabra-record-calor-pluja-setembre-2026-barcelona-2026-09-30.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "La Grossa de Cap d’Any 2026: quan és el sorteig, premis i què saber de la Grossa de Nadal | GUIA",
       "excerpt": "La Grossa de Cap d’Any 2026 ja és a la venda. Des de mitjans de setembre es poden comprar les participacions del sorteig que tancarà l’any, el que molts coneixen com la Grossa de Nadal. Com és habitual, s’han posat a la venda 100.000 números (del 00000 al 99000), amb un total de 35 sèries, […]",
       "url": "https://beteve.cat/economia/grossa-cap-any-2026-sorteig-nadal/",
@@ -306,16 +426,6 @@
       "published": "2026-10-27T11:44:53+01:00",
       "category": "societat",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/bloc-acampada-desnonament-2026-10-23.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
-      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
-      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
-      "published": "2026-10-27T11:40:44+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -776,6 +886,16 @@
       "published": "2026-10-27T06:55:41+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/5/1793054153351.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El primer contracte amb Renfe en 15 anys: del cost del servei a compensacions per impuntualitat",
+      "excerpt": "El document preveu una aportació de l'Estat a la Generalitat de 1.407 milions d'euros fins al 2028 i detalla què ha de fer Renfe en cas d'incidències",
+      "url": "https://www.3cat.cat/3catinfo/el-primer-contracte-programa-de-rodalies-en-15-anys-que-es-i-que-hauria-dincloure/noticia/3436109/",
+      "published": "2026-10-27T06:48:17+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/3/1793013923533.jpg",
       "priority": "3 · Altres notícies"
     },
     {
