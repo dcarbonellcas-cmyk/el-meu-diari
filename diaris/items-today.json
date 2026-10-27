@@ -45,7 +45,12 @@
       "published": "2026-10-27T21:52:04+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/2/1718543002721.jpg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432931/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-govern-espanyol-flexibilitza-les-exigencies-energetiques-per-als-centres-de-dades/noticia/3436389/"
+      }
     },
     {
       "source": "betevé",
@@ -85,7 +90,12 @@
       "published": "2026-10-27T21:10:10+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/2/1793119520723.jpg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432896/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/veins-desallotjats-per-lesvoranc-de-ll9-no-volen-tornar-no-em-transmet-seguretat/noticia/3436441/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -310,6 +320,26 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "El tàndem Rufián-Montero vol domar el PSOE",
+      "excerpt": "Gabriel Rufián i Irene Montero es presenten el pròxim 29-N com el dic de contenció de la dreta i l'extrema dreta, però també perquè el PSOE no miri cap a la dreta. El missatge l'han volgut donar tots dos en la primera entrevista conjunta que han donat en aquesta precampanya després de firmar una aliança de cara a les pròximes eleccions generals. Ha estat a La Revuelta, a TVE. Allà, l'entrevista ha començat amb regals amb missatge. Un dels que va entregar Montero al presentador,…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/tandem-rufian-montero-vol-domar-psoe_1_5892381.html",
+      "published": "2026-10-27T23:08:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/33f106ed-ca52-4ab6-9fdb-5342fa7fe4da_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "“Vam ser tots massa obedients”: Forcadell repassa els errors del 2017",
+      "excerpt": "\"Moltes decisions no les vaig entendre, malgrat que les vaig executar\" · En un acte de l'ANC, l'ex-presidenta de l'entitat i del parlament ha dit que cal assumir que el preu a pagar per la independència serà la repressió",
+      "url": "https://www.vilaweb.cat/noticies/carme-forcadell-acte-anc-27-octubre-ferran-mascarell-pere-puges/",
+      "published": "2026-10-27T22:51:31+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
       "title": "La Comissió Europea proposa donar més poders a Frontex perquè pugui deportar des de tercers països",
       "excerpt": "Vol donar més competències a l'agència europea de fronteres i convertir-la en l'actor principal de la política migratòria de retorns",
@@ -317,7 +347,12 @@
       "published": "2026-10-27T22:37:45+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/9/1793132743891.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433012/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-comissio-europea-proposa-donar-mes-poders-a-frontex-perque-pugui-deportar-des-de-tercers-paisos/noticia/3436485/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -401,8 +436,8 @@
     },
     {
       "source": "ARA",
-      "title": "Manolo destituït després de l'enèsim ridícul a la Copa del Rei",
-      "excerpt": "\"L'Espanyol ha decidit posar fi a l’etapa de Manolo González com a entrenador del primer equip\". Amb aquesta frase comença el comunicat del club blanc-i-blau en què oficialitza la destitució del tècnic gallec després de perdre al camp del Sestao River (4-3) i quedar eliminat de la Copa del Rei. Per tercera temporada consecutiva l'Espanyol va caure al camp d'un equip de la Segona Federació. El Barbastre, l'Atlètic Balears i aquest any el Sestao River, a l'últim minut de la pròrroga, han estat els botxins…",
+      "title": "L'Espanyol destitueix Manolo González després de l'enèsim ridícul a la Copa",
+      "excerpt": "\"L'Espanyol ha decidit posar fi a l’etapa de Manolo González com a entrenador del primer equip\". Amb aquesta frase començava el comunicat del club blanc-i-blau en què aquest dimarts a la nit oficialitzava la destitució del tècnic gallec després de quedar eliminat de la Copa del Rei per tercera temporada consecutiva al camp d'un equip de la Segona Federació. El Barbastre, l'Atlètic Balears i aquest any el Sestao River (4-3), a l'últim minut de la pròrroga, han estat els botxins de Manolo González, que tothom…",
       "url": "https://www.ara.cat/esports/rcd-espanyol/l-espanyol-continua-acumulant-ridiculs-copa_1_5892290.html",
       "published": "2026-10-27T21:31:18+01:00",
       "category": "Actualitat",
@@ -417,7 +452,12 @@
       "published": "2026-10-27T21:31:17+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/9/1793123496190.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432998/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/feijoo-centra-la-precampanya-en-el-vandalisme-i-demana-endurir-les-penes-per-aldarulls/noticia/3436475/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -427,17 +467,17 @@
       "published": "2026-10-27T21:21:02+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/6/1791649625867.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6432791/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/anthropic-demana-un-acte-de-fe-als-inversors-per-sortir-a-borsa/noticia/3436243/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
       "title": "Mor el pintor i escultor Robert Llimós als 83 anys",
-      "excerpt": "A principis de novembre, l'artista havia d'inaugurar una exposició a la Fundació Vila Casas amb obres dels anys 60 i inicis dels 70, una dècada de producció àmplia en el marc de l'art conceptual català",
+      "excerpt": "A principis de novembre, l'artista havia d'inaugurar una exposició a la Fundació Vila Casas amb obres dels anys 60 i inicis dels 70, una etapa clau de l'art conceptual català",
       "url": "https://www.3cat.cat/3catinfo/mor-el-pintor-i-escultor-robert-llimos-als-83-anys/noticia/3436472/",
       "published": "2026-10-27T21:16:12+01:00",
       "category": "Actualitat",
@@ -514,6 +554,16 @@
       "title": "Manresa – Sant Andreu, el debut dels andreuencs a la Copa, minut a minut",
       "excerpt": "El Sant Andreu comença l’aventura a la Copa del Rei de la temporada 2026-2027 al camp del Manresa. El partit contra el dels Bages començarà a les 20.30 h i podràs seguir en aquesta mateixa pàgina web un minut a minut del que passi durant l’enfrontament. El Sant Andreu vol viure una nit màgica al […]",
       "url": "https://beteve.cat/esports/manresa-sant-andreu-debut-andreuencs-copa-directe/",
+      "published": "2026-10-27T20:18:15+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/HS-FBftWEAAnn7x-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Sant Andreu passa de ronda als penals davant el Manresa: Iñaki salva els mobles",
+      "excerpt": "El Sant Andreu ha guanyat als penals davant el Manresa després de desaprofitar un avantatge de dos gols al marcador. El conjunt de Natxo González no ha estat capaç d’inaugurar el marcador fins a la pròrroga. Pablo Agudín i Alexis han marcat per als quadribarrats, però el Manresa ha igualat el partit en els últims […]",
+      "url": "https://beteve.cat/esports/manresa-sant-andreu-passa-ronda-penals-inaki-salvador/",
       "published": "2026-10-27T20:18:15+01:00",
       "category": "esports",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/HS-FBftWEAAnn7x-2026-10-27.jpg",
@@ -829,7 +879,7 @@
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/vila-matas-2026-10-27.jpg",
       "priority": "3 · Altres notícies",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/5581924/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6432999/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/enrique-vila-matas-premi-nacional-de-les-lletres-espanyoles/noticia/3436388/"
       }
@@ -872,7 +922,12 @@
       "published": "2026-10-27T16:41:00+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/9d333a55-2a3b-46b8-803d-9086d301746f_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433006/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/com-perseguir-les-convocatories-violentes-a-xarxes-la-dificultat-darribar-a-lorigen/noticia/3436319/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -1073,7 +1128,7 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/8/1793110357481.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/5581924/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6432999/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/enrique-vila-matas-premi-nacional-de-les-lletres-espanyoles/noticia/3436388/"
       },
@@ -1087,7 +1142,12 @@
       "published": "2026-10-27T14:29:23+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/9/1793108262295.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433006/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/com-perseguir-les-convocatories-violentes-a-xarxes-la-dificultat-darribar-a-lorigen/noticia/3436319/"
+      }
     },
     {
       "source": "ARA",
@@ -1118,7 +1178,7 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/f7c558cb-28f9-442d-998e-958a7cd57abe_16-9-aspect-ratio_default_0.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/5581924/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6432999/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/enrique-vila-matas-premi-nacional-de-les-lletres-espanyoles/noticia/3436388/"
       },
@@ -1186,7 +1246,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La Comissió Europea proposa d’ampliar el mandat de Frontex per a deportar migrants des de fora de la UE",
+      "title": "La Comissió Europea proposa d’ampliar el mandat de Frontex per a deportar emigrants des de fora de la UE",
       "excerpt": "Frontex també podrà intervenir per detectar amb antelació crides a les xarxes socials a travessar les fronteres exteriors de la Unió",
       "url": "https://www.vilaweb.cat/noticies/comissio-europea-frontex-deportar/",
       "published": "2026-10-27T13:39:20+01:00",
@@ -1206,7 +1266,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La Generalitat atorga el XXI Premi Blanquerna a l’ex-batllessa de Madrid Manuela Carmena",
+      "title": "La Generalitat atorga el XXI premi Blanquerna a l’ex-batllessa de Madrid Manuela Carmena",
       "excerpt": "L'executiu reconeix l’actitud de diàleg i col·laboració de Carmena amb Barcelona i Catalunya",
       "url": "https://www.vilaweb.cat/noticies/premi-blanquerna-generalitat-manuela-carmena/",
       "published": "2026-10-27T13:23:48+01:00",
@@ -1357,12 +1417,12 @@
       "published": "2026-10-27T12:15:44+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/1/1792770755918.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433010/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/els-comuns-retiren-les-llistes-del-senat-a-girona-lleida-i-tarragona-per-concentrar-el-vot-en-el-psc/noticia/3436330/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
