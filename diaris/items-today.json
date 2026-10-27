@@ -22,6 +22,52 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo",
+      "title": "Vaga indefinida de metges a partir de dimecres: consulta els serveis mínims",
+      "excerpt": "La protesta havia d'estar coordinada amb una convocatòria a tot l'Estat, però el comitè de vaga estatal la va ajornar per l'avançament de les eleccions generals",
+      "url": "https://www.3cat.cat/3catinfo/vaga-indefinida-de-metges-a-partir-de-dimecres-consulta-els-serveis-minims/noticia/3436202/",
+      "published": "2026-10-27T19:44:38+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/5/1771237468151.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El rècord de participació en les eleccions d'Israel inquieta Netanyahu",
+      "excerpt": "A les 4 de la tarda ja havia votat més del 55% del cens, una xifra que no s'havia vist des del 1973, i el primer ministre reclama als seus votants que \"surtin a votar immediatament\"",
+      "url": "https://www.3cat.cat/3catinfo/el-record-de-participacio-en-les-eleccions-disrael-inquieta-netanyahu/noticia/3436273/",
+      "published": "2026-10-27T19:33:03+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/6/1793118082667.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Flávio Bolsonaro fuig cap als EUA en plena investigació judicial després de perdre les eleccions",
+      "excerpt": "El senador brasiler ha abandonat el país malgrat tenir una ordre judicial de lliurar el passaport i la prohibició de sortir del territori",
+      "url": "https://www.vilaweb.cat/noticies/flavio-bolsonaro-fuig-cap-als-eua-en-plena-investigacio-judicial-i-despres-de-perdre-les-eleccions/",
+      "published": "2026-10-27T19:07:53+01:00",
+      "category": "Amèrica",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimecres: baixa la temperatura a l'interior i al Pirineu",
+      "excerpt": "Sense pluges a la vista i amb temperatura més baixa fora de la costa",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/",
+      "published": "2026-10-27T18:47:10+01:00",
+      "updated": "2026-10-27T18:50:44+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/3/1793123431735.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6432980/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
       "title": "Crida a fer una “vaga de compres” a les grans superfícies cada dimecres fins a la vaga general",
       "excerpt": "(ACN) La Confederació de Sindicats de Llogateres, FACUA i Justícia Alimentària han cridat a fer una “vaga de compres” a les grans superfícies tots els dimecres fins a l’aturada general de l’11 de novembre. Les tres organitzacions demanen “no comprar en supermercats, hipermercats ni grans cadenes” aquest dimecres, 28 d’octubre, i el 4 de novembre […]",
@@ -59,8 +105,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La participació en les eleccions d’Israel arriba al 55,7% a les quatre, un màxim històric",
-      "excerpt": "Més de quatre milions d'israelians ja han votat en uns comicis en què Benjamin Netanyahu es juga la continuïtat al poder contra el bloc opositor encapçalat per Gadi Eisenkot",
+      "title": "La participació en les eleccions d’Israel arriba al 66,7% a les sis, un màxim històric",
+      "excerpt": "Més de 4,8 milions d'israelians ja han votat en uns comicis en què Netanyahu es juga la continuïtat al poder i denuncia un intent de frau electoral",
       "url": "https://www.vilaweb.cat/noticies/participacio-eleccions-israel/",
       "published": "2026-10-27T15:38:43+01:00",
       "category": "Llevant",
@@ -189,19 +235,134 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo",
-      "title": "La previsió de dimecres: baixa la temperatura a l'interior i al Pirineu",
-      "excerpt": "Sense pluges a la vista i amb temperatura més baixa fora de la costa",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/",
-      "published": "2026-10-27T18:47:10+01:00",
+      "source": "betevé",
+      "title": "El contracte programa amb Renfe preveu 1.400 milions fins al 2028 i compensacions per impuntualitat",
+      "excerpt": "(ACN) La Generalitat i Renfe han formalitzat aquest dimarts el contracte programa que fixa les condicions econòmiques i de prestació del servei ferroviari de Rodalies i Regionals fins a finals del 2028. Es tracta d’un document que estava pendent des de feia 15 anys, des del traspàs parcial de la gestió de Rodalies a Catalunya […]",
+      "url": "https://beteve.cat/mobilitat/generalitat-i-renfe-aproven-el-contracte-programa/",
+      "published": "2026-10-27T19:53:29+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/02/inversio-emergencia-rodalies-120226.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies vespre",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-vespre/beteve-noticies-vespre-451/",
+      "published": "2026-10-27T19:49:00+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/4/1793123434540.jpg",
-      "priority": "3 · Altres notícies",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6432980/embed/",
-        "source": "3CatInfo",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/"
-      }
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Mao era un dictador (i s'ha de poder dir)",
+      "excerpt": "Un comentari innocent del jugador del Reial Madrid Kylian Mbappé en un programa de televisió on va dir que un dels mems d'ell que més li agrada és un en què el seu rostre es fon amb el de Mao Zedong, a qui va qualificar de \"dictador\", ha provocat un autèntic terratrèmol entre la Xina i el futbolista francès i, per extensió, el Reial Madrid i la lliga espanyola. Al marge de la retirada d'alguns patrocinis de productes xinesos a l'estrella francesa, la reacció més…",
+      "url": "https://www.ara.cat/editorial/mao-dictador-s-dir_129_5892181.html",
+      "published": "2026-10-27T19:48:01+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6847d2a8-fd77-4c61-9986-139c1e2b941a_16-9-aspect-ratio_default_0_x1596y570.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La irrisòria sanció de la Federació al Barça pel cas Julián Álvarez",
+      "excerpt": "Ja hi ha resolució d'un dels casos més comentats del mercat de fitxatge futbolístic",
+      "url": "https://www.3cat.cat/3catinfo/la-irrisoria-sancio-de-la-federacio-al-barca-pel-cas-julian-alvarez/noticia/3436487/",
+      "published": "2026-10-27T19:47:29+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1793126824112.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Calamocha-Europa, de la Copa del Rei, minut a minut",
+      "excerpt": "L’Europa debuta aquest dimarts, a les 19 h, a la Copa del Rei d’aquesta temporada, 2026-27, al camp del Calamocha. El partit el podeu seguir en directe a través de la TDT d’aquesta casa, betevé, i també en aquesta pàgina web, en què farem un minut a minut del partit per mantenir-vos informats de tot […]",
+      "url": "https://beteve.cat/esports/calamocha-europa-copa-rei-directe-beteve/",
+      "published": "2026-10-27T19:45:24+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/picto-europa-rayo-victoria-2026-09-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La justícia diu que Blocus és una protesta \"buida de contingut amb l'únic fi de saquejar\"",
+      "excerpt": "Algunes de les persones detingudes durant els aldarulls i saquejos de dissabte que es van convocar sota el nom de Blocus al centre de Barcelona tenen prohibit anar a noves manifestacions. Així ho ha decretat una jutgessa de guàrdia davant la violència que va tenir lloc al centre de la capital catalana durant una protesta que ha qualificat de \"buida de contingut, amb l'únic fi de saquejar els comerços de la zona de conflicte\", segons recull una interlocutòria a la qual ha tingut accés Efe.…",
+      "url": "https://www.ara.cat/societat/justicia/justicia-diu-blocus-protesta-buida-contingut-l-unic-saquejar_1_5892178.html",
+      "published": "2026-10-27T19:41:31+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8fa5cdf7-541d-4441-8e55-fc13006de7d7_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Els Museus Vaticans no fem restitucions sinó donacions\"",
+      "excerpt": "La historiadora de l'art italiana Barbara Jatta dirigeix des de fa deu anys els Museus Vaticans. Amb 43.000 metres quadrats d'exposició i set quilòmetres de llarg, és el sisè equipament museístic més gran del món, per darrere de gegants com el Louvre, el Museu Britànic i l'Hermitage. Jatta va ser a Barcelona aquest dilluns amb motiu d'una mostra monogràfica al Museu Diocesà del seu fons d'art sacre italià del segle XX. \"Els Museus Vaticans no són només la Capella Sixtina\", explica Jatta. \"Fa molts anys…",
+      "url": "https://www.ara.cat/cultura/art/museus-vaticans-restitucions-donacions-no-havia-context-colonial_1_5891671.html",
+      "published": "2026-10-27T19:38:16+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bc4b0f3c-774d-458d-bf2a-d5b0e24fd4e7_16-9-aspect-ratio_default_0_x1379y840.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-28-10-2026_134_5892017.html",
+      "published": "2026-10-27T19:05:42+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-28-10-2026_134_5891408.html",
+      "published": "2026-10-27T19:05:42+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "'Truc o trat'",
+      "excerpt": "Sembla que tothom s'ha infiltrat en aquests grups de WhatsApp de nois de catorze anys que han \"vandalitzat\" (el verb no és meu) diverses ciutats i hem pogut, doncs, veure què s'hi cou. “Chicos, no vayáis a por los trabajadores!” , deia l'un. I es referia que si cal trencar aparadors i robar objectes han de ser “de ric”. És a dir, mòbils i bosses cares. Cal robar als rics per vendre allò dels rics i semblar rics.",
+      "url": "https://www.ara.cat/opinio/truc-trat_129_5892179.html",
+      "published": "2026-10-27T19:01:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/86e416cd-dd52-4b9b-8c68-680401674d3b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Mont Plans",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/mont-plans/",
+      "published": "2026-10-27T18:59:08+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els sermons de diumenge a TV3",
+      "excerpt": "Els responsables de TV3 no deuen mirar la seva pròpia televisió els diumenges al matí. És una franja horària que ha quedat com un reducte religiós en què alguns continguts provoquen estupor. Cada últim diumenge de mes emeten Néixer de nou , un espai del Consell Evangèlic que explica què fa la comunitat protestant del país. Té una part inicial més divulgativa i que pot ser interessant, però, al final, cada setmana apareix un pastor diferent que es dirigeix a l’espectador mirant a càmera. Després…",
+      "url": "https://www.ara.cat/media/sermons-diumenge-tv3_129_5892113.html",
+      "published": "2026-10-27T18:58:37+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5404ac8f-e89a-4e05-acc2-7fb9eafcfb9a_16-9-aspect-ratio_default_0_x697y321.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La primera escola del Bon Pastor: català i nova pedagogia en plena República",
+      "excerpt": "En el límit perimetral que conformava la barriada de les Cases Barates, l’any 1931 va inaugurar-se el primer centre escolar de la zona que avui coneixem com el Bon Pastor: el Grup Escolar Bonaventura Carles Aribau. Amb el nom del pare de la Renaixença catalana per bandera, aquest centre va suposar un bri d’esperança per […]",
+      "url": "https://beteve.cat/historia/primera-escola-bon-pastor-republica-catala/",
+      "published": "2026-10-27T18:51:27+01:00",
+      "category": "història",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/07/primera-escola-bon-pastor-12-2026-07-21.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -215,7 +376,7 @@
     },
     {
       "source": "ARA",
-      "title": "Una ampolla de vodka, el totxo d'una presó i dues selles de muntar a cavall: tots els regals que Zapatero va entregar quan va…",
+      "title": "Una ampolla de vodka, el totxo d'una presó i dues selles de muntar a cavall: tots els regals que Zapatero va entregar",
       "excerpt": "Hugo Chávez, quan era president de Veneçuela, va regalar a José Luis Rodríguez Zapatero la rèplica de l'espasa de Simón Bolívar i una figura de llautó del Quixot. De fet, durant els seus anys a la Moncloa, l'expresident espanyol va rebre cinc escultures de la icona de la literatura espanyola fetes de ferro, bronze, fusta i paper maixé. Quan era president de Rússia, Dmitri Medvédev li va regalar una ampolla de vodka decorada i un matxet amb funda de pell. Des dels Estats Units, Barack…",
       "url": "https://www.ara.cat/politica/ampolla-vodka-totxo-d-preso-dues-selles-muntar-cavall-tots-regals-zapatero-entregar-deixar-presidencia_1_5891945.html",
       "published": "2026-10-27T18:42:24+01:00",
@@ -255,22 +416,12 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Investiguen si Flávio Bolsonaro ha fugit del Brasil, després de no haver entregat el passaport",
-      "excerpt": "El Tribunal Suprem l'està investigant per blanqueig de capitals i li havia prohibit sortir del país",
+      "title": "L'excandidat Flávio Bolsonaro ha fugit del Brasil i està de camí als Estats Units",
+      "excerpt": "Ho ha confirmat una font oficial dels Estats Units i un diputat del seu partit, que diu que ha marxat a \"l'exili\"",
       "url": "https://www.3cat.cat/3catinfo/investiguen-si-flavio-bolsonaro-ha-fugit-del-brasil-despres-de-no-haver-entregat-el-passaport/noticia/3436444/",
       "published": "2026-10-27T18:16:05+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/7/1793119699376.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Calamocha-Europa, de la Copa del Rei, minut a minut",
-      "excerpt": "L’Europa debuta aquest dimarts, a les 19 h, a la Copa del Rei d’aquesta temporada, 2026-27, al camp del Calamocha. El partit el podeu seguir en directe a través de la TDT d’aquesta casa, betevé, i també en aquesta pàgina web, en què farem un minut a minut del partit per mantenir-vos informats de tot […]",
-      "url": "https://beteve.cat/esports/calamocha-europa-copa-rei-directe-beteve/",
-      "published": "2026-10-27T18:09:53+01:00",
-      "category": "esports",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/picto-europa-rayo-victoria-2026-09-27.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -326,11 +477,11 @@
     {
       "source": "ARA",
       "title": "Comencen a arribar canvis després del pic càlid",
-      "excerpt": "L’estiuet ha tocat sostre aquest dimarts, amb un ambient clarament massa càlid per a l’època. S’han registrat moltes màximes de 21 a 26 ºC, però localment s’han superat aquestes xifres al Priorat i a la vall de l’Ebre. Ha estat un migdia de màniga curta més propi del setembre que no pas de finals d’octubre, amb fins a cinc graus per sobre de la mitjana. Però tot plegat serà història els pròxims dies, ja que a partir d’aquest dimecres les temperatures aniran baixant i normalitzant-se.…",
+      "excerpt": "L’estiuet ha tocat sostre aquest dimarts, amb un ambient clarament massa càlid per a l’època. S’han registrat moltes màximes de 21 a 26 ºC, però localment s’han superat aquestes xifres al Priorat i a la vall de l’Ebre, assolint els 27 ºC. Ha estat un migdia de màniga curta més propi del setembre que no pas de finals d’octubre, amb fins a cinc graus per sobre de la mitjana. Però tot plegat serà història els pròxims dies, ja que a partir d’aquest dimecres les temperatures…",
       "url": "https://www.ara.cat/previsions/comencen-arribar-canvis-despres-pic-calid_1_5891983.html",
       "published": "2026-10-27T17:30:59+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/4d090c8b-475d-433c-8ab5-0d009e13062f_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/d9f00255-bcfb-42f0-8f0f-e4502dbe92f1_16-9-aspect-ratio_default_0.png",
       "priority": "3 · Altres notícies"
     },
     {
@@ -736,7 +887,7 @@
     {
       "source": "ARA",
       "title": "Els aldarulls de dissabte a Barcelona es poden repetir? Blocus anuncia noves convocatòries aquest cap de setmana",
-      "excerpt": "¿Els disturbis que va viure aquest dissabte Barcelona es podrien tornar a repetir? Mentre encara s'investiguen les circumstàncies de la convocatòria, que va reunir centenars de joves al centre de la ciutat per saquejar desenes de comerços, arriben alertes de noves crides aquest cap de setmana a la capital catalana i altres ciutats de l'Estat. El que se sap, de moment, és que les xarxes han estat el mètode per reunir els joves, molts dels quals menors, que van protagonitzar els aldarulls. L'operació es diu…",
+      "excerpt": "¿Els disturbis que va viure aquest dissabte Barcelona es podrien tornar a repetir? Mentre encara s'investiguen les circumstàncies de la convocatòria, arriben alertes de noves crides aquest cap de setmana a la capital catalana i altres ciutats de l'Estat. El que se sap, de moment, és que les xarxes han estat el mètode per reunir els joves, molts dels quals menors, que van protagonitzar els aldarulls. L'operació es diu Blocus , i utilitza Instagram i TikTok, a més de grups de WhatsApp i de Telegram,…",
       "url": "https://www.ara.cat/societat/aldarulls-dissabte-barcelona-repetir-blocus-anuncia-noves-convocatories-aquest-cap-setmana_1_5891699.html",
       "published": "2026-10-27T12:59:12+01:00",
       "category": "Actualitat",
@@ -1245,7 +1396,7 @@
     },
     {
       "source": "ARA",
-      "title": "Incertesa al Brasil per la possible fugida de Flávio Bolsonaro cap als Estats Units",
+      "title": "Flávio Bolsonaro fuig als Estats Units després de ser derrotat per Lula a les urnes",
       "excerpt": "Dimarts de desconcert al Brasil, el dia que Lula da Silva celebra el seu 81è aniversari . El país s’ha llevat amb un degoteig d’informacions periodístiques procedents de l’Argentina que indicaven que el senador i candidat de l'extrema dreta Flávio Bolsonaro, derrotat diumenge a les urnes en la segona volta de les presidencials, hauria abandonat el territori brasiler en direcció a l’Argentina, on faria escala abans de desplaçar-se als Estats Units, on ja resideix el seu germà, l’exdiputat federal Eduardo. Allà, l’administració republicana el protegiria…",
       "url": "https://www.ara.cat/internacional/america/bolsonaro-reconeix-victoria-lula-diu-liderara-l-oposicio_1_5891511.html",
       "published": "2026-10-27T08:29:41+01:00",
