@@ -2,6 +2,26 @@
   "date": "2026-10-27",
   "items": [
     {
+      "source": "ARA",
+      "title": "L'atur repunta a Catalunya i se situa en el 8,3%",
+      "excerpt": "L'atur repunta a Catalunya durant el tercer trimestre de l'any. Segons l'Enquesta de Població Activa (EPA) publicada aquest dimarts per l'Institut Nacional d'Estadística (INE), la taxa de desocupats catalana se situa en el 8,3%, després que durant el segon trimestre de l'any fos del 7,9%. Entre juliol i setembre, els ocupats catalans van pujar fins als 3.999.900, tan sols 2.100 persones més que en el trimestre anterior, mentre que es van sumar 18.900 aturats, fins als 361.800.",
+      "url": "https://www.ara.cat/economia/mercat-laboral/l-atur-repunta-catalunya-situa-8-3_1_5891610.html",
+      "published": "2026-10-27T09:36:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/da0480eb-5309-4722-80a7-76ffb05f3344_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "L'atur repunta a Catalunya en superar el 8% a l'estiu mentre la creació d'ocupació s'estanca, segons l'EPA",
+      "excerpt": "La taxa d'aturats catalana es manté per sota de l'espanyola, que ascendeix al 10,18% amb 2,6 milions de treballadors sense feina",
+      "url": "https://www.3cat.cat/3catinfo/latur-repunta-a-catalunya-en-superar-el-8-a-lestiu-mentre-la-creacio-docupacio-sestanca-segons-lepa/noticia/3436281/",
+      "published": "2026-10-27T09:25:43+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/1/1714981083516.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dimarts: el dia més càlid de la setmana",
       "excerpt": "Cel amb boires matinals i un tel de núvols prims",
@@ -29,12 +49,12 @@
     },
     {
       "source": "ARA",
-      "title": "Comença la votació a Israel en unes eleccions clau per a Netanyahu",
+      "title": "Netanyahu es juga el poder pressionat pels errors de seguretat del 7-O i la gestió de les guerres",
       "excerpt": "Israel celebra aquest dimarts unes eleccions parlamentàries que poden marcar un punt d’inflexió després dels atacs de Hamàs del 7 d’octubre del 2023 i de tres anys de guerra i crisi política. Benjamin Netanyahu aspira a continuar al poder, mentre l’oposició intenta convertir el seu desgast en una alternativa viable.",
       "url": "https://www.ara.cat/internacional/proxim-orient/netanyahu-juga-pressionat-pels-errors-7-gestio-guerres_1_5891212.html",
       "published": "2026-10-27T07:00:24+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/5a3b94d7-1694-4985-adf7-1927f4cc68fe_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/b4d1f660-6d0c-4975-8e44-6594aa01f1ab_source-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -58,13 +78,63 @@
       "priority": "2 · Important"
     },
     {
-      "source": "ARA",
-      "title": "Mbappé perd un patrocinador per riure's de Mao Zedong",
-      "excerpt": "El grup xinès de begudes Dongpeng ha anunciat que trenca el contracte amb el futbolista del Reial Madrid Kylian Mbappé després que el francès reconegués que riu amb els mems que el comparen amb Mao Zedong. L'empresa, que també té la marca de begudes Bu Shui La, que el jugador anunciava des del Mundial, ha difós un comunicat a la xarxa social local Weibo per confirmar la ruptura, al·legant una \"tolerància zero davant de comportaments que fereixen els sentiments nacionals\", sense especificar quins.",
-      "url": "https://www.ara.cat/gent/mbappe-perd-patrocinador-riure-s-mao-zedong_1_5891592.html",
-      "published": "2026-10-27T08:49:25+01:00",
+      "source": "betevé",
+      "title": "Pantalla Barcelona 2026, cinema gratuït als centres cívics: programa",
+      "excerpt": "Acostar el cinema als barris de la ciutat és l’objectiu del Pantalla Barcelona, organitzat per l’Institut de Cultura. Un pla per fer a Barcelona del 27 d’octubre del 2026 al 21 de març del 2027. Les pel·lícules, que en total són 21, es podran veure a 23 centres cívics. Es faran un total de 165 […]",
+      "url": "https://beteve.cat/agenda/pantalla-barcelona-cinema-centres-civics/",
+      "published": "2026-10-27T09:49:57+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pantalla-bcn-2026-oct-mars-2026-10-20.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Encasten un cotxe contra una joieria de Barcelona, roben pràcticament tot el que hi havia i fugen",
+      "excerpt": "Els lladres havien fet un primer intent de robatori aquest dissabte, però ha estat dilluns quan han aconseguit entrar i endur-s'ho tot, especialment rellotges de luxe",
+      "url": "https://www.3cat.cat/3catinfo/encasten-un-cotxe-contra-una-joieria-de-barcelona-roben-practicament-tot-el-que-hi-havia-i-fugen/noticia/3436274/",
+      "published": "2026-10-27T09:49:08+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/fd20bdb1-ce42-4acc-b414-941e58e33eb0_16-9-aspect-ratio_default_0_x301y319.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/1/1793085074113.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Telegram tanca un canal que incitava aldarulls a Barcelona",
+      "excerpt": "El canal Blocus-BCN s’ha tancat per infringir les condicions d’ús, segons l’aplicació",
+      "url": "https://www.vilaweb.cat/noticies/telegram-tanca-canal-blocus/",
+      "published": "2026-10-27T09:48:45+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "De Suècia a l’Havana",
+      "excerpt": "La música té la capacitat de fer-nos viatjar en el temps i en l’espai. Aquest viatge comença amb un grup suec que va exportar el seu èxit per tot Europa a principis dels 90 i acaba a l’Havana de Camila Cabello, que s’inspirava en les seves arrels per triomfar des del seu disc de debut. […]",
+      "url": "https://beteve.cat/periferies/de-suecia-a-lhavana/",
+      "published": "2026-10-27T09:44:22+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/periferies_271026-2026-10-26.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Alerta alimentària per la presència de salmonel·la en una tahina comercialitzada a Catalunya",
+      "excerpt": "S'ha ordenat la retirada del lot afectat i s'insta a les persones que hagin comprat aquesta pasta de sèsam afectada que no la consumeixin",
+      "url": "https://www.3cat.cat/3catinfo/alerta-alimentaria-per-la-presencia-de-salmonella-en-una-tahina-comercialitzada-a-catalunya/noticia/3436280/",
+      "published": "2026-10-27T09:43:05+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/8/9/1793088523498.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Vuit ferits lleus per un accident d’autobús municipal a Palma",
+      "excerpt": "El vehicle de la línia 8 ha hagut de frenar bruscament per evitar un xoc a l’avinguda del Comte de Sallent",
+      "url": "https://www.vilaweb.cat/noticies/vuit-ferits-lleus-per-un-accident-dautobus-municipal-a-palma/",
+      "published": "2026-10-27T09:39:59+01:00",
+      "category": "Societat",
+      "image": null,
       "priority": "3 · Altres notícies"
     },
     {
@@ -72,9 +142,49 @@
       "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
       "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
       "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-10-27T08:48:23+01:00",
+      "published": "2026-10-27T09:33:00+01:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El 46,3% de la població només pot cobrir les necessitats bàsiques, segons un estudi d’IDRA",
+      "excerpt": "Els llogaters presenten una situació econòmica més fràgil, amb dificultats per estalviar i assegurar un habitatge digne",
+      "url": "https://www.vilaweb.cat/noticies/463-poblacio-nomes-necessitats-basiques-idra/",
+      "published": "2026-10-27T09:18:19+01:00",
+      "category": "Economia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El cotxe volador de Tesla i les cortines de fum d’Elon Musk",
+      "excerpt": "La setmana passada Tesla va deixar el món de l’automoció amb un pam de nas durant la presentació (amb nou anys d’endarreriments) del Tesla Roadster. Un roadster és, per definició, un cotxe de dues places, lleuger i esportiu, una tipologia de vehicle força allunyada del cotxe que va presentar Tesla. Però deixant a banda aquesta puntualització, el pas dels dies i l’evolució dels esdeveniments han deixat clar que la presentació del primer cotxe volador ha estat una gran cortina de fum que vol desviar l’atenció…",
+      "url": "https://motor.ara.cat/novetats/cotxe-volador-tesla-cortines-fum-d-elon-musk_1_5891595.html",
+      "published": "2026-10-27T09:06:36+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/73febde0-4804-4047-a3dc-a17d16902e67_16-9-aspect-ratio_default_1061124.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "BComú impulsa Carol Recio abans de les municipals i l’erigeix com a portaveu del grup municipal",
+      "excerpt": "Moviment clau dins dels comuns de cara a les eleccions municipals 2027: el Grup Municipal de BComú ha decidit reorganitzar-se internament perquè la regidora Carol Recio assumeixi d’ara endavant el rol de portaveu del grup. Això significa que el partit li vol conferir més visibilitat i atribuir-li una posició de més rellevància dins de l’Ajuntament […]",
+      "url": "https://beteve.cat/politica/bcomu-impulsa-carol-recio-abans-municipals-portaveu-grup-municipal/",
+      "published": "2026-10-27T08:54:40+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/01/carolina-recio-200126.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Mbappé perd un patrocinador per riure's de Mao Zedong i la Xina suspèn la Lliga",
+      "excerpt": "El grup xinès de begudes Dongpeng ha anunciat que trenca el contracte amb el futbolista del Reial Madrid Kylian Mbappé després que el francès reconegués que riu amb els mems que el comparen amb Mao Zedong. L'empresa, que també té la marca de begudes Bu Shui La, que el jugador anunciava des del Mundial, ha difós un comunicat a la xarxa social local Weibo per confirmar la ruptura, al·legant una \"tolerància zero davant de comportaments que fereixen els sentiments nacionals\", sense especificar quins.",
+      "url": "https://www.ara.cat/gent/mbappe-perd-patrocinador-riure-s-mao-zedong_1_5891592.html",
+      "published": "2026-10-27T08:49:25+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fd20bdb1-ce42-4acc-b414-941e58e33eb0_16-9-aspect-ratio_default_0_x301y319.jpg",
       "priority": "3 · Altres notícies"
     },
     {
