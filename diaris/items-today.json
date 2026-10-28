@@ -3,7 +3,7 @@
   "items": [
     {
       "source": "VilaWeb",
-      "title": "Menys manteniment, més accidents mortals: la xarxa de gran velocitat espanyola en el punt de mira",
+      "title": "Menys manteniment, més accidents mortals: la xarxa de gran velocitat espanyola, en el punt de mira",
       "excerpt": "La gran velocitat espanyola gasta menys de la meitat en manteniment i seguretat que no pas la resta de xarxes europees, té molt menys personal dedicat a la vigilància de les vies i manté a la línia Sevilla-Madrid un sistema de seguretat que l'empresa creadora ja ha descatalogat",
       "url": "https://www.vilaweb.cat/noticies/dos-accidents-greus-en-nou-mesos-reobren-el-debat-sobre-lestat-deficitari-de-la-xarxa-espanyola-dalta-velocitat/",
       "published": "2026-10-28T18:10:26+01:00",
@@ -78,8 +78,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Augmenten a 68 els morts en el xoc de dos trens d'alta velocitat a Toledo",
-      "excerpt": "Un tren AVE ha impactat per darrere contra un Iryo a Los Yébenes, ha provocat un descarrilament i tres vagons han caigut per un terraplè",
+      "title": "Almenys 68 morts en el xoc de dos trens d'alta velocitat a Toledo",
+      "excerpt": "Un tren AVE ha impactat per darrere contra un Iryo que estava aturat a Los Yébenes, ha provocat un descarrilament i tres vagons han caigut per un terraplè",
       "url": "https://www.3cat.cat/3catinfo/un-xoc-entre-dos-trens-a-toledo-obliga-a-suspendre-la-circulacio-de-lalta-velocitat-entre-madrid-i-andalusia/noticia/3436523/",
       "published": "2026-10-28T09:40:48+01:00",
       "category": "Actualitat",
@@ -105,6 +105,56 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/068b43d8-08e5-4705-8b37-994277f4006b_source-aspect-ratio_default_0.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "Què és el LZB, el sistema de seguretat que ha fallat a la línia Madrid-Sevilla?",
+      "excerpt": "La dissortada cadena de fallades tècniques i errors humans que ha acabat amb el xoc de dos trens d'alta velocitat a Urda, Toledo, obre molts interrogants sobre com ha pogut passar i quins factors tècnics poden explicar un sinistre d'aquestes característiques. L'expert en el sector del transport i director del Centre d'Estudis del Transport Terminus, Joan Carles Salmerón, aclareix a l'ARA termes tècnics i les principals incògnites que encara envolten l'accident. Són sis preguntes per posar context i entendre conceptes clau.",
+      "url": "https://www.ara.cat/societat/mobilitat/lzb-sistema-seguretat-fallat-linia-madrid-sevilla_1_5893275.html",
+      "published": "2026-10-28T19:46:45+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/21e21a98-e166-4fd9-849c-6c6fa4059dc3_16-9-aspect-ratio_default_0_x757y497.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Els Mossos, previnguts davant de possibles nous aldarulls el proper dissabte: “Ens preocupa”",
+      "excerpt": "Des dels aldarulls i saquejos d’aquest dissabte, han estat desenes les crides a xarxes que incitaven a repetir la situació. De fet, ja hi ha comptes de TikTok i Telegram —els espais per on es difonen aquestes convocatòries— que han quedat tancats, però encara no s’ha identificat qui hi ha al darrere dels usuaris anònims […]",
+      "url": "https://beteve.cat/societat/mossos-preocupats-possibles-nous-aldarulls-31-octubre/",
+      "published": "2026-10-28T19:44:59+01:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/aldarulls-24-octubre-2026-10-28.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El govern d’Andorra aprova la despenalització de les dones que avortin",
+      "excerpt": "L'executiu manté en el codi penal les penes de presó per als metges que practiquin avortaments",
+      "url": "https://www.vilaweb.cat/noticies/el-govern-dandorra-aprova-la-despenalitzacio-de-les-dones-que-avortin/",
+      "published": "2026-10-28T19:43:26+01:00",
+      "category": "Andorra",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "La Fed manté els tipus d'interès i afavoreix Trump a una setmana de les eleccions",
+      "excerpt": "L'última reunió de la Reserva Federal (la Fed, el banc central dels Estats Units) no podia caure en pitjor moment, tant per a Donald Trump com per al seu president, Kevin Warsh. A una setmana de les eleccions la Fed ha decidit mantenir els tipus d'interès en la mateixa forquilla d'entre el 3,75% i el 4% després que a l'anterior reunió decidís apujar-los per primer cop des del 2023.",
+      "url": "https://www.ara.cat/economia/macroeconomia/fed-mante-tipus-d-interes-afavoreix-trump-setmana-eleccions_1_5893160.html",
+      "published": "2026-10-28T19:02:15+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/60d78050-7469-4c2f-bdd5-e71bb01f9227_source-aspect-ratio_default_0_x1630y881.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El govern espanyol lliura al Suprem el nom dels 163.355 nacionalitzats per la llei de nets amb el vot suspès",
+      "excerpt": "Segons el Ministeri d'Exteriors, 901 persones han acreditat la condició de descendents d'exiliats al consolat",
+      "url": "https://www.3cat.cat/3catinfo/el-govern-espanyol-lliura-al-suprem-el-nom-dels-163355-nacionalitzats-per-la-llei-de-nets-amb-el-vot-suspes/noticia/3436655/",
+      "published": "2026-10-28T18:59:33+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/9/1787070949598.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo · El temps",
@@ -323,6 +373,116 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "La producció per persona de Madrid és inflada, perquè xucla feina de territoris veïns",
+      "excerpt": "Catalunya perd posicions respecte a Madrid en PIB ‘per capita’, no perquè els seus treballadors siguin menys productius, sinó perquè les estatístiques atribueixen a Madrid una riquesa que han generat treballadors que viuen fora de la comunitat",
+      "url": "https://www.vilaweb.cat/noticies/la-produccio-per-persona-de-madrid-esta-inflada-perque-xucla-feina-de-ccaa-veines/",
+      "published": "2026-10-28T19:50:03+01:00",
+      "category": "La píndola",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els Mossos admeten que la presència policial no va aconseguir dissuadir els aldarulls",
+      "excerpt": "\"No ens va agafar per sorpresa, els fets ho desmenteixen\". Amb aquestes paraules, el director general de la policia, Ferran López, ha negat que Mossos d'Esquadra no s'esperessin els aldarulls de dissabte a Barcelona . La manifestació tenia un nivell 2 sobre 3 i, com ja ha anat explicant aquest diari, van fer 300 identificacions a joves abans de la convocatòria i també van retirar martells, pirotècnia, esprais, pedres i passamuntanyes. Ja hi havia hagut abans alguna manifestació de l'estil Blocus, una a Manresa, per…",
+      "url": "https://www.ara.cat/societat/successos/mossos-admeten-presencia-policial-no-aconseguir-dissuadir-aldarulls_1_5893211.html",
+      "published": "2026-10-28T19:49:10+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fc5a858d-f633-4816-af93-72850d8a7566_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Coses molestes de la meva ciutat",
+      "excerpt": "Via 15 és una coproducció en què col·laboren 15 televisions locals de la regió metropolitana.",
+      "url": "https://beteve.cat/via-15/coses-molestes-de-la-meva-ciutat/",
+      "published": "2026-10-28T19:47:56+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "S'entrega a Madrid per haver matat la parella a Barcelona",
+      "excerpt": "Els Mossos d'Esquadra investiguen l'homicidi d'una dona al districte de Nou Barris de Barcelona. Un home s'ha entregat aquest dimecres a Madrid, a la comissaria de la Policia Municipal, com a presumpte autor d'aquest crim. Segons fonts consultades per l'ARA, la víctima i l'home detingut eren parella. Segons ha informat el Tribunal Superior de Justícia de Catalunya, no consten antecedents judicials entre tots dos.",
+      "url": "https://www.ara.cat/societat/violencia-masclista/s-entrega-madrid-matat-parella-barcelona_1_5893374.html",
+      "published": "2026-10-28T19:32:10+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/886f0ae0-76fb-4e43-adc8-d46e2f6620d7_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els 17 minuts que expliquen l'accident mortal",
+      "excerpt": "A les 8.53 h d'aquest dimecres dos trens d'alta velocitat han xocat entre les poblacions de Mora i Urda, a Toledo. L'accident s'ha produït quan un tren AVE de Renfe ha envestit per darrere un tren d'Iryo, que estava aturat. La tragèdia ferroviària, que segons l'últim balanç ja ha deixat almenys 68 morts i desenes de ferits, molts dels quals greus, ja és el segon pitjor accident de la història de l'alta velocitat espanyola. Expliquem la cronologia dels fets en aquest mapa.",
+      "url": "https://www.ara.cat/societat/17-minuts-expliquen-l-accident-mortal_1_5893373.html",
+      "published": "2026-10-28T19:20:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1f187c38-c920-4ce9-bb7c-c8a0db942d3d_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El tren d’Iryo accidentat a Urda continuava aturat perquè no havia rebut l’ordre de reprendre la marxa",
+      "excerpt": "El centre de control d'ADIF havia autoritzat l'AVE de RENFE a continuar circulant, malgrat que el sistema de seguretat indicava que la via era ocupada",
+      "url": "https://www.vilaweb.cat/noticies/tren-iryo-accidentat-urda/",
+      "published": "2026-10-28T19:13:11+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-29-10-2026_134_5893054.html",
+      "published": "2026-10-28T19:05:58+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Espanya i l’error del sistema",
+      "excerpt": "El ministre Puente va convidar-nos ahir a sumar dos més dos sense dir quatre: \"Es pren la decisió que el tren que impacta contra l'Iryo [aturat] reprengui la marxa amb normalitat. És inexplicable [...]. És una decisió errònia [...]. És veritablement inversemblant\". O sigui que la culpa no va ser del sistema, sinó d’una persona. Excepte dir-ne el nom, la va deixar ben assenyalada.",
+      "url": "https://www.ara.cat/opinio/espanya-l-error-sistema_129_5893246.html",
+      "published": "2026-10-28T19:05:48+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ffc302df-837c-4b86-9365-c89473ccdb49_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-29-10-2026_134_5893279.html",
+      "published": "2026-10-28T19:00:54+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La tragèdia i el drama",
+      "excerpt": "Mentre el recompte de víctimes pujava despietat, van sortir a fer declaracions el ministre de Foment, Óscar Puente, i el president del govern espanyol, Pedro Sánchez. Puente es va esforçar per donar explicacions tècniques, i les va donar, però hi va introduir una paraula maleïda, una paraula inadmissible en moments de desesperació, i també en una campanya, o precampanya, electoral salvatge: és la paraula “inexplicable”. Que el ministre reconegui que la catàstrofe s'ha produït per una errada “inexplicable” (que des del centre de control es…",
+      "url": "https://www.ara.cat/opinio/tragedia-drama_129_5893274.html",
+      "published": "2026-10-28T18:59:13+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/56948183-2dcd-42dd-a6dc-5a8f977e56c4_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "RENFE atura la venda de bitllets de gran velocitat entre Madrid i Andalusia fins el 13 de desembre",
+      "excerpt": "La companyia no descarta de reprendre el servei abans si ADIF reobre la línia afectada per l'accident ferroviari d'Urda",
+      "url": "https://www.vilaweb.cat/noticies/renfe-atura-la-venda-de-bitllets-dalta-velocitat-entre-madrid-i-andalusia-fins-el-13-de-desembre/",
+      "published": "2026-10-28T18:57:47+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Barcelona té 2.443 restaurants: on són i quins barris no en tenen cap? | MAPA",
       "excerpt": "Barcelona té 2.443 restaurants. Ara bé, com es distribueixen pel territori? N’hi ha més al centre? I als barris perifèrics? Les zones on se’n concentren més són la Dreta de l’Eixample i l’Antiga Esquerra de l’Eixample, a força distància del tercer barri que en té més, Sant Gervasi – Galvany, segons dades de l’Ajuntament. Si […]",
@@ -359,7 +519,7 @@
       "url": "https://www.ara.cat/previsions/cap-ambient-cop-mes-fred-tardorenc_1_5893261.html",
       "published": "2026-10-28T18:43:39+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/13b5f68d-02d2-469b-8ac6-121fc71439d4_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/dfc031e8-ab31-4562-9703-de43e020ce96_16-9-aspect-ratio_default_0.png",
       "priority": "3 · Altres notícies"
     },
     {
@@ -369,7 +529,7 @@
       "url": "https://www.ara.cat/esports/rcd-espanyol/espanyol-eder-sarabia-nou-entrenador_1_5893276.html",
       "published": "2026-10-28T18:39:44+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/941462b6-ecff-4d3f-b9cc-ab3c9333b720_16-9-aspect-ratio_default_0_x2283y248.jpg",
+      "image": "https://static1.ara.cat/clip/941462b6-ecff-4d3f-b9cc-ab3c9333b720_source-aspect-ratio_default_0_x2283y248.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -395,7 +555,7 @@
     {
       "source": "VilaWeb",
       "title": "Alemanya i Itàlia frenen la proposta de convertir el Canadà en el primer membre associat de la UE",
-      "excerpt": "Brussel·les i Ottawa cerquen de reforçar els vincles davant les tensions comercials amb Trump en una cimera a Mont-real",
+      "excerpt": "Brussel·les i Òttawa cerquen de reforçar els vincles arran de les tensions comercials amb Trump en una cimera a Mont-real",
       "url": "https://www.vilaweb.cat/noticies/alemanya-i-italia-frenen-la-proposta-de-convertir-el-canada-en-el-primer-membre-associat-de-la-ue/",
       "published": "2026-10-28T18:34:22+01:00",
       "category": "Món",
@@ -454,7 +614,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Andreu Martí prova de desviar responsabilitats cap a funcionaris i justifica els comptes andorrans pel patrimoni familiar",
+      "title": "Andreu Martí prova de desviar responsabilitats cap a funcionaris i atribueix els comptes andorrans al patrimoni familiar",
       "excerpt": "L'ex-batlle de l'Ametlla de Mar declara que la llista de comissions que li van trobar pertanyia a treballadors d'Efial",
       "url": "https://www.vilaweb.cat/noticies/andreu-marti-intenta-desviar-responsabilitats-cap-a-funcionaris-i-justifica-els-comptes-andorrans-pel-patrimoni-familiar/",
       "published": "2026-10-28T18:02:59+01:00",
@@ -614,7 +774,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Sánchez diu que s'arribarà al final per aclarir les causes de l'accident: \"Espanya no ho pot assumir\"",
+      "title": "Sánchez promet una investigació \"fins al final\": \"Dos accidents en un any no són assumibles\"",
       "excerpt": "Feijóo diu que Espanya té dret a saber què està passant amb les seves infraestructures",
       "url": "https://www.3cat.cat/3catinfo/sanchez-diu-que-sarribara-al-final-per-aclarir-les-causes-de-laccident-espanya-no-ho-pot-assumir/noticia/3436652/",
       "published": "2026-10-28T16:10:56+01:00",
@@ -794,12 +954,12 @@
     },
     {
       "source": "ARA",
-      "title": "La maniobra política que podria expulsar Netanyahu de la política",
+      "title": "La maniobra que podria expulsar Netanyahu de la política",
       "excerpt": "Amb els resultats de les eleccions parlamentàries a Israel a sobre de la taula, s’obren alguns escenaris possibles, tot i que la prudència ha d’acompanyar les especulacions, perquè són escenaris molt diversos i fàcilment poden anar en una direcció o en la contrària. L’única cosa en principi clara és que Benjamin Netanyahu ha perdut la majoria al Parlament, en gran part per l’elevat nombre d’escons que han obtingut els partits àrabs.",
       "url": "https://www.ara.cat/internacional/proxim-orient/maniobra-politica-expulsar-netanyahu-politica_129_5892925.html",
       "published": "2026-10-28T13:35:54+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/795a4a9b-f695-473e-a246-cfb44a7a62d2_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/c580907b-d7d6-4d53-94b5-0304d93787b1_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1015,7 +1175,7 @@
     {
       "source": "ARA",
       "title": "Sánchez veu \"inassumible\" dos accidents en un any i Feijóo reclama explicacions",
-      "excerpt": "El greu accident ferroviari de Toledo d'aquest dimecres, sumat al d'Adamuz de fa nou mesos en la mateixa línia d'alta velocitat, \"no és assumible per a un país com Espanya\". És la valoració que ha fet Pedro Sánchez de l'incident que ha provocat la mort d'almenys 68 persones. Des del lloc dels fets, el president del govern espanyol ha promès \"contundència\" en cas que hi hagi hagut negligències o fallades de seguretat, si bé ha evitat assenyalar encara possibles culpables. Ara bé, la nova tragèdia…",
+      "excerpt": "El greu accident ferroviari de Toledo d'aquest dimecres, sumat al d'Adamuz de fa nou mesos –a la mateixa línia d'alta velocitat– \"no és assumible per a un país com Espanya\". És la valoració que Pedro Sánchez ha fet de l'incident que ha provocat la mort d'almenys 68 persones. Des del lloc dels fets, el president del govern espanyol ha promès \"contundència\" en cas que hi hagi hagut negligències o fallades de seguretat, si bé ha evitat assenyalar encara possibles culpables. Ara bé, la nova tragèdia…",
       "url": "https://www.ara.cat/politica/tots-partits-aturen-precampanya-l-accident-ferroviari-toledo-excepte-vox_1_5892797.html",
       "published": "2026-10-28T12:04:46+01:00",
       "category": "Actualitat",
@@ -1185,7 +1345,7 @@
     {
       "source": "3CatInfo",
       "title": "Xoc de trens a Toledo: Puente titlla d'\"inexplicable\" l'ordre del centre de control de reprendre la marxa",
-      "excerpt": "Una avaria ha obligat a aturar els dos trens i, quan l'AVE ha reprès la marxa, ha impactat contra l'Iryo que encara estava parat a la via",
+      "excerpt": "Una avaria ha obligat a aturar els dos trens i, quan l'AVE ha reprès la marxa, ha impactat contra l'Iryo, la maquinista del qual parlava amb el centre de control per obtenir l'autorització i tornar a circular",
       "url": "https://www.3cat.cat/3catinfo/un-error-huma-al-centre-de-control-principal-hipotesis-del-xoc-entre-dos-trens-a-toledo/noticia/3436534/",
       "published": "2026-10-28T10:33:15+01:00",
       "category": "Actualitat",
@@ -1270,7 +1430,7 @@
     {
       "source": "ARA",
       "title": "Puente veu \"inexplicable\" que un operari ordenés a l’AVE reprendre la marxa amb un tren aturat a la via",
-      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Dos trens d'alta velocitat, un de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. L'últim balanç de víctimes se situa en 68 persones mortes i desenes de ferides, moltes de les quals greus, segons han indicat des del…",
+      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Aquest dimecres, dos trens d'alta velocitat, un de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. L'últim balanç de víctimes se situa en 68 persones mortes i desenes de ferides, moltes de les quals greus, segons han indicat…",
       "url": "https://www.ara.cat/societat/xoc-trens-talla-l-alta-velocitat-madrid-andalusia_1_5892696.html",
       "published": "2026-10-28T09:36:20+01:00",
       "category": "Actualitat",
