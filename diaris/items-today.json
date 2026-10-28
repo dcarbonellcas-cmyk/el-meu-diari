@@ -3,6 +3,46 @@
   "items": [
     {
       "source": "ARA",
+      "title": "Almenys 10 morts en l'accident dels dos trens d'alta velocitat a Urda, Toledo",
+      "excerpt": "",
+      "url": "https://www.ara.cat/societat/successos/terrible-testimonis-l-accident-tren-asseguren-hi-ferits-morts_6_5892710.html",
+      "published": "2026-10-28T10:00:13+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "betevé",
+      "title": "Desenes de morts en un accident entre dos trens d’alta velocitat a Toledo",
+      "excerpt": "(ACN) Almenys 10 persones han mort en un xoc per encalç entre dos trens d’alta velocitat aquest dimecres al matí entre les estacions de Los Yébenes i Urda, a la província de Toledo. La xifra de víctimes mortals, però, pot acabar sent molt més elevada. Pel que fa als ferits no hi ha informació oficial. […]",
+      "url": "https://beteve.cat/societat/accident-trens-alta-velocitat-toledo/",
+      "published": "2026-10-28T09:53:44+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/accident-trens-toledo-2026-10-28.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Augmenta a 39 el nombre de morts en el xoc de dos trens d'alta velocitat a Toledo",
+      "excerpt": "Un tren AVE ha impactat per darrere contra un Iryo, que ha descarrilat, i dos vagons han caigut per un terraplè",
+      "url": "https://www.3cat.cat/3catinfo/un-xoc-entre-dos-trens-a-toledo-obliga-a-suspendre-la-circulacio-de-lalta-velocitat-entre-madrid-i-andalusia/noticia/3436523/",
+      "published": "2026-10-28T09:40:48+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/7/1793178320177.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Un nou accident entre trens d’alta velocitat podria haver causat desenes de morts a Castella-la Manxa",
+      "excerpt": "Un tren ha encalçat l'altre i tres vagons han caigut per un terraplè",
+      "url": "https://www.vilaweb.cat/noticies/dos-trens-xoquen-a-urda-i-dos-vagons-cauen-per-un-terraple/",
+      "published": "2026-10-28T09:33:27+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
       "title": "La guerra com a força corrosiva que penetra tots els espais de la vida",
       "excerpt": "Ràdio Sarajevo , de Tijan Sila (Sarajevo, 1981), aconsegueix el que la literatura de la memòria sovint persegueix i rarament assoleix: convertir una experiència particular en una veritat humana d’abast universal. A partir dels records de la seva infantesa durant el setge de Sarajevo dels anys 90, Sila construeix un relat que no busca explicar la guerra, sinó fer-ne sentir la degradació quotidiana i les cicatrius invisibles que deixa en qui la travessa.",
       "url": "https://llegim.ara.cat/critiques-literaries/guerra-forca-corrosiva-penetra-tots-espais-vida_1_5888183.html",
@@ -10,6 +50,16 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/068b43d8-08e5-4705-8b37-994277f4006b_source-aspect-ratio_default_0.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Metges en vaga tallen la Diagonal de Barcelona en el primer dia d’aturada indefinida",
+      "excerpt": "El sindicat Metges de Catalunya manté la convocatòria tot i la retirada d'uns altres sindicats de l'estat espanyol",
+      "url": "https://www.vilaweb.cat/noticies/metges-en-vaga-tallen-diagonal-barcelona-primer-dia-vaga-indefinida/",
+      "published": "2026-10-28T10:40:08+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -118,13 +168,113 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "Un passatger del tren Iryo accidentat: “Hi ha gent que no ho podrà explicar”",
+      "excerpt": "La topada ha deixat els dos darrers vagons molt malmesos i ha fet que el tren de RENFE anés a parar a la via del costat",
+      "url": "https://www.vilaweb.cat/noticies/un-passatger-del-tren-iryo-accidentat-hi-ha-gent-que-no-ho-podra-explicar/",
+      "published": "2026-10-28T10:58:22+01:00",
+      "category": "Món",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Biel Mesquida, la Bressola i el Correllengua Agermanat, entre els premis 31 de Desembre de l’OCB",
+      "excerpt": "Són els quarantens premis que lliura l’Obra Cultural Balear per a reconèixer el compromís de persones i entitats a favor de la cultura i la llengua catalanes",
+      "url": "https://www.vilaweb.cat/noticies/biel-mesquida-bressola-correllengua-premis-31-desembre/",
+      "published": "2026-10-28T10:49:38+01:00",
+      "category": "Cultura",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Sant Andreu destitueix Natxo González després d’un inici de curs poc engrescador a Primera RFEF",
+      "excerpt": "La UE Sant Andreu ha decidit posar fi a la segona etapa de Natxo González a la banqueta quadribarrada després “què no s’han obtingut els resultats desitjats” i un inici de temporada poc engrescador a Primera RFEF. El tècnic basc, que va arribar al club l’estiu del 2025, va ser l’arquitecte de l’ascens de la […]",
+      "url": "https://beteve.cat/esports/sant-andreu-destitueix-natxo-gonzalez-2026/",
+      "published": "2026-10-28T10:46:48+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/natxo-gonzalez-sant-andreu-2026-10-28.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Museu Egipci incorpora una sala immersiva per capbussar-nos en l’antiguitat",
+      "excerpt": "Incorporar nous llenguatges audiovisuals per trobar altres maneres d’explicar l’antic Egipte. Aquest és l’objectiu de la sala immersiva que el Museu Egipci de Barcelona estrena ara amb l’exposició “Iny, l’explorador del faraó” i neix amb la vocació de ser un espai permanent. La idea és que complementi les peces originals i ajudi el visitant a […]",
+      "url": "https://beteve.cat/cultura/museu-egipci-sala-immersiva/",
+      "published": "2026-10-28T10:41:40+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/museu-egipci-sala-immersiva-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Halloween amb nens: Què fer a casa i activitats a Barcelona per als més petits",
+      "excerpt": "Arriba la Castanyada i també el Halloween 2026, que arribat dels Estats Units i en els últims anys, ha anat trobant el seu espai també a casa nostra. Per tant, quan s’acosta el 31 d’octubre ja ens comencem a preparar per a una cosa o l’altra, o totes dues alhora. Aquí tens un recull d’activitats […]",
+      "url": "https://beteve.cat/agenda/halloween-nens-barcelona/",
+      "published": "2026-10-28T10:34:53+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/10/halloween-nens-071025.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Un error humà al centre de control, principal hipòtesi del xoc entre dos trens a Toledo",
+      "excerpt": "La circulació entre Andalusia i Madrid està suspesa i de moment s'han confirmat 39 víctimes mortals",
+      "url": "https://www.3cat.cat/3catinfo/un-error-huma-al-centre-de-control-principal-hipotesis-del-xoc-entre-dos-trens-a-toledo/noticia/3436534/",
+      "published": "2026-10-28T10:33:15+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/8/1793178135286.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Jordi, passatger del tren Iryo envestit a Urda: \"Hi ha dos vagons completament destrossats\"",
+      "excerpt": "Miguel Ángel Pérez Laguna, que anava a l'AVE que circulava en direcció Sevilla, ha assegurat que les imatges recorden l'accident d'Adamuz",
+      "url": "https://www.3cat.cat/3catinfo/jordi-passatger-del-tren-iryo-envestit-a-urda-hi-ha-dos-vagons-completament-destrossats/noticia/3436532/",
+      "published": "2026-10-28T10:28:17+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/6/1793178668664.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
       "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
       "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
-      "published": "2026-10-28T09:58:37+01:00",
+      "published": "2026-10-28T10:26:01+01:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El camí de l’Atlètic-Barceloneta a la Champions League 2026-27: el campió vol repetir títol",
+      "excerpt": "El Club Natació Atlètic-Barceloneta disputa, una temporada més, la Champions League masculina de waterpolo. Els mariners ho faran com a flamants campions de la competició i amb la intenció de revalidar un títol que seria el tercer del seu historial. El conjunt de Fran Fernández iniciarà la competició amb la disputa de la fase de […]",
+      "url": "https://beteve.cat/esports/cami-atletic-barceloneta-champions-26-27/",
+      "published": "2026-10-28T10:25:29+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/primer-equip-atletic-barceloneta-26-27-2026-09-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Castanyada i Halloween 2026: Què fer a Barcelona? Activitats més destacades",
+      "excerpt": "Arriba la festa de la Castanyada 2026 i el Halloween a Barcelona! Els diferents barris de la ciutat han preparat desenes d’activitats per viure la nit més terrorífica de l’any, celebrar la Castanyada i la nit de Tots Sants. Prepara la teva disfressa de por, els panellets i les castanyes i suma’t a la proposta […]",
+      "url": "https://beteve.cat/agenda/castanyada-halloween-barcelona/",
+      "published": "2026-10-28T10:21:13+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/10/castanyada-halloween-barcelona.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’automobilística Ebro dobla els ingressos en un any amb les vendes concentrades a l’estat",
+      "excerpt": "(ACN) L’automobilística Ebro Motors Group ha assolit uns ingressos de 309,7 milions d’euros durant la primera meitat del 2026, un 194,2 % més en comparació amb els 105,3 milions del mateix període de l’any passat, segons ha informat aquest dimecres en un comunicat. L’empresa va tancar el semestre amb un resultat brut d’explotació (EBITDA) d’1,7 […]",
+      "url": "https://beteve.cat/economia/ebro-dobla-ingressos-vendes-concentrades-estat/",
+      "published": "2026-10-28T10:08:03+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/05/automobile-ebro-090525.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -158,23 +308,23 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "3CatInfo",
-      "title": "Un xoc entre dos trens a Toledo obliga a suspendre la circulació de l'alta velocitat entre Madrid i Andalusia",
-      "excerpt": "",
-      "url": "https://www.3cat.cat/3catinfo/un-xoc-entre-dos-trens-a-toledo-obliga-a-suspendre-la-circulacio-de-lalta-velocitat-entre-madrid-i-andalusia/noticia/3436523/",
-      "published": "2026-10-28T09:40:48+01:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/4/8/1793176694584.jpg",
+      "source": "betevé",
+      "title": "Les persones sense llar moren, de mitjana, abans dels 50 anys, segons Arrels Fundació",
+      "excerpt": "Ja fa anys que Arrels Fundació recorda, de diverses maneres, les persones sensel lar que han mort a la ciutat de Barcelona. Ara l’entitat ha elaborat l’informe Viure al carrer mata, en què per primer cop s’han donat xifres d’aquest fenomen. En 10 anys, entre el 2015 i el 2025, 682 de les persones sense […]",
+      "url": "https://beteve.cat/societat/persones-sense-llar-moren-mitjana-abans-50-anys/",
+      "published": "2026-10-28T09:38:22+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/12/sensesostre-101225.jpg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
-      "title": "Un xoc entre dos trens talla l'alta velocitat entre Madrid i Andalusia",
-      "excerpt": "Adif informa que un \"abast entre dos trens\" ha provocat la interrupció de la circulació de l'alta velocitat entre Madrid i Andalusia. L'operadora ferroviària informa del xoc aquest matí de dimecres a les seves xarxes socials.",
+      "title": "\"És terrible\": el relat d'un dels passatgers del tren accidentat",
+      "excerpt": "Adif ha informat aquest dimecres al matí d'un xoc entre dos trens de l'alta velocitat a la província de Toledo que ha obligat a tallar la circulació de la línia entre Madrid i Sevilla. Segons ha informat el ministeri de Transports, l'accident s'ha produït entre un tren AVE (Renfe) i un tren Iryo en un punt entre les poblacions de Mora i Urda. De moment, es desconeix l'abast definitiu de l'accident pel que fa a ferits i possibles víctimes mortals, tot i que Esther Padilla,…",
       "url": "https://www.ara.cat/societat/xoc-trens-talla-l-alta-velocitat-madrid-andalusia_1_5892696.html",
       "published": "2026-10-28T09:36:20+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/1f9c13bc-ed65-43e1-bffe-f9bfa31bd493_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/70813646-3674-4751-910e-b00e3f8d5a52_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -195,16 +345,6 @@
       "published": "2026-10-28T09:34:30+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/6a443eab-d90f-432b-97b7-fd06d1f58e10_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "VilaWeb",
-      "title": "Un xoc entre dos trens a Andalusia causa uns quants ferits i dos vagons cauen per un terraplè",
-      "excerpt": "La línia d'alta velocitat entre Madrid i Andalusia està tallada",
-      "url": "https://www.vilaweb.cat/noticies/dos-trens-xoquen-a-urda-i-dos-vagons-cauen-per-un-terraple/",
-      "published": "2026-10-28T09:33:27+01:00",
-      "category": "Societat",
-      "image": null,
       "priority": "3 · Altres notícies"
     },
     {
@@ -309,7 +449,7 @@
     },
     {
       "source": "ARA",
-      "title": "Una ablació cada quinze segons i una dona assassinada cada deu minuts: pot ser veritat?",
+      "title": "Una ablació cada quinze segons i una dona assassinada cada deu minuts: com pot ser?",
       "excerpt": "Volia fer una crònica de la presentació de la nova novel·la de Laetitia Colombani , Un dia sense dones (La Magrana / Salamandra, 2026), sense fer servir el verb trenar . Ho provo uns quants cops i ho deixo estar. No és que tingui pressa per treure'm de la màniga l’as de La trena per enganxar-vos a l’article, però és que he de fer servir el símil del teixir i el trenar perquè l’autora torna a aquella estructura amb la qual va trobar l’èxit. Explico…",
       "url": "https://llegim.ara.cat/actualitat/ablacio-quinze-segons-dona-assassinada-deu-minuts-pot-veritat_1_5891980.html",
       "published": "2026-10-28T07:30:15+01:00",
