@@ -97,6 +97,42 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimecres: baixa la temperatura a l'interior i al Pirineu",
+      "excerpt": "Sense pluges a la vista i amb temperatura diürna més baixa fora de la costa",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/",
+      "published": "2026-10-27T18:47:10+01:00",
+      "updated": "2026-10-28T17:52:47+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/4/1793206193048.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433163/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Els maquinistes mantenen la vaga a Renfe per aquest dijous",
+      "excerpt": "La vaga a Renfe prevista per dijous en defensa de la seguretat ferroviària es manté. Ho ha anunciat aquest dimecres el sindicat de maquinistes Semaf, que ha cridat els 6.000 conductors de tot l'Estat a participar en l'aturada prevista a partir d'aquesta mitjanit. El tràgic accident d'Urda, a Toledo –que ja ha deixat més d'una seixantena de ferits–, no ha canviat els plans del sindicat, que havien convocat la vaga per protestar contra el \"bloqueig administratiu\" dels acords signats en matèria de seguretat ferroviària, protocols…",
+      "url": "https://www.ara.cat/societat/mobilitat/maquinistes-mantenen-vaga-renfe-aquest-dijous_1_5893171.html",
+      "published": "2026-10-28T17:35:54+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/187afa68-ccfb-4afc-a230-cc2245718650_16-9-aspect-ratio_default_0_x4373y2481.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els partits àrabs d'Israel, la minoria que pot impedir un nou govern de Netanyahu",
+      "excerpt": "En les eleccions d'aquest dimarts, ni el bloc de Netanyahu ni el de l'oposició han assolit la majoria i hauran de pactar amb els palestins, refer aliances o repetir els comicis",
+      "url": "https://www.3cat.cat/3catinfo/els-partits-arabs-disrael-la-minoria-que-pot-impedir-un-nou-govern-de-netanyahu/noticia/3436573/",
+      "published": "2026-10-28T17:09:45+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/4/1793187427849.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "Els maquinistes de RENFE mantenen la vaga de demà pels incompliments dels acords de seguretat",
       "excerpt": "El sindicat SEMAF reclama canvis estructurals en la seguretat ferroviària i estudia noves mobilitzacions arran de l’accident d’Urda",
@@ -174,7 +210,12 @@
       "published": "2026-10-28T10:40:08+01:00",
       "category": "Societat",
       "image": null,
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433148/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-metges-comencen-una-vaga-indefinida-que-demanen-i-com-impactara-en-el-pacient/noticia/3436437/"
+      }
     },
     {
       "source": "ARA",
@@ -184,22 +225,6 @@
       "published": "2026-10-28T09:10:37+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/acf007cd-8c05-4745-80cc-99b41bb7c5e6_16-9-aspect-ratio_default_0.png",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dimecres: baixa la temperatura a l'interior i al Pirineu",
-      "excerpt": "Sense pluges a la vista i amb temperatura diürna més baixa fora de la costa",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/",
-      "published": "2026-10-27T18:47:10+01:00",
-      "updated": "2026-10-28T08:36:59+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/1/7/1793173008571.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433068/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -270,7 +295,12 @@
       "published": "2026-10-28T06:47:13+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/5/0/1793177785505.jpeg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433148/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-metges-comencen-una-vaga-indefinida-que-demanen-i-com-impactara-en-el-pacient/noticia/3436437/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -281,6 +311,86 @@
       "category": "Llevant",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "BComú demana a Collboni comprar el Bloc Papallona i quatre finques més per evitar especulació",
+      "excerpt": "El Grup Municipal de BComú demanarà al govern de Jaume Collboni que compri cinc edificis de Barcelona que asseguren que estan “amenaçats per l’especulació immobiliària” des de fa mesos. Són les finques següents: Els comuns volen evitar que els veïns d’aquests immobles hagin de marxar de casa i per això reclamen al consistori l’adquisició dels […]",
+      "url": "https://beteve.cat/politica/bcomu-demana-collboni-comprar-edificis-amenacats-especulacio-immobiliaria/",
+      "published": "2026-10-28T17:29:46+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/05/Copia-de-Jordi-Alba-i-Thiago-Alcantara.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1919/",
+      "published": "2026-10-28T17:18:35+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els “tios” que s’ha trobat Irene Montero",
+      "excerpt": "Els polítics poden anar a les televisions a parlar de sexe, que els deu donar vots. Irene Montero – ens ho explica Mònica Planas – va dir en un programa en què compartia entrevista amb Gabriel Rufián: “ Cada vez es más difícil encontrar un tío que te coma bien el coño ”.",
+      "url": "https://www.ara.cat/opinio/tios-s-trobat-irene-montero_129_5892904.html",
+      "published": "2026-10-28T17:13:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3ef5d109-5af0-481b-bf2b-4f6dfa7a2018_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La castanyera més jove: “De petita no anava al parc i ajudava la mare a coure castanyes”",
+      "excerpt": "A priori sembla una parada de castanyes de les de tota la vida, amb la fusta omnipresent, però si et fixes en el rètol s’hi veuen perfectament anunciats els perfils d’Instagram i TikTok, @castanyeralaoca, i un telèfon amb el símbol de WhatsApp. Al capdavant de la parada hi ha la Sara Nialet, té 28 anys […]",
+      "url": "https://beteve.cat/estils-de-vida/castanyera-mes-jove-ajudava-mare-coure-castanyes/",
+      "published": "2026-10-28T17:12:12+01:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/CASTANYES_PARADA-2026-10-27.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La jutgessa rebutja l’alerta de “risc crític” en el trasllat de les pintures de Sixena i en manté el calendari",
+      "excerpt": "Dóna deu dies al MNAC per a justificar el compliment del calendari i desestima la petició de nous informes tècnics sobre els riscs per a les obres",
+      "url": "https://www.vilaweb.cat/noticies/la-jutgessa-rebutja-lalerta-de-risc-critic-en-el-trasllat-de-les-pintures-de-sixena-i-mante-el-calendari/",
+      "published": "2026-10-28T17:06:18+01:00",
+      "category": "Art i museus",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Core in Fronte es retira de les negociacions amb França i reclama un referèndum a Còrsega",
+      "excerpt": "El partit independentista, amb sis diputats a l'Assemblea de Còrsega, pren la decisió arran del refús del senat francès a la reforma de l'autonomia",
+      "url": "https://www.vilaweb.cat/noticies/core-in-fronte-es-retira-de-les-negociacions-amb-franca-i-reclama-un-referendum-a-corsega/",
+      "published": "2026-10-28T17:03:49+01:00",
+      "category": "Còrsega",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Freelander 8, el totterreny de sempre ara és xinès",
+      "excerpt": "El Land Rover Freelander era un totterreny molt popular a Europa, fabricat entre els anys 1997 i 2015 a la localitat anglesa de Solihull, als afores de Birmingham. El gegant automobilístic xinès Chery –matriu d’Omoda, Jaecco i Ebro– ha arribat a un acord amb Jaguar-Land Rover per convertir Freelander en una nova marca de totterrenys grans i de luxe, amb l’objectiu de fer-se un lloc al mercat xinès i europeu.",
+      "url": "https://motor.ara.cat/novetats/freelander-8-totterreny-sempre-ara-xines_1_5892942.html",
+      "published": "2026-10-28T17:03:10+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8ce0b8c0-ee0f-4bb0-a38d-6e96d8bd8487_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Si algun dia em falla el cap, qui diré que soc? Dolores Redondo o Amaia Salazar?\"",
+      "excerpt": "¿Pot passar que un personatge “posseeixi” el seu creador? És el que li succeeix a Benedict Newman, un escriptor milionari i supervendes, que es desmaia mentre mira fotografies d'un assassinat i es desperta convertit en el detectiu de les seves novel·les: Colt Stark. La Nash Elizondo, el personatge creat per Dolores Redondo (Sant Sebastià, 1969), és qui haurà d'esbrinar si Newman és innocent o pot estar involucrat en una sèrie de crims. L'escriptora basca, autora de llibres com els de la trilogia del Baztan, torna…",
+      "url": "https://llegim.ara.cat/entrevistes/dia-em-falla-cap-dire-dolores-redondo-amaia-salazar_128_5892859.html",
+      "published": "2026-10-28T16:58:05+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3a5ac65e-edbe-4a9d-ad58-97ff59162ef8_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -724,12 +834,12 @@
     },
     {
       "source": "ARA",
-      "title": "Tots els partits excepte Vox aturen la precampanya per l'accident ferroviari de Toledo",
-      "excerpt": "El greu accident ferroviari d'aquest dimecres ha impactat de ple en la precampanya del 29-N. Tots els partits tret de Vox han aturat l'agenda que tenien prevista avui per la tragèdia –el PSOE, de fet, ja ha avançat que també cancel·la un acte que havia convocat aquest dijous a Vitòria–. Les conseqüències polítiques del xoc entre dos trens a Toledo, que ja deixa un balanç d'almenys 64 morts, no només capgiren les convocatòries dels pròxims dies sinó que, a tan sols un mes de les…",
+      "title": "El PP prepara el terreny per atacar Sánchez mentre Vox el culpa de l’accident de Toledo",
+      "excerpt": "El greu accident ferroviari d'aquest dimecres ha impactat de ple en la precampanya del 29-N. Tots els partits tret de Vox han aturat l'agenda que tenien prevista avui per la tragèdia, que ha centrat totes les declaracions. Les conseqüències polítiques del xoc entre dos trens a Toledo, que ja deixa un balanç d'almenys 68 morts, no només capgiren les convocatòries dels pròxims dies sinó que, a tan sols un mes de les eleccions generals, també tindran un efecte en les estratègies dels partits en les…",
       "url": "https://www.ara.cat/politica/tots-partits-aturen-precampanya-l-accident-ferroviari-toledo-excepte-vox_1_5892797.html",
       "published": "2026-10-28T12:04:46+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/36928586-0e95-4f7b-88e9-6b8c108290c3_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/f5764df9-4726-4ba5-a198-b0b8b5e55f22_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -775,7 +885,7 @@
     {
       "source": "ARA",
       "title": "L'accident de trens a Toledo, en imatges",
-      "excerpt": "Segons els primers indicis, aquest dimecres al matí un AVE hauria xocat per darrere amb un Iryo aturat, fet que ha provocat el descarrilament de diversos vagons. Recollim les imatges de l'accident.",
+      "excerpt": "Aquest dimecres, a les 8.53 hores, dos trens d'alta velocitat han xocat entre les poblacions de Mora i Urda, a Toledo. De moment, el balanç de víctimes pujaria a més d'una seixantena de persones. Aquestes són les imatges de l'accident.",
       "url": "https://www.ara.cat/societat/l-accident-trens-toledo-imatges_3_5892800.html",
       "published": "2026-10-28T11:35:45+01:00",
       "category": "Actualitat",
@@ -910,7 +1020,12 @@
       "published": "2026-10-28T10:28:17+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/8/1793183194487.jpeg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433136/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/jordi-passatger-del-tren-iryo-envestit-a-urda-hi-ha-dos-vagons-completament-destrossats/noticia/3436532/"
+      }
     },
     {
       "source": "betevé",
@@ -975,11 +1090,11 @@
     {
       "source": "ARA",
       "title": "Puente veu \"inexplicable\" que un operari ordenés a l’AVE reprendre la marxa amb un tren aturat a la via",
-      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Dos trens d'alta velocitat, un de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí, a Urda la província de Toledo. El balanç de víctimes se situa a aquesta hora en 68 persones mortes i desenes de ferides, moltes de les quals greus, segons han indicat…",
+      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Dos trens d'alta velocitat, un de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. El balanç de víctimes se situa a aquesta hora en 68 persones mortes i desenes de ferides, moltes de les quals greus, segons han…",
       "url": "https://www.ara.cat/societat/xoc-trens-talla-l-alta-velocitat-madrid-andalusia_1_5892696.html",
       "published": "2026-10-28T09:36:20+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/23c515df-dde8-4b56-8243-48b01877b155_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/ffc302df-837c-4b86-9365-c89473ccdb49_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
