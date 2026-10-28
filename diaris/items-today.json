@@ -2,16 +2,26 @@
   "date": "2026-10-28",
   "items": [
     {
+      "source": "ARA",
+      "title": "La guerra com a força corrosiva que penetra tots els espais de la vida",
+      "excerpt": "Ràdio Sarajevo , de Tijan Sila (Sarajevo, 1981), aconsegueix el que la literatura de la memòria sovint persegueix i rarament assoleix: convertir una experiència particular en una veritat humana d’abast universal. A partir dels records de la seva infantesa durant el setge de Sarajevo dels anys 90, Sila construeix un relat que no busca explicar la guerra, sinó fer-ne sentir la degradació quotidiana i les cicatrius invisibles que deixa en qui la travessa.",
+      "url": "https://llegim.ara.cat/critiques-literaries/guerra-forca-corrosiva-penetra-tots-espais-vida_1_5888183.html",
+      "published": "2026-10-28T07:15:05+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/068b43d8-08e5-4705-8b37-994277f4006b_source-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dimecres: baixa la temperatura a l'interior i al Pirineu",
-      "excerpt": "Sense pluges a la vista i amb temperatura més baixa fora de la costa",
+      "excerpt": "Sense pluges a la vista i amb temperatura diürna més baixa fora de la costa",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/",
       "published": "2026-10-27T18:47:10+01:00",
-      "updated": "2026-10-28T06:49:39+01:00",
+      "updated": "2026-10-28T07:44:18+01:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/9/6/1793086302569.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433036/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6433068/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-baixa-la-temperatura-a-linterior-i-al-pirineu/noticia/3436277/"
       },
@@ -19,13 +29,218 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Els partits àrabs dupliquen els escons a la Knesset i podrien ser clau per a formar govern a Israel",
-      "excerpt": "Una participació excepcional de l’electorat palestí converteix els dos partits àrabs en la clau de la formació de govern",
+      "title": "Els partits àrabs reclamen de formar part del govern d’Israel: “No hi ha futur sense la nostra veu”",
+      "excerpt": "\"És un dia històric\", ha proclamat el dirigent de la Llista Conjunta, Yousef Jabareen",
+      "url": "https://www.vilaweb.cat/noticies/partits-arabs-formar-part-govern-israel/",
+      "published": "2026-10-28T07:31:15+01:00",
+      "category": "Llevant",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "En marxa la reforma del viaducte de Vallcarca per millorar la seguretat i els elements històrics",
+      "excerpt": "(ACN) El centenari viaducte de Vallcarca es renova per reparar desperfectes i millorar els elements històrics. Des d’aquest dimarts, estan en marxa les obres de rehabilitació d’aquest emblemàtic pont que facilita la connexió entre els barris del Coll i de Vallcarca i els Penitents. Tot plegat per reforçar la seguretat i restaurar els elements històrics. […]",
+      "url": "https://beteve.cat/societat/rehabilitacio-viaducte-vallcarca-millorar-seguretat-elements-historics/",
+      "published": "2026-10-28T07:26:44+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/obres-viaducte-vallcarca-2026-10-27.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Netanyahu guanya les eleccions a Israel, però no aconsegueix la majoria absoluta per a governar",
+      "excerpt": "Amb la meitat de l'escrutini, el bloc de Netanyahu obté 56 escons, 49 l'oposició i 15 els partits àrabs, que poden tenir la clau de la governabilitat",
+      "url": "https://www.vilaweb.cat/noticies/netanyahu-guanya-eleccions-israel-no-aconsegueix-majoria-governar/",
+      "published": "2026-10-28T07:22:48+01:00",
+      "category": "Llevant",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Cinc dies de vaga a la indústria càrnia la setmana de l’11-N",
+      "excerpt": "(ACN) Els sindicats CCOO i UGT han convocat cinc dies de vaga a la indústria càrnia coincidint amb la setmana de l’aturada general de l’11-N. La convocatòria, del 9 al 13 de novembre a tot l’estat, exigeix salaris “dignes” i reduir la jornada laboral. Hi estan cridats els empleats dels escorxadors, les sales de desfer, […]",
+      "url": "https://beteve.cat/economia/cinc-dies-vaga-industria-carnia-novembre/",
+      "published": "2026-10-28T07:15:59+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/12/carn-porc-gremicarn-031225.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Els metges de la pública, cridats a fer vaga indefinida",
+      "excerpt": "A diferència d’altres sindicats, que han ajornat les aturades sectorials arran de la convocatòria d’eleccions i la vaga general de l’11 de novembre, Metges de Catalunya la manté. Des d’avui, el sindicat majoritari de facultatius a Catalunya fa una crida als professionals mèdics del sistema sanitari públic perquè facin vaga indefinida, en la dotzena convocatòria d’enguany del col·lectiu.",
+      "url": "https://www.ara.cat/societat/sanitat/metges-publica-cridats-vaga-indefinida_1_5892522.html",
+      "published": "2026-10-28T07:15:35+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9ef4c825-07d1-4224-a5ad-728a2f8cfa35_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els metges comencen una vaga indefinida: què demanen i com impactarà en el pacient",
+      "excerpt": "Després de dotze jornades de mobilitzacions, els facultatius es planten sense data límit",
+      "url": "https://www.3cat.cat/3catinfo/els-metges-comencen-una-vaga-indefinida-que-demanen-i-com-impactara-en-el-pacient/noticia/3436437/",
+      "published": "2026-10-28T06:47:13+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/9/1793115913496.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els partits àrabs dupliquen els escons al parlament d’Israel i podrien ser clau per a formar govern",
+      "excerpt": "Una participació excepcional dels electors palestins converteix els dos partits àrabs en la clau de la formació de govern",
       "url": "https://www.vilaweb.cat/noticies/els-partits-arabs-dupliquen-els-escons-a-la-knesset-i-podrien-ser-clau-per-a-formar-govern-a-israel/",
       "published": "2026-10-28T01:10:40+01:00",
       "category": "Llevant",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Els colons d'Israel imposen el terror a Cisjordània: \"Quan acaben amb una comunitat van a la següent\"",
+      "excerpt": "Mentre Israel està pendent del recompte de les eleccions d'aquest dimarts, on Benjamin Netanyahu es juga el seu futur polític , la població palestina de Cisjordània viu sota el setge dels atacs de colons i soldats, a l’ombra de l’operació genocida contra la Franja de Gaza. Waheed Abu Naeem només pensa en una cosa: com protegir els estudiants de primària i secundària dels atacs dels colons que ocupen onze turons al voltant del seu poble, Al-Mughayyir, a la Cisjordània ocupada. El 23 d’abril un franctirador…",
+      "url": "https://www.ara.cat/internacional/proxim-orient/colons-d-israel-imposen-terror-cisjordania-acaben-comunitat-seguent_1_5891053.html",
+      "published": "2026-10-28T07:31:40+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/05d0a1c6-56a2-4cd6-bab6-f6ca743c4f05_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una ablació cada quinze segons i una dona assassinada cada deu minuts: pot ser veritat?",
+      "excerpt": "Volia fer una crònica de la presentació de la nova novel·la de Laetitia Colombani , Un dia sense dones (La Magrana / Salamandra, 2026), sense fer servir el verb trenar . Ho provo uns quants cops i ho deixo estar. No és que tingui pressa per treure'm de la màniga l’as de La trena per enganxar-vos a l’article, però és que he de fer servir el símil del teixir i el trenar perquè l’autora torna a aquella estructura amb la qual va trobar l’èxit. Explico…",
+      "url": "https://llegim.ara.cat/actualitat/ablacio-quinze-segons-dona-assassinada-deu-minuts-pot-veritat_1_5891980.html",
+      "published": "2026-10-28T07:30:15+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/41b0d79b-3be4-405a-9d75-f9478ff16f77_16-9-aspect-ratio_default_0_x1339y1787.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els danys per a la salut provocats per la crisi climàtica s'acceleren des de l'Acord de París",
+      "excerpt": "La prestigiosa organització The Lancet Countdown alerta que la crisi climàtica ja és una emergència sanitària global",
+      "url": "https://www.3cat.cat/3catinfo/els-danys-per-a-la-salut-provocats-per-la-crisi-climatica-sacceleren-des-de-lacord-de-paris/noticia/3436308/",
+      "published": "2026-10-28T07:16:50+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/3/6/1791323836763.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La Dreta de l’Eixample té 10 vegades més restaurants que Sant Andreu, tot i tenir menys habitants",
+      "excerpt": "Els restaurants que hi ha a la Dreta de l’Eixample multipliquen per 10 els de Sant Andreu. El primer en té 281 mentre que el segon, 28. Això, encara que a Sant Andreu hi viu força més gent: hi ha prop de 14.000 habitants més, segons el darrer padró municipal. Amb aquestes dades a la […]",
+      "url": "https://beteve.cat/economia/dreta-eixample-10-vegades-mes-restaurants-sant-andreu-menys-habitants/",
+      "published": "2026-10-28T07:06:17+01:00",
+      "category": "consum",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/restaurant-barcelona-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’AMB adjudica a Veolia el macrocontracte del servei d’aigües de vuit municipis metropolitans",
+      "excerpt": "(ACN) El Consell Metropolità de l’Àrea Metropolitana de Barcelona (AMB) ha aprovat aquest dimarts l’adjudicació a Veolia del macrocontracte del servei d’aigües de vuit municipis metropolitans, una concessió de 25 anys per abastir unes 250.000 persones. La proposta ha tirat endavant amb els vots a favor del PSC, el PP, la major part del grup […]",
+      "url": "https://beteve.cat/economia/amb-adjudica-veolia-macrocontracte-aigua/",
+      "published": "2026-10-28T07:03:14+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/04/pla-aigua-apagada-280426.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les millors esgarrapades de Mazoni i una colla de còmplices",
+      "excerpt": "Cal començar desmentint el protagonista. \"Serà una nit de nostàlgia i de convidats i convidades\", va dir Jaume Pla, Mazoni, abans de començar el concert del 20è aniversari del disc Esgarrapada (2026). Convidats i convidades sí que va haver-hi, però de nostàlgia, ni una engruna. A més a més, hi ha coses que no necessiten la validació de la nostàlgia. Per tant, cap autocomplaença en una actuació vibrant que va ser la constatació de les virtuts del repertori del primer disc en català de Mazoni.…",
+      "url": "https://www.ara.cat/cultura/musica/millors-esgarrapades-mazoni-colla-complices_1_5892454.html",
+      "published": "2026-10-28T07:00:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5f053c9d-dd11-41c3-b8bd-d883ab4d98dc_source-aspect-ratio_default_0_x332y37.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Què hauria de passar perquè Sánchez demanés allargar l'horari de votació com Lula i Netanyahu?",
+      "excerpt": "Diumenge passat, el Brasil va allargar dues hores les votacions arran dels problemes de transport públic denunciats per la candidatura de Luiz Inácio Lula da Silva, que va acabar guanyant les eleccions presidencials . A Israel, aquest dimarts el partit Likud de Benjamin Netanyahu també va demanar ampliar l’horari electoral, en una jornada marcada per les pluges, encara que el comitè electoral del país ho va rebutjar (tot i assegurar que tothom que hagués arribat als col·legis abans de les 10 del vespre se li…",
+      "url": "https://www.ara.cat/politica/hauria-passar-perque-sanchez-demanes-allargar-l-horari-votacio-lula-netanyahu_1_5892203.html",
+      "published": "2026-10-28T07:00:55+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/21d46748-4555-4d4c-923c-e68c1840b97d_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Escalfar motors d’avió: això feia Kärcher abans de dedicar-se a l’aigua a pressió",
+      "excerpt": "És dissabte al matí, en una urbanització de cases unifamiliars. En un dels jardins, un home fa estona que apunta un raig d’aigua a pressió contra les rajoles de la terrassa. Amb cada passada, la brutícia acumulada durant mesos desapareix. La màquina és de color groc i negre. Uns carrers més enllà, un veí fa servir un aparell similar per deixar ben brillants les llantes del cotxe. També és groc i negre. Mentrestant, a l’interior d’una altra casa, una dona passa una màquina pels finestrals…",
+      "url": "https://empreses.ara.cat/empreses/escalfar-motors-d-avio-aixo-feia-karcher-dedicar-l-aigua-pressio_1_5892143.html",
+      "published": "2026-10-28T07:00:53+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b91b69f6-2251-4476-a367-58b8564ac432_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Jordi Graupera: \"Algú ha de dir que no a PP i PSOE\"",
+      "excerpt": "El boicot parlamentari i la desestabilització de l'Estat són les pedres angulars d'Alhora, el projecte nítidament independentista que es presenta per primer cop a les eleccions generals. De moment, el partit liderat per Jordi Graupera ha aconseguit els avals per poder concórrer als comicis triplicant (16.000) els que necessitava. Alhora va debutar en les darreres eleccions catalanes, però va patir un revés sense contemplacions en quedar-se amb només 13.000 vots, un 0,4% del total. El presidenciable considera que no es pot equiparar una situació amb…",
+      "url": "https://www.ara.cat/politica/algu-dir-no-pp-psoe-alhora-sera-vot-castig-pel-29-n_1_5891754.html",
+      "published": "2026-10-28T07:00:53+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f2967f62-c047-4f18-a58c-46f4afe17bdf_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La gasolina barata del Japó passa factura a l’estat",
+      "excerpt": "En algunes gasolineres dels afores de Tòquio, avui el litre de gasolina normal es ven a 159 iens, uns 90 cèntims d’euro. El preu varia segons l’establiment, però les subvencions del govern japonès contribueixen a contenir-lo en un moment d’encariment del petroli. Des del març, l’executiu de Sanae Takaichi aplica ajudes als operadors del sector amb l’objectiu de mantenir el preu mitjà nacional al voltant dels 170 iens per litre, el preu més baix de tots els països del G-7.",
+      "url": "https://empreses.ara.cat/empreses/gasolina-barata-japo-passa-factura-l_1_5890063.html",
+      "published": "2026-10-28T07:00:52+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c2b35125-e171-42e2-9532-48d76e7683f9_source-aspect-ratio_default_0_x2527y1946.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Seny, la nova barra de peix per a tots els públics del barri de Gràcia",
+      "excerpt": "Fa poc vam acomiadar l’Hermós , el bar de peix del Mercat de la Llibertat de Gràcia. Des de fa unes setmanes, però, que estem d’estrena. D’aquelles cendres en el mateix lloc hi ha nascut un robust projecte: el Seny. Una immensa escórpora ens dona la benvinguda. Es troba pintada a la paret, negre sobre blanc. És obra de Max amb X , un artista tatuador. Quan la parada està tancada, però, l’escórpora es multiplica per dos, ja que a la persiana, en negatiu, blanc…",
+      "url": "https://mengem.ara.cat/restaurants/seny-nova-barra-peix-tots-publics-barri-gracia_1_5890912.html",
+      "published": "2026-10-28T07:00:52+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/86cb975a-33b5-4a69-abd2-8300da191218_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El dijous inoblidable d'un monitor de menjador de Castelldefels",
+      "excerpt": "\"Quan ets petit somies amb partits així. Ets innocent i ho veus a prop, mires la tele i dius: «Algun dia jo estaré jugant aquí». Quan et fas vell ja veus que està molt lluny\", admet Àlex Plaza (Barcelona, 2004). Ja fa dies que resta les hores per al partit de la primera ronda de la Copa contra l'Athletic Club d'aquest dijous (21 h, Teledeporte). Juga a l'Associació Esportiva el Prat, que competeix a la sisena categoria estatal.",
+      "url": "https://www.ara.cat/esports/futbol/ae-prat-athletic-club-copa-del-rei-2026_130_5891984.html",
+      "published": "2026-10-28T07:00:52+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5e257d74-30a4-4772-8da9-fa54e4178f8a_16-9-aspect-ratio_default_1061266.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Els aldarulls a Barcelona han estat el ritual d'iniciació per una joventut marginada\"",
+      "excerpt": "Carles Feixa és catedràtic d'antropologia social al departament de comunicació de la Universitat Pompeu Fabra (UPF), especialitzat en l'estudi de les cultures juvenils.",
+      "url": "https://www.ara.cat/societat/successos/aldarulls-barcelona-han-ritual-d-iniciacio-joventut-marginada_128_5891131.html",
+      "published": "2026-10-28T07:00:52+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9a0f6fc8-17ef-4be3-8954-83fa54a34e24_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "França, al divan del Nobel d'economia Philippe Aghion: \"El segon mandat de Macron és un desastre\"",
+      "excerpt": "Entrevistem aquest economista de prestigi internacional que fa un balanç dur sobre el final de la presidència d'Emmanuel Macron",
+      "url": "https://www.3cat.cat/3catinfo/franca-al-divan-del-nobel-deconomia-philippe-aghion-el-segon-mandat-de-macron-es-un-desastre/noticia/3434315/",
+      "published": "2026-10-28T06:51:26+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/3/1792149187734.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6324502/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/franca-al-divan-del-nobel-deconomia-philippe-aghion-el-segon-mandat-de-macron-es-un-desastre/noticia/3434315/"
+      }
     }
   ]
 }
