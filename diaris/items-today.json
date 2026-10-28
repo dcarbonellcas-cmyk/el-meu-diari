@@ -3,6 +3,16 @@
   "items": [
     {
       "source": "VilaWeb",
+      "title": "Menys manteniment, més accidents mortals: la xarxa de gran velocitat espanyola en el punt de mira",
+      "excerpt": "La gran velocitat espanyola gasta menys de la meitat en manteniment i seguretat que no pas la resta de xarxes europees, té molt menys personal dedicat a la vigilància de les vies i manté a la línia Sevilla-Madrid un sistema de seguretat que l'empresa creadora ja ha descatalogat",
+      "url": "https://www.vilaweb.cat/noticies/dos-accidents-greus-en-nou-mesos-reobren-el-debat-sobre-lestat-deficitari-de-la-xarxa-espanyola-dalta-velocitat/",
+      "published": "2026-10-28T18:10:26+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
       "title": "L’empresa que va causar l’incendi de les Gavarres diu que l’operari no havia de treballar amb una radial",
       "excerpt": "Dies abans de l'incendi van enviar un SMS a l'empresa avisant-la de les restriccions pel risc extrem d'incendi",
       "url": "https://www.vilaweb.cat/noticies/empresa-incendi-gavarres-operari-no-radial/",
@@ -210,12 +220,12 @@
       "published": "2026-10-28T10:40:08+01:00",
       "category": "Societat",
       "image": null,
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433148/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/els-metges-comencen-una-vaga-indefinida-que-demanen-i-com-impactara-en-el-pacient/noticia/3436437/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -295,12 +305,12 @@
       "published": "2026-10-28T06:47:13+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/5/0/1793177785505.jpeg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433148/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/els-metges-comencen-una-vaga-indefinida-que-demanen-i-com-impactara-en-el-pacient/noticia/3436437/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -311,6 +321,186 @@
       "category": "Llevant",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona té 2.443 restaurants: on són i quins barris no en tenen cap? | MAPA",
+      "excerpt": "Barcelona té 2.443 restaurants. Ara bé, com es distribueixen pel territori? N’hi ha més al centre? I als barris perifèrics? Les zones on se’n concentren més són la Dreta de l’Eixample i l’Antiga Esquerra de l’Eixample, a força distància del tercer barri que en té més, Sant Gervasi – Galvany, segons dades de l’Ajuntament. Si […]",
+      "url": "https://beteve.cat/economia/barcelona-te-2443-restaurants-on-son-mapa/",
+      "published": "2026-10-28T18:47:37+01:00",
+      "category": "consum",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/restaurant-barcelona-4-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "David Selvas",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/david-selvas/",
+      "published": "2026-10-28T18:47:36+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Roba reutilitzada i pàrquings per a cotxes elèctrics: Barcelona Global recull pràctiques contra la crisi climàtica",
+      "excerpt": "Un total de 109 empreses i entitats han aportat mesures durant més d'un any per combatre la crisi climàtica a l'àrea metropolitana de Barcelona. Les propostes, en el marc de l'anomenat Chapter Clima de l'associació empresarial Barcelona Global s'han presentat aquest dimecres a la seu de la consultora EY a Barcelona. A l'informe s'inclouen casos com el de la fabricació d'un nou panot barceloní amb un 47% menys d'emissions i un 40% d'àrids reciclats per part de Sorigué, aparcaments de BSM (Barcelona de Serveis Municipals)…",
+      "url": "https://www.ara.cat/economia/roba-reutilitzada-parquings-cotxes-electrics-barcelona-global-recull-practiques-crisi-climatica_1_5893154.html",
+      "published": "2026-10-28T18:45:04+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d5d8a551-cd7e-4b88-b070-3c4751f64de2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Cap a un ambient cada cop més fred i tardorenc",
+      "excerpt": "Els termòmetres han començat a baixar aquest dimecres. Encara s’ha repetit la bonança marcada al migdia amb moltes màximes de 20 a 25 °C, localment fins a 26 °C a l’interior sud. Però a poc a poc anirem deixant enrere l’estiuet dels últims dies. I és que durant el segon tram de setmana el nucli de l’anticicló s’ubicarà entre el centre i el nord d’Europa, fet que impulsarà cap a nosaltres vents més freds de gregal. Això farà caure els termòmetres, a l’espera d’una Castanyada…",
+      "url": "https://www.ara.cat/previsions/cap-ambient-cop-mes-fred-tardorenc_1_5893261.html",
+      "published": "2026-10-28T18:43:39+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/13b5f68d-02d2-469b-8ac6-121fc71439d4_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'Espanyol anuncia per sorpresa Eder Sarabia com a nou entrenador",
+      "excerpt": "L'Espanyol ha fet oficial l'arribada d'Eder Sarabia com a nou entrenador. Hores després d'anunciar que Sergio García seria tècnic interí aquesta setmana, el club periquito ha confirmat l'arribada de l'entrenador basc, que firmarà per aquesta temporada i una més. Estava sense equip després de salvar l'Elx la temporada passada.",
+      "url": "https://www.ara.cat/esports/rcd-espanyol/espanyol-eder-sarabia-nou-entrenador_1_5893276.html",
+      "published": "2026-10-28T18:39:44+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/941462b6-ecff-4d3f-b9cc-ab3c9333b720_16-9-aspect-ratio_default_0_x2283y248.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Eder Sarabia, nou entrenador de l’Espanyol",
+      "excerpt": "L’Espanyol ja té nou entrenador. El club en un comunicat ha informat que Eder Sarabia agafarà les regnes del primer equip, després de la destitució de Manolo González. Sarabia ha signat amb l’Espanyol fins al 30 de juny del 2028. L’Espanyol ha fet oficial el successor de Manolo González a la banqueta blanc-i-blava: Eder Sarabia. […]",
+      "url": "https://beteve.cat/esports/eder-sarabia-nou-entrenador-de-lespanyol/",
+      "published": "2026-10-28T18:38:41+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/eder-sarabia-espanyol-2026-10-28.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La responsabilitat de l’accident i els voltors mediàtics",
+      "excerpt": "Davant d’una catàstrofe, solia haver-hi un període de gràcia de vint-i-quatre hores durant el qual el relat informatiu girava estrictament a l’entorn del que havia passat i es deixava la depuració de responsabilitats per després de pair l’impacte de morts i ferits. Ja no és el cas i alguns dels mitjans digitals reclamaven el cap del ministre de Transports Óscar Puente poques hores després del sinistre. Ho feien amb mètodes poc honorables. La Razón i OK Diario ho demanaven als lectors amb sengles enquestes. Esclar,…",
+      "url": "https://www.ara.cat/media/responsabilitat-l-accident-voltors-mediatics_129_5893270.html",
+      "published": "2026-10-28T18:37:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b65eaf06-2e03-45a4-89da-9174811a2e0c_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Alemanya i Itàlia frenen la proposta de convertir el Canadà en el primer membre associat de la UE",
+      "excerpt": "Brussel·les i Ottawa cerquen de reforçar els vincles davant les tensions comercials amb Trump en una cimera a Mont-real",
+      "url": "https://www.vilaweb.cat/noticies/alemanya-i-italia-frenen-la-proposta-de-convertir-el-canada-en-el-primer-membre-associat-de-la-ue/",
+      "published": "2026-10-28T18:34:22+01:00",
+      "category": "Món",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Adif licita les obres per reforçar l’alimentació elèctrica dels túnels de Sants",
+      "excerpt": "(ACN) Adif ha licitat per 2,02 milions d’euros les obres per reforçar el subministrament elèctric de les instal·lacions associades als túnels d’accés a l’estació de Sants, a Barcelona. L’actuació, amb un termini d’execució de 13 mesos, preveu instal·lar un segon punt d’alimentació al sistema format per cinc centres de transformació, de manera que es pugui […]",
+      "url": "https://beteve.cat/economia/adif-licita-dos-milions-reforc-alimentacio-electricitat-tunels-sants/",
+      "published": "2026-10-28T18:31:35+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/adif-tunels-sants-electricitat-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "ERC proposa incentius fiscals per garantir el relleu generacional en comerços de barri",
+      "excerpt": "La líder d’ERC a Barcelona, Elisenda Alamany, demanarà al plenari municipal d’aquest mes d’octubre que l’Ajuntament impulsi incentius fiscals perquè es garanteixi el relleu generacional en comerços arrelats als barris. La republicana materialitzarà aquesta demanda en format de proposició al ple, amb l’objectiu d’intentar aconseguir el suport de la resta de forces perquè la petició […]",
+      "url": "https://beteve.cat/politica/erc-proposa-incentius-fiscals-garantir-relleu-generacional-comercos-barri/",
+      "published": "2026-10-28T18:28:04+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/07/la-italiana-botiga-1-2026-07-10.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Baranes noves a la plaça de la Vila de Madrid, primer pas per recuperar un espai molt castigat",
+      "excerpt": "Els canvis en la renovació de mobiliari urbà a la plaça de la Vila de Madrid volen anar més enllà que un simple rentat de cara. El districte de Ciutat Vella ha iniciat aquest dies els treballs per substituir les baranes que envolten la necròpolis romana. Una actuació que es presenta com un primer pas […]",
+      "url": "https://beteve.cat/societat/baranes-noves-placa-vila-madrid-recuperar-espai-castigat/",
+      "published": "2026-10-28T18:19:21+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/baranes-via-sepulcral-1-2026-10-26.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Javi Rey, nou entrenador del Sant Andreu",
+      "excerpt": "La Unió Esportiva Sant Andreu ja ha decidit el tècnic que agafa el relleu de Natxo González a la banqueta del club quadribarrat. L‘entrenador dels andreuencs, segons us ha avançat betevé, serà Javi Rey. El tècnic, que aquesta temporada no estava dirigint cap equip, arriba al Narcís Sala amb l’objectiu de treure’l de la part […]",
+      "url": "https://beteve.cat/esports/javi-rey-sera-entrenador-sant-andreu/",
+      "published": "2026-10-28T18:14:58+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/javi-rey-nou-entrenador-ue-sant-andreu-2026-10-28.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Espanyol celebra el 126è aniversari i deixa votar els aficionats la samarreta 2027-28",
+      "excerpt": "L’Espanyol commemora el 126è aniversari amb una campanya anomenada “Vota rebel”. Els aficionats pericos podran votar la primera equipació de la temporada que ve, la 2027-28, a través de la pàgina web del club. Hi ha tres opcions per escollir i els aficionats tenen temps fins aquest diumenge. L’Espanyol compleix aquest dimecres, 28 d’octubre, 126 […]",
+      "url": "https://beteve.cat/esports/espanyol-celebra-126-aniversari-votant-aficionats-samarreta-2027-28/",
+      "published": "2026-10-28T18:03:33+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/vota-rebel-espanyol-2026-10-28.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Andreu Martí prova de desviar responsabilitats cap a funcionaris i justifica els comptes andorrans pel patrimoni familiar",
+      "excerpt": "L'ex-batlle de l'Ametlla de Mar declara que la llista de comissions que li van trobar pertanyia a treballadors d'Efial",
+      "url": "https://www.vilaweb.cat/noticies/andreu-marti-intenta-desviar-responsabilitats-cap-a-funcionaris-i-justifica-els-comptes-andorrans-pel-patrimoni-familiar/",
+      "published": "2026-10-28T18:02:59+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Exorcitzar l’imprevist",
+      "excerpt": "A l’hora d’escriure aquestes ratlles no se sap exactament quina va ser la naturalesa dels aldarulls, destrosses i rampinyes que va provocar la jovenalla aplegada la nit de dissabte passat a Barcelona. Més enllà de la indiscutible gravetat dels danys causats, s’ha convertit el comportament d’uns quants en un símptoma de l’actual malestar social. A més, la proximitat d’unes eleccions molt polaritzades ha fet que prenguessin valor polític. Tanmateix, i de moment, no podem anar gaire més enllà d’observar de quina manera exorcitzem l’imprevist i…",
+      "url": "https://www.ara.cat/opinio/exorcitzar-l-imprevist_129_5892862.html",
+      "published": "2026-10-28T18:00:15+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0a05c4b6-9e05-4a77-9856-47acdcb0de3b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De la vulgaritat en política",
+      "excerpt": "\"Estem davant d’una massiva falta de respecte, d’amabilitat, de tacte\", escrivia la setmana passada Ignasi Aragay en referir-se a la darrera obra del filòsof Byung-Chul Han. Poc després vaig sentir les agres i vulgars declaracions de Javier Milei en el context de la seva tournée espanyola. Postperonisme antiperonista: estan atrapats en aquest bucle, alguns argentins (el paper de post-Evita el fa la seva germana Karina). El bagatge polític de Milei, i també el de Trump, va prendre forma en el si de tertúlies histèriques i…",
+      "url": "https://www.ara.cat/opinio/vulgaritat-politica_129_5892816.html",
+      "published": "2026-10-28T18:00:14+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8946def5-2e12-4e44-bc0d-048096a9eb9c_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "“TV3 ens va menystenir, per por de ser vista com a folklòrica”",
+      "excerpt": "\"És normal que la gent pugui dir el que pensa\". Això es llegeix al mural que es veu al darrere de la seva foto, al perfil de WhatsApp. Però que sigui normal no vol dir que sigui habitual. Membre del grup Esquirols, capellà que va deixar de ser-ho per amor, autor de més de 350 auques i estudiós de Verdaguer, Joan Vilamala fa honor al lema i Enderrock Llibres publica un volum on narra la seva vida, amb accent en la faceta musical.",
+      "url": "https://www.ara.cat/cultura/tv3-menystenir-vista-folklorica_128_5892708.html",
+      "published": "2026-10-28T18:00:13+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2cab47d5-0660-4824-b308-95eed0135dd3_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Pau Cubarsí, Iris Tió i l’Atlètic-Barceloneta opten al premi a millors esportistes de l’any",
+      "excerpt": "El jurat de la 30a edició de la Festa de l’Esport Català —organitzada pel Departament d’Esports de la Generalitat de Catalunya, la Unió de Federacions Esportives de Catalunya (UFEC) i el diari SPORT— ha decidit els finalistes que optaran a ser els guanyadors de la Festa de l’Esport Català. S’hi han presentat més de 100 […]",
+      "url": "https://beteve.cat/esports/candidats-cubarsi-tio-millors-esportistes-2026/",
+      "published": "2026-10-28T17:57:59+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/candidats-festa-esport-catala-2026-10-28.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -679,7 +869,7 @@
       "url": "https://www.ara.cat/economia/industria/puig-apunta-superar-8-000-milions-vendes-2032-60-mes-2025_1_5892930.html",
       "published": "2026-10-28T13:06:36+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/7b1285ad-aac7-4ee5-9fc5-a6fc7a37cbeb_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/f353cb98-b381-4de0-9e8b-e980081b9642_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -783,16 +973,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Us ho avança betevé: Javi Rey serà el nou entrenador del Sant Andreu",
-      "excerpt": "La Unió Esportiva Sant Andreu ja té decidit el tècnic que agafarà el relleu de Natxo González a la banqueta del club quadribarrat. Segons ha pogut saber betevé, l’entrenador dels andreuencs serà Javi Rey. El tècnic, que aquesta temporada no estava dirigint cap equip, arriba al Narcís Sala amb l’objectiu de treure’l de la part […]",
-      "url": "https://beteve.cat/esports/javi-rey-sera-entrenador-sant-andreu/",
-      "published": "2026-10-28T12:26:20+01:00",
-      "category": "esports",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/javi-rey-nou-entrenador-ue-sant-andreu-2026-10-28.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "ARA",
       "title": "La Xina manté el boicot a la Lliga tot i les disculpes del Madrid i Mbappé",
       "excerpt": "La Xina manté el boicot a la Lliga i seguirà sense emetre els partits de futbol espanyols com a represàlia per les burles de Kylian Mbappé cap a Mao Zedong. Almenys, de moment. El govern xinès ha rebut aquest dimecres les disculpes públiques del Reial Madrid, l'últim dels implicats que faltava per fer-ho, però no ha revocat l'ordre que va emetre dilluns de suspendre l'emissió dels partits de Lliga, dels partits relacionats amb Mbappé i dels anuncis publicitaris que protagonitzava el futbolista. Una decisió que…",
@@ -834,12 +1014,12 @@
     },
     {
       "source": "ARA",
-      "title": "El PP prepara el terreny per atacar Sánchez mentre Vox el culpa de l’accident de Toledo",
-      "excerpt": "El greu accident ferroviari d'aquest dimecres ha impactat de ple en la precampanya del 29-N. Tots els partits tret de Vox han aturat l'agenda que tenien prevista avui per la tragèdia, que ha centrat totes les declaracions. Les conseqüències polítiques del xoc entre dos trens a Toledo, que ja deixa un balanç d'almenys 68 morts, no només capgiren les convocatòries dels pròxims dies sinó que, a tan sols un mes de les eleccions generals, també tindran un efecte en les estratègies dels partits en les…",
+      "title": "Sánchez veu \"inassumible\" dos accidents en un any i Feijóo reclama explicacions",
+      "excerpt": "El greu accident ferroviari de Toledo d'aquest dimecres, sumat al d'Adamuz de fa nou mesos en la mateixa línia d'alta velocitat, \"no és assumible per a un país com Espanya\". És la valoració que ha fet Pedro Sánchez de l'incident que ha provocat la mort d'almenys 68 persones. Des del lloc dels fets, el president del govern espanyol ha promès \"contundència\" en cas que hi hagi hagut negligències o fallades de seguretat, si bé ha evitat assenyalar encara possibles culpables. Ara bé, la nova tragèdia…",
       "url": "https://www.ara.cat/politica/tots-partits-aturen-precampanya-l-accident-ferroviari-toledo-excepte-vox_1_5892797.html",
       "published": "2026-10-28T12:04:46+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/f5764df9-4726-4ba5-a198-b0b8b5e55f22_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/2ff75bf2-8ef5-4c93-af7b-92e0ef98ae5a_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -885,7 +1065,7 @@
     {
       "source": "ARA",
       "title": "L'accident de trens a Toledo, en imatges",
-      "excerpt": "Aquest dimecres, a les 8.53 hores, dos trens d'alta velocitat han xocat entre les poblacions de Mora i Urda, a Toledo. De moment, el balanç de víctimes pujaria a més d'una seixantena de persones. Aquestes són les imatges de l'accident.",
+      "excerpt": "Aquest dimecres, a les 8.53 hores, dos trens d'alta velocitat han xocat entre les poblacions de Mora i Urda, a Toledo. De moment, el balanç de víctimes puja a més d'una seixantena de persones, però es tem que la xifra augmenti encara més. Repassem, amb imatges, com s'han succeït els fets.",
       "url": "https://www.ara.cat/societat/l-accident-trens-toledo-imatges_3_5892800.html",
       "published": "2026-10-28T11:35:45+01:00",
       "category": "Actualitat",
@@ -1020,12 +1200,12 @@
       "published": "2026-10-28T10:28:17+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/8/1793183194487.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433136/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/jordi-passatger-del-tren-iryo-envestit-a-urda-hi-ha-dos-vagons-completament-destrossats/noticia/3436532/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -1090,7 +1270,7 @@
     {
       "source": "ARA",
       "title": "Puente veu \"inexplicable\" que un operari ordenés a l’AVE reprendre la marxa amb un tren aturat a la via",
-      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Dos trens d'alta velocitat, un de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. El balanç de víctimes se situa a aquesta hora en 68 persones mortes i desenes de ferides, moltes de les quals greus, segons han…",
+      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Dos trens d'alta velocitat, un de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. L'últim balanç de víctimes se situa en 68 persones mortes i desenes de ferides, moltes de les quals greus, segons han indicat des del…",
       "url": "https://www.ara.cat/societat/xoc-trens-talla-l-alta-velocitat-madrid-andalusia_1_5892696.html",
       "published": "2026-10-28T09:36:20+01:00",
       "category": "Actualitat",
