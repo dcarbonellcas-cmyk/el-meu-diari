@@ -2,6 +2,16 @@
   "date": "2026-10-28",
   "items": [
     {
+      "source": "betevé",
+      "title": "Minut de silenci en record de les víctimes de l’accident ferroviari de Toledo",
+      "excerpt": "Minut de silenci a la plaça de Sant Jaume amb motiu del tràgic accident ferroviari d’aquest dimecres a la província de Toledo. A les 20 h, el president de la Generalitat, Salvador Illa; el president del Parlament, Josep Rull; l’alcalde de Barcelona, Jaume Collboni, i el delegat del Govern espanyol a Catalunya, José Crespín, han […]",
+      "url": "https://beteve.cat/societat/minut-de-silenci-record-victimes-accident-ferroviari-toledo-sant-jaume/",
+      "published": "2026-10-28T20:17:58+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/minut-silenci-accident-ferroviari-2026-10-28.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "Menys manteniment, més accidents mortals: la xarxa de gran velocitat espanyola, en el punt de mira",
       "excerpt": "La gran velocitat espanyola gasta menys de la meitat en manteniment i seguretat que no pas la resta de xarxes europees, té molt menys personal dedicat a la vigilància de les vies i manté a la línia Sevilla-Madrid un sistema de seguretat que l'empresa creadora ja ha descatalogat",
@@ -107,13 +117,39 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dijous: sol, boires, alguns núvols i un parell de graus menys",
+      "excerpt": "Els núvols es mantindran durant bona part del dia al litoral central",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/",
+      "published": "2026-10-28T19:52:58+01:00",
+      "updated": "2026-10-28T20:13:04+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/1/1793208853910.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433163/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els maquinistes de Renfe mantenen la vaga per reclamar seguretat: aquests són els serveis mínims",
+      "excerpt": "Amb la convocatòria d'aturada d'aquest dijous, el Semaf vol reclamar un canvi \"estructural\" en la seguretat ferroviària",
+      "url": "https://www.3cat.cat/3catinfo/els-maquinistes-de-renfe-mantenen-la-vaga-per-reclamar-seguretat-aquests-son-els-serveis-minims/noticia/3436209/",
+      "published": "2026-10-28T20:10:21+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/7/1792057852476.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "Què és el LZB, el sistema de seguretat que ha fallat a la línia Madrid-Sevilla?",
       "excerpt": "La dissortada cadena de fallades tècniques i errors humans que ha acabat amb el xoc de dos trens d'alta velocitat a Urda, Toledo, obre molts interrogants sobre com ha pogut passar i quins factors tècnics poden explicar un sinistre d'aquestes característiques. L'expert en el sector del transport i director del Centre d'Estudis del Transport Terminus, Joan Carles Salmerón, aclareix a l'ARA termes tècnics i les principals incògnites que encara envolten l'accident. Són sis preguntes per posar context i entendre conceptes clau.",
       "url": "https://www.ara.cat/societat/mobilitat/lzb-sistema-seguretat-fallat-linia-madrid-sevilla_1_5893275.html",
       "published": "2026-10-28T19:46:45+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/21e21a98-e166-4fd9-849c-6c6fa4059dc3_16-9-aspect-ratio_default_0_x757y497.jpg",
+      "image": "https://static1.ara.cat/clip/21e21a98-e166-4fd9-849c-6c6fa4059dc3_source-aspect-ratio_default_0_x757y497.jpg",
       "priority": "2 · Important"
     },
     {
@@ -234,8 +270,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Metges de Catalunya diu que el govern pot “negociar o convocar eleccions” si vol que es desconvoqui la vaga indefinida",
-      "excerpt": "Quatre-cents professionals es manifesten a Barcelona en la primera jornada de vaga indefinida",
+      "title": "Els metges comencen la vaga indefinida a Catalunya i al País Valencià i exigeixen negociacions",
+      "excerpt": "Metges de Catalunya reclama al govern que negociï o convoqui eleccions, mentre que al País Valencià hi ha discrepàncies entre la Generalitat i els sindicats sobre el seguiment de l'aturada",
       "url": "https://www.vilaweb.cat/noticies/metges-catalunya-govern-negociar-convocar-eleccions-vaga/",
       "published": "2026-10-28T13:19:53+01:00",
       "category": "Societat",
@@ -349,7 +385,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Els metges comencen una vaga indefinida i tallen la Diagonal a Barcelona: què demanen",
+      "title": "Els metges comencen una vaga indefinida amb un tall a la Diagonal de Barcelona: què demanen",
       "excerpt": "Després de dotze jornades de mobilitzacions, els facultatius es planten sense data límit",
       "url": "https://www.3cat.cat/3catinfo/els-metges-comencen-una-vaga-indefinida-que-demanen-i-com-impactara-en-el-pacient/noticia/3436437/",
       "published": "2026-10-28T06:47:13+01:00",
@@ -371,6 +407,96 @@
       "category": "Llevant",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Aragó solament acredita dues actuacions de suport al català i l’aragonès davant el Consell d’Europa",
+      "excerpt": "El govern aragonès reconeix que ha suprimit la Direcció General de Política Lingüística i no informa de cap iniciativa per a reconèixer explícitament totes dues llengües a l'estatut d'autonomia",
+      "url": "https://www.vilaweb.cat/noticies/arago-solament-acredita-dues-actuacions-de-suport-al-catala-i-laragones-davant-el-consell-deuropa/",
+      "published": "2026-10-28T20:50:26+01:00",
+      "category": "Franja de Ponent",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els partits palestins d'Israel poden sumar per desallotjar Netanyahu, però l'oposició no els vol",
+      "excerpt": "A l’espera que acabi el lent recompte de les eleccions de dimarts a Israel , ja queda clar que una de les claus ha estat la participació rècord de la minoria àrab, que representen el 20% de la població d’Israel. Aquesta comunitat sempre havia estat tradicionalment abstencionista perquè no se sentia representada en un estat que els tracta com a ciutadans de segona. A diferència dels palestins que viuen a Gaza i a Cisjordània (que Israel mai ha volgut considerar ciutadans per no perdre la…",
+      "url": "https://www.ara.cat/internacional/proxim-orient/partits-palestins-d-israel-sumar-desallotjar-netanyahu-l-oposicio-no-vol_1_5893372.html",
+      "published": "2026-10-28T20:13:51+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9e6984b4-3ffd-4076-a86f-f7c038889b5a_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Infobarris",
+      "excerpt": "Torna Infobarris, el programa informatiu de betevé dedicat a explicar la realitat dels barris de Barcelona. Cada dia en directe, de 19 h a 19.40 h, la periodista Núria Llabina i un equip experimentat d’especialistes en el territori copsaran les històries i el batec als carrers de Barcelona.",
+      "url": "https://beteve.cat/infobarris/infobarris-193/",
+      "published": "2026-10-28T20:11:47+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Què sabem del xoc entre l'AVE i l'Iryo a Toledo? Cronologia d'un accident encara amb interrogants",
+      "excerpt": "Investiguen com s'ha pogut autoritzar des del centre de control d'Adif a Atocha la represa de la circulació de l'AVE amb el sistema en alerta vermella i un Iryo aturat a la via",
+      "url": "https://www.3cat.cat/3catinfo/que-sabem-del-xoc-entre-lave-i-liryo-a-toledo-cronologia-dun-accident-encara-amb-interrogants/noticia/3436685/",
+      "published": "2026-10-28T20:11:23+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/7/1793210925573.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Amb asma i sense ascensor, la impotència dels afectats per la dana dos anys després",
+      "excerpt": "\"Sentim una impotència i una indefensió total. No sabem què fer ni a qui acudir. Portem dos anys sense ascensor i el meu fill i jo patim asma i la meva parella té trencat el lligament encreuat del genoll\". El segon aniversari de la dana al País Valencià arriba quan algunes cicatrius de la catàstrofe segueixen del tot presents i moltes persones en pateixen les conseqüències cada dia. És el cas de la família de la Nuria Carmona, una veïna de la localitat valenciana de…",
+      "url": "https://www.ara.cat/societat/successos/asma-ascensor-impotencia-dels-afectats-dana-anys-despres_1_5893083.html",
+      "published": "2026-10-28T20:09:03+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/52196530-f456-490a-a9a6-65f0b51568b2_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Netanyahu resisteix, però Israel queda en mans d’una negociació incerta i difícil",
+      "excerpt": "El 1996, els israelians van anar a dormir convençuts que Shimon Peres continuaria sent primer ministre i es van despertar amb Benjamin Netanyahu al poder. Trenta anys després, la història sembla repetir-se. Ahir a la nit, les primeres enquestes a peu d’urna havien alimentat les esperances de l’oposició, però a mesura que avançava el recompte, Netanyahu tornava a situar-se al centre de l’escena.",
+      "url": "https://www.ara.cat/internacional/proxim-orient/netanyahu-resisteix-israel-queda-mans-d-negociacio-incerta-dificil_1_5893310.html",
+      "published": "2026-10-28T20:06:13+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d560d675-3cb6-493f-a898-fd4017a46a3c_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els Mossos investiguen la mort d’una dona a Nou Barris a partir de l’arrest d’un home a Madrid",
+      "excerpt": "Els Mossos d’Esquadra estan investigant la mort violenta d’una dona al districte de Nou Barris a partir de la detenció d’un home a Madrid com a presumpte autor del crim. Abans de l’arrest, efectius de la policia catalana i de Bombers de Barcelona s’han adreçat a un domicili de Nou Barris després de rebre un […]",
+      "url": "https://beteve.cat/societat/mossos-investigacio-mort-dona-nou-barris-arrest-home-madrid/",
+      "published": "2026-10-28T20:05:19+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/mossos-esquadra-general-171026-2026-10-17.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Joan Amorós: “En aquest accident ha passat alguna cosa estranya”",
+      "excerpt": "Entrevista al president de FERRMED, expert en qüestions ferroviàries, sobre l’accident mortal entre dos trens prop de Toledo",
+      "url": "https://www.vilaweb.cat/noticies/joan-amoros-entrevista-accident-ave-iryo-toledo/",
+      "published": "2026-10-28T20:00:49+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Laia Estruch guanya el premi d'escultura Bosch Aymerich",
+      "excerpt": "Laia Estruch (Barcelona, 1981) és una de les artistes més singulars de l'escena catalana actual. Com es va poder veure en la monumental Trena inflable que va presentar a la Sala Oval del MNAC l'any 2023, la feina d'Estruch es caracteritza per com fa servir uns espais creats amb un fort caràcter escultòric i de colors vius. I aquest dimecres ha guanyat per unanimitat la quarta edició del premi Bosch Aymerich, dotat amb 30.000 euros, amb una altra d'aquestes estructures: Carrau , una obra creada…",
+      "url": "https://www.ara.cat/cultura/art/laia-estruch-guanya-premi-d-escultura-bosch-aymerich_1_5893061.html",
+      "published": "2026-10-28T20:00:35+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b4fd22d7-3cb7-4ee8-803a-8dbe1399789a_16-9-aspect-ratio_default_0_x1264y857.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -404,8 +530,8 @@
     },
     {
       "source": "ARA",
-      "title": "S'entrega a Madrid per haver matat la parella a Barcelona",
-      "excerpt": "Els Mossos d'Esquadra investiguen l'homicidi d'una dona al districte de Nou Barris de Barcelona. Un home s'ha entregat aquest dimecres a Madrid, a la comissaria de la Policia Municipal, com a presumpte autor d'aquest crim. Segons fonts consultades per l'ARA, la víctima i l'home detingut eren parella. Segons ha informat el Tribunal Superior de Justícia de Catalunya, no consten antecedents judicials entre tots dos.",
+      "title": "Un home s'entrega a Madrid després de matar la parella a Barcelona",
+      "excerpt": "Els Mossos d'Esquadra investiguen l'homicidi d'una dona al districte de Nou Barris de Barcelona. Un home s'ha entregat aquest dimecres a la Policia Municipal de Madrid com a presumpte autor d'aquest crim. Segons fonts consultades per l'ARA, la víctima i l'home detingut eren parella. Segons ha informat el Tribunal Superior de Justícia de Catalunya, no consten antecedents judicials entre tots dos.",
       "url": "https://www.ara.cat/societat/violencia-masclista/s-entrega-madrid-matat-parella-barcelona_1_5893374.html",
       "published": "2026-10-28T19:32:10+01:00",
       "category": "Actualitat",
@@ -1430,7 +1556,7 @@
     {
       "source": "ARA",
       "title": "Puente veu \"inexplicable\" que un operari ordenés a l’AVE reprendre la marxa amb un tren aturat a la via",
-      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Aquest dimecres, dos trens d'alta velocitat, un de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. L'últim balanç de víctimes se situa en 68 persones mortes i desenes de ferides, moltes de les quals greus, segons han indicat…",
+      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Aquest dimecres dos trens d'alta velocitat, un AVE de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. L'últim balanç de víctimes se situa en 68 persones mortes i desenes de ferides, moltes de les quals greus, segons han…",
       "url": "https://www.ara.cat/societat/xoc-trens-talla-l-alta-velocitat-madrid-andalusia_1_5892696.html",
       "published": "2026-10-28T09:36:20+01:00",
       "category": "Actualitat",
