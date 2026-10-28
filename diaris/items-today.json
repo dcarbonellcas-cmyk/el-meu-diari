@@ -19,16 +19,26 @@
       "published": "2026-10-28T13:33:45+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/1/1768825345818.jpg",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6381878/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/angrois-i-eschede-a-alemanya-els-dos-accidents-de-lalta-velocitat-a-europa-amb-mes-morts/noticia/3389910/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "ARA",
-      "title": "Almenys 64 morts en un xoc entre dos trens d'alta velocitat a Urda, Toledo",
+      "title": "\"Hi havia gent morta sota els trens\": el relat de les víctimes de l'accident a Toledo",
+      "excerpt": "Almenys 64 persones han mort en el xoc entre dos trens d’alta velocitat que ha tingut lloc aquest matí a Urda, a Toledo. El cop ha estat \"espantós\", segons ha explicat a Catalunya Ràdio Miguel Ángel Pérez Laguna, un dels passatgers de l’AVE accidentat. Viatjava a l’últim vagó i ha notat un \"cop gegantí\" quan feia uns 45 o 50 minuts que havien sortit de l’estació, \"com si el tren sortís de la via\". Després del xoc ha sentit crits i ha vist un tren…",
+      "url": "https://www.ara.cat/societat/terrible-relat-dels-passatgers-xoc-trens-toledo_1_5892813.html",
+      "published": "2026-10-28T11:29:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/56948183-2dcd-42dd-a6dc-5a8f977e56c4_16-9-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "Almenys 64 morts i 50 ferits greus en un xoc entre dos trens d'alta velocitat a Toledo",
       "excerpt": "",
       "url": "https://www.ara.cat/societat/successos/terrible-testimonis-l-accident-tren-asseguren-hi-ferits-morts_6_5892710.html",
       "published": "2026-10-28T10:00:13+01:00",
@@ -221,6 +231,106 @@
       "category": "Llevant",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Creuers al port de Barcelona: nou pas cap a la reordenació i reducció de terminals",
+      "excerpt": "El Port de Barcelona fa un pas més cap a la reordenació de terminals de creuers que ha de donar compliment a l’acord signat amb l’Ajuntament per reduir-les de set a cinc i fer-les més sostenibles. D’entrada, abans de finals d’any en tancaran dues: I què ha aprovat aquest dimecres el Consell d’Administració del Port? […]",
+      "url": "https://beteve.cat/economia/nou-pas-reduccio-terminals-creuers-port-barcelona/",
+      "published": "2026-10-28T15:04:53+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/terminal-creuers-port-barcelona-2026-10-28.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Som molt previsibles",
+      "excerpt": "La seqüència PSG-clàssic ha fet que un prat verd s’hagi convertit en un camp enfangat. Som molt previsibles: fa quatre dies tot eren flors i violes i, de sobte, ens han envaït els dubtes. No descobrirem el dramatisme culer ni la síndrome tribunera del “defensant així no guanyarem la Champions.” Si fins i tot a Pep Guardiola se li qüestionaven detalls estilístics, què no li ha de passar a Hansi Flick. És curiós, però, com se li compra tot el discurs ofensiu exuberant i, en…",
+      "url": "https://www.ara.cat/esports/barca/previsibles_129_5893090.html",
+      "published": "2026-10-28T15:00:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8add8070-1d69-4880-b415-8282e1f7d1ee_source-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-747/",
+      "published": "2026-10-28T14:59:43+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona i Esplugues treballaran conjuntament l’arribada del futur Campus Clínic a la Diagonal",
+      "excerpt": "La llista s’amplia: primer va ser amb l’Hospitalet de Llobregat, després amb Sant Adrià de Besòs i ara ha estat amb Esplugues de Llobregat. L’Ajuntament de Barcelona estreny la col·laboració amb un municipi metropolità per “elevar al màxim nivell” la cooperació entre territoris fronterers. En concret, l’alcalde de Barcelona, Jaume Collboni, i l’alcalde d’Esplugues, Eduard […]",
+      "url": "https://beteve.cat/politica/barcelona-esplugues-treballaran-conjuntament-arribada-futur-campus-clinic-diagonal/",
+      "published": "2026-10-28T14:57:05+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/collboni-esplugues-llobregat-281026-2026-10-28.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Mbappé, un problema d’etiqueta",
+      "excerpt": "Aquesta fotografia es va fer dilluns. No té cap pretensió artística, sinó més aviat testimonial. Però després que es desencadenés una crisi diplomàtica entre el món del futbol i el govern de la Xina, l’etiqueta de l’ampolla d’aigua amb el rostre de Mbappé somrient esdevé irònica. L’expressió del futbolista adquireix un significat gairebé còmic. Ja fa anys que Kylian Mbappé és un actiu comercial en el mercat xinès. La cara del jugador serveix per vendre, entre altres productes, aigua embotellada amb propietats isotòniques. A jutjar…",
+      "url": "https://diumenge.ara.cat/diumenge/mbappe-problema-d-etiqueta_129_5893059.html",
+      "published": "2026-10-28T14:49:50+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fcb9bfad-5290-4c2d-9a51-28871727aede_source-aspect-ratio_default_0_x4200y3216.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "L'exministra de Treball Fátima Báñez viatjava en un dels trens de l'accident de Toledo",
+      "excerpt": "La CEOE està \"pendent\" de tenir notícies de l'exministra, que actualment és la presidenta de la seva fundació",
+      "url": "https://www.3cat.cat/3catinfo/lexministra-de-treball-fatima-banez-viatjava-en-un-dels-trens-de-laccident-de-toledo/noticia/3436605/",
+      "published": "2026-10-28T14:42:57+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/1/1600794909414.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El centre de control de Madrid havia ordenat “de manera inexplicable” a l’AVE que reprengués la marxa",
+      "excerpt": "El sistema de seguretat havia fallat vint-i-un minuts abans del xoc i el centre de control ha permès que els trens reprenguessin la marxa sense limitar-ne la velocitat",
+      "url": "https://www.vilaweb.cat/noticies/governe-espanyol-error-centre-control-madrid-accident-urda/",
+      "published": "2026-10-28T14:33:13+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Subhasten per 2.250 euros un retrat de Franco procedent del Pazo de Meirás",
+      "excerpt": "Al Pazo de Meirás, abans que passés a ser patrimoni públic, hi havia molts quadres amb Franco d’uniforme i en posició de llançar-se a la conquesta; de la seva dona, Carmen Polo, tota enjoiada i seriosa, com si estigués a punt de renyar algú, i virolats bodegons de flors que pintava el dictador. Les imatges del dictador amb l'ego desfermat –hi havia retrats seus pràcticament en totes les habitacions– convivien amb les mirades d'animals morts que havia caçat i que penjaven de les parets.",
+      "url": "https://www.ara.cat/cultura/memoria-historica/subhasten-2-250-euros-retrat-franco-procedent-pazo-meiras_1_5892940.html",
+      "published": "2026-10-28T14:12:43+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bb0a62be-0b47-4f1f-a2f8-cde0cebab3cf_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "B de gust: Martinet",
+      "excerpt": "Assaboreix l’oferta gastronòmica de Barcelona cada migdia. El ‘B de gust’ et convida a entrar a bars i forns de barri, restaurants de cuina catalana o internacional i mercats de producte fresc. Tot això, amanit amb entrevistes, receptes, reportatges i recomanacions. Presentat per Carmen Cortés.",
+      "url": "https://beteve.cat/b-de-gust/b-de-gust-37/",
+      "published": "2026-10-28T14:07:23+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Suspesa tota la jornada de Copa del Rei d’aquest dimecres per l’accident de Toledo",
+      "excerpt": "La Federació Espanyola de Futbol ha comunicat que suspèn tota la jornada d’aquest dimecres de partits de Copa del Rei a causa del tràgic accident de trens, que ha tingut lloc aquest matí a Toledo. En total, s’han ajornat fins a 24 eliminatòries. La federació en el comunicat ha mostrat el seu dolor pel tràgic […]",
+      "url": "https://beteve.cat/esports/suspesa-jornada-copa-rei-dimecres-accident-toledo/",
+      "published": "2026-10-28T14:03:54+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/11/171121-copa-del-rei-sorteig.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -485,7 +595,7 @@
     {
       "source": "ARA",
       "title": "Tots els partits excepte Vox aturen la precampanya per l'accident ferroviari de Toledo",
-      "excerpt": "El greu accident ferroviari d'aquest dimecres ha impactat de ple en la precampanya del 29-N. Tots els partits tret de Vox han aturat l'agenda que tenien prevista avui per la tragèdia –el PSOE, de fet, ja ha avançat que també cancel·la un acte que havia convocat aquest dijous a Vitòria–. Les conseqüències polítiques del xoc entre dos trens a Toledo, que deixa un balanç d'almenys 30 morts, no només capgiren les convocatòries dels pròxims dies sinó que, a tan sols un mes de les eleccions…",
+      "excerpt": "El greu accident ferroviari d'aquest dimecres ha impactat de ple en la precampanya del 29-N. Tots els partits tret de Vox han aturat l'agenda que tenien prevista avui per la tragèdia –el PSOE, de fet, ja ha avançat que també cancel·la un acte que havia convocat aquest dijous a Vitòria–. Les conseqüències polítiques del xoc entre dos trens a Toledo, que ja deixa un balanç d'almenys 64 morts, no només capgiren les convocatòries dels pròxims dies sinó que, a tan sols un mes de les…",
       "url": "https://www.ara.cat/politica/tots-partits-aturen-precampanya-l-accident-ferroviari-toledo-excepte-vox_1_5892797.html",
       "published": "2026-10-28T12:04:46+01:00",
       "category": "Actualitat",
@@ -540,16 +650,6 @@
       "published": "2026-10-28T11:35:45+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/c6a2f9a1-38bd-4d5b-bb4d-f888eff09590_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "ARA",
-      "title": "\"Hi havia gent morta sota els trens\": el relat dels passatgers del xoc de trens a Toledo",
-      "excerpt": "Almenys 30 persones han mort en el xoc entre dos trens d’alta velocitat que ha tingut lloc aquest matí a Urda, a Toledo. El cop ha estat \"espantós\", com ha explicat a Catalunya Ràdio Miguel Ángel Pérez Laguna, un dels passatgers de l’AVE accidentat. Viatjava a l’últim vagó i ha notat un \"cop gegantí\" quan feia uns 45 o 50 minuts que havien sortit de l’estació, \"com si el tren sortís de la via\". Després del xoc ha sentit crits i ha vist un tren…",
-      "url": "https://www.ara.cat/societat/terrible-relat-dels-passatgers-xoc-trens-toledo_1_5892813.html",
-      "published": "2026-10-28T11:29:24+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/56948183-2dcd-42dd-a6dc-5a8f977e56c4_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -664,8 +764,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Un error humà al centre de control, principal hipòtesi del xoc entre dos trens a Toledo",
-      "excerpt": "La circulació entre Andalusia i Madrid està suspesa i de moment s'han confirmat almenys 30 víctimes mortals",
+      "title": "Puente afirma que l'AVE accidentat ha reprès la marxa en contra dels protocols: \"No podia fer-ho\"",
+      "excerpt": "Una averia ha obligat a aturar els dos trens i, quan l'AVE ha reprès la marxa, ha impactat contra l'Iryo que encara estava parat a la via",
       "url": "https://www.3cat.cat/3catinfo/un-error-huma-al-centre-de-control-principal-hipotesis-del-xoc-entre-dos-trens-a-toledo/noticia/3436534/",
       "published": "2026-10-28T10:33:15+01:00",
       "category": "Actualitat",
@@ -674,8 +774,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Testimonis de l'accident de tren a Toledo: \"Hi ha dos vagons completament destrossats\"",
-      "excerpt": "Miguel Ángel Pérez Laguna, que anava a l'AVE que circulava en direcció Sevilla, ha assegurat que les imatges recorden l'accident d'Adamuz",
+      "title": "Testimonis de l'accident de tren a Toledo: \"Ens hem salvat de miracle\"",
+      "excerpt": "Miguel Ángel Pérez, que anava a l'AVE que circulava en direcció Sevilla, diu que el que ha vist li ha recordat l'accident d'Adamuz",
       "url": "https://www.3cat.cat/3catinfo/jordi-passatger-del-tren-iryo-envestit-a-urda-hi-ha-dos-vagons-completament-destrossats/noticia/3436532/",
       "published": "2026-10-28T10:28:17+01:00",
       "category": "Actualitat",
@@ -745,11 +845,11 @@
     {
       "source": "ARA",
       "title": "Un \"error humà\" al centre de control, principal hipòtesi de l'accident de trens a Toledo",
-      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid. Un greu xoc aquest dimecres al matí a l'alta velocitat entre un tren de Renfe i un d'Iryo a la província de Toledo ha deixat com a mínim 64 víctimes mortals i desenes de ferits, diversos dels quals greus, segons han indicat fonts del govern de Castella-la Manxa. El balanç definitiu de víctimes, però, encara es desconeix i tot indica que continuarà creixent. \"Donem per fet que n'apareixeran més…",
+      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Dos trens d'alta velocitat, un de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí, a la província de Toledo. El balanç de víctimes se situa a aquesta hora en 64 persones mortes i desenes de ferides, moltes de les quals greus, segons han indicat fonts…",
       "url": "https://www.ara.cat/societat/xoc-trens-talla-l-alta-velocitat-madrid-andalusia_1_5892696.html",
       "published": "2026-10-28T09:36:20+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/70813646-3674-4751-910e-b00e3f8d5a52_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/23c515df-dde8-4b56-8243-48b01877b155_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
