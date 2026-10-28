@@ -97,6 +97,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "ARA",
+      "title": "Un xoc entre dos trens d'alta velocitat a Toledo deixa almenys 68 morts",
+      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Aquest dimecres dos trens d'alta velocitat, un AVE de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. L'últim balanç de víctimes se situa en 68 persones mortes, i més d'un centenar de ferides ingressades als hospitals, segons han…",
+      "url": "https://www.ara.cat/societat/xoc-trens-talla-l-alta-velocitat-madrid-andalusia_1_5892696.html",
+      "published": "2026-10-28T09:36:20+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3d1107d3-52a9-4bdb-8074-0673bed2b4f9_16-9-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "Seixanta-vuit morts, pel cap baix, en l’accident entre dos trens de gran velocitat a Castella-la Manxa",
       "excerpt": "Un tren ha encalçat l'altre i tres vagons han caigut per un terraplè",
@@ -230,7 +240,7 @@
     },
     {
       "source": "ARA",
-      "title": "Els maquinistes mantenen la vaga a Renfe per aquest dijous",
+      "title": "\"Serà un dia molt complicat\": el Govern recomana buscar alternatives al tren per la vaga de maquinistes d'aquest dijous",
       "excerpt": "La vaga a Renfe prevista per dijous en defensa de la seguretat ferroviària es manté. Ho ha anunciat aquest dimecres el sindicat de maquinistes Semaf, que ha cridat els 6.000 conductors de tot l'Estat a participar en l'aturada prevista a partir d'aquesta mitjanit. El Govern preveu que la vaga tingui un gran seguiment i compliqui la mobilitat a Catalunya, per la qual cosa ha recomanat a la ciutadania buscar alternatives al tren per als seus desplaçaments. De fet, fonts de l’executiu català han admès a…",
       "url": "https://www.ara.cat/societat/mobilitat/maquinistes-mantenen-vaga-renfe-aquest-dijous_1_5893171.html",
       "published": "2026-10-28T17:35:54+01:00",
@@ -429,6 +439,16 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "Detingut a Madrid un home després d'entregar-se per haver matat l'exparella a Barcelona",
+      "excerpt": "El cas, que està sota secret de les actuacions, el portarà la plaça 4 de la secció de violència sobre la dona",
+      "url": "https://www.3cat.cat/3catinfo/detingut-a-madrid-un-home-despres-dentregar-se-per-haver-matat-lexparella-a-barcelona/noticia/3436708/",
+      "published": "2026-10-28T22:56:46+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/3/1792315203333.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Accident d’Urda: secret de sumari en la investigació, prohibició d’accedir a la zona i confiscació de les caixes negres",
       "excerpt": "La magistrada autoritza a entrar-hi solament les forces de seguretat, els equips sanitaris i el personal judicial",
@@ -446,7 +466,12 @@
       "published": "2026-10-28T22:20:40+01:00",
       "category": "Societat",
       "image": null,
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433207/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/es-filtren-les-converses-entre-el-centre-de-control-i-els-maquinistes-reprengui-la-marxa-normal/noticia/3436717/"
+      }
     },
     {
       "source": "ARA",
@@ -506,7 +531,12 @@
       "published": "2026-10-28T21:33:55+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/0/1793207570008.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433199/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-mossos-admeten-preocupacio-pels-aldarulls-estem-davant-dun-nou-fenomen-de-violencia-juvenil/noticia/3436686/"
+      }
     },
     {
       "source": "ARA",
@@ -535,8 +565,13 @@
       "url": "https://www.3cat.cat/3catinfo/es-filtren-les-converses-entre-el-centre-de-control-i-els-maquinistes-reprengui-la-marxa-normal/noticia/3436717/",
       "published": "2026-10-28T21:11:00+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpeg/5/9/1793220761995.jpeg",
-      "priority": "3 · Altres notícies"
+      "image": "https://img.3cat.cat/multimedia/jpg/4/6/1793227282364.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433207/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/es-filtren-les-converses-entre-el-centre-de-control-i-els-maquinistes-reprengui-la-marxa-normal/noticia/3436717/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -576,7 +611,12 @@
       "published": "2026-10-28T20:11:23+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/7/1793210925573.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433189/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/que-sabem-del-xoc-entre-lave-i-liryo-a-toledo-cronologia-dun-accident-encara-amb-interrogants/noticia/3436685/"
+      }
     },
     {
       "source": "ARA",
@@ -1081,7 +1121,7 @@
     {
       "source": "ARA",
       "title": "La fugida secreta i hollywoodiana de Bolsonaro amb l’ajuda de Milei i Trump",
-      "excerpt": "La fugida secreta i un punt hollywoodiana de Flávio Bolsonaro, amb escales a l’Argentina i l’Equador i l’ajuda explícita del president argentí, Javier Milei, i de l’administració trumpista, ha culminat aquest dimecres amb l’arribada del perdedor de les eleccions brasileres a l’aeroport executiu de Miami-Opa Locka (Estats Units), des d'on ha dit que no reconeix els resultats. En un comunicat a les xarxes socials, Bolsonaro es va declarar \"el verdader president electe del Brasil\", dos dies després de la derrota a les urnes, però poc…",
+      "excerpt": "La fugida secreta i un punt hollywoodiana de Flávio Bolsonaro, amb escales a l’Argentina i l’Equador i l’ajuda explícita del president argentí, Javier Milei, i de l’administració trumpista, ha culminat aquest dimecres amb l’arribada del perdedor de les eleccions brasileres a l’aeroport executiu de Miami-Opa Locka (Estats Units), des d'on ha dit que no reconeix els resultats. En un comunicat a les xarxes socials, Bolsonaro s'ha declarat \"el verdader president electe del Brasil\", dos dies després de la derrota a les urnes, però poc després…",
       "url": "https://www.ara.cat/internacional/estats-units/flavio-bolsonaro-aterra-als-estats-units-despres-autoritats-brasileres-li-demanessin-entregar-passaport_1_5893113.html",
       "published": "2026-10-28T15:11:25+01:00",
       "category": "Actualitat",
@@ -1681,16 +1721,6 @@
       "published": "2026-10-28T09:38:22+01:00",
       "category": "societat",
       "image": "https://img.beteve.cat/wp-content/uploads/2025/12/sensesostre-101225.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "ARA",
-      "title": "Puente veu \"inexplicable\" que un operari ordenés a l’AVE reprendre la marxa amb un tren aturat a la via",
-      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Aquest dimecres dos trens d'alta velocitat, un AVE de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. L'últim balanç de víctimes se situa en 68 persones mortes, i més d'un centenar de ferides ingressades als hospitals, segons han…",
-      "url": "https://www.ara.cat/societat/xoc-trens-talla-l-alta-velocitat-madrid-andalusia_1_5892696.html",
-      "published": "2026-10-28T09:36:20+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/ffc302df-837c-4b86-9365-c89473ccdb49_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
