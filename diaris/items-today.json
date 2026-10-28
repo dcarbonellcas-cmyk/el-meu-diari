@@ -117,9 +117,25 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dijous: sol, boires, alguns núvols i un parell de graus menys",
+      "excerpt": "Els núvols es mantindran durant bona part del dia al litoral central",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/",
+      "published": "2026-10-28T19:52:58+01:00",
+      "updated": "2026-10-28T22:26:14+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/png/7/4/1793222158647.png",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433201/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "Rodalia de Catalunya i València avisen d’afectacions greus per la vaga de maquinistes i recomanen transports alternatius",
-      "excerpt": "A Catalunya circularà el 66% dels trens en hora punta i el 33% la resta del dia, mentre que al País Valencià els serveis mínims seran del 75% i el 50%, respectivament",
+      "excerpt": "A Catalunya circularà el 66% dels trens en hora punta i el 33% la resta del dia, i al País Valencià els serveis mínims seran del 75% i el 50%, respectivament",
       "url": "https://www.vilaweb.cat/noticies/rodalia-catalunya-valencia-afectacions-greus-vaga-de-maquinistes/",
       "published": "2026-10-28T21:48:38+01:00",
       "category": "Societat",
@@ -134,22 +150,6 @@
       "published": "2026-10-28T21:27:10+01:00",
       "category": "mobilitat",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/08/tren-Rodalies-estacio-Franca-040826-2026-08-04.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dijous: sol, boires, alguns núvols i un parell de graus menys",
-      "excerpt": "Els núvols es mantindran durant bona part del dia al litoral central",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/",
-      "published": "2026-10-28T19:52:58+01:00",
-      "updated": "2026-10-28T20:13:04+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/1/1793208853910.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433163/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -231,7 +231,7 @@
     {
       "source": "ARA",
       "title": "Els maquinistes mantenen la vaga a Renfe per aquest dijous",
-      "excerpt": "La vaga a Renfe prevista per dijous en defensa de la seguretat ferroviària es manté. Ho ha anunciat aquest dimecres el sindicat de maquinistes Semaf, que ha cridat els 6.000 conductors de tot l'Estat a participar en l'aturada prevista a partir d'aquesta mitjanit. El tràgic accident d'Urda, a Toledo –que ja ha deixat més d'una seixantena de morts–, no ha canviat els plans del sindicat, que havien convocat la vaga per protestar contra el \"bloqueig administratiu\" dels acords signats en matèria de seguretat ferroviària, protocols…",
+      "excerpt": "La vaga a Renfe prevista per dijous en defensa de la seguretat ferroviària es manté. Ho ha anunciat aquest dimecres el sindicat de maquinistes Semaf, que ha cridat els 6.000 conductors de tot l'Estat a participar en l'aturada prevista a partir d'aquesta mitjanit. El Govern preveu que la vaga tingui un gran seguiment i compliqui la mobilitat a Catalunya, per la qual cosa ha recomanat a la ciutadania buscar alternatives al tren per als seus desplaçaments. De fet, fonts de l’executiu català han admès a…",
       "url": "https://www.ara.cat/societat/mobilitat/maquinistes-mantenen-vaga-renfe-aquest-dijous_1_5893171.html",
       "published": "2026-10-28T17:35:54+01:00",
       "category": "Actualitat",
@@ -430,8 +430,48 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Tres de cada deu negocis afectats per la gota freda no han recuperat la seva activitat dos anys després",
-      "excerpt": "Les dificultats persisteixen especialment en petits negocis, comerç i hostaleria, segons un informe de la Cambra de Comerç de València",
+      "title": "Accident d’Urda: secret de sumari en la investigació, prohibició d’accedir a la zona i confiscació de les caixes negres",
+      "excerpt": "La magistrada autoritza a entrar-hi solament les forces de seguretat, els equips sanitaris i el personal judicial",
+      "url": "https://www.vilaweb.cat/noticies/accident-durda-secret-de-sumari-en-la-investigacio-prohibicio-daccedir-a-la-zona-i-confiscacio-de-les-caixes-negres/",
+      "published": "2026-10-28T22:27:41+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Es filtren els àudios entre el centre de control i els maquinistes de l’accident a Urda: “Torni a connectar i reprengui la marxa normal”",
+      "excerpt": "Els àudios del centre de control publicats indiquen que l'Iryo informa que no pot arrencar",
+      "url": "https://www.vilaweb.cat/noticies/filtren-audios-centre-control-maquinistes-urda/",
+      "published": "2026-10-28T22:20:40+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Es filtren els àudios dels maquinistes de l'accident a Toledo: \"Reprengui amb marxa normal\"",
+      "excerpt": "Els àudios de les converses dels maquinistes dels trens AVE i Iryo que han xocat aquest dimecres a Urda, deixant més de 60 víctimes mortals , constaten que el conductor de l'AVE que acaba xocant amb la part de darrere de l'Iryo rep l'ordre de reprendre la marxa \"amb normalitat\". Els àudios que han avançat El País i Eldiario.es demostren que l'operari del centre de control d'Atocha –que estava acompanyat d'un supervisor i un auxiliar– dona l'ordre al tren AVE, que estava a uns 25…",
+      "url": "https://www.ara.cat/societat/successos/filtren-audios-dels-maquinistes-l-accident-toledo-reprengui-marxa-normal_1_5893530.html",
+      "published": "2026-10-28T22:15:40+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5cd22a89-2546-411d-838d-3a6227686278_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "bàsics",
+      "excerpt": "El programa d’anàlisi de l’actualitat de Barcelona amb els principals titulars del dia i l’anàlisi corresponent. Perquè això és el ‘bàsics’: fer un pas més i buscar més veus implicades en els temes tractats, per donar les claus del debat a partir d’entrevistes, reportatges, taules i anàlisi. Presentat per Sandra Mestres.",
+      "url": "https://beteve.cat/basics/basics-1413/",
+      "published": "2026-10-28T22:01:16+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "De cada deu negocis afectats per la gota freda, tres no han recuperat l’activitat dos anys després",
+      "excerpt": "Les dificultats persisteixen especialment en petits negocis, comerç i hoteleria, segons un informe de la Cambra de Comerç de València",
       "url": "https://www.vilaweb.cat/noticies/comercos-gota-freda-dos-anys-despres/",
       "published": "2026-10-28T21:42:05+01:00",
       "category": "País",
@@ -459,6 +499,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "Els Mossos admeten preocupació pels aldarulls: \"Estem davant d'un nou fenomen de violència juvenil\"",
+      "excerpt": "El cos policial ha defensat el dispositiu de la nit de dissabte, que es va fer en base a la informació que es tenia, tot i que admet no haver \"encertat el grau de violència dels participants\"",
+      "url": "https://www.3cat.cat/3catinfo/els-mossos-admeten-preocupacio-pels-aldarulls-estem-davant-dun-nou-fenomen-de-violencia-juvenil/noticia/3436686/",
+      "published": "2026-10-28T21:33:55+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/0/1793207570008.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Una tragèdia inexplicable que ha de tenir conseqüències",
       "excerpt": "L'accident de l'alta velocitat de Toledo podria ser una desgràcia puntual, però el fet que s'hagi produït només nou mesos després d'un altre xoc mortal, el d'Adamuz, en multiplica l'impacte i posa les coses realment molt difícils al govern espanyol perquè convenci l'opinió pública, a poc més de quatre setmanes per a les eleccions, que no existeix un problema estructural de gestió o de recursos al sistema ferroviari. És veritat que, amb la informació de què disposem fins ara, sembla que els dos accidents obeeixen…",
@@ -476,6 +526,16 @@
       "published": "2026-10-28T21:18:52+01:00",
       "category": "Actualitat",
       "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Es filtren les converses entre el centre de control i els maquinistes: \"Reprengui la marxa normal\"",
+      "excerpt": "L'ordre als maquinistes de l'AVE i de l'Iryo contravé el que diu el protocol en aquests casos, de reprendre la marxa a vista, amb una limitació de 40 quilòmetres per hora que permet veure qualsevol incidència a la via",
+      "url": "https://www.3cat.cat/3catinfo/es-filtren-les-converses-entre-el-centre-de-control-i-els-maquinistes-reprengui-la-marxa-normal/noticia/3436717/",
+      "published": "2026-10-28T21:11:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/5/9/1793220761995.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1021,7 +1081,7 @@
     {
       "source": "ARA",
       "title": "La fugida secreta i hollywoodiana de Bolsonaro amb l’ajuda de Milei i Trump",
-      "excerpt": "La fugida secreta i un punt hollywoodiana de Flávio Bolsonaro, amb escales a l’Argentina i l’Equador i l’ajuda explícita del president argentí, Javier Milei, i de l’administració trumpista, ha culminat aquest dimecres amb l’arribada del perdedor de les eleccions brasileres a l’aeroport executiu de Miami-Opa Locka (Estats Units).",
+      "excerpt": "La fugida secreta i un punt hollywoodiana de Flávio Bolsonaro, amb escales a l’Argentina i l’Equador i l’ajuda explícita del president argentí, Javier Milei, i de l’administració trumpista, ha culminat aquest dimecres amb l’arribada del perdedor de les eleccions brasileres a l’aeroport executiu de Miami-Opa Locka (Estats Units), des d'on ha dit que no reconeix els resultats. En un comunicat a les xarxes socials, Bolsonaro es va declarar \"el verdader president electe del Brasil\", dos dies després de la derrota a les urnes, però poc…",
       "url": "https://www.ara.cat/internacional/estats-units/flavio-bolsonaro-aterra-als-estats-units-despres-autoritats-brasileres-li-demanessin-entregar-passaport_1_5893113.html",
       "published": "2026-10-28T15:11:25+01:00",
       "category": "Actualitat",
@@ -1626,7 +1686,7 @@
     {
       "source": "ARA",
       "title": "Puente veu \"inexplicable\" que un operari ordenés a l’AVE reprendre la marxa amb un tren aturat a la via",
-      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Aquest dimecres dos trens d'alta velocitat, un AVE de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. L'últim balanç de víctimes se situa en 68 persones mortes, 15 ferides greus i una seixantena de ferides lleus ateses als…",
+      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Aquest dimecres dos trens d'alta velocitat, un AVE de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. L'últim balanç de víctimes se situa en 68 persones mortes, i més d'un centenar de ferides ingressades als hospitals, segons han…",
       "url": "https://www.ara.cat/societat/xoc-trens-talla-l-alta-velocitat-madrid-andalusia_1_5892696.html",
       "published": "2026-10-28T09:36:20+01:00",
       "category": "Actualitat",
