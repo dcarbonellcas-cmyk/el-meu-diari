@@ -117,6 +117,26 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "Rodalia de Catalunya i València avisen d’afectacions greus per la vaga de maquinistes i recomanen transports alternatius",
+      "excerpt": "A Catalunya circularà el 66% dels trens en hora punta i el 33% la resta del dia, mentre que al País Valencià els serveis mínims seran del 75% i el 50%, respectivament",
+      "url": "https://www.vilaweb.cat/noticies/rodalia-catalunya-valencia-afectacions-greus-vaga-de-maquinistes/",
+      "published": "2026-10-28T21:48:38+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Vaga dels maquinistes de Renfe per la seguretat ferroviària, l’endemà del tràgic accident de Toledo",
+      "excerpt": "La vaga de maquinistes convocada aquest dijous pel sindicat SEMAF arriba l’endemà del tràgic accident ferroviari de Toledo amb desenes de víctimes mortals. Els maquinistes havien organitzat l’aturada per exigir millores en la seguretat ferroviària, i ara aquesta tragèdia sembla carregar-los de raons per paralitzar el servei. La vaga arriba enmig de la consternació per […]",
+      "url": "https://beteve.cat/mobilitat/vaga-maquinistes-renfe-endema-accident-mortal-toledo/",
+      "published": "2026-10-28T21:27:10+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/08/tren-Rodalies-estacio-Franca-040826-2026-08-04.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dijous: sol, boires, alguns núvols i un parell de graus menys",
       "excerpt": "Els núvols es mantindran durant bona part del dia al litoral central",
@@ -179,7 +199,7 @@
       "url": "https://www.ara.cat/economia/macroeconomia/fed-mante-tipus-d-interes-afavoreix-trump-setmana-eleccions_1_5893160.html",
       "published": "2026-10-28T19:02:15+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/60d78050-7469-4c2f-bdd5-e71bb01f9227_source-aspect-ratio_default_0_x1630y881.jpg",
+      "image": "https://static1.ara.cat/clip/5e76f28a-6026-499b-8594-ae116d2c252a_16-9-aspect-ratio_default_0_x2272y1246.jpg",
       "priority": "2 · Important"
     },
     {
@@ -211,7 +231,7 @@
     {
       "source": "ARA",
       "title": "Els maquinistes mantenen la vaga a Renfe per aquest dijous",
-      "excerpt": "La vaga a Renfe prevista per dijous en defensa de la seguretat ferroviària es manté. Ho ha anunciat aquest dimecres el sindicat de maquinistes Semaf, que ha cridat els 6.000 conductors de tot l'Estat a participar en l'aturada prevista a partir d'aquesta mitjanit. El tràgic accident d'Urda, a Toledo –que ja ha deixat més d'una seixantena de ferits–, no ha canviat els plans del sindicat, que havien convocat la vaga per protestar contra el \"bloqueig administratiu\" dels acords signats en matèria de seguretat ferroviària, protocols…",
+      "excerpt": "La vaga a Renfe prevista per dijous en defensa de la seguretat ferroviària es manté. Ho ha anunciat aquest dimecres el sindicat de maquinistes Semaf, que ha cridat els 6.000 conductors de tot l'Estat a participar en l'aturada prevista a partir d'aquesta mitjanit. El tràgic accident d'Urda, a Toledo –que ja ha deixat més d'una seixantena de morts–, no ha canviat els plans del sindicat, que havien convocat la vaga per protestar contra el \"bloqueig administratiu\" dels acords signats en matèria de seguretat ferroviària, protocols…",
       "url": "https://www.ara.cat/societat/mobilitat/maquinistes-mantenen-vaga-renfe-aquest-dijous_1_5893171.html",
       "published": "2026-10-28T17:35:54+01:00",
       "category": "Actualitat",
@@ -375,12 +395,12 @@
     },
     {
       "source": "ARA",
-      "title": "El sindicat majoritari de metges de la pública comença una vaga indefinida",
-      "excerpt": "A diferència d’altres sindicats, que han ajornat les aturades sectorials arran de la convocatòria d’eleccions i la vaga general de l’11 de novembre, Metges de Catalunya la manté. Des d’avui, el sindicat majoritari de facultatius a Catalunya fa una crida als professionals mèdics del sistema sanitari públic perquè facin vaga indefinida, en la dotzena convocatòria d’enguany del col·lectiu.",
+      "title": "Els metges comencen la vaga indefinida: \"El Govern pot negociar o convocar eleccions\"",
+      "excerpt": "A diferència d'altres sindicats, que han ajornat les aturades sectorials arran de la convocatòria d'eleccions i la vaga general de l'11 de novembre, Metges de Catalunya ha fet una crida aquest dimecres als professionals mèdics del sistema sanitari públic perquè facin vaga indefinida. És la dotzena convocatòria d'enguany del col·lectiu. \"Poden negociar o convocar eleccions i marxar per incompetents\", ha afirmat el secretari general del sindicat, Xavier Lleonart, en referència a les \"dues opcions\" que té el departament de Salut i, per extensió, la Generalitat,…",
       "url": "https://www.ara.cat/societat/sanitat/metges-publica-cridats-vaga-indefinida_1_5892522.html",
       "published": "2026-10-28T07:15:35+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/9ef4c825-07d1-4224-a5ad-728a2f8cfa35_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/35d29893-751c-4847-b0fb-a821900682ec_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -407,6 +427,56 @@
       "category": "Llevant",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Tres de cada deu negocis afectats per la gota freda no han recuperat la seva activitat dos anys després",
+      "excerpt": "Les dificultats persisteixen especialment en petits negocis, comerç i hostaleria, segons un informe de la Cambra de Comerç de València",
+      "url": "https://www.vilaweb.cat/noticies/comercos-gota-freda-dos-anys-despres/",
+      "published": "2026-10-28T21:42:05+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "On ha portat la megalomania de l’AVE?",
+      "excerpt": "Com és possible que, en una infrastructura d’aquesta categoria i importància, la seguretat depenga de l’encert o l’error d’una sola persona?",
+      "url": "https://www.vilaweb.cat/noticies/on-ha-portat-la-megalomania-de-lave/",
+      "published": "2026-10-28T21:40:02+01:00",
+      "category": "Editorial",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Bolsonaro s’autoproclama “president electe” del Brasil després de fugir als Estats Units",
+      "excerpt": "El fill de Jair Bolsonaro denuncia un frau electoral sense aportar-ne proves, rebutja la victòria de Lula i anuncia que dirigirà l'oposició des de l'exterior",
+      "url": "https://www.vilaweb.cat/noticies/bolsonaro-president-electe-brasil-estats-units/",
+      "published": "2026-10-28T21:37:43+01:00",
+      "category": "Amèrica",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una tragèdia inexplicable que ha de tenir conseqüències",
+      "excerpt": "L'accident de l'alta velocitat de Toledo podria ser una desgràcia puntual, però el fet que s'hagi produït només nou mesos després d'un altre xoc mortal, el d'Adamuz, en multiplica l'impacte i posa les coses realment molt difícils al govern espanyol perquè convenci l'opinió pública, a poc més de quatre setmanes per a les eleccions, que no existeix un problema estructural de gestió o de recursos al sistema ferroviari. És veritat que, amb la informació de què disposem fins ara, sembla que els dos accidents obeeixen…",
+      "url": "https://www.ara.cat/editorial/tragedia-inexplicable-consequencies_129_5893290.html",
+      "published": "2026-10-28T21:22:23+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b65eaf06-2e03-45a4-89da-9174811a2e0c_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La Brama",
+      "excerpt": "La cultura és la protagonista absoluta. Laura Sangrà presenta ‘La Brama’, un punt de trobada entre els grans noms del sector, els més consolidats i els emergents, els que estan en primera línia i els que es troben als marges. Volem que el programa sigui un clam, una reivindicació del paper de la cultura i […]",
+      "url": "https://beteve.cat/la-brama/la-brama-30/",
+      "published": "2026-10-28T21:18:52+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -950,12 +1020,12 @@
     },
     {
       "source": "ARA",
-      "title": "Flávio Bolsonaro aterra als Estats Units després que les autoritats brasileres li demanessin entregar el passaport",
-      "excerpt": "El líder d'extrema dreta brasiler Flávio Bolsonaro i la seva família han aterrat aquest dimecres a Miami, on l'administració de Donald Trump ja ha anunciat que els entregarà nous visats després que el polític fugís del Brasil i es negués a entregar el seu passaport a les autoritats brasileres, que l'investiguen per dos casos de corrupció.",
+      "title": "La fugida secreta i hollywoodiana de Bolsonaro amb l’ajuda de Milei i Trump",
+      "excerpt": "La fugida secreta i un punt hollywoodiana de Flávio Bolsonaro, amb escales a l’Argentina i l’Equador i l’ajuda explícita del president argentí, Javier Milei, i de l’administració trumpista, ha culminat aquest dimecres amb l’arribada del perdedor de les eleccions brasileres a l’aeroport executiu de Miami-Opa Locka (Estats Units).",
       "url": "https://www.ara.cat/internacional/estats-units/flavio-bolsonaro-aterra-als-estats-units-despres-autoritats-brasileres-li-demanessin-entregar-passaport_1_5893113.html",
       "published": "2026-10-28T15:11:25+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/0149da07-e190-4665-b5a3-da07cd90d8a1_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/0149da07-e190-4665-b5a3-da07cd90d8a1_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1556,7 +1626,7 @@
     {
       "source": "ARA",
       "title": "Puente veu \"inexplicable\" que un operari ordenés a l’AVE reprendre la marxa amb un tren aturat a la via",
-      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Aquest dimecres dos trens d'alta velocitat, un AVE de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. L'últim balanç de víctimes se situa en 68 persones mortes i desenes de ferides, moltes de les quals greus, segons han…",
+      "excerpt": "Segona tragèdia ferroviària a Espanya en menys d'un any a la línia entre Sevilla i Madrid i que ja se situa com un dels accidents més tràgics de la història ferroviària a l'Estat. Aquest dimecres dos trens d'alta velocitat, un AVE de Renfe i un altre d'Iryo, han xocat pocs minuts abans de les 9 del matí a Urda, a la província de Toledo. L'últim balanç de víctimes se situa en 68 persones mortes, 15 ferides greus i una seixantena de ferides lleus ateses als…",
       "url": "https://www.ara.cat/societat/xoc-trens-talla-l-alta-velocitat-madrid-andalusia_1_5892696.html",
       "published": "2026-10-28T09:36:20+01:00",
       "category": "Actualitat",
