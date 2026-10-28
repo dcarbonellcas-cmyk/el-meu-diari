@@ -3,7 +3,7 @@
   "pages": [
     {
       "page": 2,
-      "title": "Almenys 10 morts en l'accident dels dos trens d'alta velocitat a Urda, Toledo",
+      "title": "Almenys 30 morts en un xoc entre dos trens d'alta velocitat a Urda, Toledo",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/successos/terrible-testimonis-l-accident-tren-asseguren-hi-ferits-morts_6_5892710.html",
       "published": "2026-10-28T10:00:13+01:00",
@@ -19,7 +19,7 @@
     },
     {
       "page": 4,
-      "title": "Augmenta a 39 el nombre de morts en el xoc de dos trens d'alta velocitat a Toledo",
+      "title": "Almenys 30 morts en el xoc de dos trens d'alta velocitat a Toledo",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/un-xoc-entre-dos-trens-a-toledo-obliga-a-suspendre-la-circulacio-de-lalta-velocitat-entre-madrid-i-andalusia/noticia/3436523/",
       "published": "2026-10-28T09:40:48+01:00",
@@ -27,7 +27,7 @@
     },
     {
       "page": 5,
-      "title": "Un nou accident entre trens d’alta velocitat podria haver causat desenes de morts a Castella-la Manxa",
+      "title": "Trenta morts, pel cap baix, en l’accident entre dos trens d’alta velocitat a Castella-la Manxa",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/dos-trens-xoquen-a-urda-i-dos-vagons-cauen-per-un-terraple/",
       "published": "2026-10-28T09:33:27+01:00",
@@ -120,7 +120,7 @@
     },
     {
       "page": 16,
-      "title": "Els metges comencen una vaga indefinida: què demanen i com impactarà en el pacient",
+      "title": "Els metges comencen una vaga indefinida i tallen la Diagonal a Barcelona: què demanen",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/els-metges-comencen-una-vaga-indefinida-que-demanen-i-com-impactara-en-el-pacient/noticia/3436437/",
       "published": "2026-10-28T06:47:13+01:00",
@@ -136,14 +136,94 @@
     },
     {
       "page": 18,
-      "title": "Un passatger del tren Iryo accidentat: “Hi ha gent que no ho podrà explicar”",
+      "title": "Halloween amb nens: Què fer a casa i activitats a Barcelona per als més petits",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/halloween-nens-barcelona/",
+      "published": "2026-10-28T11:49:50+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 19,
+      "title": "[VÍDEO] Les imatges aèries del tràgic accident ferroviari de Castella-la Manxa",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/video-les-imatges-aeries-del-tragic-accident-ferroviari-de-castella-la-manxa/",
+      "published": "2026-10-28T11:47:24+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 20,
+      "title": "Una nova tragèdia ferroviària irromp en precampanya",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/analisi/nova-tragedia-ferroviaria-irromp-precampanya_1_5892815.html",
+      "published": "2026-10-28T11:36:00+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 21,
+      "title": "L'accident de trens a Toledo, en imatges",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/l-accident-trens-toledo-imatges_3_5892800.html",
+      "published": "2026-10-28T11:35:45+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 22,
+      "title": "\"Ha estat terrible\": el relat dels passatgers del xoc de trens a Toledo",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/terrible-relat-dels-passatgers-xoc-trens-toledo_1_5892813.html",
+      "published": "2026-10-28T11:29:24+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 23,
+      "title": "Bon dia Barcelona",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-164/",
+      "published": "2026-10-28T11:22:56+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 24,
+      "title": "Conflicte laboral al Port de Barcelona: què passa i per què protesten els treballadors?",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/economia/conflicte-laboral-port-barcelona/",
+      "published": "2026-10-28T11:22:00+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 25,
+      "title": "Els partits polítics suspenen l’agenda per l’accident mortal de tren a Toledo",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/politica/partits-politics-suspenen-agenda-accident-mortal-tren-toledo/",
+      "published": "2026-10-28T11:13:57+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 26,
+      "title": "La castanyada és més de 3 graus més càlida que ara fa 100 anys",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/medi-ambient/castanyes-temperatura-clima/",
+      "published": "2026-10-28T11:10:59+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 27,
+      "title": "Els Demòcrates reclamen un pacte amb els partits àrabs per a desbancar Netanyahu a Israel",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/democrates-israel-pacte-partits-arabs-netanyahu/",
+      "published": "2026-10-28T11:01:04+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 28,
+      "title": "El testimoni d’un passatger del tren Iryo accidentat: “Hi ha gent que no ho podrà explicar”",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/un-passatger-del-tren-iryo-accidentat-hi-ha-gent-que-no-ho-podra-explicar/",
       "published": "2026-10-28T10:58:22+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 19,
+      "page": 29,
       "title": "Biel Mesquida, la Bressola i el Correllengua Agermanat, entre els premis 31 de Desembre de l’OCB",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/biel-mesquida-bressola-correllengua-premis-31-desembre/",
@@ -151,7 +231,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 20,
+      "page": 30,
       "title": "El Sant Andreu destitueix Natxo González després d’un inici de curs poc engrescador a Primera RFEF",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/sant-andreu-destitueix-natxo-gonzalez-2026/",
@@ -159,7 +239,23 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 21,
+      "page": 31,
+      "title": "Manifestació de treballadors del port contra les retallades salarials previstes",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/economia/manifestacio-treballadors-port-retallades-salarials/",
+      "published": "2026-10-28T10:45:42+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 32,
+      "title": "Endesa registra un benefici net de 1.962 M€ fins al setembre, un 15 % més que l’any passat",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/economia/endesa-benefici-net-1962-milions-euros-fins-setembre/",
+      "published": "2026-10-28T10:44:07+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 33,
       "title": "El Museu Egipci incorpora una sala immersiva per capbussar-nos en l’antiguitat",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/cultura/museu-egipci-sala-immersiva/",
@@ -167,15 +263,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 22,
-      "title": "Halloween amb nens: Què fer a casa i activitats a Barcelona per als més petits",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/agenda/halloween-nens-barcelona/",
-      "published": "2026-10-28T10:34:53+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 23,
+      "page": 34,
       "title": "Un error humà al centre de control, principal hipòtesi del xoc entre dos trens a Toledo",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/un-error-huma-al-centre-de-control-principal-hipotesis-del-xoc-entre-dos-trens-a-toledo/noticia/3436534/",
@@ -183,7 +271,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 24,
+      "page": 35,
       "title": "Jordi, passatger del tren Iryo envestit a Urda: \"Hi ha dos vagons completament destrossats\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/jordi-passatger-del-tren-iryo-envestit-a-urda-hi-ha-dos-vagons-completament-destrossats/noticia/3436532/",
@@ -191,7 +279,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 25,
+      "page": 36,
       "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
@@ -199,7 +287,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 26,
+      "page": 37,
       "title": "El camí de l’Atlètic-Barceloneta a la Champions League 2026-27: el campió vol repetir títol",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/cami-atletic-barceloneta-champions-26-27/",
@@ -207,7 +295,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 27,
+      "page": 38,
       "title": "Castanyada i Halloween 2026: Què fer a Barcelona? Activitats més destacades",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/castanyada-halloween-barcelona/",
@@ -215,7 +303,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 28,
+      "page": 39,
       "title": "L’automobilística Ebro dobla els ingressos en un any amb les vendes concentrades a l’estat",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/ebro-dobla-ingressos-vendes-concentrades-estat/",
@@ -223,7 +311,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 29,
+      "page": 40,
       "title": "Judici contra TMB pel cas d’un treballador del metro que va morir per l’exposició a l’amiant",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/comenca-judici-tmb-cas-treballador-mort-exposicio-amiant-metro/",
@@ -231,7 +319,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 30,
+      "page": 41,
       "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/que-fer-a-barcelona/",
@@ -239,7 +327,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 31,
+      "page": 42,
       "title": "El cineasta Jafar Panahi, condemnat a 5 anys i un mes de presó pel règim de l'Iran",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/cinema/jafar-panahi-condemnat-5-anys-mes-preso-iran_1_5892552.html",
@@ -247,7 +335,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 32,
+      "page": 43,
       "title": "Les persones sense llar moren, de mitjana, abans dels 50 anys, segons Arrels Fundació",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/persones-sense-llar-moren-mitjana-abans-50-anys/",
@@ -255,15 +343,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 33,
-      "title": "\"És terrible\": el relat d'un dels passatgers del tren accidentat",
+      "page": 44,
+      "title": "Els primers indicis apunten a un error humà que hauria provocat que un AVE envestís un Iryo aturat",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/xoc-trens-talla-l-alta-velocitat-madrid-andalusia_1_5892696.html",
       "published": "2026-10-28T09:36:20+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 34,
+      "page": 45,
       "title": "Goodman ultima un acord per ocupar els darrers terrenys disponibles a l’antiga Nissan",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/goodman-ultima-acord-ocupar-terrenys-disponibles-antiga-nissan/",
@@ -271,7 +359,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 35,
+      "page": 46,
       "title": "L'actor Noah Wyle és l'home més sexi del món segons la revista 'People'",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/gent/hollywood/l-actor-noah-wyle-l-home-mes-sexi-mon-segons-revista-people_1_5892653.html",
@@ -279,7 +367,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 36,
+      "page": 47,
       "title": "Colau proposa de crear un impost que dissuadeixi d’acumular habitatges",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/colau-proposa-crear-impost-acumular-habitatges/",
@@ -287,7 +375,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 37,
+      "page": 48,
       "title": "La ciència fa parada als micropobles",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/terresdelleida/ciencia-parada-als-micropobles_130_5887707.html",
@@ -295,7 +383,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 38,
+      "page": 49,
       "title": "“Ens cal una distribució més honesta dels metges a Catalunya”",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/terresdelleida/cal-distribucio-mes-honesta-dels-metges-catalunya_128_5886759.html",
@@ -303,7 +391,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 39,
+      "page": 50,
       "title": "Begoña Gómez denuncia el PP per haver suplantat la seva identitat en un vídeo fet amb intel·ligència artificial",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/begona-gomez-denuncia-pp-suplantat-identitat-video/",
@@ -311,7 +399,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 40,
+      "page": 51,
       "title": "La Xina no accepta les disculpes de Mbappé i manté el vet a la lliga espanyola",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/la-xina-no-accepta-les-disculpes-de-mbappe-i-mante-el-vet-a-la-lliga-espanyola/",
@@ -319,7 +407,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 41,
+      "page": 52,
       "title": "Rufián i Montero fan malabars a 'La revuelta'",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/rufian-montero-malabars-revuelta_129_5892489.html",
@@ -327,7 +415,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 42,
+      "page": 53,
       "title": "Quatre estacions de l’L1 del metro sense servei en plena hora punta per una assistència sanitària",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/mobilitat/quatre-parades-l1-metro-sense-servei-assistencia-sanitaria/",
@@ -335,7 +423,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 43,
+      "page": 54,
       "title": "El monstre (i els seus gurus)",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/opinio/monstre-gurus_129_5890677.html",
@@ -343,7 +431,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 44,
+      "page": 55,
       "title": "Les portades del dimecres 28 de octubre de 2026",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-dimecres-28-de-octubre-de-2026/",
@@ -351,7 +439,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 45,
+      "page": 56,
       "title": "Els colons d'Israel imposen el terror a Cisjordània: \"Quan acaben amb una comunitat van a la següent\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/proxim-orient/colons-d-israel-imposen-terror-cisjordania-acaben-comunitat-seguent_1_5891053.html",
@@ -359,7 +447,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 46,
+      "page": 57,
       "title": "Una ablació cada quinze segons i una dona assassinada cada deu minuts: com pot ser?",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/actualitat/ablacio-quinze-segons-dona-assassinada-deu-minuts-pot-veritat_1_5891980.html",
@@ -367,7 +455,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 47,
+      "page": 58,
       "title": "Els danys per a la salut provocats per la crisi climàtica s'acceleren des de l'Acord de París",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/els-danys-per-a-la-salut-provocats-per-la-crisi-climatica-sacceleren-des-de-lacord-de-paris/noticia/3436308/",
@@ -375,7 +463,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 48,
+      "page": 59,
       "title": "La Dreta de l’Eixample té 10 vegades més restaurants que Sant Andreu, tot i tenir menys habitants",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/dreta-eixample-10-vegades-mes-restaurants-sant-andreu-menys-habitants/",
@@ -383,7 +471,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 49,
+      "page": 60,
       "title": "L’AMB adjudica a Veolia el macrocontracte del servei d’aigües de vuit municipis metropolitans",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/amb-adjudica-veolia-macrocontracte-aigua/",
@@ -391,7 +479,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 50,
+      "page": 61,
       "title": "Les millors esgarrapades de Mazoni i una colla de còmplices",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/musica/millors-esgarrapades-mazoni-colla-complices_1_5892454.html",
@@ -399,7 +487,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 51,
+      "page": 62,
       "title": "Què hauria de passar perquè Sánchez demanés allargar l'horari de votació com Lula i Netanyahu?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/hauria-passar-perque-sanchez-demanes-allargar-l-horari-votacio-lula-netanyahu_1_5892203.html",
@@ -407,7 +495,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 52,
+      "page": 63,
       "title": "Escalfar motors d’avió: això feia Kärcher abans de dedicar-se a l’aigua a pressió",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/empreses/escalfar-motors-d-avio-aixo-feia-karcher-dedicar-l-aigua-pressio_1_5892143.html",
@@ -415,7 +503,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 53,
+      "page": 64,
       "title": "Jordi Graupera: \"Algú ha de dir que no a PP i PSOE\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/algu-dir-no-pp-psoe-alhora-sera-vot-castig-pel-29-n_1_5891754.html",
@@ -423,7 +511,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 54,
+      "page": 65,
       "title": "La gasolina barata del Japó passa factura a l’estat",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/empreses/gasolina-barata-japo-passa-factura-l_1_5890063.html",
@@ -431,7 +519,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 55,
+      "page": 66,
       "title": "Seny, la nova barra de peix per a tots els públics del barri de Gràcia",
       "source": "ARA",
       "articleUrl": "https://mengem.ara.cat/restaurants/seny-nova-barra-peix-tots-publics-barri-gracia_1_5890912.html",
@@ -439,7 +527,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 56,
+      "page": 67,
       "title": "El dijous inoblidable d'un monitor de menjador de Castelldefels",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/futbol/ae-prat-athletic-club-copa-del-rei-2026_130_5891984.html",
@@ -447,7 +535,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 57,
+      "page": 68,
       "title": "\"Els aldarulls a Barcelona han estat el ritual d'iniciació per una joventut marginada\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/successos/aldarulls-barcelona-han-ritual-d-iniciacio-joventut-marginada_128_5891131.html",
@@ -455,7 +543,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 58,
+      "page": 69,
       "title": "França, al divan del Nobel d'economia Philippe Aghion: \"El segon mandat de Macron és un desastre\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/franca-al-divan-del-nobel-deconomia-philippe-aghion-el-segon-mandat-de-macron-es-un-desastre/noticia/3434315/",
