@@ -39,12 +39,58 @@
       "published": "2026-10-29T08:46:58+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/7/1793260807571.jpg",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433327/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/accident-a-toledo-balanc-provisional-de-68-morts-i-170-ferits-mentre-continuen-els-treballs-de-recerca/noticia/3436737/"
-      }
+      },
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dijous: sol, boires, alguns núvols i un parell de graus menys",
+      "excerpt": "Els núvols es mantindran durant bona part del dia al litoral central",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/",
+      "published": "2026-10-28T19:52:58+01:00",
+      "updated": "2026-10-29T17:00:06+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/5/1793289589356.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433346/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Puente sol·licita comparèixer a la comissió permanent del congrés espanyol pel sinistre ferroviari a Toledo",
+      "excerpt": "El ministre espanyol de Transports compareixerà a la Comissió Permanent per explicar els fets, després que diversos grups parlamentaris ho hagin exigit",
+      "url": "https://www.vilaweb.cat/noticies/puente-sollicita-compareixer-sinistre-ferroviari-toledo/",
+      "published": "2026-10-29T16:53:44+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Com saber si t’ha tocat ser a la mesa electoral de les eleccions generals 2026?",
+      "excerpt": "El sorteig de les meses electorals per a les eleccions generals 2026 del 29 de novembre es farà entre el 31 d’octubre i el 4 de novembre. En el cas de Barcelona se n’encarrega l’Ajuntament i encara no s’ha fixat una data per fer-lo. Una vegada s’hagi celebrat el sorteig els elegits rebran una notificació […]",
+      "url": "https://beteve.cat/politica/com-saber-eleccio-mesa-electoral-eleccions-generals-2026/",
+      "published": "2026-10-29T16:44:40+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/07/mesa-electoral-180723-1.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El govern valencià elimina el requisit lingüístic en el 74% de les especialitats de les oposicions docents",
+      "excerpt": "STEPV denuncia que la llei dita “de llibertat educativa” arracona el català i adverteix que la supressió del requisit lingüístic posa en risc la continuïtat laboral del professorat interí",
+      "url": "https://www.vilaweb.cat/noticies/govern-valencia-elimina-requisit-linguistic/",
+      "published": "2026-10-29T16:27:00+01:00",
+      "category": "Educació",
+      "image": null,
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -124,12 +170,12 @@
       "published": "2026-10-29T14:03:40+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/9/8/1793269051089.jpeg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433262/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/anar-drets-a-lautopista-els-usuaris-dels-busos-expres-del-maresme-reclamen-mes-seguretat/noticia/3436762/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -159,6 +205,16 @@
       "published": "2026-10-29T13:37:33+01:00",
       "category": "Europa",
       "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Puente demana comparèixer al Congrés i l'oposició exigeix responsabilitats polítiques per l'accident",
+      "excerpt": "ERC, Podem i Sumar demanen que Puente comparegui al Congrés i Vox el denuncia per homicidi imprudent",
+      "url": "https://www.3cat.cat/3catinfo/erc-podem-i-sumar-demanen-que-puente-comparegui-al-congres-per-donar-explicacions-sobre-laccident/noticia/3436777/",
+      "published": "2026-10-29T13:00:42+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/0/6/1793196972960.png",
       "priority": "2 · Important"
     },
     {
@@ -249,22 +305,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dijous: sol, boires, alguns núvols i un parell de graus menys",
-      "excerpt": "Els núvols es mantindran durant bona part del dia al litoral central",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/",
-      "published": "2026-10-28T19:52:58+01:00",
-      "updated": "2026-10-29T09:25:00+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/5/0/1793262288505.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433247/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "VilaWeb",
       "title": "La vaga de maquinistes comença sense incidències destacades i amb el compliment dels serveis mínims",
       "excerpt": "Els primers trens han sortit amb normalitat, però RENFE avisa que serà un dia complicat i recomana d'evitar els desplaçaments amb tren",
@@ -303,6 +343,66 @@
       "category": "Llevant",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La fiscalia demana gairebé vuit anys de presó per a dos mossos acusats de maltractament i vexacions a un detingut",
+      "excerpt": "Els agents també estan acusats de detenció il·legal a un home per la seva orientació sexual i l'origen ètnic a Barcelona",
+      "url": "https://www.vilaweb.cat/noticies/fiscalia-demana-gairebe-vuit-anys-preso-dos-mossos-acusats-maltractament-vexacions-detingut/",
+      "published": "2026-10-29T16:45:03+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’alta velocitat perd viatgers en un 2026 tràgic a la xarxa ferroviària",
+      "excerpt": "Segons la Comissió dels Mercats i la Competència (CNMC), durant el primer semestre del 2026, de gener a juny, l’alta velocitat a tot el territori espanyol va transportar 18,65 milions de passatgers: 8,05 milions hi van viatjar durant el primer trimestre i 10,6 milions, durant el segon. La xifra representa una caiguda interanual d’un 21 […]",
+      "url": "https://beteve.cat/economia/alta-velocitat-perd-viatgers-2026/",
+      "published": "2026-10-29T16:40:57+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/12/alta-velocitat-sants.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "TMB tallarà un mes el tram de l’L2 entre la Pau i Gorg per reparar una esquerda a la llosa de la via",
+      "excerpt": "Ja fa unes setmanes que els usuaris de l’L2 de metro, la línia lila, han vist com al tram que recorre les estacions situades entre Sant Adrià i Badalona, hi han hagut retards i grans acumulacions en hora punta. La raó: un trencament en la llosa de la via que va obligar a limitar la […]",
+      "url": "https://beteve.cat/societat/tmb-tallara-un-mes-tram-l2-entre-la-pau-i-gorg/",
+      "published": "2026-10-29T16:38:51+01:00",
+      "category": "diversitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/12/l2-metro-basics-091224.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Juan Mayorga fa parlar els gossos de Cervantes",
+      "excerpt": "\"Milions de persones són tractades com si fossin animals, mentre que d'altres hem estat educats per veure altres éssers humans com si ho fossin\", diu el dramaturg madrileny Juan Mayorga. Aquest és el punt de partida que alimenta el seu darrer espectacle, Palabra de perro , creat a partir d' El coloquio de los perros, de Miguel de Cervantes, i protagonitzat per Cecilia Solaguren, Jimmy Castro i Jorge Kent. L'obra, que es representa fins al 8 de novembre al Teatre Romea, i que està dirigida…",
+      "url": "https://www.ara.cat/cultura/teatre/juan-mayorga-parlar-gossos-cervantes_1_5893830.html",
+      "published": "2026-10-29T16:36:21+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/62af98b0-fa6a-4844-a9ee-e7857bb1f7f3_16-9-aspect-ratio_default_0_x3315y513.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Còrsega convoca una sessió extraordinària de l’Assemblea arran del rebuig a l’autonomia",
+      "excerpt": "Els sobiranistes corsos volen acordar una resposta conjunta al blocatge del senat francès i Femu a Corsica, el principal partit del govern, proposa un referèndum abans d’acabar l’any",
+      "url": "https://www.vilaweb.cat/noticies/corsega-sessio-extraordinaria-dassemblea-rebuig-autonomia/",
+      "published": "2026-10-29T16:16:02+01:00",
+      "category": "Còrsega",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé t’acosta la innovació urbana, en directe, des de l’Smart City Expo 2026",
+      "excerpt": "Del 3 al 5 de novembre, betevé serà present a l’Smart City Expo World Congress 2026, la gran trobada internacional sobre innovació urbana, tecnologia i transformació de les ciutats. Cada matí, el Bon dia, Barcelona! es farà, en directe, des del recinte firal de la Gran Via. A més, el betevé notícies migdia connectarà amb […]",
+      "url": "https://beteve.cat/economia/beteve-en-directe-smart-city-expo-2026/",
+      "published": "2026-10-29T16:15:06+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/smart-city-expo-2025-2026-10-29.webp",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -547,7 +647,7 @@
     {
       "source": "ARA",
       "title": "'OK Diario' ha pagat més de 240.000 euros per a la defensa del condemnat Koldo García",
-      "excerpt": "L'empresa editora del diari digital de dreta radical d'Eduardo Inda, OK Diario , va pagar 242.000 euros per a la defensa de Koldo García, l'exassessor de l'exministre José Luis Ábalos, que va ser condemnat a 19 anys de presó pel cas de corrupció que va afectar la cartera de Transports del govern espanyol del PSOE. Així consta en la documentació aportada per la defensa de Koldo García –a la qual ha tingut accés l'ARA– a la secció d'instrucció del tribunal central d'instància per especificar l'abonament…",
+      "excerpt": "L'empresa editora del diari digital de dreta radical d'Eduardo Inda, OK Diario , va pagar 242.000 euros per a la defensa de Koldo García –l'exassessor de l'exministre José Luis Ábalos–, que va ser condemnat a 19 anys i vuit mesos de presó pel Tribunal Suprem pel cas de corrupció que va afectar la cartera de Transports del govern espanyol del PSOE. Així consta en la documentació aportada per la defensa de Koldo García –a la qual ha tingut accés l'ARA– a la secció d'instrucció del…",
       "url": "https://www.ara.cat/politica/okdiario-paga-mes-240-000-euros-defensa-condemnat-koldo-garcia_1_5893959.html",
       "published": "2026-10-29T13:24:03+01:00",
       "category": "Actualitat",
@@ -602,16 +702,6 @@
       "published": "2026-10-29T13:02:12+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/d0504c6f-8633-4df7-8d87-1cadeab48af7_source-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "3CatInfo",
-      "title": "Feijóo exigeix responsabilitats polítiques per l'accident ferroviari: \"Són imprescindibles\"",
-      "excerpt": "ERC, Podem i Sumar demanen que Puente comparegui al Congrés i Vox el denuncia per homicidi imprudent",
-      "url": "https://www.3cat.cat/3catinfo/erc-podem-i-sumar-demanen-que-puente-comparegui-al-congres-per-donar-explicacions-sobre-laccident/noticia/3436777/",
-      "published": "2026-10-29T13:00:42+01:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/9/4/1793281543449.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -776,18 +866,18 @@
     },
     {
       "source": "ARA",
-      "title": "El BCE manté els tipus en una reunió marcada per la dimissió de Lagarde",
-      "excerpt": "El Banc Central Europeu (BCE) ha anunciat aquest dijous que manté els tipus d'interès al 2,5 en un context d'incertesa per la crisi energètica, que ha disparat els preus de l'energia. La institució adverteix que aquesta situació pot pressionar la inflació i frenar el creixement de la zona euro, i per això no descarta noves pujades del preu del diner.",
+      "title": "Christine Lagarde dimiteix com a presidenta del BCE: \"No puc continuar sent neutral\"",
+      "excerpt": "El Banc Central Europeu (BCE) ha anunciat aquest dijous que manté els tipus d'interès en el 2,5% en un context d'incertesa per la crisi energètica, que ha disparat els preus de l'energia. La institució adverteix que aquesta situació pot pressionar la inflació i frenar el creixement de la zona euro, i per això ha obert la porta a apujar de nou el preu del diner al desembre.",
       "url": "https://www.ara.cat/economia/christine-lagarde-dimiteix-presidenta-banc-central-europeu_1_5893854.html",
       "published": "2026-10-29T11:14:20+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/4a71b11b-94d8-4685-871c-be56e63a9b55_16-9-aspect-ratio_default_0_x1946y795.jpg",
+      "image": "https://static1.ara.cat/clip/4a71b11b-94d8-4685-871c-be56e63a9b55_source-aspect-ratio_default_0_x1946y795.jpg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
-      "title": "Seat redueix un 62,5% el benefici operatiu i Volkswagen gairebé un 99%",
-      "excerpt": "L'automobilística Seat ha reduït en un 62,5% els guanys de la seva activitat comercial en els nou primers mesos de l'any, respecte al mateix període de l'any passat. Així, el benefici operatiu de la companyia ha passat dels 16 milions registrats fins al setembre del 2025 als 6 milions d'enguany. En la mateixa línia, la seva matriu, Volkswagen, ha reduït els beneficis obtinguts de l'activitat principal en un 98,7% respecte al 2025, fins als 71 milions d'euros, enfront dels 5.408 de fa un any. El…",
+      "title": "El Grup Volkswagen s'anota unes pèrdues de 2.720 milions en plena crisi",
+      "excerpt": "El Grup Volkswagen travessa una profunda crisi, i així ho constaten els números que la companyia ha presentat aquest dijous. Durant els nou primers mesos de l'any, el resultat net de la matriu alemanya de Seat s'ha desplomat, passant d'uns beneficis de 3.405 milions l'any passat a unes pèrdues de 2.720 milions enguany. El benefici operatiu –que surt estrictament de l'activitat principal de la companyia, sense que hi impactin impostos ni costos financers– també cau amb força (-98,7%) i se situa en els 71 milions,…",
       "url": "https://www.ara.cat/economia/automocio/seat-redueix-62-5-benefici-operatiu-volkswagen-gairebe-99_1_5893747.html",
       "published": "2026-10-29T11:08:40+01:00",
       "category": "Actualitat",
@@ -996,7 +1086,7 @@
     },
     {
       "source": "ARA",
-      "title": "Assassinen a trets en un hospital de Tarragona un home ingressat per un tiroteig anterior",
+      "title": "Assassinen a trets en un hospital de Tarragona un mafiós turc",
       "excerpt": "Ha sigut una escena pròpia d'una pel·lícula de mafiosos. Un home ha entrat aquest dijous al matí a l'Hospital Joan XXIII de Tarragona amagant el seu rostre, ha pujat fins a una habitació i ha executat a trets un pacient amb la seva dona al davant. Ben bé com l'intent d'assassinat de Vito Corleone quan estava ingressat en un centre mèdic.",
       "url": "https://www.ara.cat/societat/successos/maten-trets-home-ingressat-l-hospital-joan-xxiii-tarragona_1_5893720.html",
       "published": "2026-10-29T08:41:03+01:00",
