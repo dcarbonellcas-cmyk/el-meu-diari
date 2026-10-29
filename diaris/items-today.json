@@ -2,16 +2,6 @@
   "date": "2026-10-29",
   "items": [
     {
-      "source": "ARA",
-      "title": "Almenys 13 morts i 10 ferits en un atac rus contra una estació de tren a Ucraïna",
-      "excerpt": "Rússia ha fet aquest dijous un atac amb un dron de propulsió contra l’estació de tren de Dnipró, a l’est d'Ucraïna, que ha deixat almenys 13 morts i una desena de ferits. L’impacte directe contra una de les andanes ha afectat un comboi ple de passatgers, que es trobava en aquell moment a l'estació, segons han informat les autoritats locals. Els serveis ferroviaris d'Ucraïna havien emès un avís elevat de perill a l'estació, però tot i això hi havia persones a l'andana. A aquest atac…",
-      "url": "https://www.ara.cat/internacional/europa/almenys-13-morts-10-ferits-atac-rus-estacio-tren-ucraina_1_5893973.html",
-      "published": "2026-10-29T14:03:03+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/8f7933b7-8868-458a-8d8c-1a89d1619ce3_source-aspect-ratio_default_0.jpg",
-      "priority": "1 · Urgent"
-    },
-    {
       "source": "3CatInfo",
       "title": "Maten un pacient de l'Hospital Joan XXIII de Tarragona que va sobreviure a un intent d'assassinat",
       "excerpt": "L'home va ser tirotejat a Salou fa dues setmanes des d'un cotxe mentre passejava pel carrer; el vehicle va fugir",
@@ -23,7 +13,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Puja a 74 el nombre de morts en l’accident ferroviari d’Urda",
+      "title": "El govern espanyol rectifica i manté en 69 el nombre de morts en l’accident ferroviari d’Urda",
       "excerpt": "La Guàrdia Civil ha rebut seixanta-quatre denúncies per desaparició, entre les quals una mallorquina i una alacantina",
       "url": "https://www.vilaweb.cat/noticies/puja-a-69-el-nombre-de-morts-en-laccident-ferroviari-durda/",
       "published": "2026-10-29T10:50:59+01:00",
@@ -33,7 +23,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Accident a Toledo: puja a 74 la xifra de morts i hi ha una cinquantena de persones hospitalitzades",
+      "title": "Accident a Toledo: La Comissió d'Investigació d'Accidents rectifica i manté en 69 les víctimes mortals",
       "excerpt": "La Guàrdia Civil ha rebut 64 denúncies de desapareguts i ha obert 4 punts de recollida d'ADN per identificar les víctimes",
       "url": "https://www.3cat.cat/3catinfo/accident-a-toledo-balanc-provisional-de-68-morts-i-170-ferits-mentre-continuen-els-treballs-de-recerca/noticia/3436737/",
       "published": "2026-10-29T08:46:58+01:00",
@@ -45,6 +35,16 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/accident-a-toledo-balanc-provisional-de-68-morts-i-170-ferits-mentre-continuen-els-treballs-de-recerca/noticia/3436737/"
       },
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "Tenir 100 pisos per ser gran tenidor: les propostes de Som Habitatge a les portes de la vaga",
+      "excerpt": "Quan falten dues setmanes per a la vaga per l'accés a l'habitatge , la unió de propietaris Som Habitatge ha presentat una quinzena de propostes per resoldre la greu crisi que viu el país. Entre d'altres, l'associació, que es defineix com \"la veu del petit propietari\", ha reclamat que calgui tenir almenys 100 immobles per ser considerat gran tenidor.",
+      "url": "https://www.ara.cat/economia/immobiliari/100-pisos-gran-tenidor-propostes-habitatge-portes-vaga_1_5894041.html",
+      "published": "2026-10-29T18:16:53+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a8f8057b-a83c-48ad-845e-950a9b43dbb1_source-aspect-ratio_default_0_x1938y1216.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo · El temps",
@@ -64,7 +64,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Puente sol·licita comparèixer a la comissió permanent del congrés espanyol pel sinistre ferroviari a Toledo",
+      "title": "Puente compareixerà dimarts a les 17.00 a la comissió permanent del congrés espanyol pel sinistre ferroviari a Urda",
       "excerpt": "El ministre de Transports espanyol compareixerà a la comissió permanent per explicar els fets, arran de la petició d'uns quants grups parlamentaris",
       "url": "https://www.vilaweb.cat/noticies/puente-sollicita-compareixer-sinistre-ferroviari-toledo/",
       "published": "2026-10-29T16:53:44+01:00",
@@ -209,8 +209,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Puente demana comparèixer al Congrés i l'oposició exigeix responsabilitats polítiques per l'accident",
-      "excerpt": "El PP diu és \"imprescindible\" que hi hagi responsabilitats polítiques, mentre que Vox ha denunciat el ministre per homicidi imprudent",
+      "title": "Puente compareixerà al Congrés per l'accident de Toledo i el PP exigeix que ho faci Sánchez",
+      "excerpt": "El PP diu que és \"imprescindible\" que hi hagi responsabilitats polítiques, mentre que Vox ha denunciat el ministre per homicidi imprudent",
       "url": "https://www.3cat.cat/3catinfo/erc-podem-i-sumar-demanen-que-puente-comparegui-al-congres-per-donar-explicacions-sobre-laccident/noticia/3436777/",
       "published": "2026-10-29T13:00:42+01:00",
       "category": "Actualitat",
@@ -343,6 +343,141 @@
       "category": "Llevant",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Les primeres hores de la tragèdia",
+      "excerpt": "A la televisió, les primeres hores d’una desgràcia sempre solen ser les més prudents. Són moments en què cal fer equilibris perquè la urgència per saber contrasta inevitablement amb la lentitud del rescat i l’obtenció de dades.",
+      "url": "https://www.ara.cat/media/primeres-hores-tragedia_129_5894207.html",
+      "published": "2026-10-29T18:53:06+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/69d89a3c-0be7-4182-8343-4ad4bc4bc385_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Clam unànime a Andorra arran del primer crim masclista d’ençà del 2009",
+      "excerpt": "Una dona de cinquanta-un anys ha estat assassinada presumptament per la seva parella, que s'ha lliurat a la policia",
+      "url": "https://www.vilaweb.cat/noticies/clam-unanime-andorra-primer-crim-masclista-2009/",
+      "published": "2026-10-29T18:42:32+01:00",
+      "category": "Andorra",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Junts exigeix a Collboni un pla de xoc per acabar amb la “deixadesa” de la Vila Olímpica",
+      "excerpt": "El Grup Municipal de Junts denuncia “la degradació” del barri de la Vila Olímpica del Poblenou i exigeix al govern Collboni un pla de xoc per fer-hi front. Els juntaires defensaran una proposició al plenari municipal d’octubre en què demanen a l’executiu socialista més neteja, més policia i una intervenció coordinada dels serveis socials. El […]",
+      "url": "https://beteve.cat/politica/junts-exigeix-collboni-pla-xoc-acabar-deixadesa-vila-olimpica/",
+      "published": "2026-10-29T18:41:54+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/desallotjament-cobi-2026-09-23.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’ús dels objectes per millorar la vida quotidiana: el llegat d’André Ricard al DHub",
+      "excerpt": "El Disseny Hub Barcelona (DHub) dedica una exposició a André Ricard (Barcelona, 1929), pioner destacat del disseny industrial i autor d’algunes peces emblemàtiques que han quedat gravades a la memòria del disseny barceloní. L’exposició aterra des del Madrid Design Festival però ampliada. S’hi poden veure un total de 140 peces, des de l’icònic cendrer Copenhagen […]",
+      "url": "https://beteve.cat/cultura/llegat-andre-ricard-al-dhub/",
+      "published": "2026-10-29T18:38:54+01:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/duhb-expo-andre-ricard-04-2026-10-28.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La comissió d’investigació d’accidents ferroviaris espanyola ja va demanar l’any passat mesures mitigadores dels errors humans",
+      "excerpt": "Un informe publicat el juny del 2025 ja advertia d’incidents repetits en la xarxa de gran velocitat i demanava canvis per a reforçar la seguretat",
+      "url": "https://www.vilaweb.cat/noticies/la-comissio-dinvestigacio-daccidents-ferroviaris-espanyola-va-demanar-lany-passat-mesures-mitigadores-dels-errors-humans/",
+      "published": "2026-10-29T18:34:15+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "[VÍDEO] La pífia de Felipe VI arran de l’accident d’Urda: es confon amb Adamuz i Letizia l’ha de corregir",
+      "excerpt": "El rei espanyol s’ha equivocat quan expressava el condol per la tragèdia ferroviària d’Urda",
+      "url": "https://www.vilaweb.cat/noticies/video-pifia-felipe-vi-urda-confon-adamuz-letizia-corregir/",
+      "published": "2026-10-29T18:15:22+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.youtube-nocookie.com/embed/EsmCIEPZAbQ",
+        "source": "VilaWeb",
+        "articleUrl": "https://www.vilaweb.cat/noticies/video-pifia-felipe-vi-urda-confon-adamuz-letizia-corregir/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "Alguns ruixats i tardor en estat pur a les portes de la Castanyada",
+      "excerpt": "La refrescada ha sigut evident aquest dijous al litoral i prelitoral de Barcelona, i al nord-est, amb entre 2 i 4 graus menys que dies enrere. En canvi, cap a l’interior sud del país encara s’han assolit localment els 25 o 26 ºC. Una refrescada que encara s’accentuarà més els pròxims dies. Arribarem al cap de setmana de la Castanyada i Tots Sants amb un ambient de plena tardor: les nits seran fredes i els migdies entre frescos i suaus. Tot plegat serà fruit de…",
+      "url": "https://www.ara.cat/previsions/ruixats-tardor-pur-portes-castanyada_1_5894163.html",
+      "published": "2026-10-29T18:04:11+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f8afcda3-67b7-430b-89ee-3a244faac558_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La Fundació Joan Miró incorpora 37 obres de l’artista, sis de les quals, inèdites",
+      "excerpt": "La Fundació Joan Miró incorpora 37 obres del pintor barceloní procedents del mecenes japonès Kazumasa Katsuta, que compta amb la col·lecció privada de Joan Miró més important del món i que col·labora amb la fundació fa més de trenta anys. Es tracta d’una cessió per deu anys que compta amb pintures, teles i escultures de […]",
+      "url": "https://beteve.cat/cultura/fundacio-joan-miro-incorpora-37-obres/",
+      "published": "2026-10-29T18:02:14+01:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/joan-miro-2026-10-29.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Ens podem contagiar de França?",
+      "excerpt": "Alexis de Tocqueville, descrivint aldarulls a París durant la revolució de 1848, va dir que la Revolució Francesa començava de nou “perquè sempre és la mateixa”. Certament, als francesos els agraden les revoltes: després de la Comuna de París el 1871, van venir el Maig del 1968 i els armilles grogues el 2018, entre d’altres, com ara els disturbis originats a les banlieues perifèriques per molts desafectes a la República. He viscut a França i vaig ser testimoni d’una insatisfacció permanent de molts sectors. Aquesta…",
+      "url": "https://www.ara.cat/opinio/contagiar-franca_129_5894064.html",
+      "published": "2026-10-29T18:00:54+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e062c841-5cba-4d90-b17f-512e902339d7_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un Halloween de por",
+      "excerpt": "No ho sé vostès, però aquesta setmana, per Barcelona, m’han dit més d’una vegada: “Dissabte no em mouré de casa”. Hi ha gent que té por de baixar al centre de la ciutat i ensopegar amb encaputxats violents que destrossin aparadors, saquegin botigues i cremin cotxes i motos per fer barricades. Els Mossos i la Guàrdia Urbana estan preparant un dispositiu de màxims , ben visible, i la tàctica de rebuda dels violents no serà la mateixa . Esperem que no calgui. I que, si…",
+      "url": "https://www.ara.cat/opinio/halloween_129_5894105.html",
+      "published": "2026-10-29T18:00:54+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7f69381c-b6f7-4480-94a5-95fb9d696896_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "TikTok està canviant la política (potser a millor)",
+      "excerpt": "\"Texas va ser construït per l'esperança\", entona el candidat demòcrata al Senat per Texas, James Talarico, en els primers segons del seu anunci de campanya. A mesura que la música instrumental va pujant de volum i les vistes de les praderies de Texas i la seva gent treballadora apareixen en pantalla, Talarico promet recuperar l'estat \"no amb ira, no amb por, no amb divisió, sinó amb l'esperança amb què es va construir\".",
+      "url": "https://www.ara.cat/opinio/tiktok-canviant-politica-millor_129_5893932.html",
+      "published": "2026-10-29T18:00:54+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/646a31c3-59d7-4217-8aa9-b18e2cce0d51_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les 8 sèries més destacades del novembre",
+      "excerpt": "Després d'un octubre ben intens pel que fa a les sèries, el novembre arriba més moderat, tot i que també amb alguns títols destacables. Entre les propostes que més criden l'atenció hi ha l'estrena, després d'anys d'espera, de la sèrie de l'univers Blade runner . I tot i que no l'hem inclòs en el llistat, també arribarà la segona part de la segona temporada de Rivales .",
+      "url": "https://www.ara.cat/media/series/8-series-mes-destacades-novembre_1_5871150.html",
+      "published": "2026-10-29T18:00:53+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/953e8170-100d-4f68-b042-07addd279bb2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tot s’aprofita",
+      "excerpt": "Em sembla que era al programa d’en Garriga, en tot cas a través d’una de les cròniques de Paula Brujats (una boníssima feina, delicada, empàtica, seriosa) que vam sentir el testimoni d’una dona que no tenia notícies del seu marit. La dona va exclamar: “¡ Que los maten a todos! ” I s’entenia que volia dir “els polítics”. La ràbia, quan prové del dolor, és incontenible. Pot ser legítima (qui no voldria el cap dels presumptes responsables d'aquells que t’han destrossat la vida?) però no…",
+      "url": "https://www.ara.cat/opinio/s-aprofita_129_5894109.html",
+      "published": "2026-10-29T18:00:53+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d0504c6f-8633-4df7-8d87-1cadeab48af7_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -642,6 +777,16 @@
       "published": "2026-10-29T14:04:11+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/1ca56571-7a03-4889-916f-39481c15bfee_source-aspect-ratio_default_0_x351y143.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Rússia torna a atacar una estació de trens plena de civils a Ucraïna i mata almenys 14 persones",
+      "excerpt": "Rússia ha fet aquest dijous un atac amb un dron de propulsió contra l’estació de tren de Dnipró, a l’est d'Ucraïna, que ha deixat almenys 14 morts i una desena de ferits. L’impacte directe contra una de les andanes ha afectat un comboi ple de passatgers, que es trobava en aquell moment a l'estació, segons han informat les autoritats locals. Els serveis ferroviaris d'Ucraïna havien emès un avís elevat de perill a l'estació, però tot i això hi havia persones a l'andana. A aquest atac…",
+      "url": "https://www.ara.cat/internacional/europa/almenys-13-morts-10-ferits-atac-rus-estacio-tren-ucraina_1_5893973.html",
+      "published": "2026-10-29T14:03:03+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8f7933b7-8868-458a-8d8c-1a89d1619ce3_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1216,8 +1361,8 @@
     },
     {
       "source": "ARA",
-      "title": "El BBVA guanya un 13,6% més que l'any passat gràcies als interessos i les comissions",
-      "excerpt": "El BBVA no és una excepció en l'univers dels bancs i també passa per un bon moment. L'entitat bilbaïna va guanyar 9.066 milions d'euros en els nou primers mesos de l'any, un 13,6% més que en el mateix període del 2025, gràcies al bon comportament del marge d'interessos i les comissions, en un context de creixement de la seva activitat creditícia, que s'ha materialitzat en un 20,7% més de préstecs que l'any passat.",
+      "title": "El BBVA assoleix un nou benefici rècord fins al setembre impulsat per l'alça dels tipus d'interès",
+      "excerpt": "El BBVA continua batent rècords de resultats en un entorn favorable per al sector bancari. Durant els nou primers mesos de l'any, l'entitat d'origen basc va assolir un benefici de 9.066 milions d'euros, un 13,6% més respecte al mateix període de l'any passat. El grup presidit per Carlos Torres atribueix les xifres al bon comportament dels seus ingressos recurrents, dividits entre el marge d'interessos –la diferència entre ingressos i costos financers– i les comissions bancàries. En aquest sentit, el marge brut fins al setembre –l'indicador…",
       "url": "https://www.ara.cat/economia/banca/bbva-guanya-13-6-mes-l-any-passat-gracies-als-interessos-comissions_1_5893622.html",
       "published": "2026-10-29T07:59:52+01:00",
       "category": "Actualitat",
@@ -1227,11 +1372,11 @@
     {
       "source": "ARA",
       "title": "El Banc Sabadell guanya 1.376 milions fins al setembre, l'1% menys",
-      "excerpt": "El Banc Sabadell va registrar fins al setembre un benefici net de 1.376 milions d'euros, l'1% menys que durant el mateix període de l'any anterior. L'entitat va continuar notant la venda de la seva filial britànica, TSB, al Banc Santander, i que va tenir encara una aportació neta de 79 milions d'euros durant els primers quatre mesos del 2026, en què encara era de la seva propietat, el 63,7% menys que un any enrere.",
+      "excerpt": "El Banc Sabadell va registrar fins al setembre un benefici net de 1.376 milions d'euros, l'1% menys que durant el mateix període de l'any anterior. L'entitat va continuar notant la venda de la seva filial britànica, TSB, al Banc Santander, i que va tenir encara una aportació neta de 79 milions d'euros durant els primers quatre mesos del 2026, en què encara era de la seva propietat, el 63,7% menys que un any enrere. En tot cas, sent un banc més petit va obtenir un…",
       "url": "https://www.ara.cat/economia/banca/sabadell-guanya-1-376-milions-fins-setembre-l-1-menys_1_5893570.html",
       "published": "2026-10-29T07:57:16+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/5a9638df-2b05-43f3-8324-9ccd01c1fd25_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/5719f895-aec4-48b2-9ef8-a3421a7b2b75_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
