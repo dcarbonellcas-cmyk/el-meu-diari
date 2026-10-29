@@ -2,6 +2,16 @@
   "date": "2026-10-29",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Maten un pacient de l'Hospital Joan XXIII de Tarragona que va sobreviure a un intent d'assassinat",
+      "excerpt": "L'home va ser tirotejat a Salou fa dues setmanes des d'un cotxe mentre passejava pel carrer; el vehicle va fugir",
+      "url": "https://www.3cat.cat/3catinfo/maten-un-pacient-de-lhospital-joan-xxiii-de-tarragona-que-va-sobreviure-a-un-intent-dassassinat/noticia/3436765/",
+      "published": "2026-10-29T11:17:16+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/4/1793268313343.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "Puja a 69 el nombre de morts en l’accident ferroviari d’Urda",
       "excerpt": "Encara hi ha mig centenar de ferits ingressats i els serveis d'emergències pensen que no hi ha més víctimes mortals sota la ferralla",
@@ -20,6 +30,16 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/7/1793260807571.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "betevé",
+      "title": "Demanen revisar la seguretat dels trens arran de l’accident a Toledo: “És vulnerable a l’error humà”",
+      "excerpt": "A poc a poc es comencen a conèixer més detalls del que ha causat l’accident entre dos trens d’alta velocitat a Toledo aquest dimecres. Segons els primers indicis, tot apunta a una concatenació d’errors: primer, una fallada del sistema automàtic de seguretat dels trens i, després, algunes ordres equívoques des del centre de comandament d’Adif. […]",
+      "url": "https://beteve.cat/societat/demanen-revisar-sistema-seguretat-trens-vulnerable-huma/",
+      "published": "2026-10-29T11:05:54+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/accident-trens-toledo-2026-10-28-1.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -126,6 +146,126 @@
     },
     {
       "source": "VilaWeb",
+      "title": "Barcelona ampliarà l’assistència lletrada per un possible augment de detencions durant les mobilitzacions del cap de setmana",
+      "excerpt": "El Col·legi de l’Advocacia reforça el servei de guàrdia i l’atenció a menors pel risc de pillatges",
+      "url": "https://www.vilaweb.cat/noticies/barcelona-ampliara-lassistencia-lletrada-per-un-possible-augment-de-detencions-durant-les-mobilitzacions-del-cap-de-setmana/",
+      "published": "2026-10-29T11:46:40+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Exposicions a Barcelona: la teva agenda de museus",
+      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
+      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
+      "published": "2026-10-29T11:40:26+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Mercats de cap de setmana a Barcelona, fires i festes del 2026: agenda amb horaris",
+      "excerpt": "Afegeix betevé com a font preferida Els mercats de cap de setmana a Barcelona proliferen. I ens encanten. Busques fires de productes vintage o mercats de pagès, comerç al carrer, àpats populars i festetes per gaudir-ne divendres, dissabte i diumenge? Aquí t’oferim una agenda actualitzada cada setmana perquè no te’n perdis cap detall! Pots trobar-hi […]",
+      "url": "https://beteve.cat/agenda/mercats-del-cap-de-setmana-barcelona/",
+      "published": "2026-10-29T11:40:15+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/03/Proyecto-nuevo-3.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Se suicida a Brians el professor de karate que va acceptar una pena de 26 anys per agressió sexual a menors",
+      "excerpt": "Aquest matí el departament de Justícia ha comunicat que s'ha trobat un reclús mort a dintre la seva cel·la de Brians 1. Segons apunta l'ACN, l'home és el professor de karate que aquest dimarts va acceptar una pena de 26 anys i mig de presó per agredir sexualment a alumnes seus menors d'edat a Barcelona. Els fets van tenir lloc entre el 2015 i el 2023 i al professor se l'ha condemnat per cinc delictes d'agressió i abús sexual.",
+      "url": "https://www.ara.cat/societat/abusos/suicida-brians-professor-karate-acceptar-pena-26-anys-agressio-sexual-menors_1_5893863.html",
+      "published": "2026-10-29T11:37:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f128ca71-ec27-46ca-ab3d-3892ad3ace08_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El professor de karate de Barcelona que va admetre agressions sexuals a menors se suïcida a la presó",
+      "excerpt": "(ACN) Un reclús de la presó de Brians 1 ha estat trobat mort aquest dijous al matí a la seva cel·la. Segons el Departament de Justícia, l’intern s’ha suïcidat, per la qual cosa és el novè suïcidi d’aquest any 2026 a les presons. Segons ha pogut saber l’ACN de fonts penitenciàries, es tracta del professor […]",
+      "url": "https://beteve.cat/societat/professor-karate-que-va-admetre-abusos-sexuals-menors-se-suicida-preso/",
+      "published": "2026-10-29T11:33:20+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/professor-karate-291026-2026-10-29.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Se suïcida a la presó el professor de karate de Barcelona condemnat per agressió sexual a menors",
+      "excerpt": "L'home havia acceptat dimarts una pena de 26 anys i mig després de reconèixer els fets",
+      "url": "https://www.3cat.cat/3catinfo/se-suicida-a-la-preso-el-professor-de-karate-de-barcelona-condemnat-per-agressio-sexual-a-menors/noticia/3436778/",
+      "published": "2026-10-29T11:29:32+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/4/1712129462544.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Lagarde deixarà la presidència del Banc Central Europeu el 7 de febrer",
+      "excerpt": "El mandat s’havia d’acabar a l’octubre, però la presidenta l’escurça vuit mesos",
+      "url": "https://www.vilaweb.cat/noticies/lagarde-deixara-presidencia-banc-central-europeu/",
+      "published": "2026-10-29T11:25:21+01:00",
+      "category": "Economia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Christine Lagarde dimiteix com a presidenta del Banc Central Europeu",
+      "excerpt": "La presidenta del Banc Central Europeu (BCE), Christine Lagarde, ha dimitit aquest dijous de la institució amb seu a Frankfurt. L'exministra d'Economia i Finances de França deixarà el càrrec el 7 de febrer del 2027, nou mesos abans que acabi el seu mandat, previst per a l’octubre del mateix any. Lagarde ha anunciat la seva retirada al capdavant de la institució en un vídeo a la xarxa social X en què ha agraït el suport a totes les persones que l'han acompanyat durant els últims…",
+      "url": "https://www.ara.cat/economia/christine-lagarde-dimiteix-presidenta-banc-central-europeu_1_5893854.html",
+      "published": "2026-10-29T11:14:20+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4a71b11b-94d8-4685-871c-be56e63a9b55_16-9-aspect-ratio_default_0_x1946y795.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Seat redueix un 62,5% el benefici operatiu i Volkswagen gairebé un 99%",
+      "excerpt": "L'automobilística Seat ha reduït en un 62,5% els guanys de la seva activitat comercial en els nou primers mesos de l'any, respecte al mateix període de l'any passat. Així, el benefici operatiu de la companyia ha passat dels 16 milions registrats fins al setembre del 2025 als 6 milions d'enguany. En la mateixa línia, la seva matriu, Volkswagen, ha reduït els beneficis obtinguts de l'activitat principal en un 98,7% respecte al 2025, fins als 71 milions d'euros, enfront dels 5.408 de fa un any. El…",
+      "url": "https://www.ara.cat/economia/automocio/seat-redueix-62-5-benefici-operatiu-volkswagen-gairebe-99_1_5893747.html",
+      "published": "2026-10-29T11:08:40+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/378b2b23-2b26-47d4-b97b-7173d61085f2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Àngels Gonyalons posa veu a les dones maltractades de Víctor Català",
+      "excerpt": "La vigília de Sant Narcís l’actriu Àngels Gonyalons va oferir al Teatre de Salt una excel·lent lectura dramatitzada de contes de Caterina Albert, dins de la programació de Temporada Alta, en coproducció amb el Festival Clàssics de Barcelona. Quatre contes de l’escriptora escalenca, coneguda amb el pseudònim de Víctor Català, realment punyents, amb tocs d'humor però molt durs i colpidors, d'una modernitat impressionant que denuncia sense pèls a la llengua el masclisme i la violència de la societat patriarcal. Són relats breus de diferents reculls…",
+      "url": "https://www.ara.cat/cultura/angels-gonyalons-posa-veu-dones-maltractades-victor-catala_1_5893766.html",
+      "published": "2026-10-29T11:07:34+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a62fc1de-9629-4f09-97b7-e8520c96b280_16-9-aspect-ratio_default_0_x1887y763.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
+      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-10-29T11:07:23+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Detingut un jove de 17 anys per organitzar saquejos a València en nom de Blocus",
+      "excerpt": "L'organitzador dels grups a Barcelona ha penjat un vídeo amb la cara tapada i la veu distorsionada on justifica els aldarulls i fa una convocatòria confusa per dissabte 31",
+      "url": "https://www.3cat.cat/3catinfo/detingut-un-jove-de-17-anys-per-organitzar-saquejos-a-valencia-en-nom-de-blocus/noticia/3436761/",
+      "published": "2026-10-29T11:02:58+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/2/9/1793266728892.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
       "title": "Se suïcida a la cel·la el professor de karate que va admetre agressions sexuals a menors",
       "excerpt": "Dimarts va acceptar una condemna de 26 anys i mig de presó per cinc delictes d'abusos i agressions sexuals",
       "url": "https://www.vilaweb.cat/noticies/suicida-karate-agressions-sexals-menors/",
@@ -186,26 +326,6 @@
     },
     {
       "source": "betevé",
-      "title": "Exposicions a Barcelona: la teva agenda de museus",
-      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
-      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
-      "published": "2026-10-29T10:23:41+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
-      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
-      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-10-29T10:15:20+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
       "title": "Repsol dispara els beneficis fins a superar els 5.000 M€ en plena crisi al Pròxim Orient",
       "excerpt": "(ACN) Repsol ha multiplicat per quatre els beneficis fins al setembre i supera per primera vegada els 5.000 milions d’euros, segons consta en els resultats financers publicats aquest dijous a la Comissió Nacional del Mercat de Valors (CNMV). En un context complex per les restriccions globals d’oferta i l’increment del preu del cru i els […]",
       "url": "https://beteve.cat/economia/repsol-dispara-beneficis-plena-crisi-proxim-orient/",
@@ -257,7 +377,7 @@
     {
       "source": "VilaWeb",
       "title": "Detingut el menor creador del canal Blocus Vlc, que incitava a saquejar València",
-      "excerpt": "Se n'ha decretat l'internament cautelar en un centre de menors",
+      "excerpt": "N'han decretat l'internament cautelar en un centre de menors",
       "url": "https://www.vilaweb.cat/noticies/detingut-el-menor-creador-del-canal-blocus-vlc-que-incitava-al-saqueig-a-valencia/",
       "published": "2026-10-29T09:37:21+01:00",
       "category": "Societat",
@@ -336,7 +456,7 @@
     },
     {
       "source": "ARA",
-      "title": "Assassinen a trets a l'hospital a Tarragona un home ingressat per un tiroteig anterior",
+      "title": "Assassinen a trets en un hospital de Tarragona un home ingressat per un tiroteig anterior",
       "excerpt": "Un home ha mort aquesta matinada executat amb una arma de foc mentre estava ingressat a l'Hospital Joan XXIII de Tarragona. La víctima és un home que ja havia patit un tiroteig el passat 16 d'octubre a Salou i havia estat ingressat per això. Llavors, caminava pel carrer i va ser atacat per diverses persones que van sortir d'un cotxe a Salou. Va rebre nombrosos impactes de bala, sobretot a la zona inferior del cos.",
       "url": "https://www.ara.cat/societat/successos/maten-trets-home-ingressat-l-hospital-joan-xxiii-tarragona_1_5893720.html",
       "published": "2026-10-29T08:41:03+01:00",
