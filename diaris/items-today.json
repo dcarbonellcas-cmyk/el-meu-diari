@@ -2,6 +2,16 @@
   "date": "2026-10-29",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "“Ni oblit, ni perdó”: dues marxes recorren l’Horta Sud per recordar les víctimes de la gota freda dos anys després",
+      "excerpt": "Les columnes, procedents d’Albal i Benetússer, han confluït al barranc del Torrent, entre Catarroja i Massanassa, en un homenatge per a reclamar veritat, justícia i garanties que la tragèdia no es repetesca",
+      "url": "https://www.vilaweb.cat/noticies/marxes-recorren-horta-sud-victimes-gota-freda-dos-anys/",
+      "published": "2026-10-29T19:13:14+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo",
       "title": "Maten un pacient de l'Hospital Joan XXIII de Tarragona que va sobreviure a un intent d'assassinat",
       "excerpt": "L'home va ser tirotejat a Salou fa dues setmanes des d'un cotxe mentre passejava pel carrer; el vehicle va fugir",
@@ -35,6 +45,43 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/accident-a-toledo-balanc-provisional-de-68-morts-i-170-ferits-mentre-continuen-els-treballs-de-recerca/noticia/3436737/"
       },
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de divendres: sol a nord i alguns ruixats al sud",
+      "excerpt": "El sol més radiant es mantindrà al Pirineu",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-sol-a-nord-i-alguns-ruixats-al-sud/noticia/3436796/",
+      "published": "2026-10-29T18:47:27+01:00",
+      "updated": "2026-10-29T19:58:58+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/5/1793297143357.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433363/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-sol-a-nord-i-alguns-ruixats-al-sud/noticia/3436796/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "Doble núvol punxat (punch cloud) sobre el Pirineu",
+      "excerpt": "Els veïns del Prepirineu i el Pirineu central s'han vist sorpresos avui per una imatge espectacular al cel: una capa de núvols alts que presentava no un, sinó diversos grans forats, com si el mateix cel els observés",
+      "url": "https://www.3cat.cat/3catinfo/doble-nuvol-punxat-punch-cloud-sobre-el-pirineu/noticia/3436908/",
+      "published": "2026-10-29T19:53:25+01:00",
+      "updated": "2026-10-29T19:54:23+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/7/1793290743579.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Ouigo cancel·la tots els trens de divendres i dilluns per la vaga de maquinistes",
+      "excerpt": "La mesura afecta prop de 20.000 viatgers arran de la convocatòria del sindicat Semaf",
+      "url": "https://www.vilaweb.cat/noticies/ouigo-cancella-trens-divendres-dilluns-vaga-maquinistes/",
+      "published": "2026-10-29T19:06:20+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -208,6 +255,16 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "La comissió d'accidents de tren i Iryo ja havien denunciat anomalies en els sistemes de seguretat",
+      "excerpt": "\"Cal obrir l'enfocament. Quantes peces han fallat?\". S'ho pregunta una veu sindical del sector ferroviari que, com molts altres treballadors, encara no s'ha refet del tràgic accident ferroviari a Urda, a Toledo, que ha causat almenys 69 víctimes mortals. Ells han perdut un company –el maquinista del tren de Renfe–; continua desaparegut el noi en pràctiques que l'acompanyava i han mostrat el seu malestar pel que consideren un assenyalament directe per part del ministeri de Transports a l'operari del centre de regulació i control (CRC)…",
+      "url": "https://www.ara.cat/societat/successos/comissio-estatal-d-accidents-ja-demanar-2024-prendre-mesures-davant-possibles-errors-humans_1_5893965.html",
+      "published": "2026-10-29T13:27:52+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2f99a6eb-20d3-48e0-b474-5eab5613b698_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "Puente compareixerà al Congrés per l'accident de Toledo i el PP exigeix que ho faci Sánchez",
       "excerpt": "El PP diu que és \"imprescindible\" que hi hagi responsabilitats polítiques, mentre que Vox ha denunciat el ministre per homicidi imprudent",
@@ -321,7 +378,7 @@
       "url": "https://www.ara.cat/economia/patronals-entitats-pressionen-partits-perque-deixin-tramitar-parlament-llei-direccio-publica-professional_1_5893366.html",
       "published": "2026-10-29T07:00:32+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/1be04e20-793f-49ec-88c7-4e1f3b3b8ec0_16-9-aspect-ratio_default_0.png",
+      "image": "https://static1.ara.cat/clip/64c0baa3-47be-47ba-856e-9f8e36d2271e_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -343,6 +400,146 @@
       "category": "Llevant",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Espectacles i activitats en família, dins i fora de Barcelona",
+      "excerpt": "Aquí trobareu espectacles i activitats per fer en família divendres, dissabte i diumenge, per tot el territori, per si vols sortir de la ciutat. Plans i propostes pensades per als més petits de la família des de l’equip del Catacrak, el programa infantil de betevé! I recordeu que en aquesta casa també pensem plans pels […]",
+      "url": "https://beteve.cat/catakrac/activitats-infantils-barcelona/",
+      "published": "2026-10-29T19:59:55+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/01/nens-que-fer.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Adaptar l’economia al canvi climàtic",
+      "excerpt": "Via 15 és una coproducció en què col·laboren 15 televisions locals de la regió metropolitana.",
+      "url": "https://beteve.cat/via-15/adaptar-leconomia-al-canvi-climatic/",
+      "published": "2026-10-29T19:57:07+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Les deficiències no les podem pagar nosaltres\": els treballadors d'Adif planten cara a Puente",
+      "excerpt": "El tràgic accident ferroviari a Urda, a la província de Toledo, que ja ha deixat més de 70 víctimes mortals, ha despertat el malestar entre els treballadors ferroviaris, els controladors i els maquinistes, sobretot després que aquest dimecres el ministre de Transports, Óscar Puente, apuntés directament a l'\"error humà\" d'un operari de la sala del centre de control d'Adif .",
+      "url": "https://www.ara.cat/societat/deficiencies-no-pagar-treballadors-d-adif-planten-cara-puente_1_5893958.html",
+      "published": "2026-10-29T19:56:23+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/245344bf-1993-40d7-905b-915c94752c82_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Urbana, Mossos i jutges intensifiquen la pressió per evitar aldarulls de Blocus la nit de dissabte",
+      "excerpt": "La crida via xarxes socials per generar aldarulls violents al centre de Barcelona la nit d’aquest dissabte (nit de la Castanyada o de Halloween) ha posat les institucions, els cossos policials i la justícia en màxima alerta. Precisament per això, l’alcalde de Barcelona, Jaume Collboni, ha convocat una Junta Local de Seguretat extraordinària per evitar […]",
+      "url": "https://beteve.cat/politica/guardia-urbana-mossos-jutges-intensifiquen-pressio-evitar-aldarulls-blocus-nit-dissabte-barcelona/",
+      "published": "2026-10-29T19:45:18+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/junta-seguretat-pg-2026-10-29.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La tardor va traient el nas en un altre dia amb força presència de núvols",
+      "excerpt": "La previsió del temps per a aquest divendres, 30 d’octubre, indica un temps marcat pels núvols baixos, que continuaran ben presents però que seran molt poc productius pel que fa a la pluja. Temperatures amb poques variacions. Ambient de tardor. Previsió horària per a Barcelona: Núvols, humitat i boires matinals Els núvols baixos seran els […]",
+      "url": "https://beteve.cat/medi-ambient/temps-barcelona-divendres-30-octubre-tardor-treu-nas/",
+      "published": "2026-10-29T19:32:17+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/temps-barcelona-divendres-30-octubre-2026-2026-10-29.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Pressió màxima sobre el ministre Puente",
+      "excerpt": "El tràgic accident de Toledo ha posat sota la lupa el ministre de Transports, Óscar Puente. I a mesura que passen les hores, creix encara més la pressió perquè doni explicacions sobre les causes de l'accident i també les veus que li exigeixen responsabilitats. De fet, ha estat l'extrema dreta la que ha demanat sense embuts la dimissió del ministre i també la que s'ha querellat contra ell. Ara bé, les crítiques també arriben des dels partits que encara formen part del govern de coalició…",
+      "url": "https://www.ara.cat/politica/pressio-maxima-ministre-puente_1_5894175.html",
+      "published": "2026-10-29T19:30:34+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c76c2809-17fe-455d-afef-1b5906c6b453_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Barça tanca la grada d’animació per al partit contra l’Alabès",
+      "excerpt": "(EFE/Redacció) El FC Barcelona ha anunciat aquest dijous el tancament de la grada d’animació del Camp Nou de cara al partit de Lliga, que els blaugrana disputaran dissabte a les 21 h davant l’Alabès. La decisió, segons que ha informat el club, “respon a la successió d’expedients oberts al club i a alguns dels seus […]",
+      "url": "https://beteve.cat/esports/barca-tanca-grada-animacio-contra-alabes/",
+      "published": "2026-10-29T19:14:38+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/02/aficio-camp-nou.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Jordi Serra, de Serras Collection: “El passeig de Colom és una meravella menyspreada a Barcelona”",
+      "excerpt": "Al bell mig del passeig de Colom hi ha un hotel de només 28 habitacions que porta la cadena hotelera Serras Collection. El president del grup, Jordi Serra, es mostra enamorat de l’emplaçament on són: “És un gran passeig, la façana és magnífica”, celebra en una trobada amb periodistes. Tot i que immediatament afegeix: “Però […]",
+      "url": "https://beteve.cat/economia/jordi-serra-passeig-colom-meravella-menyspreada-barcelona/",
+      "published": "2026-10-29T19:14:12+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/jordi-serra-hotel-1-2026-10-29.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Soc un 'outsider'\"",
+      "excerpt": "Va néixer a Mèxic com a Ángel Francisco López i, a Barcelona, es va convertir en el professor Angel Dust. És el nom amb què es va consolidar com a DJ i amb el qual va omplir les nits de Bongo Lounge de la Paloma als 2000. Fins a la caiguda als inferns. L’any 2008 va ingressar en una presó de Panamà acusat de tràfic de drogues en un cas sinistre, tot i que ell sempre ha defensat ser innocent. Ho explica al llibre En…",
+      "url": "https://www.ara.cat/cultura/outsider_128_5894075.html",
+      "published": "2026-10-29T19:13:40+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8d866ab4-9a80-4f5e-8cc3-8469e7d34cab_source-aspect-ratio_default_0_x1999y1010.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La Xina força l'empresa japonesa de Hello Kitty a desvincular-se d'una sèrie que considera ofensiva",
+      "excerpt": "La Xina acusa la sèrie japonesa \"Vivant\", en què apareix un agent xinès torturant-ne un altre de nipó, de \"vilipendiar i difondre un sentiment antixinès\"",
+      "url": "https://www.3cat.cat/3catinfo/la-xina-forca-lempresa-japonesa-de-hello-kitty-a-desvincular-se-duna-serie-que-considera-ofensiva/noticia/3436874/",
+      "published": "2026-10-29T19:08:50+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/3/1793280956936.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-30-10-2026_134_5894125.html",
+      "published": "2026-10-29T19:06:00+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-30-10-2026_134_5894096.html",
+      "published": "2026-10-29T19:00:55+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La JEC obre un altre expedient sancionador a Sánchez per un vídeo davant el ‘Guernica’",
+      "excerpt": "Arran d’una denúncia del PP, l’organisme investiga si ha vulnerat la neutralitat institucional amb l’ús del Museu Reina Sofía en període electoral",
+      "url": "https://www.vilaweb.cat/noticies/jec-obre-expedient-sancionador-sanchez-video-guernica/",
+      "published": "2026-10-29T18:57:45+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Charlie Pee",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/charlie-pee/",
+      "published": "2026-10-29T18:55:47+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -402,12 +599,12 @@
       "published": "2026-10-29T18:15:22+01:00",
       "category": "Espanya",
       "image": null,
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.youtube-nocookie.com/embed/EsmCIEPZAbQ",
         "source": "VilaWeb",
         "articleUrl": "https://www.vilaweb.cat/noticies/video-pifia-felipe-vi-urda-confon-adamuz-letizia-corregir/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -600,6 +797,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "La IA en la literatura: els autors alerten que no són ells els que s'han de defensar",
+      "excerpt": "Els experts surten en defensa dels escriptors acusats de fer servir les eines d'intel·ligència artificial i diuen que \"hi ha molts falsos positius\"",
+      "url": "https://www.3cat.cat/3catinfo/la-ia-en-la-literatura-els-autors-alterten-que-no-son-ells-els-que-shan-de-defensar/noticia/3436654/",
+      "published": "2026-10-29T16:21:24+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/4/1650666920643.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Còrsega convoca una sessió extraordinària de l’Assemblea arran del refús a l’autonomia",
       "excerpt": "Els sobiranistes corsos volen acordar una resposta conjunta al blocatge del senat francès i Femu a Corsica, el principal partit del govern, proposa un referèndum abans d’acabar l’any",
@@ -757,7 +964,12 @@
       "published": "2026-10-29T14:14:18+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/5/1793275805155.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433325/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/les-incognites-de-laccident-a-toledo-per-que-ningu-va-avisar-lave-i-per-que-liryo-no-va-arrencar/noticia/3436747/"
+      }
     },
     {
       "source": "betevé",
@@ -847,16 +1059,6 @@
       "published": "2026-10-29T13:28:30+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/51fa5384-a77b-4bab-a006-b3150f126875_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "ARA",
-      "title": "La comissió estatal d'accidents ja va demanar el 2024 mesures per evitar errors humans quan cau el sistema",
-      "excerpt": "La Comissió d'Investigació d'Accidents Ferroviaris (CIAF) —des del juliol passat Autoritat Administrativa Independent de Recerca Tècnica d'Accidents i Incidents ferroviaris, marítims i d'aviació civil (AAIITAI )— ja va recomanar en un informe del 2024 adoptar mesures tècniques i reforçar els protocols, després d'apuntar que la verificació humana és \"susceptible de fallar\" en els casos en què aquesta substitueix el sistema automatitzat, com tot indica que ha passat a l'accident d'aquest dimecres a Urda (Toledo), i que ha causat almenys 69 víctimes mortals.",
-      "url": "https://www.ara.cat/societat/successos/comissio-estatal-d-accidents-ja-demanar-2024-prendre-mesures-davant-possibles-errors-humans_1_5893965.html",
-      "published": "2026-10-29T13:27:52+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/3d54bed3-6f68-4d51-8631-46dae45f2e54_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
