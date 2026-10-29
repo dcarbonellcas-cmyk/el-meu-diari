@@ -39,7 +39,42 @@
       "published": "2026-10-29T08:46:58+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/7/1793260807571.jpg",
-      "priority": "1 · Urgent"
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433327/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/accident-a-toledo-balanc-provisional-de-68-morts-i-170-ferits-mentre-continuen-els-treballs-de-recerca/noticia/3436737/"
+      }
+    },
+    {
+      "source": "betevé",
+      "title": "Eleccions generals 2026: candidats, data, calendari i vot per correu a Espanya | GUIA",
+      "excerpt": "Les eleccions generals 2026 seran el 29 de novembre i te n’hem preparat una guia completa, amb informació que s’anirà ampliant a mesura que se’n vagin sabent més coses. Segons el calendari previst, els comicis s’havien de celebrar el 2027 però Pedro Sánchez va decidir avançar la cita després de la votació fallida dels coneguts […]",
+      "url": "https://beteve.cat/politica/eleccions-generals-2026-espanya-guia-que-sap-data-calendari-candidats/",
+      "published": "2026-10-29T15:55:21+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/eleccions-generals-2026-2026-10-13-1.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Llista del PSC a les eleccions generals 2026 a Espanya el 29-N: Jordi Hereu i la resta de noms",
+      "excerpt": "L’exalcalde i ministre Jordi Hereu encapçala la candidatura del PSC a Barcelona per a les eleccions generals del 2026. Eva Granados ocupa el segon lloc i José Zaragoza, el tercer. Pel que fa a Madrid, Pedro Sánchez és el primer nom de la llista i, per tant, el candidat socialista a presidir el Govern espanyol. […]",
+      "url": "https://beteve.cat/politica/llista-psc-eleccions-generals-2026-espanya-barcelona/",
+      "published": "2026-10-29T15:33:23+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/jordi-hereu-2026-10-05.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Llista de Junts per Catalunya a les eleccions generals 2026 del 29-N: Qui acompanya Míriam Nogueras?",
+      "excerpt": "La llista de Junts per Catalunya per a les eleccions generals del 2026 ja és pública. Consulta tots els noms que acompanyen Míriam Nogueras, que repeteix al número 1, a la candidatura a Barcelona de cara als comicis del 29 de novembre. Aquest any Josep Pagès ocupa el segon lloc i Pilar Calvo, el tercer. […]",
+      "url": "https://beteve.cat/politica/llista-junts-eleccions-generals-2026-espanya-barcelona/",
+      "published": "2026-10-29T15:29:43+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/llista-junts-eleccions-generals-2026-2026-10-28.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -49,6 +84,26 @@
       "published": "2026-10-29T14:41:34+01:00",
       "category": "Societat",
       "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Llista del PP a les eleccions generals 2026 a Espanya el 29-N, amb Xavier García Albiol al número 1",
+      "excerpt": "Consulta la llista completa del Partit Popular (PP) a Barcelona per a les elecions generals 2026. L’alcalde de Badalona, Xavier García Albiol, encapçala la candidatura, Marta Urgellés ocupa el segon lloc, i Juan Bautista Milián, el tercer. D’altra banda, Alberto Núñez Feijóo repeteix com número 1 de la llista per Madrid i, per tant, és […]",
+      "url": "https://beteve.cat/politica/llista-pp-eleccions-generals-2026-espanya-barcelona/",
+      "published": "2026-10-29T14:27:19+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/xavier-garcia-albiol-pp-2026-10-29.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Llista de Vox a Barcelona per a les eleccions generals 2026 d’Espanya el 29-N",
+      "excerpt": "Consulta la llista completa de Vox per a les eleccions generals 2026 a la província de Barcelona. Juan José Aizcorbe repeteix com a cap de llista de Vox a Barcelona de cara als comicis del 29-N. També repeteix a la segona posició Carina Mejías, mentre que al tercer lloc s’hi situa Ignacio Fontcuberta. Llista de […]",
+      "url": "https://beteve.cat/politica/llista-vox-eleccions-generals-2026-espanya-barcelona/",
+      "published": "2026-10-29T14:25:04+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/juan-jose-aizcorbe-vox-2026-10-29.jpg",
       "priority": "2 · Important"
     },
     {
@@ -62,6 +117,21 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "Anar drets a l'autopista: els usuaris dels busos exprés del Maresme reclamen més seguretat",
+      "excerpt": "Fa més d'una dècada que els usuaris de les línies exprés que uneixen el Maresme i Barcelona adverteixen del risc que suposa aquesta pràctica legal",
+      "url": "https://www.3cat.cat/3catinfo/anar-drets-a-lautopista-els-usuaris-dels-busos-expres-del-maresme-reclamen-mes-seguretat/noticia/3436762/",
+      "published": "2026-10-29T14:03:40+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/9/8/1793269051089.jpeg",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433262/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/anar-drets-a-lautopista-els-usuaris-dels-busos-expres-del-maresme-reclamen-mes-seguretat/noticia/3436762/"
+      }
+    },
+    {
       "source": "VilaWeb",
       "title": "Feijóo exigeix responsabilitats ètiques i morals al govern espanyol per l’accident ferroviari de Toledo",
       "excerpt": "El president del PP reclama que s’assumeixin responsabilitats sense esperar el final de la investigació",
@@ -69,6 +139,16 @@
       "published": "2026-10-29T13:54:59+01:00",
       "category": "Societat",
       "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Llista dels Comuns – Front Ampli a les eleccions generals 2026: Ada Colau i la resta de candidats",
+      "excerpt": "Consulta la llista completa de Comuns – Front Ampli per a les eleccions generals 2026 per Barcelona. L’exalcaldessa de Barcelona, Ada Colau, se situa al capdavant de la candidatura, mentre que Ernest Urtasun, actual ministre de Cultura, ocupa la segona posició, i Júlia Miralles, la tercera. A la resta d’Espanya, el Front Ampli uneix els […]",
+      "url": "https://beteve.cat/politica/llista-comuns-front-ampli-eleccions-generals-2026-barcelona-espanya/",
+      "published": "2026-10-29T13:39:14+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Ada-Colau-Comuns-Front-Ampli-2026-10-29.jpg",
       "priority": "2 · Important"
     },
     {
@@ -226,12 +306,72 @@
     },
     {
       "source": "betevé",
+      "title": "Barcelona ajorna el plenari municipal d’aquest octubre per l’accident mortal de tren a Toledo",
+      "excerpt": "Dia de polèmica a l’Ajuntament de Barcelona pel plenari municipal d’aquest mes d’octubre. La sessió estava convocada per a aquest divendres, 31 d’octubre —en ple dol oficial per l’accident mortal de tren a Toledo—, i els grups de l’oposició durant tot el dia han demanat al govern de Jaume Collboni ajornar el ple fins a […]",
+      "url": "https://beteve.cat/politica/barcelona-ajorna-plenari-municipal-octubre-2026-accident-mortal-tren-toledo/",
+      "published": "2026-10-29T16:04:09+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/plenari-municipal-1-2026-09-24.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Vols a preu d’or després de l’accident de Toledo: és legal apujar-los tant?",
+      "excerpt": "L'accident ferroviari d'Urda, a la província de Toledo, que ha causat 69 morts, també té conseqüències en les alternatives de transport entre Madrid i Andalusia. Amb la circulació d'alta velocitat interrompuda, els viatgers han de buscar alternatives per carretera o en avió, fet que pot incrementar la demanda de vols. En una consulta de tarifes per a la ruta Sevilla-Madrid, el preu més baix visible per a una data concreta ha passat d'uns 50 euros a prop de 200, segons les cerques fetes a Google…",
+      "url": "https://www.ara.cat/economia/aerolinies/vols-preu-d-or-despres-l-accident-toledo-legal-apujar-tant_1_5893952.html",
+      "published": "2026-10-29T15:55:01+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/100ef32c-f79c-4c9e-81f9-4e12dff068a2_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Exposicions a Barcelona: la teva agenda de museus",
+      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
+      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
+      "published": "2026-10-29T15:33:59+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
       "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
       "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
-      "published": "2026-10-29T15:09:29+01:00",
+      "published": "2026-10-29T15:24:22+01:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una espia xinesa s'ha infiltrat en la vida del director de Nvidia, líder mundial en fabricació de xips",
+      "excerpt": "Nou escàndol al sector tecnològic i al món de la intel·ligència artificial. Aquesta vegada vinculat amb Jensen Huang , el director de Nvidia, l'empresa líder al món en la fabricació de xips d'ordinador, incloent-hi els que alimenten els grans models d'IA generativa . Segons ha avançat The New York Times , una alta executiva d'una empresa de centres de dades amb seu a Singapur que formava part dels clients de l'empresa –Megaspeed–, ha resultat ser una agent de la intel·ligència xinesa que estava fent arribar…",
+      "url": "https://www.ara.cat/economia/tecnologia/espia-xinesa-nvidia-ia-infiltrada_1_5893933.html",
+      "published": "2026-10-29T15:21:41+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d4b3d689-75f4-4798-86fe-fb819a21cd8a_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’ex-president de les Corts Julio de España, condemnat a un any i mig de presó per haver agredit sexualment una pacient",
+      "excerpt": "L’Audiència d’Alacant també l’obliga a indemnitzar la víctima amb 12.000 euros i l’absol de les acusacions relacionades amb una segona dona",
+      "url": "https://www.vilaweb.cat/noticies/president-corts-julio-de-espana-condemnat-sexualment-pacient/",
+      "published": "2026-10-29T15:19:58+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Denza Bao 5, el 4x4 xinès que vol destronar el Defender i el Land Cruiser",
+      "excerpt": "Denza és la filial aspiracional i de luxe del gegant automobilístic BYD. De fet, ara fa una mica més d’un any es va presentar Denza a Milà amb una proposta ambiciosa: competir amb marques com Porsche o Mercedes-Benz al seu propi terreny. Per fer-ho durant els darrers mesos Denza ha presentat un esportiu amb carrosseria shooting brake anomenat Z9GT, un monovolum de luxe i aquest nou totterreny anomenat Bao 5, que presenta les seves credencials al Vell Continent.",
+      "url": "https://motor.ara.cat/novetats/denza-bao-5-4x4-xines-vol-destronar-defender-land-cruiser_1_5893727.html",
+      "published": "2026-10-29T15:17:54+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/33f94431-6b61-4b71-b159-bdfecd742e81_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -255,16 +395,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "betevé notícies migdia",
-      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
-      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-748/",
-      "published": "2026-10-29T15:02:34+01:00",
-      "category": "Actualitat",
-      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "VilaWeb",
       "title": "Investigada penalment una metgessa que es va negar a atendre un pacient a Esplugues si no parlava en castellà",
       "excerpt": "L'Audiència de Barcelona va obligar a reobrir la causa, que inicialment es va arxivar",
@@ -272,16 +402,6 @@
       "published": "2026-10-29T14:51:48+01:00",
       "category": "Societat",
       "image": null,
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Exposicions a Barcelona: la teva agenda de museus",
-      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
-      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
-      "published": "2026-10-29T14:43:04+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
       "priority": "3 · Altres notícies"
     },
     {
@@ -362,6 +482,16 @@
       "published": "2026-10-29T13:57:04+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/6037fd03-3781-45c8-984d-8d56bf2acc33_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-748/",
+      "published": "2026-10-29T13:55:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -476,7 +606,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Feijóo demana responsabilitats polítiques per l'accident ferroviari: \"Són imprescindibles\"",
+      "title": "Feijóo exigeix responsabilitats polítiques per l'accident ferroviari: \"Són imprescindibles\"",
       "excerpt": "ERC, Podem i Sumar demanen que Puente comparegui al Congrés i Vox el denuncia per homicidi imprudent",
       "url": "https://www.3cat.cat/3catinfo/erc-podem-i-sumar-demanen-que-puente-comparegui-al-congres-per-donar-explicacions-sobre-laccident/noticia/3436777/",
       "published": "2026-10-29T13:00:42+01:00",
