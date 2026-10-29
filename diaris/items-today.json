@@ -2,6 +2,16 @@
   "date": "2026-10-29",
   "items": [
     {
+      "source": "ARA",
+      "title": "Almenys 13 morts i 10 ferits en un atac rus contra una estació de tren a Ucraïna",
+      "excerpt": "Rússia ha llançat aquest dijous un atac amb un dron de propulsió contra l’estació de tren de Dnipró, a l’est d'Ucraïna, que ha deixat almenys 13 morts i una desena de ferits. L’impacte directe contra una de les andanes ha afectat un comboi ple de passatgers, que es trobava en aquell moment a l'estació, segons han informat les autoritats locals. Els serveis ferroviaris d'Ucraïna havien emès un avís elevat de perill a l'estació però, tot i això, hi havia persones a l'andana. A aquest atac…",
+      "url": "https://www.ara.cat/internacional/europa/almenys-13-morts-10-ferits-atac-rus-estacio-tren-ucraina_1_5893973.html",
+      "published": "2026-10-29T14:03:03+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8f7933b7-8868-458a-8d8c-1a89d1619ce3_source-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo",
       "title": "Maten un pacient de l'Hospital Joan XXIII de Tarragona que va sobreviure a un intent d'assassinat",
       "excerpt": "L'home va ser tirotejat a Salou fa dues setmanes des d'un cotxe mentre passejava pel carrer; el vehicle va fugir",
@@ -30,6 +40,56 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/7/1793260807571.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Feijóo exigeix responsabilitats ètiques i morals al govern espanyol per l’accident ferroviari de Toledo",
+      "excerpt": "El president del PP reclama que s’assumeixin responsabilitats sense esperar el final de la investigació",
+      "url": "https://www.vilaweb.cat/noticies/feijoo-exigeix-responsabilitats-etiques-morals-govern-espanyol-accident-ferroviari-toledo/",
+      "published": "2026-10-29T13:54:59+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El comissari d’Energia de la UE insta els estats a prendre mesures per a abaratir els combustibles",
+      "excerpt": "Jorgensen adverteix que garantir el subministrament no n’hi ha prou i reclama ajudes selectives i temporals",
+      "url": "https://www.vilaweb.cat/noticies/comissari-energia-ue-urgeix-estats-prendre-mesures-abaratir-combustibles/",
+      "published": "2026-10-29T13:37:33+01:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "ERC, Podem i Sumar demanen que Puente comparegui al Congrés per donar explicacions sobre l'accident",
+      "excerpt": "Vox va més enllà i interposa una querella per homicidi imprudent contra el ministre de Transports",
+      "url": "https://www.3cat.cat/3catinfo/erc-podem-i-sumar-demanen-que-puente-comparegui-al-congres-per-donar-explicacions-sobre-laccident/noticia/3436777/",
+      "published": "2026-10-29T13:00:42+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/0/6/1793196972960.png",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Vaga a Renfe per la seguretat ferroviària, l’endemà del tràgic accident de Toledo: retards puntuals",
+      "excerpt": "La vaga de maquinistes de Renfe convocada pel sindicat SEMAF per aquest dijous ha començat sense incidències rellevants i amb el compliment dels serveis mínims. Fins a les 9:30 h —el tram és complicat de mobilitat— només s’han suprimit cinc trens, tres a l’R2 Sud, un a l’R3 i un a l’R4. També des de […]",
+      "url": "https://beteve.cat/mobilitat/vaga-maquinistes-renfe-endema-accident-mortal-toledo/",
+      "published": "2026-10-29T12:55:18+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/08/tren-Rodalies-estacio-Franca-040826-2026-08-04.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Estudiants d’instituts de Barcelona aturen les classes per reclamar colònies i sortides escolars",
+      "excerpt": "Els instituts Maria Espinalt i Quatre Cantons, al Poblenou, són dos dels centres de la ciutat que s’han sumat aquest dijous a la vaga convocada pel Sindicat d’Estudiants de Catalunya. L’entitat ha fet una crida a aturar les classes d’11 a 13 h per denunciar la situació, que considera insostenible, de l’educació pública. Els estudiants […]",
+      "url": "https://beteve.cat/societat/estudiants-instituts-aturen-classes-reclamar-colonies-sortides-escolars/",
+      "published": "2026-10-29T12:38:53+01:00",
+      "category": "educació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pamcarta-insitutts-291026-2026-10-29.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -155,8 +215,158 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "\"El gegant del pi, ara marca, ara marca\": la nova cançó del Girona",
+      "excerpt": "Jovent Gironí, el grup d’animació que se situa al gol sud de l’estadi de Montilivi, té un cançoner per animar els dies de partit. Qui el vulgui veure, està penjat al seu compte de YouTube. Allà es poden sentir totes les cançons i es poden llegir les lletres perquè la gent les aprengui i les pugui cantar a Montilivi. N’hi ha de mítiques, com la de Quan jo era petit , que parla dels somnis d’infantesa d’un aficionat qualsevol del Girona, que passava els dies…",
+      "url": "https://www.ara.cat/esports/girona-fc/gegant-pi-ara-marca-ara-marca-nova-canco-girona_130_5893793.html",
+      "published": "2026-10-29T14:04:11+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1ca56571-7a03-4889-916f-39481c15bfee_source-aspect-ratio_default_0_x351y143.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "18 anys d’una fredorada amb nevada testimonial al Tibidabo",
+      "excerpt": "Va ser molt testimonial i només uns pocs van poder donar testimoni dels pocs flocs de neu que van caure el 29 d’octubre del 2008. Va ser tot molt anecdòtic, però la notícia va ser que era octubre. Només 1 ºC a la plaça del Tibidabo Una potent irrupció d’aire fred que s’havia despenjat cap […]",
+      "url": "https://beteve.cat/medi-ambient/fred-neu-tibidabo-octubre-2008/",
+      "published": "2026-10-29T14:02:04+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2020/10/picofredoctubre2008.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Mor l'exministra Fátima Báñez en l'accident de tren a Toledo",
+      "excerpt": "Fátima Báñez, ministra de Treball i Seguretat Social durant el govern de Mariano Rajoy, és una de les víctimes mortals de l’accident ferroviari d’aquest dimecres a la localitat d’Urda (Toledo), segons confirmen fonts consultades per l'ARA. Des de bon matí no es tenien notícies d’ella i la patronal CEOE, de la que presidia la fundació, notificava que estaven intentant contactar-hi. Les especulacions van proliferar al llarg d'aquest dimecres, però la seva defunció s'ha confirmat aquest dijous. L'expolítica tenia 59 anys.",
+      "url": "https://www.ara.cat/politica/mor-l-exministra-fatima-banez-l-accident-tren-toledo_1_5893989.html",
+      "published": "2026-10-29T13:57:04+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6037fd03-3781-45c8-984d-8d56bf2acc33_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
+      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-10-29T13:36:03+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Raval(s), el Festival de Cultura del Raval 2026: Dates i programa",
+      "excerpt": "El festival Raval(s) torna al barri del Raval per convertir-lo en un gran espai de creació, participació i convivència. L’esdeveniment serà del 6 al 8 de novembre. S’hi han programat més de 50 activitats gratuïtes i la implicació d’un centenar d’entitats, col·lectius, artistes i equipaments. Carrers, places, jardins i equipaments culturals es convertiran en escenaris […]",
+      "url": "https://beteve.cat/agenda/ravals-festival-cultural-programa/",
+      "published": "2026-10-29T13:35:52+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/ravals-festival-2026-2026-10-29.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Aznar, Magdalena Álvarez o Óscar Puente: així s’ha arruïnat el tren a Espanya",
+      "excerpt": "Ja fa 24 hores que no parlem de res més que de l'accident dels trens a Toledo , on van morir ahir 68 persones, de moment. O sigui que dono per fetes totes les prèvies. Conseqüències polítiques: Óscar Puente no pot continuar sent ministre de Transports ni un minut més. Aquest 2026 s’han matat als trens espanyols 115 persones: 46 a Andalusia, 1 a Gelida i 68 a Toledo. I un accident és una desgràcia. Tres accidents amb 115 morts no són tres desgràcies, només.…",
+      "url": "https://www.ara.cat/analisi/aznar-magdalena-alvarez-oscar-puente-aixi-s-arruinat-tren-espanya_1_5893926.html",
+      "published": "2026-10-29T13:28:30+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/51fa5384-a77b-4bab-a006-b3150f126875_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La comissió estatal d'accidents ja va demanar el 2024 mesures per evitar errors humans quan cau el sistema",
+      "excerpt": "La Comissió d'Investigació d'Accidents Ferroviaris (CIAF) —des del juliol passat Autoritat Administrativa Independent de Recerca Tècnica d'Accidents i Incidents ferroviaris, marítims i d'aviació civil (AAIITAI )— ja va recomanar en un informe del 2024 adoptar mesures tècniques i reforçar els protocols, després d'apuntar que la verificació humana és \"susceptible de fallar\" en els casos en què aquesta substitueix el sistema automatitzat, com tot indica que ha passat a l'accident d'aquest dimecres a Urda (Toledo), i que ha causat almenys 69 víctimes mortals.",
+      "url": "https://www.ara.cat/societat/successos/comissio-estatal-d-accidents-ja-demanar-2024-prendre-mesures-davant-possibles-errors-humans_1_5893965.html",
+      "published": "2026-10-29T13:27:52+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3d54bed3-6f68-4d51-8631-46dae45f2e54_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una fissura sota la via obliga a tallar durant un mes un tram de la L2 del metro",
+      "excerpt": "Els maldecaps en matèria de mobilitat semblen no tenir aturador en els accessos a Barcelona. Els problemes arriben ara també a una infraestructura que fins ara s’havia mostrat més fiable: el metro. Una fissura a la llosa sobre la qual descansen les vies, provocada per la pressió de l'aigua freàtica en un túnel entre les estacions d’Artigues-Sant Adrià i Sant Roc, obligarà a tallar entre el 2 de novembre i el 3 de desembre el tram de la línia 2 de metro entre Gorg i…",
+      "url": "https://www.ara.cat/societat/barcelona/fissura-via-obliga-tallar-durant-mes-tram-l2-metro_1_5893888.html",
+      "published": "2026-10-29T13:25:33+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/682698fa-bb5d-44a4-a72a-7eb6e5117d21_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Okdiario ha pagat més de 240.000 euros per la defensa del condemnat Koldo García",
+      "excerpt": "L'empresa editora del diari digital de dreta radical d'Eduardo Inda, Okdiario, va pagar 241.000 euros per a la defensa de Koldo García, l'exassessor de l'exministre José Luis Ábalos, que va ser condemnat a 19 anys de presó pel cas de corrupció que va afectar la cartera de Transports del govern espanyol del PSOE. Així consta en la documentació aportada per les representants legals de Koldo García a la secció d'instrucció del tribunal central d'instància per especificar l'abonament de les despeses de la defensa.",
+      "url": "https://www.ara.cat/politica/okdiario-paga-mes-240-000-euros-defensa-condemnat-koldo-garcia_1_5893959.html",
+      "published": "2026-10-29T13:24:03+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e38657e8-e0f4-4112-8e1f-79e7f1c4106e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
-      "title": "L’ANC reclama als partits independentistes que bloquin la governabilitat de l’estat espanyol",
+      "title": "Un centenar d’estudiants es manifesten a Vic per reclamar un futur digne i desmarcar-se de les convocatòries de saqueig",
+      "excerpt": "La mobilització transcorre sense incidents enmig d’un fort desplegament dels Mossos",
+      "url": "https://www.vilaweb.cat/noticies/centenar-estudiants-manifesten-vic-reclamant-futur-digne-desmarcant-convocatories-saqueig/",
+      "published": "2026-10-29T13:20:13+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Monchi revela els motius del canvi de Manolo González per Eder Sarabia a la banqueta de l’Espanyol",
+      "excerpt": "Monchi ha comparegut en roda de premsa per explicar la destitució de Manolo González com a entrenador de l’Espanyol i l’arribada d’Eder Sarabia, que serà presentat dimarts vinent com a tècnic blanc-i-blau. El director esportiu ha volgut agrair la feina de l’entrenador gallec, que deixa el club després de més de dos anys i mig […]",
+      "url": "https://beteve.cat/esports/monchi-explica-destitucio-manolo-gonzalez-espanyol-entrenador-eder-sarabia/",
+      "published": "2026-10-29T13:11:38+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/monchi-rdp-espanyol-1-2026-10-29.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Hi ha descontentament i ràbia acumulats\": parlen els mestres de menors que van ser als aldarulls",
+      "excerpt": "L'Ester –nom fictici per mantenir l'anonimat– va assabentar-se dilluns a la sala de professors que dos dels seus alumnes, menors d'edat, havien estat identificats en els aldarulls de dissabte a Barcelona. És docent en un institut dels entorns de Granollers, la zona on els Mossos han rastrejat l'origen de la convocatòria anònima, i com ella molts professors no han pogut ni volgut esquivar el tema de conversa de la setmana. S’han trobat amb alumnes que critiquen les destrosses ocasionades i d’altres que en fan broma.…",
+      "url": "https://www.ara.cat/societat/successos/hi-descontentament-rabia-acumulats-parlen-mestres-menors-als-aldarulls_1_5893123.html",
+      "published": "2026-10-29T13:10:17+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7f69381c-b6f7-4480-94a5-95fb9d696896_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Retards a la línia de gran velocitat entre el País Valencià i Madrid per una incidència en un tren Ouigo",
+      "excerpt": "Els passatgers seran traslladats per tren i autobús, i se’ls aplicarà la política màxima de compensació pel retard",
+      "url": "https://www.vilaweb.cat/noticies/retards-linia-alta-velocitat-pais-valencia-incidencia-tren-ouigo/",
+      "published": "2026-10-29T13:03:23+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Alerten que s'estan enviant SMS falsos en què es diu que la Guàrdia Civil ha identificat un familiar a l'accident",
+      "excerpt": "El Centre d'Integració de Dades (CID) creat per l'accident de trens a Urda, Toledo, ha avisat que alguns familiars de possibles víctimes mortals estan rebent missatges falsos per SMS i insta les persones que els rebin a no tenir-los en compte.",
+      "url": "https://www.ara.cat/societat/successos/alerten-s-enviant-sms-falsos-dient-guardia-civil-identificat-familiar-l-accident_1_5893913.html",
+      "published": "2026-10-29T13:02:12+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d0504c6f-8633-4df7-8d87-1cadeab48af7_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Christine Lagarde deixarà la presidència del BCE al febrer, vuit mesos abans del previst",
+      "excerpt": "Lagarde deixarà el càrrec el 7 de febrer, i el Consell Europeu nomenarà el successor de la presidenta del Banc Central Europeu",
+      "url": "https://www.3cat.cat/3catinfo/christine-lagarde-deixara-la-presidencia-del-bce-al-febrer-vuit-mesos-abans-del-previst/noticia/3436787/",
+      "published": "2026-10-29T12:58:44+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/0/1793270230808.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’ANC demana que només s’investeixi un president espanyol amb un “compromís formal” amb l’autodeterminació",
       "excerpt": "L’entitat diu que solament té sentit facilitar una investidura si hi ha un compromís formal de fer possible l’autodeterminació, amb un calendari concret i garanties de compliment",
       "url": "https://www.vilaweb.cat/noticies/anc-reclama-partits-independentistes-bloquin-governabilitat-estat-espanyol/",
       "published": "2026-10-29T12:52:36+01:00",
@@ -165,19 +375,9 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Raval(s), el Festival de Cultura del Raval 2026: Dates i programa",
-      "excerpt": "El festival Raval(s) torna al barri del Raval per convertir-lo en un gran espai de creació, participació i convivència. L’esdeveniment serà del 6 al 8 de novembre. S’hi han programat més de 50 activitats gratuïtes i la implicació d’un centenar d’entitats, col·lectius, artistes i equipaments. Carrers, places, jardins i equipaments culturals es convertiran en escenaris […]",
-      "url": "https://beteve.cat/agenda/ravals-festival-cultural-programa/",
-      "published": "2026-10-29T12:49:25+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/ravals-festival-2026-2026-10-29.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "ARA",
       "title": "Primer cas d'investigació penal d'una metgessa per condicionar l'atenció mèdica a parlar castellà",
-      "excerpt": "Un jutjat de Barcelona ha citat a declarar com a investigada una metgessa d'un hospital privat per la presumpta discriminació que va patir un pacient quan es va expressar en català en una visita a urgències, segons recull l'ACN. La dona va dir que no atendria l'home si no li parlava en castellà. La providència dona compliment a l’ordre de l’Audiència de Barcelona, que va revocar l’arxivament inicial i va exigir investigar els fets. El pacient, víctima de la presumpta agressió lingüística, declararà el mateix…",
+      "excerpt": "Un jutjat de Barcelona ha citat a declarar com a investigada una metgessa d'un hospital privat per la presumpta discriminació que va patir un pacient quan es va expressar en català en una visita a urgències, segons recull l'ACN. Segons el denunciant, la dona va dir que no atendria l'home si no li parlava en castellà. La providència dona compliment a l’ordre de l’Audiència de Barcelona, que va revocar l’arxivament inicial i va exigir investigar els fets. El pacient, víctima de la presumpta agressió lingüística,…",
       "url": "https://www.ara.cat/llengua/cas-d-investigacio-penal-d-metgessa-condicionar-l-atencio-medica-parlar-castella_1_5893914.html",
       "published": "2026-10-29T12:45:32+01:00",
       "category": "Actualitat",
@@ -212,6 +412,26 @@
       "published": "2026-10-29T12:26:05+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/2/0/1791819076702.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La fresquera clandestina a la basílica dels Sants Màrtirs Just i Pastor",
+      "excerpt": "Unes obres de millora dutes a terme al subsol de la basílica dels Sants Màrtirs Just i Pastor, situada a la plaça de Sant Just de Barcelona, han permès descobrir una fresquera clandestina amb més de 300 anys. Aquesta infraestructura subterrània, datada pels equips arqueològics al segle XVIII, constitueix una de les dues úniques cambres […]",
+      "url": "https://beteve.cat/va-passar-aqui/fresquera-basilica-sants-martirs-just-i-pastor/",
+      "published": "2026-10-29T12:15:23+01:00",
+      "category": "història",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/fresquera-sant-just-vpa-2026-10-29.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Pere Romeu reivindica el model del Barça abans de la Champions: “El secret és aquest”",
+      "excerpt": "El Barça femení es vol mantenir invicte a Europa. Les blaugranes visiten aquest dijous, 29 d’octubre, a les 21 h, el conjunt danès del HB Koge després de golejar la Roma a Europa. Les locals, que van golejar el Servette (5-1), encadenen una ratxa d’imbatibilitat contundent a casa seva: set partits europeus sense perdre. Tot […]",
+      "url": "https://beteve.cat/esports/pere-romeu-reivindica-model-barca-secret-es-aquest/",
+      "published": "2026-10-29T12:05:26+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/12/vicky-lopez-celebra-gol-paris-barca-champions-femenina-2025-26-ok-1.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -332,16 +552,6 @@
       "published": "2026-10-29T11:07:34+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/a62fc1de-9629-4f09-97b7-e8520c96b280_16-9-aspect-ratio_default_0_x1887y763.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
-      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
-      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-10-29T11:07:23+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -547,7 +757,7 @@
     {
       "source": "ARA",
       "title": "Assassinen a trets en un hospital de Tarragona un home ingressat per un tiroteig anterior",
-      "excerpt": "Un home ha mort aquesta matinada executat amb una arma de foc mentre estava ingressat a l'Hospital Joan XXIII de Tarragona. La víctima és un home que ja havia patit un tiroteig el passat 16 d'octubre a Salou i havia estat ingressat per això. Llavors, caminava pel carrer i va ser atacat per diverses persones que van sortir d'un cotxe a Salou. Va rebre nombrosos impactes de bala, sobretot a la zona inferior del cos.",
+      "excerpt": "Ha sigut una escena pròpia d'una pel·lícula de mafiosos. Un home ha entrat aquest dijous al matí a l'Hospital Joan XXIII de Tarragona amagant el seu rostre, ha pujat fins a una habitació i ha executat a trets un pacient amb la seva dona al davant. Ben bé com l'intent d'assassinat de Vito Corleone quan estava ingressat en un centre mèdic.",
       "url": "https://www.ara.cat/societat/successos/maten-trets-home-ingressat-l-hospital-joan-xxiii-tarragona_1_5893720.html",
       "published": "2026-10-29T08:41:03+01:00",
       "category": "Actualitat",
