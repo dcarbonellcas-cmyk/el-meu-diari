@@ -14,7 +14,7 @@
     {
       "source": "VilaWeb",
       "title": "“Ni oblit, ni perdó”: dues marxes recorren l’Horta Sud per recordar les víctimes de la gota freda dos anys després",
-      "excerpt": "Les columnes, procedents d’Albal i Benetússer, han confluït al barranc del Torrent, entre Catarroja i Massanassa, en un homenatge per a reclamar veritat, justícia i garanties que la tragèdia no es repetesca",
+      "excerpt": "Les columnes, procedents d’Albal i Benetússer, han confluït al barranc de Torrent, entre Catarroja i Massanassa, en un homenatge per a reclamar veritat, justícia i garanties que la tragèdia no es repetesca",
       "url": "https://www.vilaweb.cat/noticies/marxes-recorren-horta-sud-victimes-gota-freda-dos-anys/",
       "published": "2026-10-29T19:13:14+01:00",
       "category": "País Valencià",
@@ -29,7 +29,12 @@
       "published": "2026-10-29T11:17:16+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/4/1793268313343.jpg",
-      "priority": "1 · Urgent"
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433388/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/maten-un-pacient-de-lhospital-joan-xxiii-de-tarragona-que-va-sobreviure-a-un-intent-dassassinat/noticia/3436765/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -55,6 +60,22 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/accident-a-toledo-balanc-provisional-de-68-morts-i-170-ferits-mentre-continuen-els-treballs-de-recerca/noticia/3436737/"
       },
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de divendres: sol a nord i alguns ruixats al sud",
+      "excerpt": "El sol més radiant es mantindrà al Pirineu",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-sol-a-nord-i-alguns-ruixats-al-sud/noticia/3436796/",
+      "published": "2026-10-29T18:47:27+01:00",
+      "updated": "2026-10-29T22:26:27+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/2/1793308558929.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433411/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-sol-a-nord-i-alguns-ruixats-al-sud/noticia/3436796/"
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -105,22 +126,6 @@
       "published": "2026-10-29T20:13:28+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/88679331-d46d-4de3-941f-1004b66dca64_source-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de divendres: sol a nord i alguns ruixats al sud",
-      "excerpt": "El sol més radiant es mantindrà al Pirineu",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-sol-a-nord-i-alguns-ruixats-al-sud/noticia/3436796/",
-      "published": "2026-10-29T18:47:27+01:00",
-      "updated": "2026-10-29T19:58:58+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/5/1793297143357.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433363/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-sol-a-nord-i-alguns-ruixats-al-sud/noticia/3436796/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -452,6 +457,51 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "Els investigadors calculen que l’AVE circulava a una velocitat entre 160 i 200 km/h quan va envestir l’Iryo a Urda",
+      "excerpt": "L’organisme encarregat d’esclarir les causes de l’accident manté obertes totes les hipòtesis i adverteix que encara és massa aviat per a determinar què va causar la col·lisió",
+      "url": "https://www.vilaweb.cat/noticies/els-investigadors-calculen-que-lave-circulava-a-una-velocitat-entre-160-i-200-km-h-quan-va-envestir-liryo-a-urda/",
+      "published": "2026-10-29T22:27:52+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Homenatge a Antoni Vila Casas, el gran irradiador de llum",
+      "excerpt": "Antoni Vila Casas (1930-2023) va triar tres cançons que havien de sonar quan la fundació que duu el seu nom fes 40 anys: Mi amante amigo , una de les composicions de Manuel Alejandro que va popularitzar Rocío Jurado; Cançó per a Joan Salvat-Papasseit , de Joan Manuel Serrat; i el Virolai , de Jacint Verdaguer i Josep Rodoreda. Totes tres van ser interpretades per la cantant Myriam Swanson, el guitarrista David Soler i l’acordionista Edurne Arizu dijous al Museu Can Framis, la joia de…",
+      "url": "https://www.ara.cat/cultura/art/homenatge-antoni-vila-casas-gran-irradiador-llum_1_5894507.html",
+      "published": "2026-10-29T22:15:09+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/31cc73ea-81ea-443c-afc2-071530209026_16-9-aspect-ratio_default_0_x1618y1910.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Què sabem dels whatsapps que circulen entre adolescents sobre la convocatòria d'aldarulls de dissabte",
+      "excerpt": "Les captures de missatges s'han viralitzat des de fora de Catalunya i alerten de possibles aldarulls violents el dia 31",
+      "url": "https://www.3cat.cat/3catinfo/que-sabem-dels-whatsapps-que-circulen-entre-adolescents-sobre-la-convocatoria-daldarulls-de-dissabte/noticia/3436902/",
+      "published": "2026-10-29T22:03:46+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/7/7/1793302448177.png",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433395/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/que-sabem-dels-whatsapps-que-circulen-entre-adolescents-sobre-la-convocatoria-daldarulls-de-dissabte/noticia/3436902/"
+      }
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les acusacions recorren contra l’amnistia dels encausats de l’operació Judes",
+      "excerpt": "Entre les acusacions populars hi ha Vox i associacions de víctimes del terrorisme i de guàrdies civils · Alerta Solidària ja havia advertit que recorrerien contra l’arxivament de la causa",
+      "url": "https://www.vilaweb.cat/noticies/les-acusacions-recorren-contra-lamnistia-dels-encausats-de-loperacio-judes/",
+      "published": "2026-10-29T22:00:41+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "De botiga a quiròfan de terror: així celebren Halloween al passeig de Valldaura",
       "excerpt": "Al passeig de Valldaura el 31 d’octubre a la nit ja no és una qüestió de castanyes, carbasses i disfresses. Hi ha gent com la Charo Crespo que transforma l’aparador de la botiga en tota una experiència de terror. Com a part de l’Associació de Comerciants del Passeig de Valldaura participa del crit o confit […]",
@@ -479,7 +529,12 @@
       "published": "2026-10-29T21:25:23+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/1/1793296696511.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433393/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/arrenca-lin-edit-2026-amb-un-homenatge-a-marianne-faithfull-10-films-destacats-daquesta-edicio/noticia/3436890/"
+      }
     },
     {
       "source": "betevé",
@@ -509,12 +564,12 @@
       "published": "2026-10-29T21:06:13+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/1/1793294700916.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6425180/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6433391/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-ue-descarta-la-denominacio-destat-associat-per-al-canada-pero-insisteix-a-estrenyer-relacions/noticia/3436910/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -524,7 +579,12 @@
       "published": "2026-10-29T21:05:43+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/0/8/1793297304780.jpeg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433384/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-sindicats-ferroviaris-critics-amb-puente-per-parlar-derror-huma-en-laccident-a-toledo/noticia/3436901/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -549,7 +609,7 @@
     {
       "source": "ARA",
       "title": "Mor Patrick Stewart, el Capità Picard de 'Star Trek'",
-      "excerpt": "Sir Patrick Stewart, un gegant del teatre i del cinema modern, ha mort als 86 anys, segons ha anunciat la seva portaveu, Kelly Bush Novak. L'actor va morir dimecres a la seva casa de Los Angeles després d'una lluita \"breu i difícil amb l'Alzheimer i la demència dels cossos de Lewy\". Stewart, forjat en el teatre londinenc, va aportar un toc shakespearià a dues grans franquícies del cinema fantàstic: Star Trek , on va interpretar el Capità Picard en sèries i pel·lícules, i la saga…",
+      "excerpt": "Sir Patrick Stewart, un gegant del teatre i del cinema modern, ha mort als 86 anys, segons ha anunciat la seva portaveu, Kelly Bush Novak. L'actor va morir dimecres a la seva casa de Los Angeles després d'una lluita \"breu i difícil amb l'Alzheimer i la demència amb cossos de Lewy\". Stewart, forjat en el teatre londinenc, va aportar un toc shakespearià a dues grans franquícies del cinema fantàstic: Star Trek , on va interpretar el Capità Picard en sèries i pel·lícules, i la saga…",
       "url": "https://www.ara.cat/cultura/cinema/mor-patrick-stewart-capita-picard-star-trek_1_5894508.html",
       "published": "2026-10-29T21:02:28+01:00",
       "category": "Actualitat",
@@ -1224,7 +1284,7 @@
     {
       "source": "3CatInfo",
       "title": "Les incògnites de l'accident a Toledo: per què ningú va avisar l'AVE i per què l'Iryo no va arrencar",
-      "excerpt": "El xoc entre dos trens a Toledo deixa moltes preguntes sense respondre a l'espera que surti l'informe preliminar amb dades del centre de control i de les caixes negres",
+      "excerpt": "L'informe preliminar detalla que la col·lisió es va produir a una velocitat estimada d'entre 160 i 200 km/h, però encara deixa moltes preguntes sense respondre",
       "url": "https://www.3cat.cat/3catinfo/les-incognites-de-laccident-a-toledo-per-que-ningu-va-avisar-lave-i-per-que-liryo-no-va-arrencar/noticia/3436747/",
       "published": "2026-10-29T14:14:18+01:00",
       "category": "Actualitat",
@@ -1404,7 +1464,12 @@
       "published": "2026-10-29T12:58:44+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/0/1793270230808.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433323/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/christine-lagarde-deixara-la-presidencia-del-bce-al-febrer-vuit-mesos-abans-del-previst/noticia/3436787/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -1454,7 +1519,12 @@
       "published": "2026-10-29T12:26:05+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/2/0/1791819076702.jpeg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433328/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/lalta-velocitat-espanyola-al-punt-de-mira-saposta-mes-per-ampliar-la-xarxa-que-per-mantenir-la/noticia/3436786/"
+      }
     },
     {
       "source": "betevé",
@@ -1964,7 +2034,12 @@
       "published": "2026-10-29T06:57:45+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/0/1761415742903.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433334/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/dos-anys-de-la-dana-de-lhorta-sud-una-reconstruccio-a-mitges-i-dos-dols-sense-tancar/noticia/3436320/"
+      }
     },
     {
       "source": "3CatInfo",
