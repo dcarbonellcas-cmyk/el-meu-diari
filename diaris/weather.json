@@ -1,5 +1,20 @@
 {
   "date": "2026-10-29",
-  "updatedAt": "2026-10-29T05:57:10.967170+01:00",
-  "forecast": null
+  "updatedAt": "2026-10-29T06:54:46.543475+01:00",
+  "forecast": {
+    "source": "3CatInfo · El temps",
+    "title": "La previsió de dijous: sol, boires, alguns núvols i un parell de graus menys",
+    "excerpt": "Els núvols es mantindran durant bona part del dia al litoral central",
+    "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/",
+    "published": "2026-10-28T19:52:58+01:00",
+    "updated": "2026-10-29T06:45:47+01:00",
+    "category": "El temps",
+    "image": "https://img.3cat.cat/multimedia/png/7/4/1793222158647.png",
+    "video": {
+      "url": "https://www.3cat.cat/3cat/video/6433201/embed/",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/"
+    },
+    "priority": "2 · Important"
+  }
 }

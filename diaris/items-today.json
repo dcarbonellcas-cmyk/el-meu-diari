@@ -2,6 +2,22 @@
   "date": "2026-10-29",
   "items": [
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dijous: sol, boires, alguns núvols i un parell de graus menys",
+      "excerpt": "Els núvols es mantindran durant bona part del dia al litoral central",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/",
+      "published": "2026-10-28T19:52:58+01:00",
+      "updated": "2026-10-29T06:45:47+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/png/7/4/1793222158647.png",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433201/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-sol-boires-alguns-nuvols-i-un-parell-de-graus-menys/noticia/3436525/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "El recompte de vots continua a Israel, sense clarificar qui podrà formar govern",
       "excerpt": "Amb prop del noranta per cent de vots comptats, el bloc de partits al voltant de Bejamin Netanyahu té 53 escons, lluny dels 61 que necessita per a formar govern. El bloc opositor jueu té 48 escons i les dues llistes palestines, també contràries a l'actual primer ministre, aconsegueixen 19 escons.",
@@ -10,6 +26,36 @@
       "category": "Llevant",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Com l'accident a l'alta velocitat reescriu el guió de Sánchez i l'oposició a només un mes del 29N",
+      "excerpt": "La tragèdia ferroviària a Toledo sacseja la precampanya electoral, amb el govern espanyol intentant gestionar la crisi mentre l'oposició aprofita per desgastar-lo",
+      "url": "https://www.3cat.cat/3catinfo/com-laccident-a-lalta-velocitat-reescriu-el-guio-de-sanchez-i-loposicio-a-nomes-un-mes-del-29n/noticia/3436701/",
+      "published": "2026-10-29T06:49:19+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/9/1793210977390.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Tres dels quatre accidents més greus a l'alta velocitat europea han passat a Espanya: què els va causar?",
+      "excerpt": "Espanya és el segon país del món en nombre de quilòmetres de xarxa ferroviària d'alta velocitat, darrere de la Xina i davant del Japó, França i Alemanya",
+      "url": "https://www.3cat.cat/3catinfo/tres-dels-quatre-accidents-mes-greus-a-lalta-velocitat-europea-han-passat-a-espanya-que-els-va-causar/noticia/3436713/",
+      "published": "2026-10-29T06:46:28+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/7/1793228526075.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "DJ -Les flors, l’únic que té IVA reduït de tot el servei funerari",
+      "excerpt": "El setembre del 2012, els serveis funeraris van deixar de tributar al tipus reduït del 8 % i van passar al tipus general del 21 %. Es va decidir en plena crisi econòmica i dins d’un paquet de mesures per augmentar la recaptació i reduir el dèficit públic. El canvi va representar un increment de […]",
+      "url": "https://beteve.cat/economia/flors-iva-reduit-servei-funerari/",
+      "published": "2026-10-29T06:00:00+01:00",
+      "category": "consum",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/flors-tanatori-altima-1-2026-10-28.jpg",
+      "priority": "3 · Altres notícies"
     }
   ]
 }
