@@ -29,12 +29,12 @@
       "published": "2026-10-29T11:17:16+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/4/1793268313343.jpg",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433388/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/maten-un-pacient-de-lhospital-joan-xxiii-de-tarragona-que-va-sobreviure-a-un-intent-dassassinat/noticia/3436765/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "VilaWeb",
@@ -49,7 +49,7 @@
     {
       "source": "3CatInfo",
       "title": "Accident a Toledo: La Comissió d'Investigació d'Accidents rectifica i manté en 69 les víctimes mortals",
-      "excerpt": "La Guàrdia Civil ha rebut 64 denúncies de desapareguts i ha obert 4 punts de recollida d'ADN per identificar les víctimes",
+      "excerpt": "La Guàrdia Civil ha rebut 70 denúncies de desapareguts i ha obert 4 punts de recollida d'ADN per identificar les víctimes",
       "url": "https://www.3cat.cat/3catinfo/accident-a-toledo-balanc-provisional-de-68-morts-i-170-ferits-mentre-continuen-els-treballs-de-recerca/noticia/3436737/",
       "published": "2026-10-29T08:46:58+01:00",
       "category": "Actualitat",
@@ -457,6 +457,36 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "bàsics",
+      "excerpt": "El programa d’anàlisi de l’actualitat de Barcelona amb els principals titulars del dia i l’anàlisi corresponent. Perquè això és el ‘bàsics’: fer un pas més i buscar més veus implicades en els temes tractats, per donar les claus del debat a partir d’entrevistes, reportatges, taules i anàlisi. Presentat per Sandra Mestres.",
+      "url": "https://beteve.cat/basics/basics-1414/",
+      "published": "2026-10-29T23:39:41+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Riu compra l'antic Hotel Sofia de Barcelona per més de 300 milions d'euros",
+      "excerpt": "L'actual Grand Hyatt passarà a dir-se Riu Plaça Barcelona i suposa l'aterratge de la cadena mallorquina a la capital catalana",
+      "url": "https://www.3cat.cat/3catinfo/riu-compra-lantic-hotel-sofia-de-barcelona-per-mes-de-300-milions-deuros/noticia/3436942/",
+      "published": "2026-10-29T23:13:19+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/5/1793304667151.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El fred de Dinamarca tampoc frena el Barça de Pere Romeu",
+      "excerpt": "El Barça femení continua comptant per victòries els seus partits a la Champions League: París, Roma i ara Koge. Les blaugranes no es van veure afectades pels nou graus que feia a Dinamarca a l'inici del partit ni per la gespa artificial de l'estadi i van golejar en una exhibició col·lectiva amb gols de Graham Hansen, Ewa Pajor, Esmee Brugts, Patri Guijarro, Clara Serrajordi, Kika Nazareth i Claudia Pina, amb un doblet (0-8). L'equip de Pere Romeu continua com a líder en solitari a la…",
+      "url": "https://www.ara.cat/esports/barca-femeni/fred-dinamarca-tampoc-frena-barca-pere-romeu_1_5893894.html",
+      "published": "2026-10-29T22:53:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/58acd872-5d3f-4fcb-8ce3-2b3ad8e34921_16-9-aspect-ratio_default_1061297.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Els investigadors calculen que l’AVE circulava a una velocitat entre 160 i 200 km/h quan va envestir l’Iryo a Urda",
       "excerpt": "L’organisme encarregat d’esclarir les causes de l’accident manté obertes totes les hipòtesis i adverteix que encara és massa aviat per a determinar què va causar la col·lisió",
@@ -484,12 +514,12 @@
       "published": "2026-10-29T22:03:46+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/png/7/7/1793302448177.png",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433395/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/que-sabem-dels-whatsapps-que-circulen-entre-adolescents-sobre-la-convocatoria-daldarulls-de-dissabte/noticia/3436902/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -529,12 +559,12 @@
       "published": "2026-10-29T21:25:23+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/1/1793296696511.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433393/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/arrenca-lin-edit-2026-amb-un-homenatge-a-marianne-faithfull-10-films-destacats-daquesta-edicio/noticia/3436890/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -579,12 +609,12 @@
       "published": "2026-10-29T21:05:43+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/0/8/1793297304780.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433384/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/els-sindicats-ferroviaris-critics-amb-puente-per-parlar-derror-huma-en-laccident-a-toledo/noticia/3436901/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -1464,12 +1494,12 @@
       "published": "2026-10-29T12:58:44+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/0/1793270230808.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433323/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/christine-lagarde-deixara-la-presidencia-del-bce-al-febrer-vuit-mesos-abans-del-previst/noticia/3436787/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -1519,12 +1549,12 @@
       "published": "2026-10-29T12:26:05+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/2/0/1791819076702.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433328/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/lalta-velocitat-espanyola-al-punt-de-mira-saposta-mes-per-ampliar-la-xarxa-que-per-mantenir-la/noticia/3436786/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -2034,12 +2064,12 @@
       "published": "2026-10-29T06:57:45+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/0/1761415742903.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433334/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/dos-anys-de-la-dana-de-lhorta-sud-una-reconstruccio-a-mitges-i-dos-dols-sense-tancar/noticia/3436320/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
