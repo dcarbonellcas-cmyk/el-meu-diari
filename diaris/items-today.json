@@ -2,6 +2,16 @@
   "date": "2026-10-29",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Almenys 14 morts i més d'una desena de ferits en un atac rus a una estació de tren d'Ucraïna",
+      "excerpt": "L'atac ha impactat sobre l'andana de l'estació de Dnipró, on hi havia un tren estacionat que cobria la ruta fins a Zaporíjia",
+      "url": "https://www.3cat.cat/3catinfo/almenys-14-morts-i-mes-duna-desena-de-ferits-en-un-atac-rus-a-una-estacio-de-tren-ducraina/noticia/3436909/",
+      "published": "2026-10-29T21:12:05+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/4/1793299047345.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "“Ni oblit, ni perdó”: dues marxes recorren l’Horta Sud per recordar les víctimes de la gota freda dos anys després",
       "excerpt": "Les columnes, procedents d’Albal i Benetússer, han confluït al barranc del Torrent, entre Catarroja i Massanassa, en un homenatge per a reclamar veritat, justícia i garanties que la tragèdia no es repetesca",
@@ -45,6 +55,16 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/accident-a-toledo-balanc-provisional-de-68-morts-i-170-ferits-mentre-continuen-els-treballs-de-recerca/noticia/3436737/"
       },
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Inauguren a Sant Feliu de Guíxols el primer habitatge cooperatiu per a gent gran de Catalunya",
+      "excerpt": "La cooperativa Sostre Cívic recupera un antic hotel per acollir una comunitat d'una quarantena de persones",
+      "url": "https://www.vilaweb.cat/noticies/sant-feliu-guixols-primer-habitatge-cooperatiu-gent-gran-catalunya/",
+      "published": "2026-10-29T21:30:16+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -432,6 +452,111 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "De botiga a quiròfan de terror: així celebren Halloween al passeig de Valldaura",
+      "excerpt": "Al passeig de Valldaura el 31 d’octubre a la nit ja no és una qüestió de castanyes, carbasses i disfresses. Hi ha gent com la Charo Crespo que transforma l’aparador de la botiga en tota una experiència de terror. Com a part de l’Associació de Comerciants del Passeig de Valldaura participa del crit o confit […]",
+      "url": "https://beteve.cat/economia/botigar-quirofan-terrorific-passeig-valldaura-operacio-maruja/",
+      "published": "2026-10-29T21:52:43+01:00",
+      "category": "comerç",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/aparador-valldaura-2026-10-29.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Mor Patrick Stewart, conegut per la sèrie \"Star Trek\" i la saga \"X-men\", als 86 anys",
+      "excerpt": "L'actor britànic va encarnar el capità Picard de la famosa sèrie de ciència-ficció i es va posar a la pell del telèpata Charles Xavier en les pel·lícules de superherois de Marvel",
+      "url": "https://www.3cat.cat/3catinfo/mor-patrick-stewart-conegut-per-la-serie-star-trek-i-la-saga-x-men-als-86-anys/noticia/3436945/",
+      "published": "2026-10-29T21:40:17+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1793305885423.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Arrenca l'In-Edit 2026 amb un homenatge a Marianne Faithfull: 10 films destacats d'aquesta edició",
+      "excerpt": "El festival projectarà una setantena de documentals, 22 dels quals estrenes mundials, amb propostes per a tots els gustos: des del rock fins a la música clàssica, passant pel jazz, el flamenc i altres músiques d'arrel",
+      "url": "https://www.3cat.cat/3catinfo/arrenca-lin-edit-2026-amb-un-homenatge-a-marianne-faithfull-10-films-destacats-daquesta-edicio/noticia/3436890/",
+      "published": "2026-10-29T21:25:23+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/1/1793296696511.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Un pla perfecte",
+      "excerpt": "Si tagrada el cinema i les bones sèries, cada dijous a les 21.30 hores a betevé toferim Un pla perfecte: el nou programa per conèixer les estrenes tant a la gran pantalla com a les plataformes, amb dues crítiques: Violeta Kovacsis i Alejandra Palés.",
+      "url": "https://beteve.cat/un-pla-perfecte/un-pla-perfecte-11/",
+      "published": "2026-10-29T21:22:32+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Un milió d’euros per dissenyar un minivehicle que pugui viatjar al cervell",
+      "excerpt": "No són estrelles de l’espai exterior sinó vehicles minúsculs que s’hauran de desplaçar pel cos humà i entrar al cervell. Això és el que dissenyarà un equip especialitzat en nanomedicina, neurociència i intel·ligència artificial format per científics de l’IQS (URL), l’IBEC i la USC. El seu objectiu és poder administrar un medicament o tractament al […]",
+      "url": "https://beteve.cat/societat/un-milio-euros-dissenyar-minivehicle-pugui-viatjar-cervell/",
+      "published": "2026-10-29T21:20:39+01:00",
+      "category": "salut",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cervell-iqs-2026-10-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La UE descarta la denominació d'\"estat associat\" per al Canadà, però insisteix a estrènyer relacions",
+      "excerpt": "Ursula von der Leyen defensa la necessitat de promoure \"una associació sense adhesió\" en una cimera a Mont-real",
+      "url": "https://www.3cat.cat/3catinfo/la-ue-descarta-la-denominacio-destat-associat-per-al-canada-pero-insisteix-a-estrenyer-relacions/noticia/3436910/",
+      "published": "2026-10-29T21:06:13+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/1/1793294700916.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6425180/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-ue-descarta-la-denominacio-destat-associat-per-al-canada-pero-insisteix-a-estrenyer-relacions/noticia/3436910/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els sindicats ferroviaris, crítics amb Puente per parlar d'error humà en l'accident a Toledo",
+      "excerpt": "El sector ferroviari de Comissions Obreres ha demanat el \"cessament immediat\" del ministre de Transports i l'acusa de \"culpar els treballadors\" de la tragèdia ferroviària",
+      "url": "https://www.3cat.cat/3catinfo/els-sindicats-ferroviaris-critics-amb-puente-per-parlar-derror-huma-en-laccident-a-toledo/noticia/3436901/",
+      "published": "2026-10-29T21:05:43+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/0/8/1793297304780.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Expedienten Sánchez per incomplir la neutralitat institucional amb el vídeo davant del \"Guernica\"",
+      "excerpt": "Arran d'una denúncia del PP, la Junta Electoral recorda el deure de neutralitat institucional a La Moncloa i al Museu Reina Sofia",
+      "url": "https://www.3cat.cat/3catinfo/expedienten-sanchez-per-incomplir-la-neutralitat-institucional-amb-el-video-davant-del-guernica/noticia/3436930/",
+      "published": "2026-10-29T21:04:45+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/7/1793299102070.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "S’ha mort a vuitanta-sis anys Patrick Stewart, actor conegut per ‘Star Trek’ i ‘X-Men’",
+      "excerpt": "L’intèrpret britànic, conegut pels papers del capità Jean-Luc Picard i del professor Charles Xavier, ha mort després d’una breu malaltia d’Alzheimer, segons la família",
+      "url": "https://www.vilaweb.cat/noticies/mort-patrick-stewart-actor-conegut-star-trek-x-men/",
+      "published": "2026-10-29T21:03:08+01:00",
+      "category": "Cinema i sèries",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Mor Patrick Stewart, el Capità Picard de 'Star Trek'",
+      "excerpt": "Sir Patrick Stewart, un gegant del teatre i del cinema modern, ha mort als 86 anys, segons ha anunciat la seva portaveu, Kelly Bush Novak. L'actor va morir dimecres a la seva casa de Los Angeles després d'una lluita \"breu i difícil amb l'Alzheimer i la demència dels cossos de Lewy\". Stewart, forjat en el teatre londinenc, va aportar un toc shakespearià a dues grans franquícies del cinema fantàstic: Star Trek , on va interpretar el Capità Picard en sèries i pel·lícules, i la saga…",
+      "url": "https://www.ara.cat/cultura/cinema/mor-patrick-stewart-capita-picard-star-trek_1_5894508.html",
+      "published": "2026-10-29T21:02:28+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e8da1753-eb70-454d-b3ac-def83c20f809_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Esclarir l'accident i revisar el model",
       "excerpt": "Quan hi ha un accident tan terrible com el de Los Yébenes, a Toledo, i abans el d'Adamuz, es produeixen una commoció i una alarma social tan elevades que hi ha la tendència a buscar respostes ràpides on no n'hi ha. Els experts assenyalen que els accidents sempre són multicausals, i que no sempre és fàcil trobar-hi una explicació concreta. En tot cas, s'han de distingir sempre dos plans. En primer lloc, cal identificar l'error o la cadena d'errors que van portar a la desgràcia.…",
@@ -439,6 +564,16 @@
       "published": "2026-10-29T20:45:05+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/2f99a6eb-20d3-48e0-b474-5eab5613b698_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Les notícies, un espectacle continu",
+      "excerpt": "Fa la impressió que, cada vegada, les notícies són més grosses i més espectaculars",
+      "url": "https://www.3cat.cat/3catinfo/les-noticies-un-espectacle-continu/noticia/3436811/",
+      "published": "2026-10-29T20:34:58+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/6/8/1793297440986.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -464,7 +599,7 @@
     {
       "source": "ARA",
       "title": "Detenen un agitador de Blocus menor d'edat a Bellmunt d'Urgell",
-      "excerpt": "Els Mossos d'Esquadra han detingut un menor de 16 anys aquest dijous a la tarda a Bellmunt d'Urgell com un dels agitadors de Blocus. La policia l'ha arrestat com a presumpte autor dels delictes de conspiració per la comissió de desordres públics i la incitació a cometre danys i saquejos a la ciutat de Lleida, en una convocatòria a les xarxes per dissabte. Segons fonts policials, els investigadors de la Comissaria General d'Informació l'han localitzat durant les tasques d'inspecció dels canals de comunicació de les…",
+      "excerpt": "Els Mossos d'Esquadra han detingut un menor de 16 anys aquest dijous a la tarda a Bellmunt d'Urgell com un dels agitadors de Blocus. La policia l'ha arrestat com a presumpte autor dels delictes de conspiració per la comissió de desordres públics i la incitació a cometre danys i saquejos a la ciutat de Lleida, en una convocatòria a les xarxes per a dissabte. Segons fonts policials, els investigadors de la Comissaria General d'Informació l'han localitzat durant les tasques d'inspecció dels canals de comunicació de…",
       "url": "https://www.ara.cat/societat/successos/detenen-agitador-blocus-menor-d-edat-bellmunt-d-urgell_1_5893895.html",
       "published": "2026-10-29T20:21:29+01:00",
       "category": "Actualitat",
@@ -588,7 +723,7 @@
       "url": "https://www.ara.cat/politica/pressio-maxima-ministre-puente_1_5894175.html",
       "published": "2026-10-29T19:30:34+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/c76c2809-17fe-455d-afef-1b5906c6b453_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/594f62e3-4093-4a56-b7dd-ae66b6a8c8f6_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1724,7 +1859,7 @@
     {
       "source": "ARA",
       "title": "Com se'n sortirà d'aquesta Óscar Puente?",
-      "excerpt": "Dos accidents ferroviaris a Espanya en un mateix any que sumen més de 100 morts són \"inacceptables\". La valoració la va fer aquest dimecres el president del govern espanyol , Pedro Sánchez, després de la tragèdia a Toledo. En circumstàncies normals, un fet \"inacceptable\" hauria de comportar decisions de pes. I, igual que va passar després de l'accident d'Adamuz, totes les mirades tornen a estar centrades en el ministre de Transports, Óscar Puente, que ara per ara no té cap intenció de dimitir. \"No estic…",
+      "excerpt": "Dos accidents ferroviaris a Espanya en un mateix any que sumen més de 100 morts són \"inassumibles\". La valoració la va fer aquest dimecres el president del govern espanyol , Pedro Sánchez, després de la tragèdia a Toledo. En circumstàncies normals, un fet \"inassumible\" hauria de comportar decisions de pes. I, igual que va passar després de l'accident d'Adamuz, totes les mirades tornen a estar centrades en el ministre de Transports, Óscar Puente, que ara per ara no té cap intenció de dimitir. \"No estic…",
       "url": "https://www.ara.cat/politica/n-sortira-d-aquesta-oscar-puente_129_5893470.html",
       "published": "2026-10-29T07:00:33+01:00",
       "category": "Actualitat",
