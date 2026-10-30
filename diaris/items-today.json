@@ -2,6 +2,21 @@
   "date": "2026-10-30",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Inusual operació de Rússia i Ucraïna per evacuar civils d'Oleixki, ocupada i aïllada per les mines",
+      "excerpt": "L'alto el foc acordat entre les dues parts, amb la intervenció de Melania Trump, ha permès desminar els accessos i fer arribar ajuda humanitària per als que es volen quedar",
+      "url": "https://www.3cat.cat/3catinfo/inusual-operacio-de-russia-i-ucraina-per-evacuar-civils-doleixki-ocupada-i-aillada-per-les-mines/noticia/3436987/",
+      "published": "2026-10-30T16:57:45+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/0/1793363406004.jpg",
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433570/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/inusual-operacio-de-russia-i-ucraina-per-evacuar-civils-doleixki-ocupada-i-aillada-per-les-mines/noticia/3436987/"
+      }
+    },
+    {
       "source": "VilaWeb",
       "title": "La jutgessa de la gota freda augmenta a 234 el nombre oficial de morts",
       "excerpt": "La nova víctima és un home de Paiporta que va morir gairebé dos mesos després de les inundacions",
@@ -73,6 +88,22 @@
     },
     {
       "source": "3CatInfo · El temps",
+      "title": "La previsió del cap de setmana: dels núvols baixos abundants al cel més assolellat",
+      "excerpt": "Acabem l'octubre i comencem el novembre amb estabilitat i temperatura adient per a l'època",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/",
+      "published": "2026-10-30T09:45:43+01:00",
+      "updated": "2026-10-30T18:50:43+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/4/1793382268046.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433593/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
       "title": "La previsió de divendres: sol, núvols baixos i alguns ruixats al sud",
       "excerpt": "El sol més radiant es mantindrà al Pirineu",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-sol-a-nord-i-alguns-ruixats-al-sud/noticia/3436796/",
@@ -141,7 +172,7 @@
     {
       "source": "ARA",
       "title": "El govern espanyol valora tancar la línia d'AVE Madrid-Barcelona durant les obres de renovació",
-      "excerpt": "¿Espanya aplicaria el model alemany —aturar la circulació— en aquelles línies ferroviàries de l'alta velocitat que estan en obres? Fins ara era una pregunta amb una resposta força unànime: No. Però des del tràgic accident de trens a Urda, a la província de Toledo, el govern espanyol reconeix que és una opció que està valorant. Això voldria dir que aquells trams de via en què s'està duent a terme una remodelació, quedarien completament tancats fins que aquesta no acabés. Això no és habitual a Espanya,…",
+      "excerpt": "¿Espanya aplicaria el model alemany –aturar la circulació– en aquelles línies ferroviàries de l'alta velocitat que estan en obres? Fins ara era una pregunta amb una resposta força unànime: no. Però des del tràgic accident de trens a Urda, a la província de Toledo, el govern espanyol reconeix que és una opció que està valorant. Això voldria dir que aquells trams de via en què s'està duent a terme una remodelació quedarien completament tancats fins que les actuacions no acabessin. Això no és habitual a…",
       "url": "https://www.ara.cat/societat/mobilitat/tasques-rescat-s-apropen-final-balanc-69-morts-no-descarta-augmenti_1_5894964.html",
       "published": "2026-10-30T13:15:56+01:00",
       "category": "Actualitat",
@@ -186,22 +217,6 @@
       "published": "2026-10-30T09:58:30+01:00",
       "category": "seguretat ciutadana",
       "image": "https://img.beteve.cat/wp-content/uploads/2024/11/detencio-mossos-200323.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió del cap de setmana: dels núvols baixos abundants al cel més assolellat",
-      "excerpt": "Acabem l'octubre i comencem el novembre amb estabilitat i temperatura adient per a l'època",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/",
-      "published": "2026-10-30T09:45:43+01:00",
-      "updated": "2026-10-30T09:50:36+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/8/1793344909587.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433471/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -276,9 +291,59 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "El retorn de l’Atlètic Hostafrancs, el somni de recuperar un referent esportiu al barri",
+      "excerpt": "El club de futbol Atlètic Hostafrancs torna a competir una dècada després de la seva desaparició. Més enllà del retorn d’un equip al terreny de joc, la refundació d’aquest club representa el compliment d’una il·lusió col·lectiva. I també un somni personal per al Marc Toyas, president actual del club i un dels joves futbolistes que […]",
+      "url": "https://beteve.cat/esports/retorn-atletic-hostafrancs-recuperar-referent-esportiu-al-barri/",
+      "published": "2026-10-30T18:51:22+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/atletic-hostafrancs-equip-2026-10-20.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La catalana que trenca estereotips: \"Ai, Maria, quan et veig aixecant tant pes, tinc por”",
+      "excerpt": "A vegades, si fan algun dinar, els seus amics li diuen que carregui les bosses. \"Em diuen: 'Porta això tu, que estàs més forta'\", admet Maria Olalla (Vilanova i la Geltrú, 2005). Aquest diumenge competirà en el Mundial d'halterofília a la ciutat xinesa de Ningbo. L'any passat va ser subcampiona europea júnior i ara ve de ser subcampiona europea sub-23. El seu rècord són 95 quilos en arrencada i 220 quilos en dos temps. Brilla en un esport que va descobrir fa quatre dies. L'halterofília…",
+      "url": "https://www.ara.cat/esports/catalana-trenca-estereotips-ai-maria-et-veig-aixecant-tant-pes_130_5895331.html",
+      "published": "2026-10-30T18:49:22+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/73d4b938-5a08-4420-9943-3b8ea5d47594_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El risc de tornar a l’economia del totxo",
+      "excerpt": "El PP proposa 14 mesures per construir un milió d’habitatges (no se sap si són lliures o assequibles). Una de les mesures és l’aprovació d’una nova llei del sòl que doni seguretat als plans urbanístics. Ai, que no tenim memòria. Aquesta fórmula ja es va assajar i va suposar una lamentable involució sobre la precària ciència de les ciutats: entre el 1998 i el 2006 es van construir 5,5 milions d’habitatges a Espanya, liberalitzant sòl. A Catalunya es va urbanitzar un territori equivalent al 3%…",
+      "url": "https://www.ara.cat/opinio/risc-tornar-economia-totxo_129_5894950.html",
+      "published": "2026-10-30T18:00:03+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f1f4fc44-66ab-4b01-ad04-10976181606e_16-9-aspect-ratio_default_0_x1263y1155.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Fiscalia demana que als 70 menors detinguts pels saquejos se’ls prohibeixi assistir a manifestacions",
+      "excerpt": "(ACN) La Fiscalia de Menors de Barcelona ha sol·licitat la prohibició d’assistir a manifestacions per a 70 detinguts relacionats amb els saquejos a comerços que van tenir lloc al centre dissabte passat. El ministeri públic ha demanat la llibertat vigilada i que no acudeixin a cap mobilització o “qualsevol altre tipus de reunió” a menys […]",
+      "url": "https://beteve.cat/societat/fiscalia-demana-prohibir-manifestacions-70-menors-detinguts/",
+      "published": "2026-10-30T17:53:39+01:00",
+      "category": "justícia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/aldarulls-menors-botigues-1-2026-10-26.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Barça d’handbol ja coneix els seus rivals en la main round de la Champions: dos són complicats",
+      "excerpt": "Després de vèncer aquest dijous a la pista del Skanderborg danès, el Barça ja sap quins seran els seus contrincants a la ronda principal de la màxima competició continental d’hanbol. Entre d’altres rivals, els blaugrana jugaran amb el Magdeburg o el Kielce. L’equip blaugrana d’handbol ha conegut aquest divendres els propers rivals a la Lliga […]",
+      "url": "https://beteve.cat/esports/barca-handbol-coneix-rivals-main-round-2026/",
+      "published": "2026-10-30T17:52:53+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/06/Fotos-Beteve-2026-06-07T184107.754.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "La fiscalia de menors demana 8 internaments i 70 llibertats vigilades pels aldarulls de dissabte a Barcelona",
-      "excerpt": "Demana també que es prohibeixi als menors acostar-se a manifestacions a menys de 1.000 metres",
+      "excerpt": "Demana també que es prohibeixi als menors d'acostar-se a manifestacions a menys de mil metres",
       "url": "https://www.vilaweb.cat/noticies/fiscalia-menors-8-internaments-70-llibertats-vigilades-aldarulls-dissabte-barcelona/",
       "published": "2026-10-30T17:52:20+01:00",
       "category": "Policia i justícia",
@@ -328,7 +393,7 @@
     {
       "source": "VilaWeb",
       "title": "La CUP demana explicacions a Interior per les accions contra Blocus que afecten menors",
-      "excerpt": "Els diputats qüestionen la publicació de vídeos de detencions i la presència policial a Vic",
+      "excerpt": "Els diputats qüestionen la publicació de vídeos de detencions i la presència de policia a Vic",
       "url": "https://www.vilaweb.cat/noticies/cup-explicacions-interior-accions-contra-blocus-afecten-menors/",
       "published": "2026-10-30T17:22:35+01:00",
       "category": "Societat",
@@ -1082,7 +1147,7 @@
       "url": "https://www.ara.cat/internacional/russia/novaia-gazeta-l-ultim-diari-opositor-russia-tanca-pressio-kremlin-han-matat_1_5894852.html",
       "published": "2026-10-30T09:44:02+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/7d3eba27-2240-45c6-bf40-8da3d5561176_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/edb44d23-42d7-415d-9431-864a210ce0a8_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
