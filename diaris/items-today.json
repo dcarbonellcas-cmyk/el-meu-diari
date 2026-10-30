@@ -72,6 +72,32 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de divendres: sol, núvols baixos i alguns ruixats al sud",
+      "excerpt": "El sol més radiant es mantindrà al Pirineu",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-sol-a-nord-i-alguns-ruixats-al-sud/noticia/3436796/",
+      "published": "2026-10-29T18:47:27+01:00",
+      "updated": "2026-10-30T16:48:17+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/4/1793375266143.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433581/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-sol-a-nord-i-alguns-ruixats-al-sud/noticia/3436796/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "El Govern espanyol estudia aturar l’alta velocitat Madrid-Barcelona per fer-hi obres de millora",
+      "excerpt": "(ACN/Redacció) El ministre de Transports, Óscar Puente, ha tornat a comparèixer aquest matí per analitzar l’accident ferroviari a d’Urda (Toledo), on han mort gairebé una setantena de persones. En la roda de premsa ha afirmat que des del govern estan valorant i estudiant tallar el servei d’alta velocitat de la línia que uneix Madrid i […]",
+      "url": "https://beteve.cat/mobilitat/govern-aturar-alta-velocitat-madrid-barcelona/",
+      "published": "2026-10-30T16:03:51+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/311026_estacio-ave-2026-10-30.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "El debat de la seguretat a l'alta velocitat: de la caiguda de l'LZB a l'error al centre de control",
       "excerpt": "El sistema de seguretat LZB ha fallat 170 vegades aquest any, però l'alternativa no és prou potent per evitar errors humans com el que va provocar l'accident a Toledo",
@@ -115,7 +141,7 @@
     {
       "source": "ARA",
       "title": "El govern espanyol valora tancar la línia d'AVE Madrid-Barcelona durant les obres de renovació",
-      "excerpt": "Espanya aplicaria el model alemany en aquells trams de les línies ferroviàries de l'alta velocitat que estan en obres? Fins ara era una pregunta amb una resposta força unànime: No. Però des del tràgic accident de trens a Urda, a la província de Toledo, el govern espanyol reconeix que és una opció que està valorant. Això voldria dir que aquells trams de via en què s'està duent a terme una remodelació, sigui de millora o manteniment, quedarien completament tancats fins que aquesta no acabés. Això…",
+      "excerpt": "Espanya aplicaria el model alemany —aturar la circulació— en aquells trams de les línies ferroviàries de l'alta velocitat que estan en obres? Fins ara era una pregunta amb una resposta força unànime: No. Però des del tràgic accident de trens a Urda, a la província de Toledo, el govern espanyol reconeix que és una opció que està valorant. Això voldria dir que aquells trams de via en què s'està duent a terme una remodelació, quedarien completament tancats fins que aquesta no acabés. Això no és…",
       "url": "https://www.ara.cat/societat/mobilitat/tasques-rescat-s-apropen-final-balanc-69-morts-no-descarta-augmenti_1_5894964.html",
       "published": "2026-10-30T13:15:56+01:00",
       "category": "Actualitat",
@@ -225,23 +251,7 @@
       "url": "https://www.ara.cat/economia/banca/caixabank-eleva-benefici-fins-als-4-962-milions-fins-setembre-12-9-mes_1_5894815.html",
       "published": "2026-10-30T08:46:16+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/739216b6-6c54-4a22-aaf1-1b9a80c1ed84_16-9-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de divendres: sol, núvols baixos i alguns ruixats al sud",
-      "excerpt": "El sol més radiant es mantindrà al Pirineu",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-sol-a-nord-i-alguns-ruixats-al-sud/noticia/3436796/",
-      "published": "2026-10-29T18:47:27+01:00",
-      "updated": "2026-10-30T07:49:45+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/1/3/1793342973531.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433471/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-sol-a-nord-i-alguns-ruixats-al-sud/noticia/3436796/"
-      },
+      "image": "https://static1.ara.cat/clip/739216b6-6c54-4a22-aaf1-1b9a80c1ed84_source-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -266,6 +276,46 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Óscar Parallamps Puente",
+      "excerpt": "Hi havia expectació per la compareixença d'Óscar Puente, per si saltava la seva dimissió, i els diaris que volien veure fondre's aquest fusible miraven de fer pressió des de les seves portades, mentre que els més propers al PSOE seguien aprofundint en la via de les errades humanes. \"Els controladors d'Atocha es van confondre de protocol\", escrivien a El País . En canvi, a l 'Abc el titular era: \"Puente va fer fora tècnics i va omplir la cúpula d'Adif de polítics\". Ho acompanyaven d'una…",
+      "url": "https://www.ara.cat/media/oscar-parallamps-puente_129_5895073.html",
+      "published": "2026-10-30T16:28:53+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/93bcaa28-838c-40fb-b657-f6a6bb51fd0e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Intel s’enfonsa gairebé un 30% a la borsa i perd centenars de milions de dòlars en capitalització",
+      "excerpt": "El gegant nord-americà va camí de registrar la pitjor jornada borsària de la seva història",
+      "url": "https://www.vilaweb.cat/noticies/intel-senfonsa-gairebe-un-30-a-la-borsa-i-perd-centenars-de-milions-de-dolars-en-capitalitzacio/",
+      "published": "2026-10-30T16:23:18+01:00",
+      "category": "Economia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Divendres de trànsit complicat per diversos accidents a les sortides de Barcelona",
+      "excerpt": "A primera hora de la tarda, s'han registrat retencions generalitzades, tant a l'AP-7, en tots dos sentits, a la B-30, a la C-58, a la B-20 i a la B-10",
+      "url": "https://www.3cat.cat/3catinfo/divendres-de-transit-complicat-per-dos-accidents-a-les-sortides-de-barcelona/noticia/3437076/",
+      "published": "2026-10-30T16:21:17+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/3/7/1793372507473.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Canvi de color a Collserola: dos mesos després dels incendis, reapareix el verd",
+      "excerpt": "Va cremar 54 hectàrees de bosc i matollar i es va convertir en l’incendi més gran que ha patit Collserola en els darrers 30 anys. Les flames van arrasar la zona més muntanyosa que separa Canyelles i Torre Baró, i van ennegrir un paisatge que, dos mesos més tard, ha començat a canviar. Els brots […]",
+      "url": "https://beteve.cat/medi-ambient/canvi-color-collserola-incendis-verd/",
+      "published": "2026-10-30T16:12:19+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/verd-collserola-1-2026-10-29.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Llibertat vigilada amb instrucció terapèutica per al menor detingut per Blocus Lleida",
       "excerpt": "La jutgessa també li prohibeix anar a Lleida els dies 31 d’octubre i 1 de novembre",
@@ -273,6 +323,16 @@
       "published": "2026-10-30T16:00:43+01:00",
       "category": "Societat",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Es manté el cel mig ennuvolat aquest dissabte, 31 d’octubre: més fresca matinal",
+      "excerpt": "La previsió del temps per a aquest dissabte, 31 d’octubre, manté els intervals de núvols baixos. Tanmateix anuncia la possibilitat que apareguin alguns ruixats esporàdics. Temperatures semblants o una mica més curtes. Previsió horària per a Barcelona: Olor de tardor i matí més fresc, sobretot als barris perifèrics Recta final del mes d’octubre amb alternança […]",
+      "url": "https://beteve.cat/medi-ambient/temps-barcelona-dissabte-31-octubre-mig-ennuvolat-fresca-matinal/",
+      "published": "2026-10-30T15:55:24+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/temps-barcelona-dissabte-31-octubre-mig-ennuvolat-fresca-matinal-2026-10-30.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -298,7 +358,7 @@
     {
       "source": "ARA",
       "title": "Puente no dimitirà i assegura que té la plena confiança de Sánchez",
-      "excerpt": "El ministre de Transports s'ha passat aquest migdia dues hores responent preguntes tècniques sobre l'accident de dimecres a Toledo . Óscar Puente ha garantit que només l'obsessiona resoldre la crisi, que en cap moment ha pensat en les eleccions del pròxim 29 de novembre i que no té cap intenció de dimitir. \"La meva manera de ser responsable és donant la cara\", ha subratllat. Fonts pròximes al ministre expliquen que ha posat el seu càrrec a disposició de Pedro Sánchez i que el president espanyol…",
+      "excerpt": "El ministre de Transports ha passat aquest migdia dues hores responent preguntes tècniques sobre el tràgic accident ferroviari de dimecres a Toledo que, de moment, ha deixat 69 víctimes mortals. Óscar Puente ha garantit que només l'obsessiona resoldre la crisi, que en cap moment ha pensat en les eleccions generals del 29 de novembre i que no té cap intenció de dimitir. \"La meva manera de ser responsable és donant la cara\", ha subratllat. Fonts pròximes al ministre expliquen que ha posat el seu càrrec…",
       "url": "https://www.ara.cat/politica/puente-no-dimitira-assegura-plena-confianca-sanchez_1_5895127.html",
       "published": "2026-10-30T15:26:06+01:00",
       "category": "Actualitat",
@@ -582,7 +642,7 @@
     },
     {
       "source": "ARA",
-      "title": "L'empresa reusenca MaserGrup compra el negoci més gran de Skjodt-Barrett per duplicar la seva presència al mercat nord-americà",
+      "title": "La reusenca MaserGrup compra el negoci més gran de Skjodt-Barrett per duplicar la presència a l'Amèrica del Nord",
       "excerpt": "L'empresa reusenca MaserGrup ha adquirit el negoci més gran de la companyia estatunidenca Skjodt-Barrett, centrat en la fabricació per a tercers d'aliments en l'anomenat format pouch , un tipus d'envàs de plàstic més flexible per contenir productes líquids o de textura gelatinosa. Segons ha detallat el grup en un comunicat, l'operació inclou la incorporació d'un complex industrial de 130.000 metres quadrats que acull una planta de producció de 50.000 metres quadrats a la ciutat de Lebanon, a l'estat d'Indiana.",
       "url": "https://www.ara.cat/economia/alimentacio/l-empresa-reusenca-masergrup-compra-negoci-mes-gran-skjodt-barrett-duplicar-seva-presencia-mercat-nord-america_1_5894898.html",
       "published": "2026-10-30T12:45:43+01:00",
@@ -908,12 +968,12 @@
       "published": "2026-10-30T09:45:34+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/png/1/5/1793287885351.png",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433526/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/les-castanyes-del-montseny-mes-tardanes-per-la-sequera-encara-estarem-15-dies-collint-ne/noticia/3436913/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -1088,7 +1148,7 @@
     {
       "source": "ARA",
       "title": "Per què la religió és l'as a la màniga dels demòcrates per vèncer Trump a les 'midterms'?",
-      "excerpt": "Els demòcrates han aconseguit en aquestes eleccions de mig mandat un escenari insòlit: fer trontollar la supremacia republicana a Texas i Kansas. Si el partit ha aconseguit penetrar dins de territori Trump és perquè els perfils que encapçalen les candidatures per al Senat en ambdós estats tampoc són comuns: un pastor presbiterià, James Talarico, i el capellà d'una megaesglésia metodista, Adam Hamilton. És estrany veure figures religioses al centre de campanyes demòcrates, però precisament és el que està passant en aquestes legislatives i sembla funcionar.",
+      "excerpt": "Els demòcrates han aconseguit en aquestes eleccions de mig mandat un escenari insòlit: fer trontollar la supremacia republicana a Texas i Kansas. Si el partit ha penetrat dins de territori Trump és perquè els perfils que encapçalen les candidatures per al Senat en ambdós estats tampoc són comuns: un pastor presbiterià, James Talarico, i el capellà d'una megaesglésia metodista, Adam Hamilton. És estrany veure figures religioses al centre de campanyes demòcrates, però precisament és el que està passant en aquestes legislatives i sembla funcionar.",
       "url": "https://www.ara.cat/internacional/estats-units/religio-l-as-maniga-dels-democrates-vencer-trump-midterms_1_5892474.html",
       "published": "2026-10-30T07:00:45+01:00",
       "category": "Actualitat",
@@ -1127,7 +1187,7 @@
     },
     {
       "source": "ARA",
-      "title": "Les quatre elaboradores de vins de les quals tothom parlarà, i que entusiasmen l’enòloga Sara Pérez",
+      "title": "Les quatre elaboradores poderoses que fan vins dels quals tothom parlarà, i que entusiasmen l’enòloga Sara Pérez",
       "excerpt": "És dimarts al vespre, i el Vinseum, el museu del vi de Vilafranca del Penedès, ha organitzat un tast d’estrella, és a dir, han convidat una enòloga, la Sara Pérez (Venus la Universal; Mas Martinet), que al seu torn ha triat quatre dones elaboradores de les quals es parlarà molt en els propers anys, segons assegura ella mateixa. La Sara és una de les grans dones del vi, que és passió i seny al mateix temps. Desprèn entusiasme quan parla, i alhora argumenta i debat…",
       "url": "https://mengem.ara.cat/vins-caves/quatre-elaboradores-vins-quals-tothom-parlara-entusiasmen-l-enologa-sara-perez_1_5892895.html",
       "published": "2026-10-30T07:00:44+01:00",
