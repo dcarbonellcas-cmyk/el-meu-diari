@@ -1,8 +1,8 @@
 {
   "date": "2026-10-30",
-  "updatedAt": "2026-10-30T00:48:14.729873+01:00",
+  "updatedAt": "2026-10-30T06:55:22.610906+01:00",
   "pdf": "diaris/avui.pdf",
-  "count": 0,
+  "count": 1,
   "sources": [
     "3CatInfo",
     "VilaWeb",
@@ -11,5 +11,5 @@
     "3CatInfo · El temps"
   ],
   "unavailableSources": [],
-  "fingerprint": "0b47a9f68db1eafb80d8993f29e7ecceb56fec729719aed5e7a8b145c809d379"
+  "fingerprint": "da04859905ca68a88858b318202214acd58f45cbfee273a9107545a6d4f99ae7"
 }
