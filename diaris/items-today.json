@@ -2,6 +2,26 @@
   "date": "2026-10-30",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Page manté en 69 el balanç de morts per l'accident de Toledo però apunta que en seran més",
+      "excerpt": "Pedro Sánchez, després de participar en la reunió del CECOPI amb el president de Castell La Manxa, ha admès la desconfiança en l'alta velocitat",
+      "url": "https://www.3cat.cat/3catinfo/page-mante-en-69-el-balanc-de-morts-per-laccident-de-toledo-pero-apunta-que-en-seran-mes/noticia/3436991/",
+      "published": "2026-10-30T12:16:50+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/0/1793356772708.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "betevé",
+      "title": "Catakrac (31/10/2026): Castanyada, Dia dels Morts, l’equidna i més!",
+      "excerpt": "La Castanyada i Halloween omplen el Catakrac de festa, tradicions i diversió! La Cata i el Krac fins i tot s’atreveixen a cantar mentre descobrim com els infants de l’Escola Octavio Paz mantenen viu el seu vincle amb Mèxic i celebren el Dia dels Morts. També juguem a futbol amb les jugadores del benjamí femení […]",
+      "url": "https://beteve.cat/catakrac/castanyada-dia-dels-morts-equidna/",
+      "published": "2026-10-30T12:01:20+01:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/castanyada-catakrac-2026-2026-10-30.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "García-Page no descarta que hi hagi més víctimes mortals: “Hi ha trenta-una bosses amb restes parcials”",
       "excerpt": "El president manxec assegura que s'ha rebaixat el nivell d'emergència",
@@ -20,6 +40,26 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/18f10e76-fe52-4067-ad45-ca0346f66833_source-aspect-ratio_default_0.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Puente diu que enguany hi ha hagut 170 incidències en el sistema de seguretat LZB",
+      "excerpt": "El ministre de Transports espanyol diu que les xifres són dins la normalitat europea",
+      "url": "https://www.vilaweb.cat/noticies/puente-diu-que-enguany-hi-ha-hagut-170-incidencies-en-el-sistema-de-seguretat-lzb/",
+      "published": "2026-10-30T12:50:35+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El govern espanyol sospesa d’aturar el trànsit dels TGV entre Barcelona i Madrid per les tasques de renovació",
+      "excerpt": "\"Ho valorem. No tan sols per una qüestió de seguretat, sinó per moltes raons\", ha dit Óscar Puente, ministre de Transports espanyol",
+      "url": "https://www.vilaweb.cat/noticies/govern-espanyol-sospesa-parar-transit-tgv-barcelona-madrid-treballs-renovacio/",
+      "published": "2026-10-30T12:44:30+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -70,7 +110,7 @@
     {
       "source": "ARA",
       "title": "La inflació no dona treva a les famílies i l'economia espanyola manté el creixement",
-      "excerpt": "Els preus dels béns i serveis que consumeixen habitualment les famílies han continuat pujant aquest mes d'octubre a l'Estat, segons dades avançades de l'índex de preus de consum (IPC, l'indicador que mesura el cost de la vida de les famílies) publicades aquest divendres per l'Institut Nacional d'Estadística (INE), malgrat una moderació dels preus dels carburants. A més, l'ens estadístic estatal també ha publicat dades preliminars de l'evolució de l'economia espanyola entre juliol i setembre, que va mantenir el seu ritme de creixement i continua expandint-se…",
+      "excerpt": "Els preus dels béns i serveis que consumeixen habitualment les famílies han continuat pujant aquest mes d'octubre a l'Estat, segons dades avançades de l'índex de preus de consum (IPC, l'indicador que mesura el cost de la vida de les famílies) publicades aquest divendres per l'Institut Nacional d'Estadística (INE), malgrat una moderació dels preus dels carburants. A més, l'ens estadístic estatal també ha publicat dades preliminars de l'evolució de l'economia espanyola entre el juliol i el setembre, que va mantenir el seu ritme de creixement i…",
       "url": "https://www.ara.cat/economia/macroeconomia/inflacio-no-dona-treva-families-l-economia-mante-creixement_1_5894825.html",
       "published": "2026-10-30T09:18:00+01:00",
       "category": "Actualitat",
@@ -125,13 +165,123 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "L'empresa reusenca MaserGrup compra el negoci més gran de Skjodt-Barrett per duplicar la seva presència al mercat nord-americà",
+      "excerpt": "L'empresa reusenca MaserGrup ha adquirit el negoci més gran de la companyia estatunidenca Skjodt-Barrett, centrat en la fabricació per a tercers d'aliments en l'anomenat format pouch , un tipus d'envàs de plàstic més flexible per contenir productes líquids o de textura gelatinosa. Segons ha detallat el grup en un comunicat, l'operació inclou la incorporació d'un complex industrial de 130.000 metres quadrats que acull una planta de producció de 50.000 metres quadrats a la ciutat de Lebanon, a l'estat d'Indiana.",
+      "url": "https://www.ara.cat/economia/alimentacio/l-empresa-reusenca-masergrup-compra-negoci-mes-gran-skjodt-barrett-duplicar-seva-presencia-mercat-nord-america_1_5894898.html",
+      "published": "2026-10-30T12:45:43+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/45b3ecda-cbfe-44d6-bb2d-6ce9c519dc51_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Tona-Martinenc, el duel per continuar en zona de play-off, en directe a betevé",
+      "excerpt": "La Tercera RFEF arriba a la vuitena jornada de la competició i ho fa amb un partit interessant que enfrontarà el Tona contra el Martinenc. El conjunt del Guinardó visita Osona amb la intenció de mantenir-se a la part alta de la classificació i continuar en places de play-off d’ascens. El partit es disputarà aquest […]",
+      "url": "https://beteve.cat/esports/tona-martinenc-8-tercera-rfef-directe/",
+      "published": "2026-10-30T12:40:40+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cartela-martinenc-previa-tona-2026-10-29.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Quins són els premis de la Grossa de Cap d’Any 2026? Això és el que pots guanyar amb el sorteig",
+      "excerpt": "Vol saber quins són els premis de la Grossa de Cap d’Any 2026? El sorteig de Loteries de Catalunya repartirà el dijous 31 de desembre milions d’euros en premis. Pots aconseguir fins a 200.000 € amb el primer premi del sorteig, però hi ha cinc grans premis en total! Tot seguit te’n donem tots els […]",
+      "url": "https://beteve.cat/economia/premis-grossa-cap-any/",
+      "published": "2026-10-30T12:30:45+01:00",
+      "category": "consum",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/04/grossa-sant-jordi-origen-110422.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "On cobrar els premis de la Grossa de Cap d’Any?",
+      "excerpt": "Què cal fer si et toca algun premi de la Grossa de Cap d’Any 2026? Si la sort et somriu en el sorteig del 31 de desembre, és el moment de descobrir com cobrar el teu premi de manera ràpida i segura. Aquí tens una guia per saber pas a pas on i com cobrar […]",
+      "url": "https://beteve.cat/economia/on-cobrar-premis-grossa-cap-any/",
+      "published": "2026-10-30T12:24:13+01:00",
+      "category": "consum",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/12/grossa-cap-any-311225.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Figueres lamenta la mort d’una veïna en la tragèdia ferroviària d’Urda",
+      "excerpt": "Andrea Olmos viatjava en el vagó 8 de l'AVE i residia a Madrid, però la seva família viu a la capital de l'Alt Empordà",
+      "url": "https://www.vilaweb.cat/noticies/figueres-lamenta-la-mort-duna-veina-en-la-tragedia-ferroviaria-durda/",
+      "published": "2026-10-30T12:21:08+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Del monstre al trauma: com ha evolucionat el terror a les sèries",
+      "excerpt": "El terror no sempre necessita un monstre que s'amagui a les fosques. De vegades n'hi ha prou amb una casa aparentment normal, una comunitat tancada o una família que arrossega secrets. Al llarg de les dècades, les sèries han explorat aquestes possibilitats i han convertit la por en un recurs per parlar tant del que desconeixem com del que ens resulta massa familiar. El gènere ha passat per històries de fantasmes, invasions extraterrestres, assassins i criatures sobrenaturals, però també ha trobat en el trauma, el…",
+      "url": "https://www.ara.cat/media/monstre-trauma-evolucionat-terror-series_130_5880755.html",
+      "published": "2026-10-30T12:20:36+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/56da2b0e-9f4d-43fa-85be-3e777a982003_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Què va fallar tècnicament en el xoc de trens de Toledo?",
+      "excerpt": "A grans trets, la seguretat ferroviària descansa en tres capes tècniques que sovint es confonen: el bloqueig, l’enclavament i la protecció. Després de l'accident d'Urda, a Toledo, convé explicar-les.",
+      "url": "https://www.ara.cat/media/fallar-tecnicament-xoc-trens-toledo_1_5894930.html",
+      "published": "2026-10-30T12:14:47+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c58e4d01-4217-4203-b370-71845932e71e_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Puente diu que no dimitirà per l’accident d’Urda i que no farà servir “cap treballador com a escut”",
+      "excerpt": "\"Em toca aportar explicacions clares i solucions\", ha dit sobre el seu paper després de la tragèdia",
+      "url": "https://www.vilaweb.cat/noticies/puente-diu-que-no-dimitira-per-laccident-durda-i-que-no-fara-servir-cap-treballador-com-a-escut/",
+      "published": "2026-10-30T12:12:39+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els accidents amb patinet elèctric causen el 10 % de les cirurgies facials a Vall d’Hebron",
+      "excerpt": "Un estudi realitzat pel servei de Cirurgia Plàstica i Cremats de l’Hospital Vall d’Hebron determina que un 10 % dels pacients que van necessitar d’una cirurgia facial —durant el període de quatre anys de la recerca (2020-2024)— havien tingut un accident de patinet elèctric. El doctor Bernat López-Masramon —qui ha liderat l’estudi juntament amb el […]",
+      "url": "https://beteve.cat/societat/accidents-patinet-electric-10-per-cent-cirurgies-facials/",
+      "published": "2026-10-30T12:05:29+01:00",
+      "category": "salut",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/10/patinets-electrics-041023.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer amb nens a Barcelona? Activitats i plans en família",
+      "excerpt": "Aquí trobaràs què fer amb nens a Barcelona, amb un munt d’activitats, plans i propostes pensats per als més petits de casa! A betevé ens encanta donar-te idees per fer en família, per a avui, demà, els pròxims dies i també el cap de setmana! N’hi ha un bon grapat: espectacles infantils, festes a l’aire […]",
+      "url": "https://beteve.cat/agenda/que-fer-amb-nens-a-barcelona/",
+      "published": "2026-10-30T12:01:48+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/01/que-fer-amb-nens-a-barcelona-txt-01-1920x1080-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els comerços del passeig de Gràcia es blinden per la convocatòria d’aldarulls de dissabte",
+      "excerpt": "Al centre de Barcelona s’hi respira aquest divendres un clima d’incertesa i preocupació per la convocatòria d’aldarulls prevista per a aquest dissabte. Els establiments dels principals eixos comercials, com el passeig de Gràcia i l’avinguda del Portal de l’Àngel, han decidit prendre mesures preventives per evitar situacions com les de la setmana passada, quan diversos […]",
+      "url": "https://beteve.cat/economia/comercos-passeig-gracia-blindats-por-aldarulls/",
+      "published": "2026-10-30T11:43:19+01:00",
+      "category": "comerç",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/comercos-blindats-2026-10-30.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
-      "title": "Creix la pressió sobre Puente i el PP en demana la dimissió després de l'accident de Toledo",
-      "excerpt": "El ministre de Transports va anunciar que compareixerà a la Diputació Permanent del Congrés però els populars demanen que ho faci Pedro Sánchez",
+      "title": "Puente no dimiteix perquè vol \"donar la cara\" i diu que no farà servir \"cap treballador com a escut\"",
+      "excerpt": "El ministre de Transports va anunciar que compareixerà a la Diputació Permanent del Congrés, però els populars demanen que ho faci Pedro Sánchez",
       "url": "https://www.3cat.cat/3catinfo/creix-la-pressio-sobre-puente-i-el-pp-en-demana-la-dimissio-despres-de-laccident-de-toledo/noticia/3436974/",
       "published": "2026-10-30T11:37:46+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/6/1793349620060.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/7/1793360228371.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -226,7 +376,7 @@
     },
     {
       "source": "betevé",
-      "title": "Els comerciants criden a la calma per possibles aldarulls dissabte: “Ho encarem amb normalitat”",
+      "title": "Entitats de comerciants criden a la calma per possibles aldarulls: “Ho encarem amb normalitat”",
       "excerpt": "Els comerciants, sobretot del centre de Barcelona i de Creu Coberta, es preparen per a una possible nova mobilització per a aquest dissabte, 31 d’octubre. Després dels aldarulls de dissabte passat i de les dues “convocatòries fantasma” de dilluns i dimarts a Creu Coberta, els botiguers fan una crida a mantenir la calma. En declaracions […]",
       "url": "https://beteve.cat/economia/crida-calma-comerciants-possibles-aldarulls-dissabte/",
       "published": "2026-10-30T10:36:33+01:00",
@@ -347,11 +497,11 @@
     {
       "source": "ARA",
       "title": "Ucraïna desafia Trump i torna a atacar el petroli rus",
-      "excerpt": "Ucraïna ha tornat a atacar el petroli rus malgrat les pressions del president dels EUA, Donald Trump, perquè aturi uns atacs que considera que estan fent augmentar el preu del dièsel. Kíiv ha llançat la matinada d'aquest divendres un atac amb drons contra la refineria de petroli de Novokúibixevsk, al sud-oest de Rússia, que produeix combustible per a l'exèrcit rus. Abans de l'atac, les autoritats locals han llançat una alarma per drons i han tancat l'aeroport.",
+      "excerpt": "Ucraïna ha tornat a atacar el petroli rus malgrat les pressions del president dels EUA, Donald Trump, perquè aturi uns atacs que considera que fan augmentar el preu del dièsel. Kíiv ha llançat aquest divendres a la matinada un atac amb drons contra la refineria de petroli de Novokúibixevsk, al sud-oest de Rússia, que produeix combustible per a l'exèrcit rus. Abans de l'atac, les autoritats locals han llançat una alarma per drons i han tancat l'aeroport.",
       "url": "https://www.ara.cat/internacional/europa/ucraina-desafia-trump-torna-atacar-petroli-rus_1_5894713.html",
       "published": "2026-10-30T09:08:08+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/9d6d8a03-6775-4959-a817-4f85dab74130_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/9d6d8a03-6775-4959-a817-4f85dab74130_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
