@@ -117,6 +117,22 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió del cap de setmana: dels núvols baixos abundants al cel més assolellat",
+      "excerpt": "Acabem l'octubre i comencem el novembre amb estabilitat i temperatura adient per a l'època",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/",
+      "published": "2026-10-30T09:45:43+01:00",
+      "updated": "2026-10-30T22:26:42+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/9/1793395573399.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433636/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "La vaga general a Itàlia mobilitza desenes de milers de persones contra l'encariment de la vida",
       "excerpt": "A diverses ciutats hi ha hagut càrregues policials, enmig de l'onada de mobilitzacions que viu el país protagonitzades sobretot per sindicats i estudiants",
@@ -174,22 +190,6 @@
       "published": "2026-10-30T19:07:09+01:00",
       "category": "economia",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/protesta-habitatge-public-2026-10-30.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió del cap de setmana: dels núvols baixos abundants al cel més assolellat",
-      "excerpt": "Acabem l'octubre i comencem el novembre amb estabilitat i temperatura adient per a l'època",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/",
-      "published": "2026-10-30T09:45:43+01:00",
-      "updated": "2026-10-30T18:50:43+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/4/1793382268046.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433593/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -381,6 +381,36 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "La inspiració de Joel Parra catapulta el Barça",
+      "excerpt": "El Barça d'Aleksander Sekulic li té la mida presa al València de Xavi Albert (98-94). El conjunt blaugrana, impulsat pel Palau i pels triples decisius de Joel Parra -quatre de consecutius al tercer quart- va signar un lluitat tercer triomf seguit davant un rival que va trobar a faltar un vell conegut: Nikola Mirotic.",
+      "url": "https://www.ara.cat/esports/basquet/inspiracio-joel-parra-catapulta-barca_1_5895697.html",
+      "published": "2026-10-30T22:37:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7488bab5-5203-47ed-a331-c458d00d5092_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Blocus: Catalunya, en alerta per un fenomen inclassificable",
+      "excerpt": "Diu molt de com és de nou un moviment social que ara mateix no es pugui classificar. Ni tan sols que se li pugui dir moviment, ni que sigui social. Els Mossos d'Esquadra parlen de Blocus com un fenomen. El van descobrir a principis de la setmana passada, poc abans d'uns aldarulls que van superar les seves expectatives de violència. Des de dissabte, els estan analitzant a fons: el perfil dels detinguts, els usuaris que incitaven aquests grups, els comptes que convocaven noves protestes... I…",
+      "url": "https://www.ara.cat/societat/successos/blocus-catalunya-alerta-fenomen-inclassificable_1_5895402.html",
+      "published": "2026-10-30T22:20:33+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f7db4c4b-82ab-4220-aa3b-64d7d296ac70_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sobre Ramon Esquerra, crític literari mort al front (2006)",
+      "excerpt": "Del pedagog i crític literari Joan Triadú (Ribes de Freser, 1921 - Barcelona, 2010) a l’ Avui (1-XI-2006) sobre la reedició de Lectures europees (l’Albí, 2006), antologia del també professor i crític literari Ramon Esquerra (Barcelona, 1909 - front de l’Ebre, 1938). Aquest diumenge fa vint anys que sortia aquest article reivindicatiu d’un talent malaguanyat a les trinxeres agòniques que protegien la rereguarda catalana.",
+      "url": "https://www.ara.cat/opinio/ramon-esquerra-critic-literari-mort-front-2006_129_5883900.html",
+      "published": "2026-10-30T22:00:37+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/defb2449-7788-4d68-9433-27cabfa6d793_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "S’ha mort Carles Dolç, urbanista, referent polític i fill predilecte de la ciutat de València",
       "excerpt": "Va dedicar la seua vida a treballar amb els moviments socials de la ciutat per conservar i mantenir espais de referència amenaçats pel poder · Va ser un dels dirigents del Moviment Comunista del País Valencià",
@@ -488,12 +518,12 @@
       "published": "2026-10-30T20:14:59+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/1/8/1793384931681.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433388/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/quan-el-crim-organitzat-entra-a-lhospital/noticia/3437022/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -1483,7 +1513,7 @@
     {
       "source": "ARA",
       "title": "D'un menor modèlic a un líder autoproclamat: degoteig de detencions per Blocus",
-      "excerpt": "\"No estic ni a Espanya ni a Europa\", deia enigmàtic aquesta setmana en un vídeo el principal administrador d'un grup de Telegram amb 1.500 persones que convocava una nova manifestació de l'estil Blocus, aquest dissabte a Barcelona. Es feia dir Fuck A.E.A.T (en referència a l'Agència Tributària) i intentava captar jovent per anar a la protesta. \"Dijous farem un grup filtrat per aquells que realment vulguin venir\", avisava aquest dilluns al canal. La realitat és que poques hores després van tancar aquest grup (i tres…",
+      "excerpt": "\"No estic ni a Espanya ni a Europa\", deia enigmàtic aquesta setmana en un vídeo el principal administrador d’un grup de Telegram amb 1.500 persones que convocava per a avui una nova manifestació de l’estil Blocus a a Barcelona. Es feia dir Fuck A.E.A.T (en referència a l’Agència Tributària) i intentava captar jovent per anar a la protesta. \"Dijous farem un grup filtrat per aquells que realment vulguin venir\", avisava dilluns al canal. La realitat és que poques hores després van tancar aquest grup (…",
       "url": "https://www.ara.cat/societat/successos/menor-detingut-incitat-aldarulls-blocus-barcelona_1_5894853.html",
       "published": "2026-10-30T09:54:03+01:00",
       "category": "Actualitat",
