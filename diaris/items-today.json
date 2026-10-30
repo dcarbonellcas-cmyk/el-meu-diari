@@ -52,6 +52,36 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo",
+      "title": "El debat de la seguretat a l'alta velocitat: de la caiguda de l'LZB a l'error al centre de control",
+      "excerpt": "El sistema de seguretat LZB ha fallat 170 vegades aquest any, però l'alternativa no és prou potent per evitar errors humans com el que va provocar l'accident a Toledo",
+      "url": "https://www.3cat.cat/3catinfo/el-debat-de-la-seguretat-a-lalta-velocitat-de-la-caiguda-de-llzb-a-lerror-al-centre-de-control/noticia/3436964/",
+      "published": "2026-10-30T15:03:15+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/5/1793343481152.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Digitalització, convivència i habitatge",
+      "excerpt": "Aquest episodi del pòdcast Tocar sostre aborda la relació entre digitalització, convivència i habitatge, i com la transformació digital influeix en la nostra manera de viure i de relacionar-nos. Hi participen l’advocada i professora universitària Eugènia Revilla , l’arqueòleg i expert en cultura i transformació digital Genís Roca i l’arquitecta i cofundadora de 300.000 km/s Mar Santamaria . Modera el periodista Gerard Pruna , responsable de l’àrea de Barcelona del diari ARA.",
+      "url": "https://www.ara.cat/podcasts/tocar-sostre/digitalitzacio-convivencia-habitatge_1_5895059.html",
+      "published": "2026-10-30T14:54:47+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9e408330-b20f-4a8a-98f1-7f4a552ce36f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El govern espanyol estudia tallar l'alta velocitat Barcelona-Madrid durant les obres de renovació",
+      "excerpt": "El ministre Óscar Puente argumenta que Alemanya sol paralitzar el servei durant els treballs de millora, mentre que a Espanya es manté la circulació",
+      "url": "https://www.3cat.cat/3catinfo/el-govern-espanyol-estudia-tallar-lalta-velocitat-barcelona-madrid-durant-les-obres-de-renovacio/noticia/3437054/",
+      "published": "2026-10-30T14:41:52+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/6/1769680864269.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "El volcà Mayon de les Filipines entra en erupció",
       "excerpt": "El núvol de cendra ha pujat fins a uns 3.000 metres",
@@ -80,6 +110,16 @@
       "published": "2026-10-30T12:44:30+01:00",
       "category": "Societat",
       "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Com funciona la tecnologia al darrere de la seguretat dels trens?",
+      "excerpt": "A grans trets, la seguretat ferroviària descansa en tres capes tècniques que sovint es confonen: el bloqueig, l’enclavament i la protecció. Després de l'accident d'Urda, a Toledo, convé explicar-les.",
+      "url": "https://www.ara.cat/media/fallar-tecnicament-xoc-trens-toledo_1_5894930.html",
+      "published": "2026-10-30T12:14:47+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c58e4d01-4217-4203-b370-71845932e71e_source-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -186,6 +226,91 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-749/",
+      "published": "2026-10-30T14:58:27+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "On són els ocells i cap on van? Un nou visor permet seguir-ne els moviments en temps real",
+      "excerpt": "El visor Euro Bird Portal és un pioner i únic al món i està coordinat des de Catalunya",
+      "url": "https://www.3cat.cat/3catinfo/on-son-els-ocells-i-cap-on-van-un-nou-visor-permet-seguir-ne-els-moviments-en-temps-real/noticia/3428029/",
+      "published": "2026-10-30T14:51:23+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/3/1663926412038.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433536/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/on-son-els-ocells-i-cap-on-van-un-nou-visor-permet-seguir-ne-els-moviments-en-temps-real/noticia/3428029/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "L'enginyeria invisible del carrer",
+      "excerpt": "Quan l’asfalt arriba a temperatures extremes a l’estiu o quan les borrasques de tardor inunden la calçada, la mobilitat sostenible afronta un repte d’infraestructura i hàbits. En un carrer inhòspit, sense ombra, o en un carrer molt mullat i relliscós, el vianant tendeix a rebutjar els desplaçaments a peu i l’ús de la bicicleta i el patinet tendeix molt a la baixa, per no dir que es desploma.",
+      "url": "https://www.ara.cat/especials/mobilitat/l-enginyeria-invisible-carrer_1_5892488.html",
+      "published": "2026-10-30T14:39:12+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/03a346b9-5862-4976-af02-5f1e7ffdb665_source-aspect-ratio_default_0_x1416y638.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Digue'm quina moto tens i et diré quin casc portes\"",
+      "excerpt": "En la memòria col·lectiva dels que van recórrer les ciutats durant la dècada dels noranta encara ressona aquella campanya de la Direcció General de Trànsit a la televisió que, sota el lema \" Ponte el casco \", intentaven convèncer una generació de motoristes de la importància de portar casc durant els seus trajectes.",
+      "url": "https://www.ara.cat/especials/mobilitat/digue-m-quina-moto-tens-et-dire-quin-casc-portes_1_5891934.html",
+      "published": "2026-10-30T14:37:26+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c6db9eb5-e030-418d-b636-63151784f865_source-aspect-ratio_default_0_x2895y1039.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Barcelona reorienta el model de recàrrega elèctrica",
+      "excerpt": "El desplegament de la mobilitat elèctrica a Barcelona ha entrat en una segona fase en què la quantitat de punts d'endoll ja no és l'únic indicador de progressió. A Barcelona la transició ha assolit una maduresa que obliga a repensar l'arquitectura d’aquest servei públic.",
+      "url": "https://www.ara.cat/especials/mobilitat/barcelona-reorienta-model-recarrega-electrica_1_5889024.html",
+      "published": "2026-10-30T14:34:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/02049a17-68ee-4a63-a49c-25379707a35d_source-aspect-ratio_default_0_x1534y1062.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’AVE d’Urda va rebre l’ordre de continuar malgrat haver advertit que detectava la via ocupada",
+      "excerpt": "El maquinista va informar del codi \"meta 0\", que indica que el tren s’ha d’aturar, però Atocha li va ordenar de reprendre la marxa",
+      "url": "https://www.vilaweb.cat/noticies/ave-urda-ordre-ocupada/",
+      "published": "2026-10-30T14:22:45+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Un detingut per haver estafat més de 124.000 euros a un convent de monges de Barcelona",
+      "excerpt": "L'home s'hauria presentat com un proveïdor de matèries primeres per a l'obrador del convent i hauria demanat diners a les monges per pagar uns suposats impostos",
+      "url": "https://www.3cat.cat/3catinfo/un-detingut-per-haver-estafat-mes-de-124000-euros-a-un-convent-de-monges-de-barcelona/noticia/3437002/",
+      "published": "2026-10-30T14:20:54+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/4/1/1772015907114.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Exposicions a Barcelona: la teva agenda de museus",
+      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
+      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
+      "published": "2026-10-30T14:08:39+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "El madridista de mal record que amenaça el Barça de Flick",
       "excerpt": "Mariano Díaz (Premià de Mar, 33 anys) ha tornat a trobar el seu lloc al futbol d'elit. Després d'anys marcats per les lesions, la falta de minuts i una trajectòria marcada per la irregularitat, el davanter de l'Alabès ha recuperat el protagonisme a Vitòria. El club estava obert a una possible sortida a l'estiu, però Mariano no va voler marxar. Uns mesos després, l'internacional per la República Dominicana acumula tres gols i quatre assistències aquest inici de campionat.",
@@ -193,6 +318,16 @@
       "published": "2026-10-30T14:00:26+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/7479bd5a-c27d-44bb-96c8-572c6f4b43be_source-aspect-ratio_default_0_x2422y855.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "L'euríbor tanca l'octubre al 3,24% i les hipoteques es continuaran encarint",
+      "excerpt": "L'indicador baixa lleugerament després de quatre mesos de tendència a l'alça, que el situaven en màxims des de l'agost del 2025",
+      "url": "https://www.3cat.cat/3catinfo/leuribor-tanca-loctubre-al-3-24-i-les-hipoteques-es-continuaran-encarint/noticia/3437013/",
+      "published": "2026-10-30T13:43:35+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/0/1700239282507.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -208,7 +343,7 @@
     {
       "source": "VilaWeb",
       "title": "El Consell demana la dimissió del ministre Puente, però es desentén dels casos del metro de València i la gota freda",
-      "excerpt": "Miguel Barrachina ha dit que són casos diferents i que els tribunals han donat la raó a la Generalitat",
+      "excerpt": "Miguel Barrachina ha dit que eren casos diferents i que els tribunals havien donat la raó a la Generalitat",
       "url": "https://www.vilaweb.cat/noticies/el-consell-demana-la-dimissio-del-ministre-puente-pero-es-desenten-dels-casos-del-metro-de-valencia-i-la-gota-freda/",
       "published": "2026-10-30T13:39:04+01:00",
       "category": "País Valencià",
@@ -406,16 +541,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "ARA",
-      "title": "Què va fallar tècnicament en el xoc de trens de Toledo?",
-      "excerpt": "A grans trets, la seguretat ferroviària descansa en tres capes tècniques que sovint es confonen: el bloqueig, l’enclavament i la protecció. Després de l'accident d'Urda, a Toledo, convé explicar-les.",
-      "url": "https://www.ara.cat/media/fallar-tecnicament-xoc-trens-toledo_1_5894930.html",
-      "published": "2026-10-30T12:14:47+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/c58e4d01-4217-4203-b370-71845932e71e_source-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "VilaWeb",
       "title": "Puente diu que no dimitirà per l’accident d’Urda i que no farà servir “cap treballador com a escut”",
       "excerpt": "\"Em toca aportar explicacions clares i solucions\", ha dit sobre el seu paper després de la tragèdia",
@@ -478,7 +603,7 @@
     {
       "source": "3CatInfo",
       "title": "Puente no dimiteix perquè vol \"donar la cara\" i diu que no farà servir \"cap treballador com a escut\"",
-      "excerpt": "Feijóo diu que Sánchez s'amaga darrera del \"fusible Puente\" i adverteix: \"Si no dimiteixen ells, els dimitirem a les urnes\"",
+      "excerpt": "Feijóo creu que Sánchez s'amaga darrera del \"fusible Puente\" i adverteix: \"Si no dimiteixen ells, els dimitirem a les urnes\"",
       "url": "https://www.3cat.cat/3catinfo/creix-la-pressio-sobre-puente-i-el-pp-en-demana-la-dimissio-despres-de-laccident-de-toledo/noticia/3436974/",
       "published": "2026-10-30T11:37:46+01:00",
       "category": "Actualitat",
@@ -648,11 +773,11 @@
     {
       "source": "ARA",
       "title": "Degoteig de detencions d'agitadors de Blocus, entre ells el que es proclamava líder del moviment",
-      "excerpt": "La policia està començant a posar noms i cognoms als perfils més actius en canals de Telegram que incitaven a fer aldarulls aquest dissabte passat a Barcelona. Els Mossos d'Esquadra ja han detingut dos joves, un menor de 17 anys i un altre de 18 anys, per coordinar i fer d'agitadors en el principal grup que va convocar els saquejos a plaça Catalunya. El primer arrestat va ser aquest dijous a la nit a Sant Sadurní d'Anoia i aquest divendres al matí han emmanillat el…",
+      "excerpt": "La policia està començant a posar noms i cognoms als perfils més actius en canals de Telegram que incitaven a fer aldarulls dissabte passat a Barcelona. Els Mossos d'Esquadra ja han detingut dos joves, un menor de 17 anys i un altre de 18 anys, per coordinar i fer d'agitadors en el principal grup que va convocar els saquejos a plaça Catalunya. El primer arrest es va produir dijous a la nit a Sant Sadurní d'Anoia i aquest divendres al matí han emmanillat el segon…",
       "url": "https://www.ara.cat/societat/successos/menor-detingut-incitat-aldarulls-blocus-barcelona_1_5894853.html",
       "published": "2026-10-30T09:54:03+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/8c7a961d-baba-4d9a-b339-8587838e60d1_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/8c7a961d-baba-4d9a-b339-8587838e60d1_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
