@@ -1,6 +1,21 @@
 {
   "editions": [
     {
+      "date": "2026-10-31",
+      "updatedAt": "2026-10-31T00:46:35.975432+01:00",
+      "pdf": "diaris/arxiu/2026-10-31/00-46-35-975432.pdf",
+      "count": 1,
+      "sources": [
+        "3CatInfo",
+        "VilaWeb",
+        "ARA",
+        "betevé",
+        "3CatInfo · El temps"
+      ],
+      "unavailableSources": [],
+      "fingerprint": "737d8a3822b982c7c1126c99bc8a448fbcb38d98747f6cb559aa298bdb83c05b"
+    },
+    {
       "date": "2026-10-30",
       "updatedAt": "2026-10-30T23:49:03.546934+01:00",
       "pdf": "diaris/arxiu/2026-10-30/23-49-03-546934.pdf",
@@ -14,261 +29,6 @@
       ],
       "unavailableSources": [],
       "fingerprint": "cd7f1c0fac9f2a00ae4de6c2cf5f14493a22959bf1ca28d15a2cf403c1ad9cc2"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T22:48:33.346150+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/22-48-33-346150.pdf",
-      "count": 176,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "61af11a833c1eed8215a61afcd282114b5dba6d5b2cad8601f56949ffb3ab84d"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T21:52:20.040050+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/21-52-20-040050.pdf",
-      "count": 173,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "2a73d1e7254b429c67a4494d1d4a16363e3a7fcae732a3c3d323df27b7607fce"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T20:54:30.168023+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/20-54-30-168023.pdf",
-      "count": 165,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "b3fa17b08a1563d85df18738a0d6d0590d79db3514a158aae6de0778f3b8a997"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T19:57:43.442770+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/19-57-43-442770.pdf",
-      "count": 156,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "04cc6d5075b3cc8fb1b8580f42bd1ff33e634b076ed8282eeaaf91b672c04805"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T19:00:10.285762+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/19-00-10-285762.pdf",
-      "count": 137,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "2d8052f629d335e65e2772355f1bf95abb0c7f1c80c613ff028528fe7fd2e501"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T17:56:28.843089+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/17-56-28-843089.pdf",
-      "count": 131,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "e92509c44cf4c0a0ddc3415b87980139ce7ae0ac0734149156df7bc3b676d3a1"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T16:59:11.391199+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/16-59-11-391199.pdf",
-      "count": 121,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "47c54594ab33ee18ad52aac434c8c1445204bc93cf3455d77bcbf8a33e246655"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T16:04:57.792253+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/16-04-57-792253.pdf",
-      "count": 115,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "3dd10a2428192f76622dfcc86fe53ee50dad6ddebb8742d57f0aff7b4ae6f1ad"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T15:09:32.897547+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/15-09-32-897547.pdf",
-      "count": 104,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "36bd5ffef5d3a21e0093370ac6cc519e7f3f5f3770a3b15bf02fcfe9c00614b4"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T14:06:53.740491+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/14-06-53-740491.pdf",
-      "count": 92,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "d6b1be4c7013a4d45a0986eb73e7e84bfcc8b3975dc628f079cabac8b5312af1"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T12:53:04.769494+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/12-53-04-769494.pdf",
-      "count": 72,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "8d87925ccd7346cde1c3f7567f2c98775d969915522ac25df4e5c067b5089b50"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T11:55:28.544911+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/11-55-28-544911.pdf",
-      "count": 57,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "21721f9c8c69ec1034c223de30349515889253eae74a5464bb7de25d7510154f"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T11:00:12.771891+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/11-00-12-771891.pdf",
-      "count": 47,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "6d141a1d2c9660a11439c945af625fa5c642d504346238c81debaa665462c0bd"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T10:02:43.148846+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/10-02-43-148846.pdf",
-      "count": 37,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "0525401c52f991bd00d2ff3b630d7a953990e42d2a09996472e2733ef8ab779e"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T09:11:12.221307+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/09-11-12-221307.pdf",
-      "count": 27,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "431879193a4a33239303ddbecb0aa02057cb9d3c406c66ff9ec91dd4a0a1a082"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T08:09:14.617928+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/08-09-14-617928.pdf",
-      "count": 21,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "fd804d1633e23d224e8d697d3b99d36486c6bc75561c9c004d26e267e0611c21"
-    },
-    {
-      "date": "2026-10-30",
-      "updatedAt": "2026-10-30T06:55:22.610906+01:00",
-      "pdf": "diaris/arxiu/2026-10-30/06-55-22-610906.pdf",
-      "count": 1,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "da04859905ca68a88858b318202214acd58f45cbfee273a9107545a6d4f99ae7"
     },
     {
       "date": "2026-10-29",
