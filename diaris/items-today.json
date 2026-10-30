@@ -2,6 +2,16 @@
   "date": "2026-10-30",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "García-Page no descarta que hi hagi més víctimes mortals: “Hi ha trenta-una bosses amb restes parcials”",
+      "excerpt": "El president manxec assegura que s'ha rebaixat el nivell d'emergència",
+      "url": "https://www.vilaweb.cat/noticies/garcia-page-no-descarta-que-hi-hagi-mes-victimes-mortals-hi-ha-trenta-una-bosses-amb-restes-parcials/",
+      "published": "2026-10-30T10:52:38+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "L'estratègia de Vox per treure rendiment de les víctimes de les tragèdies",
       "excerpt": "L'accident de tren d'Urda d'aquest dimecres, el sinistre del gener a Adamuz, la crisi de Ceuta, la dana al País Valencià, la pandèmia de la covid-19 o fins i tot els incendis estivals. Centenars de morts acumulats que Vox no ha dubtat a fer servir com a arma política contra el govern espanyol. De fet, la formació d'extrema dreta liderada per Santiago Abascal dibuixa una Espanya apocalíptica presidida per Pedro Sánchez, que \"provoca\" o \"agreuja\" les grans crisis, entre altres coses perquè és, a parer…",
@@ -10,6 +20,16 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/18f10e76-fe52-4067-ad45-ca0346f66833_source-aspect-ratio_default_0.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "betevé",
+      "title": "Detenen un menor vinculat als canals de Blocus relacionats amb els aldarulls del 24 d’octubre",
+      "excerpt": "Els Mossos d’Esquadra han detingut la nit de dijous, 29 d’octubre, un menor de 17 anys per la seva relació amb l’organització i coordinació dels actes vandàlics a la ciutat de Barcelona del passat 24 d’octubre, mitjançant els canals de comunicació de BLOCUS. Difusor i participant actiu a les converses La detenció s’ha produït a […]",
+      "url": "https://beteve.cat/societat/detenen-menor-vinculat-canals-blocus-aldarulls-barcelona/",
+      "published": "2026-10-30T09:58:30+01:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/11/detencio-mossos-200323.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo · El temps",
@@ -25,6 +45,16 @@
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/"
       },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "La inflació es manté en el 4,9 % a l’octubre a l’estat espanyol, segons la dada avançada",
+      "excerpt": "(ACN) La inflació s’ha situat en el 4,9 % interanual a l’octubre a l’estat espanyol, segons l’indicador avançat actualitzat aquest divendres per l’Institut Nacional d’Estadística (INE). Si es confirma la dada, l’índex de preus al consum (IPC) es mantindria en el mateix nivell que el setembre, quan l’indicador va patir la variació més elevada des […]",
+      "url": "https://beteve.cat/economia/inflacio-mante-4-9-per-cent-octubre-dada-avancada/",
+      "published": "2026-10-30T09:46:27+01:00",
+      "category": "consum",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/preus-inflacio-diners-2026-10-30.jpg",
       "priority": "2 · Important"
     },
     {
@@ -95,9 +125,79 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Sabies què… Com és un equidna?",
+      "excerpt": "Aquesta setmana, al Sabies què…?, descobrim un dels animals més curiosos del planeta: l’equidna.Viu a Austràlia i a l’illa de Nova Guinea, i està completament cobert de punxes, com un eriçó. De fet, l’equidna és un animal ple de paradoxes: és un mamífer, però pon ous.La femella pon un únic ou i el guarda dins […]",
+      "url": "https://beteve.cat/catakrac/com-es-equidna/",
+      "published": "2026-10-30T10:52:05+01:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/equidna-ia-catakrac-2026-10-30.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els comerciants criden a la calma per possibles aldarulls dissabte: “ho encarem amb normalitat”",
+      "excerpt": "Els comerciants, sobretot del centre de Barcelona i de Creu Coberta, es preparen per a una possible nova mobilització per aquest dissabte 31 d’octubre. Després dels aldarulls de dissabte passat i de les dues “convocatòries fantasma” de dilluns i dimarts a Creu Coberta, els botiguers fan una crida a mantenir la calma. En declaracions al […]",
+      "url": "https://beteve.cat/economia/crida-calma-comerciants-possibles-aldarulls-dissabte/",
+      "published": "2026-10-30T10:36:33+01:00",
+      "category": "comerç",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/desperfectes-botigues-diumenge-1-2026-10-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "15 anys del Catakrac: quan fèiem manualitats per la Castanyada",
+      "excerpt": "Aquesta setmana, al Calaix dels 15 anys del Catakrac, recuperem una peça molt especial de la Castanyada del 2015 al Centre Cívic Fort Pienc. Viatgem fins a un taller en què els infants aprenien a decorar paperines per guardar-hi les castanyes. Amb cartolines, colors, adhesius i molta imaginació, cadascú creava una paperina única i personalitzada. […]",
+      "url": "https://beteve.cat/catakrac/manualitats-castanyada-fort-pienc/",
+      "published": "2026-10-30T10:34:43+01:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/castanyada-15-anys-catakrac-2026-10-30.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El PP endureix el to i demana la dimissió de Puente per l’accident d’Urda",
+      "excerpt": "\"Si no dimiteix, hauria de ser destituït\", ha dit la portaveu del PP, Ester Muñoz",
+      "url": "https://www.vilaweb.cat/noticies/el-pp-demana-la-dimissio-de-puente-per-laccident-durda/",
+      "published": "2026-10-30T10:29:32+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Detenen un segon menor vinculat a Blocus, a qui acusen d'organitzar els aldarulls a Barcelona",
+      "excerpt": "Dijous els Mossos van detenir un altre menor a Bellmunt d'Urgell acusat d'incitar a la violència en nom de Blocus",
+      "url": "https://www.3cat.cat/3catinfo/detenen-un-segon-menor-vinculat-a-blocus-a-qui-acusen-dorganitzar-els-aldarulls-a-barcelona/noticia/3436976/",
+      "published": "2026-10-30T10:23:36+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/3/1792869229938.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El primer informe de l'accident a Toledo diu que l'AVE anava entre 160 i 200 km/h quan va xocar",
+      "excerpt": "Detalla que el sistema de seguretat automàtic LZB va fallar a les 8.31 i l'impacte va ser a les 8.53, però no detalla les converses entre els maquinistes i el centre de control ni quants quilòmetres va recórrer l'AVE abans d'envestir l'Iryo",
+      "url": "https://www.3cat.cat/3catinfo/el-primer-informe-de-laccident-a-toledo-diu-que-lave-anava-entre-160-i-200-kmh-quan-va-xocar/noticia/3436966/",
+      "published": "2026-10-30T10:11:20+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/5/1793351140155.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
-      "title": "Primer menor detingut per haver incitat els aldarulls de Blocus a Barcelona",
-      "excerpt": "Segona detenció en poques hora per Blocus a Catalunya . Els Mossos d'Esquadra han arrestat un noi de 17 anys per organitzar i coordinar els actes vandàlics que van tenir lloc a Barcelona dissabte passat. Concretament, se l'acusa de tenir un rol actiu en un canal de missatgera instantània que es va fer servir per organitzar els aldarulls.",
+      "title": "Ningú no va encertar la segona pregunta",
+      "excerpt": "Fa uns dies, en una conferència sobre gènere i ciència, vaig plantejar al públic dues preguntes d'un qüestionari que havia publicat la revista Nature . Quin percentatge dels Nobel científics ha anat a dones des del 1901? Tothom ho va encertar, un 4% (només 27 dels 660 Nobels de física, química i medicina). I en la darrera dècada? Ningú no ho va encertar, perquè tothom va apostar per xifres més altes. És un 12%, 9 dones entre 78 premiats. Tenim ben apresa la injustícia del…",
+      "url": "https://www.ara.cat/opinio/ningu-no-encertar-segona-pregunta_129_5894118.html",
+      "published": "2026-10-30T10:04:37+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1a572b0f-2a40-4a30-8c8e-284a11aea043_16-9-aspect-ratio_default_1049285.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Primer menor detingut per haver incitat als aldarulls de Blocus a Barcelona",
+      "excerpt": "Segona detenció en poques hores per Blocus a Catalunya . Els Mossos d'Esquadra han arrestat un noi de 17 anys per haver organitzat i coordinat els actes vandàlics que van tenir lloc a Barcelona dissabte passat. Concretament, se l'acusa de tenir un rol actiu en un canal de missatgera instantània que es va fer servir per organitzar els aldarulls.",
       "url": "https://www.ara.cat/societat/successos/menor-detingut-incitat-aldarulls-blocus-barcelona_1_5894853.html",
       "published": "2026-10-30T09:54:03+01:00",
       "category": "Actualitat",
@@ -117,7 +217,7 @@
     {
       "source": "ARA",
       "title": "'Nóvaia Gazeta', l’últim diari opositor de Rússia, tanca per la pressió del Kremlin: \"Ens han matat\"",
-      "excerpt": "Nóvaia Gazeta, l’últim diari opositor que encara operava dins de Rússia, ha anunciat la fi de la seva activitat per la pressió de les autoritats. En les últimes hores, els treballadors han estat desnonats de la seva seu al centre de Moscou i els han tallat totes les vies de finançament. És per això que, en un comunicat, la redacció ha explicat que no els queda més remei que abaixar la persiana definitivament el 9 de novembre.",
+      "excerpt": "“Ens han matat.” Així arrenca el comunicat de Nóvaia Gazeta , l’últim diari opositor que encara opera dins de Rússia, en què anuncia la fi de la seva activitat per la persecució de les autoritats. En les últimes hores, els treballadors han estat desnonats de la seva seu al centre de Moscou i els han tallat totes les vies de finançament. És per això que la redacció ha explicat que no els queda més remei que abaixar la persiana definitivament el 9 de novembre, després…",
       "url": "https://www.ara.cat/internacional/russia/novaia-gazeta-l-ultim-diari-opositor-russia-tanca-pressio-kremlin-han-matat_1_5894852.html",
       "published": "2026-10-30T09:44:02+01:00",
       "category": "Actualitat",
@@ -127,7 +227,7 @@
     {
       "source": "VilaWeb",
       "title": "Els Mossos detenen un menor per l’organització i coordinació de Blocus Barcelona",
-      "excerpt": "El jove hauria participat en un grup de missatgeria en què es coordinaven saqueigs, es proposaven objectius i es donaven instruccions",
+      "excerpt": "El jove va participar suposadament en un grup de missatgeria en què es coordinaven saqueigs, es proposaven objectius i es donaven instruccions",
       "url": "https://www.vilaweb.cat/noticies/els-mossos-detenen-un-menor-per-lorganitzacio-i-coordinacio-de-blocus-barcelona/",
       "published": "2026-10-30T09:38:30+01:00",
       "category": "Societat",
@@ -186,7 +286,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Retards a la R2 una volta tres trens no han començat el servei per “gestió operativa”",
+      "title": "Retards a la R2: tres trens no han començat el servei per “gestió operativa”",
       "excerpt": "La R1 i la RG1 funcionen amb normalitat després del tall entre Malgrat i Blanes per un atropellament",
       "url": "https://www.vilaweb.cat/noticies/retards-a-la-r2-una-volta-tres-trens-no-han-comencat-el-servei-per-gestio-operativa/",
       "published": "2026-10-30T08:41:38+01:00",
@@ -341,7 +441,7 @@
       "url": "https://mengem.ara.cat/vins-caves/quatre-elaboradores-vins-quals-tothom-parlara-entusiasmen-l-enologa-sara-perez_1_5892895.html",
       "published": "2026-10-30T07:00:44+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/20ca2bf5-41f5-419b-a65a-8e85c719cdb3_16-9-aspect-ratio_default_0.png",
+      "image": "https://static1.ara.cat/clip/20ca2bf5-41f5-419b-a65a-8e85c719cdb3_source-aspect-ratio_default_0.png",
       "priority": "3 · Altres notícies"
     },
     {
