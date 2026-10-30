@@ -8,7 +8,7 @@
       "url": "https://www.ara.cat/politica/eleccions-generals/l-estrategia-vox-treure-rendiment-victimes-tragedies_1_5894139.html",
       "published": "2026-10-30T07:00:46+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/18f10e76-fe52-4067-ad45-ca0346f66833_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/18f10e76-fe52-4067-ad45-ca0346f66833_source-aspect-ratio_default_0.jpg",
       "priority": "1 · Urgent"
     },
     {
@@ -49,8 +49,68 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "“Ens han matat”: el diari opositor rus Nóvaia Gazeta anuncia el tancament definitiu",
+      "excerpt": "El mitjà, conegut per les investigacions sobre la corrupció, deixarà de funcionar el 9 de novembre després de més de trenta anys d’activitat",
+      "url": "https://www.vilaweb.cat/noticies/ens-han-matat-diari-opositor-novaia-gazeta-tancament/",
+      "published": "2026-10-30T08:58:18+01:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
-      "title": "Binance pateix un ciberatac amb un impacte estimat de 6.300 milions de dòlars",
+      "title": "El misteri d’Agatha Christie que va més enllà dels seus crims",
+      "excerpt": "Un misteri embolicat en un enigma, potser? En la darrera entrevista que li van fer, el 1974, per a l'arxiu sonor de l' Imperial War Museum sobre els seus records com a infermera voluntària durant la Primera Guerra Mundial, Agatha Christie va respondre que li agradaria que la recordessin \"com a una bona escriptora de novel·les de detectius i de suspens\". Molt probablement, així és com se la recorda. I ja ha fet mig segle de la seva mort (12 de gener del 1976).",
+      "url": "https://www.ara.cat/cultura/misteri-christie-mes-enlla-dels-crims-agatha-exposicio-londres_130_5894023.html",
+      "published": "2026-10-30T08:55:05+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/387aba41-1149-4301-b473-6098db2f1ce1_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "CaixaBank eleva el benefici fins als 4.962 milions fins al setembre, un 12,9% més",
+      "excerpt": "CaixaBank torna a batre rècords de benefici fins al setembre. L'entitat ha comunicat uns guanys de 4.962 milions d'euros els nou primers mesos de l'any, un increment respecte del mateix període de l'any anterior del 12,9%. Segons han assegurat, la millora en els comptes prové majoritàriament d'una accelerada en l'activitat i de la captació de nous clients. De fet, el grup ha superat els 21 milions d'usuaris a Espanya i Portugal, un guany de 480.000 clients en els darrers dotze mesos.",
+      "url": "https://www.ara.cat/economia/banca/caixabank-eleva-benefici-fins-als-4-962-milions-fins-setembre-12-9-mes_1_5894815.html",
+      "published": "2026-10-30T08:46:16+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/adb5ef74-43a1-411f-b310-cdf3ded0d941_16-9-aspect-ratio_default_1042215.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Retards a la R2 una volta tres trens no han començat el servei per “gestió operativa”",
+      "excerpt": "La R1 i la RG1 funcionen amb normalitat després del tall entre Malgrat i Blanes per un atropellament",
+      "url": "https://www.vilaweb.cat/noticies/retards-a-la-r2-una-volta-tres-trens-no-han-comencat-el-servei-per-gestio-operativa/",
+      "published": "2026-10-30T08:41:38+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Natació Barcelona continua a l’Euro Cup 2026-2027: primera victòria a la fase de grups",
+      "excerpt": "El Club Natació Barcelona torna a disputar una temporada més l’Euro Cup de waterpolo, la segona competició continental per clubs més important. L’equip d’Andrei Iosep tindrà el repte de superar els vuitens de final, en què van caure el curs passat. Els mariners van iniciar la competició amb la fase prèvia en què buscaven acabar […]",
+      "url": "https://beteve.cat/esports/natacio-barcelona-eurocup-waterpolo-26-27/",
+      "published": "2026-10-30T08:34:14+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/primer-equip-cn-barcelona-eurocup-2026-2026-10-30.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Roben 6.300 milions de dòlars a Binance en el ciberatac més gran de la història de les criptomonedes",
+      "excerpt": "La plataforma assegura que ha aconseguit de blocar gairebé la meitat dels fons robats",
+      "url": "https://www.vilaweb.cat/noticies/roben-6300-milions-binance-ciberatac-mes-gran-historia-criptomonedes/",
+      "published": "2026-10-30T08:10:39+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Roben 6.300 milions de dòlars a la principal plataforma de compravenda de criptomonedes",
       "excerpt": "Binance, una de les principals plataformes mundials d'intercanvi de criptomonedes, ha patit un ciberatac amb un impacte estimat de 6.300 milions de dòlars. La companyia ha informat aquest divendres que ha aconseguit bloquejar uns 3.000 milions dels actius afectats i que ha suspès temporalment els dipòsits i les retirades mentre investiga les operacions no autoritzades.",
       "url": "https://www.ara.cat/economia/binance-pateix-ciberatac-impacte-estimat-6-300-milions-dolars_1_5894712.html",
       "published": "2026-10-30T08:06:13+01:00",
@@ -145,7 +205,7 @@
       "url": "https://www.ara.cat/politica/canvi-senzill-revolucionar-recompte-nit-electoral_129_5892204.html",
       "published": "2026-10-30T07:00:45+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/ddaf3b21-7fc9-4b5c-a83f-7b6db95d659a_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/ddaf3b21-7fc9-4b5c-a83f-7b6db95d659a_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
