@@ -2,6 +2,21 @@
   "editions": [
     {
       "date": "2026-10-30",
+      "updatedAt": "2026-10-30T14:06:53.740491+01:00",
+      "pdf": "diaris/arxiu/2026-10-30/14-06-53-740491.pdf",
+      "count": 92,
+      "sources": [
+        "3CatInfo",
+        "VilaWeb",
+        "ARA",
+        "betevé",
+        "3CatInfo · El temps"
+      ],
+      "unavailableSources": [],
+      "fingerprint": "d6b1be4c7013a4d45a0986eb73e7e84bfcc8b3975dc628f079cabac8b5312af1"
+    },
+    {
+      "date": "2026-10-30",
       "updatedAt": "2026-10-30T12:53:04.769494+01:00",
       "pdf": "diaris/arxiu/2026-10-30/12-53-04-769494.pdf",
       "count": 72,
