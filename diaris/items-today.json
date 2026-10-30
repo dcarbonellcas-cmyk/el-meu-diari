@@ -2,6 +2,36 @@
   "date": "2026-10-30",
   "items": [
     {
+      "source": "ARA",
+      "title": "El rescat a Urda s'apropa al final amb unes identificacions d'\"enorme complexitat\"",
+      "excerpt": "Les tasques de rescat per l'accident d'Urda encaren l'etapa final. Aquest divendres, el govern de Castella-la Manxa ha detallat que els treballs \"estan molt avançats\", però el president Emiliano García-Page ha estat clar: \"No descartem que hi hagi més morts\", ha admès des de Toledo. Tot i que el balanç de víctimes mortals es manté en 69 persones, el nombre de denúncies per desaparicions relacionades amb l'accident que no s'han resolt és de 67. De fet, el president manxec ha explicat que es continua treballant…",
+      "url": "https://www.ara.cat/societat/successos/rescat-urda-apropa-final-identificacions-enorme-complexitat_1_5895272.html",
+      "published": "2026-10-30T19:36:09+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/659fe4f1-b04d-4ef4-9b52-9f498f2f799e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Tres dones d’Alacant, Figueres i Inca, entre les víctimes de l’accident d’Urda",
+      "excerpt": "Mari Carmen García, Andrea Olmos i Adriana Marroquín són tres de les seixanta-nou víctimes mortals de la tragèdia ferroviària",
+      "url": "https://www.vilaweb.cat/noticies/confirmen-la-mort-de-tres-dones-dinca-figueres-i-alacant-en-laccident-ferroviari-durda/",
+      "published": "2026-10-30T19:12:27+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "SMS falsos a familiars de les víctimes o teories sense proves: les mentides de l'accident de Toledo",
+      "excerpt": "Menys de 24 hores després de l'accident han aparegut relats falsos sobre l'origen de l'accident o estafes relacionades amb els desapareguts",
+      "url": "https://www.3cat.cat/3catinfo/sms-falsos-a-familiars-de-les-victimes-o-teories-sense-proves-les-mentides-de-laccident-de-toledo/noticia/3436799/",
+      "published": "2026-10-30T18:34:57+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/6/1793270634960.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo",
       "title": "Inusual operació de Rússia i Ucraïna per evacuar civils d'Oleixki, ocupada i aïllada per les mines",
       "excerpt": "L'alto el foc acordat entre les dues parts, amb la intervenció de Melania Trump, ha permès desminar els accessos i fer arribar ajuda humanitària per als que es volen quedar",
@@ -9,12 +39,12 @@
       "published": "2026-10-30T16:57:45+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/0/1793363406004.jpg",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433570/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/inusual-operacio-de-russia-i-ucraina-per-evacuar-civils-doleixki-ocupada-i-aillada-per-les-mines/noticia/3436987/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "VilaWeb",
@@ -85,6 +115,26 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/18f10e76-fe52-4067-ad45-ca0346f66833_source-aspect-ratio_default_0.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Lleó XIV vota a les eleccions de mig mandat dels Estats Units en un gest inèdit",
+      "excerpt": "El pontífex ha votat per correu a Illinois, una decisió que obre el debat sobre la neutralitat del líder de l'Església catòlica",
+      "url": "https://www.3cat.cat/3catinfo/lleo-xiv-vota-a-les-eleccions-de-mig-mandat-dels-estats-units-en-un-gest-inedit/noticia/3437099/",
+      "published": "2026-10-30T19:31:03+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/0/1791881157502.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Un centenar de persones es mobilitzen contra la “privatització” de l’habitatge públic",
+      "excerpt": "(ACN) Sota el lema “Prou privatització de l’habitatge públic”, un centenar de persones s’han concentrat aquest divendres a la plaça de Sant Jaume per reclamar que la promoció i la gestió de l’habitatge públic es mantingui en mans d’entitats sense ànim de lucre. La convocatòria està dirigida a l’Ajuntament de Barcelona, a qui demanen que […]",
+      "url": "https://beteve.cat/economia/mobilitzacio-contra-privatitzacio-habitatge-public/",
+      "published": "2026-10-30T19:07:09+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/protesta-habitatge-public-2026-10-30.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo · El temps",
@@ -291,6 +341,126 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "29-N: de la decadència a la modernització",
+      "excerpt": "En poques setmanes hi haurà una nova cita amb les urnes, concretament les eleccions a les corts generals. Tot i que la duríssima tragèdia de l’accident ferroviari de l’alta velocitat ha capgirat un munt de coses i ha causat un enorme impacte emocional, les eleccions se celebraran igualment i, per tant, paga la pena fer una reflexió sobre el que està en joc.",
+      "url": "https://www.ara.cat/opinio/29-n-decadencia-modernitzacio_129_5895157.html",
+      "published": "2026-10-30T19:53:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9d815dcf-eb0b-476b-8d3c-b6b48e200e73_16-9-aspect-ratio_default_0_x784y456.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La comèdia d’abans de la tragèdia",
+      "excerpt": "És indubtable que als polítics en campanya anar a programes simpàtics (que suposen el que abans era anar als mercats) els ajuda. Ens en mostra una cara amable. “Mira, aquest també té fills adolescents com jo, també li agrada el futbol com a mi...” Anar a programes com La revuelta els va bé per arribar a la gent que se’ls mira i que no mira la televisió convencional, ni llegeix diaris. Aquesta gent potser és abstencionista i, al sentir en Rufián parlar de “comer culo”…",
+      "url": "https://www.ara.cat/opinio/comedia-d-tragedia_129_5895420.html",
+      "published": "2026-10-30T19:45:41+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/33f106ed-ca52-4ab6-9fdb-5342fa7fe4da_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Perpinyà es prepara per a una nova jornada de protestes amb manifestacions prohibides i queda als menors",
+      "excerpt": "Les autoritats reforcen la presència policíaca després dels aldarulls de les darreres setmanes i els comerciants alerten de les conseqüències per als negocis",
+      "url": "https://www.vilaweb.cat/noticies/perpinya-nova-jornada-protestes-manifestacions-prohibides-queda-als-menors/",
+      "published": "2026-10-30T19:36:37+01:00",
+      "category": "Catalunya Nord",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Xi Jinping i la Llarga Marxa de la Xina cap a la supremacia econòmica i geostratègica mundial",
+      "excerpt": "El president xinès, que avança amb pas ferm cap al quart mandat, apel·la a les grans gestes del maoisme per legitimar-se internament en aquest procés d'ascens del país cap a la supremacia mundial",
+      "url": "https://www.3cat.cat/3catinfo/xi-jinping-i-la-llarga-marxa-de-la-xina-cap-a-la-supremacia-economica-i-geostrategica-mundial/noticia/3437074/",
+      "published": "2026-10-30T19:31:56+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/2/1793375436722.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Matthew Perry: el capítol que faltava",
+      "excerpt": "Netflix ha estrenat un documental de tres capítols que vol ser un retrat pòstum de l’actor Matthew Perry, conegut essencialment pel seu paper de Chandler Bing a la sèrie Friends . Perry va morir fa tres anys, després d’un llarg historial d’addiccions a l’alcohol i als opioides.",
+      "url": "https://www.ara.cat/media/matthew-perry-capitol-faltava_129_5895323.html",
+      "published": "2026-10-30T19:22:16+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d94f130b-f018-4ed5-b059-85544a62f428_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una nova banalitat del mal?",
+      "excerpt": "La Velada del Año VI, organitzada per Ibai Llanos, és un gran esdeveniment d'estrímers i celebritats amb un gran seguiment entre els joves. L’acte, celebrat el juliol passat, consisteix en combats de boxa entre personalitats d’internet, intercalats amb actuacions de cantants coneguts, sobretot de trap i reggaeton. 80.000 persones, sobretot joves, omplint l’estadi de La Cartuja, a Sevilla, i milions seguint-ho en directe des de tot el món castellanoparlant. Una posada en escena grandiosa i farcida de relats grandiloqüents, sentimentalisme i, evidentment, mastegots a dojo,…",
+      "url": "https://www.ara.cat/opinio/nova-banalitat-mal_129_5884916.html",
+      "published": "2026-10-30T19:05:25+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f7fe426c-8de1-4691-b515-02a0a9087234_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Ara que no s'ofengui ningú",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ara-no-s-ofengui-ningu-31-10-2026_134_5895379.html",
+      "published": "2026-10-30T19:05:05+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-31-10-2026_134_5895241.html",
+      "published": "2026-10-30T19:05:04+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El ministre que no ha escoltat demana que l’escoltem",
+      "excerpt": "Sento les explicacions del ministre Puente i, per més que m’interessin, no puc evitar rebre-les com una lletania llunyana que ni m’informa ni, encara menys, em conforta. Perquè el mal ja està fet. Perquè ja hi ha hagut 116 morts als trens espanyols aquest any. Perquè des de la seva primera reacció d’assenyalar l’operari del centre de control només hores després de l’accident (assenyalament reforçat a la nit amb la filtració dels àudios), el ministre ja pot anar donant dades que jo només sento excuses…",
+      "url": "https://www.ara.cat/opinio/ministre-no-escoltat-demana_129_5895221.html",
+      "published": "2026-10-30T19:00:59+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/063d1073-e034-4d34-8e7f-84f006130981_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-31-10-2026_134_5895231.html",
+      "published": "2026-10-30T19:00:58+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Comencen els sorteigs de les meses electorals del 29-N: què n’heu de saber?",
+      "excerpt": "Guia pràctica sobre el sorteig de les meses electorals i com es pot saber si us ha tocat ser-ne membres",
+      "url": "https://www.vilaweb.cat/noticies/eleccions-29n-quan-sabreu-membre-mesa-electoral/",
+      "published": "2026-10-30T19:00:37+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’acampada manté la protesta malgrat la convocatòria de dissabte: “No tenim por”",
+      "excerpt": "L’acampada de la plaça de Catalunya ha assegurat que mantindrà la protesta malgrat la convocatòria de Blocus per aquest dissabte i les amenaces rebudes per part de grups ultres. En una roda de premsa coincidint amb el primer mes de mobilització, els activistes han reiterat que continuaran a la plaça i han defensat el caràcter […]",
+      "url": "https://beteve.cat/societat/acampada-mante-protesta-convocatoria-blocus-dissabte-no-tenim-por/",
+      "published": "2026-10-30T18:55:44+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/acampada-catalunya-sense-por-301026-2026-10-30.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "El retorn de l’Atlètic Hostafrancs, el somni de recuperar un referent esportiu al barri",
       "excerpt": "El club de futbol Atlètic Hostafrancs torna a competir una dècada després de la seva desaparició. Més enllà del retorn d’un equip al terreny de joc, la refundació d’aquest club representa el compliment d’una il·lusió col·lectiva. I també un somni personal per al Marc Toyas, president actual del club i un dels joves futbolistes que […]",
@@ -358,6 +528,16 @@
       "published": "2026-10-30T17:51:45+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/187afa68-ccfb-4afc-a230-cc2245718650_16-9-aspect-ratio_default_0_x4373y2481.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Competència demana mantenir l’oferta de bicicleta compartida que l’Ajuntament vol eliminar el 2027",
+      "excerpt": "(ACN/Redacció) L’Autoritat Catalana de la Competència (ACCO) demana preservar l’oferta del servei de bicicletes de lloguer compartit a Barcelona que l’Ajuntament vol eliminar el 2027. En un document publicat aquesta setmana, ha alertat dels efectes que podria tenir la mesura. L’ACCO adverteix que reduiria les alternatives de mobilitat disponibles, eliminaria la pressió competitiva sobre el […]",
+      "url": "https://beteve.cat/mobilitat/autoritat-competencia-mantenir-bicicleta-compartida-ajuntament-eliminar-2027/",
+      "published": "2026-10-30T17:46:41+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/05/bicicleta-us-compartit-mal-aparcada-280526.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -438,6 +618,16 @@
       "published": "2026-10-30T16:56:19+01:00",
       "category": "comunicació",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/accentuacio-llengua.wepb-2026-10-30-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els patinets elèctrics, al darrere del 10% de les fractures facials que s'operen al Vall d'Hebron",
+      "excerpt": "Els especialistes alerten que es tracta de cirurgies més complicades i que el 60% dels accidentats, que són molt joves, tenen seqüeles",
+      "url": "https://www.3cat.cat/3catinfo/els-patinets-electrics-al-darrere-del-10-de-les-fractures-facials-que-soperen-al-vall-dhebron/noticia/3437053/",
+      "published": "2026-10-30T16:46:26+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/9/1738585641492.jpg",
       "priority": "3 · Altres notícies"
     },
     {
