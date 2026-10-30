@@ -2,6 +2,16 @@
   "date": "2026-10-30",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Asfixiat per la guerra bruta del Kremlin, el diari opositor rus Nóvaia Gazeta anuncia que tanca",
+      "excerpt": "El periòdic on va treballar Anna Politkóvskaia i conegut per les seves investigacions sobre la corrupció en el si del Kremlin deixarà de publicar-se el pròxim 9 de novembre",
+      "url": "https://www.3cat.cat/3catinfo/asfixiat-per-la-guerra-bruta-del-kremlin-el-diari-opositor-rus-novaia-gazeta-anuncia-que-tanca/noticia/3437114/",
+      "published": "2026-10-30T22:47:16+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/2/1793395951527.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "El rescat a Urda s'apropa al final amb unes identificacions d'\"enorme complexitat\"",
       "excerpt": "Les tasques de rescat per l'accident d'Urda encaren l'etapa final. Aquest divendres, el govern de Castella-la Manxa ha detallat que els treballs \"estan molt avançats\", però el president Emiliano García-Page ha estat clar: \"No descartem que hi hagi més morts\", ha admès des de Toledo. Tot i que el balanç de víctimes mortals es manté en 69 persones, el nombre de denúncies per desaparicions relacionades amb l'accident que no s'han resolt és de 67. De fet, el president manxec ha explicat que es continua treballant…",
@@ -115,6 +125,16 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/18f10e76-fe52-4067-ad45-ca0346f66833_source-aspect-ratio_default_0.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "Disturbis a Varsòvia per la crisi amb el Tribunal Constitucional",
+      "excerpt": "Les autoritats poloneses han desplegat un cordó policial entorn de l'edifici del Tribunal Constitucional a Varsòvia després dels incidents que ha provocat la suposada suspensió del president del tribunal, Bogdan Swieczkowski, i el seu vicepresident, encara que el mateix Constitucional sosté que segueixen en el càrrec. Els aldarulls han provocat tres detencions i el president polonès Karol Nawrocki, que es trobava de camí a una visita oficial al Senegal, ha anunciat el seu retorn immediat al país amb un missatge a X en què declara…",
+      "url": "https://www.ara.cat/internacional/disturbis-varsovia-crisi-tribunal-constitucional_1_5895780.html",
+      "published": "2026-10-30T23:25:47+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ac254439-c505-49cd-9d51-ba73a707ee84_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo · El temps",
@@ -246,7 +266,12 @@
       "published": "2026-10-30T14:41:52+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/png/8/5/1793372142558.png",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433626/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-govern-espanyol-estudia-tallar-lalta-velocitat-barcelona-madrid-durant-les-obres-de-renovacio/noticia/3437054/"
+      }
     },
     {
       "source": "3CatInfo · El temps",
@@ -381,9 +406,34 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "S'enfilen els guanys de la banca espanyola, camí de tancar l'any amb beneficis rècord",
+      "excerpt": "Santander, BBVA, CaixaBank, Sabadell i Bankinter han sumat més de 28.700 milions d'euros de benefici en els primers nou mesos de l'any",
+      "url": "https://www.3cat.cat/3catinfo/senfilen-els-guanys-de-la-banca-espanyola-cami-de-tancar-lany-amb-beneficis-record/noticia/3437113/",
+      "published": "2026-10-30T23:37:31+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1793399431323.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433557/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/senfilen-els-guanys-de-la-banca-espanyola-cami-de-tancar-lany-amb-beneficis-record/noticia/3437113/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "Un Espanyol amb dos entrenadors ressuscita a Vila-real",
+      "excerpt": "Es va fer molt estrany no veure Manolo González a la banqueta de l'Espanyol. Encara més que s'hi assegués Sergio García, qui no fa gaire celebrava gols sobre la gespa de Cornellà-El Prat. Ara dirigeix el filial i, com que Eder Sarabia arrossega una sanció i va haver de veure el partit des d'una llotja, el del Bon Pastor va ser l'encarregat de mirar d'aixecar el vol d'un equip deprimit que venia de caure amb estrèpit al camp d'un Segona RFEF. I se'n va sortir.",
+      "url": "https://www.ara.cat/esports/rcd-espanyol/espanyol-entrenadors-ressuscita-vila-real_1_5895704.html",
+      "published": "2026-10-30T22:52:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ac31f642-ee26-4c65-88ae-75e0222f896e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "La inspiració de Joel Parra catapulta el Barça",
-      "excerpt": "El Barça d'Aleksander Sekulic li té la mida presa al València de Xavi Albert (98-94). El conjunt blaugrana, impulsat pel Palau i pels triples decisius de Joel Parra -quatre de consecutius al tercer quart- va signar un lluitat tercer triomf seguit davant un rival que va trobar a faltar un vell conegut: Nikola Mirotic.",
+      "excerpt": "El Barça d'Aleksander Sekulic li té la mida presa al València de Xavi Albert (98-94). El conjunt blaugrana, impulsat pel Palau i pels triples decisius de Joel Parra –quatre de consecutius al tercer quart– va signar un lluitat tercer triomf seguit davant un rival que va trobar a faltar Nikola Mirotic, un vell conegut de l'afició culer.",
       "url": "https://www.ara.cat/esports/basquet/inspiracio-joel-parra-catapulta-barca_1_5895697.html",
       "published": "2026-10-30T22:37:00+01:00",
       "category": "Actualitat",
@@ -1488,7 +1538,12 @@
       "published": "2026-10-30T10:23:36+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/3/1792869229938.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433627/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/detenen-un-segon-menor-vinculat-a-blocus-a-qui-acusen-dorganitzar-els-aldarulls-a-barcelona/noticia/3436976/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -1747,7 +1802,7 @@
     },
     {
       "source": "ARA",
-      "title": "Les quatre elaboradores poderoses que fan vins dels quals tothom parlarà, i que entusiasmen l’enòloga Sara Pérez",
+      "title": "La revolució en el món del vi té nom de dona",
       "excerpt": "És dimarts al vespre, i el Vinseum, el museu del vi de Vilafranca del Penedès, ha organitzat un tast d’estrella, és a dir, han convidat una enòloga, la Sara Pérez (Venus la Universal; Mas Martinet), que al seu torn ha triat quatre dones elaboradores de les quals es parlarà molt en els propers anys, segons assegura ella mateixa. La Sara és una de les grans dones del vi, que és passió i seny al mateix temps. Desprèn entusiasme quan parla, i alhora argumenta i debat…",
       "url": "https://mengem.ara.cat/vins-caves/quatre-elaboradores-vins-quals-tothom-parlara-entusiasmen-l-enologa-sara-perez_1_5892895.html",
       "published": "2026-10-30T07:00:44+01:00",
