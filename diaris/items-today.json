@@ -104,6 +104,26 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Ingressa a la presó el detingut al País Valencià per fundar i impulsar el moviment Blocus a Espanya",
+      "excerpt": "",
+      "url": "https://www.ara.cat/societat/successos/ingressa-preso-detingut-pais-valencia-fundar-impulsar-moviment-blocus-espanya_6_5896098.html",
+      "published": "2026-10-31T15:15:10+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Presó provisional sense fiança per al presumpte fundador de Blocus",
+      "excerpt": "(ACN) Un jutjat de Torrent, Valencia, ha decretat presó provisional i sense fiança per al detingut a qui la Guàrdia Civil considera fundador i impulsor del moviment Blocus a Espanya. A més, la magistrada de guàrdia li ha prohibit accedir a ordinadors i qualsevol mena de dispositiu amb connexió a xarxes socials. Se l’investiga per […]",
+      "url": "https://beteve.cat/societat/preso-provisional-sense-fianca-fundador-blocus/",
+      "published": "2026-10-31T15:00:44+01:00",
+      "category": "justícia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/destrosses-botiges-aldarulls-4-2026-10-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Front Ampli reclama la dimissió de Puente pel sinistre ferroviari d’Urda",
       "excerpt": "Emilio Delgado demana “responsabilitats polítiques” i un debat a fons sobre el model de tren",
@@ -116,7 +136,7 @@
     {
       "source": "3CatInfo",
       "title": "Presó sense fiança per a un dels impulsors de Blocus a l'Estat, detingut a Picanya",
-      "excerpt": "",
+      "excerpt": "La magistrada li prohibeix accedir a ordinadors o dispositius amb connexió a xarxes socials",
       "url": "https://www.3cat.cat/3catinfo/preso-sense-fianca-per-a-un-dels-impulsors-de-blocus-a-lestat-detingut-a-picanya/noticia/3437148/",
       "published": "2026-10-31T14:26:52+01:00",
       "category": "Actualitat",
@@ -141,6 +161,16 @@
       "published": "2026-10-31T14:14:43+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/f2026fc3-9dc3-499a-bdd8-f59ab5d2436b_16-9-aspect-ratio_default_1061324.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-750/",
+      "published": "2026-10-31T13:55:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -171,6 +201,16 @@
       "published": "2026-10-31T13:25:10+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/7/1793448205175.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "B de gust:",
+      "excerpt": "Assaboreix l’oferta gastronòmica de Barcelona cada migdia. El ‘B de gust’ et convida a entrar a bars i forns de barri, restaurants de cuina catalana o internacional i mercats de producte fresc. Tot això, amanit amb entrevistes, receptes, reportatges i recomanacions. Presentat per Carmen Cortés.",
+      "url": "https://beteve.cat/b-de-gust/b-de-gust-38/",
+      "published": "2026-10-31T13:19:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -271,16 +311,6 @@
       "published": "2026-10-31T12:36:08+01:00",
       "category": "Policia i justícia",
       "image": null,
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "B de gust:",
-      "excerpt": "Assaboreix l’oferta gastronòmica de Barcelona cada migdia. El ‘B de gust’ et convida a entrar a bars i forns de barri, restaurants de cuina catalana o internacional i mercats de producte fresc. Tot això, amanit amb entrevistes, receptes, reportatges i recomanacions. Presentat per Carmen Cortés.",
-      "url": "https://beteve.cat/b-de-gust/b-de-gust-38/",
-      "published": "2026-10-31T12:29:38+01:00",
-      "category": "Actualitat",
-      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -500,7 +530,7 @@
       "url": "https://www.3cat.cat/3catinfo/franca-torna-a-blindar-se-per-por-daldarulls-en-un-dia-de-protestes-a-diversos-punts-deuropa/noticia/3437112/",
       "published": "2026-10-31T07:56:49+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/8/3/1793402966038.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/2/1793455617628.jpg",
       "priority": "3 · Altres notícies"
     },
     {
