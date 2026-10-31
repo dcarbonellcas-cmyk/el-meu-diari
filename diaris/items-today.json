@@ -22,22 +22,12 @@
       "priority": "1 · Urgent"
     },
     {
-      "source": "3CatInfo",
-      "title": "Què està passant a Polònia: crisi social i política pel control del Tribunal Constitucional",
-      "excerpt": "Es tracta de l'últim capítol del xoc obert entre el govern del primer ministre Donald Tusk i el president Karol Nawrocki, que ha denunciat un intent de \"cop d'estat\"",
-      "url": "https://www.3cat.cat/3catinfo/que-passa-a-polonia-crisi-social-i-politica-pel-control-del-tribunal-constitucional/noticia/3437133/",
-      "published": "2026-10-31T17:00:51+01:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/4/4/1793457683844.jpg",
-      "priority": "2 · Important"
-    },
-    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
       "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
       "published": "2026-10-31T10:09:50+01:00",
-      "updated": "2026-10-31T16:31:58+01:00",
+      "updated": "2026-10-31T18:08:20+01:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/1/0/1793429970801.jpg",
       "video": {
@@ -48,8 +38,18 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "Què està passant a Polònia: crisi social i política pel control del Tribunal Constitucional",
+      "excerpt": "Es tracta de l'últim capítol del xoc obert entre el govern del primer ministre Donald Tusk i el president Karol Nawrocki, que ha denunciat un intent de \"cop d'estat\"",
+      "url": "https://www.3cat.cat/3catinfo/que-passa-a-polonia-crisi-social-i-politica-pel-control-del-tribunal-constitucional/noticia/3437133/",
+      "published": "2026-10-31T17:00:51+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/4/1793457683844.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
-      "title": "Última hora sobre la convocatòria de Blocus: controls i identificacions al centre",
+      "title": "Última hora sobre la crida de Blocus a Barcelona: controls i identificacions al centre",
       "excerpt": "Alerta màxima a Barcelona per la convocatòria de Blocus per a aquest dissabte. Una setmana després dels greus aldarulls i saquejos, els Mossos d’Esquadra han preparat un dispositiu de nivell 4, el més alt en mobilitzacions a la via pública, per blindar la ciutat on es concentren les crides. De manera coordinada amb la Guàrdia […]",
       "url": "https://beteve.cat/societat/blocus-barcelona-dispositiu-31-octubre/",
       "published": "2026-10-31T16:16:01+01:00",
@@ -124,14 +124,104 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo",
-      "title": "Comencen les manifestacions de protesta a França, enmig d'un ampli dispositiu de seguretat",
-      "excerpt": "En diferents ciutats d'Alemanya i dels Països Baixos també s'han convocat manifestacions sota el nom de \"protestes de la generació Z\"",
-      "url": "https://www.3cat.cat/3catinfo/franca-torna-a-blindar-se-per-por-daldarulls-en-un-dia-de-protestes-a-diversos-punts-deuropa/noticia/3437112/",
-      "published": "2026-10-31T07:56:49+01:00",
+      "source": "ARA",
+      "title": "Deliris de grandesa amb resultat tràgic",
+      "excerpt": "L’aposta espanyola per l’alta velocitat sempre m’ha semblat una qüestió digna de ser analitzada en termes polítics, sociològics i fins i tot històrics, perquè ha transcendit governs i partits i s’ha instal·lat com un mantra de la gestió pública, la qual cosa revela, sota el meu parer, algunes obsessions que han esdevingut malaltisses.",
+      "url": "https://www.ara.cat/opinio/deliris-grandesa-resultat-tragic_129_5896134.html",
+      "published": "2026-10-31T18:27:01+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/8/2/1793455617628.jpg",
-      "priority": "2 · Important"
+      "image": "https://static1.ara.cat/clip/bbd564b3-2771-4a92-aab4-25ffc7015557_16-9-aspect-ratio_default_0_x1828y1124.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Espanyol escala posicions cap a la zona alta després del triomf contra el Logronyo",
+      "excerpt": "Una victòria a casa sempre és un motiu d’alegria. Més encara si significa que dones continuïtat a les bones sensacions com a equip i si et situes, provisionalment, en la sisena plaça de la classificació de la Lliga F. L’Espanyol ha sumat tres punts contra el Logronyo després d’un partit disputat a la Dani Jarque […]",
+      "url": "https://beteve.cat/esports/espanyol-escala-posicions-zona-alta-triomf-logronyo/",
+      "published": "2026-10-31T18:04:07+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/espanyol-paula-arana-victoria-2026-10-31.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Europa s'ha de preparar per al pitjor",
+      "excerpt": "I si la principal amenaça per a la Unió Europea no fos l'agressió russa, les exportacions xineses o el president dels EUA, Donald Trump, sinó que vingués de dins del bloc?",
+      "url": "https://www.ara.cat/opinio/europa-s-preparar-pitjor_129_5895141.html",
+      "published": "2026-10-31T18:00:32+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/072a7d8b-6123-49fc-8a27-ae8af326e796_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sobre la tragèdia d'Urda",
+      "excerpt": "La tragèdia d'Urda em fa reflexionar sobre els mecanismes de seguretat en el transport, ja sigui d’automòbils, de camions, d’avions o de trens.",
+      "url": "https://www.ara.cat/opinio/tragedia-d-urda_129_5896038.html",
+      "published": "2026-10-31T18:00:30+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7da75fe7-3514-43bf-831c-c4d926550b66_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tragèdia i frivolitat",
+      "excerpt": "La insuportable frivolitat del ministre Óscar Puente ha marcat de manera lamentable el relat i el debat sobre el terrible accident ferroviari d’Urda. L'aparició, el primer dia, com a portaveu del govern –en correspondència amb el seu càrrec– el va posar en evidència. Tot el seu discurs va girar al voltant d’una idea: l’atribució de la responsabilitat de la tragèdia a un error humà del responsable del centre de control d’Atocha que va donar l’ordre al maquinista de l’AVE d’arrencar en mode normal. Conscientment o…",
+      "url": "https://www.ara.cat/opinio/tragedia-frivolitat_129_5895451.html",
+      "published": "2026-10-31T18:00:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/91d97cf7-603c-42b3-a67d-e36b1415ce79_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les urnes jutjaran la tragèdia d'Urda",
+      "excerpt": "Després del nou accident ferroviari a la línia de l'AVE Madrid-Andalusia – i no ens oblidem de Gelida – hi ha hagut en general –amb excepcions lamentables– uns dies de prudència per respecte als morts i per centrar les energies en assistència a les víctimes i les seves famílies. Però és molt evident que les repercussions de tota mena d'aquesta tragèdia seran molt fortes. També en l'espai polític i pel que fa a la cita electoral del 29-N. Acabava de produir-se el xoc de trens…",
+      "url": "https://www.ara.cat/politica/urnes-jutjaran-tragedia-d-urda_129_5895926.html",
+      "published": "2026-10-31T18:00:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/04590c02-5de0-4648-8ef6-621c53f1ce72_16-9-aspect-ratio_default_0_x2482y1498.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Proletaris o propietaris",
+      "excerpt": "El meu article anterior partia de la idea que el que fa més intractable el problema de l’habitatge és que es procura desvincular-lo de la seva causa principal, que no és sinó la immigració. La integració de la immigració, d'altra banda, és el principal problema que tenim plantejat a llarg termini, i està íntimament vinculat a la solució que donem al seu accés a l’habitatge.",
+      "url": "https://www.ara.cat/opinio/proletaris-propietaris_129_5894361.html",
+      "published": "2026-10-31T18:00:28+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5deb0be1-2d0c-434d-9f18-d8757828bee8_16-9-aspect-ratio_default_0_x1489y996.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "França: joves que no es resignen",
+      "excerpt": "L’esclat del malestar a la secundària francesa aquestes darreres setmanes de tardor ha pres la forma d’imatges molt concretes. A fora, la canícula tardana i les tempestes; dins les aules, tot i ser ja el mes d’octubre, una xafogor asfixiant. Una de les pancartes que es podien veure davant de l’institut Jean Perrin de Rezé deia “ 35°, 35 par classe, mais le problème c’est nos téléphones ”. Els estudiants han sortit al carrer demanant coses molt concretes, materials, palpables: ventiladors, la reparació de les…",
+      "url": "https://www.ara.cat/opinio/franca-joves-no-resignen_129_5893139.html",
+      "published": "2026-10-31T18:00:27+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a83f90f9-c464-4865-9012-8a98d4e011e2_16-9-aspect-ratio_default_0_x3693y3410.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Javi Rey s’estrena amb victòria: Triomf del Sant Andreu contra el Terol a Palamós",
+      "excerpt": "El Sant Andreu ha guanyat el darrer partit lluny del Narcís Sala. Javi Rey s’ha estrenat com a tècnic quadribarrat amb una victòria balsàmica contra el Terol. Els quadribarrats han guanyat 2 a 0 i trenquen una dinàmica de quatre partits sense aconseguir la vitctòria. Tovar i Darbra han estat els golejadors. Primera meitat sense […]",
+      "url": "https://beteve.cat/esports/sant-andreu-terol-primera-rfef-minut-a-minut/",
+      "published": "2026-10-31T17:50:15+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/sant-andreu-terol-priemra-rfef-2026-10-31.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els Mossos detenen una quarta persona a Catalunya relacionada amb Blocus",
+      "excerpt": "Es tracta d'un jove de 21 anys a qui els Mossos consideren instigador dels saquejos del 24 d'octubre a Barcelona",
+      "url": "https://www.3cat.cat/3catinfo/els-mossos-detenen-una-quarta-persona-a-catalunya-relacionada-amb-blocus/noticia/3437160/",
+      "published": "2026-10-31T17:41:06+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/5/1793354518655.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -145,22 +235,12 @@
     },
     {
       "source": "ARA",
-      "title": "Protestes Blocus: quart detingut per incitar els saquejos a Barcelona",
-      "excerpt": "Els Mossos d'Esquadra han confirmat aquest dissabte una quarta detenció relacionada amb el moviment Blocus a Catalunya. La policia ha arrestat un jove de 21 anys a Cabrera d'Anoia com a presumpte \"instigador i dinamitzador\" del grup que va protagonitzar els saquejos al centre de Barcelona el cap de setmana passat. La investigació continua oberta i els Mossos d'Esquadra no descarten més detencions.",
+      "title": "Quart arrest per Blocus a Catalunya: detenen un jove que va incitar els saquejos a Barcelona",
+      "excerpt": "Els Mossos d'Esquadra han confirmat aquest dissabte una quarta detenció relacionada amb el moviment Blocus a Catalunya. La policia ha arrestat un jove de 21 anys a Cabrera d'Anoia com a presumpte \"instigador i dinamitzador\" del grup que va protagonitzar els saquejos al centre de Barcelona el cap de setmana passat. Els Mossos apunten que el detingut era administrador d'un dels grups que es va crear per facilitar la coordinació dels participants, el qual es promocionava mitjançant la difusió d'un cartell a la xarxa social…",
       "url": "https://www.ara.cat/societat/successos/preso-provisional-suposat-fundador-impulsor-blocus_1_5896144.html",
       "published": "2026-10-31T17:30:12+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/534e2178-0ddd-4b7b-a5d9-fa493972c5b7_16-9-aspect-ratio_default_0_x137y264.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "S’avança el Sant Andreu contra el Terol amb gol de Tovar: L’estrena de Javi Rey, minut a minut",
-      "excerpt": "El retorn al Narcís Sala s’apropa. El Sant Andreu disputa aquest dissabte, a partir de les 16 h, el darrer partit com a local a l’exili a la Primera RFEF. Els quadribarrats s’enfronten al Terol al Municipal de Palamós amb la intenció de tornar al camí del triomf. Primera meitat sense gols, però amb ocasions […]",
-      "url": "https://beteve.cat/esports/sant-andreu-terol-primera-rfef-minut-a-minut/",
-      "published": "2026-10-31T16:58:51+01:00",
-      "category": "esports",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/08/Fotos-Beteve-2026-08-06T122124.444-2026-08-06.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -171,16 +251,16 @@
       "published": "2026-10-31T16:55:53+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/1/1793017912715.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433711/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/el-relat-dun-dels-menors-detinguts-durant-els-aldarulls-a-barcelona-i-com-shi-va-veure-implicat/noticia/3437138/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
-      "title": "[EN DIRECTE] Primers controls i identificacions al centre de Barcelona davant les noves protestes Blocus",
+      "title": "[EN DIRECTE] La policia blinda el centre de Barcelona i València davant les noves protestes Blocus",
       "excerpt": "Seguiu en directe tota la informació de les convocatòries d'avui de Blocus",
       "url": "https://www.vilaweb.cat/noticies/directe-noves-protestes-blocus/",
       "published": "2026-10-31T16:41:46+01:00",
@@ -356,11 +436,11 @@
     {
       "source": "betevé",
       "title": "Les botigues del centre, preparades per si hi ha aldarulls: tancaments i aparadors tapiats",
-      "excerpt": "Els establiments comercials del centre de Barcelona es preparen davant d’una altra convocatòria d’aldarulls aquest dissabte al vespre. Després dels saquejos i les destrosses del 24 d’octubre, amb més d’un centenar de detinguts, els Mossos d’Esquadra han activat l’alerta màxima i les botigues s’han preparat retirant gènere, tapiant aparadors i anunciant tancaments anticipats. Més d’una […]",
+      "excerpt": "Els establiments comercials del centre de Barcelona han pres precaucions davant de la convocatòria d’aldarulls per a aquest dissabte al vespre. Després dels saquejos i les destrosses del 24 d’octubre, amb més d’un centenar de detinguts, els Mossos d’Esquadra han activat l’alerta màxima i les botigues s’han preparat retirant gènere, tapiant aparadors i tancant abans […]",
       "url": "https://beteve.cat/economia/botigues-centre-barcelona-preparades-aldarulls-tancaments-anticipats-aparadors-tapiats/",
       "published": "2026-10-31T13:13:57+01:00",
       "category": "comerç",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/tancament-anticipat-botigues-aldarulls-2026-10-31.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/botigues-tarda-2026-10-31.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -661,6 +741,16 @@
       "published": "2026-10-31T08:00:03+01:00",
       "category": "País",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Milers de persones desafien la policia a França en el tercer dissabte de protestes",
+      "excerpt": "En diferents ciutats d'Alemanya i dels Països Baixos també s'han convocat manifestacions sota el nom de \"protestes de la generació Z\"",
+      "url": "https://www.3cat.cat/3catinfo/franca-torna-a-blindar-se-per-por-daldarulls-en-un-dia-de-protestes-a-diversos-punts-deuropa/noticia/3437112/",
+      "published": "2026-10-31T07:56:49+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/9/1793465951093.jpg",
       "priority": "3 · Altres notícies"
     },
     {
