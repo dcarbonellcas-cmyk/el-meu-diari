@@ -13,16 +13,6 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Comença a València la manifestació per exigir justícia per les víctimes de la dana",
-      "excerpt": "Famílies i entitats socials exigeixen unes responsabilitats polítiques que, dos anys després de la tragèdia, consideren pendents",
-      "url": "https://www.3cat.cat/3catinfo/comenca-a-valencia-la-manifestacio-per-exigir-justicia-per-les-victimes-de-la-dana/noticia/3437157/",
-      "published": "2026-10-31T18:41:18+01:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/0/1793468419703.jpg",
-      "priority": "1 · Urgent"
-    },
-    {
-      "source": "3CatInfo",
       "title": "Identifiquen 36 víctimes de l'accident ferroviari de Toledo mentre es treballa al lloc dels fets",
       "excerpt": "Els forenses ja han fet les autòpsies dels 69 cadàvers trobats fins ara en el sinistre, i cinc de les persones denunciades com a desaparegudes han estat trobades amb vida",
       "url": "https://www.3cat.cat/3catinfo/identifiquen-36-victimes-de-laccident-ferroviari-de-toledo-mentre-es-treballa-al-lloc-dels-fets/noticia/3437128/",
@@ -40,6 +30,16 @@
       "category": "nens i nenes",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/castanyada-catakrac-2026-2026-10-30.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "Pensions",
+      "excerpt": "Les pensions van entrar com un tsunami a la precampanya electoral. Uns i altres se les van llançar com a eina per captar vots, donada la base electoral que suposen. Els missatges catastrofistes ocupen un espai que hauria de ser de debat, reflexió i consens. Tot i que hi ha qui ho insinua, no està en risc la pensió de qui actualment la cobra. Una altra cosa és el futur. La demografia, en aquest aspecte, s'assembla a les matemàtiques o a les ciències exactes. I…",
+      "url": "https://www.ara.cat/opinio/pensions_129_5895295.html",
+      "published": "2026-10-31T20:05:28+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7ed9acfe-2141-4678-a503-f277bbb8443a_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -99,8 +99,8 @@
     },
     {
       "source": "betevé",
-      "title": "Última hora sobre la crida de Blocus a Barcelona: dispositiu policial amb un miler d’identificacions",
-      "excerpt": "Alerta màxima a Barcelona per la convocatòria de Blocus d’aquest dissabte. Una setmana després dels greus aldarulls i saquejos, els Mossos d’Esquadra han desplegat un dispositiu de nivell 4, el més alt en mobilitzacions a la via pública, i han blindat la ciutat amb més de 300 agents. La policia catalana, en coordinació amb Guàrdia […]",
+      "title": "Última hora sobre la crida de Blocus: un miler d’identificats en una Barcelona blindada",
+      "excerpt": "Alerta màxima a Barcelona aquest dissabte per la convocatòria de Blocus. Una setmana després dels greus aldarulls i saquejos, els Mossos d’Esquadra han desplegat un dispositiu excepcional i han blindat la ciutat amb més de 300 agents. La policia catalana, en coordinació amb Guàrdia Urbana, ha fet identificacions massives i ha habilitat un punt per […]",
       "url": "https://beteve.cat/societat/blocus-barcelona-dispositiu-31-octubre/",
       "published": "2026-10-31T16:16:01+01:00",
       "category": "seguretat ciutadana",
@@ -172,6 +172,56 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/a567cce4-34e8-443f-bd85-49754a389577_16-9-aspect-ratio_default_1017665.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "La pel·lícula dels nazis que mai no va existir",
+      "excerpt": "L’any 1941, Herman J. Mankiewicz va guanyar un Oscar pel guió de Ciutadà Kane . Ja s’ha explicat en altres ocasions com el va escriure: aïllat en un ranxo enmig del desert de Mojave després de patir un greu accident de cotxe. Orson Welles, conscient de l’addicció a l’alcohol del guionista, el va confinar aprofitant que estava postrat al llit, i li va fer escriure un guió que provocaria un punt d’inflexió en les seves vides i en la història del cinema.",
+      "url": "https://www.ara.cat/media/pel-licula-dels-nazis-mai-no-existir_129_5896359.html",
+      "published": "2026-10-31T20:41:01+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/01fd0429-27e4-48d7-a737-c1bf51a5111a_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "'Gamers', tontos útils i enginyers del caos",
+      "excerpt": "Mai en la història havia estat tan fàcil organitzar una bullanga. Barcelona, la Rosa de Foc, les ha vist de tots colors, però mai la raó de la sublevació urbana havia sigut un contagi de les característiques dels aldarulls del dia 24 d'octubre. Una bullanga que ahir es va evitar amb una forta presència policial, però que es pot reproduir en qualsevol moment. Barcelona, com altres grans ciutats europees, com París, Milà i Bilbao, ha viscut en les últimes setmanes caos urbans d’una naturalesa nova:…",
+      "url": "https://www.ara.cat/opinio/gamers-tontos-utils-enginyers-caos_129_5896343.html",
+      "published": "2026-10-31T20:36:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d8ae2d6b-8edc-492e-b431-643041ab1e32_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La vinyeta",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/vinyeta_134_5896514.html",
+      "published": "2026-10-31T20:32:05+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Les tecnològiques s'estimben a la borsa pels dubtes sobre la rendibilitat de la IA",
+      "excerpt": "En plena temporada de presentació de resultats empresarials, a la borsa dels Estats Units es comença a témer la punxada de la bombolla de la intel·ligència artificial",
+      "url": "https://www.3cat.cat/3catinfo/les-tecnologiques-sestimben-a-la-borsa-pels-dubtes-sobre-la-rendibilitat-de-la-ia/noticia/3437156/",
+      "published": "2026-10-31T20:12:35+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/3/1722090433330.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "RENFE refusa la responsabilitat pels accidents d’Urda i Adamuz: “No té sentit”",
+      "excerpt": "La companyia posa l’accent en el suport a les víctimes i recorda que la gestió de la infrastructura ferroviària no li correspon",
+      "url": "https://www.vilaweb.cat/noticies/renfe-refusa-responsabilitat-accidents-urda-adamuz-defensa-seguretat/",
+      "published": "2026-10-31T20:06:20+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -344,6 +394,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "\"Veritat i justícia\": més de 3.500 persones es manifesten a València dos anys després de la dana",
+      "excerpt": "Famílies i entitats socials exigeixen unes responsabilitats polítiques que, amb Mazón encara a les Corts Valencianes, consideren pendents",
+      "url": "https://www.3cat.cat/3catinfo/comenca-a-valencia-la-manifestacio-per-exigir-justicia-per-les-victimes-de-la-dana/noticia/3437157/",
+      "published": "2026-10-31T18:41:18+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/0/1793468419703.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Deliris de grandesa amb resultat tràgic",
       "excerpt": "L’aposta espanyola per l’alta velocitat sempre m’ha semblat una qüestió digna de ser analitzada en termes polítics, sociològics i fins i tot històrics, perquè ha transcendit governs i partits i s’ha instal·lat com un mantra de la gestió pública, la qual cosa revela, sota el meu parer, algunes obsessions que han esdevingut malaltisses.",
@@ -361,12 +421,22 @@
       "published": "2026-10-31T18:16:17+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/8/1793465276789.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433715/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/crit-o-confit-castanyada-i-halloween-fusionats-a-la-mateixa-festa/noticia/3437161/"
-      }
+      },
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "\"Salen las lobas\", premiada amb dues estatuetes a la Seminci, que també guardona \"Cinemanía\"",
+      "excerpt": "El premi a la millor direcció ha estat per a Lisandro Alonso per \"La libertad doble\" i l'Espiga d'Or al millor llargmetratge per a \"Dao\", d'Alain Gomis",
+      "url": "https://www.3cat.cat/3catinfo/salen-las-lobas-premiada-amb-dues-estatuetes-a-la-seminci-que-tambe-guardona-cinemania/noticia/3437153/",
+      "published": "2026-10-31T18:07:07+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/0/1793458885307.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -650,7 +720,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Desplegament excepcional dels Mossos i botigues blindades per la crida de Blocus",
+      "title": "Blocus: La policia identifica un miler de persones en una tarda sense grans incidents a Barcelona",
       "excerpt": "La policia fa controls preventius al transport públic i zones de les convocatòries de Blocus i comissen estris perillosos i pirotècnia",
       "url": "https://www.3cat.cat/3catinfo/desplegament-excepcional-dels-mossos-i-botigues-blindades-per-la-crida-de-blocus/noticia/3437130/",
       "published": "2026-10-31T13:25:10+01:00",
@@ -670,7 +740,7 @@
     },
     {
       "source": "betevé",
-      "title": "Les botigues del centre, preparades per si hi ha aldarulls: tancaments i aparadors tapiats",
+      "title": "Les botigues del centre es blinden per si hi ha aldarulls: tancaments i aparadors tapiats",
       "excerpt": "Els establiments comercials del centre de Barcelona han pres precaucions davant de la convocatòria d’aldarulls per a aquest dissabte al vespre. Després dels saquejos i les destrosses del 24 d’octubre, amb més d’un centenar de detinguts, els Mossos d’Esquadra han activat l’alerta màxima i les botigues s’han preparat retirant gènere, tapiant aparadors i tancant abans […]",
       "url": "https://beteve.cat/economia/botigues-centre-barcelona-preparades-aldarulls-tancaments-anticipats-aparadors-tapiats/",
       "published": "2026-10-31T13:13:57+01:00",
