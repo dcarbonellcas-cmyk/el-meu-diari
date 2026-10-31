@@ -2,6 +2,16 @@
   "date": "2026-10-31",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Omplir el rebost o prendre’s la medicació, un dilema cada vegada més estès",
+      "excerpt": "L’augment de la pobresa farmacèutica obliga més persones a recórrer a ONG per poder seguir amb el tractament",
+      "url": "https://www.vilaweb.cat/noticies/omplir-rebost-prendres-medicacio-dilema-cada-vegada-mes-estes/",
+      "published": "2026-10-31T08:42:38+01:00",
+      "category": "Sanitat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "L’habitatge necessita pressupost, inversió i sòl",
       "excerpt": "L’habitatge condiciona l’emancipació dels joves, les decisions de les famílies i la capacitat de les empreses per atraure treballadors. La resposta exigeix assumir responsabilitats públiques i ampliar l’oferta. Buscar culpables entre els qui poden aportar estalvi, sòl i capacitat de construir difícilment ens acostarà a la solució.",
@@ -26,6 +36,26 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Quan em vaig prejubilar, va ser el moment de fer realitat el meu somni\"",
+      "excerpt": "Durant dècades, Antònia Carré-Pons (Terrassa, 1960) va compaginar la docència a secundària amb les classes a la Universitat Oberta de Catalunya, l'escriptura de novel·les com Jo també vull ser funcionària (Proa, 2010) i l'edició de llibres com Espill , de Jaume Roig (Quaderns Crema, 2006). \"Quan em vaig prejubilar, va ser el moment de fer realitat el meu somni, que era muntar una editorial\", recorda des de la llibreria Casa Usher, que ha acollit la celebració del cinquè aniversari de Cal Carré, el projecte que…",
+      "url": "https://llegim.ara.cat/actualitat/antonia-carre-pons-em-vaig-prejubilar-moment-realitat-somni_1_5888449.html",
+      "published": "2026-10-31T08:30:36+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f2f5181e-1410-4ed5-ab54-06b6fb29ce0b_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els delictes per incitació a l’odi contra l’islam van augmentar d’un 80% a Barcelona l’any passat",
+      "excerpt": "El ministeri fiscal atribueix l'increment a la tensió creixent a les xarxes socials, on proliferen aquests discursos",
+      "url": "https://www.vilaweb.cat/noticies/delictes-incitacio-odi-contra-islam-augmenten-80-barcelona-2025/",
+      "published": "2026-10-31T08:20:14+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -88,6 +118,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "VilaWeb",
+      "title": "Les portades del dissabte 31 de octubre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-dissabte-31-de-octubre-de-2026/",
+      "published": "2026-10-31T08:00:03+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
       "title": "França torna a blindar-se per por d'aldarulls, en un dia de protestes a diversos punts d'Europa",
       "excerpt": "En diferents ciutats dels Països Baixos també s'han convocat manifestacions sota el nom de \"protestes de la generació Z\", tot i que també circulen missatges que inciten a cometre actes vandàlics",
@@ -105,12 +145,12 @@
       "published": "2026-10-31T07:31:00+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/3/8/1793393025583.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433336/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/de-pinyons-i-molt-mes-loferta-de-panellets-samplia-aquesta-castanyada/noticia/3437108/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -140,12 +180,12 @@
       "published": "2026-10-31T07:27:03+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/2/1793382476324.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433627/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/si-no-hi-vas-et-diuen-que-ets-un-cagat-la-pressio-sobre-els-menors-per-participar-en-aldarulls/noticia/3437089/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
