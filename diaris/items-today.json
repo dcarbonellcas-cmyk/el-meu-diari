@@ -2,6 +2,16 @@
   "date": "2026-10-31",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Identifiquen 36 víctimes de l'accident ferroviari de Toledo mentre es treballa al lloc dels fets",
+      "excerpt": "Els forenses ja han fet les autòpsies dels 69 cadàvers trobats fins ara en el sinistre, mentre que cinc de les persones denunciades com a desaparegudes han estat trobades amb vida",
+      "url": "https://www.3cat.cat/3catinfo/identifiquen-36-victimes-de-laccident-ferroviari-de-toledo-mentre-es-treballa-al-lloc-dels-fets/noticia/3437128/",
+      "published": "2026-10-31T11:29:35+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/1/1793440794817.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "betevé",
       "title": "Catakrac (31/10/2026): Castanyada, Dia dels Morts, l’equidna i més!",
       "excerpt": "La Castanyada i Halloween omplen el Catakrac de festa, tradicions i diversió! La Cata i el Krac fins i tot s’atreveixen a cantar mentre descobrim com els infants de l’Escola Octavio Paz mantenen viu el seu vincle amb Mèxic i celebren el Dia dels Morts. També juguem a futbol amb les jugadores del benjamí femení […]",
@@ -10,6 +20,32 @@
       "category": "nens i nenes",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/castanyada-catakrac-2026-2026-10-30.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
+      "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
+      "published": "2026-10-31T10:09:50+01:00",
+      "updated": "2026-10-31T11:39:46+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/0/1793429970801.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433677/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El govern francès desplega 70.000 agents per a controlar les mobilitzacions la nit de Halloween",
+      "excerpt": "El dispositiu preveu controls a nuclis urbans i prohibeix les concentracions nocturnes",
+      "url": "https://www.vilaweb.cat/noticies/govern-frances-desplega-70000-agents-controlar-mobilitzacions-halloween/",
+      "published": "2026-10-31T11:05:02+01:00",
+      "category": "França",
+      "image": null,
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo · El temps",
@@ -28,22 +64,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
-      "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
-      "published": "2026-10-31T10:09:50+01:00",
-      "updated": "2026-10-31T10:20:20+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/1/0/1793429970801.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433677/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "VilaWeb",
       "title": "Els maquinistes demanen limitar la velocitat si fallen els sistemes de seguretat després de l’accident d’Urda",
       "excerpt": "El sindicat SEMAF exigeix marxa a la vista sempre que es desconnecti l’LZB o l’ERTMS i hi pugui haver més d’un tren aturat",
@@ -56,7 +76,7 @@
     {
       "source": "VilaWeb",
       "title": "Omplir el rebost o prendre’s la medicació, un dilema cada vegada més estès",
-      "excerpt": "L’augment de la pobresa farmacèutica obliga més persones a recórrer a ONG per poder seguir amb el tractament",
+      "excerpt": "L’augment de la pobresa farmacèutica obliga més usuaris a recórrer a l’ONG Banc Farmacèutic per continuar amb el tractament",
       "url": "https://www.vilaweb.cat/noticies/omplir-rebost-prendres-medicacio-dilema-cada-vegada-mes-estes/",
       "published": "2026-10-31T08:42:38+01:00",
       "category": "Sanitat",
@@ -72,6 +92,36 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/a567cce4-34e8-443f-bd85-49754a389577_16-9-aspect-ratio_default_1017665.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Multa o presó per no anar a la mesa electoral a les generals 2026: Què passa si no t’hi presentes?",
+      "excerpt": "Què passa si no em presento a la mesa electoral per a les eleccions generals 2026? Si has estat escollit, formar-ne part es considera una obligació legal i, per tant, hi has d’acudir necessàriament. No presentar-s’hi es considera un delicte electoral. Quines conseqüències té? Segons la llei electoral, no comparèixer a la convocatòria pot comportar […]",
+      "url": "https://beteve.cat/politica/multa-preso-no-anar-mesa-electoral-generals-2026/",
+      "published": "2026-10-31T11:26:32+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/05/Disseny-sense-titol-88.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Nou detinguts i quaranta denúncies a Palma durant la protesta de Blocus",
+      "excerpt": "La policia localitza armes i líquids corrosius a prop de la plaça d’Espanya i s’esperen noves protestes avui",
+      "url": "https://www.vilaweb.cat/noticies/nou-detinguts-40-denuncies-administratives-operatiu-policia-espanyola-palma-blocus/",
+      "published": "2026-10-31T11:23:35+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els discursos d’odi islamofòbics van créixer un 80 % el 2025, segons la Fiscalia de Barcelona",
+      "excerpt": "(ACN/Redacció) Els delictes per incitació a l’odi contra l’islam van créixer considerablement durant el 2025, segons les dades de la memòria de la Fiscalia de Barcelona. Tot i que només es categoritza específicament la islamofòbia com a motiu de discurs d’odi des del 2025 i s’incloïa dins la discriminació per religió, ètnia o origen nacional, […]",
+      "url": "https://beteve.cat/societat/discursos-odi-islamofobics-creixer-80-per-cent/",
+      "published": "2026-10-31T10:33:24+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/02/fiscalia-pornografia-infantil-ia-170226.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -105,8 +155,8 @@
     },
     {
       "source": "ARA",
-      "title": "Marc Márquez va fent passes cap al títol de campió mundial de MotoGP",
-      "excerpt": "Marc Márquez camina amb pas ferm cap al títol de campió de MotoGP. A la cursa sprint del Gran Premi de Malàisia al circuit de Sepang, s'ha fet amb una segona posició que li permet anar fent via. La victòria ha estat per a l'espanyol Pedro Acosta (KTM), qui no és rival a la classificació general. Márquez (Ducati Desmosedici GP26) és més líder del mundial en espera de la cursa de diumenge. Una cursa on sortirà segon per darrera del seu germà, l'Àlex.",
+      "title": "Marc Márquez va fent passos cap al títol de campió mundial de MotoGP",
+      "excerpt": "Marc Márquez camina amb pas ferm cap al títol de campió de MotoGP. A la cursa esprint del Gran Premi de Malàisia al circuit de Sepang, ha aconseguit una segona posició que li permet anar fent via. La victòria ha estat per a l'espanyol Pedro Acosta (KTM), que no és rival a la classificació general. Márquez (Ducati Desmosedici GP26) és més líder del Mundial en espera de la cursa de diumenge, en què sortirà segon per darrere del seu germà, l'Àlex.",
       "url": "https://www.ara.cat/esports/motor/motogp/marc-marquez-fent-passes-cap-titol-campio-mundial-motogp_1_5895925.html",
       "published": "2026-10-31T09:25:17+01:00",
       "category": "Actualitat",
@@ -146,7 +196,7 @@
     {
       "source": "VilaWeb",
       "title": "Els delictes per incitació a l’odi contra l’islam van augmentar d’un 80% a Barcelona l’any passat",
-      "excerpt": "El ministeri fiscal atribueix l'increment a la tensió creixent a les xarxes socials, on proliferen aquests discursos",
+      "excerpt": "El ministeri fiscal n’atribueix l’augment a la tensió creixent a les xarxes socials, on es difonen aquests discursos",
       "url": "https://www.vilaweb.cat/noticies/delictes-incitacio-odi-contra-islam-augmenten-80-barcelona-2025/",
       "published": "2026-10-31T08:20:14+01:00",
       "category": "Policia i justícia",
@@ -215,7 +265,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Les portades del dissabte 31 de octubre de 2026",
+      "title": "Les portades del dissabte 31 d’octubre de 2026",
       "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
       "url": "https://www.vilaweb.cat/noticies/les-portades-del-dissabte-31-de-octubre-de-2026/",
       "published": "2026-10-31T08:00:03+01:00",
