@@ -2,20 +2,170 @@
   "date": "2026-10-31",
   "items": [
     {
+      "source": "ARA",
+      "title": "L’habitatge necessita pressupost, inversió i sòl",
+      "excerpt": "L’habitatge condiciona l’emancipació dels joves, les decisions de les famílies i la capacitat de les empreses per atraure treballadors. La resposta exigeix assumir responsabilitats públiques i ampliar l’oferta. Buscar culpables entre els qui poden aportar estalvi, sòl i capacitat de construir difícilment ens acostarà a la solució.",
+      "url": "https://empreses.ara.cat/opinio/l-habitatge-necessita-pressupost-inversio-sol_129_5895411.html",
+      "published": "2026-10-31T08:00:10+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a567cce4-34e8-443f-bd85-49754a389577_16-9-aspect-ratio_default_1017665.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
-      "title": "La previsió dissabte: dels núvols baixos abundants al cel més assolellat",
-      "excerpt": "Acabem l'octubre i comencem el novembre amb estabilitat i temperatura adient per a l'època",
+      "title": "La previsió de dissabte: núvols baixos abundants i alguns xàfecs cap a l'est",
+      "excerpt": "Acabem l'octubre i comencem el novembre amb estabilitat i temperatura normal per a l'època",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/",
       "published": "2026-10-30T09:45:43+01:00",
-      "updated": "2026-10-31T06:48:13+01:00",
+      "updated": "2026-10-31T07:50:43+01:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/9/9/1793395573399.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/3/1793429440435.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433636/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6433677/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "El desconcert s'apodera del PSOE: \"Necessitem uns dies per digerir-ho\"",
+      "excerpt": "Fa temps que es diu que la política espanyola està immersa en un estat \"d'ai al cor\". El motiu: fets sobrevinguts, alguns fins i tot difícils de creure o assumir, que suposen un gir de 180 graus a l'agenda pública. L'últim, l'accident ferroviari a Urda, a la província de Toledo, que per ara ha deixat 69 víctimes mortals. La diferència amb altres moments és que l'accident agafa al govern espanyol i al PSOE en plena precampanya electoral. I tot i que encara queda un mes…",
+      "url": "https://www.ara.cat/politica/desconcert-s-apodera-psoe-necessitem-dies-digerir-ho_1_5895293.html",
+      "published": "2026-10-31T08:00:12+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f6e21d95-fb5e-466f-841d-5b6a7ec88014_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tens assegurat el teu enterrament i potser no ho saps",
+      "excerpt": "Al voltant d'un terç dels catalans estan coberts per una assegurança de decessos. L'any passat eren uns 2,5 milions de persones, gairebé un terç de la població. Es tracta d'usuaris subjectes a una pòlissa amb una prima que cobreix les despeses relacionades amb el seu enterrament o incineració i el de familiars i els serveis que hi van associats. Els preus poden anar dels 20 o 35 euros a l'any per persones de 30 a 40 anys a 600 a 800 per qui té més…",
+      "url": "https://www.ara.cat/economia/finances-personals/tens-assegurat-enterrament-no-ho_1_5894088.html",
+      "published": "2026-10-31T08:00:11+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fba59655-e046-440e-bc59-9a6052f8471f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un “batzac impressionant” i trucades als familiars: la tragèdia viscuda pels veïns d'Urda",
+      "excerpt": "En els últims dies veïns i veïnes d'Urda s'han convertit en protagonistes involuntaris d'un accident que deixarà seqüeles inesborrables en aquest petit poble a setanta quilòmetres de Toledo. Són un munt de persones anònimes que no van dubtar en acostar-se al lloc dels fets, que van estar al peu del canó des del primer moment per ajudar les víctimes. Ara, encara commocionats, recorden unes hores que els han canviat la vida. Tampoc ho oblidarà el passatger d'un altre AVE que cobria el trajecte de Sevilla…",
+      "url": "https://www.ara.cat/societat/batzac-impressionant-trucades-als-familiars-tragedia-viscuda-pels-veins-d-urda_1_5895153.html",
+      "published": "2026-10-31T08:00:10+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c39b8c49-dc27-4d53-b159-21ae9c2cdcd9_16-9-aspect-ratio_default_0_x2020y1097.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El manual de supervivència de Frenkie de Jong",
+      "excerpt": "Cinc mesos després, Frenkie de Jong va tornar a escena. La darrera vegada que se l'havia vist defensant l'escut del Barça va ser a Mestalla, el 23 de maig, en la jornada que va cloure la Lliga. Contra el Reial Madrid, va saltar de nou a la gespa per disputar els darrers 15 minuts d'un partit amb urgències al marcador. Ho va fer per jugar d'interior, tot i que Hansi Flick l'havia fet entrenar com a central, a causa de l'allau de baixes a la…",
+      "url": "https://www.ara.cat/esports/barca/manual-supervivencia-frenkie-jong_1_5892177.html",
+      "published": "2026-10-31T08:00:09+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/12cb4990-400c-4150-b575-5d3d727ce3d2_source-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Davant uns líders envellits, una generació de polítics joves clama per un relleu als Estats Units",
+      "excerpt": "Donald Trump va tornar al poder fa gairebé dos anys impulsat per la desafecció entre bona part dels estatunidencs amb Joe Biden, els quals sentien que no havia sabut escoltar el seu malestar. L'actual gir a l'esquerra dins del Partit Demòcrata també contesta a una insatisfacció de les bases davant un establishment que ja el 2024 no va saber il·lusionar-los . La sensació que Washington no entén les preocupacions de la gent comuna es materialitza sovint en un fet molt concret: una classe política envellida.",
+      "url": "https://www.ara.cat/internacional/estats-units/davant-liders-envellits-generacio-politics-joves-clama-relleu-als-estats-units_1_5892487.html",
+      "published": "2026-10-31T08:00:09+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c12af86c-9239-484b-b0b7-e1da01e146f4_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Barcelona era la capital gai de l'Estat durant el franquisme\"",
+      "excerpt": "Hi ha un relat historiogràfic que sosté que abans dels moviments d'alliberament LGBTI, en la Barcelona grisa del franquisme, no hi havia pràcticament res: només silenci, foscor i una persecució que hauria impedit qualsevol intent de viure la llibertat sexual fora de casa. No obstant això, les investigacions de Geoffroy Huard (París, 1982) desmenteixen aquesta tesi. Professor d’història contemporània a la Universitat de Cergy-París i especialista en la història de les dissidències sexuals i de gènere a l’Espanya contemporània, Huard ha participat en les jornades…",
+      "url": "https://www.ara.cat/cultura/memoria-historica/barcelona-capital-gai-l-durant-franquisme_1_5874465.html",
+      "published": "2026-10-31T08:00:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ee1e7fc0-1e8c-418b-9bf4-7fa7183affd9_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "França torna a blindar-se per por d'aldarulls, en un dia de protestes a diversos punts d'Europa",
+      "excerpt": "En diferents ciutats dels Països Baixos també s'han convocat manifestacions sota el nom de \"protestes de la generació Z\", tot i que també circulen missatges que inciten a cometre actes vandàlics",
+      "url": "https://www.3cat.cat/3catinfo/franca-torna-a-blindar-se-per-por-daldarulls-en-un-dia-de-protestes-a-diversos-punts-deuropa/noticia/3437112/",
+      "published": "2026-10-31T07:56:49+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/3/1793402966038.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "De pinyons i molt més: l'oferta de panellets s'amplia aquesta Castanyada",
+      "excerpt": "Les pastisseries catalanes esperen un bon nivell de vendes en una campanya en què el quilo oscil·larà entre els 65 i els 80 euros",
+      "url": "https://www.3cat.cat/3catinfo/de-pinyons-i-molt-mes-loferta-de-panellets-samplia-aquesta-castanyada/noticia/3437108/",
+      "published": "2026-10-31T07:31:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/3/8/1793393025583.jpeg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433336/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/de-pinyons-i-molt-mes-loferta-de-panellets-samplia-aquesta-castanyada/noticia/3437108/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Guimerà, l'autor que les actrius feministes de Hollywood volien interpretar",
+      "excerpt": "A principis del segle XX, set grans actrius de l'star-system nord-americà van quedar seduïdes per les protagonistes de \"Terra baixa\" i \"Maria Rosa\" i les van reivindicar en més de 80 teatres",
+      "url": "https://www.3cat.cat/3catinfo/guimera-lautor-que-les-actrius-feministes-de-hollywood-volien-interpretar/noticia/3436671/",
+      "published": "2026-10-31T07:28:22+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/9/1793278380691.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Uns 30 milions de ciutadans nord-americans no disposen de documentació per votar",
+      "excerpt": "ONG i voluntaris ajuden persones pobres i desafavorides a aconseguir una identificació no només per votar, sinó per accedir a ajudes socials per sobreviure",
+      "url": "https://www.3cat.cat/3catinfo/uns-30-milions-de-ciutadans-nord-americans-no-disposen-de-documentacio-per-votar/noticia/3436963/",
+      "published": "2026-10-31T07:27:37+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/7/1793343720974.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "\"Si no hi vas, et diuen que ets un cagat\": la pressió sobre els menors per participar en aldarulls",
+      "excerpt": "En un institut de Terrassa han tractat a l'aula les conseqüències de participar en aldarulls com els que hi va haver a Barcelona, amb més d'un centenar de detinguts, la majoria d'ells menors",
+      "url": "https://www.3cat.cat/3catinfo/si-no-hi-vas-et-diuen-que-ets-un-cagat-la-pressio-sobre-els-menors-per-participar-en-aldarulls/noticia/3437089/",
+      "published": "2026-10-31T07:27:03+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/2/1793382476324.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433627/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/si-no-hi-vas-et-diuen-que-ets-un-cagat-la-pressio-sobre-els-menors-per-participar-en-aldarulls/noticia/3437089/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "Fa vint anys que dormo poc i malament",
+      "excerpt": "La maternitat està renyida amb dormir d’una tirada. No hi ha mètode Estivill per a les mares que hem quedat trastocades després de tantíssimes nits de lactància materna. Estem trinxades d’omplir xeringues de Dalsy amb els ulls mig clucs en meitat de la nit i de dormir com contorsionistes per intentar encabir el fill que s’ha enfilat al nostre llit buscant un lloc segur. Porto gairebé vint anys dormint poc i malament perquè amb quatre fills he passat per totes les etapes: mirar si respiren,…",
+      "url": "https://criatures.ara.cat/criatures/vint-anys-dormo-poc-malament_129_5890711.html",
+      "published": "2026-10-31T07:00:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fead38f2-ffbb-40ca-9acb-f24ba7d88ace_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tres maneres de fer castanyes, la recepta de l'Ada Parellada",
+      "excerpt": "Arriba la Castanyada i la cuinera del restaurant Semproniana ve al nostre rescat. Què podem fer amb les castanyes? Doncs aquí teniu tres idees: rostir-les, bullir-les i fer-ne una salsa per a la carn.",
+      "url": "https://mengem.ara.cat/receptes/tres-maneres-castanyes-recepta-l-ada-parellada_1_5893899.html",
+      "published": "2026-10-31T07:00:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f9de6598-af48-4aea-bffa-c9f349e230c7_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
