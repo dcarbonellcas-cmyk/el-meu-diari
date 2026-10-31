@@ -12,6 +12,38 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dissabte: núvols baixos abundants i alguns xàfecs cap a l'est",
+      "excerpt": "Acabem l'octubre i comencem el novembre amb estabilitat i temperatura normal per a l'època",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/",
+      "published": "2026-10-30T09:45:43+01:00",
+      "updated": "2026-10-31T10:30:32+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/3/1793429440435.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433677/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
+      "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
+      "published": "2026-10-31T10:09:50+01:00",
+      "updated": "2026-10-31T10:20:20+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/0/1793429970801.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433677/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "Els maquinistes demanen limitar la velocitat si fallen els sistemes de seguretat després de l’accident d’Urda",
       "excerpt": "El sindicat SEMAF exigeix marxa a la vista sempre que es desconnecti l’LZB o l’ERTMS i hi pugui haver més d’un tren aturat",
@@ -42,20 +74,34 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dissabte: núvols baixos abundants i alguns xàfecs cap a l'est",
-      "excerpt": "Acabem l'octubre i comencem el novembre amb estabilitat i temperatura normal per a l'època",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/",
-      "published": "2026-10-30T09:45:43+01:00",
-      "updated": "2026-10-31T07:50:43+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/5/3/1793429440435.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433677/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dels-nuvols-baixos-abundants-al-cel-mes-assolellat/noticia/3436961/"
-      },
-      "priority": "2 · Important"
+      "source": "betevé",
+      "title": "L’Europa no se’n surt a domicili: la falta d’efectivitat condemna els escapulats a Eivissa",
+      "excerpt": "L’Europa no és capaç de guanyar fora de casa en la Lliga. El triomf i la bona imatge al camp del Calamocha en la primera ronda de la Copa no s’han traslladat a la competició de la regularitat. Els escapulats han caigut per 3-0 al camp de l’Eivissa. És la tercera jornada seguida lluny de […]",
+      "url": "https://beteve.cat/esports/falta-efectivitat-condemna-europa-eivissa/",
+      "published": "2026-10-31T10:13:03+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Fotos-Beteve-2026-10-31T100957.594-2026-10-31.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Denuncien soroll, brutícia i inseguretat per un assentament al carrer de Petrarca: “És insostenible”",
+      "excerpt": "Tot de lones encerclen i oculten les barraques aixecades aquest estiu al solar del carrer de Petrarca número 33. Es tracta d’un terreny municipal destinat a equipaments i que des del juny concentra bona part de l’atenció dels veïns del voltant. “Un dissabte van venir dues persones, van trencar el cadenat que hi havia posat […]",
+      "url": "https://beteve.cat/societat/denuncien-soroll-bruticia-inseguretat-assentament-carrer-petrarca/",
+      "published": "2026-10-31T10:01:32+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/assentament-petrarca-1-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Reflexions tanoques (4)",
+      "excerpt": ".",
+      "url": "https://diumenge.ara.cat/diumenge/reflexions-tanoques-4_1_5892146.html",
+      "published": "2026-10-31T10:00:40+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a4ed542f-9020-43ed-b237-1dbdba77dce0_source-aspect-ratio_default_0_x1750y2553.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
