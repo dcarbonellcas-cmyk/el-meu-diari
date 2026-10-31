@@ -2,16 +2,6 @@
   "date": "2026-10-31",
   "items": [
     {
-      "source": "betevé",
-      "title": "Última hora sobre la convocatòria de Blocus a Barcelona: alerta màxima dels Mossos al centre",
-      "excerpt": "Alerta màxima a Barcelona per la convocatòria de Blocus per a aquest dissabte. Una setmana després dels greus aldarulls i saquejos, els Mossos d’Esquadra han preparat un dispositiu de nivell 4, el més alt en mobilitzacions a la via pública, per blindar la ciutat, sobretot al centre, on es concentren les crides. De manera coordinada […]",
-      "url": "https://beteve.cat/societat/blocus-barcelona-dispositiu-31-octubre/",
-      "published": "2026-10-31T16:16:01+01:00",
-      "category": "seguretat ciutadana",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/primers-controls-mossos-directe-311026-2026-10-31.jpg",
-      "priority": "1 · Urgent"
-    },
-    {
       "source": "3CatInfo",
       "title": "Identifiquen 36 víctimes de l'accident ferroviari de Toledo mentre es treballa al lloc dels fets",
       "excerpt": "Els forenses ja han fet les autòpsies dels 69 cadàvers trobats fins ara en el sinistre, i cinc de les persones denunciades com a desaparegudes han estat trobades amb vida",
@@ -32,6 +22,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo",
+      "title": "Què està passant a Polònia: crisi social i política pel control del Tribunal Constitucional",
+      "excerpt": "Es tracta de l'últim capítol del xoc obert entre el govern del primer ministre Donald Tusk i el president Karol Nawrocki, que ha denunciat un intent de \"cop d'estat\"",
+      "url": "https://www.3cat.cat/3catinfo/que-passa-a-polonia-crisi-social-i-politica-pel-control-del-tribunal-constitucional/noticia/3437133/",
+      "published": "2026-10-31T17:00:51+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/4/1793457683844.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
       "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
@@ -45,6 +45,16 @@
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/"
       },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Última hora sobre la convocatòria de Blocus: controls i identificacions al centre",
+      "excerpt": "Alerta màxima a Barcelona per la convocatòria de Blocus per a aquest dissabte. Una setmana després dels greus aldarulls i saquejos, els Mossos d’Esquadra han preparat un dispositiu de nivell 4, el més alt en mobilitzacions a la via pública, per blindar la ciutat on es concentren les crides. De manera coordinada amb la Guàrdia […]",
+      "url": "https://beteve.cat/societat/blocus-barcelona-dispositiu-31-octubre/",
+      "published": "2026-10-31T16:16:01+01:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/identificacions-mossos-directe-311026-2026-10-31.jpg",
       "priority": "2 · Important"
     },
     {
@@ -116,12 +126,57 @@
     {
       "source": "3CatInfo",
       "title": "Comencen les manifestacions de protesta a França, enmig d'un ampli dispositiu de seguretat",
-      "excerpt": "En diferents ciutats d'Alemanya i dels Països Baixos també s'han convocat manifestacions sota el nom de \"protestes de la generació Z\", tot i que també circulen missatges que inciten a cometre actes vandàlics",
+      "excerpt": "En diferents ciutats d'Alemanya i dels Països Baixos també s'han convocat manifestacions sota el nom de \"protestes de la generació Z\"",
       "url": "https://www.3cat.cat/3catinfo/franca-torna-a-blindar-se-per-por-daldarulls-en-un-dia-de-protestes-a-diversos-punts-deuropa/noticia/3437112/",
       "published": "2026-10-31T07:56:49+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/2/1793455617628.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Detingut un quart jove a Catalunya vinculat amb el moviment Blocus",
+      "excerpt": "En total, ja hi ha set detinguts entre el Principat i el País Valencià",
+      "url": "https://www.vilaweb.cat/noticies/detingut-quart-jove-catalunya-vinculat-moviment-blocus/",
+      "published": "2026-10-31T17:38:43+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Protestes Blocus: quart detingut per incitar els saquejos a Barcelona",
+      "excerpt": "Els Mossos d'Esquadra han confirmat aquest dissabte una quarta detenció relacionada amb el moviment Blocus a Catalunya. La policia ha arrestat un jove de 21 anys a Cabrera d'Anoia com a presumpte \"instigador i dinamitzador\" del grup que va protagonitzar els saquejos al centre de Barcelona el cap de setmana passat. La investigació continua oberta i els Mossos d'Esquadra no descarten més detencions.",
+      "url": "https://www.ara.cat/societat/successos/preso-provisional-suposat-fundador-impulsor-blocus_1_5896144.html",
+      "published": "2026-10-31T17:30:12+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/534e2178-0ddd-4b7b-a5d9-fa493972c5b7_16-9-aspect-ratio_default_0_x137y264.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "S’avança el Sant Andreu contra el Terol amb gol de Tovar: L’estrena de Javi Rey, minut a minut",
+      "excerpt": "El retorn al Narcís Sala s’apropa. El Sant Andreu disputa aquest dissabte, a partir de les 16 h, el darrer partit com a local a l’exili a la Primera RFEF. Els quadribarrats s’enfronten al Terol al Municipal de Palamós amb la intenció de tornar al camí del triomf. Primera meitat sense gols, però amb ocasions […]",
+      "url": "https://beteve.cat/esports/sant-andreu-terol-primera-rfef-minut-a-minut/",
+      "published": "2026-10-31T16:58:51+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/08/Fotos-Beteve-2026-08-06T122124.444-2026-08-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El relat d'un dels menors detinguts durant els aldarulls a Barcelona i com s'hi va veure implicat",
+      "excerpt": "El jove, de 15 anys, assegura que molts no havien participat en les destrosses i denuncia haver presenciat racisme en l'actuació policial",
+      "url": "https://www.3cat.cat/3catinfo/el-relat-dun-dels-menors-detinguts-durant-els-aldarulls-a-barcelona-i-com-shi-va-veure-implicat/noticia/3437138/",
+      "published": "2026-10-31T16:55:53+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/1/1793017912715.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433711/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-relat-dun-dels-menors-detinguts-durant-els-aldarulls-a-barcelona-i-com-shi-va-veure-implicat/noticia/3437138/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -134,16 +189,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Segueix el Sant Andreu – Terol: el debut de Javi Rey a la banqueta, minut a minut",
-      "excerpt": "El retorn al Narcís Sala s’apropa. El Sant Andreu disputa aquest dissabte, a partir de les 16 h, el darrer partit com a local a l’exili a la Primera RFEF. Els quadribarrats s’enfronten al Terol al Municipal de Palamós amb la intenció de tornar al camí del triomf. Debut de Javi Rey a la banqueta […]",
-      "url": "https://beteve.cat/esports/sant-andreu-terol-primera-rfef-minut-a-minut/",
-      "published": "2026-10-31T16:18:50+01:00",
-      "category": "esports",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/08/Fotos-Beteve-2026-08-06T122124.444-2026-08-06.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "3CatInfo",
       "title": "En què es va inspirar Agatha Christie? Les mil cares de la \"reina del crim\", en una exposició",
       "excerpt": "50 anys després de la seva mort, l'exposició \"Agatha Christie, a world of mystery\" repassa a la Biblioteca Britànica l'extraordinària vida de l'escriptora que ha venut més de 2.000 milions de llibres a tot el món",
@@ -151,12 +196,12 @@
       "published": "2026-10-31T16:17:21+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/9/1793377797494.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433718/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/en-que-es-va-inspirar-agatha-christie-les-mil-cares-de-la-reina-del-crim-en-una-exposicio/noticia/3437090/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -171,7 +216,7 @@
     {
       "source": "ARA",
       "title": "El Girona cau de forma polèmica i absurda a Sant Sebastià",
-      "excerpt": "Quan el Girona havia fet la part més important de la feina, que no era una altra cosa que resistir gairebé 75 minuts amb un home menys per una expulsió polèmica a David López, ha rebut una galleda d’aigua gelada: Gazzaniga, que havia aturat un penal a la primera part, s’ha empassat un xut d’Astiazarán que no havia de comportar cap problema. Els gironins havien perdonat en els minuts previs i marxen amb les mans buides en una nova oportunitat perduda per retallar amb la…",
+      "excerpt": "Quan el Girona havia fet la part més important de la feina, que no era altra cosa que resistir gairebé 75 minuts amb un home menys per una expulsió polèmica a David López, ha rebut una galleda d’aigua gelada: Gazzaniga, que havia aturat un penal a la primera part, s’ha empassat un xut d’Astiazaran que no havia de comportar cap problema. Els gironins havien perdonat massa en els minuts previs, i marxen amb les mans buides en una nova oportunitat perduda per retallar posicions per…",
       "url": "https://www.ara.cat/esports/girona-fc/girona-cau-forma-polemica-absurda-sant-sebastia_1_5896104.html",
       "published": "2026-10-31T16:02:43+01:00",
       "category": "Actualitat",
@@ -189,8 +234,18 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "L'oli de la varietat llei del bessó, molt minoritària, es comercialitza per primera vegada",
+      "excerpt": "És una varietat autòctona, però n'hi ha poc més de 100 oliveres al Baix Camp i el Priorat",
+      "url": "https://www.3cat.cat/3catinfo/loli-de-la-varietat-llei-del-besso-molt-minoritaria-es-comercialitza-per-primera-vegada/noticia/3436670/",
+      "published": "2026-10-31T15:44:41+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/2/1/1793209103612.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
-      "title": "Ingressa a la presó el detingut al País Valencià per fundar i impulsar el moviment Blocus a Espanya",
+      "title": "Desplegament policial \"de màxims\" a Barcelona per una triple convocatòria Blocus",
       "excerpt": "",
       "url": "https://www.ara.cat/societat/successos/ingressa-preso-detingut-pais-valencia-fundar-impulsar-moviment-blocus-espanya_6_5896098.html",
       "published": "2026-10-31T15:15:10+01:00",
@@ -201,7 +256,7 @@
     {
       "source": "betevé",
       "title": "Presó provisional sense fiança per al presumpte fundador de Blocus",
-      "excerpt": "(ACN) Un jutjat de Torrent, Valencia, ha decretat presó provisional i sense fiança per al detingut a qui la Guàrdia Civil considera fundador i impulsor del moviment Blocus a Espanya. A més, la magistrada de guàrdia li ha prohibit accedir a ordinadors i qualsevol mena de dispositiu amb connexió a xarxes socials. Se l’investiga per […]",
+      "excerpt": "(ACN) Un jutjat de Torrent, València, ha decretat presó provisional i sense fiança per al detingut a qui la Guàrdia Civil considera fundador i impulsor del moviment Blocus a Espanya. A més, la magistrada de guàrdia li ha prohibit accedir a ordinadors i qualsevol mena de dispositiu amb connexió a xarxes socials. Se l’investiga per […]",
       "url": "https://beteve.cat/societat/preso-provisional-sense-fianca-fundador-blocus/",
       "published": "2026-10-31T15:00:44+01:00",
       "category": "justícia",
@@ -285,7 +340,7 @@
       "url": "https://www.3cat.cat/3catinfo/desplegament-excepcional-dels-mossos-i-botigues-blindades-per-la-crida-de-blocus/noticia/3437130/",
       "published": "2026-10-31T13:25:10+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpeg/0/0/1793460649400.jpeg",
+      "image": "https://img.3cat.cat/multimedia/jpeg/8/3/1793461786238.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -300,7 +355,7 @@
     },
     {
       "source": "betevé",
-      "title": "Les botigues del centre de Barcelona, preparades per als aldarulls: tancaments i aparadors tapiats",
+      "title": "Les botigues del centre, preparades per si hi ha aldarulls: tancaments i aparadors tapiats",
       "excerpt": "Els establiments comercials del centre de Barcelona es preparen davant d’una altra convocatòria d’aldarulls aquest dissabte al vespre. Després dels saquejos i les destrosses del 24 d’octubre, amb més d’un centenar de detinguts, els Mossos d’Esquadra han activat l’alerta màxima i les botigues s’han preparat retirant gènere, tapiant aparadors i anunciant tancaments anticipats. Més d’una […]",
       "url": "https://beteve.cat/economia/botigues-centre-barcelona-preparades-aldarulls-tancaments-anticipats-aparadors-tapiats/",
       "published": "2026-10-31T13:13:57+01:00",
