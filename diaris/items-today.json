@@ -13,8 +13,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Identifiquen 36 víctimes de l'accident ferroviari de Toledo mentre es treballa al lloc dels fets",
-      "excerpt": "Els forenses ja han fet les autòpsies dels 69 cadàvers trobats fins ara en el sinistre, i cinc de les persones denunciades com a desaparegudes han estat trobades amb vida",
+      "title": "Identifiquen 56 víctimes de l'accident ferroviari de Toledo mentre es treballa al lloc dels fets",
+      "excerpt": "Els forenses ja han fet les autòpsies dels 69 cadàvers trobats fins ara en el sinistre, i hi ha actives 13 denúncies de ciutadans estrangers desapareguts",
       "url": "https://www.3cat.cat/3catinfo/identifiquen-36-victimes-de-laccident-ferroviari-de-toledo-mentre-es-treballa-al-lloc-dels-fets/noticia/3437128/",
       "published": "2026-10-31T11:29:35+01:00",
       "category": "Actualitat",
@@ -30,6 +30,22 @@
       "category": "nens i nenes",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/castanyada-catakrac-2026-2026-10-30.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
+      "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
+      "published": "2026-10-31T10:09:50+01:00",
+      "updated": "2026-10-31T22:28:06+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/0/1793429970801.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433778/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/"
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -54,7 +70,7 @@
     {
       "source": "VilaWeb",
       "title": "Un grup de jutges denuncia la suspensió il·legal de la presidència del Tribunal Constitucional polonès",
-      "excerpt": "Set magistrats en qüestionen el relleu forçat, amb la intervenció policíaca al voltant de la seu de la institució",
+      "excerpt": "Set magistrats en qüestionen el relleu forçat · També denuncien la intervenció policíaca al voltant de la seu de la institució",
       "url": "https://www.vilaweb.cat/noticies/jutges-denuncia-suspensio-illegal-presidencia-tribunal-constitucional-polones/",
       "published": "2026-10-31T19:48:49+01:00",
       "category": "Europa",
@@ -79,22 +95,6 @@
       "published": "2026-10-31T19:00:15+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/80960ef5-9ae7-40df-9819-9c79ea1c7a54_source-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
-      "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
-      "published": "2026-10-31T10:09:50+01:00",
-      "updated": "2026-10-31T18:08:20+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/1/0/1793429970801.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433722/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -184,6 +184,46 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Blocus: cinc claus per entendre un fenomen que desafia tota lògica",
+      "excerpt": "Un fenomen sense una causa compartida, sense líders identificables i amb una lògica de propagació difícil de desxifrar. Blocus encara ofereix molts interrogants. L'ARA planteja cinc claus per intentar entendre com es propaga, qui hi pot haver al darrere i què empeny joves (molts d'ells menors) a sumar-s'hi.",
+      "url": "https://www.ara.cat/societat/successos/blocus-cinc-claus-entendre-fenomen-desafia-tota-logica_1_5896502.html",
+      "published": "2026-10-31T22:30:33+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/74848750-9a06-4186-a772-12182c2e7212_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "97645, primer premi de la Grossa de la Castanyada 2026",
+      "excerpt": "El número 97645 de la sèrie 14 ha obtingut el primer premi de la Grossa de la Castanyada 2026, que s’ha celebrat aquest 31 d’octubre. L’afortunat que tingui la combinació guanyadora rebrà un premi de 500.000 euros. En el sorteig de la Grossa Especial Castanyada també s’han repartit premis inferiors, de 100.000, 1.000, 100 i […]",
+      "url": "https://beteve.cat/economia/97645-primer-premi-grossa-castanyada-2026/",
+      "published": "2026-10-31T22:15:13+01:00",
+      "category": "consum",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/12/grossa-cap-any-1-301224.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé esports",
+      "excerpt": "LÀlex Masana i la Marina Garrido repassen tota lactualitat esportiva del cap de setmana els dissabtes i diumenges al betevé esports.",
+      "url": "https://beteve.cat/beteve-esports/beteve-esports-79/",
+      "published": "2026-10-31T21:59:40+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Comprovar la Grossa de la Castanyada 2026: has guanyat un premi el 31 d’octubre? Consulta-ho!",
+      "excerpt": "Vols comprovar si t’ha tocat la Grossa de la Castanyada 2026? El dissabte 31 d’octubre Loteries de Catalunya realitza aquest sorteig extraordinari, amb un premi de 500.000 € per al bitllet amb el número i la sèrie del primer premi. Com és habitual, a betevé t’ho posem fàcil amb el comprovador de la Grossa: només […]",
+      "url": "https://beteve.cat/economia/comprovar-grossa-castanyada-2026-premis-sorteig/",
+      "published": "2026-10-31T21:52:19+01:00",
+      "category": "consum",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/comprova-grossa-castanyada-2026-2026-10-13.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Diada de Tots Sants esplèndida i amb màximes per sobre dels 20 ºC en espera de més fred",
       "excerpt": "La previsió del temps per a aquest diumenge, 1 de novembre, albira una diada de Tots Sants plàcida i radiant, però especialment marcada per un contrast notable entre la fresca matinal i l’escalfor del migdia. Mínimes més baixes, però màximes de 22 i 23 ºC. Pujada transitòria de la temperatura en espera d’una davallada remarcable […]",
@@ -195,8 +235,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Detenen un altre menor vinculat a Blocus València per difondre missatges",
-      "excerpt": "La policia ha desplegat un dispositiu al centre de València per possibles aldarulls",
+      "title": "Detenen un altre menor vinculat a Blocus València per haver difós missatges",
+      "excerpt": "La policia ha desplegat un dispositiu al centre de València atès el risc d’aldarulls",
       "url": "https://www.vilaweb.cat/noticies/detenen-menor-vinculat-blocus-valencia-difondre-missatges/",
       "published": "2026-10-31T21:14:50+01:00",
       "category": "Societat",
@@ -216,7 +256,7 @@
     {
       "source": "VilaWeb",
       "title": "Internament en règim tancat per al menor detingut a Sant Sadurní d’Anoia pels aldarulls de Barcelona",
-      "excerpt": "El noi de 17 anys és un dels quatre arrestats al Principat relacionats amb l’organització dels Blocus",
+      "excerpt": "El noi, de disset anys, és un dels quatre arrestats al Principat per la vinculació amb l’organització Blocus",
       "url": "https://www.vilaweb.cat/noticies/internament-regim-tancat-menor-detingut-sant-sadurni-anoia-aldarulls-barcelona/",
       "published": "2026-10-31T21:04:37+01:00",
       "category": "Policia i justícia",
@@ -305,7 +345,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "RENFE refusa la responsabilitat pels accidents d’Urda i Adamuz: “No té sentit”",
+      "title": "RENFE refusa la responsabilitat que se li atribueix pels accidents d’Urda i Adamuz: “No té sentit”",
       "excerpt": "La companyia posa l’accent en el suport a les víctimes · Recorda que el manteniment i la gestió de la infrastructura ferroviària no li corresponen",
       "url": "https://www.vilaweb.cat/noticies/renfe-refusa-responsabilitat-accidents-urda-adamuz-defensa-seguretat/",
       "published": "2026-10-31T20:06:20+01:00",
@@ -315,8 +355,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Una trentena de detinguts a l’estat francès durant les protestes, amb un ampli dispositiu policíac",
-      "excerpt": "El Ministeri de l’Interior francès diu que la situació a l'estat sembla generalment tranquil·la",
+      "title": "La policia francesa deté 565 manifestants durant una nova jornada de protestes",
+      "excerpt": "Les manifestacions han transcorregut majoritàriament en calma, malgrat que al final hi ha hagut tensions en unes quantes ciutats",
       "url": "https://www.vilaweb.cat/noticies/detingudes-trentena-persones-estat-frances-protestes-ampli-dispositiu-policial/",
       "published": "2026-10-31T19:24:33+01:00",
       "category": "França",
@@ -486,12 +526,17 @@
     {
       "source": "3CatInfo",
       "title": "\"Veritat i justícia\": més de 3.500 persones es manifesten a València dos anys després de la dana",
-      "excerpt": "Famílies i entitats socials exigeixen unes responsabilitats polítiques que, amb Mazón encara a les Corts Valencianes, consideren pendents",
+      "excerpt": "Famílies i entitats socials exigeixen que Mazón entregui la seva acta de diputat a les Corts Valencianes i perdi així l'aforament",
       "url": "https://www.3cat.cat/3catinfo/comenca-a-valencia-la-manifestacio-per-exigir-justicia-per-les-victimes-de-la-dana/noticia/3437157/",
       "published": "2026-10-31T18:41:18+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/0/1793468419703.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433770/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/comenca-a-valencia-la-manifestacio-per-exigir-justicia-per-les-victimes-de-la-dana/noticia/3437157/"
+      }
     },
     {
       "source": "ARA",
@@ -600,8 +645,8 @@
     },
     {
       "source": "betevé",
-      "title": "Javi Rey s’estrena amb victòria: Triomf del Sant Andreu contra el Terol a Palamós",
-      "excerpt": "El Sant Andreu ha guanyat el darrer partit lluny del Narcís Sala. Javi Rey s’ha estrenat com a tècnic quadribarrat amb una victòria balsàmica contra el Terol. Els quadribarrats han guanyat 2 a 0 i trenquen una dinàmica de quatre partits sense aconseguir la vitctòria. Tovar i Darbra han estat els golejadors. Primera meitat sense […]",
+      "title": "Javi Rey s’estrena amb victòria: triomf del Sant Andreu contra el Terol a Palamós",
+      "excerpt": "El Sant Andreu ha guanyat el darrer partit lluny del Narcís Sala. Javi Rey s’ha estrenat com a tècnic quadribarrat amb una victòria balsàmica contra el Terol. Els quadribarrats han guanyat 2 a 0 i trenquen una dinàmica de quatre partits sense aconseguir la victòria. Tovar i Darbra han estat els golejadors. Primera meitat sense […]",
       "url": "https://beteve.cat/esports/sant-andreu-terol-primera-rfef-minut-a-minut/",
       "published": "2026-10-31T17:50:15+01:00",
       "category": "esports",
@@ -620,7 +665,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Detingut un quart jove a Catalunya vinculat amb el moviment Blocus",
+      "title": "Detenen un quart jove a Catalunya vinculat amb el moviment Blocus",
       "excerpt": "En total, ja hi ha set detinguts entre el Principat i el País Valencià",
       "url": "https://www.vilaweb.cat/noticies/detingut-quart-jove-catalunya-vinculat-moviment-blocus/",
       "published": "2026-10-31T17:38:43+01:00",
@@ -655,8 +700,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "[EN DIRECTE] Barcelona i València mantindran els dispositius policials les pròximes hores malgrat la calma",
-      "excerpt": "A València també hi ha un gran dispositiu policíac per les convocatòries de Blocus",
+      "title": "[EN DIRECTE] Barcelona i València mantindran els dispositius policíacs durant les pròximes hores malgrat la calma",
+      "excerpt": "La policia ha fet un miler d'identificacions i una detenció a Barcelona",
       "url": "https://www.vilaweb.cat/noticies/directe-noves-protestes-blocus/",
       "published": "2026-10-31T16:41:46+01:00",
       "category": "Policia i justícia",
@@ -681,7 +726,7 @@
     {
       "source": "VilaWeb",
       "title": "“Estem cansades, però que quede clar que no callarem”: el crit de les víctimes en el segon aniversari de la gota freda",
-      "excerpt": "L'acte que l'Associació de Víctimes Mortals ha fet per retre homenatge a la gent que l’ha acompanyat durant aquests dos anys s'ha convertit en un reconeixement a la societat valenciana",
+      "excerpt": "L'acte de l'Associació de Víctimes Mortals per a retre homenatge a la gent que l’ha acompanyat durant aquests dos anys s'ha convertit en un reconeixement a la societat valenciana",
       "url": "https://www.vilaweb.cat/noticies/estem-cansades-pero-que-quede-clar-que-no-callarem-el-crit-de-les-victimes-en-el-segon-aniversari-de-la-gota-freda/",
       "published": "2026-10-31T16:06:47+01:00",
       "category": "País Valencià",
@@ -760,7 +805,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La jutgessa envia a presó provisional el fundador de Blocus Espanya detingut a Picanya",
+      "title": "La jutgessa envia a presó provisional el fundador de Blocus Espanya, detingut a Picanya",
       "excerpt": "El jutjat de Torrent decreta l'ingrés sense fiança de l'impulsor del col·lectiu",
       "url": "https://www.vilaweb.cat/noticies/la-jutgessa-envia-a-preso-provisional-el-fundador-de-blocus-espanya-detingut-a-picanya/",
       "published": "2026-10-31T14:15:07+01:00",
@@ -810,7 +855,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Blocus: La policia identifica un miler de persones en una tarda sense grans incidents a Barcelona",
+      "title": "Blocus: la policia identifica un miler de persones en una tarda sense grans incidents a Barcelona",
       "excerpt": "Collboni adverteix que els aldarulls es poden repetir però assegura que hi haurà \"tolerància zero\" amb el vandalisme",
       "url": "https://www.3cat.cat/3catinfo/desplegament-excepcional-dels-mossos-i-botigues-blindades-per-la-crida-de-blocus/noticia/3437130/",
       "published": "2026-10-31T13:25:10+01:00",
