@@ -19,7 +19,12 @@
       "published": "2026-10-31T11:29:35+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/1/1793440794817.jpg",
-      "priority": "1 · Urgent"
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433762/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/identifiquen-36-victimes-de-laccident-ferroviari-de-toledo-mentre-es-treballa-al-lloc-dels-fets/noticia/3437128/"
+      }
     },
     {
       "source": "betevé",
@@ -30,6 +35,16 @@
       "category": "nens i nenes",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/castanyada-catakrac-2026-2026-10-30.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els acampats de la Puerta del Sol comencen a abandonar la protesta per preparar la vaga general",
+      "excerpt": "Les comissions que organitzaven l'acampada ja no són sobre el terreny i a la Puerta del Sol només hi queda la formada per persones sense sostre",
+      "url": "https://www.3cat.cat/3catinfo/els-acampats-de-la-porta-del-sol-deixaran-la-protesta-per-preparar-la-vaga-general/noticia/3437187/",
+      "published": "2026-10-31T23:25:57+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/6/1791463538661.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo · El temps",
@@ -185,6 +200,16 @@
     },
     {
       "source": "ARA",
+      "title": "A Flick li cau la bava: els apunts en calent del Barça-Alabès",
+      "excerpt": "Golejada reparadora del Barça contra l'Alabès a la Lliga. Els blaugranes es van refer de les desfetes contra el PSG i el Madrid amb un resultat de tenis (6-1). A continuació, uns apunts en calent.",
+      "url": "https://www.ara.cat/esports/barca/flick-li-cau-bava-apunts-calent-barca-alabes_1_5896513.html",
+      "published": "2026-10-31T22:58:43+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9c16b159-fc7b-4c1e-ab2e-a1f5887d1f38_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
       "title": "Blocus: cinc claus per entendre un fenomen que desafia tota lògica",
       "excerpt": "Un fenomen sense una causa compartida, sense líders identificables i amb una lògica de propagació difícil de desxifrar. Blocus encara ofereix molts interrogants. L'ARA planteja cinc claus per intentar entendre com es propaga, qui hi pot haver al darrere i què empeny joves (molts d'ells menors) a sumar-s'hi.",
       "url": "https://www.ara.cat/societat/successos/blocus-cinc-claus-entendre-fenomen-desafia-tota-logica_1_5896502.html",
@@ -201,6 +226,16 @@
       "published": "2026-10-31T22:15:13+01:00",
       "category": "consum",
       "image": "https://img.beteve.cat/wp-content/uploads/2024/12/grossa-cap-any-1-301224.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Festival del Barça per aixafar l'Alabès i redreçar el rumb en la Lliga (6-1)",
+      "excerpt": "Un Fermín López estel·lar ha liderat la reacció blaugrana. Raphinha i Lamine Yamal, tots dos amb un doblet de gols, han estat imparables en atac. També Gordon s'ha afegit a la festa",
+      "url": "https://www.3cat.cat/3catinfo/en-directe-barca-alabes-els-culers-busquen-retrobar-se-amb-la-victoria/noticia/3437094/",
+      "published": "2026-10-31T22:15:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/3/1793481106930.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -235,7 +270,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Detenen un altre menor vinculat a Blocus València per haver difós missatges",
+      "title": "Detenen un altre menor vinculat amb Blocus València per haver difós missatges",
       "excerpt": "La policia ha desplegat un dispositiu al centre de València atès el risc d’aldarulls",
       "url": "https://www.vilaweb.cat/noticies/detenen-menor-vinculat-blocus-valencia-difondre-missatges/",
       "published": "2026-10-31T21:14:50+01:00",
@@ -341,7 +376,12 @@
       "published": "2026-10-31T20:12:35+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/3/1722090433330.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433714/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/les-tecnologiques-sestimben-a-la-borsa-pels-dubtes-sobre-la-rendibilitat-de-la-ia/noticia/3437156/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -351,6 +391,26 @@
       "published": "2026-10-31T20:06:20+01:00",
       "category": "Societat",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Pogacar revela la gravetat de les seves lesions: \"Estic content de ser viu\"",
+      "excerpt": "El ciclista eslovè ha explicat en una entrevista a The Athletic les greus conseqüències de la caiguda a la Vuelta i com el van afectar mentalment: \"Estava molt deprimit\"",
+      "url": "https://www.3cat.cat/3catinfo/pogacar-revela-la-gravetat-de-les-seves-lesions-estic-content-de-ser-viu/noticia/3437170/",
+      "published": "2026-10-31T19:57:22+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/1/4/1793472749641.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Barça tanca un retorn perfecte a Europa amb golejada d'escàndol al Lucenec (0-11)",
+      "excerpt": "Els blaugranes fan el ple de victòries a la Ronda Principal per passar com a primers als vuitens de final de la Champions",
+      "url": "https://www.3cat.cat/3catinfo/en-directe-lucenec-barca-els-culers-ja-tenen-els-vuitens-al-sac-a-esport3/noticia/3437103/",
+      "published": "2026-10-31T19:30:59+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/2/9/1793476433392.png",
       "priority": "3 · Altres notícies"
     },
     {
@@ -526,17 +586,17 @@
     {
       "source": "3CatInfo",
       "title": "\"Veritat i justícia\": més de 3.500 persones es manifesten a València dos anys després de la dana",
-      "excerpt": "Famílies i entitats socials exigeixen que Mazón entregui la seva acta de diputat a les Corts Valencianes i perdi així l'aforament",
+      "excerpt": "Famílies i entitats socials exigeixen que Mazón entregui la seva acta de diputat a les Corts Valencianes i perdi l'aforament",
       "url": "https://www.3cat.cat/3catinfo/comenca-a-valencia-la-manifestacio-per-exigir-justicia-per-les-victimes-de-la-dana/noticia/3437157/",
       "published": "2026-10-31T18:41:18+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/0/1793468419703.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433770/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/comenca-a-valencia-la-manifestacio-per-exigir-justicia-per-les-victimes-de-la-dana/noticia/3437157/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -571,7 +631,12 @@
       "published": "2026-10-31T18:07:07+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/0/1793458885307.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433717/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/salen-las-lobas-premiada-amb-dues-estatuetes-a-la-seminci-que-tambe-guardona-cinemania/noticia/3437153/"
+      }
     },
     {
       "source": "betevé",
@@ -675,12 +740,12 @@
     },
     {
       "source": "ARA",
-      "title": "Règim tancat per a un dels menors que va incitar els aldarulls a Barcelona",
-      "excerpt": "La secció de menors del Tribunal d'Instància de Barcelona ha acordat l'internament en règim tancat per al menor detingut a Sant Sadurní per la seva suposada vinculació en l'organització dels aldarulls a Barcelona de dissabte passat. Els Mossos d'Esquadra també han confirmat aquest dissabte una quarta detenció relacionada amb el moviment Blocus a Catalunya: un jove de 21 anys a Cabrera d'Anoia com a presumpte \"instigador i dinamitzador\" del grup que va protagonitzar els saquejos al centre de Barcelona el cap de setmana passat.",
+      "title": "El blindatge policial i comercial dissuadeix la segona gran convocatòria Blocus a Barcelona",
+      "excerpt": "L'amenaça Blocus ha paralitzat el centre de Barcelona sense que es produeixin aldarulls com els de dissabte passat. Tot i que hi havia convocatòries a diferents ciutats catalanes, la de la capital era la que la policia s'ha pres més seriosament perquè tenia fins a tres ubicacions diferents. Finalment, però, ha quedat en un no res. Els Mossos d'Esquadra han identificat alguns grups de joves vestits de negre que no portaven DNI –fet que indicaria que volien evitar ser identificats–, però que sí que duien…",
       "url": "https://www.ara.cat/societat/successos/preso-provisional-suposat-fundador-impulsor-blocus_1_5896144.html",
       "published": "2026-10-31T17:30:12+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/534e2178-0ddd-4b7b-a5d9-fa493972c5b7_16-9-aspect-ratio_default_0_x137y264.jpg",
+      "image": "https://static1.ara.cat/clip/fa9888a3-2f51-47f0-bc26-4a7d719c4bca_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -761,7 +826,12 @@
       "published": "2026-10-31T15:44:41+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/2/1/1793209103612.jpeg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433719/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/loli-de-la-varietat-llei-del-besso-molt-minoritaria-es-comercialitza-per-primera-vegada/noticia/3436670/"
+      }
     },
     {
       "source": "ARA",
@@ -1081,7 +1151,12 @@
       "published": "2026-10-31T09:23:19+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/3/1761859488534.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433698/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/lonu-deixa-en-suspens-la-missio-de-pau-al-sahara-occidental-i-reforca-la-posicio-del-marroc/noticia/3437125/"
+      }
     },
     {
       "source": "ARA",
@@ -1191,7 +1266,12 @@
       "published": "2026-10-31T07:56:49+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/9/1793465951093.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433769/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/franca-torna-a-blindar-se-per-por-daldarulls-en-un-dia-de-protestes-a-diversos-punts-deuropa/noticia/3437112/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -1265,12 +1345,12 @@
     },
     {
       "source": "ARA",
-      "title": "Guia del partit Barça-Alabès de Lliga: horari, on veure'l i alineacions",
-      "excerpt": "El Barça vol tornar a aixecar el cap després d'una de les setmanes més complicades de la temporada. Les derrotes contra el Reial Madrid al clàssic i el PSG a la Champions League han frenat l'eufòria de l'equip de Hansi Flick, que havia començat el curs a un gran nivell. Tot i els dos cops consecutius, els blaugranes mantenen el lideratge de la Lliga i busquen una victòria que els permeti recuperar sensacions davant de l'afició.",
+      "title": "Fermín deixa clar quin és el camí del Barça",
+      "excerpt": "Després d'una setmana arrossegant dubtes per culpa de les dues derrotes consecutives contra el PSG i el Reial Madrid, el cor del Barça de Hansi Flick va tornar a bategar de la millor manera que sap fer-ho: a còpia de gols (6-1). La fe inesgotable de Fermín López va guiar els blaugranes de nou cap al camí del triomf i, una jornada més, l'equip continuarà com a líder de la Lliga.",
       "url": "https://www.ara.cat/esports/barca/fc-barcelona-barca-alabes-la-lliga-futbol_1_5892741.html",
       "published": "2026-10-31T00:05:34+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/01bb7dc0-881f-452b-9564-43a44d02cbe4_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/9507288c-2783-4eee-84a6-f89a8301447e_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     }
   ]
