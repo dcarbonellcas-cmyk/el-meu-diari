@@ -9,12 +9,12 @@
       "published": "2026-11-01T17:01:24+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/2/1793547706624.jpg",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433857/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-incertesa-es-el-pitjor-com-afecta-lespera-per-identificar-les-victimes-del-tren-de-toledo/noticia/3437247/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "3CatInfo · El temps",
@@ -60,6 +60,21 @@
       "published": "2026-11-01T18:53:57+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/54f1c80d-2965-45c0-8734-3b329443b517_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Renfe, Iryo i els sindicats fan front comú per reclamar més seguretat a l'alta velocitat",
+      "excerpt": "El Col·legi d'Enginyers assenyala que Adif i Renfe són empreses que \"necessiten una gestió a llarg termini\" i \"equips estables durant un bon temps\"",
+      "url": "https://www.3cat.cat/3catinfo/carrecs-tecnics-i-mandats-de-quatre-anys-el-collegi-denginyers-proposa-refundar-adif/noticia/3437234/",
+      "published": "2026-11-01T16:35:27+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/5/1670796187156.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433855/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/carrecs-tecnics-i-mandats-de-quatre-anys-el-collegi-denginyers-proposa-refundar-adif/noticia/3437234/"
+      },
       "priority": "2 · Important"
     },
     {
@@ -145,6 +160,61 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Andrea Kimi Antonelli: un campió destinat a revolucionar la F1 des del dia del seu bateig",
+      "excerpt": "Una ferida de 73 anys ha quedat tancada. Itàlia celebra tenir el seu primer campió de la Fórmula 1 des de l'any 1953, quan el milanès Alberto Ascari guanyava el seu segon mundial a dalt d'un Ferrari. Des de llavors, cap italià havia regnat a la Fórmula 1. Fins avui. El jove Andrea Kimi Antonelli (2006) s'ha proclamat campió mundial i ha batut un munt de rècords, ja que també s'ha convertit en el campió més jove de tots els temps. Fins ara el rècord…",
+      "url": "https://www.ara.cat/esports/motor/formula1/andrea-kimi-antonelli-campio-destinat-revolucionar-f1-des-dia-bateig_1_5886798.html",
+      "published": "2026-11-01T23:24:20+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2a36fda7-1670-44e0-93f8-b4a57164ca91_16-9-aspect-ratio_default_0_x2557y925.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Kimi Antonelli es converteix en el campió del món més jove de la història de la Fórmula 1",
+      "excerpt": "El pilot italià de Mercedes guanya el Mundial amb només 20 anys i quatre curses encara per disputar-se",
+      "url": "https://www.3cat.cat/3catinfo/kimi-antonelli-es-converteix-en-el-campio-del-mon-mes-jove-de-la-historia-de-la-formula-1/noticia/3437265/",
+      "published": "2026-11-01T23:22:05+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/2/3/1793566278232.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Hackegen el sistema d'alerta per prevenir la població dels atacs a Ucraïna",
+      "excerpt": "Air Alert, l'aplicació que alerta la població ucraïnesa dels atacs russos, ha patit un atac informàtic aquest diumenge al vespre, segons ha confirmat l'exèrcit. Els ucraïnesos han rebut als seus telèfons mòbils tres missatges consecutius d'alarma poc abans de les onze de la nit, una hora abans a Catalunya. El primer advertia d'un \"perill de radiació\" a Kíiv, el segon, d'una \"amenaça química\" i el tercer, de \"baralles als carrers\".",
+      "url": "https://www.ara.cat/internacional/europa/hackegen-sistema-d-alarma-prevenir-poblacio-dels-atacs-ucraina_1_5897173.html",
+      "published": "2026-11-01T22:46:59+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/14d1c69f-ddb5-4099-bf46-aef9eddfeda1_16-9-aspect-ratio_default_0_x2971y2099.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Medicinals o només saludables: una guia per conèixer els bolets dels boscos catalans",
+      "excerpt": "Enric Gràcia, el caçador de bolets per excel·lència de Catalunya, ha publicat el primer llibre en català sobre el potencial terapèutic dels bolets",
+      "url": "https://www.3cat.cat/3catinfo/medicinals-o-nomes-saludables-una-guia-per-coneixer-els-bolets-dels-boscos-catalans/noticia/3437263/",
+      "published": "2026-11-01T22:21:45+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/3/1793566214736.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433860/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/medicinals-o-nomes-saludables-una-guia-per-coneixer-els-bolets-dels-boscos-catalans/noticia/3437263/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Mor l'escultor, pintor i artista visual valencià Miquel Navarro als 81 anys",
+      "excerpt": "Barcelona acull la seva estructura monumental \"Fraternitat\", dedicada a les persones afusellades al Camp de la Bota durant la Guerra Civil i la dictadura franquista",
+      "url": "https://www.3cat.cat/3catinfo/mor-lescultor-pintor-i-artista-visual-valencia-miquel-navarro-als-81-anys/noticia/3437253/",
+      "published": "2026-11-01T22:20:25+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/2/1793551694028.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "betevé esports",
       "excerpt": "LÀlex Masana i la Marina Garrido repassen tota lactualitat esportiva del cap de setmana els dissabtes i diumenges al betevé esports.",
@@ -153,6 +223,21 @@
       "category": "Actualitat",
       "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Dos anys de l'accident de Novi Sad que va despertar els estudiants que ara governaran Sèrbia",
+      "excerpt": "L'esfondrament mortal en una estació acabada de reformar va posar en evidència la corrupció sistèmica del govern i va desencadenar una onada de protestes que han canviat el curs polític del país",
+      "url": "https://www.3cat.cat/3catinfo/dos-anys-de-laccident-de-novi-sad-que-va-despertar-els-estudiants-que-ara-governaran-serbia/noticia/3437262/",
+      "published": "2026-11-01T21:58:19+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/1/1793562958719.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6359007/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/dos-anys-de-laccident-de-novi-sad-que-va-despertar-els-estudiants-que-ara-governaran-serbia/noticia/3437262/"
+      }
     },
     {
       "source": "betevé",
@@ -265,6 +350,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "Moren quatre persones d'una mateixa família en un accident de trànsit a Zamora",
+      "excerpt": "Dues persones adultes i dues criatures viatjaven en el vehicle sinistrat",
+      "url": "https://www.3cat.cat/3catinfo/moren-quatre-persones-duna-mateixa-familia-en-un-accident-de-transit-a-zamora/noticia/3437257/",
+      "published": "2026-11-01T20:43:41+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/2/1793554025829.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "La jutgessa que investiga l'accident d'Urda demana accelerar la cerca i que es treballi de nit",
       "excerpt": "Que s'accelerin les tasques de cerca, que es destinin els operaris que siguin necessaris per fer-ho i que es treballi de manera ininterrompuda, també de nit. Aquestes són les tres peticions que ha fet la jutgessa que investiga la tragèdia ferroviària d'Urda a l'empresa de grues contractada per Adif-Renfe davant la \"urgent necessitat\" de localitzar totes les possibles restes que podrien trobar-se encara al lloc on hi ha els trens sinistrats. Es continua inspeccionant la zona de l'accident on han mort almenys 69 persones amb…",
@@ -283,6 +378,21 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/5abb34a0-3060-4d11-9e5d-4b2bd782a728_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El portuguès Gonçalo M. Tavares, Premi Formentor 2026",
+      "excerpt": "L'entrega del premi torna a l'Hotel Formentor de Mallorca, on va néixer als anys 60, després de la reforma integral de l'establiment",
+      "url": "https://www.3cat.cat/3catinfo/el-portugues-goncalo-m-tavares-premi-formentor-2026/noticia/3436764/",
+      "published": "2026-11-01T20:24:21+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/7/1793555491373.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433861/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-portugues-goncalo-m-tavares-premi-formentor-2026/noticia/3436764/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -357,6 +467,16 @@
       "published": "2026-11-01T19:18:01+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/8/1793547165083.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Reial Madrid manté el pols pel liderat amb un polèmic partit a Santander (0-3)",
+      "excerpt": "Un molt qüestionable penal sobre Mbappé obre la golejada de l'equip de Mourinho a El Nuevo Sardinero",
+      "url": "https://www.3cat.cat/3catinfo/en-directe-racing-reial-madrid-els-blancs-volen-mantenir-la-ratxa-al-sardinero/noticia/3437106/",
+      "published": "2026-11-01T19:10:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/3/1793548691836.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -550,6 +670,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "Quim Masferrer: \"Riure d'un mateix és de les coses més sanes que hi ha\"",
+      "excerpt": "El presentador d'\"El foraster\" reflexiona a \"Col·lapse\" sobre l'humor, el valor del temps, la importància de compartir i la necessitat de prendre's la vida amb més calma",
+      "url": "https://www.3cat.cat/3catinfo/quim-masferrer-riure-dun-mateix-es-de-les-coses-mes-sanes-que-hi-ha/noticia/3437144/",
+      "published": "2026-11-01T17:42:10+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/3/1793450915133.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "El Martinenc trenca una llança a favor de l’Europa: “Això és un camp de cols”",
       "excerpt": "El Martinenc s’ha vist superat per la mínima pel Tona. Toni Carrillo s’ha mostrat decebut i trist amb l’actuació del seu equip i amb el penal assenyalat en contra, que els ha costat els tres punts. Aquest era l’últim partit abans del canvi de gespa natural a artificial i el terreny de joc no estava […]",
@@ -577,12 +707,22 @@
       "published": "2026-11-01T17:22:43+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/2/1793548417129.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433853/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/identificacions-policials-que-son-per-que-es-fan-i-quines-consequencies-poden-tenir/noticia/3437243/"
-      }
+      },
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Sorpresa Ferrero: desvelen el tenista que es posarà a les seves ordres",
+      "excerpt": "El tècnic d'Ontinyent formarà part, finalment, de l'equip de Ben Shelton, número 4 del món i un dels jugadors amb més potencial del circuit. El diari The Times ha posat punt final al serial avançant-se a l'anunci oficial",
+      "url": "https://www.3cat.cat/3catinfo/sorpresa-ferrero-desvelen-el-tenista-que-es-posara-a-les-seves-ordres/noticia/3437249/",
+      "published": "2026-11-01T17:13:43+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/9/9/1793549326699.png",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -632,21 +772,6 @@
       "published": "2026-11-01T16:35:57+01:00",
       "category": "societat",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/11/DH011126takiok_1-2026-11-01.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "3CatInfo",
-      "title": "Càrrecs tècnics i mandats de quatre anys: el Col·legi d'Enginyers proposa refundar Adif",
-      "excerpt": "El seu degà, Pere Calvet, ha assenyalat que Adif i Renfe són empreses que \"necessiten una gestió a llarg termini\" i \"equips estables durant un bon temps\"",
-      "url": "https://www.3cat.cat/3catinfo/carrecs-tecnics-i-mandats-de-quatre-anys-el-collegi-denginyers-proposa-refundar-adif/noticia/3437234/",
-      "published": "2026-11-01T16:35:27+01:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/5/1670796187156.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433855/embed/",
-        "source": "3CatInfo",
-        "articleUrl": "https://www.3cat.cat/3catinfo/carrecs-tecnics-i-mandats-de-quatre-anys-el-collegi-denginyers-proposa-refundar-adif/noticia/3437234/"
-      },
       "priority": "3 · Altres notícies"
     },
     {
@@ -882,12 +1007,12 @@
       "published": "2026-11-01T12:34:52+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/5/1793542573857.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433854/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/diada-de-tots-sants-vilafranca-vol-posar-la-cirereta-a-una-temporada-fantastica/noticia/3437213/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
