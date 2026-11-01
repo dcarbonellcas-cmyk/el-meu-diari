@@ -2,6 +2,16 @@
   "date": "2026-11-01",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "\"La incertesa és el pitjor\": com afecta l'espera per identificar les víctimes del tren de Toledo",
+      "excerpt": "La jutgessa que investiga l'accident demana activar tots els recursos per detectar si hi ha més víctimes entre els vagons i limitar l'espera de les famílies",
+      "url": "https://www.3cat.cat/3catinfo/la-incertesa-es-el-pitjor-com-afecta-lespera-per-identificar-les-victimes-del-tren-de-toledo/noticia/3437247/",
+      "published": "2026-11-01T17:01:24+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/2/1793547706624.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
       "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
@@ -92,12 +102,72 @@
       "published": "2026-11-01T07:17:14+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/3/7/1793350555173.jpeg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433806/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/ruta-66-4000-quilometres-per-escoltar-els-estats-units-abans-de-les-eleccions-de-mig-mandat/noticia/3436217/"
-      }
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Abans que vingui la fosca",
+      "excerpt": "Passa poques vegades que una novel·la literalment subjugui els seus lectors; vull dir, que durant uns dies la vida passi a girar entorn de l'atenció que dispensem a la lectura d'una història de ficció. I que després, una vegada acabada la lectura, passi a girar entorn de l'impacte que la novel·la ens ha deixat, de les emocions que ens ha fet sentir o de les idees que ens ha convocat, o fet néixer, dins el pensament. Això m'ha passat recentment amb Abans que vingui la…",
+      "url": "https://www.ara.cat/opinio/vingui-fosca_129_5896148.html",
+      "published": "2026-11-01T17:30:23+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3652cd14-1b56-458e-ac4e-ba7c2e14ac6c_16-9-aspect-ratio_default_0_x785y167.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Identificacions policials: què són, per què es fan i quines conseqüències poden tenir",
+      "excerpt": "L'endemà que la policia identifiqués 2.264 joves en el context de les convocatòries de Blocus, expliquem com es fa una identificació policial",
+      "url": "https://www.3cat.cat/3catinfo/identificacions-policials-que-son-per-que-es-fan-i-quines-consequencies-poden-tenir/noticia/3437243/",
+      "published": "2026-11-01T17:22:43+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/2/1793548417129.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La pastisseria Mont-rodon de les Corts reobre gràcies a l’empenta de dos treballadors",
+      "excerpt": "L’Emma Redó treballadora de la pastisseria Mont-rodon (travessera de les Corts, 269) durant 17 anys i Julio Montoya, el mestre pastisser des d’en fa tres, fa dies que viuen en una bombolla. El divendres 23 d’octubre van tornar a aixecar la persiana del negoci, que a l’estiu va tancar per jubilació de l’antic propietari. Amb […]",
+      "url": "https://beteve.cat/estils-de-vida/pastisseria-mont-rodon-les-corts-reviu/",
+      "published": "2026-11-01T17:12:07+01:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/pastisseria-mont-rodon-2026-10-28.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Última sortida de la Terminal C de creuers del Port de Barcelona",
+      "excerpt": "La Terminal C de creuers de Barcelona tanca. Aquest diumenge s’ha produït la darrera sortida d’un creuer. En aquest cas es tracta d’un creuer d’escala de Norwegian Epic que ha arribat a primera hora del matí i que ha salpat del port de Barcelona a les 17 hores. Amb capacitat per a 3.800 passatgers, la […]",
+      "url": "https://beteve.cat/economia/ultima-sortida-terminal-c-creuers-port-barcelona/",
+      "published": "2026-11-01T17:00:59+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/terminal-c-darrer-creuer-011126-2026-11-01.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Tall a l’L2 de metro entre la Pau i Gorg a partir d’aquest dilluns per unes obres de reparació",
+      "excerpt": "A partir d’aquest dilluns, 2 de novembre, i fins al 3 de desembre, es tallarà el servei de metro de l’L2 entre les estacions de la Pau i Gorg. El motiu són les obres de reparació d’una esquerda a la llosa de la via que va aparèixer com a conseqüència de la pressió de l’aigua després […]",
+      "url": "https://beteve.cat/mobilitat/tall-l2-metro-la-pau-gorg/",
+      "published": "2026-11-01T16:53:34+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/12/l2-metro-basics-091224.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’increïble vídeo viral que explica l’evolució tàctica de Leo Messi al llarg de la seva carrera",
+      "excerpt": "Un vídeo sobre Leo Messi s’està fent molt viral a les xarxes. És aquest que ha fet el youtuber Pedro el Ingeniero sobre l’evolució tàctica que ha fet Leo Messi al llarg de la seva carrera. El youtuber és un especialista en futbol i els seus aspectes tàctics, i la forma tan didàctica com explica […]",
+      "url": "https://beteve.cat/esports/video-viral-explica-evolucio-tactica-leo-messi/",
+      "published": "2026-11-01T16:50:38+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/06/messi-1.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -108,6 +178,21 @@
       "category": "societat",
       "image": "https://img.beteve.cat/wp-content/uploads/2023/04/taxi-240423.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Càrrecs tècnics i mandats de quatre anys: el Col·legi d'Enginyers proposa refundar Adif",
+      "excerpt": "El seu degà, Pere Calvet, ha assenyalat que Adif i Renfe són empreses que \"necessiten una gestió a llarg termini\" i \"equips estables durant un bon temps\"",
+      "url": "https://www.3cat.cat/3catinfo/carrecs-tecnics-i-mandats-de-quatre-anys-el-collegi-denginyers-proposa-refundar-adif/noticia/3437234/",
+      "published": "2026-11-01T16:35:27+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/5/1670796187156.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433805/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/carrecs-tecnics-i-mandats-de-quatre-anys-el-collegi-denginyers-proposa-refundar-adif/noticia/3437234/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -157,12 +242,12 @@
       "published": "2026-11-01T14:53:09+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/8/1793441104389.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433807/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/per-que-els-judicis-de-nuremberg-van-ser-una-fita-linguistica-lorigen-de-la-interpretacio-simultania/noticia/3436753/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -226,8 +311,8 @@
     },
     {
       "source": "ARA",
-      "title": "El Barça paga un car peatge el dia que li donen la raó a Pere Romeu",
-      "excerpt": "El Barça s'endú el derbi contra el Badalona Women (0-4), però perd Kika Nazareth i Clara Serrajordi. Aquest és el peatge que ha hagut de pagar Pere Romeu per sumar els tres punts en la seva visita a Palamós. Kerolin, amb un doblet, Graham Hansen, de penal, i Claudia Pina han estat les golejadores en un partit que s'ha començat a decantar després de l'expulsió a Lucía Martínez per vermella directa.",
+      "title": "El Barça paga un preu molt alt el dia que donen la raó a Pere Romeu",
+      "excerpt": "El Barça s'endú el derbi contra el Badalona Women (0-4), però perd Kika Nazareth i Clara Serrajordi. Aquest és el preu que ha hagut de pagar Pere Romeu per sumar els tres punts en la seva visita a Palamós. Kerolin, amb un doblet; Graham Hansen, de penal, i Claudia Pina han estat les golejadores en un partit que s'ha començat a decantar després de l'expulsió a Lucía Martínez per vermella directa.",
       "url": "https://www.ara.cat/esports/barca-femeni/barca-paga-car-peatge-dia-li-donen-rao-pere-romeu_1_5896530.html",
       "published": "2026-11-01T14:20:43+01:00",
       "category": "Actualitat",
@@ -517,7 +602,7 @@
     {
       "source": "ARA",
       "title": "Jorge Drexler: candombe, simpatia i 'Paraules d'amor' al Palau Sant Jordi",
-      "excerpt": "\"Viure i no tenir vergonya de ser feliç\" pot ser el lema de Jorge Drexler. És un vers de ¿Qué será que es? , la versió en castellà del tema del brasiler Gonzaguinha que el músic uruguaià va tocar en el tram final del concert de dissabte al Palau Sant Jordi. Concert generós, de dues hores i mitja, amb un notable desplegament rítmic i escènic i presidit pel carisma d'un artista que va ser capaç de transmetre proximitat, intimitat, de fet, en la immensitat del…",
+      "excerpt": "\"Viure i no tenir vergonya de ser feliç\" pot ser el lema de Jorge Drexler. És un vers de ¿Qué será que es? , la versió en castellà del tema del brasiler Gonzaguinha que el músic uruguaià va tocar en el tram final del concert de dissabte al Palau Sant Jordi. Concert generós, de dues hores i mitja, amb un notable desplegament rítmic i escènic, i presidit pel carisma d'un artista que va ser capaç de transmetre proximitat –intimitat, de fet– en la immensitat del…",
       "url": "https://www.ara.cat/cultura/musica/jorge-drexler-candombe-simpatia-paraules-d-amor-palau-sant-jordi_1_5896627.html",
       "published": "2026-11-01T09:55:37+01:00",
       "category": "Actualitat",
@@ -657,12 +742,12 @@
       "published": "2026-11-01T07:20:18+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/8/1793471650587.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433818/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/com-ho-fan-plataformes-xineses-com-temu-o-shein-per-esquivar-les-taxes-europees-a-les-importacions/noticia/3436866/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
