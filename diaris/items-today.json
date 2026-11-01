@@ -13,6 +13,42 @@
     },
     {
       "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: núvols baixos cap a l'est i baixada de la temperatura",
+      "excerpt": "Comença a dibuixar-se un inici del novembre mogut",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
+      "published": "2026-11-01T11:41:23+01:00",
+      "updated": "2026-11-01T19:47:27+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1793442153512.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433832/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Brussel·les dóna suport a Tusk en el conflicte pel Tribunal Constitucional polonès",
+      "excerpt": "El comissari McGrath insisteix que el nomenament dels jutges és competència de la cambra baixa polonesa",
+      "url": "https://www.vilaweb.cat/noticies/brusselles-dona-suport-a-tusk-en-el-conflicte-pel-tribunal-constitucional-polones/",
+      "published": "2026-11-01T19:13:04+01:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "\"La pregunta és qui ens seguirà bombardejant\": palestins de Gaza i Cisjordània no es fan il·lusions amb el govern d'Israel",
+      "excerpt": "\"Què ens hauria de fer esperar que hi haurà algun canvi significatiu amb un nou govern a Israel? ¿Que noves sigles o noves cartes faran canviar la realitat en què els palestins vivim des de fa dècades? Al cap i hi ha la fi, des de 1948, només hem viscut despossessió, ocupació, desplaçament forçat i la negació dels nostres drets més bàsics\". És la resposta de Maisara Baroud, un il·lustrador de Gaza, sobre què espera del nou govern a Tel-Aviv. \"Els mètodes i les justificacions…",
+      "url": "https://www.ara.cat/internacional/proxim-orient/pregunta-seguira-bombardejant-palestins-gaza-cisjordania-no-il-lusions-govern-d-israel_1_5895309.html",
+      "published": "2026-11-01T18:53:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/54f1c80d-2965-45c0-8734-3b329443b517_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
       "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
       "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
@@ -46,22 +82,6 @@
       "published": "2026-11-01T13:00:19+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/f38dda9b-3ede-495d-b34f-e631bdf4063c_16-9-aspect-ratio_default_1061314.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dilluns: núvols baixos cap a l'est i baixada de la temperatura",
-      "excerpt": "Comença a dibuixar-se un inici del novembre mogut",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
-      "published": "2026-11-01T11:41:23+01:00",
-      "updated": "2026-11-01T12:46:48+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1793442153512.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433787/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -110,6 +130,116 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "La tarda més estranya de Barcelona",
+      "excerpt": "Dissabte al matí, al centre de Barcelona encara hi havia treballadors cobrint els vidres i els caixers de les oficines bancàries, com si hagués de venir un huracà i estiguéssim a Miami.",
+      "url": "https://www.ara.cat/opinio/tarda-mes-estranya-barcelona_129_5896923.html",
+      "published": "2026-11-01T19:37:15+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d82e0db6-1b16-4bd5-908e-025c4a1fa88b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El PP anuncia que es personarà en la causa judicial per l'accident ferroviari a Urda",
+      "excerpt": "Vox també diu que es presentarà com a acusació popular per l'accident de tren i Junts ha tornat a demanar la dimissió del ministre de Transports",
+      "url": "https://www.3cat.cat/3catinfo/el-pp-anuncia-que-es-personara-en-la-causa-judicial-per-laccident-ferroviari-a-urda/noticia/3437236/",
+      "published": "2026-11-01T19:21:30+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/4/1793221816643.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Tots Sants en imatges: així s'ha celebrat Halloween i el Dia dels Difunts arreu del món",
+      "excerpt": "Cada país té la seva particular manera de commemorar Tots Sants, una jornada que cada cop competeix més amb les celebracions de Halloween, una tradició anglosaxona que no para d'estendre's",
+      "url": "https://www.3cat.cat/3catinfo/tots-sants-en-imatges-aixi-sha-celebrat-halloween-i-el-dia-dels-difunts-arreu-del-mon/noticia/3437250/",
+      "published": "2026-11-01T19:18:01+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/8/1793547165083.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-02-11-2026_134_5895244.html",
+      "published": "2026-11-01T19:05:42+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Rafael Argullol: \"La bellesa és un espai no domesticat ni per la moral ni per les ideologies\"",
+      "excerpt": "Per a l'escriptor i professor Rafael Argullol (Barcelona, 1949) l'art \"completa la vida\", tal com diu ell mateix amb motiu de la publicació a l'editorial Acantilado del llibre Pinacoteca soñada , el recull dels articles setmanals que va publicar a l'ARA entre el 2014 i el 2017 traduïts al castellà per Maite Madinabeitia. \"La vida humana és sempre imperfecta, incompleta i, encara que a vegades parlem de la plenitud de la vida, mai és plena. La virtut que l'art va tenir des del començament és…",
+      "url": "https://www.ara.cat/cultura/art/rafael-argullol-bellesa-espai-no-domesticat-moral-ideologies_1_5895830.html",
+      "published": "2026-11-01T19:00:38+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/da679220-ec83-45e1-8daf-a36601d1dc9e_16-9-aspect-ratio_default_1061325.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Vam coincidir amb Pujol que Aliança Catalana és una gran amenaça per al catalanisme\"",
+      "excerpt": "El doctor en història contemporània per la UAB Eloi Gummà (Barcelona, 1995) narra al llibre De l’antifranquisme al pujolisme. La pugna per l’hegemonia (Akal) els factors que van fer que les esquerres, malgrat liderar l'oposició a la dictadura, acabessin perdent davant Convergència, que va governar Catalunya més de dues dècades consecutives.",
+      "url": "https://www.ara.cat/politica/vam-coincidir-pujol-alianca-catalana-gran-amenaca-catalanisme_128_5894926.html",
+      "published": "2026-11-01T19:00:38+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/57c73765-27a8-40e0-afe8-3d34e81ddeb7_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "825.000 treballadors catalans es jubilaran en els pròxims deu anys",
+      "excerpt": "L'envelliment de la ciutadania representa un gran repte per al mercat laboral del país. Actualment, segons les dades recollides per l'Observatori del Treball i Model Productiu de la Generalitat, una de cada cinc persones ocupades a Catalunya –la qual cosa equival a 825.600 treballadors– tenen 55 anys o més i, per tant, previsiblement abandonaran el mercat laboral en els següents deu anys. De fet, les estimacions del mateix organisme apunten que, si bé actualment hi ha 1,6 milions de persones de més de 65 anys,…",
+      "url": "https://www.ara.cat/economia/mercat-laboral/825-000-treballadors-catalans-jubilaran-proxims-deu-anys_1_5887990.html",
+      "published": "2026-11-01T19:00:37+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b5c754c1-809e-49f4-82ef-0cec84192131_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un país que rebenta",
+      "excerpt": "Aquest país no hi cap a la seva pròpia pell. I no és que estigui ple de goig. Més aviat el contrari: Espanya no ha estat capaç d'adaptar-se al seu creixement demogràfic excepcional, el més gran de la Unió Europea, i estan saltant les costures.",
+      "url": "https://www.ara.cat/opinio/pais-rebenta_129_5895122.html",
+      "published": "2026-11-01T19:00:37+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bb857ee7-22c4-40ae-b085-ea6646b63db2_16-9-aspect-ratio_default_0_x3744y1038.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-02-11-2026_134_5895233.html",
+      "published": "2026-11-01T19:00:36+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'última tatuadora amaziga de Tunísia",
+      "excerpt": "A la petita i pròspera població de La Marsa, al bell mig de la llegendària Cartago tunisiana, avui proliferen una desena d’estudis de tatuatge que donen una idea de com les tendències i la globalització troben escletxes en el país més petit del Magrib. No són diferents dels estudis que hi ha al centre de Barcelona. T'hi podries tatuar personatges de La casa de papel o Peaky blinders i els dissenys preferits dels turistes, com llunes i figures abstractes, pels quals un europeu estaria disposat…",
+      "url": "https://diumenge.ara.cat/diumenge/l-ultima-tatuadora-amaziga-tunisia_130_5886877.html",
+      "published": "2026-11-01T19:00:35+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8115c311-1399-48d4-89e8-c3e94c5f9b71_16-9-aspect-ratio_default_0_x1380y579.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Hi ha gent gran que em diu que ara pot posar nom al seu patiment\"",
+      "excerpt": "Paula Leitón (Terrassa, 2000) es passeja de bon matí pel CN Atlètic Barceloneta i els socis més veterans del club, aquells jubilats que cada matí hi van a posar-se morenos fent-la petar, la saluden pel seu nom. La boia vallesana, campiona olímpica el 2024, ja porta un any al club mariner. Ja coneix els socis i les taules dels locals de tota la vida de la Barceloneta, com la Cova Fumada. El Barceloneta vol crear un equip femení que guanyi títols, i per això la…",
+      "url": "https://www.ara.cat/esports/jocs-olimpics/hi-gent-gran-em-diu-ara-pot-posar-nom-patiment_128_5893746.html",
+      "published": "2026-11-01T19:00:33+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bf611ade-9a66-4b40-a5dc-08d7d0c6036e_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "El PSIB, Més, Sumar i EU presenten una candidatura conjunta per Mallorca al senat espanyol",
       "excerpt": "La coalició, encapçalada per Catalina Cladera i Francisco González, vol unir el vot progressista",
@@ -136,7 +266,7 @@
       "url": "https://beteve.cat/estils-de-vida/gastronomic-forum-barcelona-2026/",
       "published": "2026-11-01T18:21:19+01:00",
       "category": "estils de vida",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Gastronomic-Forum-Barcelona-2026-presentacio-2026-10-19.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/forum-gastronomic-021126-2026-11-01.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -147,6 +277,16 @@
       "published": "2026-11-01T18:19:53+01:00",
       "category": "Llevant",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "3CatInfo supera els 800.000 seguidors a Instagram: les 5 històries que més us han emocionat",
+      "excerpt": "El compte d'Instagram de 3CatInfo és líder informatiu en català en aquesta xarxa social",
+      "url": "https://www.3cat.cat/3catinfo/3catinfo-supera-els-800000-seguidors-a-instagram-les-5-histories-que-mes-us-han-emocionat/noticia/3437177/",
+      "published": "2026-11-01T18:19:38+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/2/2/1793538067722.png",
       "priority": "3 · Altres notícies"
     },
     {
@@ -197,6 +337,16 @@
       "published": "2026-11-01T17:49:43+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/5327e75f-fd28-4c0c-9fe8-30de5f3406fc_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Martinenc trenca una llança a favor de l’Europa: “Això és un camp de cols”",
+      "excerpt": "El Martinenc s’ha vist superat per la mínima pel Tona. Toni Carrillo s’ha mostrat decebut i trist amb l’actuació del seu equip i amb el penal assenyalat en contra, que els ha costat els tres punts. Aquest era l’últim partit abans del canvi de gespa natural a artificial i el terreny de joc no estava […]",
+      "url": "https://beteve.cat/esports/martinenc-trenca-llanca-favor-europa-es-un-camp-de-cols/",
+      "published": "2026-11-01T17:40:05+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/carrillo-martinenc-tona-2026-11-01.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -287,7 +437,7 @@
     {
       "source": "VilaWeb",
       "title": "La desena colla castellera de gamma extra del país",
-      "excerpt": "Els Moixiganguers d’Igualada es fan grans a Vilafranca i els Verds no aconsegueixen descarregar per molt poc el 4 de 9 sense folre a la Diada de Tots Sants",
+      "excerpt": "Els Moixiganguers d’Igualada es fan grans a Vilafranca i els Verds no aconsegueixen de descarregar per molt poc el 4 de 9 sense folre a la Diada de Tots Sants",
       "url": "https://www.vilaweb.cat/noticies/la-desena-colla-castellera-de-gamma-extra-del-pais/",
       "published": "2026-11-01T16:17:33+01:00",
       "category": "Cultura popular",
@@ -411,8 +561,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Envien a presó provisional un altre detingut de Blocus, per la seva presumpta implicació com a ideòleg",
-      "excerpt": "El magistrat considera que hi ha indicis dels delictes de conspiració per a cometre desordres públics i de grup criminal",
+      "title": "Envien a presó provisional un altre detingut de Blocus per la seva presumpta implicació com a ideòleg del grup",
+      "excerpt": "El magistrat considera que hi ha indicis dels delictes de conspiració per a cometre desordres públics i de pertinença a grup criminal",
       "url": "https://www.vilaweb.cat/noticies/el-jutge-envia-a-preso-provisional-un-acusat-de-ser-un-dels-ideolegs-de-blocus/",
       "published": "2026-11-01T13:57:59+01:00",
       "category": "Policia i justícia",
@@ -432,7 +582,7 @@
     {
       "source": "VilaWeb",
       "title": "La fiscalia de menors deixa en llibertat el jove detingut a València relacionat amb el moviment Blocus",
-      "excerpt": "El menor estava acusat de difondre missatges per a unir-se al grup i d’haver-ne estat l’administrador",
+      "excerpt": "El menor era acusat d’haver difós missatges per a unir-se al grup i d’haver-ne estat l’administrador",
       "url": "https://www.vilaweb.cat/noticies/la-fiscalia-de-menors-deixa-en-llibertat-el-jove-detingut-a-valencia-relacionat-amb-el-moviment-blocus/",
       "published": "2026-11-01T13:25:37+01:00",
       "category": "Actualitat",
@@ -441,8 +591,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La xifra de ferits ingressats de l’accident ferroviari d’Urda baixa a 31",
-      "excerpt": "Entre els hospitalitzats, 13 són a les UCI; la xifra de víctimes mortals es manté en 69",
+      "title": "La xifra de ferits ingressats per l’accident ferroviari d’Urda baixa a 31",
+      "excerpt": "Dels ferits hospitalitzats, 13 són a l’UCI · La xifra de víctimes mortals es manté en 69",
       "url": "https://www.vilaweb.cat/noticies/la-xifra-de-ferits-ingressats-de-laccident-ferroviari-durda-baixa-a-31/",
       "published": "2026-11-01T13:24:09+01:00",
       "category": "Societat",

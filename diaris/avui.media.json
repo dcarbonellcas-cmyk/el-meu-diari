@@ -11,6 +11,35 @@
     },
     {
       "page": 3,
+      "title": "La previsió de dilluns: núvols baixos cap a l'est i baixada de la temperatura",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
+      "published": "2026-11-01T11:41:23+01:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433832/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
+      }
+    },
+    {
+      "page": 4,
+      "title": "Brussel·les dóna suport a Tusk en el conflicte pel Tribunal Constitucional polonès",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/brusselles-dona-suport-a-tusk-en-el-conflicte-pel-tribunal-constitucional-polones/",
+      "published": "2026-11-01T19:13:04+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 5,
+      "title": "\"La pregunta és qui ens seguirà bombardejant\": palestins de Gaza i Cisjordània no es fan il·lusions amb el govern d'Israel",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/proxim-orient/pregunta-seguira-bombardejant-palestins-gaza-cisjordania-no-il-lusions-govern-d-israel_1_5895309.html",
+      "published": "2026-11-01T18:53:57+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 6,
       "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
@@ -23,7 +52,7 @@
       }
     },
     {
-      "page": 4,
+      "page": 7,
       "title": "Els primers dies de novembre portaran fred i precipitació",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/els-primers-dies-de-novembre-portaran-fred-i-precipitacio/noticia/3437202/",
@@ -31,7 +60,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 5,
+      "page": 8,
       "title": "\"El govern espanyol s'equivoca si no se sent al·ludit amb la vaga\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/mercat-laboral/govern-espanyol-s-equivoca-no-sent-ludit-vaga_128_5895008.html",
@@ -39,20 +68,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 6,
-      "title": "La previsió de dilluns: núvols baixos cap a l'est i baixada de la temperatura",
-      "source": "3CatInfo · El temps",
-      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
-      "published": "2026-11-01T11:41:23+01:00",
-      "priority": "2 · Important",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433787/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
-      }
-    },
-    {
-      "page": 7,
+      "page": 9,
       "title": "Parlon nega identificacions per perfil racial: “S’aturaven menors amb una indumentària determinada”",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/parlon-nega-identificacions-perfil-racial/",
@@ -60,7 +76,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 8,
+      "page": 10,
       "title": "2.264 identificats i 181 denúncies en una Barcelona blindada per les crides de Blocus",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/blocus-barcelona-dispositiu-31-octubre/",
@@ -68,7 +84,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 9,
+      "page": 11,
       "title": "\"El dia de la invasió vaig anar a l'oficina. Allí hi havia Zelenski i tot el govern: ningú va pensar en marxar\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/europa/dia-invasio-l-oficina-hi-havia-zelenski-govern-ningu-pensar-marxar_128_5895737.html",
@@ -76,7 +92,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 10,
+      "page": 12,
       "title": "Ruta 66: 4.000 quilòmetres per escoltar els Estats Units abans de les eleccions de mig mandat",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/ruta-66-4000-quilometres-per-escoltar-els-estats-units-abans-de-les-eleccions-de-mig-mandat/noticia/3436217/",
@@ -89,7 +105,95 @@
       }
     },
     {
-      "page": 11,
+      "page": 13,
+      "title": "La tarda més estranya de Barcelona",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/tarda-mes-estranya-barcelona_129_5896923.html",
+      "published": "2026-11-01T19:37:15+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 14,
+      "title": "El PP anuncia que es personarà en la causa judicial per l'accident ferroviari a Urda",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/el-pp-anuncia-que-es-personara-en-la-causa-judicial-per-laccident-ferroviari-a-urda/noticia/3437236/",
+      "published": "2026-11-01T19:21:30+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 15,
+      "title": "Tots Sants en imatges: així s'ha celebrat Halloween i el Dia dels Difunts arreu del món",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/tots-sants-en-imatges-aixi-sha-celebrat-halloween-i-el-dia-dels-difunts-arreu-del-mon/noticia/3437250/",
+      "published": "2026-11-01T19:18:01+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 16,
+      "title": "A la contra",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/vinyetes/ferreres-02-11-2026_134_5895244.html",
+      "published": "2026-11-01T19:05:42+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 17,
+      "title": "Rafael Argullol: \"La bellesa és un espai no domesticat ni per la moral ni per les ideologies\"",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/cultura/art/rafael-argullol-bellesa-espai-no-domesticat-moral-ideologies_1_5895830.html",
+      "published": "2026-11-01T19:00:38+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 18,
+      "title": "\"Vam coincidir amb Pujol que Aliança Catalana és una gran amenaça per al catalanisme\"",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/vam-coincidir-pujol-alianca-catalana-gran-amenaca-catalanisme_128_5894926.html",
+      "published": "2026-11-01T19:00:38+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 19,
+      "title": "825.000 treballadors catalans es jubilaran en els pròxims deu anys",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/economia/mercat-laboral/825-000-treballadors-catalans-jubilaran-proxims-deu-anys_1_5887990.html",
+      "published": "2026-11-01T19:00:37+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 20,
+      "title": "Un país que rebenta",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/pais-rebenta_129_5895122.html",
+      "published": "2026-11-01T19:00:37+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 21,
+      "title": "De fit a fit",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/vinyetes/fit-fit-02-11-2026_134_5895233.html",
+      "published": "2026-11-01T19:00:36+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 22,
+      "title": "L'última tatuadora amaziga de Tunísia",
+      "source": "ARA",
+      "articleUrl": "https://diumenge.ara.cat/diumenge/l-ultima-tatuadora-amaziga-tunisia_130_5886877.html",
+      "published": "2026-11-01T19:00:35+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 23,
+      "title": "\"Hi ha gent gran que em diu que ara pot posar nom al seu patiment\"",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/esports/jocs-olimpics/hi-gent-gran-em-diu-ara-pot-posar-nom-patiment_128_5893746.html",
+      "published": "2026-11-01T19:00:33+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 24,
       "title": "El PSIB, Més, Sumar i EU presenten una candidatura conjunta per Mallorca al senat espanyol",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/el-psib-mes-sumar-i-eu-presenten-una-candidatura-conjunta-per-mallorca-al-senat-espanyol/",
@@ -97,7 +201,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 12,
+      "page": 25,
       "title": "“Boom Crash Candy Crush”: dopamina, dades i militarització al Santa Mònica",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/cultura/boom-crash-candy-crush-santa-monica/",
@@ -105,7 +209,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 13,
+      "page": 26,
       "title": "El Gastronomic Forum Barcelona creix i evoluciona revisitant la tradició culinària",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/estils-de-vida/gastronomic-forum-barcelona-2026/",
@@ -113,7 +217,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 14,
+      "page": 27,
       "title": "L’ONU documenta gairebé 400 atacs de colons a l’octubre a Cisjordània, un màxim històric",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/lonu-documenta-gairebe-400-atacs-de-colons-a-loctubre-a-cisjordania-un-maxim-historic/",
@@ -121,7 +225,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 15,
+      "page": 28,
+      "title": "3CatInfo supera els 800.000 seguidors a Instagram: les 5 històries que més us han emocionat",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/3catinfo-supera-els-800000-seguidors-a-instagram-les-5-histories-que-mes-us-han-emocionat/noticia/3437177/",
+      "published": "2026-11-01T18:19:38+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 29,
       "title": "Núvols, cel rúfol i més fresca dilluns, 2 de novembre: paraigües i abrics a punt",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/medi-ambient/temps-barcelona-dilluns-2-novembre-nuvols-fresca-abrics/",
@@ -129,7 +241,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 16,
+      "page": 30,
       "title": "\"Ens escau més 'Homo ludens': sempre estem jugant\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/ciencia-medi-ambient/escau-mes-homo-ludens-sempre-jugant_128_5895316.html",
@@ -137,7 +249,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 17,
+      "page": 31,
       "title": "La insolidaritat passa també per agafar els iogurts amb la data de consum preferent més tardana",
       "source": "ARA",
       "articleUrl": "https://mengem.ara.cat/salut_i_nutricio/insolidaritat-passa-tambe-agafar-iogurts-data-consum-preferent-mes-tardana_1_5869080.html",
@@ -145,7 +257,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 18,
+      "page": 32,
       "title": "Cremar i trencar el que és de tots",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/estils/cremar-trencar-tots_129_5894855.html",
@@ -153,7 +265,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 19,
+      "page": 33,
       "title": "Machado i el Madrid nacional-AVE",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/opinio/machado-madrid-nacional-ave_129_5896857.html",
@@ -161,7 +273,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 20,
+      "page": 34,
+      "title": "El Martinenc trenca una llança a favor de l’Europa: “Això és un camp de cols”",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/esports/martinenc-trenca-llanca-favor-europa-es-un-camp-de-cols/",
+      "published": "2026-11-01T17:40:05+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 35,
       "title": "Abans que vingui la fosca",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/opinio/vingui-fosca_129_5896148.html",
@@ -169,7 +289,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 21,
+      "page": 36,
       "title": "Identificacions policials: què són, per què es fan i quines conseqüències poden tenir",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/identificacions-policials-que-son-per-que-es-fan-i-quines-consequencies-poden-tenir/noticia/3437243/",
@@ -177,7 +297,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 22,
+      "page": 37,
       "title": "La pastisseria Mont-rodon de les Corts reobre gràcies a l’empenta de dos treballadors",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/estils-de-vida/pastisseria-mont-rodon-les-corts-reviu/",
@@ -185,7 +305,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 23,
+      "page": 38,
       "title": "Última sortida de la Terminal C de creuers del Port de Barcelona",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/ultima-sortida-terminal-c-creuers-port-barcelona/",
@@ -193,7 +313,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 24,
+      "page": 39,
       "title": "Tall a l’L2 de metro entre la Pau i Gorg a partir d’aquest dilluns per unes obres de reparació",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/mobilitat/tall-l2-metro-la-pau-gorg/",
@@ -201,7 +321,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 25,
+      "page": 40,
       "title": "L’increïble vídeo viral que explica l’evolució tàctica de Leo Messi al llarg de la seva carrera",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/video-viral-explica-evolucio-tactica-leo-messi/",
@@ -209,7 +329,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 26,
+      "page": 41,
       "title": "Els Mossos investiguen l’agressió d’un conductor de VTC a un taxista a l’aeroport | VÍDEO",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/agressio-conductor-vtc-taxista-aeroport/",
@@ -217,7 +337,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 27,
+      "page": 42,
       "title": "Càrrecs tècnics i mandats de quatre anys: el Col·legi d'Enginyers proposa refundar Adif",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/carrecs-tecnics-i-mandats-de-quatre-anys-el-collegi-denginyers-proposa-refundar-adif/noticia/3437234/",
@@ -230,7 +350,7 @@
       }
     },
     {
-      "page": 28,
+      "page": 43,
       "title": "La desena colla castellera de gamma extra del país",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/la-desena-colla-castellera-de-gamma-extra-del-pais/",
@@ -238,7 +358,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 29,
+      "page": 44,
       "title": "Mor l'escultor Miquel Navarro als 81 anys",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/art/mor-l-escultor-miquel-navarro-als-81-anys_1_5896825.html",
@@ -246,7 +366,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 30,
+      "page": 45,
       "title": "El millor partit de Kerolin com a blaugrana acaba amb golejada del Barça contra el Badalona Women",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/millor-partit-kerolin-blaugrana-golejada-barca-badalona-women/",
@@ -254,7 +374,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 31,
+      "page": 46,
       "title": "El PP es personarà en la causa judicial per l’accident ferroviari d’Urda",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/el-pp-es-personara-en-la-causa-judicial-per-laccident-ferroviari-durda/",
@@ -262,7 +382,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 32,
+      "page": 47,
       "title": "Per què els judicis de Nuremberg van ser una fita lingüística: l'origen de la interpretació simultània",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/per-que-els-judicis-de-nuremberg-van-ser-una-fita-linguistica-lorigen-de-la-interpretacio-simultania/noticia/3436753/",
@@ -275,7 +395,7 @@
       }
     },
     {
-      "page": 33,
+      "page": 48,
       "title": "betevé notícies migdia",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-751/",
@@ -283,7 +403,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 34,
+      "page": 49,
       "title": "El Martinenc cau per la mínima a Tona amb un gol de penal",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/penal-condemna-martinenc-a-tona/",
@@ -291,7 +411,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 35,
+      "page": 50,
       "title": "S’ha mort l’escultor Miquel Navarro a 81 anys",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/sha-mort-lescultor-miquel-navarro-a-81-anys/",
@@ -299,7 +419,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 36,
+      "page": 51,
       "title": "Presó per al detingut com a presumpte ideòleg dels aldarulls de Blocus a Barcelona de fa una setmana",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/preso-detingut-ideoleg-blocus-barcelona/",
@@ -307,7 +427,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 37,
+      "page": 52,
       "title": "Presó sense fiança per a un \"ideòleg\" de Blocus detingut a Barcelona",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/successos/preso-fianca-ideoleg-blocus-detingut-barcelona_1_5896810.html",
@@ -315,7 +435,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 38,
+      "page": 53,
       "title": "Presó sense fiança per al jove de 18 anys detingut a Barcelona per vincles amb Blocus",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/preso-sense-fianca-per-al-jove-de-18-anys-detingut-a-barcelona-per-vincles-amb-blocus/noticia/3437235/",
@@ -323,7 +443,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 39,
+      "page": 54,
       "title": "El Barça paga un preu molt alt el dia que donen la raó a Pere Romeu",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/barca-femeni/barca-paga-car-peatge-dia-li-donen-rao-pere-romeu_1_5896530.html",
@@ -331,15 +451,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 40,
-      "title": "Envien a presó provisional un altre detingut de Blocus, per la seva presumpta implicació com a ideòleg",
+      "page": 55,
+      "title": "Envien a presó provisional un altre detingut de Blocus per la seva presumpta implicació com a ideòleg del grup",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/el-jutge-envia-a-preso-provisional-un-acusat-de-ser-un-dels-ideolegs-de-blocus/",
       "published": "2026-11-01T13:57:59+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 41,
+      "page": 56,
       "title": "B de gust:",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/b-de-gust/b-de-gust-39/",
@@ -347,7 +467,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 42,
+      "page": 57,
       "title": "La fiscalia de menors deixa en llibertat el jove detingut a València relacionat amb el moviment Blocus",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/la-fiscalia-de-menors-deixa-en-llibertat-el-jove-detingut-a-valencia-relacionat-amb-el-moviment-blocus/",
@@ -355,15 +475,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 43,
-      "title": "La xifra de ferits ingressats de l’accident ferroviari d’Urda baixa a 31",
+      "page": 58,
+      "title": "La xifra de ferits ingressats per l’accident ferroviari d’Urda baixa a 31",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/la-xifra-de-ferits-ingressats-de-laccident-ferroviari-durda-baixa-a-31/",
       "published": "2026-11-01T13:24:09+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 44,
+      "page": 59,
       "title": "El nou Front Marítim de Barcelona ja pren forma",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/barcelona/nou-front-maritim-barcelona-ja-pren-forma_1_5888461.html",
@@ -371,7 +491,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 45,
+      "page": 60,
       "title": "Les acusacions de pedofília contra el pare de Meghan Markle, una bomba enmig de la reconciliació reial dels Sussex",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/gent/acusacions-pedofilia-pare-meghan-markle-bomba-enmig-reconciliacio-reial-dels-sussex_1_5893391.html",
@@ -379,7 +499,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 46,
+      "page": 61,
       "title": "El bolsonarisme busca un nou líder fora del clan Bolsonaro",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/america/bolsonarisme-busca-nou-lider-fora-clan-bolsonaro_1_5895450.html",
@@ -387,7 +507,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 47,
+      "page": 62,
       "title": "Pep Massana crea un instrument únic al món inspirat en Leonardo da Vinci",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/pep-massana-crea-un-instrument-unic-al-mon-inspirat-en-da-vinci/",
@@ -395,7 +515,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 48,
+      "page": 63,
       "title": "Tallada la circulació de la R1 de Rodalia entre Blanes i Maçanet-Massanes per la presència d’una persona a les vies",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/tallada-la-circulacio-de-la-r1-de-rodalia-entre-blanes-i-macanet-massanes-per-la-presencia-duna-persona-a-les-vies/",
@@ -403,7 +523,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 49,
+      "page": 64,
       "title": "“Els pacients ara se senten més còmodes”: parelles lingüístiques per a millorar el català dels sanitaris",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/els-pacients-ara-se-senten-mes-comodes-parelles-linguistiques-per-a-millorar-el-catala-dels-sanitaris/",
@@ -411,7 +531,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 50,
+      "page": 65,
       "title": "Diada de Tots Sants: Vilafranca carrega el 4d9sf i els Moixiganguers ja són de gamma extra",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/diada-de-tots-sants-vilafranca-vol-posar-la-cirereta-a-una-temporada-fantastica/noticia/3437213/",
@@ -419,7 +539,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 51,
+      "page": 66,
       "title": "Una massa d’aire d’origen polar i àrtic portarà més fred, pluja i neu als Pirineus",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/medi-ambient/aire-polar-artic-fred-pluja-neu-pirineus-novembre-2026/",
@@ -427,7 +547,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 52,
+      "page": 67,
       "title": "L'FBI acusa Corea del Nord del robatori a Binance, el més gran de la història en criptomonedes",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/lfbi-acusa-corea-del-nord-del-robatori-a-binance-el-mes-gran-de-la-historia-en-criptomonedes/noticia/3437201/",
@@ -435,7 +555,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 53,
+      "page": 68,
       "title": "Els cementiris s’omplen de visitants aquest diumenge de Tots Sants",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/cementiris-visitants-tots-sants-2026/",
@@ -443,7 +563,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 54,
+      "page": 69,
       "title": "Descobreixen la fossa d’un maqui que va participar en l’operació per a enderrocar el franquisme el 1944",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/descobreixen-la-fossa-dun-maqui-que-va-participar-en-loperacio-que-pretenia-enderrocar-el-franquisme-el-1944/",
@@ -451,7 +571,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 55,
+      "page": 70,
       "title": "La Fúmiga s’acomiada amb un final de pel·lícula",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/la-fumiga-sacomiada-amb-un-final-de-pellicula/",
@@ -459,7 +579,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 56,
+      "page": 71,
       "title": "Parlon defensa el dispositiu policial per Blocus a Barcelona: \"Calia llançar un missatge\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/parlon-defensa-el-dispositiu-policial-per-blocus-a-barcelona-calia-llancar-un-missatge/noticia/3437198/",
@@ -467,7 +587,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 57,
+      "page": 72,
       "title": "L’agenda gastronòmica de novembre a Barcelona: tots els plans per als amants del bon menjar",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/agenda-gastronomica-novembre-barcelona/",
@@ -475,7 +595,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 58,
+      "page": 73,
       "title": "El centenari de Hansi Flick: amb quina victòria es queda el tècnic del Barça?",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/centenari-hansi-flick-quina-victoria-barca/",
@@ -483,7 +603,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 59,
+      "page": 74,
       "title": "L’exposició “Tros de dona” arriba al Poblenou amb el testimoni de 60 dones del barri",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/cultura/exposicio-tros-dona-testimonis-poblenou/",
@@ -491,7 +611,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 60,
+      "page": 75,
       "title": "Barcelona Oberta celebra el dispositiu “exemplar” contra Blocus, que ha salvat el dissabte comercial",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/barcelona-oberta-celebra-dispositiu-exemplar-contra-blocus/",
@@ -499,7 +619,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 61,
+      "page": 76,
       "title": "TV3 lidera amb un 14% de quota a l'octubre",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/tv3-lidera-amb-un-14-de-quota-a-loctubre/noticia/3437205/",
@@ -507,7 +627,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 62,
+      "page": 77,
       "title": "L’FBI acusa Corea del Nord d’haver robat 6.300 milions de dòlars en criptoactius a Binance",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/lfbi-acusa-corea-del-nord-dhaver-robat-6-300-milions-de-dolars-en-criptoactius-a-binance/",
@@ -515,7 +635,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 63,
+      "page": 78,
       "title": "[VÍDEOS] L’espectacular pujada del pilar de 4 a les escales de la catedral de Girona",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/videos-lespectacular-pujada-del-pilar-de-4-a-les-escales-de-la-catedral-de-girona/",
@@ -523,7 +643,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 64,
+      "page": 79,
       "title": "Quant costa morir-se a Barcelona?",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/quant-costa-morir-barcelona/",
@@ -531,7 +651,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 65,
+      "page": 80,
       "title": "Tot venut: la Marató de Barcelona 2027 esgota dorsals i serà la més multitudinària d’Espanya",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/marato-de-barcelona-esgota-dorsals-mes-multitudinaria-espanya/",
@@ -539,7 +659,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 66,
+      "page": 81,
       "title": "Jocs terrorífics al parc de les Glòries per Halloween i la Castanyada",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/jocs-terror-histories-por-glories-castanyada/",
@@ -547,7 +667,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 67,
+      "page": 82,
       "title": "L'FBI acusa Corea del Nord del robatori de 6.300 milions de dòlars a Binance",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/estats-units/l-fbi-acusa-corea-nord-robatori-6-300-milions-dolars-binance_1_5896705.html",
@@ -555,7 +675,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 68,
+      "page": 83,
       "title": "Jorge Drexler: candombe, simpatia i 'Paraules d'amor' al Palau Sant Jordi",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/musica/jorge-drexler-candombe-simpatia-paraules-d-amor-palau-sant-jordi_1_5896627.html",
@@ -563,7 +683,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 69,
+      "page": 84,
       "title": "La CUP denuncia identificacions indiscriminades a joves, també per perfil racial, en el dispositiu contra Blocus",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/la-cup-denuncia-identificacions-indiscriminades-a-joves-tambe-per-perfil-racial-en-el-dispositiu-contra-blocus/",
@@ -571,7 +691,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 70,
+      "page": 85,
       "title": "Un menor detingut per la seva relació amb Blocus València passa a disposició de la fiscalia de menors",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/un-menor-detingut-per-la-seva-relacio-amb-blocus-valencia-passa-a-disposicio-de-la-fiscalia-de-menors/",
@@ -579,7 +699,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 71,
+      "page": 86,
       "title": "Més enllà de Seat: 5 marques de cotxes catalanes desaparegudes al llarg de la història",
       "source": "ARA",
       "articleUrl": "https://motor.ara.cat/historia/mes-enlla-seat-5-marques-cotxes-catalanes-desaparegudes-historia_1_5896199.html",
@@ -587,7 +707,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 72,
+      "page": 87,
       "title": "La Unió Europea comença a aplicar avui una taxa de dos euros per gestió duanera als paquets de Shein, Temu i AliExpress",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/la-unio-europea-aplicara-des-davui-una-taxa-de-dos-euros-per-gestio-duanera-als-paquets-de-shein-temu-i-aliexpress/",
@@ -595,7 +715,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 73,
+      "page": 88,
       "title": "La gran novel·la postdramàtica dels Estats Units d’avui",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/critiques-literaries/chris-kraus-gran-novel-postdramatica-dels-estats-units-d-avui_1_5892014.html",
@@ -603,7 +723,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 74,
+      "page": 89,
       "title": "Eliminar 70 anys en un dia: el repte de buidar el pis d'un familiar difunt",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/estils/eliminar-70-anys-dia-repte-buidar-pis-d-familiar-difunt_130_5893073.html",
@@ -611,7 +731,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 75,
+      "page": 90,
       "title": "Temor a Vox per les patinades del PP abans del 29-N",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/temor-vox-patinades-pp-29-n_1_5893861.html",
@@ -619,7 +739,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 76,
+      "page": 91,
       "title": "\"Em quedaven tres mesos de vida\": la ciència que ha transformat la salut a Catalunya",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/ciencia-medi-ambient/biomedicina/em-quedaven-tres-mesos-vida-ciencia-transformat-salut-catalunya_130_5894894.html",
@@ -627,7 +747,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 77,
+      "page": 92,
       "title": "Les portades del diumenge 1 de novembre de 2026",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-diumenge-1-de-novembre-de-2026/",
@@ -635,7 +755,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 78,
+      "page": 93,
       "title": "El banc prefereix finançar-te la nevera que el pis",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/opinio/banc-prefereix-financar-nevera-pis_129_5894227.html",
@@ -643,7 +763,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 79,
+      "page": 94,
       "title": "La IA distorsiona els resultats de les grans tecnològiques",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/innovacio/ia-distorsiona-resultats-grans-tecnologiques_1_5894844.html",
@@ -651,7 +771,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 80,
+      "page": 95,
       "title": "D'excursió al tanatori: un institut de Torelló fa formació en dol als alumnes",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/dexcursio-al-tanatori-un-institut-de-torello-fa-formacio-en-dol-als-alumnes/noticia/3435313/",
@@ -664,7 +784,7 @@
       }
     },
     {
-      "page": 81,
+      "page": 96,
       "title": "Com ho fan plataformes xineses com Temu o Shein per esquivar les taxes europees a les importacions",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/com-ho-fan-plataformes-xineses-com-temu-o-shein-per-esquivar-les-taxes-europees-a-les-importacions/noticia/3436866/",
@@ -677,7 +797,7 @@
       }
     },
     {
-      "page": 82,
+      "page": 97,
       "title": "Èxit del nou grau de Serveis Funeraris: dobla la demanda d'alumnes en el seu primer any",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/exit-del-nou-grau-de-serveis-funeraris-dobla-la-demanda-dalumnes-en-el-seu-primer-any/noticia/3436829/",
@@ -685,7 +805,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 83,
+      "page": 98,
       "title": "Tecnooligarques i poder: la conxorxa dels megarics",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/tecnooligarques-i-poder-la-conxorxa-dels-megarics/noticia/3436867/",
@@ -693,7 +813,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 84,
+      "page": 99,
       "title": "\"Tu també et moriràs?\": les claus per gestionar el dol a la infància",
       "source": "ARA",
       "articleUrl": "https://criatures.ara.cat/criatures/tambe-et-moriras-claus-gestionar-dol-infancia_129_5888066.html",
@@ -701,7 +821,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 85,
+      "page": 100,
       "title": "El Paraulògic celebra cinc anys amb un rusc especial de 25 tutis",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/el-paraulogic-celebra-cinc-anys-amb-un-rusc-especial-de-25-tutis/",
@@ -709,7 +829,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 86,
+      "page": 101,
       "title": "Un miler de persones tornen a manifestar-se a Perpinyà contra l’encariment de la vida",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/un-miler-de-persones-es-manifesten-a-perpinya-en-una-nova-mobilitzacio-de-protesta/",
@@ -717,7 +837,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 87,
+      "page": 102,
       "title": "Die Linke comença les negociacions per a formar una coalició progressista a Berlín",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/die-linke-comenca-negociacions-per-a-una-coalicio-progressista-a-berlin/",
@@ -725,7 +845,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 88,
+      "page": 103,
       "title": "Més de dos mil identificats als dispositius contra Blocus",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/centenars-didentificats-i-diverses-detencions-als-dispositius-policials-contra-blocus-a-barcelona-i-valencia/",
@@ -733,7 +853,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 89,
+      "page": 104,
       "title": "La Fúmiga diu adeu al Roig Arena de València, en el seu millor moment: \"Ara que encara ens agrada\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-fumiga-diu-adeu-al-roig-arena-de-valencia-en-el-seu-millor-moment-ara-que-encara-ens-agrada/noticia/3437189/",
