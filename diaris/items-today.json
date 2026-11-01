@@ -9,7 +9,28 @@
       "published": "2026-11-01T17:01:24+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/2/1793547706624.jpg",
-      "priority": "1 · Urgent"
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433857/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-incertesa-es-el-pitjor-com-afecta-lespera-per-identificar-les-victimes-del-tren-de-toledo/noticia/3437247/"
+      }
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: núvols baixos cap a l'est i baixada de la temperatura",
+      "excerpt": "Comença a dibuixar-se un inici del novembre mogut",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
+      "published": "2026-11-01T11:41:23+01:00",
+      "updated": "2026-11-01T22:29:57+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1793442153512.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433875/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -19,22 +40,6 @@
       "published": "2026-11-01T20:13:05+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/87ff8957-f4c1-43ab-91dc-eccbe48aba57_16-9-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dilluns: núvols baixos cap a l'est i baixada de la temperatura",
-      "excerpt": "Comença a dibuixar-se un inici del novembre mogut",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
-      "published": "2026-11-01T11:41:23+01:00",
-      "updated": "2026-11-01T19:47:27+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1793442153512.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433832/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -140,6 +145,26 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "betevé esports",
+      "excerpt": "LÀlex Masana i la Marina Garrido repassen tota lactualitat esportiva del cap de setmana els dissabtes i diumenges al betevé esports.",
+      "url": "https://beteve.cat/beteve-esports/beteve-esports-80/",
+      "published": "2026-11-01T21:59:49+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies vespre",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-vespre/beteve-noticies-vespre-455/",
+      "published": "2026-11-01T21:53:50+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "La millor metàfora satírica de la modèlica transició espanyola",
       "excerpt": "Ha mort el director de cinema José Luis Garcia Sánchez, autor de ‘Las Truchas’ (1978), premiada amb l’Os d’Or al Festival de Berlín",
@@ -172,7 +197,7 @@
     {
       "source": "ARA",
       "title": "El retorn d'Obama a primera línia per esperonar la remuntada demòcrata",
-      "excerpt": "Fa uns dies l'expresident Barack Obama va participar en un míting de campanya d'una de les figures emergents del partit demòcrata, el candidat per Michigan Abdul el Sayed . Hauria estat una estranya parella tenint en compte que Sayed, de jove, havia criticat les polítiques del seu correligionari per considerar-les massa toves. En una exhibició de veterania i elegància Obama no va intentar amagar la discrepància: \"L'Abdul no estava d'acord amb algunes coses que feia la nostra administració, quan jo era president. I sabeu qui…",
+      "excerpt": "Fa uns dies l'expresident Barack Obama va participar en un míting de campanya d'una de les figures emergents del Partit Demòcrata, el candidat per Michigan Abdul El-Sayed . Hauria estat una estranya parella tenint en compte que El-Sayed, de jove, havia criticat les polítiques del seu correligionari per considerar-les massa toves. En una exhibició de veterania i elegància Obama no va intentar amagar la discrepància: \"L'Abdul no estava d'acord amb algunes coses que feia la nostra administració, quan jo era president. I sabeu qui tampoc…",
       "url": "https://www.ara.cat/internacional/estats-units/retorn-d-obama-primera-linia-esperonar-remuntada-democrata_1_5896973.html",
       "published": "2026-11-01T21:16:22+01:00",
       "category": "Actualitat",
@@ -192,7 +217,7 @@
     {
       "source": "ARA",
       "title": "Augment dels núvols al litoral i descens tèrmic general",
-      "excerpt": "Començarem la setmana amb anticicló, però amb alguns matisos. L'entrada d'una massa d'aire fred procedent de l'interior del continent europeu farà canviar el temps al nostre territori. Si bé gaudirem d'una jornada estable a l'oest del país, a la costa i al prelitoral el dia vindrà determinat per un augment de la nuvolositat. Amb el pas de les hores, fins i tot cauran alguns plugims o algun ruixat i de cara a dimarts la pluja podrà generalitzar-se, començant pel sud i per la costa, per…",
+      "excerpt": "Començarem la setmana amb anticicló, però amb alguns matisos. L'entrada d'una massa d'aire fred procedent de l'interior del continent europeu farà canviar el temps al nostre territori. Si bé gaudirem d'una jornada estable a l'oest del país, a la costa i al prelitoral el dia vindrà determinat per un augment de la nuvolositat. Amb el pas de les hores, fins i tot cauran alguns ruixats i de cara a dimarts la pluja podrà generalitzar-se, començant pel sud i per la costa, per anar estenent-se cap…",
       "url": "https://www.ara.cat/previsions/augment-dels-nuvols-litoral-descens-termic-general_1_5896965.html",
       "published": "2026-11-01T21:01:04+01:00",
       "category": "Actualitat",
@@ -457,7 +482,7 @@
     {
       "source": "VilaWeb",
       "title": "L’ONU registra gairebé 400 atacs de colons a Cisjordània a l’octubre, un rècord històric",
-      "excerpt": "L'OCHA en comptabilitza 397 · Ramallah és la governació més perjudicada",
+      "excerpt": "L'OCHA en comptabilitza 397 · Ramal·lah és la governació més perjudicada",
       "url": "https://www.vilaweb.cat/noticies/lonu-documenta-gairebe-400-atacs-de-colons-a-loctubre-a-cisjordania-un-maxim-historic/",
       "published": "2026-11-01T18:19:53+01:00",
       "category": "Llevant",
@@ -552,7 +577,12 @@
       "published": "2026-11-01T17:22:43+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/2/1793548417129.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433853/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/identificacions-policials-que-son-per-que-es-fan-i-quines-consequencies-poden-tenir/noticia/3437243/"
+      }
     },
     {
       "source": "betevé",
@@ -613,7 +643,7 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/5/1670796187156.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433805/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6433855/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/carrecs-tecnics-i-mandats-de-quatre-anys-el-collegi-denginyers-proposa-refundar-adif/noticia/3437234/"
       },
@@ -622,7 +652,7 @@
     {
       "source": "VilaWeb",
       "title": "La desena colla castellera de gamma extra del país",
-      "excerpt": "Els Moixiganguers d’Igualada es fan grans a Vilafranca i els Verds no aconsegueixen de descarregar per molt poc el 4 de 9 sense folre a la Diada de Tots Sants",
+      "excerpt": "Els Moixiganguers d’Igualada es fan grans a Vilafranca i els Verds no aconsegueixen de descarregar per molt poc el 4 de 9 sense folre a la diada de Tots Sants",
       "url": "https://www.vilaweb.cat/noticies/la-desena-colla-castellera-de-gamma-extra-del-pais/",
       "published": "2026-11-01T16:17:33+01:00",
       "category": "Cultura popular",
@@ -852,7 +882,12 @@
       "published": "2026-11-01T12:34:52+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/5/1793542573857.jpeg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433854/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/diada-de-tots-sants-vilafranca-vol-posar-la-cirereta-a-una-temporada-fantastica/noticia/3437213/"
+      }
     },
     {
       "source": "betevé",
