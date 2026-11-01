@@ -3,11 +3,32 @@
   "items": [
     {
       "source": "3CatInfo · El temps",
+      "title": "Els primers dies de novembre portaran fred i precipitació",
+      "excerpt": "Una bossa d'aire fred i una gran pertorbació superficial a l'horitzó del curt i mitjà termini",
+      "url": "https://www.3cat.cat/3catinfo/els-primers-dies-de-novembre-portaran-fred-i-precipitacio/noticia/3437202/",
+      "published": "2026-11-01T12:36:23+01:00",
+      "updated": "2026-11-01T13:31:54+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/2/1793530379325.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "\"El govern espanyol s'equivoca si no se sent al·ludit amb la vaga\"",
+      "excerpt": "Ja fa una dècada que Camil Ros (Vallromanes, 1972) és al capdavant de la UGT de Catalunya. En conversa amb l'ARA, el líder sindical explica que des que es va independitzar al centre de Girona amb 25 anys ha viscut de lloguer. En aquell moment, segons diu, cobrava 175.000 pessetes per fer una feina tècnica, i el lloguer d'un pis de dues habitacions li costava 50.000 pessetes al mes. \"Aquesta realitat generacional és ara com ara impensable\", lamenta el líder sindical.",
+      "url": "https://www.ara.cat/economia/mercat-laboral/govern-espanyol-s-equivoca-no-sent-ludit-vaga_128_5895008.html",
+      "published": "2026-11-01T13:00:19+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f38dda9b-3ede-495d-b34f-e631bdf4063c_16-9-aspect-ratio_default_1061314.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
       "title": "La previsió de dilluns: núvols baixos cap a l'est i baixada de la temperatura",
       "excerpt": "Comença a dibuixar-se un inici del novembre mogut",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
       "published": "2026-11-01T11:41:23+01:00",
-      "updated": "2026-11-01T12:45:22+01:00",
+      "updated": "2026-11-01T12:46:48+01:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/2/1/1793442153512.jpg",
       "video": {
@@ -15,17 +36,6 @@
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
       },
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "Els primers dies de novembre portaran fred i precipitació",
-      "excerpt": "Una bossa d'aire fred i una gran pertorbació superficial a l'horitzó del curt i mig termini",
-      "url": "https://www.3cat.cat/3catinfo/els-primers-dies-de-novembre-portaran-fred-i-precipitacio/noticia/3437202/",
-      "published": "2026-11-01T12:36:23+01:00",
-      "updated": "2026-11-01T12:36:17+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/5/2/1793530379325.jpg",
       "priority": "2 · Important"
     },
     {
@@ -85,6 +95,126 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "El jutge envia a presó provisional un acusat de ser un dels ideòlegs de Blocus",
+      "excerpt": "El magistrat considera que hi ha indicis dels delictes de conspiració per a cometre desordres públics i de grup criminal",
+      "url": "https://www.vilaweb.cat/noticies/el-jutge-envia-a-preso-provisional-un-acusat-de-ser-un-dels-ideolegs-de-blocus/",
+      "published": "2026-11-01T13:57:59+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "B de gust:",
+      "excerpt": "Assaboreix l’oferta gastronòmica de Barcelona cada migdia. El ‘B de gust’ et convida a entrar a bars i forns de barri, restaurants de cuina catalana o internacional i mercats de producte fresc. Tot això, amanit amb entrevistes, receptes, reportatges i recomanacions. Presentat per Carmen Cortés.",
+      "url": "https://beteve.cat/b-de-gust/b-de-gust-39/",
+      "published": "2026-11-01T13:46:57+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La fiscalia de menors deixa en llibertat el jove detingut a València relacionat amb el moviment Blocus",
+      "excerpt": "El menor estava acusat de difondre missatges per a unir-se al grup i d’haver-ne estat l’administrador",
+      "url": "https://www.vilaweb.cat/noticies/la-fiscalia-de-menors-deixa-en-llibertat-el-jove-detingut-a-valencia-relacionat-amb-el-moviment-blocus/",
+      "published": "2026-11-01T13:25:37+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La xifra de ferits ingressats de l’accident ferroviari d’Urda baixa a 31",
+      "excerpt": "Entre els hospitalitzats, 13 són a les UCI; la xifra de víctimes mortals es manté en 69",
+      "url": "https://www.vilaweb.cat/noticies/la-xifra-de-ferits-ingressats-de-laccident-ferroviari-durda-baixa-a-31/",
+      "published": "2026-11-01T13:24:09+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El nou Front Marítim de Barcelona ja pren forma",
+      "excerpt": "Barcelona està a punt de culminar la transformació del seu litoral que va iniciar arran dels Jocs Olímpics. La reforma del darrer tram del Front Marítim en què treballava des de fa anys comença a veure la llum. Només cal acostar-se aquests dies a la façana marítima entre la Mar Bella i el Fòrum per comprovar com el nou passeig Marítim de la ciutat comença a prendre forma. En el tram final del carrer Josep Pla, la nova façana marítima de la ciutat ja és…",
+      "url": "https://www.ara.cat/societat/barcelona/nou-front-maritim-barcelona-ja-pren-forma_1_5888461.html",
+      "published": "2026-11-01T13:12:15+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9a54c117-6281-46e8-8760-f6065d5d32bf_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les acusacions de pedofília contra el pare de Meghan Markle, una bomba enmig de la reconciliació reial dels Sussex",
+      "excerpt": "El príncep Enric estava en plena operació d'apropament a la família reial britànica, de la qual ha estat renegant –previ pagament– durant anys per les pantalles de mig món, quan una bomba comunicativa li ha explotat a les mans. A les d'ell i també a les de la seva dona, Meghan Markle, que ha tingut, per culpa del seu pare, un daltabaix mediàtic com el de quan poc abans del seu casament es va descobrir que l'home havia venut a la premsa sensacionalista unes fotos…",
+      "url": "https://www.ara.cat/gent/acusacions-pedofilia-pare-meghan-markle-bomba-enmig-reconciliacio-reial-dels-sussex_1_5893391.html",
+      "published": "2026-11-01T13:00:19+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2ffa0795-6042-4e0b-a521-41d8afd1d9ef_source-aspect-ratio_default_0_x1729y532.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El bolsonarisme busca un nou líder fora del clan Bolsonaro",
+      "excerpt": "L’extrema dreta brasilera busca una fórmula que fins ara ha resultat fallida per a tots els qui l’han intentat posar en pràctica: mantenir viu el bolsonarisme sense que cap membre de la família Bolsonaro exerceixi el lideratge. La fugida del senador Flávio Bolsonaro als Estats Units , quaranta-vuit hores després de perdre les presidencials davant Lula da Silva, i la declaració colpista posterior –un nyap que va tenir tres versions successives, en què va passar d’autoproclamar-se \"president electe\" a presentar-se com a \"líder del Brasil\"–…",
+      "url": "https://www.ara.cat/internacional/america/bolsonarisme-busca-nou-lider-fora-clan-bolsonaro_1_5895450.html",
+      "published": "2026-11-01T13:00:19+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fb3c2885-8a42-4db5-87e7-1edb0e7400d4_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Pep Massana crea un instrument únic al món inspirat en Leonardo da Vinci",
+      "excerpt": "El músic igualadí interpreta orgue i violí alhora gràcies a un instrument únic desenvolupat amb Ramon Elias",
+      "url": "https://www.vilaweb.cat/noticies/pep-massana-crea-un-instrument-unic-al-mon-inspirat-en-da-vinci/",
+      "published": "2026-11-01T12:57:31+01:00",
+      "category": "Música",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Tallada la circulació de la R1 de Rodalia entre Blanes i Maçanet-Massanes per la presència d’una persona a les vies",
+      "excerpt": "El servei s'ha interromput per seguretat a petició dels Mossos d’Esquadra",
+      "url": "https://www.vilaweb.cat/noticies/tallada-la-circulacio-de-la-r1-de-rodalia-entre-blanes-i-macanet-massanes-per-la-presencia-duna-persona-a-les-vies/",
+      "published": "2026-11-01T12:50:59+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "“Els pacients ara se senten més còmodes”: parelles lingüístiques per a millorar el català dels sanitaris",
+      "excerpt": "Augmenten les iniciatives per a garantir el català als hospitals, com ara el programa de parelles lingüístiques promogut per la Fundació Puigvert",
+      "url": "https://www.vilaweb.cat/noticies/els-pacients-ara-se-senten-mes-comodes-parelles-linguistiques-per-a-millorar-el-catala-dels-sanitaris/",
+      "published": "2026-11-01T12:46:04+01:00",
+      "category": "Llengua",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Diada de Tots Sants: Vilafranca vol posar la cirereta a una temporada fantàstica",
+      "excerpt": "Els Moixiganguers d'Igualada volen convertir-se en colla de gamma extra, i els Capgrossos de Mataró i els Xiquets de Tarragona, tornar a plantar castells de nou pisos",
+      "url": "https://www.3cat.cat/3catinfo/diada-de-tots-sants-vilafranca-vol-posar-la-cirereta-a-una-temporada-fantastica/noticia/3437213/",
+      "published": "2026-11-01T12:34:52+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/8/1793531373987.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Una massa d’aire d’origen polar i àrtic portarà més fred, pluja i neu als Pirineus",
+      "excerpt": "Una irrupció d’aire fred d’origen entre polar i àrtic farà baixar clarament la temperatura a Barcelona i a bona part de Catalunya durant els primers dies de novembre. Els termòmetres podrien marcar entre quatre i vuit graus menys del que és habitual aquestes dates, amb un ambient més propi de finals de tardor o, fins […]",
+      "url": "https://beteve.cat/medi-ambient/aire-polar-artic-fred-pluja-neu-pirineus-novembre-2026/",
+      "published": "2026-11-01T12:33:26+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/aire-polar-artic-fred-pluja-neu-pirineus-novembre-2026-2026-11-01.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
       "title": "L'FBI acusa Corea del Nord del robatori a Binance, el més gran de la història en criptomonedes",
       "excerpt": "Segons l'agència nord-americana, hackers de Pyongyang van buidar una fortuna de la principal plataforma de criptomonedes del món per finançar el seu programa nuclear",
@@ -92,6 +222,16 @@
       "published": "2026-11-01T12:31:28+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/2/1793526272527.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els cementiris s’omplen de visitants aquest diumenge de Tots Sants",
+      "excerpt": "Com cada primer de novembre, els cementiris de la ciutat s’omplen de visitants per recordar els seus difunts amb motiu del dia de Tots Sants. Tots els que hi ha a Barcelona han obert a les 8 h i mantindran les portes obertes fins a les 18 h en un dels dies en què registren […]",
+      "url": "https://beteve.cat/societat/cementiris-visitants-tots-sants-2026/",
+      "published": "2026-11-01T12:26:57+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/cementiri-poblenou-2026-11-01.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -215,9 +355,19 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Jocs terrorífics al parc de les Glòries per Halloween i la Castanyada",
+      "excerpt": "La Gran Clariana del Parc de les Glòries ha acollit aquest cap de setmana la presentació de Zombie Princess, un joc de taula nou que aterra a Barcelona a través de l’editorial Zombi Paella. L’activitat forma part de la programació de l’Espai de Joc 0-99, que cada cap de setmana organitza propostes per apropar diferents […]",
+      "url": "https://beteve.cat/societat/jocs-terror-histories-por-glories-castanyada/",
+      "published": "2026-11-01T10:24:42+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/definitiu-zombi-2-2026-11-01.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "L'FBI acusa Corea del Nord del robatori de 6.300 milions de dòlars a Binance",
-      "excerpt": "Els serveis secrets estatunidencs acusen Corea del Nord d'estar al darrere del ciberatac d'aquesta setmana contra la plataforma d'intercanvi de criptomonedes Binance, que segons els seus responsables, va patir un \"atac complex\" en què van robar 6.300 milions de dòlars en actius digitals.",
+      "excerpt": "Els serveis secrets estatunidencs acusen Corea del Nord d'estar al darrere del ciberatac d'aquesta setmana contra la plataforma d'intercanvi de criptomonedes Binance, que segons els seus responsables, va patir un \"atac complex\" en què van ser robats 6.300 milions de dòlars en actius digitals.",
       "url": "https://www.ara.cat/internacional/estats-units/l-fbi-acusa-corea-nord-robatori-6-300-milions-dolars-binance_1_5896705.html",
       "published": "2026-11-01T10:21:27+01:00",
       "category": "Actualitat",
@@ -371,7 +521,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Èxit del nou grau de serveis funeraris: dobla la demanda d'alumnes en el seu primer any",
+      "title": "Èxit del nou grau de Serveis Funeraris: dobla la demanda d'alumnes en el seu primer any",
       "excerpt": "Els primers estudiants d'aquest cicle de grau mitjà admeten que la seva elecció sorprèn al seu entorn, però estan convençuts de la tria i ho troben una gran oportunitat",
       "url": "https://www.3cat.cat/3catinfo/exit-del-nou-grau-de-serveis-funeraris-dobla-la-demanda-dalumnes-en-el-seu-primer-any/noticia/3436829/",
       "published": "2026-11-01T07:19:42+01:00",
