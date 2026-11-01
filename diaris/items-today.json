@@ -140,8 +140,108 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "La millor metàfora satírica de la modèlica transició espanyola",
+      "excerpt": "Ha mort el director de cinema José Luis Garcia Sánchez, autor de ‘Las Truchas’ (1978), premiada amb l’Os d’Or al Festival de Berlín",
+      "url": "https://www.vilaweb.cat/noticies/la-millor-metafora-satirica-de-la-modelica-transicio-espanyola/",
+      "published": "2026-11-01T21:40:59+01:00",
+      "category": "Joc de Miralls",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Laetitia Colombani: “Tenia por que el meu editor japonès no volgués publicar el llibre”",
+      "excerpt": "Entrevista a l'escriptora francesa, ara que s'ha publicat en català el seu nou llibre, 'Un dia sense dones' (la Magrana), traduït per Lourdes Bigorra",
+      "url": "https://www.vilaweb.cat/noticies/entrevista-laetitia-colombani-tenia-por-editor-japones-no-volgues-publicar-llibre/",
+      "published": "2026-11-01T21:40:26+01:00",
+      "category": "Cultura",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "De sants, difunts i minuts de silenci",
+      "excerpt": "És insuportable que la gent es mori en un tren que l’administració espanyola promociona com la setena meravella del món. I és dantesc que es mori gent perquè un gestor públic no faci cas dels avisos de perillositat d’un episodi de pluja intensa",
+      "url": "https://www.vilaweb.cat/noticies/de-sants-difunts-i-minuts-de-silenci/",
+      "published": "2026-11-01T21:40:23+01:00",
+      "category": "Mail Obert",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
-      "title": "La jutge que investiga l'accident d'Urda demana accelerar la cerca i que es treballi de nit",
+      "title": "El retorn d'Obama a primera línia per esperonar la remuntada demòcrata",
+      "excerpt": "Fa uns dies l'expresident Barack Obama va participar en un míting de campanya d'una de les figures emergents del partit demòcrata, el candidat per Michigan Abdul el Sayed . Hauria estat una estranya parella tenint en compte que Sayed, de jove, havia criticat les polítiques del seu correligionari per considerar-les massa toves. En una exhibició de veterania i elegància Obama no va intentar amagar la discrepància: \"L'Abdul no estava d'acord amb algunes coses que feia la nostra administració, quan jo era president. I sabeu qui…",
+      "url": "https://www.ara.cat/internacional/estats-units/retorn-d-obama-primera-linia-esperonar-remuntada-democrata_1_5896973.html",
+      "published": "2026-11-01T21:16:22+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a484d256-bc8a-4a44-a0b0-f8678646dcd2_16-9-aspect-ratio_default_0_x1594y840.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els Moixiganguers fan història a Tots Sants i entren a la gamma extra",
+      "excerpt": "L’1 de novembre és sinònim de Diada de Tots Sants, de plaça de la Vila de Vilafranca del Penedès i de final de temporada. Una de les cites més esperades del calendari casteller ha tornat a reunir aquest diumenge els Castellers de Vilafranca, els Moixiganguers d’Igualada, els Xiquets de Tarragona i els Capgrossos de Mataró. La jornada arribava amb reptes importants per a totes quatre colles: els vilafranquins volien posar el colofó a una temporada extraordinària amb els castells de 10 i les estructures netes;…",
+      "url": "https://www.ara.cat/castells/moixiganguers-historia-tots-sants-entren-gamma-extra_1_5897059.html",
+      "published": "2026-11-01T21:02:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e7409c40-f63c-416f-872e-a0315e542be9_16-9-aspect-ratio_default_0_x468y895.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Augment dels núvols al litoral i descens tèrmic general",
+      "excerpt": "Començarem la setmana amb anticicló, però amb alguns matisos. L'entrada d'una massa d'aire fred procedent de l'interior del continent europeu farà canviar el temps al nostre territori. Si bé gaudirem d'una jornada estable a l'oest del país, a la costa i al prelitoral el dia vindrà determinat per un augment de la nuvolositat. Amb el pas de les hores, fins i tot cauran alguns plugims o algun ruixat i de cara a dimarts la pluja podrà generalitzar-se, començant pel sud i per la costa, per…",
+      "url": "https://www.ara.cat/previsions/augment-dels-nuvols-litoral-descens-termic-general_1_5896965.html",
+      "published": "2026-11-01T21:01:04+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1241ab15-790a-4716-ad33-bbf2f78b8c8f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Votar o no votar: el feminisme i el 29-N",
+      "excerpt": "Estem en un moment polític extremadament delicat i, malauradament, hi ha moltes opcions de vot que tendeixen més a una venjança, a castigar els que no han fet el que n'esperàvem, que no pas a l’adhesió a un projecte il·lusionant, pel qual ens sentim representades. Sento, al meu voltant, moltes opinions que van en aquest sentit, i especialment les de moltes dones feministes, que de fa molts anys han votat partits d’esquerres i ara, enfadades, em diuen que no aniran a votar. Les esquerres les…",
+      "url": "https://www.ara.cat/opinio/votar-no-votar-feminisme-29-n_129_5887285.html",
+      "published": "2026-11-01T21:01:03+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b9c13c3a-b697-4a3f-a381-b9df15faf469_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Mai no és un dia qualsevol",
+      "excerpt": "Conduïm un cotxe sense pensar que tenim entre les mans una màquina capaç de matar. Posem l’intermitent, canviem de carril i passem per un semàfor amb la naturalitat de qui fa una tasca domèstica. La repetició fa que n’oblidem la importància. Normalitzem allò que fem cada dia.",
+      "url": "https://www.ara.cat/opinio/mai-no-dia-qualsevol_129_5895171.html",
+      "published": "2026-11-01T21:01:01+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e0e1d12a-4a1f-453d-92d8-77d22d367b18_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El Barça aprèn la lliçó definitiva: l'Instant Replay de l'ARA",
+      "excerpt": "Després de dues derrotes com a visitant, el Barça va tancar una setmana de tres partits amb un triomf èpic a la pista de l'Unicaja (89-92). Kendrick Perry va fallar el triple que hagués enviat el partit a la pròrroga. \"Estem jugant molt millor i hem aconseguit la primera victòria fora de casa a l'ACB. Hem entès que no hi ha cap partit fàcil\", va dir Aleksander Sekulic. L'equip blaugrana, que va tenir les baixes de Gibson, Núñez, Balcerowski i Makoundou, va recuperar un desavantatge…",
+      "url": "https://www.ara.cat/esports/basquet/acb/barca-apren-llico-definitiva-instant-replay-ara_1_5896835.html",
+      "published": "2026-11-01T21:00:28+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/98b43e3f-7814-4430-b261-fb400ff39157_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Torn de guàrdia: Estirant el fil [capítol 5]",
+      "excerpt": "La Unitat d’Investigació de la Guàrdia Urbana (UI) de la Guàrdia Urbana és una de les més desconegudes per la ciutadania, però les seves indagacions discretes són clau per desarticular organitzacions criminals a Barcelona. Al capítol cinquè de Torn de guàrdia acompanyem els agents de la UI en diverses d’aquestes actuacions, que sovint fan en […]",
+      "url": "https://beteve.cat/torn-de-guardia/estirant-el-fil/",
+      "published": "2026-11-01T21:00:00+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/torn_de_guardia_estirant_el_fil-2026-10-28.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La jutgessa que investiga l'accident d'Urda demana accelerar la cerca i que es treballi de nit",
       "excerpt": "Que s'accelerin les tasques de cerca, que es destinin els operaris que siguin necessaris per fer-ho i que es treballi de manera ininterrompuda, també de nit. Aquestes són les tres peticions que ha fet la jutgessa que investiga la tragèdia ferroviària d'Urda a l'empresa de grues contractada per Adif-Renfe davant la \"urgent necessitat\" de localitzar totes les possibles restes que podrien trobar-se encara al lloc on hi ha els trens sinistrats. Es continua inspeccionant la zona de l'accident on han mort almenys 69 persones amb…",
       "url": "https://www.ara.cat/societat/justicia/jutge-investiga-l-accident-d-urda-demana-accelerar-cerca-treballi-nit_1_5896858.html",
       "published": "2026-11-01T20:43:00+01:00",
@@ -161,8 +261,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La candidata demòcrata derrotada per El Sayed a Michigan dona suport al republicà Mike Rogers",
-      "excerpt": "Haley Stevens retreu a El Sayed les vinculacions amb l’activista Hasan Piker i insinua que ha basat la seva campanya en l’odi",
+      "title": "La candidata demòcrata derrotada per El Sayed a Michigan dóna suport al republicà Mike Rogers",
+      "excerpt": "Haley Stevens retreu a El Sayed les vinculacions amb l’activista Hasan Piker i insinua que ha basat la campanya en l’odi",
       "url": "https://www.vilaweb.cat/noticies/la-candidata-democrata-derrotada-per-el-sayed-a-michigan-dona-suport-al-republica-mike-rogers/",
       "published": "2026-11-01T20:13:35+01:00",
       "category": "Amèrica",
@@ -197,12 +297,12 @@
       "published": "2026-11-01T19:40:39+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/4/1793553095949.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433816/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/preocupacio-entre-usuaris-i-empresaris-de-lleida-pel-possible-tall-de-lave-barcelona-madrid/noticia/3437252/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -436,12 +536,12 @@
     },
     {
       "source": "ARA",
-      "title": "Abans que vingui la fosca",
-      "excerpt": "Passa poques vegades que una novel·la literalment subjugui els seus lectors; vull dir, que durant uns dies la vida passi a girar entorn de l'atenció que dispensem a la lectura d'una història de ficció. I que després, una vegada acabada la lectura, passi a girar entorn de l'impacte que la novel·la ens ha deixat, de les emocions que ens ha fet sentir o de les idees que ens ha convocat, o fet néixer, dins el pensament. Això m'ha passat recentment amb Abans que vingui la…",
+      "title": "'OK' Koldo",
+      "excerpt": "La tragèdia ferroviària d'Urda ha noquejat la precampanya electoral, però no l'ha morta. Sí que ha tingut l'efecte que passin desapercebudes notícies que mereixen més atenció. Per exemple, que el digital d'Eduardo Inda, OK Diario , va pagar fins a 240.000 euros de la defensa del corrupte Koldo García, condemnat a 19 anys i vuit mesos de presó pel sonat escàndol que du el seu nom, o el del seu cap, el ministre Ábalos, i que va comprometre justament el ministeri de Transports en l'època…",
       "url": "https://www.ara.cat/opinio/vingui-fosca_129_5896148.html",
       "published": "2026-11-01T17:30:23+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/3652cd14-1b56-458e-ac4e-ba7c2e14ac6c_16-9-aspect-ratio_default_0_x785y167.png",
+      "image": "https://static1.ara.cat/clip/0675389b-9cf1-48b7-9ee9-8937d02cbc24_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -797,7 +897,7 @@
     {
       "source": "VilaWeb",
       "title": "La Fúmiga s’acomiada amb un final de pel·lícula",
-      "excerpt": "Malgrat tot, la Fúmiga va voler reivindicar els finals feliços. \"Hi ha coses a la vida que s’acaben quan encara t’agraden, quan encara voldries ballar, però decideixes marxar i penses: 'Que bé que ho hem fet tot.'\" I això és, precisament, el que van transmetre dalt de l’escenari.",
+      "excerpt": "Malgrat tot, la Fúmiga va voler reivindicar els finals feliços. \"Hi ha coses a la vida que s’acaben quan encara t’agraden, quan encara voldries ballar, però decideixes marxar i penses: 'Que bé que ho hem fet tot.'\" I això és, precisament, el que van transmetre dalt de l’escenari",
       "url": "https://www.vilaweb.cat/noticies/la-fumiga-sacomiada-amb-un-final-de-pellicula/",
       "published": "2026-11-01T12:00:54+01:00",
       "category": "Cultura",
