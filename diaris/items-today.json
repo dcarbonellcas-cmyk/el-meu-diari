@@ -3,6 +3,22 @@
   "items": [
     {
       "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
+      "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
+      "published": "2026-10-31T10:09:50+01:00",
+      "updated": "2026-11-01T16:11:55+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/2/1793517438924.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433832/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
       "title": "Els primers dies de novembre portaran fred i precipitació",
       "excerpt": "Una bossa d'aire fred i una gran pertorbació superficial a l'horitzó del curt i mitjà termini",
       "url": "https://www.3cat.cat/3catinfo/els-primers-dies-de-novembre-portaran-fred-i-precipitacio/noticia/3437202/",
@@ -59,22 +75,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
-      "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
-      "published": "2026-10-31T10:09:50+01:00",
-      "updated": "2026-11-01T08:24:05+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/4/2/1793517438924.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433787/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "ARA",
       "title": "\"El dia de la invasió vaig anar a l'oficina. Allí hi havia Zelenski i tot el govern: ningú va pensar en marxar\"",
       "excerpt": "Al jardí de l'ambaixada ucraïnesa a Espanya, a la zona noble de Madrid, la bandera blava i groga onejava divendres a mig pal. Un membre del cos diplomàtic de Kíiv explicava que era en senyal de dol per l'accident ferroviari a Urda. \"Bé, i també per Dnipró. Ahir Rússia va bombardejar una estació de tren plena de civils i va matar 15 persones \", va afegir. A l'interior de l'edifici, Yuliia Sokolovska, l'ambaixadora, esperava l'ARA. Fa un any i pocs mesos va venir a la…",
@@ -92,7 +92,32 @@
       "published": "2026-11-01T07:17:14+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/3/7/1793350555173.jpeg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433806/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/ruta-66-4000-quilometres-per-escoltar-els-estats-units-abans-de-les-eleccions-de-mig-mandat/noticia/3436217/"
+      }
+    },
+    {
+      "source": "betevé",
+      "title": "Els Mossos investiguen l’agressió d’un conductor de VTC a un taxista a l’aeroport",
+      "excerpt": "(ACN) Els Mossos d’Esquadra investiguen l’agressió d’un conductor de VTC a un taxista a l’aeroport de Barcelona-el Prat. Segons les primeres informacions, la discussió es va originar després que el taxista hagués recriminat al conductor de VTC que no tenia permís per captar clients ni per operar a la zona. El conductor va necessitar atenció […]",
+      "url": "https://beteve.cat/societat/agressio-conductor-vtc-taxista-aeroport/",
+      "published": "2026-11-01T16:35:57+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/04/taxi-240423.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La desena colla castellera de gamma extra del país",
+      "excerpt": "Els Moixiganguers d’Igualada es fan grans a Vilafranca i els Verds no aconsegueixen descarregar el 4 de 9 sense folre per molt poc a la Diada de Tots Sants",
+      "url": "https://www.vilaweb.cat/noticies/la-desena-colla-castellera-de-gamma-extra-del-pais/",
+      "published": "2026-11-01T16:17:33+01:00",
+      "category": "Cultura popular",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -132,7 +157,12 @@
       "published": "2026-11-01T14:53:09+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/8/1793441104389.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433807/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/per-que-els-judicis-de-nuremberg-van-ser-una-fita-linguistica-lorigen-de-la-interpretacio-simultania/noticia/3436753/"
+      }
     },
     {
       "source": "betevé",
@@ -176,8 +206,8 @@
     },
     {
       "source": "ARA",
-      "title": "Presó sense fiança per un \"ideòleg\" de Blocus detingut a Barcelona",
-      "excerpt": "Després de contenir les convocatòries Blocus previstes per dissabte a Barcelona , es continua estrenyent el setge per acabar amb aquest fenomen. Aquest diumenge el Jutjat d'Instrucció número 14 de Barcelona ha decretat presó provisional, comunicada i sense fiança per a un detingut com a \"ideòleg\" dels aldarulls i saquejos que es van viure a la capital catalana fa una setmana. Es tracta d'un jove de 18 anys detingut dissabte passat que aquest matí ha passat a disposició judicial i s'ha decretat el seu ingrés…",
+      "title": "Presó sense fiança per a un \"ideòleg\" de Blocus detingut a Barcelona",
+      "excerpt": "Després de contenir les convocatòries Blocus previstes per a dissabte a Barcelona , es continua estrenyent el setge per posi fi a aquest fenomen. Aquest diumenge, el jutjat d'instrucció número 14 de Barcelona ha decretat presó provisional, comunicada i sense fiança per a un detingut com a \"ideòleg\" dels aldarulls i saquejos que es van viure a la capital catalana fa una setmana. Es tracta d'un jove de 18 anys detingut dissabte passat que aquest matí ha passat a disposició judicial i s'ha decretat el…",
       "url": "https://www.ara.cat/societat/successos/preso-fianca-ideoleg-blocus-detingut-barcelona_1_5896810.html",
       "published": "2026-11-01T14:36:20+01:00",
       "category": "Actualitat",
@@ -477,7 +507,7 @@
     {
       "source": "ARA",
       "title": "L'FBI acusa Corea del Nord del robatori de 6.300 milions de dòlars a Binance",
-      "excerpt": "Els serveis secrets estatunidencs acusen Corea del Nord d'estar al darrere del ciberatac d'aquesta setmana contra la plataforma d'intercanvi de criptomonedes Binance, que segons els seus responsables, va patir un \"atac complex\" en què van ser robats 6.300 milions de dòlars en actius digitals.",
+      "excerpt": "Els serveis secrets estatunidencs acusen Corea del Nord d'estar darrere del ciberatac d'aquesta setmana contra la plataforma d'intercanvi de criptomonedes Binance, que, segons els seus responsables, va patir un \"atac complex\" i els van robar 6.300 milions de dòlars en actius digitals.",
       "url": "https://www.ara.cat/internacional/estats-units/l-fbi-acusa-corea-nord-robatori-6-300-milions-dolars-binance_1_5896705.html",
       "published": "2026-11-01T10:21:27+01:00",
       "category": "Actualitat",
@@ -627,7 +657,12 @@
       "published": "2026-11-01T07:20:18+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/8/1793471650587.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433818/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/com-ho-fan-plataformes-xineses-com-temu-o-shein-per-esquivar-les-taxes-europees-a-les-importacions/noticia/3436866/"
+      }
     },
     {
       "source": "3CatInfo",
