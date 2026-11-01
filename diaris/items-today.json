@@ -96,7 +96,67 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El jutge envia a presó provisional un acusat de ser un dels ideòlegs de Blocus",
+      "title": "El PP es personarà en la causa judicial per l’accident ferroviari d’Urda",
+      "excerpt": "Alma Ezcurra acusa el govern espanyol d’anys de mala gestió i de decisions equivocades",
+      "url": "https://www.vilaweb.cat/noticies/el-pp-es-personara-en-la-causa-judicial-per-laccident-ferroviari-durda/",
+      "published": "2026-11-01T14:53:55+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "S’ha mort l’escultor Miquel Navarro a 81 anys",
+      "excerpt": "Era un referent cultural de Mislata i artista universal · La seva obra es caracteritza per la representació de la ciutat com a paisatge escultòric i per un llenguatge que connecta escultura i arquitectura",
+      "url": "https://www.vilaweb.cat/noticies/sha-mort-lescultor-miquel-navarro-a-81-anys/",
+      "published": "2026-11-01T14:48:25+01:00",
+      "category": "Art i museus",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Presó per al detingut com a presumpte ideòleg dels aldarulls de Blocus a Barcelona de fa una setmana",
+      "excerpt": "(ACN) El jutjat de Barcelona ha decretat presó provisional, comunicada i sense fiança per a un detingut com a presumpte ideòleg a través de les xarxes socials del grup de Blocus que va fer aldarulls i saquejos a Barcelona la setmana passada. El detingut és el noi de 18 anys arrestat aquest divendres a Barcelona. […]",
+      "url": "https://beteve.cat/societat/preso-detingut-ideoleg-blocus-barcelona/",
+      "published": "2026-11-01T14:43:29+01:00",
+      "category": "justícia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/destrosses-botiges-aldarulls-1-2026-10-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Presó sense fiança per un \"ideòleg\" de Blocus detingut a Barcelona",
+      "excerpt": "Després de contenir les convocatòries Blocus previstes per dissabte a Barcelona , es continua estrenyent el setge per acabar amb aquest fenomen. Aquest diumenge el Jutjat d'Instrucció número 14 de Barcelona ha decretat presó provisional, comunicada i sense fiança per a un detingut com a \"ideòleg\" dels aldarulls i saquejos que es van viure a la capital catalana fa una setmana. Es tracta d'un jove de 18 anys detingut dissabte passat que aquest matí ha passat a disposició judicial i s'ha decretat el seu ingrés…",
+      "url": "https://www.ara.cat/societat/successos/preso-fianca-ideoleg-blocus-detingut-barcelona_1_5896810.html",
+      "published": "2026-11-01T14:36:20+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f7db4c4b-82ab-4220-aa3b-64d7d296ac70_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Presó sense fiança per al jove de 18 anys detingut a Barcelona per vincles amb Blocus",
+      "excerpt": "Dissabte es va decretar l'internament en un centre de menors en règim tancat del detingut a Sant Sadurní d'Anoia",
+      "url": "https://www.3cat.cat/3catinfo/preso-sense-fianca-per-al-jove-de-18-anys-detingut-a-barcelona-per-vincles-amb-blocus/noticia/3437235/",
+      "published": "2026-11-01T14:32:59+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/0/1792875140207.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El Barça paga un car peatge el dia que li donen la raó a Pere Romeu",
+      "excerpt": "El Barça s'endú el derbi contra el Badalona Women (0-4), però perd Kika Nazareth i Clara Serrajordi. Aquest és el peatge que ha hagut de pagar Pere Romeu per sumar els tres punts en la seva visita a Palamós. Kerolin, amb un doblet, Graham Hansen, de penal, i Claudia Pina han estat les golejadores en un partit que s'ha començat a decantar després de l'expulsió a Lucía Martínez per vermella directa.",
+      "url": "https://www.ara.cat/esports/barca-femeni/barca-paga-car-peatge-dia-li-donen-rao-pere-romeu_1_5896530.html",
+      "published": "2026-11-01T14:20:43+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9d626056-94d6-4a75-9332-0ab5eff88430_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Envien a presó provisional un altre detingut de Blocus, per la seva presumpta implicació com a ideòleg",
       "excerpt": "El magistrat considera que hi ha indicis dels delictes de conspiració per a cometre desordres públics i de grup criminal",
       "url": "https://www.vilaweb.cat/noticies/el-jutge-envia-a-preso-provisional-un-acusat-de-ser-un-dels-ideolegs-de-blocus/",
       "published": "2026-11-01T13:57:59+01:00",
@@ -196,12 +256,12 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Diada de Tots Sants: Vilafranca vol posar la cirereta a una temporada fantàstica",
-      "excerpt": "Els Moixiganguers d'Igualada volen convertir-se en colla de gamma extra, i els Capgrossos de Mataró i els Xiquets de Tarragona, tornar a plantar castells de nou pisos",
+      "title": "Diada de Tots Sants: els Moixiganguers d'Igualada ja són de gamma extra",
+      "excerpt": "Els de l'Anoia carreguen el seu primer 2d9fm i els Castellers de Vilafranca descarreguen el seu sisè 3d0fm del curs",
       "url": "https://www.3cat.cat/3catinfo/diada-de-tots-sants-vilafranca-vol-posar-la-cirereta-a-una-temporada-fantastica/noticia/3437213/",
       "published": "2026-11-01T12:34:52+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpeg/7/8/1793531373987.jpeg",
+      "image": "https://img.3cat.cat/multimedia/jpeg/6/3/1793538687836.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
