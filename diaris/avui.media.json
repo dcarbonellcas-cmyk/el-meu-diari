@@ -3,6 +3,19 @@
   "pages": [
     {
       "page": 2,
+      "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
+      "published": "2026-10-31T10:09:50+01:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433778/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/"
+      }
+    },
+    {
+      "page": 3,
       "title": "Un miler de persones es manifesten a Perpinyà en una nova mobilització de protesta",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/un-miler-de-persones-es-manifesten-a-perpinya-en-una-nova-mobilitzacio-de-protesta/",
@@ -10,7 +23,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 3,
+      "page": 4,
       "title": "Die Linke comença negociacions per a una coalició progressista a Berlín",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/die-linke-comenca-negociacions-per-a-una-coalicio-progressista-a-berlin/",
@@ -18,7 +31,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 4,
+      "page": 5,
       "title": "Centenars d’identificats i diverses detencions als dispositius policials contra Blocus a Barcelona i València",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/centenars-didentificats-i-diverses-detencions-als-dispositius-policials-contra-blocus-a-barcelona-i-valencia/",
@@ -26,7 +39,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 5,
+      "page": 6,
       "title": "La Fúmiga diu adeu al Roig Arena de València, en el seu millor moment: \"Ara que encara ens agrada\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-fumiga-diu-adeu-al-roig-arena-de-valencia-en-el-seu-millor-moment-ara-que-encara-ens-agrada/noticia/3437189/",
