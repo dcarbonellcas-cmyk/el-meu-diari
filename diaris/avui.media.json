@@ -3,24 +3,24 @@
   "pages": [
     {
       "page": 2,
-      "title": "\"El dia de la invasió vaig anar a l'oficina. Allí hi havia Zelenski i tot el govern: ningú va pensar en marxar\"",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/internacional/europa/dia-invasio-l-oficina-hi-havia-zelenski-govern-ningu-pensar-marxar_128_5895737.html",
-      "published": "2026-11-01T08:00:47+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 3,
       "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
       "published": "2026-10-31T10:09:50+01:00",
       "priority": "2 · Important",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433778/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6433787/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/"
       }
+    },
+    {
+      "page": 3,
+      "title": "\"El dia de la invasió vaig anar a l'oficina. Allí hi havia Zelenski i tot el govern: ningú va pensar en marxar\"",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/europa/dia-invasio-l-oficina-hi-havia-zelenski-govern-ningu-pensar-marxar_128_5895737.html",
+      "published": "2026-11-01T08:00:47+01:00",
+      "priority": "2 · Important"
     },
     {
       "page": 4,
@@ -32,6 +32,38 @@
     },
     {
       "page": 5,
+      "title": "1.440 identificats i tres detinguts en una Barcelona blindada per les crides de Blocus",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/blocus-barcelona-dispositiu-31-octubre/",
+      "published": "2026-11-01T00:30:00+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 6,
+      "title": "Més enllà de Seat: 5 marques de cotxes catalanes desaparegudes al llarg de la història",
+      "source": "ARA",
+      "articleUrl": "https://motor.ara.cat/historia/mes-enlla-seat-5-marques-cotxes-catalanes-desaparegudes-historia_1_5896199.html",
+      "published": "2026-11-01T09:00:39+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 7,
+      "title": "La Unió Europea aplicarà des d’avui una taxa de dos euros per gestió duanera als paquets de Shein, Temu i AliExpress",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/la-unio-europea-aplicara-des-davui-una-taxa-de-dos-euros-per-gestio-duanera-als-paquets-de-shein-temu-i-aliexpress/",
+      "published": "2026-11-01T08:41:30+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 8,
+      "title": "La gran novel·la postdramàtica dels Estats Units d’avui",
+      "source": "ARA",
+      "articleUrl": "https://llegim.ara.cat/critiques-literaries/chris-kraus-gran-novel-postdramatica-dels-estats-units-d-avui_1_5892014.html",
+      "published": "2026-11-01T08:30:14+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 9,
       "title": "Eliminar 70 anys en un dia: el repte de buidar el pis d'un familiar difunt",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/estils/eliminar-70-anys-dia-repte-buidar-pis-d-familiar-difunt_130_5893073.html",
@@ -39,7 +71,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 6,
+      "page": 10,
       "title": "Temor a Vox per les patinades del PP abans del 29-N",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/temor-vox-patinades-pp-29-n_1_5893861.html",
@@ -47,7 +79,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 7,
+      "page": 11,
       "title": "\"Em quedaven tres mesos de vida\": la ciència que ha transformat la salut a Catalunya",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/ciencia-medi-ambient/biomedicina/em-quedaven-tres-mesos-vida-ciencia-transformat-salut-catalunya_130_5894894.html",
@@ -55,7 +87,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 8,
+      "page": 12,
+      "title": "Les portades del diumenge 1 de novembre de 2026",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-diumenge-1-de-novembre-de-2026/",
+      "published": "2026-11-01T08:00:02+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 13,
       "title": "El banc prefereix finançar-te la nevera que el pis",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/opinio/banc-prefereix-financar-nevera-pis_129_5894227.html",
@@ -63,7 +103,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 9,
+      "page": 14,
       "title": "La IA distorsiona els resultats de les grans tecnològiques",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/innovacio/ia-distorsiona-resultats-grans-tecnologiques_1_5894844.html",
@@ -71,7 +111,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 10,
+      "page": 15,
       "title": "D'excursió al tanatori: un institut de Torelló fa formació en dol als alumnes",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/dexcursio-al-tanatori-un-institut-de-torello-fa-formacio-en-dol-als-alumnes/noticia/3435313/",
@@ -84,7 +124,7 @@
       }
     },
     {
-      "page": 11,
+      "page": 16,
       "title": "Com ho fan plataformes xineses com Temu o Shein per esquivar les taxes europees a les importacions",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/com-ho-fan-plataformes-xineses-com-temu-o-shein-per-esquivar-les-taxes-europees-a-les-importacions/noticia/3436866/",
@@ -92,7 +132,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 12,
+      "page": 17,
       "title": "Èxit del nou grau de serveis funeraris: dobla la demanda d'alumnes en el seu primer any",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/exit-del-nou-grau-de-serveis-funeraris-dobla-la-demanda-dalumnes-en-el-seu-primer-any/noticia/3436829/",
@@ -100,7 +140,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 13,
+      "page": 18,
       "title": "Tecnooligarques i poder: la conxorxa dels megarics",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/tecnooligarques-i-poder-la-conxorxa-dels-megarics/noticia/3436867/",
@@ -108,7 +148,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 14,
+      "page": 19,
       "title": "\"Tu també et moriràs?\": les claus per gestionar el dol a la infància",
       "source": "ARA",
       "articleUrl": "https://criatures.ara.cat/criatures/tambe-et-moriras-claus-gestionar-dol-infancia_129_5888066.html",
@@ -116,7 +156,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 15,
+      "page": 20,
       "title": "Un miler de persones es manifesten a Perpinyà en una nova mobilització de protesta",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/un-miler-de-persones-es-manifesten-a-perpinya-en-una-nova-mobilitzacio-de-protesta/",
@@ -124,7 +164,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 16,
+      "page": 21,
       "title": "Die Linke comença negociacions per a una coalició progressista a Berlín",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/die-linke-comenca-negociacions-per-a-una-coalicio-progressista-a-berlin/",
@@ -132,7 +172,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 17,
+      "page": 22,
       "title": "Centenars d’identificats i diverses detencions als dispositius policials contra Blocus a Barcelona i València",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/centenars-didentificats-i-diverses-detencions-als-dispositius-policials-contra-blocus-a-barcelona-i-valencia/",
@@ -140,7 +180,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 18,
+      "page": 23,
       "title": "La Fúmiga diu adeu al Roig Arena de València, en el seu millor moment: \"Ara que encara ens agrada\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-fumiga-diu-adeu-al-roig-arena-de-valencia-en-el-seu-millor-moment-ara-que-encara-ens-agrada/noticia/3437189/",

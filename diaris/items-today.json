@@ -2,6 +2,22 @@
   "date": "2026-11-01",
   "items": [
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
+      "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
+      "published": "2026-10-31T10:09:50+01:00",
+      "updated": "2026-11-01T08:24:05+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/2/1793517438924.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433787/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "\"El dia de la invasió vaig anar a l'oficina. Allí hi havia Zelenski i tot el govern: ningú va pensar en marxar\"",
       "excerpt": "Al jardí de l'ambaixada ucraïnesa a Espanya, a la zona noble de Madrid, la bandera blava i groga onejava divendres a mig pal. Un membre del cos diplomàtic de Kíiv explicava que era en senyal de dol per l'accident ferroviari a Urda. \"Bé, i també per Dnipró. Ahir Rússia va bombardejar una estació de tren plena de civils i va matar 15 persones \", va afegir. A l'interior de l'edifici, Yuliia Sokolovska, l'ambaixadora, esperava l'ARA. Fa un any i pocs mesos va venir a la…",
@@ -9,22 +25,6 @@
       "published": "2026-11-01T08:00:47+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/c6add15a-cfe5-4dd6-8df5-23f4aef2ebc3_source-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge: Tots Sants amb menys núvols i més vent",
-      "excerpt": "Es reforçaran el mestral i la tramuntana, i també el vent de nord al Pirineu",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/",
-      "published": "2026-10-31T10:09:50+01:00",
-      "updated": "2026-11-01T07:27:09+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/1/0/1793429970801.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433778/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-tots-sants-amb-menys-nuvols-i-mes-vent/noticia/3437122/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -36,6 +36,46 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/3/7/1793350555173.jpeg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "1.440 identificats i tres detinguts en una Barcelona blindada per les crides de Blocus",
+      "excerpt": "Alerta màxima a Barcelona aquest dissabte per la convocatòria de Blocus. Una setmana després dels greus aldarulls i saquejos, els Mossos d’Esquadra han desplegat un dispositiu excepcional i han blindat la ciutat amb més de 300 agents. La policia catalana, en coordinació amb Guàrdia Urbana, ha fet identificacions massives i ha habilitat un punt per […]",
+      "url": "https://beteve.cat/societat/blocus-barcelona-dispositiu-31-octubre/",
+      "published": "2026-11-01T00:30:00+01:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/punt-recepcio-detinguts-311026-2026-10-31.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Més enllà de Seat: 5 marques de cotxes catalanes desaparegudes al llarg de la història",
+      "excerpt": "Ara fa un parell de setmanes el CEO de Seat i Cupra, l’alemany Markus Haupt, va admetre durant la inauguració del Saló de l’automòbil de París que “Seat podria desaparèixer” en funció de l’evolució de la normativa d’emissions regulada per la Unió Europea i el volum de vehicles que la marca pugui matricular. Ja fa alguns anys, però, que el full de ruta de la cúpula del grup Volkswagen passa per enfortir la filial aspiracional Cupra, convertida ja en una marca independent que genera més…",
+      "url": "https://motor.ara.cat/historia/mes-enlla-seat-5-marques-cotxes-catalanes-desaparegudes-historia_1_5896199.html",
+      "published": "2026-11-01T09:00:39+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/38a551be-b6b8-4ead-ad78-2f710b6b1496_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La Unió Europea aplicarà des d’avui una taxa de dos euros per gestió duanera als paquets de Shein, Temu i AliExpress",
+      "excerpt": "Brussel·les diu que el gravamen l’assumiran els venedors, però els consumidors temen acabar pagant-lo",
+      "url": "https://www.vilaweb.cat/noticies/la-unio-europea-aplicara-des-davui-una-taxa-de-dos-euros-per-gestio-duanera-als-paquets-de-shein-temu-i-aliexpress/",
+      "published": "2026-11-01T08:41:30+01:00",
+      "category": "Tributs",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La gran novel·la postdramàtica dels Estats Units d’avui",
+      "excerpt": "Tota la primera part d'aquesta novel·la és una porta d’entrada falsa: hi llegim la història d’una parella de joves que es coneixen un dia a l’església, es casen i se’n van a viure en un dels suburbis idíl·lics on faran la vida que tota parella de classe mitjana ha somiat, amb un jardinet, fills i pastissos de poma els diumenges a la tarda. Però aquest és un llibre de Chris Kraus (Nova York, 1955), un dels símbols de la contracultura nord-americana, l’autora de I love…",
+      "url": "https://llegim.ara.cat/critiques-literaries/chris-kraus-gran-novel-postdramatica-dels-estats-units-d-avui_1_5892014.html",
+      "published": "2026-11-01T08:30:14+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/66761b0a-f192-4857-908e-7c1752ad04a9_source-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -68,6 +108,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "VilaWeb",
+      "title": "Les portades del diumenge 1 de novembre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-diumenge-1-de-novembre-de-2026/",
+      "published": "2026-11-01T08:00:02+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "El banc prefereix finançar-te la nevera que el pis",
       "excerpt": "L'època de les màximes facilitats per a una hipoteca no s'ha acabat del tot, però perd gas. Els bancs detecten que es desinfla la demanda de crèdit per comprar la casa. El ritme d'augment de la nova producció es desaccelera i, segurament, ho continuarà fent, tenint en compte els preus que han arribat els habitatges i l'encariment del seu finançament.",
@@ -95,12 +145,12 @@
       "published": "2026-11-01T07:20:55+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/3/1793294139537.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433758/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/dexcursio-al-tanatori-un-institut-de-torello-fa-formacio-en-dol-als-alumnes/noticia/3435313/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
