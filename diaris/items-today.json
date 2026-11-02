@@ -2,13 +2,23 @@
   "date": "2026-11-02",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Vint-i-quatre morts pel cap baix en un bombardament rus contra una escola que repartia ajuda humanitària a Ucraïna",
+      "excerpt": "Entre les víctimes mortals hi ha dos membres dels equips de rescat i quatre policies · Zelenski acusa Rússia de no voler rebaixar la intensitat de la guerra",
+      "url": "https://www.vilaweb.cat/noticies/vint-i-quatre-morts-pel-cap-baix-en-un-bombardament-rus-contra-una-escola-que-repartia-ajuda-humanitaria-a-ucraina/",
+      "published": "2026-11-02T20:19:51+01:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "Almenys 24 morts en un atac rus contra una escola a Ucraïna",
       "excerpt": "Com a mínim 24 persones han mort aquest dilluns en un atac rus a la localitat de Komixuvakha, prop del front, a la regió ucraïnesa de Zaporíjia. El bombardeig aeri ha impactat contra una escola, on la població civil rebia ajut humanitari, segons ha informat el president ucraïnès, Volodímir Zelenski. Kíiv ha detallat que les forces russes han llançat una desena de bombes aèries. Es tracta d'uns explosius de gran potència, amb sistemes de navegació propis, que es deixen caure des d'avions.",
       "url": "https://www.ara.cat/internacional/europa/almenys-18-morts-atac-rus-escola-ucraina_1_5897964.html",
       "published": "2026-11-02T19:26:46+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/ee8570fe-f8b3-43fd-9178-a804c95fe8f7_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/3b104a95-edaa-4f43-b85d-eb1f356e40e7_source-aspect-ratio_default_0.jpg",
       "priority": "1 · Urgent"
     },
     {
@@ -112,7 +122,7 @@
       "excerpt": "El termòmetre quedarà amb màximes entre els 10 i els 15 graus a Catalunya",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-notable-i-generalitzat-descens-de-les-temperatures-maximes/noticia/3437392/",
       "published": "2026-11-02T19:31:32+01:00",
-      "updated": "2026-11-02T19:37:31+01:00",
+      "updated": "2026-11-02T20:35:02+01:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/0/7/1793644634470.jpg",
       "video": {
@@ -251,12 +261,132 @@
     },
     {
       "source": "ARA",
+      "title": "El català també es desploma a Andorra i ja empata amb el castellà",
+      "excerpt": "La nova Llei de la llengua pròpia i oficial no ha aconseguit aturar la davallada del català a Andorra. El Govern ha fet públic aquest dilluns l’estudi de coneixements i usos lingüístics de la població i en destaquen dos titulars. D'una banda, l'ús social del català cau vuit punts en quatre anys (del 63,7 al 55,9%) i pràcticament empata amb l'ús habitual del castellà, que creix sis punts (del 48,6 al 55%). D'altra banda, pugen de forma significativa els ciutadans que tenen el castellà com…",
+      "url": "https://www.ara.cat/llengua/catala-tambe-desploma-andorra-ja-empata-castella_1_5897966.html",
+      "published": "2026-11-02T20:46:35+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Illa substitueix el seu cap de gabinet, investigat per corrupció",
+      "excerpt": "El president de la Generalitat li havia expressat el ple suport a l’abril, quan es va fer pública la investigació judicial · Xavier Amor el substituirà en el càrrec",
+      "url": "https://www.vilaweb.cat/noticies/illa-cap-de-gabinet-investigat-per-corrupcio/",
+      "published": "2026-11-02T20:41:09+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Les obres entre Verdaguer i Francesc Macià per unir el tramvia per la Diagonal podrien començar a l'estiu",
+      "excerpt": "L'Ajuntament Barcelona licita les obres, amb una inversió d'uns 217 milions d'euros i permetran recórrer tota la Diagonal en 40 minuts",
+      "url": "https://www.3cat.cat/3catinfo/les-obres-entre-verdaguer-i-francesc-macia-per-unir-el-tramvia-per-la-diagonal-podrien-comencar-a-lestiu/noticia/3437420/",
+      "published": "2026-11-02T20:36:32+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/7/1793639930176.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Gastronomic Forum Barcelona revisita la tradició per impulsar noves maneres de cuinar",
+      "excerpt": "La fira, que per primer cop s'ha traslladat al recinte Gran Via de Fira de Barcelona, acull 14.500 metres quadrats i 450 d'estands amb propostes tradicionals i innovadores",
+      "url": "https://www.3cat.cat/3catinfo/el-gastronomic-forum-barcelona-revisita-la-tradicio-per-impulsar-noves-maneres-de-cuinar/noticia/3437393/",
+      "published": "2026-11-02T20:36:14+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/7/1793638754877.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una vintena de ferits en un accident entre cotxes i un camió a l'A-2",
+      "excerpt": "Una vintena de persones han resultat ferides de diversa consideració —n'hi ha almenys una de greu— en un accident múltiple entre diversos cotxes i un camió que transportava una biga de grans dimensions aquest dimarts cap a dos quarts de set de la tarda.",
+      "url": "https://www.ara.cat/societat/successos/vintena-ferits-accident-cotxes-camio-l-2_1_5898085.html",
+      "published": "2026-11-02T20:30:47+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3298b681-5518-4b2a-8cab-72cfbeecaebb_16-9-aspect-ratio_default_0_x673y508.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Dimiteix el cap de gabinet de Salvador Illa, investigat judicialment",
+      "excerpt": "Moviment important al sottogoverno del president de la Generalitat, Salvador Illa, en plena precampanya de les eleccions espanyoles. El seu cap de gabinet, Eduard Rivas, ha dimitit després que sortís a la llum que es troba investigat judicialment en el marc d'un procés que indaga en contractes públics del consistori d'Esparreguera, d'on va ser alcalde en aquest municipi entre el 2015 i el 2024. En el seu lloc, el líder del PSC ha nomenat l'actual secretari de Governs Locals i Relacions amb l’Aran, Xavier Amor,…",
+      "url": "https://www.ara.cat/politica/salvador-illa-destitueix-cap-gabinet-investigat-judicialment_1_5898079.html",
+      "published": "2026-11-02T20:25:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/af474ed8-e41d-4f86-b3cc-f9f3ff606b95_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Quatre anys d'obres però sense talls de trànsit: així s'unirà el tramvia per la Diagonal",
+      "excerpt": "La gran obra del pròxim mandat a Barcelona comença a caminar. L'empresa municipal BIMSA licitarà aquesta setmana les obres per connectar el tramvia a través de la Diagonal. L'objectiu és que els treballs puguin començar aquest estiu amb l'horitzó que, si no hi ha contratemps, el tramvia ja estigui funcionant l'any 2031. Entremig hi haurà quaranta mesos d'obres en què entre el passeig de Gràcia i l'avinguda Sarrià es mantindran en tot moment, com a mínim, dos carrils de trànsit per cada sentit. També el…",
+      "url": "https://www.ara.cat/societat/barcelona/quatre-anys-d-obres-talls-transit-aixi-s-unira-tramvia-diagonal_1_5897787.html",
+      "published": "2026-11-02T20:21:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c3ddf15d-5ff7-4c23-9741-cfb9d084ae6f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Confiar en l'algoritme o confiar en la premsa",
+      "excerpt": "Cada dia prenem centenars de decisions que ens semblen personals, què llegim, què mirem, què escoltem, què comprem o on viatgem. Una part d’aquestes tries, però, arriba precedida per una recomanació automàtica produïda per algoritmes que ordenen els continguts, seleccionen què apareix primer i determinen, sovint sense que en siguem conscients, quines opcions arriben a formar part del nostre horitzó.",
+      "url": "https://www.ara.cat/opinio/confiar-l-algoritme-confiar-premsa_129_5897812.html",
+      "published": "2026-11-02T20:13:25+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b390f201-54c6-4567-bdf3-021a58655fc7_16-9-aspect-ratio_default_0_x663y245.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Una vintena de ferits a l'A-2 a Castellbisbal per un accident entre un camió i diversos vehicles",
+      "excerpt": "Un dels ferits es troba en estat crític i a la via només hi ha un carril de circulació obert en sentit Barcelona",
+      "url": "https://www.3cat.cat/3catinfo/una-vintena-de-ferits-a-la-2-a-castellbisbal-per-un-accident-entre-un-camio-i-diversos-turismes/noticia/3437438/",
+      "published": "2026-11-02T20:11:04+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/1/1793647186116.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Una vintena de ferits, almenys un de greu, en un accident entre cotxes i un camió a la A-2, a Sant Andreu de la…",
+      "excerpt": "Els bombers han alliberat quatre dels afectats i el SEM ha enviat tretze ambulàncies a l'indret",
+      "url": "https://www.vilaweb.cat/noticies/una-vintena-de-ferits-almenys-un-de-greu-en-un-accident-entre-cotxes-i-un-camio-a-la-a-2-a-sant-andreu-de-la-barca/",
+      "published": "2026-11-02T20:10:45+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Hansi Flick, Ramblista d'Honor: \"Em sento feliç de formar part d'aquesta ciutat. Visca Barcelona!\"",
+      "excerpt": "L'entrenador del Barça, Hansi Flick, ja és Ramblista d'Honor. Ha rebut el guardó aquest dilluns per part de l'associació Amics de la Rambla, que també han reconegut la historiadora de l’art Judit Subirachs i l’emblemàtica Granja Viader. “Em sento feliç i orgullós de formar part d'aquesta ciutat. Visca el Barça i visca Barcelona”, ha dit Flick en un vídeo en anglès –exceptuant un “bona nit a tothom” i el ja tradicional “Visca el Barça”– i subtitulat en català que s'ha projectat al Saló de Cent…",
+      "url": "https://www.ara.cat/societat/barcelona/hansi-flick-ramblista-d-honor-em-sento-felic-formar-part-d-aquesta-ciutat-visca-barcelona_1_5897882.html",
+      "published": "2026-11-02T20:08:05+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f2620fe4-b921-44aa-b348-83e8c9b1c21a_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
       "title": "Cent anys d'història familiar contra el Barça",
       "excerpt": "Un segle després que Antonio Emery defensés la porteria del Real Unión davant del Barça, el seu net tornarà a trobar-se amb el conjunt blaugrana des de l'àrea tècnica. Unai Emery dirigirà l’Aston Villa en el duel de la quarta jornada de la Champions al Camp Nou. El cognom Emery, d'origen francès, ja forma part de la història del futbol espanyol des de fa dècades, però la relació amb el Barça és només una petita part d’un llegat familiar de quatre generacions i que té…",
       "url": "https://www.ara.cat/esports/barca/cent-anys-d-historia-familiar-barca_130_5897605.html",
       "published": "2026-11-02T20:00:38+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/6651be62-69ee-46de-a1c1-40b780c626f9_16-9-aspect-ratio_default_1061346.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Del Barça al suís: Hansi Flick i la Granja Viader, Ramblistes d’Honor 2026",
+      "excerpt": "L’associació Amics de la Rambla ha atorgat el guardó Ramblistes d’Honor d’enguany a Hansi Flick, Judit Subirachs i la Granja Viader. L’entrega dels premis s’ha fet aquest dilluns a la tarda al Saló de Cent de l’Ajuntament de Barcelona. Aquesta és la 65a edició dels premis i la darrera abans de l’estrena de la reurbanització […]",
+      "url": "https://beteve.cat/cultura/hansi-flick-judit-subirachs-i-la-granja-viader-ramblistes-dhonor-2026/",
+      "published": "2026-11-02T19:52:00+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/ramblistes-honor-2026-2026-10-13.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -277,6 +407,16 @@
       "published": "2026-11-02T19:50:57+01:00",
       "category": "La píndola",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Detenen dues menors d'edat al Bages i al Maresme vinculades a Blocus per promoure actes violents",
+      "excerpt": "Aquest dilluns la jutgessa ha enviat a la presó el detingut de Cabrera d'Anoia acusat de coordinar els aldarulls del 24 d'octubre a Barcelona",
+      "url": "https://www.3cat.cat/3catinfo/detenen-dues-menors-dedat-al-bages-i-al-maresme-vinculades-a-blocus-per-promoure-actes-violents/noticia/3437432/",
+      "published": "2026-11-02T19:50:10+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/6/1793524236762.jpg",
       "priority": "3 · Altres notícies"
     },
     {
