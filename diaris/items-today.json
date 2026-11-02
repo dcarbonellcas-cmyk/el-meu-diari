@@ -2,6 +2,32 @@
   "date": "2026-11-02",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Nou morts en estavellar-se un avió privat en una zona residencial de Florida",
+      "excerpt": "L’aparell havia sortit de Texas i es dirigia a les Bahames · Les autoritats nord-americanes han obert una investigació per a aclarir les causes de l’accident",
+      "url": "https://www.vilaweb.cat/noticies/nou-morts-avio-privat-zona-residencial-florida/",
+      "published": "2026-11-02T08:13:04+01:00",
+      "category": "Amèrica",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: núvols baixos cap a l'est i baixada de la temperatura",
+      "excerpt": "Comença a dibuixar-se un inici del novembre mogut",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
+      "published": "2026-11-01T11:41:23+01:00",
+      "updated": "2026-11-02T07:45:05+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1793442153512.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433889/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "\"Un Congrés demòcrata podria tallar el finançament a certs plans de Trump\"",
       "excerpt": "Dimarts els Estats Units renoven a les urnes el Congrés i un terç dels senadors. Tant la Cambra de Representants com el Senat tenen ara majoria republicana, fet que ha permès a Donald Trump governar sense gaires obstacles. Ara, però, tots els pronòstics preveuen que els demòcrates obtindran majoria a la Cambra de Representants, i també és possible que ho aconsegueixin al Senat. Què pot canviar? El món notaria les conseqüències d'un canvi de majories al poder legislatiu estatunidenc? En parlem amb Charles Franklin, professor…",
@@ -12,20 +38,84 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dilluns: núvols baixos cap a l'est i baixada de la temperatura",
-      "excerpt": "Comença a dibuixar-se un inici del novembre mogut",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
-      "published": "2026-11-01T11:41:23+01:00",
-      "updated": "2026-11-02T06:30:43+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1793442153512.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433875/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
-      },
-      "priority": "2 · Important"
+      "source": "VilaWeb",
+      "title": "Un jove del Moianès crea una aplicació per controlar els ramats i reduir la burocràcia",
+      "excerpt": "PasturApp, desenvolupada per Jaume Serra, permet de gestionar les explotacions ramaderes, localitzar els animals i detectar possibles problemes de salut",
+      "url": "https://www.vilaweb.cat/noticies/jove-moianes-aplicacio-controlar-ramats-reduir-burocracia/",
+      "published": "2026-11-02T08:34:01+01:00",
+      "category": "Ciència i Tecnologia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Recta final de les obres per convertir la Torre Garcini en un casal de gent gran",
+      "excerpt": "Les obres de rehabilitació de la Torre Garcini, al barri del Guinardó, avancen a bon ritme i ja permeten intuir com serà el futur casal per a la gent gran que ocuparà aquesta històrica masia del segle XVIII. Els treballs, iniciats l’estiu del 2025, entren ara en una fase en què comencen a definir-se els […]",
+      "url": "https://beteve.cat/societat/recta-final-obres-convertir-torre-garcini-casal-gent-gran/",
+      "published": "2026-11-02T08:24:45+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/torre-garcini-281026-2026-10-29.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Trashto, el projecte barceloní que dona una segona vida a copes, plats i safates vintage",
+      "excerpt": "A casa l’Andreu Font hi ha l’habitació dels trastos, un espai que en els darrers mesos s’ha omplert de làmpares, rellotges, safates, plats, pots, copes i cadires d’altres èpoques. Material que ha anat recopilant en viatges, mercats de vell, subhastes i pel carrer i que ha acabat convertit en el seu projecte personal, Trashto @trashto_vintage […]",
+      "url": "https://beteve.cat/estils-de-vida/trashto-recupera-trastos-vintage-segona-vida/",
+      "published": "2026-11-02T08:12:32+01:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/07/trashto-mercat-encants-2026-07-22.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Lluc Crusellas dóna continuïtat a una xocolateria bicentenària de Barcelona",
+      "excerpt": "El xocolater, guardonat amb el World Chocolate 2022, es posa al capdavant de la històrica xocolateria Fargas del carrer del Pi",
+      "url": "https://www.vilaweb.cat/noticies/lluc-crusellas-xocolateria-fargas-barcelon/",
+      "published": "2026-11-02T08:03:39+01:00",
+      "category": "Gastronomia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Casa teva et cuida el cervell?",
+      "excerpt": "El poeta Khalil Gibran deia que la casa és el nostre cos més ample, que creix sota el sol i dorm en la calma de la nit. Que la llar no és sinó una extensió del nostre cos ho explica també la neuroarquitectura, una disciplina en plena expansió que demostra que la llum que rebem, els sons que ens envolten i l’ordre visual i les textures d’una habitació impacten directament en les nostres emocions, descans i salut.",
+      "url": "https://www.ara.cat/estils/casa-teva-et-cuida-cervell_130_5880875.html",
+      "published": "2026-11-02T08:00:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6af6e0fd-23c8-49ab-a7b1-62e711f8776d_source-aspect-ratio_default_0_x2368y775.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les portades del dilluns 2 de novembre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-dilluns-2-de-novembre-de-2026/",
+      "published": "2026-11-02T08:00:03+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Retrat dinàmic i mundà de Ferran Torrent",
+      "excerpt": "Basta parlar una estona curta amb Ferran Torrent (Sedaví, 1951) per adonar-se que no tan sols té un anecdotari riquíssim –aventures i desventures personals de tota mena, xafarderies literàries i polítiques, una macedònia colorista de tipologies humanes vistes de prop– sinó que, a més, el va desplegant i contant amb una gràcia infal·lible. Un dia que havíem anat a una d’aquestes jornades pre-Sant Jordi que les editorials munten perquè els seus autors provin de firmar llibres en llibreries de grans ciutats veïnes de Barcelona, vaig…",
+      "url": "https://llegim.ara.cat/critiques-literaries/retrat-dinamic-munda-ferran-torrent_1_5893981.html",
+      "published": "2026-11-02T07:15:11+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a5acafd7-2bec-4a3f-bb34-decff7034100_16-9-aspect-ratio_default_1053439.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una troballa islandesa",
+      "excerpt": "En les èpoques que em costa trobar bones lectures (bones en el sentit que se m’enduguin) hi ha una estratègia que no sol fallar. Proveu d’anar a una llibreria de confiança (en el meu cas, la Mitja Mosca , de Badalona) i, sense pressa, passegeu a prop dels llibres mentre xerreu amb la llibretera, agafeu-ne un només perquè us n'atreu la coberta, llegiu la primera pàgina d’un altre, deixeu-vos portar per les intuïcions absurdes més que no pas per les raons lògiques (autor conegut, editorial…",
+      "url": "https://llegim.ara.cat/opinio/troballa-islandesa_129_5891987.html",
+      "published": "2026-11-02T07:15:11+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f6d36129-b43c-4ad5-be63-eddf52d2f273_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -94,7 +184,7 @@
       "url": "https://diumenge.ara.cat/diumenge/misterios-cas-vampira-polonia-percebuda-esser-demoniac_130_5883430.html",
       "published": "2026-11-02T07:00:59+01:00",
       "category": "Actualitat",
-      "image": null,
+      "image": "https://static1.ara.cat/clip/0ac82903-b71d-4dc6-b2ff-9a4757be2cee_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -145,12 +235,12 @@
       "published": "2026-11-02T06:54:49+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/6/1793287458468.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433858/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/interrompre-un-embaras-a-contracor-es-una-decisio-que-prens-contra-el-teu-instint/noticia/3436614/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -180,12 +270,12 @@
       "published": "2026-11-02T06:50:12+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/0/1793561390504.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433856/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/els-partits-es-reajusten-despres-del-dol-per-laccident-de-toledo-amb-el-focus-sobre-oscar-puente/noticia/3437260/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -199,8 +289,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Iribar i Kortabarria reviuen a San Mames el seu gest històric amb l’ikurriña",
-      "excerpt": "Cinquanta anys després, els dos capitans de l'Athletic i la Real han tornat a sortir al camp amb la bandera basca, com ho van fer quan encara era prohibida, ara fa ja cinquanta anys",
+      "title": "Iribar i Kortabarria reviuen a San Mames el seu gest històric amb la ‘ikurriña’",
+      "excerpt": "Cinquanta anys després, els dos capitans de l'Atlètic de Bilbao i la Reial Societat han tornat a sortir al camp amb la bandera basca, com ho van fer el 1976, quan encara era prohibida",
       "url": "https://www.vilaweb.cat/noticies/iribar-i-kortabarria-reviuen-a-san-mames-el-seu-gest-historic-amb-likurrina/",
       "published": "2026-11-02T00:26:07+01:00",
       "category": "País Basc",
