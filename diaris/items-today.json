@@ -2,6 +2,21 @@
   "date": "2026-11-02",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Els dipòsits pluvials de Palamós minimitzen els efectes dels temporals per evitar inundacions",
+      "excerpt": "La remodelació del passeig del Mar a Palamós inclou dos grans dipòsits subterranis per recollir aigües pluvials i minimitzar els efectes dels temporals",
+      "url": "https://www.3cat.cat/3catinfo/els-diposits-pluvials-de-palamos-minimitzen-els-efectes-dels-temporals-per-evitar-inundacions/noticia/3436359/",
+      "published": "2026-11-02T22:28:04+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/3/1793183116230.jpg",
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433935/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-diposits-pluvials-de-palamos-minimitzen-els-efectes-dels-temporals-per-evitar-inundacions/noticia/3436359/"
+      }
+    },
+    {
       "source": "VilaWeb",
       "title": "Vint-i-quatre morts pel cap baix en un bombardament rus contra una escola que repartia ajuda humanitària a Ucraïna",
       "excerpt": "Entre les víctimes mortals hi ha dos membres dels equips de rescat i quatre policies · Zelenski acusa Rússia de no voler rebaixar la intensitat de la guerra",
@@ -49,12 +64,12 @@
       "published": "2026-11-02T18:31:28+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/3/1793637133330.jpg",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434055/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/el-paquet-dajuts-pel-xoc-de-trens-de-toledo-preveu-doblar-les-indemnitzacions-a-victimes-i-familiars/noticia/3437397/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "VilaWeb",
@@ -222,12 +237,12 @@
       "published": "2026-11-02T10:19:21+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/png/4/7/1762450372474.png",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433940/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/el-preu-dels-lloguers-creix-un-2-6-a-les-zones-regulades-i-cauen-els-contractes-de-temporada/noticia/3437266/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -280,6 +295,36 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "Pas endavant cap al macropolígon de l'Alt Camp que ocuparà 145 hectàrees de sòl industrial",
+      "excerpt": "Ecologistes en Acció i el GEPEC presenten al·legacions al pla director i creuen que el projecte s'hauria de retitrar",
+      "url": "https://www.3cat.cat/3catinfo/pas-endavant-cap-al-macropoligon-de-lalt-camp-que-ocupara-145-hectarees-de-sol-industrial/noticia/3437014/",
+      "published": "2026-11-02T22:35:09+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/6/1793654374161.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433944/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/pas-endavant-cap-al-macropoligon-de-lalt-camp-que-ocupara-145-hectarees-de-sol-industrial/noticia/3437014/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Via Veneto rep una menció honorífica de Barcelona per sis dècades d'alta cuina i bon tracte",
+      "excerpt": "Fundat per l'empresari Oriol Regàs, l'establiment és un referent pel servei de sala i els seus reservats, per on han passat celebritats de totes les èpoques",
+      "url": "https://www.3cat.cat/3catinfo/el-via-veneto-rep-una-mencio-honorifica-de-barcelona-per-sis-decades-dalta-cuina-i-bon-tracte/noticia/3437421/",
+      "published": "2026-11-02T22:23:41+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/8/1793644991585.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434069/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-via-veneto-rep-una-mencio-honorifica-de-barcelona-per-sis-decades-dalta-cuina-i-bon-tracte/noticia/3437421/"
+      }
+    },
+    {
       "source": "betevé",
       "title": "bàsics",
       "excerpt": "El programa d’anàlisi de l’actualitat de Barcelona amb els principals titulars del dia i l’anàlisi corresponent. Perquè això és el ‘bàsics’: fer un pas més i buscar més veus implicades en els temes tractats, per donar les claus del debat a partir d’entrevistes, reportatges, taules i anàlisi. Presentat per Sandra Mestres.",
@@ -287,6 +332,16 @@
       "published": "2026-11-02T22:12:48+01:00",
       "category": "Actualitat",
       "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Ucraïna denuncia un atac de Rússia que ha mort almenys 24 persones en una escola de Zaporíjia",
+      "excerpt": "Zelenski afirma que l'exèrcit rus \"no podia ignorar\" que els veïns del poble de Komixuvakha anaven a l'escola per rebre ajuda humanitària",
+      "url": "https://www.3cat.cat/3catinfo/ucraina-denuncia-un-atac-de-russia-que-ha-mort-almenys-24-persones-en-una-escola-de-zaporijia/noticia/3437437/",
+      "published": "2026-11-02T21:24:36+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/9/1793646633796.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -747,12 +802,12 @@
       "published": "2026-11-02T17:30:32+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/9/1754029217194.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433984/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/trump-debuta-com-a-depredador-de-la-llibertat-de-premsa-en-linforme-anual-de-reporters-sense-fronteres/noticia/3437325/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -862,12 +917,12 @@
       "published": "2026-11-02T15:52:37+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/1/1793619965018.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433985/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/lestafador-de-lamor-admet-en-un-nou-judici-dedicar-se-a-enganyar-dones-sempre-he-evitat-treballar/noticia/3437321/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -1182,12 +1237,12 @@
       "published": "2026-11-02T13:26:36+01:00",
       "category": "Cultura",
       "image": null,
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434067/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/eva-baltasar-guanya-el-prestigios-premi-medicis-etranger-amb-ocas-i-fascinacio/noticia/3436936/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -1197,12 +1252,12 @@
       "published": "2026-11-02T13:16:25+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/c795828a-2f1d-4f16-8a46-5d1d964d020a_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434067/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/eva-baltasar-guanya-el-prestigios-premi-medicis-etranger-amb-ocas-i-fascinacio/noticia/3436936/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -1212,12 +1267,12 @@
       "published": "2026-11-02T13:14:15+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/1/1793623590815.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434056/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/nou-ciberatac-contra-neveres-de-supermercats-ara-a-belgica-luxemburg-suecia-i-irlanda/noticia/3437333/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -1227,12 +1282,12 @@
       "published": "2026-11-02T13:11:45+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/4/1793624687149.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434067/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/eva-baltasar-guanya-el-prestigios-premi-medicis-etranger-amb-ocas-i-fascinacio/noticia/3436936/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
