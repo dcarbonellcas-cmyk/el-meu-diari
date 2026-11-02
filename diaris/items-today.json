@@ -49,7 +49,12 @@
       "published": "2026-11-02T18:31:28+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/3/1793637133330.jpg",
-      "priority": "1 · Urgent"
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434055/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-paquet-dajuts-pel-xoc-de-trens-de-toledo-preveu-doblar-les-indemnitzacions-a-victimes-i-familiars/noticia/3437397/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -122,11 +127,11 @@
       "excerpt": "El termòmetre quedarà amb màximes entre els 10 i els 15 graus a Catalunya",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-notable-i-generalitzat-descens-de-les-temperatures-maximes/noticia/3437392/",
       "published": "2026-11-02T19:31:32+01:00",
-      "updated": "2026-11-02T20:35:02+01:00",
+      "updated": "2026-11-02T22:25:58+01:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/7/1793644634470.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/3/1793654741238.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434023/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6434076/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-notable-i-generalitzat-descens-de-les-temperatures-maximes/noticia/3437392/"
       },
@@ -217,7 +222,12 @@
       "published": "2026-11-02T10:19:21+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/png/4/7/1762450372474.png",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433940/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-preu-dels-lloguers-creix-un-2-6-a-les-zones-regulades-i-cauen-els-contractes-de-temporada/noticia/3437266/"
+      }
     },
     {
       "source": "ARA",
@@ -258,6 +268,26 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/0/1793354596305.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Els estatunidencs passen comptes amb Trump",
+      "excerpt": "No es pot dir que Donald Trump no ho sabés. Els primers dies de l'any, just després de segrestar Nicolás Maduro, el president estatunidenc es dirigia als legisladors republicans en un acte anual al Kennedy Center de Washington. “Diuen que quan guanyes la presidència, perds les eleccions de mig mandat. M’agradaria que poguéssiu explicar-me què dimonis passa pel cap de la gent\", va dir llavors. Nou mesos després, Trump probablement es continua preguntant el mateix mentre les projeccions inflen les esperances demòcrates.",
+      "url": "https://www.ara.cat/internacional/estats-units/estatunidencs-passen-comptes-trump_1_5896153.html",
+      "published": "2026-11-02T22:42:37+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/53a3f376-becc-4de4-bfce-4ff48f7a0fa6_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "bàsics",
+      "excerpt": "El programa d’anàlisi de l’actualitat de Barcelona amb els principals titulars del dia i l’anàlisi corresponent. Perquè això és el ‘bàsics’: fer un pas més i buscar més veus implicades en els temes tractats, per donar les claus del debat a partir d’entrevistes, reportatges, taules i anàlisi. Presentat per Sandra Mestres.",
+      "url": "https://beteve.cat/basics/basics-1415/",
+      "published": "2026-11-02T22:12:48+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -676,7 +706,7 @@
       "url": "https://beteve.cat/estils-de-vida/fishology-nectari-via-veneto-premis-barcelona-restauracio-2026/",
       "published": "2026-11-02T18:19:44+01:00",
       "category": "estils de vida",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/premis-barcelona-restauracio-2026-11-02.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/premis-barcelona-restauracio-2026-2026-11-02.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -717,7 +747,12 @@
       "published": "2026-11-02T17:30:32+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/9/1754029217194.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433984/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/trump-debuta-com-a-depredador-de-la-llibertat-de-premsa-en-linforme-anual-de-reporters-sense-fronteres/noticia/3437325/"
+      }
     },
     {
       "source": "ARA",
@@ -827,7 +862,12 @@
       "published": "2026-11-02T15:52:37+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/1/1793619965018.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433985/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/lestafador-de-lamor-admet-en-un-nou-judici-dedicar-se-a-enganyar-dones-sempre-he-evitat-treballar/noticia/3437321/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -1097,7 +1137,12 @@
       "published": "2026-11-02T13:41:25+01:00",
       "category": "cultura",
       "image": "https://img.beteve.cat/wp-content/uploads/2025/09/mirador-eva-baltasar-basics.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434067/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/eva-baltasar-guanya-el-prestigios-premi-medicis-etranger-amb-ocas-i-fascinacio/noticia/3436936/"
+      }
     },
     {
       "source": "betevé",
@@ -1137,7 +1182,12 @@
       "published": "2026-11-02T13:26:36+01:00",
       "category": "Cultura",
       "image": null,
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434067/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/eva-baltasar-guanya-el-prestigios-premi-medicis-etranger-amb-ocas-i-fascinacio/noticia/3436936/"
+      }
     },
     {
       "source": "ARA",
@@ -1147,7 +1197,12 @@
       "published": "2026-11-02T13:16:25+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/c795828a-2f1d-4f16-8a46-5d1d964d020a_16-9-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434067/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/eva-baltasar-guanya-el-prestigios-premi-medicis-etranger-amb-ocas-i-fascinacio/noticia/3436936/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -1157,7 +1212,12 @@
       "published": "2026-11-02T13:14:15+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/1/1793623590815.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434056/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/nou-ciberatac-contra-neveres-de-supermercats-ara-a-belgica-luxemburg-suecia-i-irlanda/noticia/3437333/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -1167,7 +1227,12 @@
       "published": "2026-11-02T13:11:45+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/4/1793624687149.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434067/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/eva-baltasar-guanya-el-prestigios-premi-medicis-etranger-amb-ocas-i-fascinacio/noticia/3436936/"
+      }
     },
     {
       "source": "betevé",
