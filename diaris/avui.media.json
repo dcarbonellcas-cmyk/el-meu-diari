@@ -3,6 +3,22 @@
   "pages": [
     {
       "page": 2,
+      "title": "La veritat inacabada del 17-A: víctimes i polítics lamenten el final sobtat de la comissió",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/veritat-inacabada-17-a-victimes-politics-lamenten-final-comissio/",
+      "published": "2026-11-02T16:54:59+01:00",
+      "priority": "1 · Urgent"
+    },
+    {
+      "page": 3,
+      "title": "El Camp de Tarragona, en alerta per pluja intensa i inundacions fins demà a la tarda",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/camp-de-tarragona-pluja-intensa-inundacions/",
+      "published": "2026-11-02T16:08:14+01:00",
+      "priority": "1 · Urgent"
+    },
+    {
+      "page": 4,
       "title": "Pedro Sánchez anuncia a Barcelona un paquet d’ajuts a les víctimes de l’accident de tren de Toledo",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/politica/pedro-sanchez-anuncia-barcelona-paquet-ajuts-victimes-accident-tren-toledo/",
@@ -10,7 +26,7 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 3,
+      "page": 5,
       "title": "Treball reclama a Glovo, Uber Eats i Amazon els protocols que segueixen els seus repartidors en cas d'aiguats",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/mercat-laboral/treball-reclama-glovo-uber-eats-amazon-protocols-segueixen-repartidors-cas-d-aiguats_1_5897374.html",
@@ -18,7 +34,7 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 4,
+      "page": 6,
       "title": "Els aiguats obliguen TMB a repensar com protegir les estacions de Barcelona de les inundacions",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/els-aiguats-obliguen-tmb-a-repensar-com-protegir-les-estacions-de-barcelona/noticia/3436347/",
@@ -31,7 +47,7 @@
       }
     },
     {
-      "page": 5,
+      "page": 7,
       "title": "Nou morts en un accident d’un avió privat en una zona residencial de Florida",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/nou-morts-avio-privat-zona-residencial-florida/",
@@ -39,7 +55,7 @@
       "priority": "1 · Urgent"
     },
     {
-      "page": 6,
+      "page": 8,
       "title": "Sánchez aprovarà ajudes per a les víctimes del tren i Feijóo li retreu que Espanya no necessita \"influencers\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/els-partits-es-reajusten-despres-del-dol-per-laccident-de-toledo-amb-el-focus-sobre-oscar-puente/noticia/3437260/",
@@ -52,20 +68,20 @@
       }
     },
     {
-      "page": 7,
+      "page": 9,
       "title": "La previsió de dilluns: núvols baixos cap a l'est i baixada de la temperatura",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
       "published": "2026-11-01T11:41:23+01:00",
       "priority": "2 · Important",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433889/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6434003/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
       }
     },
     {
-      "page": 8,
+      "page": 10,
       "title": "El rei belga prova de contenir la crisi política per la dimissió del govern",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/rei-belga-contenir-crisi-dimissio-govern/",
@@ -73,7 +89,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 9,
+      "page": 11,
       "title": "La vaga general per l’habitatge rep l’adhesió de més de 4.300 comitès d’empresa de tot l’estat",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/vaga-general-habitatge-adhesions/",
@@ -81,7 +97,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 10,
+      "page": 12,
       "title": "\"No cantis, que plourà!\": què hi ha al darrere d'aquesta expressió popular?",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/no-cantis-que-ploura-que-hi-ha-al-darrere-daquesta-expressio-popular/noticia/3437278/",
@@ -89,7 +105,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 11,
+      "page": 13,
       "title": "Els lloguers pugen per sota de la inflació i cauen els contractes de temporada: els preus per municipi",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/el-preu-dels-lloguers-creix-un-2-6-a-les-zones-regulades-i-cauen-els-contractes-de-temporada/noticia/3437266/",
@@ -97,7 +113,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 12,
+      "page": 14,
       "title": "Els topalls eviten l'encariment dels lloguers: pugen un 1% des del 2024",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/immobiliari/topalls-eviten-l-encariment-dels-lloguers-pugen-1-des-2024_1_5897362.html",
@@ -105,7 +121,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 13,
+      "page": 15,
       "title": "La candidata prorussa Iliana Iotova guanya les eleccions presidencials a Bulgària",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-candidata-prorussa-iliana-iotova-guanya-les-eleccions-presidencials-a-bulgaria/noticia/3437274/",
@@ -113,7 +129,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 14,
+      "page": 16,
       "title": "\"Un Congrés demòcrata podria tallar el finançament a certs plans de Trump\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/estats-units/congres-democrata-tallar-financament-certs-plans-trump_128_5894111.html",
@@ -121,7 +137,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 15,
+      "page": 17,
       "title": "El govern requereix a Uber Eats, Glovo i Amazon els protocols de protecció dels repartidors quan plou molt",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/requereixen-a-uber-eats-glovo-i-amazon-els-protocols-de-proteccio-dels-repartidors-quan-plou-molt/noticia/3436983/",
@@ -129,7 +145,47 @@
       "priority": "2 · Important"
     },
     {
-      "page": 16,
+      "page": 18,
+      "title": "Els ucraïnesos lluiten contra els russos en vells gasoductes subterranis",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/europa/ucrainesos-lluiten-russos-vells-gasoductes-subterranis_1_5897474.html",
+      "published": "2026-11-02T16:36:43+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 19,
+      "title": "El CSIC mesura la por dels peixos davant banyistes i pescadors al Port de la Selva",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/el-csic-mesura-la-por-dels-peixos-davant-banyistes-i-pescadors-al-port-de-la-selva/noticia/3437313/",
+      "published": "2026-11-02T16:21:48+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 20,
+      "title": "Els usuaris del bus Palafrugell-Girona denuncien saturació: \"Hi ha gent que no puja, si ha d'anar dreta\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/els-usuaris-del-bus-palafrugell-girona-denuncien-saturacio-hi-ha-gent-que-no-puja-si-ha-danar-dreta/noticia/3437286/",
+      "published": "2026-11-02T16:11:37+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 21,
+      "title": "\"Em penedeixo d'haver votat Trump\": hispans de Texas se senten enganyats i li retiren el suport",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/em-penedeixo-dhaver-votat-trump-hispans-de-texas-se-senten-enganyats-i-li-retiren-el-suport/noticia/3437272/",
+      "published": "2026-11-02T15:59:35+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 22,
+      "title": "Ciutat Vella habilita punts de reciclatge mòbils per evitar que s’abandoni brossa al carrer",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/politica/ciutat-vella-habilita-punts-reciclatge-mobils/",
+      "published": "2026-11-02T15:55:45+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 23,
       "title": "L'estafador de l'amor admet en un nou judici dedicar-se a enganyar dones: \"Sempre he evitat treballar\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/lestafador-de-lamor-admet-en-un-nou-judici-dedicar-se-a-enganyar-dones-sempre-he-evitat-treballar/noticia/3437321/",
@@ -137,7 +193,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 17,
+      "page": 24,
       "title": "El català perd gairebé vuit punts d’ús habitual a Andorra i el castellà hi guanya terreny",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/catala-perd-habitual-andorra-castella-guanya-terreny/",
@@ -145,7 +201,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 18,
+      "page": 25,
       "title": "Andorra exhaureix en un minut les places de l’examen de català obligatori per a renovar la residència",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/andorra-examen-catala-obligatori-residencia/",
@@ -153,7 +209,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 19,
+      "page": 26,
       "title": "betevé notícies migdia",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-752/",
@@ -161,7 +217,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 20,
+      "page": 27,
       "title": "Què cal fer amb les estacions d'esquí abandonades? Reclamen una normativa que obligui a desmantellar-les",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/que-cal-fer-amb-les-estacions-desqui-abandonades-reclamen-una-normativa-que-obligui-a-desmantellar-les/noticia/3436474/",
@@ -174,7 +230,7 @@
       }
     },
     {
-      "page": 21,
+      "page": 28,
       "title": "Com ens afecta la crisi climàtica en el dia a dia: de la salut mental i física a la butxaca",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/com-ens-afecta-la-crisi-climatica-en-el-dia-a-dia-de-la-salut-mental-i-fisica-a-la-butxaca/noticia/3434047/",
@@ -187,7 +243,7 @@
       }
     },
     {
-      "page": 22,
+      "page": 29,
       "title": "Nadal a Barcelona 2026: Què fer? Llums, fires i agenda d’activitats per gaudir de les festes!",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/activitats-nadal-barcelona/",
@@ -195,7 +251,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 23,
+      "page": 30,
       "title": "Només dos dels 79 menors detinguts pels aldarulls a Barcelona queden sense mesures cautelars",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/successos/nomes-dels-79-menors-detinguts-pels-aldarulls-barcelona-queden-mesures-cautelars_1_5897679.html",
@@ -203,7 +259,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 24,
+      "page": 31,
       "title": "Primavera Sound 2027 a Barcelona: dates, entrades i cartell del festival",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/primavera-sound-cartell-horaris-festival-barcelona/",
@@ -211,7 +267,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 25,
+      "page": 32,
       "title": "”Hem de deixar de lamentar-nos de la duresa de l’ofici de sala perquè econòmicament estem per davant de qualsevol altre”",
       "source": "ARA",
       "articleUrl": "https://mengem.ara.cat/restaurants/hem-deixar-lamentar-duresa-l-ofici-sala-perque-economicament-davant-qualsevol_1_5897615.html",
@@ -219,7 +275,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 26,
+      "page": 33,
+      "title": "La programació de l’In-Edit 2026",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/tot-passa/programacio-in-edit-2026/",
+      "published": "2026-11-02T14:34:39+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 34,
       "title": "'Gerrymander'",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/opinio/gerrymander_129_5897689.html",
@@ -227,7 +291,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 27,
+      "page": 35,
+      "title": "Ada Colau (Front Ampli) demana un pacte d’Estat per recuperar la confiança en el servei ferroviari",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/politica/ada-colau-front-ampli-demana-pacte-estat-recuperar-confianca-servei-ferroviari/",
+      "published": "2026-11-02T14:27:48+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 36,
       "title": "Nadales catalanes: 10 cançons infantils tradicionals de Nadal per a nens!",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/nadales-catala-cancons-nadal-nens/",
@@ -235,7 +307,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 28,
+      "page": 37,
       "title": "Cinc internaments i 72 llibertats vigilades per a menors detinguts pels aldarulls de Blocus",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/menors-internats-llibertat-vigilada-aldarulls-blocus-24-octubre/",
@@ -243,7 +315,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 29,
+      "page": 38,
       "title": "Reflexió de Hansi Flick a la premsa: “És normal que us centreu en les derrotes, jo també ho faria”",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/reflexio-hansi-flick-premsa-dues-derrotes/",
@@ -251,7 +323,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 30,
+      "page": 39,
       "title": "Guanya entrades amb ‘La brama’ per veure ‘Rita’ a l’Espai Texas",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/cultura/entrades-la-brama-rita-espai-texas/",
@@ -259,7 +331,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 31,
+      "page": 40,
+      "title": "La masia de Ca n’Andalet es prepara per ser la Casa dels Oficis a partir del 2027",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/economia/gremis-impulsen-casa-oficis-2027/",
+      "published": "2026-11-02T14:05:27+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 41,
       "title": "La desaparició de la Icària industrial de Martí Llorens arriba a La Virreina",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/cultura/llorens-scemama-wojnarowicz-la-virreina/",
@@ -267,7 +347,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 32,
+      "page": 42,
       "title": "La millor basquetbolista catalana, seduïda per una competició de nou encuny",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/basquet/project-b-altera-ecosistema-basquet-femeni-mariona-ortiz_130_5892199.html",
@@ -275,7 +355,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 33,
+      "page": 43,
       "title": "Emma Vilarasau, especialista en IA a la nova sèrie de 3Cat",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/media/series/emma-vilarasau-especialista-ia-nova-serie-3cat_1_5897592.html",
@@ -283,7 +363,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 34,
+      "page": 44,
       "title": "Feijóo: \"Espanya no necessita un 'influencer' sinó algú que sàpiga governar\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/feijoo-espanya-no-necessita-influencer-algu-sapiga-governar_1_5897591.html",
@@ -291,7 +371,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 35,
+      "page": 45,
       "title": "El vòrtex polar es pot trencar molt abans del previst: què és i com pot afectar Catalunya?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/ara-cat/meteo/vortex-polar-pot-trencar-previst-pot-afectar-catalunya_1_5897595.html",
@@ -299,7 +379,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 36,
+      "page": 46,
       "title": "Anthony Gordon: “He començat bé, però encara puc aportar més a l’equip”",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/anthony-gordon-comencat-be-puc-aportar-mes/",
@@ -307,7 +387,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 37,
+      "page": 47,
       "title": "La Copa del Món aterra a Barcelona amb l’exposició “Reyes del mundo”",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/copa-mon-futbol-aterra-barcelona-reyes-mundo/",
@@ -315,7 +395,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 38,
+      "page": 48,
       "title": "\"L'endemà del concert em vaig llevar com amb una ressaca d'adolescent, sentint-me molt culpable\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/musica/mar-pujol-endema-concert-em-llevar-ressaca-d-adolescent-sentint-culpable_128_5896758.html",
@@ -323,7 +403,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 39,
+      "page": 49,
+      "title": "Eva Baltasar guanya el prestigiós premi Médicis Étranger",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/cultura/eva-baltasar-guanya-medicis-etranger/",
+      "published": "2026-11-02T13:41:25+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 50,
       "title": "Detingut un home amb dues pistoles carregades a prop de l’avinguda Meridiana",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/detingut-home-dues-pistoles-carregades-meridiana/",
@@ -331,7 +419,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 40,
+      "page": 51,
       "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
@@ -339,7 +427,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 41,
+      "page": 52,
       "title": "No vull rebre propaganda electoral a casa: Com evitar-la? Guia, pas a pas, per fer el tràmit",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/politica/no-vull-propaganda-electoral-casa-que-fer/",
@@ -347,7 +435,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 42,
+      "page": 53,
       "title": "Eva Baltasar guanya el premi Médicis Étranger per ‘Ocàs i fascinació’",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/eva-baltasar-consolida-el-seu-exit-internacional-amb-el-premi-medicis-etranger-amb-ocas-i-fascinacio/",
@@ -355,7 +443,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 43,
+      "page": 54,
       "title": "Eva Baltasar guanya el premi Médicis Étranger",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/actualitat/eva-baltasar-guanya-premi-medicis-etranger_1_5897604.html",
@@ -363,7 +451,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 44,
+      "page": 55,
       "title": "Ciberatac contra neveres de supermercats a diversos països europeus després del cas de França",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/nou-ciberatac-contra-neveres-de-supermercats-ara-a-belgica-luxemburg-suecia-i-irlanda/noticia/3437333/",
@@ -371,7 +459,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 45,
+      "page": 56,
       "title": "Eva Baltasar guanya el prestigiós premi Médicis Étranger amb \"Ocàs i fascinació\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/eva-baltasar-guanya-el-prestigios-premi-medicis-etranger-amb-ocas-i-fascinacio/noticia/3436936/",
@@ -379,7 +467,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 46,
+      "page": 57,
       "title": "El lloguer a Barcelona arriba als 1.140 euros, un 4,4 % per sota del 2024, quan va entrar el topall",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/lloguer-barcelona-segon-trimestre-2026/",
@@ -387,7 +475,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 47,
+      "page": 58,
       "title": "L’oposició demana la retirada de les Corts del retrat de Julio de España, condemnat per una agressió sexual",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/loposicio-demana-la-retirada-de-les-corts-del-retrat-de-julio-de-espana-condemnat-per-una-agressio-sexual/",
@@ -395,7 +483,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 48,
+      "page": 59,
       "title": "DAU Barcelona 2026, el festival del joc de taula: Programa, dates, horaris i novetats!",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/festival-dau-barcelona-programa/",
@@ -403,7 +491,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 49,
+      "page": 60,
       "title": "Joves migrants extutelats visiten instituts del Ripollès: \"La gent ha de saber qui som\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/joves-migrants-extutelats-visiten-instituts-del-ripolles-la-gent-ha-de-saber-qui-som/noticia/3437301/",
@@ -411,7 +499,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 50,
+      "page": 61,
       "title": "Entren en servei a la Meridiana les parades definitives dels autobusos interurbans",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/mobilitat/servei-parades-definitives-busos-meridiana/",
@@ -419,7 +507,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 51,
+      "page": 62,
       "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/que-fer-a-barcelona/",
@@ -427,7 +515,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 52,
+      "page": 63,
       "title": "Anthony Gordon: \"De vegades podria ser més egoista\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/en-directe-roda-de-premsa-de-flick-i-gordon-previa-al-barca-aston-villa/noticia/3437324/",
@@ -435,7 +523,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 53,
+      "page": 64,
       "title": "Exposicions a Barcelona: la teva agenda de museus",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
@@ -443,7 +531,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 54,
+      "page": 65,
       "title": "30 anys perseguint el galió San José per acabar esborrat de la foto oficial",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/historia/30-anys-perseguint-galio-san-jose-acabar-esborrat-foto-oficial_1_5886059.html",
@@ -451,7 +539,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 55,
+      "page": 66,
       "title": "Junts denuncia Renfe i Adif per homicidi imprudent per l'accident de Gelida",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/junts-denuncia-penalment-renfe-adif-homicidi-imprudent_1_5897529.html",
@@ -459,7 +547,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 56,
+      "page": 67,
       "title": "Serielizados bat rècord de públic amb més de 18.000 assistents",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/cultura/record-public-serielizados-2026/",
@@ -467,7 +555,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 57,
+      "page": 68,
       "title": "‘GTA VI’, el ‘remake’ del millor ‘Zelda’ i sis jocs més que marcaran el mes de novembre",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/media/videojocs/gta-vi-remake-millor-zelda-sis-jocs-mes-marcaran-mes-novembre_1_5890268.html",
@@ -475,7 +563,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 58,
+      "page": 69,
+      "title": "Substitueixen els autobusos del Montseny després de l'accident i ja ningú podrà anar dret",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/substitueixen-els-autobusos-del-montseny-despres-de-laccident-i-ja-ningu-podra-anar-dret/noticia/3437277/",
+      "published": "2026-11-02T12:18:39+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 70,
       "title": "El preu del lloguer a Barcelona baixa d’un 4,4% després del topall",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/preu-lloguer-barcelona-baixa-topall/",
@@ -483,7 +579,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 59,
+      "page": 71,
       "title": "betevé t’acosta la innovació urbana, en directe, des de l’Smart City Expo 2026",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/beteve-en-directe-smart-city-expo-2026/",
@@ -491,7 +587,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 60,
+      "page": 72,
       "title": "World Press Photo 2026 a Barcelona: tornen els Oscars del fotoperiodisme",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/world-press-photo-barcelona-cccb/",
@@ -499,7 +595,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 61,
+      "page": 73,
       "title": "Un ciberatac fa malbé el menjar de desenes de supermercats arreu d'Europa",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/europa/ciberatac-malbe-menjar-desenes-supermercats-belgica-suecia_1_5897486.html",
@@ -507,7 +603,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 62,
+      "page": 74,
       "title": "Inspecció de Treball demana a Glovo, Uber Eats i Amazon els seus protocols en cas de temporals",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/glovo-uber-eats-amazon-inspeccio-protocols-temporals/",
@@ -515,7 +611,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 63,
+      "page": 75,
       "title": "Una apagada general deixa sense llum durant hores tota l'illa de La Palma",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/una-apagada-general-deixa-sense-llum-durant-hores-tota-lilla-de-la-palma/noticia/3437300/",
@@ -523,7 +619,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 64,
+      "page": 76,
       "title": "La L2 del metro de Barcelona estarà tallada entre la Pau i Gorg per obres fins el 3 de desembre",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/l2-metro-barcelona-tallada-la-pau-gorg/",
@@ -531,7 +627,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 65,
+      "page": 77,
       "title": "Avís per pluja intensa amb l’arribada, també, del fred hivernal",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/medi-ambient/pluja-intensa-fred-hivernal-novembre-2026/",
@@ -539,7 +635,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 66,
+      "page": 78,
       "title": "Quan Illa li retreu a Feijóo que sigui contrari a l’amnistia",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/analisi/illa-li-retreu-feijoo-sigui-contrari-l-amnistia_1_5897453.html",
@@ -547,7 +643,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 67,
+      "page": 79,
       "title": "Bon dia Barcelona",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-167/",
@@ -555,7 +651,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 68,
+      "page": 80,
       "title": "OFICIAL | L’Europa – Sant Andreu es disputarà al camp de l’Espanyol. Tota la informació",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/oficial-derbi-europa-sant-andreu-primera-rfef-camp-espanyol/",
@@ -563,7 +659,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 69,
+      "page": 81,
       "title": "Rússia i Ucraïna s'acusen mútuament de ciberatacs als sistemes d'alarma per avisar la població",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/russia-i-ucraina-sacusen-mutuament-de-ciberatacs-als-sistemes-dalarma-per-avisar-la-poblacio/noticia/3437273/",
@@ -571,7 +667,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 70,
+      "page": 82,
       "title": "Arxiven la investigació per la crema d’una bandera espanyola a Girona el 2024",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/arxiven-investigacio-crema-bandera-espanyola-girona/",
@@ -579,7 +675,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 71,
+      "page": 83,
       "title": "Mercats de cap de setmana a Barcelona, fires i festes del 2026: agenda amb horaris",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/mercats-del-cap-de-setmana-barcelona/",
@@ -587,7 +683,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 72,
+      "page": 84,
       "title": "Heidi Klum es disfressa d'una impactant mà amputada",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/gent/heidi-klum-disfressa-d-impactant-ma-amputada_1_5897346.html",
@@ -595,7 +691,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 73,
+      "page": 85,
       "title": "El tenis de taula, un aliat per guanyar la partida al Parkinson",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/tenis-de-taula-aliat-guanyar-partida-parkinson/",
@@ -603,7 +699,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 74,
+      "page": 86,
       "title": "La Palma recupera el subministrament elèctric després de l'apagada general",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/palma-pateix-apagada-general-deixa-l-illa-subministrament-electric_1_5897402.html",
@@ -611,7 +707,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 75,
+      "page": 87,
       "title": "El Partit Demòcrata expulsa la trànsfuga Stevens i fa pinya amb Abdul el-Sayed",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/partit-democrata-expulsa-transfuga-stevens-abdul-el-sayed/",
@@ -619,7 +715,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 76,
+      "page": 88,
       "title": "Illa defensa de mantenir el servei de gran velocitat entre Barcelona i Madrid mentre es renovi la línia",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/illa-mantenir-gran-velocitat-barcelona-madrid/",
@@ -627,7 +723,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 77,
+      "page": 89,
       "title": "Inspecció de Treball investiga Glovo, Uber Eats i Amazon pels protocols de protecció dels repartidors durant els temporals",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/inspeccio-treball-glovo-uber-eats-amazon-protocols-temporals-repartidors/",
@@ -635,7 +731,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 78,
+      "page": 90,
       "title": "Illa s'oposa a tancar la línia d'AVE Barcelona-Madrid durant les obres de renovació",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/illa-s-oposa-tancar-linia-d-ave-madrid-barcelona-durant-obres-renovacio_1_5897351.html",
@@ -643,7 +739,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 79,
+      "page": 91,
       "title": "Incidències al metro de Barcelona, busos de TMB, FGC i TRAM avui: Afectacions en temps real",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/mobilitat/incidencies-metro-barcelona/",
@@ -651,7 +747,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 80,
+      "page": 92,
       "title": "Un estudi del CSIC al Port de la Selva investiga si els peixos fan servir els banyistes com a escut contra els depredadors",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/estudi-csic-port-selva-peixos-escut-banyistes-depredadors/",
@@ -659,7 +755,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 81,
+      "page": 93,
       "title": "Un jove del Moianès crea una aplicació per a controlar els ramats i reduir la burocràcia",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/jove-moianes-aplicacio-controlar-ramats-reduir-burocracia/",
@@ -667,7 +763,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 82,
+      "page": 94,
       "title": "Recta final de les obres per convertir la Torre Garcini en un casal de gent gran",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/societat/recta-final-obres-convertir-torre-garcini-casal-gent-gran/",
@@ -675,7 +771,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 83,
+      "page": 95,
       "title": "Trashto, el projecte barceloní que dona una segona vida a copes, plats i safates vintage",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/estils-de-vida/trashto-recupera-trastos-vintage-segona-vida/",
@@ -683,7 +779,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 84,
+      "page": 96,
       "title": "Lluc Crusellas dóna continuïtat a una xocolateria bicentenària de Barcelona",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/lluc-crusellas-xocolateria-fargas-barcelon/",
@@ -691,7 +787,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 85,
+      "page": 97,
       "title": "Casa teva et cuida el cervell?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/estils/casa-teva-et-cuida-cervell_130_5880875.html",
@@ -699,7 +795,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 86,
+      "page": 98,
       "title": "Les portades del dilluns 2 de novembre de 2026",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-dilluns-2-de-novembre-de-2026/",
@@ -707,7 +803,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 87,
+      "page": 99,
       "title": "Retrat dinàmic i mundà de Ferran Torrent",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/critiques-literaries/retrat-dinamic-munda-ferran-torrent_1_5893981.html",
@@ -715,7 +811,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 88,
+      "page": 100,
       "title": "Una troballa islandesa",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/opinio/troballa-islandesa_129_5891987.html",
@@ -723,7 +819,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 89,
+      "page": 101,
       "title": "La pujada dels comptes remunerats",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/opinio/pujada-dels-comptes-remunerats_129_5896964.html",
@@ -731,7 +827,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 90,
+      "page": 102,
       "title": "Aliança Catalana només governarà on sigui la força més votada",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/alianca-catalana-nomes-governara-sigui-forca-mes-votada_1_5859813.html",
@@ -739,7 +835,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 91,
+      "page": 103,
       "title": "La riquesa genètica: un negoci milionari que no retorna als països d’origen",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/ciencia-medi-ambient/riquesa-genetica-negoci-milionari-no-retorna-als-paisos-d-origen_1_5891475.html",
@@ -747,7 +843,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 92,
+      "page": 104,
       "title": "\"Els països rics tendeixen a confondre abundància als supermercats amb resiliència alimentària\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/alimentacio/paisos-rics-tendeixen-confondre-abundancia-als-supermercats-resiliencia-alimentaria_128_5887534.html",
@@ -755,7 +851,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 93,
+      "page": 105,
       "title": "Pujades i baixades a la borsa de Hansi Flick",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/barca/pujades-baixades-borsa-hansi-flick_1_5896911.html",
@@ -763,7 +859,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 94,
+      "page": 106,
       "title": "El perill de l'estratègia de Sánchez i Illa contra l'extrema dreta",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/moncloa/perill-l-estrategia-sanchez-illa-l-extrema-dreta_1_5895044.html",
@@ -771,7 +867,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 95,
+      "page": 107,
       "title": "El misteriós cas de la vampira de Polònia: “Era percebuda com un ésser demoníac”",
       "source": "ARA",
       "articleUrl": "https://diumenge.ara.cat/diumenge/misterios-cas-vampira-polonia-percebuda-esser-demoniac_130_5883430.html",
@@ -779,7 +875,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 96,
+      "page": 108,
       "title": "El Consorci de la Zona Franca guanya influència a Iberoamèrica",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/directius/consorci-zona-franca-guanya-influencia-iberoamerica_1_5892980.html",
@@ -787,7 +883,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 97,
+      "page": 109,
       "title": "Lluc Crusellas dona una segona vida a la històrica Xocolates Fargas de Barcelona",
       "source": "ARA",
       "articleUrl": "https://mengem.ara.cat/mengem/lluc-crusellas-dona-segona-vida-historica-xocolates-fargas-barcelona_1_5893893.html",
@@ -795,7 +891,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 98,
+      "page": 110,
       "title": "\"Agraeixo a la meva mare que em parés els peus quan tocava\"",
       "source": "ARA",
       "articleUrl": "https://criatures.ara.cat/criatures/agraeixo-meva-mare-em-pares-peus-tocava_128_5887982.html",
@@ -803,7 +899,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 99,
+      "page": 111,
       "title": "Indonèsia envia autobusos amb oxigen per ajudar els qui s'ofeguen pel fum dels incendis forestals",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/indonesia-envia-autobusos-amb-oxigen-per-ajudar-els-qui-sofeguen-pel-fum-dels-incendis-forestals/noticia/3437264/",
@@ -811,7 +907,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 100,
+      "page": 112,
       "title": "Interrompre un embaràs a contracor: \"És una decisió que prens contra el teu instint\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/interrompre-un-embaras-a-contracor-es-una-decisio-que-prens-contra-el-teu-instint/noticia/3436614/",
@@ -824,7 +920,7 @@
       }
     },
     {
-      "page": 101,
+      "page": 113,
       "title": "Centres de dades, l'última estocada a la democràcia nord-americana",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/centres-de-dades-lultima-estocada-a-la-democracia-nord-americana/noticia/3437165/",
@@ -832,7 +928,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 102,
+      "page": 114,
       "title": "Les 'midterm' esquerden el mite del Trump intocable",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/estats-units/midterm-esquerden-mite-trump-intocable_1_5896849.html",
@@ -840,7 +936,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 103,
+      "page": 115,
       "title": "Iribar i Kortabarria reviuen a San Mamés el seu gest històric amb la ‘ikurriña’",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/iribar-i-kortabarria-reviuen-a-san-mames-el-seu-gest-historic-amb-likurrina/",

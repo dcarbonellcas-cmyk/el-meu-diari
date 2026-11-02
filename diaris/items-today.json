@@ -2,6 +2,26 @@
   "date": "2026-11-02",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "La veritat inacabada del 17-A: víctimes i polítics lamenten el final sobtat de la comissió",
+      "excerpt": "L'avançament electoral a l'estat espanyol ha posat fi a la comissió d'investigació, que era a punt d'aprovar les conclusions",
+      "url": "https://www.vilaweb.cat/noticies/veritat-inacabada-17-a-victimes-politics-lamenten-final-comissio/",
+      "published": "2026-11-02T16:54:59+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Camp de Tarragona, en alerta per pluja intensa i inundacions fins demà a la tarda",
+      "excerpt": "Protecció Civil activa l’Inuncat per la previsió de precipitacions que poden superar els 60 litres per metre quadrat en tres hores · Els aiguats també afectaran el litoral central del Principat",
+      "url": "https://www.vilaweb.cat/noticies/camp-de-tarragona-pluja-intensa-inundacions/",
+      "published": "2026-11-02T16:08:14+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "betevé",
       "title": "Pedro Sánchez anuncia a Barcelona un paquet d’ajuts a les víctimes de l’accident de tren de Toledo",
       "excerpt": "El president del Govern espanyol, Pedro Sánchez, ha fet aquest dilluns des de Barcelona el seu primer acte públic des de l’accident mortal de tren a Urda (Toledo), la setmana passada. Arran de la tragèdia, que ha deixat 69 morts i desenes de ferits, l’Estat i la Generalitat van decretar tres dies de dol oficial […]",
@@ -67,11 +87,11 @@
       "excerpt": "Comença a dibuixar-se un inici del novembre mogut",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
       "published": "2026-11-01T11:41:23+01:00",
-      "updated": "2026-11-02T12:35:07+01:00",
+      "updated": "2026-11-02T16:30:52+01:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/9/1793607765697.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/1/1793633398419.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433889/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6434003/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
       },
@@ -159,6 +179,56 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Els ucraïnesos lluiten contra els russos en vells gasoductes subterranis",
+      "excerpt": "Endinsada en un bosc de l'est d'Ucraïna infestat de drons, vaig pujar a una petita plataforma de metall i vaig baixar a un món postapocalíptic de la guerra moderna, on l'únic lloc segur és sota terra. Quan l'ascensor es va aturar, va aparèixer un vast espai subterrani: un centre logístic de centenars de metres de llarg i d'almenys tres metres d'alçada. Connectada a aquest centre hi havia una xarxa enterrada de gasoductes que abans transportaven gas natural entre Ucraïna i Rússia.",
+      "url": "https://www.ara.cat/internacional/europa/ucrainesos-lluiten-russos-vells-gasoductes-subterranis_1_5897474.html",
+      "published": "2026-11-02T16:36:43+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/92f6a0be-e54a-43d9-98d6-54547c1b4786_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El CSIC mesura la por dels peixos davant banyistes i pescadors al Port de la Selva",
+      "excerpt": "Al municipi de l'Alt Empordà s'hi han situat 14 càmeres subaquàtiques que comproven el comportament dels peixos durant l'estiu i després dels mesos amb més turisme",
+      "url": "https://www.3cat.cat/3catinfo/el-csic-mesura-la-por-dels-peixos-davant-banyistes-i-pescadors-al-port-de-la-selva/noticia/3437313/",
+      "published": "2026-11-02T16:21:48+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/5/1793626276156.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els usuaris del bus Palafrugell-Girona denuncien saturació: \"Hi ha gent que no puja, si ha d'anar dreta\"",
+      "excerpt": "Els ajuntaments afectats han contactat amb Moventis i el govern, però no s'ha trobat cap solució viable a curt termini davant la situació",
+      "url": "https://www.3cat.cat/3catinfo/els-usuaris-del-bus-palafrugell-girona-denuncien-saturacio-hi-ha-gent-que-no-puja-si-ha-danar-dreta/noticia/3437286/",
+      "published": "2026-11-02T16:11:37+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/1/7/1793608322571.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "\"Em penedeixo d'haver votat Trump\": hispans de Texas se senten enganyats i li retiren el suport",
+      "excerpt": "Decebuts per la política d'immigració indiscriminada de Trump, la caiguda de l'economia i l'encariment del cost de la vida, molts donen suport al candidat James Talarico, que pot ser el primer senador demòcrata en 38 anys a l'estat",
+      "url": "https://www.3cat.cat/3catinfo/em-penedeixo-dhaver-votat-trump-hispans-de-texas-se-senten-enganyats-i-li-retiren-el-suport/noticia/3437272/",
+      "published": "2026-11-02T15:59:35+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/8/1793618631384.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Ciutat Vella habilita punts de reciclatge mòbils per evitar que s’abandoni brossa al carrer",
+      "excerpt": "Des d’aquest dilluns és més fàcil reciclar en dos barris de Ciutat Vella: el Gòtic i Sant Pere, Santa Caterina i la Ribera. L’Ajuntament de Barcelona hi ha habilitat un total de nou punts de reciclatge mòbils per evitar l’abandonament de bosses d’escombraries al carrer. Els punts mòbils funcionen de dilluns a dissabte (excepte festius) […]",
+      "url": "https://beteve.cat/politica/ciutat-vella-habilita-punts-reciclatge-mobils/",
+      "published": "2026-11-02T15:55:45+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/reciclatge-ciutat-vella-021126-2-2026-11-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
       "title": "L'estafador de l'amor admet en un nou judici dedicar-se a enganyar dones: \"Sempre he evitat treballar\"",
       "excerpt": "Albert Cavallé, conegut com l'estafador de l'amor, s'enfronta a un nou judici per haver robat més de 50.000 euros a una dona vulnerable",
@@ -206,12 +276,12 @@
       "published": "2026-11-02T14:53:08+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/4/1793294223648.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433936/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/que-cal-fer-amb-les-estacions-desqui-abandonades-reclamen-una-normativa-que-obligui-a-desmantellar-les/noticia/3436474/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -221,12 +291,12 @@
       "published": "2026-11-02T14:50:33+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/4/1792065873546.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433917/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/com-ens-afecta-la-crisi-climatica-en-el-dia-a-dia-de-la-salut-mental-i-fisica-a-la-butxaca/noticia/3434047/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -269,6 +339,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "La programació de l’In-Edit 2026",
+      "excerpt": "L’In-Edit és territori de descobertes, passions musicals, mites que es revisiten i pel·lícules que conviden tant a l’entusiasme com al debat. Amb el festival en plena ebullició, tornem a reunir el nostre particular consell de savis, format per Toni Castarnado, Richard Royuela i Bruno Sokolowicz, per prendre el pols a aquesta 24a edició, compartir impressions […]",
+      "url": "https://beteve.cat/tot-passa/programacio-in-edit-2026/",
+      "published": "2026-11-02T14:34:39+01:00",
+      "category": "cinema",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/totpassa_021126-2026-11-02.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "'Gerrymander'",
       "excerpt": "La paraula curiosa del títol és la denominació en anglès americà per referir-se al redisseny de mapes electorals amb l'objectiu d'afavorir els interessos d'un partit determinat. D'aquesta pràctica en diuen gerrymandering , que és just el que ha forçat Trump en un total de quinze districtes electorals, amb el propòsit que els resultats de les eleccions legislatives d'aquest dimarts li permetin mantenir la majoria de què ara disposa a la cambra baixa del Congrés. Dèiem que Trump ha forçat un gerrymandering perquè la redistribució territorial…",
@@ -276,6 +356,16 @@
       "published": "2026-11-02T14:28:09+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/5187a6e4-3207-4cab-a3ef-4d0b7f74444f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Ada Colau (Front Ampli) demana un pacte d’Estat per recuperar la confiança en el servei ferroviari",
+      "excerpt": "L’exalcaldessa de Barcelona i candidata de Front Ampli a els eleccions generals 2026, Ada Colau, s’ha reunit aquest dilluns amb representants dels sindicats majoritaris del sector ferroviari. Ho ha fet a l’Estació de França, el primer dia amb agenda pública després del dol oficial per l’accident mortal de tren a Urda (Toledo). A les portes […]",
+      "url": "https://beteve.cat/politica/ada-colau-front-ampli-demana-pacte-estat-recuperar-confianca-servei-ferroviari/",
+      "published": "2026-11-02T14:27:48+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/colau-tren-2026-11-02.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -316,6 +406,16 @@
       "published": "2026-11-02T14:09:23+01:00",
       "category": "cultura",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/11/entrades-rita-2026-11-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La masia de Ca n’Andalet es prepara per ser la Casa dels Oficis a partir del 2027",
+      "excerpt": "Després d’anys de treball, la Casa dels Oficis serà una realitat a partir del gener del 2027. Serà un punt de trobada dels sectors professionals i acollirà activitats, tallers i formacions per impulsar l’ocupació en els oficis. La seu s’ubicarà a Ca n’Andalet, a Horta-Guinardó, i estarà gestionada pel Consell de Gremis de Comerç, Serveis […]",
+      "url": "https://beteve.cat/economia/gremis-impulsen-casa-oficis-2027/",
+      "published": "2026-11-02T14:05:27+01:00",
+      "category": "comerç",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/casa-oficis-2026-11-02.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -396,6 +496,16 @@
       "published": "2026-11-02T13:44:03+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/98df247d-e0f5-4bd5-87c4-325fc1c4831d_source-aspect-ratio_default_0_x1822y74.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Eva Baltasar guanya el prestigiós premi Médicis Étranger",
+      "excerpt": "L’escriptora Eva Baltasar ha estat guardonada amb el premi Médicis Étranger, un dels guardons literaris més prestigiosos d’Europa, que distingeix la millor novel·la estrangera de l’any traduïda al francès. El jurat del Médicis ha reconegut l’edició francesa de la novel·la Ocàs i fascinació (2024, Club Editor), traduïda per Annie Bats a l’editorial Verdier. La novel·la […]",
+      "url": "https://beteve.cat/cultura/eva-baltasar-guanya-medicis-etranger/",
+      "published": "2026-11-02T13:41:25+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/09/mirador-eva-baltasar-basics.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -586,6 +696,16 @@
       "published": "2026-11-02T12:25:13+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/291e9cbf-0a06-409c-b404-0b565b123448_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Substitueixen els autobusos del Montseny després de l'accident i ja ningú podrà anar dret",
+      "excerpt": "Territori ha posat autobusos més petits, amb 47 seients i que no permeten als passatgers viatjar drets, com sí que va passar durant l'accident a Fogars de Montclús",
+      "url": "https://www.3cat.cat/3catinfo/substitueixen-els-autobusos-del-montseny-despres-de-laccident-i-ja-ningu-podra-anar-dret/noticia/3437277/",
+      "published": "2026-11-02T12:18:39+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/7/1793002742477.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
