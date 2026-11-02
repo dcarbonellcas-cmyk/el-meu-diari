@@ -49,7 +49,7 @@
     {
       "source": "3CatInfo",
       "title": "Sánchez anuncia un decret d'ajudes per a les víctimes de l'accident de Toledo que s'aprovarà demà",
-      "excerpt": "El PP es reuneix aquest dilluns per valorar la represa de la campanya electoral, mentre Pedro Sánchez tanca files amb Óscar Puente",
+      "excerpt": "El PP s'ha reunit aquest dilluns per valorar la represa de la campanya electoral, mentre Pedro Sánchez tanca files amb Óscar Puente",
       "url": "https://www.3cat.cat/3catinfo/els-partits-es-reajusten-despres-del-dol-per-laccident-de-toledo-amb-el-focus-sobre-oscar-puente/noticia/3437260/",
       "published": "2026-11-02T06:50:12+01:00",
       "category": "Actualitat",
@@ -62,9 +62,25 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: núvols baixos cap a l'est i baixada de la temperatura",
+      "excerpt": "Comença a dibuixar-se un inici del novembre mogut",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
+      "published": "2026-11-01T11:41:23+01:00",
+      "updated": "2026-11-02T12:35:07+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/9/1793607765697.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6433889/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
-      "title": "El rei belga intenta contenir la crisi política per la dimissió del govern",
-      "excerpt": "El govern belga ha presentat la dimissió incapaç d'aprovar un pressupost que contempla retallades d’uns 10.000 milions d’euros fins al 2029",
+      "title": "El rei belga prova de contenir la crisi política per la dimissió del govern",
+      "excerpt": "El govern belga ha presentat la dimissió, incapaç d'aprovar un pressupost que preveu retallades d’uns 10.000 milions d’euros fins al 2029",
       "url": "https://www.vilaweb.cat/noticies/rei-belga-contenir-crisi-dimissio-govern/",
       "published": "2026-11-02T12:02:09+01:00",
       "category": "Europa",
@@ -113,22 +129,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dilluns: núvols baixos cap a l'est i baixada de la temperatura",
-      "excerpt": "Comença a dibuixar-se un inici del novembre mogut",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/",
-      "published": "2026-11-01T11:41:23+01:00",
-      "updated": "2026-11-02T09:23:19+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/9/1793607765697.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6433889/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-nuvols-baixos-cap-a-lest-i-baixada-de-la-temperatura/noticia/3437131/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "3CatInfo",
       "title": "La candidata prorussa Iliana Iotova guanya les eleccions presidencials a Bulgària",
       "excerpt": "Iotova, partidària de restablir el diàleg amb Moscou i contrària a l'enviament de més ajuda militar a Ucraïna, ha guanyat la segona volta amb el 57,5% dels vots",
@@ -160,12 +160,112 @@
     },
     {
       "source": "betevé",
+      "title": "DAU Barcelona 2026, el festival del joc de taula: Programa, dates, horaris i novetats!",
+      "excerpt": "Arriba la 15a edició del festival dels jocs de taula, el DAU Barcelona 2026. Se celebrarà del 12 al 15 de novembre i es farà a la Fabra i Coats. S’han previst més de 60 activitats, 40 jocs i moltes novetats. A continuació et detallem tot el que has de saber del DAU Barcelona 2026. […]",
+      "url": "https://beteve.cat/agenda/festival-dau-barcelona-programa/",
+      "published": "2026-11-02T12:59:07+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/festival-dau-2026-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Joves migrants extutelats visiten instituts del Ripollès: \"La gent ha de saber qui som\"",
+      "excerpt": "Nois que van arribar a Catalunya sols quan eren menors, expliquen la seva història i les seves aspiracions en jornades organitzades als instituts pel Festival Transhumant",
+      "url": "https://www.3cat.cat/3catinfo/joves-migrants-extutelats-visiten-instituts-del-ripolles-la-gent-ha-de-saber-qui-som/noticia/3437301/",
+      "published": "2026-11-02T12:54:20+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/2/8/1793617303382.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Entren en servei a la Meridiana les parades definitives dels autobusos interurbans",
+      "excerpt": "Aquest dilluns, 2 de novembre, ha entrat en funcionament la configuració definitiva de les parades d’autobusos interurbans a la Meridiana, ara que les obres de reurbanització de l’avinguda entre Felip II i Fabra i Puig entren ja en la recta final. La reorganització de parades té com a objectiu millorar els intercanvis entre mitjans de […]",
+      "url": "https://beteve.cat/mobilitat/servei-parades-definitives-busos-meridiana/",
+      "published": "2026-11-02T12:49:17+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/autobus-interurba-2-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
       "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
       "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-11-02T12:01:49+01:00",
+      "published": "2026-11-02T12:47:35+01:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "EN DIRECTE | Roda de premsa de Flick i Gordon, prèvia al Barça-Aston Villa",
+      "excerpt": "Segueix la compareixença dels blaugranes abans del duel de Champions al Camp Nou, en directe a Esport3",
+      "url": "https://www.3cat.cat/3catinfo/en-directe-roda-de-premsa-de-flick-i-gordon-previa-al-barca-aston-villa/noticia/3437324/",
+      "published": "2026-11-02T12:46:20+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/2/1792445385529.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Exposicions a Barcelona: la teva agenda de museus",
+      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
+      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
+      "published": "2026-11-02T12:38:24+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "30 anys perseguint el galió San José per acabar esborrat de la foto oficial",
+      "excerpt": "Hi ha històries que romanen sepultades a les profunditats de la mar, no només sota tones d'aigua, sinó també d’una espessa capa de secrets i litigis. El galió San José va sortir de Cartagena d'Índies (Colòmbia) el 29 de maig del 1708 amb tones d'or, plata i pedres precioses que els espanyols havien arrencat d’Amèrica. El destí era Cadis, i els Borbons esperaven amb ànsia la seva arribada perquè les arques estaven força buides per culpa de la Guerra de Successió. El vaixell, amb 600…",
+      "url": "https://www.ara.cat/cultura/historia/30-anys-perseguint-galio-san-jose-acabar-esborrat-foto-oficial_1_5886059.html",
+      "published": "2026-11-02T12:35:11+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/20a61656-409d-4d95-b338-919b9928c1b6_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Junts denuncia Renfe i Adif per homicidi imprudent per l'accident de Gelida",
+      "excerpt": "Denúncia penal de Junts contra Renfe, Adif i la direcció general espanyola de Carreteres pel caos mortal ferroviari. L'escrit jurídic de Junts fa referència a l'accident de Gelida del passat 20 de gener, en què va haver-hi un mort, però es va presentar el 20 d'octubre després que l'equip liderat per l'advocat Gonzalo Boye estudiés el cas, un cop el 18 de juny va haver vençut el termini de quatre mesos per complir el mandat parlamentari per part del Govern –després que el Parlament aprovés…",
+      "url": "https://www.ara.cat/politica/junts-denuncia-penalment-renfe-adif-homicidi-imprudent_1_5897529.html",
+      "published": "2026-11-02T12:34:38+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1788e598-2ccb-464a-a83b-5507ac7ce4a1_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Serielizados bat rècord de públic amb més de 18.000 assistents",
+      "excerpt": "La 13a edició de Serielizados ha estat la més participativa de la seva història, amb més de 18.000 assistents, un 12 % més que l’any passat. El públic del festival de sèries de Barcelona s’ha concentrat sobretot en activitats com el Serielizados Presenta amb Ferran Adrià i les xerrades i classes magistrals de Steven Moffat, […]",
+      "url": "https://beteve.cat/cultura/record-public-serielizados-2026/",
+      "published": "2026-11-02T12:26:13+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/serielizados-public-2026-11-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "‘GTA VI’, el ‘remake’ del millor ‘Zelda’ i sis jocs més que marcaran el mes de novembre",
+      "excerpt": "La nova entrega de la saga Grand theft auto es va mostrar per primera vegada el desembre del 2023 en un tràiler que acumula gairebé 300 milions de visualitzacions, i això si tenim en compte només les del compte oficial. Des d’aleshores ha monopolitzat gran part de la conversa del sector, fins al punt d’alterar el calendari de llançaments quan se'n va fixar la data de publicació definitiva. No es pot negar la seva influència, perquè l’entrega anterior, el GTA V (2013), va assolir xifres…",
+      "url": "https://www.ara.cat/media/videojocs/gta-vi-remake-millor-zelda-sis-jocs-mes-marcaran-mes-novembre_1_5890268.html",
+      "published": "2026-11-02T12:25:13+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/291e9cbf-0a06-409c-b404-0b565b123448_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El preu del lloguer a Barcelona baixa d’un 4,4% després del topall",
+      "excerpt": "Ha crescut el preu mitjà per metre quadrat perquè els pisos que hi ha en oferta per a llogar són més petits",
+      "url": "https://www.vilaweb.cat/noticies/preu-lloguer-barcelona-baixa-topall/",
+      "published": "2026-11-02T12:15:13+01:00",
+      "category": "Societat",
+      "image": null,
       "priority": "3 · Altres notícies"
     },
     {
@@ -181,7 +281,7 @@
     {
       "source": "ARA",
       "title": "Un ciberatac fa malbé el menjar de desenes de supermercats a Bèlgica i Suècia",
-      "excerpt": "Desenes de supermercats de Bèlgica i de Suècia han estat el blanc d'un ciberatac a gran escala aquesta nit. Segons informen els mitjans belgues, els congeladors s'han escalfat de sobte —alguns han assolit temperatures de 70 graus— i han fet malbé tot el menjar que hi havia. Les pèrdues, asseguren, poden arribar als 100.000 milions d'euros.",
+      "excerpt": "Desenes de supermercats de Bèlgica i de Suècia han estat el blanc d'un ciberatac a gran escala aquesta nit. Segons informen els mitjans belgues, els congeladors s'han escalfat de sobte –alguns han assolit temperatures de 55 graus– i tot el menjar que contenien s'ha fet malbé. Les pèrdues, asseguren, poden arribar als 100.000 euros.",
       "url": "https://www.ara.cat/internacional/europa/ciberatac-malbe-menjar-desenes-supermercats-belgica-suecia_1_5897486.html",
       "published": "2026-11-02T11:56:15+01:00",
       "category": "Actualitat",
@@ -201,7 +301,7 @@
     {
       "source": "3CatInfo",
       "title": "Una apagada general deixa sense llum durant hores tota l'illa de La Palma",
-      "excerpt": "Red Eléctrica ja ha restablert el subministrament elèctric a la zona, amb 50.500 abonats",
+      "excerpt": "Red Eléctrica ja ha restablert el subministrament elèctric a la zona, amb més de 50.500 abonats",
       "url": "https://www.3cat.cat/3catinfo/una-apagada-general-deixa-sense-llum-durant-hores-tota-lilla-de-la-palma/noticia/3437300/",
       "published": "2026-11-02T11:46:07+01:00",
       "category": "Actualitat",
@@ -260,16 +360,6 @@
     },
     {
       "source": "betevé",
-      "title": "Exposicions a Barcelona: la teva agenda de museus",
-      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
-      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
-      "published": "2026-11-02T10:57:00+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
       "title": "OFICIAL | L’Europa – Sant Andreu es disputarà al camp de l’Espanyol. Tota la informació",
       "excerpt": "Després de setmanes de rumors, ja és oficial: el derbi de Primera RFEF que enfrontarà l’Europa i el Sant Andreu el proper 14 de novembre es disputarà a l’RCDE Stadium, l’estadi de l’Espanyol, a les 18.30 h. El club escapulat ho ha fet oficial amb un comunicat. L’RFEF dona el vistiplau per jugar el derbi […]",
       "url": "https://beteve.cat/esports/oficial-derbi-europa-sant-andreu-primera-rfef-camp-espanyol/",
@@ -315,7 +405,7 @@
       "url": "https://www.ara.cat/gent/heidi-klum-disfressa-d-impactant-ma-amputada_1_5897346.html",
       "published": "2026-11-02T10:20:53+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/7ccc0d45-7272-443e-a226-c4de419a4f3a_16-9-aspect-ratio_default_0_x1910y709.jpg",
+      "image": "https://static1.ara.cat/clip/ac15cb63-5889-4bec-9891-cccd0461e7ee_16-9-aspect-ratio_default_0_x1396y402.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -331,7 +421,7 @@
     {
       "source": "ARA",
       "title": "La Palma recupera el subministrament elèctric després de l'apagada general",
-      "excerpt": "La Palma ha patit una apagada general aquest dilluns al matí que ha deixat tota l'illa sense llum. Quatre hores després del zero energètic, el subministrament elèctric ha quedat completament restablert. La Direcció General d'Emergències del govern de les Canàries ha declarat la situació d'alerta a l'illa de La Palma després de registrar, a les 6.38 h d'aquest dilluns, un error general del sistema elèctric que ha deixat tota l'illa sense llum i ha afectat més de 50.500 habitants. L'error general del sistema elèctric ha…",
+      "excerpt": "La Palma ha recuperat completament el subministrament elèctric després de l'apagada general que ha deixat tota l'illa sense llum durant gairebé quatre hores aquest dilluns al matí. Després de les tasques de reparació de Red Eléctrica (REE), la companyia ha tornat a posar en servei la línia d'alta tensió Los Guinchos, la qual estava inoperativa des de la matinada. L'error general del sistema elèctric ha provocat un zero energètic i la pèrdua total del subministrament elèctric en el territori insular fins a les 10.26 hores.…",
       "url": "https://www.ara.cat/societat/palma-pateix-apagada-general-deixa-l-illa-subministrament-electric_1_5897402.html",
       "published": "2026-11-02T09:59:50+01:00",
       "category": "Actualitat",
@@ -371,7 +461,7 @@
     {
       "source": "ARA",
       "title": "Illa s'oposa a tancar la línia d'AVE Barcelona-Madrid durant les obres de renovació",
-      "excerpt": "El president Salvador Illa aposta per mantenir la circulació a la línia d'AVE Madrid-Barcelona durant les obres de renovació. Després que el ministre Óscar Puente hagi obert la porta a tancar la línia durant les obres , arran del tràgic accident de l'alta velocitat a Urda, el cap del Govern ha dit en una entrevista a la Cadena SER que ell és \"partidari\" de mantenir el servei.",
+      "excerpt": "Salvador Illa i Pedro Sánchez surten en defensa de l'AVE. El president de la Generalitat s'ha declarat \"partidari\" de mantenir el servei en funcionament de la línia d'alta velocitat entre Barcelona i Madrid, la que ha qualificat de \"segura\", i el president del govern espanyol s'ha marcat com a prioritat pel seu executiu que els ciutadans \"recuperin la confiança trencada en l'AVE al més aviat possible i costi el que costi\".",
       "url": "https://www.ara.cat/politica/illa-s-oposa-tancar-linia-d-ave-madrid-barcelona-durant-obres-renovacio_1_5897351.html",
       "published": "2026-11-02T09:01:21+01:00",
       "category": "Actualitat",
