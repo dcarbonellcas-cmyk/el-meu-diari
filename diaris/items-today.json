@@ -3,8 +3,18 @@
   "items": [
     {
       "source": "ARA",
+      "title": "Baixen a 26 les víctimes ingressades en hospitals per l'accident ferroviari de Toledo",
+      "excerpt": "Un total de 26 ferits en l’accident ferroviari d'Urda, a Toledo, continuen ingressats en hospitals de Castella-la Manxa, cinc menys que diumenge passat. L’accident va deixar inicialment 110 hospitalitzats en sis centres, dels quals 84 ja han rebut l’alta.",
+      "url": "https://www.ara.cat/societat/baixen-26-victimes-ingressades-hospitals-l-accident-ferroviari-toledo_1_5898396.html",
+      "published": "2026-11-03T11:08:35+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9400624b-56b9-4a71-ad05-42365a2acaeb_16-9-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
       "title": "Feijóo demana als sindicats que desconvoquin la vaga general: \"69 morts després és un greu error\"",
-      "excerpt": "A una setmana de la vaga general, Alberto Núñez Feijóo ha llançat una advertència als seus convocants. \"Abans era incomprensible, 69 morts després és un greu error\", ha afirmat el líder del PP aquest dimarts en un esmorzar informatiu organitzat per Europa Press. Feijóo ha demanat directament als sindicats que desconvoquin la protesta de l'11 de novembre i, els ha avisat que, si la mantenen, \"lligaran la seva imatge a Pedro Sánchez\". El president popular ha argumentat que, després de l'accident ferroviari de Toledo, la…",
+      "excerpt": "A una setmana de la vaga general, Alberto Núñez Feijóo ha llançat una advertència als seus convocants. \"Abans era incomprensible, 69 morts després és un greu error\", ha afirmat el líder del PP aquest dimarts en un esmorzar informatiu organitzat per Europa Press. Feijóo ha demanat directament als sindicats que desconvoquin la protesta de l'11 de novembre i, els ha avisat que, si la mantenen, \"lligaran la seva imatge a Pedro Sánchez\". CCOO i UGT han fet cas omís de la crida i mantindran la…",
       "url": "https://www.ara.cat/politica/feijoo-demana-als-sindicats-desconvoquin-vaga-general-69-morts-despres-greu-error_1_5898412.html",
       "published": "2026-11-03T09:41:57+01:00",
       "category": "Actualitat",
@@ -22,8 +32,28 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "L’ANC dóna suport a la vaga de l’11-N, però alerta que els partits espanyols se’n poden apropiar",
+      "excerpt": "L’entitat demana de secundar la mobilització de l’11 de novembre des d’espais independentistes i fa una crida a penjar senyeres i estelades als balcons",
+      "url": "https://www.vilaweb.cat/noticies/lanc-dona-suport-a-la-vaga-de-l11-n-pero-alerta-que-els-partits-espanyols-sen-poden-apropiar/",
+      "published": "2026-11-03T11:53:30+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Prop de 400 AFA exigeixen a Educació una solució per garantir les sortides i colònies escolars",
+      "excerpt": "(ACN) Un total de 391 associacions de famílies d’alumnes (AFA) han subscrit la petició que les Associacions Federades de Famílies d’Alumnes de Catalunya (aFFaC) ha registrat al Departament d’Educació per reclamar una solució que permeti mantenir o recuperar les sortides i colònies als centres públics. La iniciativa respon a la “preocupació” de les famílies davant […]",
+      "url": "https://beteve.cat/societat/prop-de-400-afa-exigeixen-a-educacio-garantir-sortides-i-colonies/",
+      "published": "2026-11-03T11:41:33+01:00",
+      "category": "educació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/04/PROBLEMA-COLONIES-ESCOLARS.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
-      "title": "Tot a punt per les eleccions de mig mandat als Estats Units",
+      "title": "Tot a punt per a les eleccions de mig mandat als Estats Units",
       "excerpt": "",
       "url": "https://www.ara.cat/internacional/estats-units/punt-eleccions-mig-mandat-als-estats-units_6_5898426.html",
       "published": "2026-11-03T10:34:42+01:00",
@@ -79,8 +109,8 @@
     },
     {
       "source": "ARA",
-      "title": "Guia de les 'midterms': 10 coses que has de saber d'aquestes eleccions crucials",
-      "excerpt": "Les midterms se celebren cada quatre anys, coincidint amb l’equador dels mandats presidencials, i acostumen a perjudicar el partit que hi ha a la Casa Blanca. Més enllà del plebiscit a Trump, els comicis d'aquest any representen una oportunitat per intentar recuperar part dels guarda-raïls al poder executiu que el republicà ha erosionat durant els quasi dos cursos de mandat. Amb una majoria conservadora instal·lada al Tribunal Suprem, si els demòcrates aconsegueixen recuperar el control de les dues cambres tindran una mica de marge per…",
+      "title": "Guia de les 'midterm': 10 coses que has de saber d'aquestes eleccions crucials",
+      "excerpt": "Les midterm se celebren cada quatre anys, coincidint amb l’equador dels mandats presidencials, i acostumen a perjudicar el partit que hi ha a la Casa Blanca. Més enllà del plebiscit a Trump, els comicis d'aquest any representen una oportunitat per intentar recuperar part dels guarda-raïls al poder executiu que el republicà ha erosionat durant els quasi dos cursos de mandat. Amb una majoria conservadora instal·lada al Tribunal Suprem, si els demòcrates aconsegueixen recuperar el control de les dues cambres tindran una mica de marge per…",
       "url": "https://www.ara.cat/internacional/estats-units/guia-midterms-10-coses-has-d-aquestes-eleccions-crucials_1_5894039.html",
       "published": "2026-11-03T07:00:49+01:00",
       "category": "Actualitat",
@@ -100,12 +130,72 @@
     {
       "source": "3CatInfo",
       "title": "Eleccions de mig mandat als Estats Units: un referèndum sobre Trump que els demòcrates esperen guanyar",
-      "excerpt": "Els analistes ja especulen sobre com reaccionarà Trump si perd el control de les cambres, i què faran els demòcrates si els candidats més radicals fracassen",
+      "excerpt": "Els analistes ja especulen sobre com reaccionarà Trump si els republicans perden el control de les cambres, i què faran els demòcrates si els seus candidats més radicals fracassen",
       "url": "https://www.3cat.cat/3catinfo/eleccions-de-mig-mandat-als-estats-units-un-referendum-sobre-trump-que-els-democrates-esperen-guanyar/noticia/3436227/",
       "published": "2026-11-03T06:49:17+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/5/1793652100357.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "“Amb el cor trencat i devastats”: commoció a Andorra per la mort de Jesús de Miguel",
+      "excerpt": "Clubs de tots els Països Catalans han expressat el condol per la mort del futbolista",
+      "url": "https://www.vilaweb.cat/noticies/amb-el-cor-trencat-i-devastats-commocio-a-andorra-per-la-mort-de-jesus-de-miguel/",
+      "published": "2026-11-03T11:47:00+01:00",
+      "category": "Esports",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "LOOP 2026: el festival de videoart de Barcelona",
+      "excerpt": "Arriba una nova edició del LOOP, el festival de videoart de Barcelona, una plataforma dedicada a l’estudi i la promoció de la imatge en moviment. L’esdeveniment es farà del 10 al 21 de novembre de 2026. Loop proposa exposicions, projeccions, performances i converses, consolidant-se com un punt de trobada privilegiat per a artistes, galeristes, comissaris, […]",
+      "url": "https://beteve.cat/agenda/programa-loop-barcelona/",
+      "published": "2026-11-03T11:42:17+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/loop-festival-cartell-2026-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Festival de la Infància 2026: Dates i totes les novetats",
+      "excerpt": "El Festival de la Infància torna aquestes festes de Nadal a Barcelona. És un dels esdeveniments nadalencs més emblemàtics de la ciutat i una tradició per a moltes famílies. Es fa del 27 al 31 de desembre al recinte firal de Montjuïc amb més de 60 activitats en 20.000 metres quadrats dirigides a infants fins […]",
+      "url": "https://beteve.cat/agenda/festival-infancia-nadal-barcelona-programa/",
+      "published": "2026-11-03T11:41:55+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/12/festi-infancia-2025.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona aspira a fer créixer la Smart City Expo fins a atrapar el Mobile: “Hi ha marge i ganes”",
+      "excerpt": "Quan tot just obrien les portes de la Smart City Expo 2026, la tinenta d’alcaldia de Promoció Econòmica de Barcelona, Raquel Gil, no ha dubtat a picar ben alt en la projecció d’aquest saló: “Ens agrada pensar que d’aquí a cinc anys la Smart City Expo serà, a escala mundial, com és el Mobile World […]",
+      "url": "https://beteve.cat/economia/barcelona-aspira-fer-creixer-smart-city-expo-fins-atrapar-mobile/",
+      "published": "2026-11-03T11:32:49+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/IMG_5357-2026-11-03.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Meu Primer Festival 2026: cinema infantil de qualitat",
+      "excerpt": "Torna El Meu Primer Festival de Cinema, el certamen internacional de cinema per a nens i nenes que aquest any torna amb força en la 19a edició. Se celebrarà del 7 al 22 de novembre del 2026. Hi haurà diverses sessions repartides per diferents escenaris de la ciutat. L’objectiu del festival és que els més […]",
+      "url": "https://beteve.cat/agenda/programa-el-meu-primer-festival-de-cine-barcelona/",
+      "published": "2026-11-03T11:17:44+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/10/meu-primer-festival-2026-2026-10-13.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Sónar 2027: Bonobo, Tokischa o Yung Lean, els primers noms de cartell",
+      "excerpt": "La 34a edició del festival, que se celebrarà els dies 17, 18 i 19 de juny a Barcelona, també recuperarà el Sónar de Dia",
+      "url": "https://www.3cat.cat/3catinfo/sonar-2027-bonobo-tokischa-o-yung-lean-els-primers-noms-de-cartell/noticia/3437462/",
+      "published": "2026-11-03T11:13:35+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/6/1781724324665.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -129,12 +219,32 @@
     },
     {
       "source": "betevé",
+      "title": "Alguns indrets de Catalunya han quintuplicat aquest octubre la pluja habitual",
+      "excerpt": "L’octubre ha estat excepcionalment plujós en algunes zones. El Servei Meteorològic de Catalunya ha emès el seu butlletí mensual, en què es constata un octubre càlid i, en conjunt, molt plujós, tot i que fins i tot en la pluja hi ha excepcions. Molt plujós a la costa i el prelitoral El més destacat del […]",
+      "url": "https://beteve.cat/medi-ambient/balanc-pluja-temperatura-barcelona-catalunya-octubre-2026/",
+      "published": "2026-11-03T10:49:47+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/balanc-octubre-meteocat_2026picto-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "Sónar 2027: torna dia i nit i els primers noms del festival",
       "excerpt": "El Sónar 2027, el festival de música, innovació i creativitat de Barcelona, se celebrarà a Barcelona els dies 17, 18 i 19 de juny del 2027 i ho farà recuperant la divisió d’espais entre el Sónar de Dia i el Sónar de Nit, que l’any passat, amb el canvi de mans dels festival, va desaparèixer. Què […]",
       "url": "https://beteve.cat/agenda/sonar-festival-barcelona/",
       "published": "2026-11-03T10:36:01+01:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/06/Tokischa-sonar-2027-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Rècord històric del cinema en català als Premis Gaudí: 21 pel·lícules candidates",
+      "excerpt": "Per primer cop, als Gaudí 2027 opten a premi més llargmetratges en català que en altres llengües",
+      "url": "https://www.3cat.cat/3catinfo/record-historic-del-cinema-en-catala-als-premis-gaudi-21-pellicules-candidates/noticia/3437469/",
+      "published": "2026-11-03T10:23:29+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/8/1771260929883.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -148,6 +258,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "Piqué i l'Andorra reaccionen a la mort de Jesús de Miguel: \"Ho sento amb tota l'ànima\"",
+      "excerpt": "L'exfutbolista del Barça i president de l'Andorra ha publicat un emotiu missatge a les xarxes socials",
+      "url": "https://www.3cat.cat/3catinfo/primeres-reaccions-a-la-mort-de-jesus-de-miguel/noticia/3437477/",
+      "published": "2026-11-03T10:18:39+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/9/1793697440094.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Un èxit de la llengua catalana en temps foscos",
       "excerpt": "Fent una mirada a la realitat, crec que avui s’imposa una reflexió sobre el malestar que ens causa el món en què vivim. Cada dia ens dona un motiu diferent. Per exemple, trobo d’una maldat especialment refinada això del ciberatac que ha afectat desenes de supermercats d’Europa . A la nit, algú va ordenar a les màquines que passessin de temperatures sota zero als 50 graus. El resultat és que tones i tones de menjar s’han fet malbé. Dic que ho trobo d’una maldat especialment…",
@@ -158,8 +278,18 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "Els 100 espanyols més rics, liderats per Amancio Ortega, doblen la fortuna en 4 anys, segons Forbes",
+      "excerpt": "Sol Daurella (Coca-Cola) és la catalana que acumula més fortuna, amb 3.500 milions d'euros, i escala a l'onzè lloc del rànquing de la Llista Forbes",
+      "url": "https://www.3cat.cat/3catinfo/els-100-espanyols-mes-rics-liderats-per-amancio-ortega-doblen-la-seva-fortuna-en-quatre-anys/noticia/3437475/",
+      "published": "2026-11-03T10:18:20+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/8/1793700859885.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
-      "title": "Un mort en el xoc de dos helicòpters a l’Everest",
+      "title": "Un mort en el xoc de dos helicòpters a prop de l’Everest",
       "excerpt": "La víctima mortal és un ciutadà indi de 47 anys",
       "url": "https://www.vilaweb.cat/noticies/un-mort-en-el-xoc-de-dos-helicopters-a-leverest/",
       "published": "2026-11-03T10:15:51+01:00",
@@ -264,7 +394,7 @@
       "url": "https://www.ara.cat/esports/futbol/mor-jugador-tenerife-jesus-miguel_1_5898423.html",
       "published": "2026-11-03T09:45:08+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/6366eb9f-ffba-4fee-b87a-6301ce24ad28_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/6366eb9f-ffba-4fee-b87a-6301ce24ad28_4-3-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -460,7 +590,7 @@
     {
       "source": "ARA",
       "title": "Els EUA bombardegen una illa d'Ormuz mentre continuen negociant amb l'Iran",
-      "excerpt": "Els Estats Units han llançat \"atacs defensius\" contra posicions iranianes a l'estret d'Ormuz aquesta matinada de dimarts. L'episodi té lloc just el vespre abans de les eleccions de mig mandat, en què s'espera que Donald Trump perdi el control del Congrés, després de setmanes de filtracions sobre la possibilitat que Washington reprengués l'ofensiva a l'Orient Mitjà. Malgrat l'escalada, el vicepresident dels EUA, J.D. Vance, diu que les negociacions indirectes amb Teheran \"progressen\", mentre que el règim insta els Estats Units a aixecar el bloqueig naval…",
+      "excerpt": "Els Estats Units han llançat \"atacs defensius\" contra posicions iranianes a l'estret d'Ormuz aquest dimarts a la matinada. L'episodi té lloc just el vespre abans de les eleccions de mig mandat, en què s'espera que Donald Trump perdi el control del Congrés, després de setmanes de filtracions sobre la possibilitat que Washington reprengués l'ofensiva a l'Orient Mitjà. Malgrat l'escalada, el vicepresident dels EUA, J.D. Vance, diu que les negociacions indirectes amb Teheran \"progressen\", mentre que el règim insta els Estats Units a aixecar el bloqueig…",
       "url": "https://www.ara.cat/internacional/estats-units/eua-bombardegen-objectius-l-estret-d-ormuz-eleccions-mig-mandat_1_5898223.html",
       "published": "2026-11-03T07:16:38+01:00",
       "category": "Actualitat",
@@ -564,7 +694,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "La policia desallotja l'acampada de la Puerta de Sol, on quedaven unes 300 persones",
+      "title": "La policia desallotja l'acampada de la Puerta del Sol, on quedaven unes 300 persones",
       "excerpt": "Els membres de l'Acampada 26S denuncien una intervenció violenta dels antiavalots que hauria deixat ferits pels cops i gas pebre",
       "url": "https://www.3cat.cat/3catinfo/la-policia-desallotja-lacampada-de-la-puerta-de-sol-on-quedaven-unes-300-persones/noticia/3437456/",
       "published": "2026-11-03T06:48:00+01:00",
