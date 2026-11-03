@@ -2,6 +2,16 @@
   "date": "2026-11-03",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Puente plega sol i acorralat per 116 morts en menys d’un any",
+      "excerpt": "El ministre de Transports espanyol ha anunciat de sorpresa la dimissió després d'haver defensat la seva gestió de les infrastructures ferroviàries",
+      "url": "https://www.vilaweb.cat/noticies/puente-plega-sol-i-acorralat-per-116-morts-en-menys-dun-any/",
+      "published": "2026-11-03T22:55:46+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "betevé",
       "title": "Puente dimiteix: “És una qüestió de dignitat política, coherència i empatia amb les víctimes”",
       "excerpt": "(ACN) El ministre de Transports, Óscar Puente, ha anunciat la seva dimissió “per dignitat política” arran de l’accident d’Urda. “Un ministre de Transports no pot continuar en el càrrec amb dos accidents d’aquesta gravetat en menys d’un any, per molt diferents que siguin i tingui o no responsabilitat directa en aquests accidents: és una qüestió […]",
@@ -47,6 +57,22 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimecres: el sol torna amb allunyament de la pertorbació",
+      "excerpt": "Matí fred amb boires a l'interior i dia assolellat amb bo a migdia",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-el-sol-torna-amb-allunyament-de-la-pertorbacio/noticia/3437465/",
+      "published": "2026-11-03T18:55:20+01:00",
+      "updated": "2026-11-03T22:22:56+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/6/1793740949560.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434307/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-el-sol-torna-amb-allunyament-de-la-pertorbacio/noticia/3437465/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "Crisi al govern espanyol en plena campanya: Óscar Puente dimiteix",
       "excerpt": "El ministre de Transports espanyol ha anunciat la dimissió durant la compareixença al congrés espanyol · També renuncia a presentar-se a les eleccions espanyoles",
@@ -74,17 +100,6 @@
       "published": "2026-11-03T20:03:32+01:00",
       "category": "societat",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/11/protesta-acampada-madrid-barcelona-2026-11-03.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dimecres: el sol torna amb allunyament de la pertorbació",
-      "excerpt": "Matí fred amb boires a l'interior i dia assolellat amb bo a migdia",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-el-sol-torna-amb-allunyament-de-la-pertorbacio/noticia/3437465/",
-      "published": "2026-11-03T18:55:20+01:00",
-      "updated": "2026-11-03T19:13:44+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/9/9/1793729601299.jpg",
       "priority": "2 · Important"
     },
     {
@@ -401,7 +416,12 @@
       "published": "2026-11-03T06:51:55+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/2/1793725132126.jpg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434312/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/puente-compareix-al-congres-amb-tota-loposicio-demanant-li-la-dimissio-per-laccident-de-toledo/noticia/3437431/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -417,6 +437,71 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/eleccions-de-mig-mandat-als-estats-units-un-referendum-sobre-trump-que-els-democrates-esperen-guanyar/noticia/3436227/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Posa-hi seny, Raphinha, sisplau: els apunts en calent del Barça-Aston Villa",
+      "excerpt": "El Barça es va sobreposar a les baixes en defensa i va superar l'Aston Villa en un partit molt seriós a la Lliga de Campions.",
+      "url": "https://www.ara.cat/esports/barca/posa-hi-seny-raphinha-sisplau-apunts-calent-barca-aston-villa_1_5899230.html",
+      "published": "2026-11-03T22:54:19+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/aec94c4f-286a-4a2b-9902-503eac5e29b2_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El presumpte líder de Blocus va viatjar a París abans d'impulsar els aldarulls a Barcelona",
+      "excerpt": "El jove, detingut a Picanya, l'acusen de dirigir una estructura criminal per saquejar comerços",
+      "url": "https://www.3cat.cat/3catinfo/el-presumpte-lider-de-blocus-va-viatjar-a-paris-abans-dimpulsar-els-aldarulls-a-barcelona/noticia/3437693/",
+      "published": "2026-11-03T22:45:53+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/8/1793368126281.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434292/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-presumpte-lider-de-blocus-va-viatjar-a-paris-abans-dimpulsar-els-aldarulls-a-barcelona/noticia/3437693/"
+      }
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Óscar Puente: “La Madrid-Barcelona no s’ha de reparar, s’ha de renovar sencera, això ho vull deixar clar”",
+      "excerpt": "El ministre va dir divendres que el govern espanyol estudiava d'aturar el servei de la línia durant vint-i-quatre mesos",
+      "url": "https://www.vilaweb.cat/noticies/oscar-puente-madrid-barcelona-renovar-sencera/",
+      "published": "2026-11-03T22:17:37+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "bàsics",
+      "excerpt": "El programa d’anàlisi de l’actualitat de Barcelona amb els principals titulars del dia i l’anàlisi corresponent. Perquè això és el ‘bàsics’: fer un pas més i buscar més veus implicades en els temes tractats, per donar les claus del debat a partir d’entrevistes, reportatges, taules i anàlisi. Presentat per Sandra Mestres.",
+      "url": "https://beteve.cat/basics/basics-1416/",
+      "published": "2026-11-03T22:13:10+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Detenen una parella per estafar més de 10.000 euros amb falsos anuncis de lloguer",
+      "excerpt": "Els investigadors també els atribueixen sis furts en apartaments turístics per valor de més de 4.500 euros",
+      "url": "https://www.3cat.cat/3catinfo/detenen-una-parella-per-estafar-mes-de-10000-euros-amb-falsos-anuncis-de-lloguer/noticia/3437647/",
+      "published": "2026-11-03T22:09:37+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/3/1792315203333.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La Plataforma per la Llengua exigeix a França mesures urgents per a evitar la desaparició del català a Catalunya Nord",
+      "excerpt": "La nova enquesta d’usos lingüístics revela que solament el 8% dels joves saben parlar català, malgrat que el 79% de la població és favorable a l’ensenyament bilingüe",
+      "url": "https://www.vilaweb.cat/noticies/plataforma-llengua-franca-mesures-urgents-catala-catalunya-nord/",
+      "published": "2026-11-03T22:03:19+01:00",
+      "category": "Llengua",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -441,7 +526,7 @@
     {
       "source": "ARA",
       "title": "El dòberman de Sánchez més odiat per la dreta a qui han doblegat les tragèdies ferroviàries",
-      "excerpt": "Fins al 26 de setembre de 2023, dia del debat de la investidura fallida d'Alberto Núñez Feijóo al Congrés, Óscar Puente (Valladolid, 1968) era pràcticament un desconegut pel gran públic. L'encàrrec de Pedro Sánchez a aquest diputat ras del PSOE, exalcalde de Valladolid, de donar la rèplica al líder del PP el va catapultar mediàticament. Sobretot pel seu to provocador i el contingut punyent del seu discurs. Aquell dia van proliferar els articles explicant qui era Puente, la sorpresa de la jornada, que aviat es…",
+      "excerpt": "Fins al 26 de setembre del 2023, dia del debat de la investidura fallida d'Alberto Núñez Feijóo al Congrés, Óscar Puente (Valladolid, 1968) era pràcticament un desconegut per al gran públic. L'encàrrec de Pedro Sánchez a aquest diputat ras del PSOE, exalcalde de Valladolid, de donar la rèplica al líder del PP el va catapultar mediàticament. Sobretot pel seu to provocador i el contingut punyent del seu discurs. Aquell dia van proliferar els articles en què s'explicava qui era Puente, la sorpresa de la jornada,…",
       "url": "https://www.ara.cat/politica/doberman-sanchez-mes-odiat-dreta-han-doblegat-tragedies-ferroviaries_1_5893998.html",
       "published": "2026-11-03T21:43:27+01:00",
       "category": "Actualitat",
@@ -463,7 +548,7 @@
       "title": "Missatges de mòbil implicarien l'excap de gabinet d'Illa en un cas de presumpta corrupció a Esparreguera",
       "excerpt": "La defensa de Rivas indica que els missatges que l'incriminen estarien \"fora de context\" i que la investigació \"no li atribueix l'apropiació de diners públics\"",
       "url": "https://www.3cat.cat/3catinfo/missatges-de-mobil-implicarien-lexcap-de-gabinet-dilla-en-un-cas-de-presumpta-corrupcio-a-esparreguera/noticia/3437661/",
-      "published": "2026-11-03T21:42:19+01:00",
+      "published": "2026-11-03T21:42:13+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/2/1793731590027.jpg",
       "priority": "3 · Altres notícies"
@@ -476,6 +561,16 @@
       "published": "2026-11-03T21:40:15+01:00",
       "category": "societat",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/11/xoc-vagons-locomotora-martorell-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Les neveres de grans supermercats, presents a Barcelona, vulnerables a un ciberatac",
+      "excerpt": "Els repetits ciberatacs contra els sistemes de refrigeració de diversos supermercats a Europa genera preocupació. El darrer atac ha estat el matí d’aquest dilluns a Portugal, però establiments de França, Bèlgica, Finlàndia o Irlanda, entre d’altres, també n’han estat víctimes. Es tracta d’un ciberatac que dispara la temperatura de les neveres i els congeladors dels […]",
+      "url": "https://beteve.cat/societat/neveres-grans-supermercats-barcelona-vulnerables-ciberatac/",
+      "published": "2026-11-03T21:29:24+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/nevera-supermercats-ciberatac-2026-11-03.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -586,7 +681,12 @@
       "published": "2026-11-03T19:34:49+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/5/1793731310751.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434303/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/premi-cervantes-2026-a-la-catalana-cristina-fernandez-cubas-mestra-del-conte-i-el-relat-breu/noticia/3437690/"
+      }
     },
     {
       "source": "ARA",
@@ -1975,8 +2075,8 @@
     },
     {
       "source": "ARA",
-      "title": "Óscar Puente dimiteix com a ministre de Transports per l'accident de trens",
-      "excerpt": "Després de donar explicacions al Congrés durant tota la tarda, el ministre de Transports, Óscar Puente, ha anunciat en directe que dimiteix com a ministre de Transports després de l'accident de Trens. Per \"dignitat\", ha dit Puente.",
+      "title": "Óscar Puente dimiteix com a ministre de Transports: \"Per dignitat política\"",
+      "excerpt": "Sorpresa majúscula al Congrés. El ministre de Transports, Óscar Puente, ha anunciat en directe la seva dimissió, tot i que no es farà efectiva fins que es publiqui el seu cessament definitiu. També ha anunciat que no formarà part de les llistes electorals del PSOE pel pròxim 29-N. \"Per dignitat política, coherència i empatia amb les víctimes [de l'accident de trens]\", ha dit Puente, visiblement emocionat. El responsable de Transports ho ha fet després de comparèixer a petició pròpia per retre comptes, precisament, sobre el…",
       "url": "https://www.ara.cat/politica/congres-avalua-solitud-d-oscar-puente_1_5897797.html",
       "published": "2026-11-03T07:00:51+01:00",
       "category": "Actualitat",
@@ -2075,12 +2175,12 @@
     },
     {
       "source": "ARA",
-      "title": "Guia del partit Barça-Aston Villa de Champions: horari, on veure'l i alineacions",
-      "excerpt": "El Barça rep aquest dimarts l'Aston Villa d'Unai Emery al Camp Nou en el partit corresponent a la quarta jornada de la fase de lliga de la Champions League 2026-27. L'equip de Hansi Flick buscarà sumar tres punts davant el conjunt anglès per continuar ben situat a la classificació europea i deixar enrere les dues derrotes de fa uns dies contra el París Saint-Germain i el Reial Madrid.",
+      "title": "El Barça reacciona a Europa amb una exhibició de contundència",
+      "excerpt": "El Barça va saber enllestir la feina, mantenint ferm el timó per no perdre el rumb, en una nit estranya on hauria pogut picar-se els dits si Joan Garcia no hagués estat encertat a la primera part (3-0). Un dia estrany, on els futbolistes semblaven tristos després de llevar-se amb la notícia que un company de feina havia perdut la vida a Tenerife. El futbol triomfa ja que porta alegries i permet oblidar per 90 minuts les misèries del dia a dia, però la tràgica…",
       "url": "https://www.ara.cat/esports/barca/barca-aston-villa-champions-26-27_1_5897452.html",
       "published": "2026-11-03T00:05:21+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/f9130f22-8433-4422-b934-0764e7c727a5_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/75d23fe3-fa93-451a-8e6b-b087be7722a5_16-9-aspect-ratio_default_0_x2504y1264.jpg",
       "priority": "3 · Altres notícies"
     }
   ]
