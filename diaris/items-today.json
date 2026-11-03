@@ -2,6 +2,16 @@
   "date": "2026-11-03",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "L'Orthotomicus, el petit escarabat perforador que mata els pins a Paüls arran de l'incendi i la calor",
+      "excerpt": "Agricultura farà un seguiment de l'insecte amb trampes de feromones i retirarà la fusta morta afectada per evitar-ne la propagació",
+      "url": "https://www.3cat.cat/3catinfo/lorthotomicus-el-petit-escarabat-perforador-que-mata-els-pins-a-pauls-arran-de-lincendi-i-la-calor/noticia/3437526/",
+      "published": "2026-11-03T15:59:22+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/2/2/1793709209322.png",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "Feijóo demana als sindicats que desconvoquin la vaga general: \"69 morts després és un greu error\"",
       "excerpt": "A una setmana de la vaga general, Alberto Núñez Feijóo ha llançat una advertència als seus convocants. \"Abans era incomprensible, 69 morts després és un greu error\", ha afirmat el líder del PP aquest dimarts en un esmorzar informatiu organitzat per Europa Press. Feijóo ha demanat directament als sindicats que desconvoquin la protesta de l'11 de novembre, i els ha avisat que, si la mantenen, \"lligaran la seva imatge a Pedro Sánchez\". CCOO, la UGT i el Sindicat de Llogateres han fet cas omís de…",
@@ -20,6 +30,42 @@
       "category": "País Valencià",
       "image": null,
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimarts: torna la pluja amb un notable descens de la temperatura",
+      "excerpt": "El termòmetre quedarà amb màximes entre els 10 i els 15 graus a Catalunya",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-notable-i-generalitzat-descens-de-les-temperatures-maximes/noticia/3437392/",
+      "published": "2026-11-02T19:31:32+01:00",
+      "updated": "2026-11-03T16:48:49+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/1/1793720914116.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434210/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-notable-i-generalitzat-descens-de-les-temperatures-maximes/noticia/3437392/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els sindicats d’ADIF acorden una vaga el 17 de novembre per la seguretat ferroviària",
+      "excerpt": "Els sindicats també han traslladat la proposta al comitè d’empresa de RENFE, però la convocatòria encara no s’ha formalitzat",
+      "url": "https://www.vilaweb.cat/noticies/els-sindicats-dadif-acorden-una-vaga-el-17-de-novembre-per-la-seguretat-ferroviaria/",
+      "published": "2026-11-03T16:17:26+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "No trobo la targeta censal: com puc saber on he de votar a les eleccions generals?",
+      "excerpt": "El president del govern espanyol, Pedro Sánchez, va decidir convocar eleccions anticipades per al 29 de novembre després que, al Congrés, els vots de Junts, el PP i Vox tombessin els decrets llei d'habitatge aprovats pel consell de ministres. Així, la ciutadania està cridada a les urnes l'últim diumenge de novembre. Què pots fer per saber on has d'anar a votar a les eleccions generals?",
+      "url": "https://www.ara.cat/politica/eleccions-generals/no-trobo-targeta-censal-he-votar-eleccions-generals_1_5893990.html",
+      "published": "2026-11-03T15:32:12+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a6dfa7a2-9073-46a0-9521-d07ee5c0f68d_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -203,28 +249,12 @@
     },
     {
       "source": "ARA",
-      "title": "Tot a punt per a les eleccions de mig mandat als Estats Units",
-      "excerpt": "",
-      "url": "https://www.ara.cat/internacional/estats-units/punt-eleccions-mig-mandat-als-estats-units_6_5898426.html",
-      "published": "2026-11-03T10:34:42+01:00",
+      "title": "Doble control humà, un nou software i IA: les mesures de l'Estat per millorar la seguretat a l'alta velocitat",
+      "excerpt": "El govern espanyol fa un pas endavant per donar resposta tant a la seguretat de la xarxa ferroviària com a les víctimes del tràgic accident a Urda, a la província de Toledo. El president del govern espanyol, Pedro Sánchez, ja va deixar entreveure poques hores després del xoc entre els dos trens la intenció d'aprovar mesures per reforçar la seguretat a l'alta velocitat. Un servei que, en paraules del mateix Sánchez, ha quedat \"tocat\" després que en menys d'un any s'hagin viscut dues tragèdies; la…",
+      "url": "https://www.ara.cat/societat/successos/baixen-26-victimes-ingressades-hospitals-l-accident-ferroviari-toledo_1_5898396.html",
+      "published": "2026-11-03T11:08:35+01:00",
       "category": "Actualitat",
-      "image": null,
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dimarts: torna la pluja amb un notable descens de la temperatura",
-      "excerpt": "El termòmetre quedarà amb màximes entre els 10 i els 15 graus a Catalunya",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-notable-i-generalitzat-descens-de-les-temperatures-maximes/noticia/3437392/",
-      "published": "2026-11-02T19:31:32+01:00",
-      "updated": "2026-11-03T10:34:22+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/6/1793698425766.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434100/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-notable-i-generalitzat-descens-de-les-temperatures-maximes/noticia/3437392/"
-      },
+      "image": "https://static1.ara.cat/clip/68d8c61c-f444-4133-a5ff-5b737cade4f9_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -288,6 +318,131 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Cursa Bombers 2026 a Barcelona: Recorregut, inscripcions i tot el que has de saber",
+      "excerpt": "La Cursa Bombers 2026 a Barcelona es disputa el diumenge, 8 de novembre i arriba a la 27a edició. La prova, de 10 quilòmetres, és una de les més emblemàtiques de la ciutat. La competició sempre té com a protagonistes els bombers, molts dels quals la corren amb el vestit oficial, tal com pots comprovar […]",
+      "url": "https://beteve.cat/esports/cursa-bombers-barcelona-recorregut-inscripcions/",
+      "published": "2026-11-03T16:53:05+01:00",
+      "category": "atletisme",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/sortida-cursa-bombers-2025-2026-10-09.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1922/",
+      "published": "2026-11-03T16:44:40+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El \"Polònia, 20 anys\", de TV3, i \"Que no surti d'aquí\", de Catalunya Ràdio, Premis Ondas 2026",
+      "excerpt": "El lliurament dels guardons serà el 26 de novembre",
+      "url": "https://www.3cat.cat/3catinfo/el-polonia-20-anys-de-tv3-i-que-no-surti-daqui-de-catalunya-radio-premis-ondas-2026/noticia/3437639/",
+      "published": "2026-11-03T16:41:05+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/4/9/1793720420694.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un parent de Jack l'Esbudellador massa horripilant per a un 'true crime'",
+      "excerpt": "La negra tradició espanyola i catalana d'assassins en sèrie reals (l'Home Llop d'Allariz, el Jarabo, l'Arropiero, Enriqueta Martí, el zelador d'Olot...) no ha tingut una explotació audiovisual gaire reeixida; potser perquè no hi ha aquella fascinació a mig camí entre la morbositat i el conte admonitori –que sí que hi ha en la indústria del cinema i les sèries dels Estats Units– al voltant d'aquestes figures massa horripilants per a un true crime convencional. Per això només trobem obres esporàdiques, com ara la sèrie La…",
+      "url": "https://www.ara.cat/cultura/cinema/critiques/sacamantecas-jack-esbudellador-alaba-segle-xix_1_5898845.html",
+      "published": "2026-11-03T16:27:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/991a6b97-8f1e-44c1-af4c-9ed72e63c334_16-9-aspect-ratio_default_0_x2894y972.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Un ecògraf en un CAP, la proposta d'èxit de cara a la reforma de l'atenció primària",
+      "excerpt": "Un centre d'atenció primària d'Osona assaja la incorporació d'un aparell d'ecografies dins de la prova pilot per transformar els CAP en centres de salut integral de referència",
+      "url": "https://www.3cat.cat/3catinfo/un-ecograf-en-un-cap-la-proposta-dexit-de-cara-a-la-reforma-de-latencio-primaria/noticia/3437587/",
+      "published": "2026-11-03T16:16:37+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/7/1793717443572.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434145/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/un-ecograf-en-un-cap-la-proposta-dexit-de-cara-a-la-reforma-de-latencio-primaria/noticia/3437587/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "'Polònia', el 'Que no surti d'aquí' i Berto Romero, premis Ondas",
+      "excerpt": "El programa Que no surti d'aquí , de Catalunya Ràdio, ha guanyat ex-aequo el premi Ondas a la millor idea radiofònica. L'espai de la ràdio pública catalana, presentat per Roger Carandell, Marta Montaner i Juliana Canet, ha estat guardonat per ser una mostra de com ha evolucionat la ràdio i per \"obrir nous camins en els hàbits de consum entre el públic jove\". El jurat ha fet públic el veredicte aquest dimarts després que la setmana passada es decidís ajornar l'anunci a causa de l'accident…",
+      "url": "https://www.ara.cat/media/polonia-no-surti-d-berto-romero-premis-ondas_1_5898847.html",
+      "published": "2026-11-03T16:14:16+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4789d156-7a87-4142-8312-a1f1db8f414e_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Si plou fort, saps què has de fer?",
+      "excerpt": "",
+      "url": "https://especials.ara.cat/ca/generalitat/que-fer-si-plou-fort",
+      "published": "2026-11-03T16:13:30+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Confusió d’identitat: Michel Owono denuncia una allau d’insults racistes per la mort de Jesús de Miguel",
+      "excerpt": "\"El respecte, l’empatia i la humanitat haurien d’estar per damunt de tot\", ha dit en un comunicat el jugador del Can Vidalet",
+      "url": "https://www.vilaweb.cat/noticies/confusio-didentitat-michel-owono-denuncia-una-allau-dinsults-racistes-per-la-mort-de-jesus-de-miguel/",
+      "published": "2026-11-03T15:59:00+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una mort per marcar un abans i un després",
+      "excerpt": "La desgràcia d'aquesta setmana a Espanya porta el nom de Jesús i va passar a Tenerife. Jesús (de Miguel) és com es diu el futbolista de l'equip canari que corria al contracop a la recerca del 3-2 en l'última jugada d'un partit de Lliga contra l'Andorra. I Jesús (Owono) és el porter que va saltar a la desesperada per impedir que el seu conjunt deixés de sumar un punt en camp contrari, en un moment de caixa o faixa força habitual en un context d'alta…",
+      "url": "https://www.ara.cat/esports/futbol/jesus-de-miguel-mort-marcara-despres_129_5898759.html",
+      "published": "2026-11-03T15:53:23+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/44da8190-b254-4b95-b5e5-5df6744a274e_source-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sol Daurella repeteix com la persona més rica de Catalunya a la llista Forbes",
+      "excerpt": "Sol Daurella, presidenta de l'embotelladora Coca-Cola Europacific Partners (CCEP), repeteix com la persona més rica de Catalunya a la llista de grans fortunes de l'Estat publicada aquest dimarts per la revista Forbes . Amb un patrimoni de 3.500 milions d'euros (uns 600 més que el 2025), Daurella se situa en l'onzena posició a nivell espanyol en una classificació encapçalada una vegada més pel gallec Amancio Ortega, fundador del gegant de la moda Inditex —empresa matriu de cadenes com Zara, Stradivarius o Bershka—, que en un…",
+      "url": "https://www.ara.cat/economia/directius/sol-daurella-repeteix-persona-mes-rica-catalunya-llista-forbes_1_5898806.html",
+      "published": "2026-11-03T15:41:16+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5db95862-2516-481a-b790-81df715bc9c8_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Puc evitar anar en una mesa electoral el 29-N?",
+      "excerpt": "Les eleccions del pròxim 29 de novembre tornaran a cridar prop de 75.000 persones que hauran de constituir o suplir les més de 8.000 meses electorals que hi haurà a Catalunya. Els sorteigs s'han fet entre el 31 d'octubre i el 4 de novembre, i durant els tres dies següents els ajuntaments ho comunicaran als seleccionats per correu postal. Si, per casualitat, ets un dels escollits, potser a hores d'ara t'estàs fent les següents preguntes: hi ha alguna manera d'evitar anar-hi i recórrer contra la…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/mesa-electoral-deslliurar-tocat-29-n-eleccions-generals_1_5898613.html",
+      "published": "2026-11-03T15:38:21+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/53561e3f-f029-405b-a438-ca4479768231_16-9-aspect-ratio_default_0_x803y559.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Exposicions a Barcelona: la teva agenda de museus",
+      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
+      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
+      "published": "2026-11-03T15:28:44+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "El compte d'Instagram que vinculen a l'alcalde de Salou per difamar rivals polítics",
       "excerpt": "Nou terratrèmol a Salou, amb dures acusacions contra l'alcalde, Pere Granados. Aquest dilluns ERC va acusar-lo públicament d'estar directament al darrere d'un compte veïnal d'Instagram, Vecinos de Salou , per \"fer campanya i joc brut\" contra rivals polítics sense \"donar la cara\" i darrere l'aparença d'entitat veïnal. Aquest dimarts Vox ha anat encara més enllà i ha anunciat una querella criminal per injúries i calúmnies contra l'alcalde. Aquest diari ha constatat que el correu electrònic que hi ha associat al compte de la xarxa social…",
@@ -339,22 +494,22 @@
     },
     {
       "source": "ARA",
-      "title": "Puente s'inclina ara per no tallar d'immediat la línia d'alta velocitat Barcelona-Madrid",
-      "excerpt": "El ministre de Transports, Óscar Puente, ha rectificat i ha refredat el debat sobre un possible tancament llarg i imminent de la línia d'alta velocitat Barcelona-Madrid mentre aquesta es renovi. La idea, llançada la setmana passada pel ministre després de l'accident entre dos trens a Urda, a Toledo , va reobrir un vell debat al sector i va generar el rebuig per part de la Generalitat. Puente ha matisat aquest dimarts que es tracta d’un \"debat\", i ha refredat del tot que sigui una mesura…",
+      "title": "Puente s'inclina ara per no tallar immediatament la línia d'alta velocitat Barcelona-Madrid",
+      "excerpt": "El ministre de Transports, Óscar Puente, ha rectificat i ha refredat el debat sobre un possible tancament llarg i imminent de la línia d'alta velocitat Barcelona-Madrid mentre durin les obres de renovació. La idea, llançada la setmana passada pel mateix ministre després de l'accident entre dos trens a Urda, a Toledo , va reobrir un vell debat al sector i va generar el rebuig per part de la Generalitat. Puente ha matisat aquest dimarts que es tracta d’un \"debat\", i ha descartat del tot que…",
       "url": "https://www.ara.cat/societat/mobilitat/puente-s-inclina-ara-no-tallar-d-immediat-linia-d-alta-velocitat-barcelona-madrid_1_5898755.html",
       "published": "2026-11-03T15:01:35+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/f89290c7-7d3f-48bb-b6d6-fe777538ed76_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/d48d4c4b-312f-4ddd-8808-691db4328d2d_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
       "title": "Llarena deixa l'amnistia de Puigdemont en mans de Marchena",
-      "excerpt": "Nou anys després, Pablo Llarena ha tancat la seva particular carpeta del Procés. El jutge instructor ha fet el penúltim pas per possibilitar l'amnistia total i definitiva a Carles Puigdemont, Toni Comín i Lluís Puig revocant el processament, concloent el sumari i remetent la causa a la Sala Penal perquè sigui Manuel Marchena qui resolgui l'arxivament definitiu de la causa. Per tant, la persecució judicial de l'1-O al Tribunal Suprem està més a prop de quedar enterrada.",
+      "excerpt": "Nou anys després, Pablo Llarena es desprèn de la causa del Procés i activa el compte enrere de l'amnistia total a Carles Puigdemont, Toni Comín i Lluís Puig. El jutge instructor ha fet el penúltim pas que faltava per fer-ho possible: ha revocat el processament que va dictar el 2018, ha conclòs el sumari i ha remès la causa a la sala penal perquè sigui Manuel Marchena qui dicti l'arxivament definitiu de la causa. D'aquesta manera, la persecució judicial de l'1-O al Tribunal Suprem està…",
       "url": "https://www.ara.cat/politica/llarena-deixa-l-amnistia-puigdemont-mans-marchena_1_5898777.html",
       "published": "2026-11-03T14:59:10+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/335a29a3-08a7-46a2-bc23-b6215a905566_16-9-aspect-ratio_default_1061141.jpg",
+      "image": "https://static1.ara.cat/clip/9366cd2b-98a0-4828-b2cf-93c1e214d6ed_source-aspect-ratio_default_0_x2777y818.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -388,16 +543,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Exposicions a Barcelona: la teva agenda de museus",
-      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
-      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
-      "published": "2026-11-03T14:41:42+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "VilaWeb",
       "title": "L’Audiència espanyola ordena d’investigar a qui correspon la marca T de les joies de Zapatero",
       "excerpt": "Autoritza la Guàrdia Civil a demanar la col·laboració de la Interpol i l'Europol",
@@ -428,9 +573,19 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Puente diu que no hi ha cap decisió presa sobre aturar l’alta velocitat Madrid-Barcelona",
+      "excerpt": "(ACN/Redacció) El ministre de Transports, Óscar Puente, ha assegurat que el Govern espanyol no té “cap decisió presa” sobre la possibilitat de tallar la línia d’alta velocitat Madrid-Barcelona durant les futures obres de renovació integral. “És una decisió que haurem de prendre quan arribi el moment”, ha afirmat. “S’escoltarà a tothom” A la roda de […]",
+      "url": "https://beteve.cat/mobilitat/puente-cap-decisio-presa-aturar-alta-velocitat-madrid-barcelona/",
+      "published": "2026-11-03T14:12:23+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/01/linia-AVE-Barcelona-Madrid-200126.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
-      "title": "Quatre vols amb amenaces de bomba, un amb destinació a Múrcia, compliquen l'espai aeri europeu",
-      "excerpt": "A més de l'avís en un avió de Ryanair amb destinació a la capital murciana, durant el matí de dimarts també hi ha hagut tres avisos de bomba més en dos vols que anaven cap a Varsòvia i en un altre que provenia d'Israel",
+      "title": "Almenys set vols amb amenaces de bomba, un amb destinació a Múrcia, compliquen l'espai aeri europeu",
+      "excerpt": "A més de l'avís en un avió de Ryanair a la capital murciana, durant el matí de dimarts hi ha hagut avisos a dos vols amb destí Roma, dos a Varsòvia i dos a Bulgària",
       "url": "https://www.3cat.cat/3catinfo/quatre-vols-amb-amenaces-de-bomba-un-amb-destinacio-a-murcia-compliquen-lespai-aeri-europeu/noticia/3437527/",
       "published": "2026-11-03T14:05:57+01:00",
       "category": "Actualitat",
@@ -445,6 +600,16 @@
       "published": "2026-11-03T14:02:45+01:00",
       "category": "Europa",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Califato 3/4, a l’In-Edit",
+      "excerpt": "Califato 3/4 ens convida a descobrir tot allò que passa quan s’apaguen els focus i s’acaba la música. El col·lectiu andalús, que ha revolucionat la manera d’entendre el flamenc i la música popular amb una barreja explosiva d’electrònica, cobla, marxes processionals i cultura de club, és el protagonista de Bale el effuerço que emo exo, […]",
+      "url": "https://beteve.cat/tot-passa/califato-%c2%be-a-lin-edit/",
+      "published": "2026-11-03T14:02:19+01:00",
+      "category": "cinema",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/totpassa_031126-2026-11-03.webp",
       "priority": "3 · Altres notícies"
     },
     {
@@ -469,7 +634,7 @@
     },
     {
       "source": "betevé",
-      "title": "El Sant Andreu, classificat per a segona fase de la Conference Cup masculina de waterpolo",
+      "title": "El Sant Andreu, classificat per a la segona fase de la Conference Cup masculina de waterpolo",
       "excerpt": "Després del gran paper que va fer la temporada passada, el Club Natació Sant Andreu va aconseguir el dret a disputar la Conference Cup, la tercera competició masculina del waterpolo europeu. El conjunt de Juan Carlos Sanchón va iniciar la competició disputant la primera fase i amb l’objectiu d’acabar entre els dos primers del seu […]",
       "url": "https://beteve.cat/esports/full-ruta-cn-sant-andreu-conference-cup/",
       "published": "2026-11-03T13:56:20+01:00",
@@ -479,8 +644,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Investiguen quatre avisos de bomba simultanis en avions aterrats en aeroports europeus",
-      "excerpt": "Dos vols anaven a Polònia, un a Espanya i un a Bulgària · Ahir, un vol d'Anglaterra a Bulgària fou redirigit a Hongria per una altra amenaça de bomba",
+      "title": "Investiguen set avisos de bomba simultanis en avions aterrats en aeroports europeus",
+      "excerpt": "Els aparells feien rutes cap a Itàlia, Bulgària, Polònia i l’estat espanyol, i les autoritats investiguen l’origen de les amenaces",
       "url": "https://www.vilaweb.cat/noticies/avisos-bomba-simultanis-avions-normalitat/",
       "published": "2026-11-03T13:49:47+01:00",
       "category": "Europa",
@@ -490,7 +655,7 @@
     {
       "source": "ARA",
       "title": "La Policia Nacional investiga la mort de Jesús de Miguel: quines conseqüències pot tenir per a Jesús Owono?",
-      "excerpt": "El món del futbol viu una jornada de dol després de la mort del jugador del Tenerife Jesús De Miguel. El futbolista va patir una aturada cardiorespiratòria després d'una entrada del porter de l'Andorra , Jesús Owono, i va ser traslladat d'urgència a l'hospital, on ha perdut la vida durant la matinada. Les condolences no han trigat a arribar i la Federació Espanyola de Futbol (RFEF) ha suspès els partits de copa programats per aquest dimarts en senyal de respecte. Però més enllà de la…",
+      "excerpt": "El món del futbol viu una jornada de dol després de la mort del jugador del Tenerife Jesús de Miguel. El futbolista va patir una aturada cardiorespiratòria després d'una entrada del porter de l'Andorra Jesús Owono i va ser traslladat d'urgència a l'hospital, on ha perdut la vida aquesta matinada. Les mostres de condol no han trigat a arribar i la Federació Espanyola de Futbol (RFEF) ha suspès els partits de Copa programats per a aquest dimarts en senyal de respecte. Però, més enllà de…",
       "url": "https://www.ara.cat/esports/futbol/consequencies-penals-esportives-jesus-owono_1_5898684.html",
       "published": "2026-11-03T13:49:24+01:00",
       "category": "Actualitat",
@@ -679,12 +844,12 @@
     },
     {
       "source": "ARA",
-      "title": "Set avions han rebut amenaces de bomba en ple vol en diferents punts d'Europa en les últimes 24 hores",
-      "excerpt": "Degoteig continu d'amenaces de bomba contra avions en ple vol. En les últimes 24 hores, se n'han rebut set en diferents rutes europees. Tres dels aparells havien sortit del Regne Unit. Un quart cobria el trajecte entre Copenhaguen i Varsòvia. El cinquè s'havia enlairat d'Israel, segons informen els mitjans de comunicació búlgars, i ha acabat aterrant a Sofia, i dos més, de la companyia Ryanair, han sigut inspeccionats a l'aeroport de Fiumicino, a Roma, per la mateixa raó.",
+      "title": "Vuit avions han rebut falses amenaces de bomba en diferents punts d'Europa en les últimes 24 hores",
+      "excerpt": "Degoteig continu de falses amenaces de bomba contra avions en ple vol en diferents rutes europees. En les últimes 24 hores se n'han registrat vuit. Ahir, dilluns, es va produir el primer incident ; els altres set han tingut lloc aquest dimarts. Quatre dels vuit avions afectats són de Ryanair; un, de SAS; un altre, de LOT, i dos, de Wizz Air. Tres dels aparells, el que va ser objecte de l'amenaça dilluns, i dos dels afectats avui, havien sortit del Regne Unit. Un quart…",
       "url": "https://www.ara.cat/societat/successos/activat-protocol-d-emergencia-l-aeroport-murcia-avis-bomba-avio_1_5898573.html",
       "published": "2026-11-03T12:10:50+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/fe609989-0180-4436-9746-536b586c0636_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/1a094a98-1f54-4643-bd5d-52e70d66fef9_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -815,6 +980,16 @@
       "published": "2026-11-03T10:36:01+01:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/06/Tokischa-sonar-2027-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Votacions en marxa: els Estats Units examinen Donald Trump",
+      "excerpt": "",
+      "url": "https://www.ara.cat/internacional/estats-units/punt-eleccions-mig-mandat-als-estats-units_6_5898426.html",
+      "published": "2026-11-03T10:34:42+01:00",
+      "category": "Actualitat",
+      "image": null,
       "priority": "3 · Altres notícies"
     },
     {
@@ -970,11 +1145,11 @@
     {
       "source": "ARA",
       "title": "Mor el jugador del Tenerife Jesús de Miguel després d'una dura entrada del porter de l'Andorra",
-      "excerpt": "El futbolista del CD Tenerife Jesús de Miguel ha mort aquest dimarts als 30 anys, segons ha informat el club. El jugador va patir una aturada cardiorespiratòria després d'una entrada del porter de l'Andorra i va ser traslladat d'urgència a l'hospital, però els metges no han pogut fer res per salvar-li la vida.",
+      "excerpt": "El futbolista del CD Tenerife Jesús de Miguel ha mort aquest dimarts, segons ha informat el club. El jugador va patir una aturada cardiorespiratòria després d'una entrada del porter de l'Andorra i va ser traslladat d'urgència a l'hospital, però els metges no han pogut fer res per salvar-li la vida.",
       "url": "https://www.ara.cat/esports/futbol/mor-jugador-tenerife-jesus-miguel_1_5898423.html",
       "published": "2026-11-03T09:45:08+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/6366eb9f-ffba-4fee-b87a-6301ce24ad28_4-3-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/6366eb9f-ffba-4fee-b87a-6301ce24ad28_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
