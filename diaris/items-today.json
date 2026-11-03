@@ -23,6 +23,46 @@
     },
     {
       "source": "VilaWeb",
+      "title": "Sanitat limita a un màxim de disset hores les guàrdies dels residents",
+      "excerpt": "El Consell de Ministres espanyol aprova noves garanties sobre jornada, descansos i prevenció de riscos",
+      "url": "https://www.vilaweb.cat/noticies/sanitat-limita-a-un-maxim-de-disset-hores-les-guardies-dels-residents/",
+      "published": "2026-11-03T15:15:18+01:00",
+      "category": "Sanitat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El govern defensa el ministre Puente: “En aquests moments, fa allò que ha de fer”",
+      "excerpt": "Paneque reitera l’oposició del govern al tancament provisional de la línia de gran velocitat entre Barcelona i Madrid",
+      "url": "https://www.vilaweb.cat/noticies/govern-defensa-ministre-oscar-puente/",
+      "published": "2026-11-03T14:52:49+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El govern defensa “l’honestedat i l’honorabilitat” de l’ex-cap de gabinet d’Illa, investigat en una causa de corrupció",
+      "excerpt": "Tot i això, la consellera Paneque ha evitat de fer servir les paraules 'confiança' i 'innocència'",
+      "url": "https://www.vilaweb.cat/noticies/el-govern-defensa-lhonestedat-i-lhonorabilitat-de-lex-cap-de-gabinet-dilla-investigat-en-una-causa-de-corrupcio/",
+      "published": "2026-11-03T14:38:35+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Drets i deures dels treballadors per la vaga de l’11 de novembre: sou, serveis mínims i piquets",
+      "excerpt": "El dimecres 11 de novembre hi ha convocada una vaga general. Es tracta d’una aturada de 24 hores per uns salaris dignes i pel dret a l’habitatge. S’hi poden sumar treballadors de tots els sectors, amb l’excepció dels cossos i forces de seguretat i d’aquells qui tinguin assignats serveis mínims. Vols fer vaga? T’expliquem quins […]",
+      "url": "https://beteve.cat/economia/drets-deures-treballadors-vaga-general-11-novembre/",
+      "published": "2026-11-03T14:05:22+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/cartell-vaga-general-11-novembre-2026-10-19.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
       "title": "Toni Comín trepitja el Parlament de Catalunya després de nou anys d’exili: “Tornem vencedors, no indemnes”",
       "excerpt": "L'ex-conseller ha estat rebut pel president de la cambra, Josep Rull",
       "url": "https://www.vilaweb.cat/noticies/toni-comin-trepitja-el-parlament-de-catalunya-despres-de-nou-anys-dexili-tornem-vencedors-no-indemnes/",
@@ -93,8 +133,8 @@
     },
     {
       "source": "betevé",
-      "title": "La plantilla d’urgències de l’Hospital del Mar, en vaga contra la saturació del servei",
-      "excerpt": "La plantilla d’Urgències de l’Hospital del Mar està convocada a fer vaga aquest dimarts, 3 de novembre per denunciar “la situació de saturació” que, asseguren, viu el centre sanitari. Els treballadors s’han concentrat a l’entrada principal de l’hospital acompanyats dels sindicats que formen part del Comitè d’Empresa (FTC-IAC, CGT, CCOO, UGT, SATSE i Sindicat Metges […]",
+      "title": "La plantilla d’Urgències de l’Hospital del Mar, en vaga contra la saturació del servei",
+      "excerpt": "La plantilla d’Urgències de l’Hospital del Mar està convocada a fer vaga aquest dimarts, 3 de novembre, per denunciar “la situació de saturació” que, asseguren, viu el centre sanitari. Els treballadors s’han concentrat a l’entrada principal de l’hospital acompanyats dels sindicats que formen part del comitè d’empresa (FTC-IAC, CGT, CCOO, UGT, SATSE i Metges de […]",
       "url": "https://beteve.cat/societat/vaga-plantilla-urgencies-hospital-del-mar/",
       "published": "2026-11-03T13:04:03+01:00",
       "category": "salut",
@@ -154,7 +194,7 @@
     {
       "source": "ARA",
       "title": "Doble control humà, un nou software i IA: les mesures de l'Estat per millorar la seguretat a l'alta velocitat",
-      "excerpt": "El govern espanyol fa un pas endavant per donar resposta tant a la seguretat de la xarxa ferroviària com a les víctimes del tràgic accident a Urda, a la província de Toledo. El president del govern espanyol, Pedro Sánchez, ja va deixar entreveure poques hores després de l'accident la intenció d'aprovar mesures per reforçar la seguretat a l'alta velocitat. Un servei que, en paraules del mateix Sánchez, ha quedat \"tocat\" després que en menys d'un any s'hagin viscut dues tragèdies.",
+      "excerpt": "El govern espanyol fa un pas endavant per donar resposta tant a la seguretat de la xarxa ferroviària com a les víctimes del tràgic accident a Urda, a la província de Toledo. El president del govern espanyol, Pedro Sánchez, ja va deixar entreveure poques hores després de l'accident la intenció d'aprovar mesures per reforçar la seguretat a l'alta velocitat. Un servei que, en paraules del mateix Sánchez, ha quedat \"tocat\" després que en menys d'un any s'hagin viscut dues tragèdies. \"L'objectiu és recuperar la confiança…",
       "url": "https://www.ara.cat/societat/baixen-26-victimes-ingressades-hospitals-l-accident-ferroviari-toledo_1_5898396.html",
       "published": "2026-11-03T11:08:35+01:00",
       "category": "Actualitat",
@@ -248,9 +288,149 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "El compte d'Instagram que vinculen a l'alcalde de Salou per difamar rivals polítics",
+      "excerpt": "Nou terratrèmol a Salou, amb dures acusacions contra l'alcalde, Pere Granados. Aquest dilluns ERC va acusar-lo públicament d'estar directament al darrere d'un compte veïnal d'Instagram, Vecinos de Salou , per \"fer campanya i joc brut\" contra rivals polítics sense \"donar la cara\" i darrere l'aparença d'entitat veïnal. Aquest dimarts Vox ha anat encara més enllà i ha anunciat una querella criminal per injúries i calúmnies contra l'alcalde. Aquest diari ha constatat que el correu electrònic que hi ha associat al compte de la xarxa social…",
+      "url": "https://www.ara.cat/politica/compte-d-instagram-vinculen-l-alcalde-salou-difamar-rivals-politics_1_5898472.html",
+      "published": "2026-11-03T15:08:12+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/41dfdf6d-1a86-4f92-a24f-33ba81b710c3_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Llarena tanca el sumari contra els exiliats i fa el pas definitiu per a amnistiar Puigdemont",
+      "excerpt": "El jutge eleva la causa a la sala penal del Suprem, que és qui haurà d'acabar aplicant finalment l'amnistia",
+      "url": "https://www.vilaweb.cat/noticies/llarena-tanca-el-sumari-contra-els-exiliats-i-fa-el-pas-definitiu-per-a-amnistiar-puigdemont/",
+      "published": "2026-11-03T15:07:19+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-753/",
+      "published": "2026-11-03T15:06:08+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Llarena tanca la causa contra Puigdemont, Comín i Puig, que queden a un pas de l'amnistia definitiva",
+      "excerpt": "L'últim pas que queda és que la sala segona del Suprem arxivi el cas i els apliqui l'amnistia després de 9 anys d'exili a Bèlgica",
+      "url": "https://www.3cat.cat/3catinfo/el-suprem-tanca-la-causa-contra-puigdemont-comin-i-puig-que-queden-a-un-pas-de-lamnistia-definitiva/noticia/3435177/",
+      "published": "2026-11-03T15:05:25+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/8/1792506810282.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "VilaWeb fa demà a València la segona Assemblea de Lectors",
+      "excerpt": "A la sessió del 4 de novembre al centre Octubre, Vicent Partal compartirà idees, projectes i impressions amb la comunitat de lectors i subscriptors de VilaWeb",
+      "url": "https://www.vilaweb.cat/noticies/vilaweb-fa-dema-a-valencia-la-segona-assemblea-de-lectors/",
+      "published": "2026-11-03T15:01:38+01:00",
+      "category": "Cultura",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Puente s'inclina ara per no tallar d'immediat la línia d'alta velocitat Barcelona-Madrid",
+      "excerpt": "El ministre de Transports, Óscar Puente, ha rectificat i ha refredat el debat sobre un possible tancament llarg i imminent de la línia d'alta velocitat Barcelona-Madrid mentre aquesta es renovi. La idea, llançada la setmana passada pel ministre després de l'accident entre dos trens a Urda, a Toledo , va reobrir un vell debat al sector i va generar el rebuig per part de la Generalitat. Puente ha matisat aquest dimarts que es tracta d’un \"debat\", i ha refredat del tot que sigui una mesura…",
+      "url": "https://www.ara.cat/societat/mobilitat/puente-s-inclina-ara-no-tallar-d-immediat-linia-d-alta-velocitat-barcelona-madrid_1_5898755.html",
+      "published": "2026-11-03T15:01:35+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f89290c7-7d3f-48bb-b6d6-fe777538ed76_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Llarena deixa l'amnistia de Puigdemont en mans de Marchena",
+      "excerpt": "Nou anys després, Pablo Llarena ha tancat la seva particular carpeta del Procés. El jutge instructor ha fet el penúltim pas per possibilitar l'amnistia total i definitiva a Carles Puigdemont, Toni Comín i Lluís Puig revocant el processament, concloent el sumari i remetent la causa a la Sala Penal perquè sigui Manuel Marchena qui resolgui l'arxivament definitiu de la causa. Per tant, la persecució judicial de l'1-O al Tribunal Suprem està més a prop de quedar enterrada.",
+      "url": "https://www.ara.cat/politica/llarena-deixa-l-amnistia-puigdemont-mans-marchena_1_5898777.html",
+      "published": "2026-11-03T14:59:10+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/335a29a3-08a7-46a2-bc23-b6215a905566_16-9-aspect-ratio_default_1061141.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sí que tenen programa",
+      "excerpt": "El PP i el seu antilíder, Alberto Núñez Feijóo, han reprès la precampanya en un to presidencialista, com de discurs d'investidura, amb el qual Feijóo empolvora les seves intervencions en actes públics i mitjans de comunicació. No és res més que el vell constructe doctrinal de la dreta espanyola de tota la vida (patriotisme, reaccionarisme, rebuig de la diversitat, capitalisme sense topalls disfressat de liberalisme) empeltat amb l'urani empobrit dels discursos d'odi de les anomenades noves dretes. Tan noves que, en el cas d'Espanya, incorporen…",
+      "url": "https://www.ara.cat/opinio/tenen-programa_129_5898752.html",
+      "published": "2026-11-03T14:52:38+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/55c35567-eb17-474f-8a5d-7899cb87ee59_16-9-aspect-ratio_default_0_x512y520.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Barça i Joan Laporta, consternats per la mort de Jesús de Miguel",
+      "excerpt": "El president del Barça, Joan Laporta, ha mostrat la seva tristesa i consternació per la mort del jugador del Tenerife Jesús de Miguel. El màxim mandatari blaugrana ha estat clar quan ha assegurat que “aquesta notícia ens ha commocionat profundament”. El Barça guardarà un minut de silenci Aquestes paraules, Joan Laporta les ha pronunciades just […]",
+      "url": "https://beteve.cat/esports/barca-joan-laporta-consternats-mort-jesus-miguel/",
+      "published": "2026-11-03T14:49:50+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/031126CM_laporta_condol_4-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
+      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-11-03T14:46:03+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Exposicions a Barcelona: la teva agenda de museus",
+      "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
+      "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
+      "published": "2026-11-03T14:41:42+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’Audiència espanyola ordena d’investigar a qui correspon la marca T de les joies de Zapatero",
+      "excerpt": "Autoritza la Guàrdia Civil a demanar la col·laboració de la Interpol i l'Europol",
+      "url": "https://www.vilaweb.cat/noticies/audiencia-espanyola-investigar-marca-t-joies-zapatero/",
+      "published": "2026-11-03T14:39:34+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Convertir en un circ la mort d’un futbolista",
+      "excerpt": "Commoció per la mort de Jesús de Miguel, a conseqüència d’una entrada duríssima del porter de l’Andorra. Les imatges fan feredat i han convertit el clip en viral. Primer problema: l’explotació de la morbositat. Té interès informatiu, el vídeo? Sense dubte. Però és molt diferent mostrar-lo com a element inserit en una notícia general titulada asèpticament que no vendre’l a so de bombo i platerets i que el principal reclam sigui veure el desafortunat accident. “Així va ser la jugada que va acabar amb la…",
+      "url": "https://www.ara.cat/media/convertir-circ-mort-d-futbolista_129_5898731.html",
+      "published": "2026-11-03T14:21:42+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6366eb9f-ffba-4fee-b87a-6301ce24ad28_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Carlos Mazón: de la dimissió convulsa a l'aforament tranquil",
+      "excerpt": "L'expresident de la Generalitat Valenciana Carlos Mazón va dimitir ara fa un any i, des d'aleshores, ha tingut una presència discreta a les Corts",
+      "url": "https://www.3cat.cat/3catinfo/carlos-mazon-de-la-dimissio-convulsa-a-laforament-tranquil/noticia/3437502/",
+      "published": "2026-11-03T14:14:33+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/3/1762800310231.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
       "title": "Quatre vols amb amenaces de bomba, un amb destinació a Múrcia, compliquen l'espai aeri europeu",
-      "excerpt": "A més de l'avís en un avió de Ryanair amb destinació a la capital murciana, durant el matí de dimarts també s'han produït tres avisos de bomba més en dos vols que viatjaven cap a Varsòvia i en un altre que provenia d'Israel",
+      "excerpt": "A més de l'avís en un avió de Ryanair amb destinació a la capital murciana, durant el matí de dimarts també hi ha hagut tres avisos de bomba més en dos vols que anaven cap a Varsòvia i en un altre que provenia d'Israel",
       "url": "https://www.3cat.cat/3catinfo/quatre-vols-amb-amenaces-de-bomba-un-amb-destinacio-a-murcia-compliquen-lespai-aeri-europeu/noticia/3437527/",
       "published": "2026-11-03T14:05:57+01:00",
       "category": "Actualitat",
@@ -260,7 +440,7 @@
     {
       "source": "VilaWeb",
       "title": "Rússia i Ucraïna reprendran les negociacions a Abu Dhabi amb la mediació dels Estats Units",
-      "excerpt": "Les converses, encallades d'ençà del febrer, se centraran en les garanties de seguretat, la desescalada del conflicte i les qüestions humanitàries",
+      "excerpt": "Les converses, encallades d'ençà del febrer, se centraran en les garanties de seguretat, la distensió del conflicte i les qüestions humanitàries",
       "url": "https://www.vilaweb.cat/noticies/russia-i-ucraina-reprendran-les-negociacions-a-abu-dhabi-amb-la-mediacio-dels-estats-units/",
       "published": "2026-11-03T14:02:45+01:00",
       "category": "Europa",
@@ -269,12 +449,22 @@
     },
     {
       "source": "ARA",
-      "title": "La UE avisa que els ciberatacs als supermercats no són fets aïllats i reclama una resposta conjunta",
+      "title": "Els ciberatacs als supermercats encenen les alarmes a Brussel·les: \"No són fets aïllats\"",
       "excerpt": "L'onada de ciberatacs contra els sistemes de refrigeració dels supermercats continua estenent-se i, després d'afectar aquest matí cadenes de Portugal, ja compta amb vuit països afectats. Davant d'aquest escenari, la Unió Europea ha defensat que no s'han de tractar com a fets aïllats i que cal preparar una resposta conjunta.",
       "url": "https://www.ara.cat/internacional/europa/ue-avisa-ciberatacs-als-supermercats-no-son-fets-aillats-reclama-resposta-conjunta_1_5898484.html",
       "published": "2026-11-03T14:02:11+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/d99cf32e-ed3f-46c3-830c-c80978dd42eb_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La policia obre una investigació per la mort de Jesús de Miguel",
+      "excerpt": "El cas s'ha judicialitzat per aclarir les circumstàncies de la mort del jugador del Tenerife",
+      "url": "https://www.3cat.cat/3catinfo/la-policia-obre-una-investigacio-per-la-mort-de-jesus-de-miguel/noticia/3437566/",
+      "published": "2026-11-03T14:00:16+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/1/1793711644318.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -290,7 +480,7 @@
     {
       "source": "VilaWeb",
       "title": "Investiguen quatre avisos de bomba simultanis en avions aterrats en aeroports europeus",
-      "excerpt": "Dos vols anaven a Polònia, un a Espanya i un a Bulgària",
+      "excerpt": "Dos vols anaven a Polònia, un a Espanya i un a Bulgària · Ahir, un vol d'Anglaterra a Bulgària fou redirigit a Hongria per una altra amenaça de bomba",
       "url": "https://www.vilaweb.cat/noticies/avisos-bomba-simultanis-avions-normalitat/",
       "published": "2026-11-03T13:49:47+01:00",
       "category": "Europa",
@@ -299,7 +489,7 @@
     },
     {
       "source": "ARA",
-      "title": "La Policia Nacional investiga la mort de Jesús de Miguel: quines conseqüències pot tenir per al porter Jesús Owono?",
+      "title": "La Policia Nacional investiga la mort de Jesús de Miguel: quines conseqüències pot tenir per a Jesús Owono?",
       "excerpt": "El món del futbol viu una jornada de dol després de la mort del jugador del Tenerife Jesús De Miguel. El futbolista va patir una aturada cardiorespiratòria després d'una entrada del porter de l'Andorra , Jesús Owono, i va ser traslladat d'urgència a l'hospital, on ha perdut la vida durant la matinada. Les condolences no han trigat a arribar i la Federació Espanyola de Futbol (RFEF) ha suspès els partits de copa programats per aquest dimarts en senyal de respecte. Però més enllà de la…",
       "url": "https://www.ara.cat/esports/futbol/consequencies-penals-esportives-jesus-owono_1_5898684.html",
       "published": "2026-11-03T13:49:24+01:00",
@@ -388,6 +578,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "17 detinguts en una operació contra l’explotació sexual infantil, un dels quals a Barcelona",
+      "excerpt": "(ACN) Una investigació internacional contra l’explotació sexual infantil ha acabat amb un total de 17 detinguts en diferents països: Tres a Espanya, dos a l’Argentina, un a Bolívia, quatre al Brasil, dos a Colòmbia, un a Guatemala, tres al Perú i un a la República Dominicana. Dels tres detinguts a l’estat, un ha estat a […]",
+      "url": "https://beteve.cat/societat/17-detinguts-operacio-contra-explotacio-sexual-infantil/",
+      "published": "2026-11-03T13:08:00+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/policia-nacional-031126-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Condis completa la integració de Roges Supermercats al rebre el vistiplau de Competència",
       "excerpt": "La cadena de supermercats Condis, participada pel fons d'inversió Portobello Capital, completa la integració de Roges Supermercats, una empresa familiar amb seu a Sallent (Bages) amb més de 80 anys d'història. La culminació d'aquest procés, iniciat el juny del 2024, arriba després que la Comissió Nacional dels Mercats i la Competència (CNMC) autoritzés l'operació la setmana passada, tal com ha detallat Condis aquest dimarts a través d'un comunicat.",
@@ -409,7 +609,7 @@
     },
     {
       "source": "ARA",
-      "title": "'Sorpasso' lingüístic als premis Gaudí: més candidates a millor pel·lícula en versió original catalana que en altres llengües",
+      "title": "'Sorpasso' lingüístic als Gaudí: més candidates a millor pel·lícula en català que en altres llengües",
       "excerpt": "Per primera vegada en la història dels premis Gaudí hi haurà més títols candidats en la categoria de millor pel·lícula, que agrupa els films en versió original catalana, que en la categoria de millor pel·lícula en llengua no catalana. Concretament, 21 llargmetratges opten a la nominació a millor pel·lícula, la xifra més alta de la història dels premis, per 20 llargmetratges que opten a la nominació a millor pel·lícula en llengua no catalana. La producció de cinema en versió catalana ha crescut un 50% respecte…",
       "url": "https://www.ara.cat/cultura/cinema/sorpasso-linguistic-als-premis-gaudi-mes-candidates-millor-pel-licula-versio-catalana-altres-llengues_1_5898570.html",
       "published": "2026-11-03T12:58:23+01:00",
@@ -479,8 +679,8 @@
     },
     {
       "source": "ARA",
-      "title": "Cinc avions han rebut amenaces de bomba en ple vol en diferents punts d'Europa en les últimes 24 hores",
-      "excerpt": "En les últimes 24 hores, cinc avions han rebut amenaces de bomba en ple vol en diferents punts d'Europa. Tres dels aparells havien sortit del Regne Unit i es dirigien a destinacions del continent, entre les quals Múrcia. El quart cobria la ruta entre Copenhaguen i Varsòvia. I el cinquè s'havia enlairat d'Israel, segons informen els mitjans de comunicació búlgars.",
+      "title": "Set avions han rebut amenaces de bomba en ple vol en diferents punts d'Europa en les últimes 24 hores",
+      "excerpt": "Degoteig continu d'amenaces de bomba contra avions en ple vol. En les últimes 24 hores, se n'han rebut set en diferents rutes europees. Tres dels aparells havien sortit del Regne Unit. Un quart cobria el trajecte entre Copenhaguen i Varsòvia. El cinquè s'havia enlairat d'Israel, segons informen els mitjans de comunicació búlgars, i ha acabat aterrant a Sofia, i dos més, de la companyia Ryanair, han sigut inspeccionats a l'aeroport de Fiumicino, a Roma, per la mateixa raó.",
       "url": "https://www.ara.cat/societat/successos/activat-protocol-d-emergencia-l-aeroport-murcia-avis-bomba-avio_1_5898573.html",
       "published": "2026-11-03T12:10:50+01:00",
       "category": "Actualitat",
@@ -858,16 +1058,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
-      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
-      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
-      "published": "2026-11-03T08:46:27+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "ARA",
       "title": "Bellini de passa-que-t'he-vist",
       "excerpt": "Reconec que no puc ser objectiu amb Bellini, i menys encara amb una de les obres que personalment considero més inútils del repertori: I Capuleti e i Montecchi . Una òpera que tan sols justifica la seva programació si el pretext és l'exhibició de bones veus amb musculatura belcantista per aguantar l'arquitectura antidramàtica i anticlimàtica d'un referent en el món del melodisme romàntic italià però que, al meu modest entendre, no aporta res a la grandesa del gènere líric. Sigui per l’excés d’autopréstecs, sigui per…",
@@ -1065,7 +1255,7 @@
     {
       "source": "3CatInfo",
       "title": "La policia desallotja l'acampada de la Puerta del Sol, on quedaven unes 300 persones",
-      "excerpt": "Els membres de l'Acampada 26S denuncien una intervenció violenta dels antiavalots que hauria deixat ferits pels cops i gas pebre",
+      "excerpt": "Els membres de l'Acampada 26S denuncien una intervenció violenta dels antiavalots, que hauria deixat ferits pels cops i el gas pebre",
       "url": "https://www.3cat.cat/3catinfo/la-policia-desallotja-lacampada-de-la-puerta-de-sol-on-quedaven-unes-300-persones/noticia/3437456/",
       "published": "2026-11-03T06:48:00+01:00",
       "category": "Actualitat",
