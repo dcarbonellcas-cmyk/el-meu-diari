@@ -57,6 +57,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo",
+      "title": "Els Estats Units voten en unes eleccions de mig mandat que són un plebiscit per a Trump",
+      "excerpt": "Prop de 250 milions de nord-americans escullen en aquestes midterms un terç del Senat i la totalitat de la Cambra de Representants, a més de governadors i alcaldies",
+      "url": "https://www.3cat.cat/3catinfo/els-estats-units-voten-en-unes-eleccions-de-mig-mandat-que-son-un-plebiscit-per-a-trump/noticia/3437713/",
+      "published": "2026-11-03T23:09:48+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/7/1793741291574.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dimecres: el sol torna amb allunyament de la pertorbació",
       "excerpt": "Matí fred amb boires a l'interior i dia assolellat amb bo a migdia",
@@ -416,12 +426,12 @@
       "published": "2026-11-03T06:51:55+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/2/1793725132126.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434312/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/puente-compareix-al-congres-amb-tota-loposicio-demanant-li-la-dimissio-per-laccident-de-toledo/noticia/3437431/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo",
@@ -440,6 +450,16 @@
     },
     {
       "source": "ARA",
+      "title": "Unes 'midterm' que definiran els dos últims anys de Trump",
+      "excerpt": "Milions d'estatunidencs voten aquest dimarts en unes eleccions de mig mandat que s'han viscut com un referèndum sobre Donald Trump, i que també constitueixen l'últim test per veure si la democràcia nord-americana pot posar límit a les aspiracions absolutistes del president. Les últimes enquestes apunten a una onada blava, encara que els demòcrates es mostren cautelosos després que en altres comicis les promeses dels sondejos no es complissin.",
+      "url": "https://www.ara.cat/internacional/estats-units/midterm-definiran-ultims-anys-trump_1_5899031.html",
+      "published": "2026-11-03T23:09:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/21698c1b-a1fd-4e82-b3c7-5216d03a16fb_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
       "title": "Posa-hi seny, Raphinha, sisplau: els apunts en calent del Barça-Aston Villa",
       "excerpt": "El Barça es va sobreposar a les baixes en defensa i va superar l'Aston Villa en un partit molt seriós a la Lliga de Campions.",
       "url": "https://www.ara.cat/esports/barca/posa-hi-seny-raphinha-sisplau-apunts-calent-barca-aston-villa_1_5899230.html",
@@ -450,18 +470,38 @@
     },
     {
       "source": "3CatInfo",
+      "title": "Sánchez agraeix la \"dignitat\" de Puente i el PP diu que la dimissió arriba \"116 vides tard\"",
+      "excerpt": "El Front Ampli també agraeix la decisió del fins ara ministre, mentre l'oposició critica la seva dimissió com a tardana i insuficient",
+      "url": "https://www.3cat.cat/3catinfo/sanchez-agraeix-la-dignitat-de-puente-i-el-pp-diu-que-la-dimissio-arriba-116-vides-tard/noticia/3437714/",
+      "published": "2026-11-03T22:52:39+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/5/1793741188656.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Barça trenca la imbatibilitat del Villa (3-0) per situar-se segon darrera del PSG",
+      "excerpt": "Lamine i Raphinha (2) marquen les diferències davant l'equip d'Emery que havia posat molts problemes a la primera part",
+      "url": "https://www.3cat.cat/3catinfo/en-directe-barca-aston-villa-els-de-flick-busquen-el-triomf-a-la-champions/noticia/3437428/",
+      "published": "2026-11-03T22:50:17+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/8/1793741649187.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
       "title": "El presumpte líder de Blocus va viatjar a París abans d'impulsar els aldarulls a Barcelona",
-      "excerpt": "El jove, detingut a Picanya, l'acusen de dirigir una estructura criminal per saquejar comerços",
+      "excerpt": "Al jove, detingut a Picanya, l'acusen de dirigir una estructura criminal per saquejar comerços",
       "url": "https://www.3cat.cat/3catinfo/el-presumpte-lider-de-blocus-va-viatjar-a-paris-abans-dimpulsar-els-aldarulls-a-barcelona/noticia/3437693/",
       "published": "2026-11-03T22:45:53+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/8/1793368126281.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434292/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/el-presumpte-lider-de-blocus-va-viatjar-a-paris-abans-dimpulsar-els-aldarulls-a-barcelona/noticia/3437693/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -536,7 +576,7 @@
     {
       "source": "3CatInfo",
       "title": "Óscar Puente, el boxejador digital del PSOE noquejat per les tragèdies a l'alta velocitat",
-      "excerpt": "La dimissió de Puente arriba en un moment delicat per al PSOE, amb la precampanya electoral en marxa i la gestió de la crisi ferroviària en el punt de mira",
+      "excerpt": "La dimissió de Puente arriba en un moment delicat per als socialistes, amb la precampanya electoral en marxa i la gestió de la crisi ferroviària en el punt de mira",
       "url": "https://www.3cat.cat/3catinfo/oscar-puente-el-boxejador-digital-del-psoe-noquejat-per-les-tragedies-a-lalta-velocitat/noticia/3436889/",
       "published": "2026-11-03T21:43:04+01:00",
       "category": "Actualitat",
@@ -551,7 +591,12 @@
       "published": "2026-11-03T21:42:13+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/2/1793731590027.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434297/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/missatges-de-mobil-implicarien-lexcap-de-gabinet-dilla-en-un-cas-de-presumpta-corrupcio-a-esparreguera/noticia/3437661/"
+      }
     },
     {
       "source": "betevé",
@@ -681,12 +726,12 @@
       "published": "2026-11-03T19:34:49+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/5/1793731310751.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434303/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/premi-cervantes-2026-a-la-catalana-cristina-fernandez-cubas-mestra-del-conte-i-el-relat-breu/noticia/3437690/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -1156,7 +1201,12 @@
       "published": "2026-11-03T15:05:25+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/8/1792506810282.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434266/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-suprem-tanca-la-causa-contra-puigdemont-comin-i-puig-que-queden-a-un-pas-de-lamnistia-definitiva/noticia/3435177/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -2076,7 +2126,7 @@
     {
       "source": "ARA",
       "title": "Óscar Puente dimiteix com a ministre de Transports: \"Per dignitat política\"",
-      "excerpt": "Sorpresa majúscula al Congrés. El ministre de Transports, Óscar Puente, ha anunciat en directe la seva dimissió, tot i que no es farà efectiva fins que es publiqui el seu cessament definitiu. També ha anunciat que no formarà part de les llistes electorals del PSOE pel pròxim 29-N. \"Per dignitat política, coherència i empatia amb les víctimes [de l'accident de trens]\", ha dit Puente, visiblement emocionat. El responsable de Transports ho ha fet després de comparèixer a petició pròpia per retre comptes, precisament, sobre el…",
+      "excerpt": "Sorpresa majúscula al Congrés. El ministre de Transports, Óscar Puente, ha anunciat en directe la seva dimissió, tot i que no es farà efectiva fins que es publiqui el seu cessament definitiu. També ha anunciat que no formarà part de les llistes electorals del PSOE per al 29-N. \"Per dignitat política, coherència i empatia amb les víctimes [de l'accident de trens]\", ha dit Puente, visiblement emocionat. El responsable de Transports ho ha anunciat després de comparèixer a petició pròpia per retre comptes, precisament, sobre el…",
       "url": "https://www.ara.cat/politica/congres-avalua-solitud-d-oscar-puente_1_5897797.html",
       "published": "2026-11-03T07:00:51+01:00",
       "category": "Actualitat",
@@ -2175,8 +2225,8 @@
     },
     {
       "source": "ARA",
-      "title": "El Barça reacciona a Europa amb una exhibició de contundència",
-      "excerpt": "El Barça va saber enllestir la feina, mantenint ferm el timó per no perdre el rumb, en una nit estranya on hauria pogut picar-se els dits si Joan Garcia no hagués estat encertat a la primera part (3-0). Un dia estrany, on els futbolistes semblaven tristos després de llevar-se amb la notícia que un company de feina havia perdut la vida a Tenerife. El futbol triomfa ja que porta alegries i permet oblidar per 90 minuts les misèries del dia a dia, però la tràgica…",
+      "title": "Contundència i gols per recuperar la rialla a Europa",
+      "excerpt": "El Barça va saber enllestir la feina, mantenint ferm el timó per no perdre el rumb, en una nit estranya en què hauria pogut picar-se els dits si Joan Garcia no hagués estat encertat a la primera part (3-0). Va ser un dia estrany, en què els futbolistes semblaven tristos després de llevar-se amb la notícia que un company de feina havia perdut la vida a Tenerife. El futbol triomfa perquè porta alegries i permet oblidar per 90 minuts les misèries del dia a dia,…",
       "url": "https://www.ara.cat/esports/barca/barca-aston-villa-champions-26-27_1_5897452.html",
       "published": "2026-11-03T00:05:21+01:00",
       "category": "Actualitat",
