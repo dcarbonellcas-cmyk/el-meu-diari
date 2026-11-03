@@ -3,18 +3,8 @@
   "items": [
     {
       "source": "ARA",
-      "title": "Baixen a 26 les víctimes ingressades en hospitals per l'accident ferroviari de Toledo",
-      "excerpt": "Un total de 26 ferits en l’accident ferroviari d'Urda, a Toledo, continuen ingressats en hospitals de Castella-la Manxa, cinc menys que diumenge passat. L’accident va deixar inicialment 110 hospitalitzats en sis centres, dels quals 84 ja han rebut l’alta.",
-      "url": "https://www.ara.cat/societat/baixen-26-victimes-ingressades-hospitals-l-accident-ferroviari-toledo_1_5898396.html",
-      "published": "2026-11-03T11:08:35+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/9400624b-56b9-4a71-ad05-42365a2acaeb_16-9-aspect-ratio_default_0.jpg",
-      "priority": "1 · Urgent"
-    },
-    {
-      "source": "ARA",
       "title": "Feijóo demana als sindicats que desconvoquin la vaga general: \"69 morts després és un greu error\"",
-      "excerpt": "A una setmana de la vaga general, Alberto Núñez Feijóo ha llançat una advertència als seus convocants. \"Abans era incomprensible, 69 morts després és un greu error\", ha afirmat el líder del PP aquest dimarts en un esmorzar informatiu organitzat per Europa Press. Feijóo ha demanat directament als sindicats que desconvoquin la protesta de l'11 de novembre i, els ha avisat que, si la mantenen, \"lligaran la seva imatge a Pedro Sánchez\". CCOO i UGT han fet cas omís de la crida i mantindran la…",
+      "excerpt": "A una setmana de la vaga general, Alberto Núñez Feijóo ha llançat una advertència als seus convocants. \"Abans era incomprensible, 69 morts després és un greu error\", ha afirmat el líder del PP aquest dimarts en un esmorzar informatiu organitzat per Europa Press. Feijóo ha demanat directament als sindicats que desconvoquin la protesta de l'11 de novembre i, els ha avisat que, si la mantenen, \"lligaran la seva imatge a Pedro Sánchez\". CCOO, UGT i el Sindicat de Llogateres han fet cas omís de la…",
       "url": "https://www.ara.cat/politica/feijoo-demana-als-sindicats-desconvoquin-vaga-general-69-morts-despres-greu-error_1_5898412.html",
       "published": "2026-11-03T09:41:57+01:00",
       "category": "Actualitat",
@@ -33,8 +23,38 @@
     },
     {
       "source": "VilaWeb",
-      "title": "L’ANC dóna suport a la vaga de l’11-N, però alerta que els partits espanyols se’n poden apropiar",
-      "excerpt": "L’entitat demana de secundar la mobilització de l’11 de novembre des d’espais independentistes i fa una crida a penjar senyeres i estelades als balcons",
+      "title": "L’AEC i la Plataforma per la Llengua impulsen una macroenquesta entre els docents per conèixer l’estat del català a les aules",
+      "excerpt": "Serà un qüestionari que pretén de fer una radiografia dels usos lingüístics als centres per a reclamar mesures eficients al Govern",
+      "url": "https://www.vilaweb.cat/noticies/aec-plataforma-llengua-impulsen-macroenquesta-docents-coneixer-estat-catala-aules/",
+      "published": "2026-11-03T12:49:24+01:00",
+      "category": "Educació",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Óscar Puente compareix al Congrés per l'accident de trens de Toledo",
+      "excerpt": "",
+      "url": "https://www.ara.cat/politica/oscar-puente-accident-ferroviari-toledo-compareixencia_6_5898574.html",
+      "published": "2026-11-03T12:32:44+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Unes 400 AFA demanen al govern una solució per recuperar les colònies i sortides escolars",
+      "excerpt": "Defensen que la suspensió de colònies -una mesura de protesta dels docents- és una pèrdua d'oportunitats per a l'alumnat i exigeixen a la consellera d'Educació que es torni a asseure a negociar amb els sindicats",
+      "url": "https://www.3cat.cat/3catinfo/unes-400-afa-demanen-al-govern-una-solucio-per-recuperar-les-colonies-i-sortides-escolars/noticia/3437470/",
+      "published": "2026-11-03T12:08:22+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/6/1793697764561.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’ANC dóna suport a la vaga de l’11 de novembre, però alerta que els partits espanyols se’n poden apropiar",
+      "excerpt": "L’entitat demana de secundar la mobilització de l’11 de novembre a partir d'espais independentistes i fa una crida a penjar senyeres i estelades als balcons",
       "url": "https://www.vilaweb.cat/noticies/lanc-dona-suport-a-la-vaga-de-l11-n-pero-alerta-que-els-partits-espanyols-sen-poden-apropiar/",
       "published": "2026-11-03T11:53:30+01:00",
       "category": "Societat",
@@ -49,6 +69,16 @@
       "published": "2026-11-03T11:41:33+01:00",
       "category": "educació",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/04/PROBLEMA-COLONIES-ESCOLARS.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Doble control humà, un nou software i IA: les mesures de l'Estat per millorar la seguretat a l'alta velocitat",
+      "excerpt": "El govern espanyol fa un pas endavant per donar resposta tant a la seguretat de la xarxa ferroviària com a les víctimes del tràgic accident a Urda, a la província de Toledo. El president del govern espanyol, Pedro Sánchez, ja va deixar entreveure poques hores després de l'accident la intenció d'aprovar mesures per reforçar la seguretat a l'alta velocitat. Un servei que, en paraules del mateix Sánchez, ha quedat \"tocat\" després que en menys d'un any s'hagin viscut dues tragèdies.",
+      "url": "https://www.ara.cat/societat/baixen-26-victimes-ingressades-hospitals-l-accident-ferroviari-toledo_1_5898396.html",
+      "published": "2026-11-03T11:08:35+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9400624b-56b9-4a71-ad05-42365a2acaeb_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -139,6 +169,106 @@
     },
     {
       "source": "VilaWeb",
+      "title": "Uns Gaudí de rècord pel cinema en català: una vintena de llargmetratges de ficció candidats als premis",
+      "excerpt": "Vuitanta-cinc produccions participen en la primera volta de votacions dels Gaudí",
+      "url": "https://www.vilaweb.cat/noticies/uns-gaudi-de-record-pel-cinema-en-catala-una-vintena-de-llargmetratges-de-ficcio-candidats-als-premis/",
+      "published": "2026-11-03T12:39:49+01:00",
+      "category": "Cinema i sèries",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Decreten llibertat vigilada per a les menors vinculades a Blocus detingudes ahir",
+      "excerpt": "Són dues adolescents de 14 anys i 17 a qui acusen d'haver planificat i coordinat els actes vandàlics del 24 d'octubre a Barcelona",
+      "url": "https://www.vilaweb.cat/noticies/llibertat-vigilada-menors-blocus/",
+      "published": "2026-11-03T12:32:26+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Jesús de Miguel, un obrer del gol que feia realitat el seu somni",
+      "excerpt": "El somni de Jesús de Miguel Alameda era ser futbolista professional. I després de molts anys treballant fort, per fi ho havia aconseguit. La mort del davanter del Tenerife ha commocionat el futbol mundial, deixant amb el cor trencat els amics que havia fet a ciutats com Castelló, Salamanca i especialment, Madrid.",
+      "url": "https://www.ara.cat/esports/futbol/jesus-miguel-obrer-gol-feia-realitat-somni_1_5898571.html",
+      "published": "2026-11-03T12:26:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2e936b11-c209-4bf9-8321-a372a7113c31_16-9-aspect-ratio_default_0_x323y138.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Jesús de Miguel, el golejador que va tornar el Castelló a segona divisió",
+      "excerpt": "Ex-entrenadors i ex-companys recorden la figura del davanter, que va marcar setze gols en la temporada de l'ascens",
+      "url": "https://www.vilaweb.cat/noticies/jesus-de-miguel-el-golejador-que-va-tornar-el-castello-a-segona-divisio/",
+      "published": "2026-11-03T12:17:29+01:00",
+      "category": "Esports",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El xoc entre dos helicòpters al camp base de l'Everest provoca la mort d'un turista indi",
+      "excerpt": "Un turista neozelandès, que ha resultat ferit greu, i els dos pilots dels aparells, ferits lleus, han estat traslladats a un hospital de Katmandú, al Nepal",
+      "url": "https://www.3cat.cat/3catinfo/el-xoc-entre-dos-helicopters-al-camp-base-de-leverest-provoca-la-mort-dun-turista-indi/noticia/3437503/",
+      "published": "2026-11-03T12:12:19+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/0/1793702713601.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Activat el protocol d'emergència a l'aeroport de Múrcia per un avís de bomba en un avió",
+      "excerpt": "Un avís de bomba en un avió de Ryaniar procedent de Manchester ha obligat aquest dimarts Aena a activar el protocol de seguretat a l'aeroport internacional de la Regió de Múrcia (AIRM). L'avió ha aterrat a les 10.30 hores, moment en què ha completat l'aterratge dins l'horari previst, segons ha confirmat a Europa Press el gestor aeroportuari.",
+      "url": "https://www.ara.cat/societat/successos/activat-protocol-d-emergencia-l-aeroport-murcia-avis-bomba-avio_1_5898573.html",
+      "published": "2026-11-03T12:10:50+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fe609989-0180-4436-9746-536b586c0636_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Carla Simón: “La dansa té una gran capacitat de dir coses des del gest”",
+      "excerpt": "La cineasta Carla Simón ha presentat la seva nova pel·lícula Flamenco a l’In-Edit, el festival de cinema documental musical de Barcelona. Es tracta del seu debut en el cinema musical i ho fa amb un curtmetratge que revisa el flamenc des d’una mirada contemporània i transgeneracional, que explora l’herència cultural i la llibertat creativa. Protagonitzat […]",
+      "url": "https://beteve.cat/cultura/carla-simon-dansa-flamenco-in-edit/",
+      "published": "2026-11-03T12:04:02+01:00",
+      "category": "cinema",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/021126-carla-simon-inedit-2026-11-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
+      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-11-03T12:03:51+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Rècord als Gaudí: 21 pel·lícules opten a la nominació a millor film en català",
+      "excerpt": "La cursa pels Premis Gaudí 2027 ja ha començat. L’Acadèmia del Cinema Català presenta aquest vespre, a l’Antiga Fàbrica Estrella Damm, les candidatures de la dinovena edició dels guardons, amb un total de 85 produccions inscrites. Una de les principals novetats és que, per primera vegada, els llargmetratges de ficció en versió original catalana superen […]",
+      "url": "https://beteve.cat/cultura/gaudi-21-pelicules-nominacio-catala/",
+      "published": "2026-11-03T12:02:55+01:00",
+      "category": "cinema",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/12/premis-gaudi-2-161225.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Aston Martin Valhalla Spider, el descapotable car i ple d’excessos que tots els rics volen comprar",
+      "excerpt": "Ara fa uns mesos Aston Martin va deixar tothom bocabadat amb la presentació del Valhalla, un esportiu de dues places, motor central i mecànica híbrida endollable que tot just ara presenta la seva versió descapotable o Spider. L’Aston Martin Valhalla Spider és un cotxe superlatiu en tots els aspectes: una potència desmesurada de 1.079 cavalls gràcies a un motor central de gasolina V8 i tres motors elèctrics auxiliars, una velocitat punta de 350 km/h (tot i que descapotat només pot assolir 200 km/h per motius…",
+      "url": "https://motor.ara.cat/novetats/aston-martin-valhalla-spider-descapotable-car-ple-d-excessos-tots-rics-volen-comprar_1_5898382.html",
+      "published": "2026-11-03T12:00:07+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/161f6ab6-9448-4b1a-b778-65ba973346d0_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
       "title": "“Amb el cor trencat i devastats”: commoció a Andorra per la mort de Jesús de Miguel",
       "excerpt": "Clubs de tots els Països Catalans han expressat el condol per la mort del futbolista",
       "url": "https://www.vilaweb.cat/noticies/amb-el-cor-trencat-i-devastats-commocio-a-andorra-per-la-mort-de-jesus-de-miguel/",
@@ -150,7 +280,7 @@
     {
       "source": "betevé",
       "title": "LOOP 2026: el festival de videoart de Barcelona",
-      "excerpt": "Arriba una nova edició del LOOP, el festival de videoart de Barcelona, una plataforma dedicada a l’estudi i la promoció de la imatge en moviment. L’esdeveniment es farà del 10 al 21 de novembre de 2026. Loop proposa exposicions, projeccions, performances i converses, consolidant-se com un punt de trobada privilegiat per a artistes, galeristes, comissaris, […]",
+      "excerpt": "Arriba una nova edició del LOOP, el festival de videoart de Barcelona, una plataforma dedicada a l’estudi i la promoció de la imatge en moviment. L’esdeveniment es farà del 10 al 21 de novembre del 2026. El LOOP proposa exposicions, projeccions, performances i converses, i es consolida com un punt de trobada privilegiat per a […]",
       "url": "https://beteve.cat/agenda/programa-loop-barcelona/",
       "published": "2026-11-03T11:42:17+01:00",
       "category": "Agenda de Barcelona",
@@ -174,7 +304,7 @@
       "url": "https://beteve.cat/economia/barcelona-aspira-fer-creixer-smart-city-expo-fins-atrapar-mobile/",
       "published": "2026-11-03T11:32:49+01:00",
       "category": "economia",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/IMG_5357-2026-11-03.jpeg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/Barcelona-smart-city-2026-11-03.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -210,7 +340,7 @@
     {
       "source": "3CatInfo",
       "title": "L'espera per treure's el carnet de conduir: entre 4 i 7 mesos entre la teòrica i les pràctiques",
-      "excerpt": "Només a la demarcació de Barcelona hi ha prop de 70.000 persones que s'esperen per començar les pràctiques un cop han superat l'examen teòric, segons avanaça \"El matí de Catalunya Ràdio\"",
+      "excerpt": "Només a la demarcació de Barcelona hi ha prop de 70.000 persones que s'esperen per començar les pràctiques un cop han superat l'examen teòric, segons avança \"El matí de Catalunya Ràdio\"",
       "url": "https://www.3cat.cat/3catinfo/lespera-per-treures-el-carnet-de-conduir-entre-4-i-7-mesos-entre-la-teorica-i-les-practiques/noticia/3437464/",
       "published": "2026-11-03T10:53:00+01:00",
       "category": "Actualitat",
@@ -250,7 +380,7 @@
     {
       "source": "betevé",
       "title": "El món del futbol, compungit per la mort de Jesús de Miguel, futbolista del Tenerife",
-      "excerpt": "El món del futbol s’ha bolcat en mostres de condol després de la mort de Jesús de Miguel, davanter del CD Tenerife, aquest dimarts, 3 de novembre, a les vuit del matí. El jugador, que tenia 30 anys, va patir dilluns una aturada cardiorespiratòria després d’un fort xoc amb el porter del FC Andorra Jesús […]",
+      "excerpt": "El món de l’esport s’ha bolcat en mostres de condol després de la mort de Jesús de Miguel, davanter del CD Tenerife, aquest dimarts, 3 de novembre, a les vuit del matí. El jugador, que tenia 30 anys, va patir dilluns una aturada cardiorespiratòria després d’un fort xoc amb el porter del FC Andorra Jesús […]",
       "url": "https://beteve.cat/esports/futbol-dol-mort-jesus-de-miguel-futbolista-del-tenerife/",
       "published": "2026-11-03T10:20:16+01:00",
       "category": "esports",
@@ -425,16 +555,6 @@
       "published": "2026-11-03T09:28:02+01:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2021/01/que-fer-amb-nens-a-barcelona-txt-01-1920x1080-1.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
-      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
-      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-11-03T09:26:40+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
       "priority": "3 · Altres notícies"
     },
     {
