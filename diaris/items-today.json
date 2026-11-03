@@ -9,12 +9,12 @@
       "published": "2026-11-03T15:59:22+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/png/2/2/1793709209322.png",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434136/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/lorthotomicus-el-petit-escarabat-perforador-que-mata-els-pins-a-pauls-arran-de-lincendi-i-la-calor/noticia/3437526/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "ARA",
@@ -35,6 +35,16 @@
       "category": "País Valencià",
       "image": null,
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "Sanitat limita les guàrdies dels metges residents a un màxim de 17 hores",
+      "excerpt": "Els metges interns residents (MIR) deixaran de fer guàrdies de 24 hores. El consell de ministres d'aquest dimarts ha donat llum verda a limitar les jornades a un màxim de 17 hores i també a millorar les retribucions, que, a més del sou, inclouran un complement de formació que augmentarà progressivament cada any de residència. La modificació de la jornada s'aplicarà a partir de l'1 de setembre de l'any que ve i l'increment de sou a partir de l'1 de gener. Amb tot, la jornada…",
+      "url": "https://www.ara.cat/societat/salut/sanitat-limita-guardies-dels-metges-residents-maxim-17-hores_1_5898931.html",
+      "published": "2026-11-03T18:28:28+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/368d53ce-c593-417d-ad06-2ce6f2e3b655_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -95,7 +105,7 @@
     {
       "source": "VilaWeb",
       "title": "Sanitat limita a un màxim de disset hores les guàrdies dels residents",
-      "excerpt": "El Consell de Ministres espanyol aprova noves garanties sobre jornada, descansos i prevenció de riscos",
+      "excerpt": "El consell de ministres espanyol aprova noves garanties sobre jornada, descansos i prevenció de riscos",
       "url": "https://www.vilaweb.cat/noticies/sanitat-limita-a-un-maxim-de-disset-hores-les-guardies-dels-residents/",
       "published": "2026-11-03T15:15:18+01:00",
       "category": "Sanitat",
@@ -104,7 +114,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El govern defensa el ministre Puente: “En aquests moments, fa allò que ha de fer”",
+      "title": "El govern d’Illa defensa el ministre Puente: “En aquests moments, fa allò que ha de fer”",
       "excerpt": "Paneque reitera l’oposició del govern al tancament provisional de la línia de gran velocitat entre Barcelona i Madrid",
       "url": "https://www.vilaweb.cat/noticies/govern-defensa-ministre-oscar-puente/",
       "published": "2026-11-03T14:52:49+01:00",
@@ -145,17 +155,17 @@
     {
       "source": "3CatInfo",
       "title": "Transports reforça la seguretat als trens amb més controladors i no tallarà per ara la línia Barcelona-Madrid",
-      "excerpt": "El ministre de Transports anuncia que reduirà les freqüències del corredor Madrid-Sevilla durant la represa, prevista per d'aquí deu dies",
+      "excerpt": "El ministre de Transports anuncia que reduirà les freqüències del corredor Madrid-Sevilla durant la represa, que es preveu uns deu dies després que la jutgessa autoritzi els treballs de les obres d'adequació",
       "url": "https://www.3cat.cat/3catinfo/puente-reforca-la-seguretat-als-trens-amb-mes-controladors-i-descarta-ara-tallar-la-linia-barcelona-madrid/noticia/3437538/",
       "published": "2026-11-03T13:51:44+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/3/1787301887932.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434182/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/puente-reforca-la-seguretat-als-trens-amb-mes-controladors-i-descarta-ara-tallar-la-linia-barcelona-madrid/noticia/3437538/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -335,12 +345,72 @@
       "published": "2026-11-03T06:49:17+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/5/1793652100357.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434192/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/eleccions-de-mig-mandat-als-estats-units-un-referendum-sobre-trump-que-els-democrates-esperen-guanyar/noticia/3436227/"
-      }
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Òscar Andreu",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/oscar-andreu/",
+      "published": "2026-11-03T18:44:42+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'entrada irregular d'immigrants a Espanya es reconfigura",
+      "excerpt": "Mig miler d'immigrants han arribat a les Canàries des de dissabte passat en vuit embarcacions diferents. A bord d'una d'elles, que va haver de ser rescatada de matinada uns 150 quilòmetres al nord-est d'Arrecife (Lanzarote), hi van trobar almenys set víctimes mortals . No es tracta d'un fet aïllat; són víctimes de la gran crisi migratòria que fa anys que es viu a la porta sud d'entrada a Europa. Les rutes que segueixen aquestes persones per fugir dels seus països d'origen han experimentat una profunda…",
+      "url": "https://www.ara.cat/societat/immigracio/l-entrada-irregular-d-immigrants-espanya-reconfigura_1_5887292.html",
+      "published": "2026-11-03T18:33:18+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/21d2ee18-44f8-41e9-ad5c-bfdcf97be955_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "[DADES] El català recula a Catalunya Nord: solament un 15% sap parlar-lo en una conversa simple",
+      "excerpt": "Una enquesta de l’Oficina Pública de la Llengua Catalana constata la reculada de la transmissió familiar i dels usos quotidians · Un 44% entén el català · Hi ha un augment del suport social: el 79% dels habitants defensa l’ensenyament bilingüe i el 63%, que sigui oficial",
+      "url": "https://www.vilaweb.cat/noticies/catala-catalunya-nord-conversa-simple/",
+      "published": "2026-11-03T18:32:22+01:00",
+      "category": "Llengua",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Una nova provocació de l’extrema dreta: el batlle d’Elna pretén de celebrar l’ocupació de Catalunya Nord per França",
+      "excerpt": "Steve Fortel ha organitzat un acte per a commemorar el Tractat dels Pirineus, que va dividir Catalunya el 1659 · L’ex-batlle Nicolas Garcia denuncia una nova ofensiva contra la catalanitat del municipi",
+      "url": "https://www.vilaweb.cat/noticies/extrema-dreta-batlle-delna-catalunya-nord-franca/",
+      "published": "2026-11-03T18:27:43+01:00",
+      "category": "Catalunya Nord",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un arbre a la carretera",
+      "excerpt": "A la carretera que mena cap a Manresa, just abans d'arribar al desviament que et porta al celler Oller del Mas, on una colla d'amants del vi fem el curs d'especialització en sommelieria de la Joviat, hi ha un plataner, com els que trobes en tantes carreteres rurals. Com en tants altres llocs (una tanca, un pont, una fita...), hi ha unes flors que indiquen que allà hi ha hagut un accident mortal. Les flors només s'hi posen si ha estat així. Em sembla recordar…",
+      "url": "https://www.ara.cat/opinio/arbre-carretera_129_5898975.html",
+      "published": "2026-11-03T18:07:47+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/df2f79cb-0657-46ee-870a-d8443b960cc9_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'Smart City Expo espera superar els 27.000 assistents per tractar \"el futur de les ciutats\"",
+      "excerpt": "La quinzena edició de l'Smart City Expo World Congress, el congrés dedicat a les ciutats intel·ligents celebrat a Barcelona, congregarà més de 27.000 assistents a Fira de Barcelona. L'edició d'enguany del certamen comptarà amb representants d'un miler de ciutats, amb més de 1.200 expositors i al voltant de 600 ponents internacionals. Sota el lema \" Urban solutions, real impact \", l'Smart City Expo congrega a la capital del país personalitats del món local com l'exalcaldessa de París, Anne Hidalgo; l'alcalde d'Atlanta, Andre Dickens, i representants…",
+      "url": "https://www.ara.cat/economia/tecnologia/l-smart-city-expo-espera-superar-27-000-assistents-tractar-futur-ciutats_1_5898906.html",
+      "published": "2026-11-03T18:05:26+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/59f3a6f2-f298-4e9e-bc78-afa0c05d0867_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -355,7 +425,7 @@
     {
       "source": "ARA",
       "title": "\"Aquest estiu m'he sentit com si pixéssim colònia\"",
-      "excerpt": "No té foto de WhatsApp, no queda clar si per opacitat estratègica d'artista o per timidesa natural. Quim Carandell (Barcelona, 1997) s'asseu a la terrassa on hem quedat i s'arrauleix dins d'una dessuadora que certifica l'arribada de la tardor. Ho celebro, perquè el cantant de la Ludwig Band, l'home insígnia del grup i el cervell darrere les lletres no podia concedir entrevistes fins després de l'estiu. Després d'anys creixent als marges, amb el darrer disc i la gira respectiva la Ludwig ha trencat el seu…",
+      "excerpt": "No té foto de WhatsApp, no queda clar si per opacitat estratègica d'artista o per timidesa natural. Quim Carandell (Barcelona, 1997) s'asseu a la terrassa on hem quedat i s'arrauleix dins d'una dessuadora que certifica l'arribada de la tardor. Ho celebro, perquè el cantant de La Ludwig Band , l'home insígnia del grup i el cervell darrere les lletres no podia concedir entrevistes fins després de l'estiu. Després d'anys creixent als marges, amb el darrer disc i la gira respectiva la Ludwig ha trencat el…",
       "url": "https://www.ara.cat/cultura/aquest-estiu-m-he-sentit-pixessim-colonia_128_5898493.html",
       "published": "2026-11-03T18:00:44+01:00",
       "category": "Actualitat",
@@ -403,6 +473,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Suspès l’Europa-Deportivo de la Copa de la Reina per la mort de Jesús de Miguel",
+      "excerpt": "La Federació Espanyola de Futbol ha decidit suspendre durant tres dies totes les seves competicions a causa de la mort de Jesús de Miguel. Per tant, tots els partits de Copa del Rei i de la Reina, que s’havien de jugar aquest dimarts, 3; dimecres, 4, i dijous, 5 de novembre, queden ajornats. Això afecta […]",
+      "url": "https://beteve.cat/esports/suspes-europa-deportivo-copa-reina-mort-jesus-miguel/",
+      "published": "2026-11-03T17:52:17+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/europa-femeni-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "La Cambra de Barcelona rebutja que es talli el tren de gran velocitat amb Madrid durant dos anys: “No hi ha alternatives viables”",
       "excerpt": "L’entitat alerta que ni els avions ni la xarxa ferroviària convencional podrien absorbir els 14,4 milions de viatgers anuals del corredor",
@@ -410,6 +490,16 @@
       "published": "2026-11-03T17:36:47+01:00",
       "category": "Economia",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Rosalía, Berto Romero, ‘Que no surti d’aquí’ i ‘Polònia’, Premis Ondas 2026",
+      "excerpt": "Els Premis Ondas 2026 han distingit Rosalía com a fenomen musical de l’any pel seu disc LUX, l’especial dels 20 anys del Polònia (TV3) com a millor programa d’entreteniment televisiu i Berto Romero com a millor comunicador per El consultorio de Berto (Movistar Plus). Són tres dels guardonats catalans en la 73a edició dels premis […]",
+      "url": "https://beteve.cat/cultura/rosalia-berto-romero-que-no-surti-aqui-polonia-premis-ondas-2026/",
+      "published": "2026-11-03T17:31:31+01:00",
+      "category": "comunicació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/03/rosalia-gira-lux.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -510,7 +600,7 @@
     {
       "source": "ARA",
       "title": "'Polònia', 'Que no surti d'aquí' i Berto Romero, premis Ondas",
-      "excerpt": "El programa Que no surti d'aquí , de Catalunya Ràdio, ha guanyat ex aequo el premi Ondas a la millor idea radiofònica. L'espai de la ràdio pública catalana, presentat per Roger Carandell, Marta Montaner i Juliana Canet, ha estat guardonat per ser una mostra de com ha evolucionat la ràdio i per \"obrir nous camins en els hàbits de consum entre el públic jove\". El jurat ha fet públic el veredicte aquest dimarts després que la setmana passada es decidís ajornar l'anunci a causa de…",
+      "excerpt": "El programa Que no surti d'aquí , de Catalunya Ràdio, ha guanyat ex aequo —amb Lo contó la ràdio, d'Onda Cero— el premi Ondas a la millor idea radiofònica. L'espai de la ràdio pública catalana, presentat per Roger Carandell, Marta Montaner i Juliana Canet, ha estat guardonat per ser una mostra de com ha evolucionat la ràdio i per \"obrir nous camins en els hàbits de consum entre el públic jove\". El jurat ha fet públic el veredicte aquest dimarts després que la setmana passada…",
       "url": "https://www.ara.cat/media/polonia-no-surti-d-berto-romero-premis-ondas_1_5898847.html",
       "published": "2026-11-03T16:14:16+01:00",
       "category": "Actualitat",
@@ -550,7 +640,7 @@
     {
       "source": "ARA",
       "title": "Sol Daurella repeteix com la persona més rica de Catalunya a la llista Forbes",
-      "excerpt": "Sol Daurella, presidenta de l'embotelladora Coca-Cola Europacific Partners (CCEP), repeteix com la persona més rica de Catalunya a la llista de grans fortunes de l'Estat publicada aquest dimarts per la revista Forbes . Amb un patrimoni de 3.500 milions d'euros (uns 600 més que el 2025), Daurella se situa en l'onzena posició a nivell espanyol en una classificació encapçalada una vegada més pel gallec Amancio Ortega, fundador del gegant de la moda Inditex —empresa matriu de cadenes com Zara, Stradivarius o Bershka—, que en un…",
+      "excerpt": "Sol Daurella, presidenta de l'embotelladora Coca-Cola Europacific Partners (CCEP), repeteix com la persona més rica de Catalunya a la llista de grans fortunes de l'Estat publicada aquest dimarts per la revista Forbes . Amb un patrimoni de 3.500 milions d'euros (uns 600 més que el 2025), Daurella se situa en l'onzena posició en l'àmbit espanyol en una classificació encapçalada una vegada més pel gallec Amancio Ortega, fundador del gegant de la moda Inditex —empresa matriu de cadenes com Zara, Stradivarius o Bershka—, que en un…",
       "url": "https://www.ara.cat/economia/directius/sol-daurella-repeteix-persona-mes-rica-catalunya-llista-forbes_1_5898806.html",
       "published": "2026-11-03T15:41:16+01:00",
       "category": "Actualitat",
@@ -1149,7 +1239,7 @@
     },
     {
       "source": "ARA",
-      "title": "Votacions en marxa: els Estats Units examinen Donald Trump",
+      "title": "Votacions en marxa: els Estats Units examinen Donald Trump, amb la popularitat en hores baixes",
       "excerpt": "",
       "url": "https://www.ara.cat/internacional/estats-units/punt-eleccions-mig-mandat-als-estats-units_6_5898426.html",
       "published": "2026-11-03T10:34:42+01:00",
@@ -1205,12 +1295,12 @@
       "published": "2026-11-03T10:18:20+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/8/1793700859885.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434195/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/els-100-espanyols-mes-rics-liderats-per-amancio-ortega-doblen-la-seva-fortuna-en-quatre-anys/noticia/3437475/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -1605,12 +1695,12 @@
       "published": "2026-11-03T06:48:00+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/4/1793691977747.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434183/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-policia-desallotja-lacampada-de-la-puerta-de-sol-on-quedaven-unes-300-persones/noticia/3437456/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
