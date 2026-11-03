@@ -9,7 +9,12 @@
       "published": "2026-11-03T15:59:22+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/png/2/2/1793709209322.png",
-      "priority": "1 · Urgent"
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434136/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/lorthotomicus-el-petit-escarabat-perforador-que-mata-els-pins-a-pauls-arran-de-lincendi-i-la-calor/noticia/3437526/"
+      }
     },
     {
       "source": "ARA",
@@ -30,6 +35,26 @@
       "category": "País Valencià",
       "image": null,
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "El Govern reivindica \"l'honestedat\" del cap de gabinet d'Illa que ha dimitit: \"Continuarà treballant al PSC\"",
+      "excerpt": "El Govern continua reivindicant \"l'honestedat\" i \"l'honorabilitat\" d'Eduard Rivas, el fins ara l'home fort de Salvador Illa . La portaveu del Govern, Sílvia Paneque, ha explicat que el president de la Generalitat ha descrit d'aquesta manera al consell executiu d'aquest dimarts l'excap de gabinet del president de la Generalitat, que va presentar la dimissió deu mesos després que sortís a la llum que se l'investigava judicialment per presumpta corrupció quan era alcalde d'Esparreguera. Així, la consellera de Territori ha assegurat que Rivas no ha abandonat…",
+      "url": "https://www.ara.cat/politica/govern/govern-reivindica-l-honestedat-cap-gabinet-d-illa-dimitit-continuara-treballant-psc_1_5898693.html",
+      "published": "2026-11-03T17:34:03+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/570be011-e07e-4cf1-a2aa-dec01f3256e7_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Les famílies mouen fitxa per les colònies: 400 AFA exigeixen al Govern \"mesures concretes\"",
+      "excerpt": "Aquest curs escolar és anòmal per a gran part de l'alumnat de Catalunya. Més de 1.000 centres educatius s'han quedat sense colònies ni sortides –o amb retallades importants– per decisió del professorat. Aquest moviment forma part d'una estratègia de pressió dels docents per reclamar que se'ls paguin aquestes sortides i pernoctacions (el curs passat ja es va establir que es compensaria amb 50 euros la nit, però els sindicats ho veuen insuficient) i, sobretot, per instar el departament d'Educació a asseure's a negociar les demandes…",
+      "url": "https://www.ara.cat/societat/educacio/families-mouen-fitxa-colonies-400-afa-exigeixen-govern-mesures-concretes_1_5898593.html",
+      "published": "2026-11-03T17:23:28+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/82178e1a-4496-4b05-9b6b-176e7d66c2e5_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo · El temps",
@@ -119,13 +144,18 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Puente reforça la seguretat als trens amb més controladors i descarta ara tallar la línia Barcelona-Madrid",
-      "excerpt": "El ministre de Transports anuncia que reduirà les freqüències del corredor Madrid-Sevilla durant la represa, prevista per d'aquí a deu dies",
+      "title": "Transports reforça la seguretat als trens amb més controladors i no tallarà per ara la línia Barcelona-Madrid",
+      "excerpt": "El ministre de Transports anuncia que reduirà les freqüències del corredor Madrid-Sevilla durant la represa, prevista per d'aquí deu dies",
       "url": "https://www.3cat.cat/3catinfo/puente-reforca-la-seguretat-als-trens-amb-mes-controladors-i-descarta-ara-tallar-la-linia-barcelona-madrid/noticia/3437538/",
       "published": "2026-11-03T13:51:44+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/3/1787301887932.jpg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434182/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/puente-reforca-la-seguretat-als-trens-amb-mes-controladors-i-descarta-ara-tallar-la-linia-barcelona-madrid/noticia/3437538/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -194,16 +224,6 @@
       "url": "https://www.vilaweb.cat/noticies/aec-plataforma-llengua-impulsen-macroenquesta-docents-coneixer-estat-catala-aules/",
       "published": "2026-11-03T12:49:24+01:00",
       "category": "Educació",
-      "image": null,
-      "priority": "2 · Important"
-    },
-    {
-      "source": "ARA",
-      "title": "Óscar Puente compareix al Congrés per l'accident de tren de Toledo",
-      "excerpt": "",
-      "url": "https://www.ara.cat/politica/oscar-puente-accident-ferroviari-toledo-compareixencia_6_5898574.html",
-      "published": "2026-11-03T12:32:44+01:00",
-      "category": "Actualitat",
       "image": null,
       "priority": "2 · Important"
     },
@@ -304,7 +324,7 @@
       "url": "https://www.3cat.cat/3catinfo/puente-compareix-al-congres-amb-tota-loposicio-demanant-li-la-dimissio-per-laccident-de-toledo/noticia/3437431/",
       "published": "2026-11-03T06:51:55+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/1/1793643058116.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1793725132126.jpg",
       "priority": "2 · Important"
     },
     {
@@ -315,7 +335,122 @@
       "published": "2026-11-03T06:49:17+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/5/1793652100357.jpg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434192/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/eleccions-de-mig-mandat-als-estats-units-un-referendum-sobre-trump-que-els-democrates-esperen-guanyar/noticia/3436227/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "Rússia i Ucraïna reprendran les negociacions la setmana que ve, després de nou mesos",
+      "excerpt": "Després de nou mesos, desenes de milers de soldats morts, prop de 3.000 víctimes civils i més de 150.000 drons i 1.500 míssils llançats, Rússia i Ucraïna es tornaran a asseure per discutir el final de la guerra. L’atac nord-americà a l’Iran va interrompre l’última ronda de converses a mitjans de febrer i, d’aleshores ençà, el conflicte no ha fet sinó escalar, encallat al front i cada dia més destructiu a les ciutats . El nou impuls d’un Donald Trump en campanya ha arrossegat Vladímir…",
+      "url": "https://www.ara.cat/internacional/europa/russia-ucraina-reprendran-negociacions-setmana-ve-despres-nou-mesos_1_5898942.html",
+      "published": "2026-11-03T18:02:18+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/157b0e1c-c338-4e10-b0ef-da27aa5c86c7_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Aquest estiu m'he sentit com si pixéssim colònia\"",
+      "excerpt": "No té foto de WhatsApp, no queda clar si per opacitat estratègica d'artista o per timidesa natural. Quim Carandell (Barcelona, 1997) s'asseu a la terrassa on hem quedat i s'arrauleix dins d'una dessuadora que certifica l'arribada de la tardor. Ho celebro, perquè el cantant de la Ludwig Band, l'home insígnia del grup i el cervell darrere les lletres no podia concedir entrevistes fins després de l'estiu. Després d'anys creixent als marges, amb el darrer disc i la gira respectiva la Ludwig ha trencat el seu…",
+      "url": "https://www.ara.cat/cultura/aquest-estiu-m-he-sentit-pixessim-colonia_128_5898493.html",
+      "published": "2026-11-03T18:00:44+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/aca987c1-17f9-4ec3-8df9-d0c8e7591e70_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La croada dels nens",
+      "excerpt": "Vaig llegir La croisade des enfants (1896) de Marcel Schwob a començaments dels vuitanta, quan feia primer o segon de carrera, en la preciosa i minúscula edició castellana de Tusquets amb pròleg de Borges (no sé on va anar a parar; recordo la seva coberta daurada). La vaig tornar a llegir en la seva llengua original fa poc, i em va continuar semblant una recreació literària extraordinària d'un fet històric adulterat, sens dubte, però en essència real. Aquests dies hi he pensat en relació a…",
+      "url": "https://www.ara.cat/opinio/croada-dels-nens_129_5897761.html",
+      "published": "2026-11-03T18:00:44+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/02fe6d8a-80f6-49c4-9d79-30a2fc70f843_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Entre la impotència i l'esperança",
+      "excerpt": "“Les xarxes no es limiten a reflectir els disturbis, sinó que els convoquen”. Ho deia la directora, Esther Vera, en la seva tribuna de dilluns , en la qual ens invitava a reflexionar sobre el destí de les democràcies en l’era digital, i m’hi apunto. És evident que la història dels mitjans de comunicació explica i acompanya l’evolució de les societats. I ho és també que en la modernitat –quan les tecnologies de la informació s’han anat modificant de manera cada cop més accelerada– la…",
+      "url": "https://www.ara.cat/opinio/impotencia-esperanca_129_5898459.html",
+      "published": "2026-11-03T18:00:44+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cbc46dd2-0cca-4865-9c1e-7d5d9b154160_16-9-aspect-ratio_default_0_x786y475.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Jugar net a futbol",
+      "excerpt": "L’entrada del porter de l’Andorra que va causar la mort del davanter del Tenerife va anar molt més enllà d’allò que en diem el límit del reglament. Un periodista que hagués estat narrant la jugada en directe probablement l’hauria pogut qualificar d’“entrada criminal”, una expressió que després de la mort de Jesús de Miguel adquireix un significat terrible.",
+      "url": "https://www.ara.cat/opinio/jugar-net-futbol_129_5898897.html",
+      "published": "2026-11-03T18:00:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2559becd-b2d4-452d-a7e4-e512bc6e484a_16-9-aspect-ratio_default_0_x979y387.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Pluja fins a la matinada i el fred tocarà fons les pròximes hores",
+      "excerpt": "La injecció d’aire fred procedent del nord-est d’Europa ha provocat un descens contundent de la temperatura que ha deixat un ambient aquest dimarts més propi de principis d’hivern que no pas de plena tardor. Ens hem hagut d’abrigar força més, i també hem hagut d’obrir el paraigua. I és que les pluges han anat guanyant terreny al llarg del dia. Les més importants han afectat la Costa Daurada, on des d’ahir a la nit s'han acumulat, per exemple, més de 85 l/m² a la ciutat…",
+      "url": "https://www.ara.cat/previsions/pluja-fins-matinada-fred-tocara-fons-proximes-hores_1_5898926.html",
+      "published": "2026-11-03T17:54:02+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/76a2f568-6f92-4c6f-99b6-35e97ce47ab4_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La Cambra de Barcelona rebutja que es talli el tren de gran velocitat amb Madrid durant dos anys: “No hi ha alternatives viables”",
+      "excerpt": "L’entitat alerta que ni els avions ni la xarxa ferroviària convencional podrien absorbir els 14,4 milions de viatgers anuals del corredor",
+      "url": "https://www.vilaweb.cat/noticies/la-cambra-de-barcelona-rebutja-que-es-talli-el-tren-de-gran-velocitat-amb-madrid-durant-dos-anys-no-hi-ha-alternatives-viables/",
+      "published": "2026-11-03T17:36:47+01:00",
+      "category": "Economia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El MNAC proposa iniciar els treballs per al trasllat de les pintures profanes el 17 de novembre",
+      "excerpt": "(ACN/Redacció) El MNAC ha traslladat aquest dimarts al govern d’Aragó una proposta de calendari i de pla de treball per al trasllat de les pintures profanes que preveu l’inici dels treballs a partir del pròxim 17 de novembre. La proposta arriba després que el divendres 23 d’octubre el govern d’Aragó enviés una altra carta al […]",
+      "url": "https://beteve.cat/cultura/mnac-proposa-iniciar-trasllat-pintures-profanes/",
+      "published": "2026-11-03T17:30:58+01:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/09/sixena-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Cinema familiar, canvi d'armari i petits mamífers: plans amb nens per a aquesta setmana",
+      "excerpt": "Les tardes s'escurcen i fa fred, però els caps de setmana estan plens de plans per fer en família. Com sempre, us hem preparat una selecció de plans per fer amb els vostres fills els dies 6, 7 i 8 de novembre, com ara gaudir de les primeres projeccions d'El Meu Primer Festival de Cinema; quedar bocabadats amb les instal·lacions lumíniques del Lluèrnia, el Festival del Foc i la Llum d'Olot, i fer el seguiment de petits mamífers a l'estany d'Ivars i Vila-sana, a l'Urgell.",
+      "url": "https://criatures.ara.cat/criatures/cinema-familiar-canvi-d-armari-petits-mamifers-plans-nens-aquesta-setmana_1_5897394.html",
+      "published": "2026-11-03T17:27:48+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cacd9b35-bb10-48f9-bc56-98e308ed5585_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Canvis a la TDT: què passarà i què cal fer a partir del 5 de novembre?",
+      "excerpt": "A partir del 5 de novembre, comença la primera fase dels canvis de la Televisió Digital Terrestre (TDT) cap a DVB-T2. Això vol dir que s’estrenaran emissions en ultra alta definició (UHD), es reorganitzaran diversos canals i, a més, començarà a funcionar una nova cadena: La Séptima. T’expliquem tot el que has de saber per posar […]",
+      "url": "https://beteve.cat/economia/canvis-tdt-que-passara-5-novembre/",
+      "published": "2026-11-03T17:20:00+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Copia-de-autobusos-plens-rodalies-071026-1-2026-10-09.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El MNAC proposa de començar el trasllat de les pintures profanes de Sixena el 17 de novembre",
+      "excerpt": "El museu trasllada al govern d'Aragó una proposta de calendari i de pla de treball",
+      "url": "https://www.vilaweb.cat/noticies/mnac-trasllat-pintures-profanes-sixena-17-novembre/",
+      "published": "2026-11-03T17:04:48+01:00",
+      "category": "Art i museus",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -340,7 +475,7 @@
     {
       "source": "3CatInfo",
       "title": "El \"Polònia, 20 anys\", de TV3, i \"Que no surti d'aquí\", de Catalunya Ràdio, Premis Ondas 2026",
-      "excerpt": "El lliurament dels guardons serà el 26 de novembre",
+      "excerpt": "El lliurament dels guardons serà el 26 de novembre al Gran Teatre del Liceu",
       "url": "https://www.3cat.cat/3catinfo/el-polonia-20-anys-de-tv3-i-que-no-surti-daqui-de-catalunya-radio-premis-ondas-2026/noticia/3437639/",
       "published": "2026-11-03T16:41:05+01:00",
       "category": "Actualitat",
@@ -365,17 +500,17 @@
       "published": "2026-11-03T16:16:37+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/7/1793717443572.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434145/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/un-ecograf-en-un-cap-la-proposta-dexit-de-cara-a-la-reforma-de-latencio-primaria/noticia/3437587/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
-      "title": "'Polònia', el 'Que no surti d'aquí' i Berto Romero, premis Ondas",
-      "excerpt": "El programa Que no surti d'aquí , de Catalunya Ràdio, ha guanyat ex-aequo el premi Ondas a la millor idea radiofònica. L'espai de la ràdio pública catalana, presentat per Roger Carandell, Marta Montaner i Juliana Canet, ha estat guardonat per ser una mostra de com ha evolucionat la ràdio i per \"obrir nous camins en els hàbits de consum entre el públic jove\". El jurat ha fet públic el veredicte aquest dimarts després que la setmana passada es decidís ajornar l'anunci a causa de l'accident…",
+      "title": "'Polònia', 'Que no surti d'aquí' i Berto Romero, premis Ondas",
+      "excerpt": "El programa Que no surti d'aquí , de Catalunya Ràdio, ha guanyat ex aequo el premi Ondas a la millor idea radiofònica. L'espai de la ràdio pública catalana, presentat per Roger Carandell, Marta Montaner i Juliana Canet, ha estat guardonat per ser una mostra de com ha evolucionat la ràdio i per \"obrir nous camins en els hàbits de consum entre el públic jove\". El jurat ha fet públic el veredicte aquest dimarts després que la setmana passada es decidís ajornar l'anunci a causa de…",
       "url": "https://www.ara.cat/media/polonia-no-surti-d-berto-romero-premis-ondas_1_5898847.html",
       "published": "2026-11-03T16:14:16+01:00",
       "category": "Actualitat",
@@ -445,7 +580,7 @@
     {
       "source": "ARA",
       "title": "El compte d'Instagram que vinculen a l'alcalde de Salou per difamar rivals polítics",
-      "excerpt": "Nou terratrèmol a Salou, amb dures acusacions contra l'alcalde, Pere Granados. Aquest dilluns ERC va acusar-lo públicament d'estar directament al darrere d'un compte veïnal d'Instagram, Vecinos de Salou , per \"fer campanya i joc brut\" contra rivals polítics sense \"donar la cara\" i darrere l'aparença d'entitat veïnal. Aquest dimarts Vox ha anat encara més enllà i ha anunciat una querella criminal per injúries i calúmnies contra l'alcalde. Aquest diari ha constatat que el correu electrònic que hi ha associat al compte de la xarxa social…",
+      "excerpt": "Nou terratrèmol a Salou, amb dures acusacions contra l'alcalde, Pere Granados (Sumem-PSC). Aquest dilluns ERC va acusar-lo públicament d'estar directament al darrere d'un compte veïnal d'Instagram, Vecinos de Salou , per \"fer campanya i joc brut\" contra rivals polítics sense \"donar la cara\" i darrere l'aparença d'entitat veïnal. Aquest dimarts Vox ha anat encara més enllà i ha anunciat una querella criminal per injúries i calúmnies contra l'alcalde. Aquest diari ha constatat que el correu electrònic que hi ha associat al compte de la xarxa…",
       "url": "https://www.ara.cat/politica/compte-d-instagram-vinculen-l-alcalde-salou-difamar-rivals-politics_1_5898472.html",
       "published": "2026-11-03T15:08:12+01:00",
       "category": "Actualitat",
@@ -524,12 +659,32 @@
     },
     {
       "source": "betevé",
+      "title": "El DHub reivindica la figura d’Asunción Bastida, la Chanel barcelonina",
+      "excerpt": "La nova exposició del Disseny Hub Barcelona, “Asunción Bastida. Barcelona i l’alta costura“, neix en unes capses de records familiars de la comissària Laura Ballarín Bescós. La seva bestia, Vicky Ballarín, les havia conservades fins a la seva mort i quan les va obrir hi va trobar centenars de fotografies, retalls de premsa i vestits […]",
+      "url": "https://beteve.cat/cultura/dhub-reivindica-asuncion-bastida-chanel-barcelonina/",
+      "published": "2026-11-03T14:50:18+01:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/dhub-bastida-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "El Barça i Joan Laporta, consternats per la mort de Jesús de Miguel",
       "excerpt": "El president del Barça, Joan Laporta, ha mostrat la seva tristesa i consternació per la mort del jugador del Tenerife Jesús de Miguel. El màxim mandatari blaugrana ha estat clar quan ha assegurat que “aquesta notícia ens ha commocionat profundament”. El Barça guardarà un minut de silenci Aquestes paraules, Joan Laporta les ha pronunciades just […]",
       "url": "https://beteve.cat/esports/barca-joan-laporta-consternats-mort-jesus-miguel/",
       "published": "2026-11-03T14:49:50+01:00",
       "category": "esports",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/11/031126CM_laporta_condol_4-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els eixos verds de l’Eixample sumen 2.500 multes per estacionament des del gener",
+      "excerpt": "La càrrega i descàrrega als eixos verds de l’Eixample, especialment al carrer del Consell de Cent, continua generant problemes de mobilitat. En una reunió entre entitats veïnals, la Guàrdia Urbana i BSM, s’han posat sobre la taula les dades de control de les zones de distribució urbana de mercaderies (DUM). Segons ha pogut saber l’Infobarris, […]",
+      "url": "https://beteve.cat/societat/eixos-verds-eixample-2500-multes-estacionament/",
+      "published": "2026-11-03T14:48:19+01:00",
+      "category": "civisme",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/10/eixos-verd-carrega-081025.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -615,7 +770,7 @@
     {
       "source": "ARA",
       "title": "Els ciberatacs als supermercats encenen les alarmes a Brussel·les: \"No són fets aïllats\"",
-      "excerpt": "L'onada de ciberatacs contra els sistemes de refrigeració dels supermercats continua estenent-se i, després d'afectar aquest matí cadenes de Portugal, ja compta amb vuit països afectats. Davant d'aquest escenari, la Unió Europea ha defensat que no s'han de tractar com a fets aïllats i que cal preparar una resposta conjunta.",
+      "excerpt": "L'onada de ciberatacs contra els sistemes de refrigeració dels supermercats continua estenent-se i, després d'afectar aquest dimarts cadenes de Portugal, ja compta amb vuit països afectats. Davant d'aquest escenari, la Unió Europea ha defensat que no s'han de tractar com a fets aïllats i que cal preparar una resposta conjunta.",
       "url": "https://www.ara.cat/internacional/europa/ue-avisa-ciberatacs-als-supermercats-no-son-fets-aillats-reclama-resposta-conjunta_1_5898484.html",
       "published": "2026-11-03T14:02:11+01:00",
       "category": "Actualitat",
@@ -803,6 +958,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "ARA",
+      "title": "Puente reconeix la gravetat de la situació i diu que treballarà per \"recuperar la confiança en l'alta velocitat\"",
+      "excerpt": "",
+      "url": "https://www.ara.cat/politica/oscar-puente-accident-ferroviari-toledo-compareixencia_6_5898574.html",
+      "published": "2026-11-03T12:32:44+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Decreten llibertat vigilada per a les menors vinculades a Blocus detingudes ahir",
       "excerpt": "Són dues adolescents de 14 anys i 17 a qui acusen d'haver planificat i coordinat els actes vandàlics del 24 d'octubre a Barcelona",
@@ -845,7 +1010,7 @@
     {
       "source": "ARA",
       "title": "Vuit avions han rebut falses amenaces de bomba en diferents punts d'Europa en les últimes 24 hores",
-      "excerpt": "Degoteig continu de falses amenaces de bomba contra avions en ple vol en diferents rutes europees. En les últimes 24 hores se n'han registrat vuit. Ahir, dilluns, es va produir el primer incident ; els altres set han tingut lloc aquest dimarts. Quatre dels vuit avions afectats són de Ryanair; un, de SAS; un altre, de LOT, i dos, de Wizz Air. Tres dels aparells, el que va ser objecte de l'amenaça dilluns, i dos dels afectats avui, havien sortit del Regne Unit. Un quart…",
+      "excerpt": "Degoteig continu de falses amenaces de bomba contra avions en ple vol en diferents rutes europees. En les últimes 24 hores se n'han registrat vuit. Ahir, dilluns, es va produir el primer incident ; els altres set han tingut lloc aquest dimarts. Quatre dels vuit avions afectats són de Ryanair; un de SAS; un altre de LOT i dos de Wizz Air. Tres dels aparells –el que va ser objecte d'amenaça dilluns i dos dels afectats avui–, havien sortit del Regne Unit; un altre cobria…",
       "url": "https://www.ara.cat/societat/successos/activat-protocol-d-emergencia-l-aeroport-murcia-avis-bomba-avio_1_5898573.html",
       "published": "2026-11-03T12:10:50+01:00",
       "category": "Actualitat",
@@ -1040,7 +1205,12 @@
       "published": "2026-11-03T10:18:20+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/8/1793700859885.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434195/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/els-100-espanyols-mes-rics-liderats-per-amancio-ortega-doblen-la-seva-fortuna-en-quatre-anys/noticia/3437475/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -1145,7 +1315,7 @@
     {
       "source": "ARA",
       "title": "Mor el jugador del Tenerife Jesús de Miguel després d'una dura entrada del porter de l'Andorra",
-      "excerpt": "El futbolista del CD Tenerife Jesús de Miguel ha mort aquest dimarts, segons ha informat el club. El jugador va patir una aturada cardiorespiratòria després d'una entrada del porter de l'Andorra i va ser traslladat d'urgència a l'hospital, però els metges no han pogut fer res per salvar-li la vida.",
+      "excerpt": "El futbolista del CD Tenerife Jesús de Miguel ha mort aquest dimarts als 30 anys, segons ha informat el club. El jugador va patir una aturada cardiorespiratòria després d'una entrada del porter de l'Andorra i va ser traslladat d'urgència a l'hospital, però els metges no han pogut fer res per salvar-li la vida.",
       "url": "https://www.ara.cat/esports/futbol/mor-jugador-tenerife-jesus-miguel_1_5898423.html",
       "published": "2026-11-03T09:45:08+01:00",
       "category": "Actualitat",
@@ -1324,8 +1494,8 @@
     },
     {
       "source": "ARA",
-      "title": "Els EUA bombardegen una illa d'Ormuz mentre continuen negociant amb l'Iran",
-      "excerpt": "Els Estats Units han llançat \"atacs defensius\" contra posicions iranianes a l'estret d'Ormuz aquest dimarts a la matinada. L'episodi té lloc just el vespre abans de les eleccions de mig mandat, en què s'espera que Donald Trump perdi el control del Congrés, després de setmanes de filtracions sobre la possibilitat que Washington reprengués l'ofensiva a l'Orient Mitjà. Malgrat l'escalada, el vicepresident dels EUA, J.D. Vance, diu que les negociacions indirectes amb Teheran \"progressen\", mentre que el règim insta els Estats Units a aixecar el bloqueig…",
+      "title": "Trump diu que posarà fi a l'ajuda econòmica a Israel",
+      "excerpt": "El president estatunidenc Donald Trump diu que suspendrà l'ajuda econòmica anual de 4.000 milions de dòlars que els Estats Units envien a Israel. \"Bibi [Netanyahu] i jo vam arribar a un acord per donar-li 4.000 milions de dòlars a l'any i fa mesos que vam arribar a un acord per deixar de fer-ho\", ha dit el republicà aquest dimarts matí en una entrevista a la Fox. El mandatari ha deixat anar l'anunci just quan els estatunidencs estan votant en unes eleccions de mig mandat en…",
       "url": "https://www.ara.cat/internacional/estats-units/eua-bombardegen-objectius-l-estret-d-ormuz-eleccions-mig-mandat_1_5898223.html",
       "published": "2026-11-03T07:16:38+01:00",
       "category": "Actualitat",
@@ -1435,7 +1605,12 @@
       "published": "2026-11-03T06:48:00+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/4/1793691977747.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434183/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-policia-desallotja-lacampada-de-la-puerta-de-sol-on-quedaven-unes-300-persones/noticia/3437456/"
+      }
     },
     {
       "source": "VilaWeb",
