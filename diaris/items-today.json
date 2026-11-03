@@ -2,6 +2,16 @@
   "date": "2026-11-03",
   "items": [
     {
+      "source": "betevé",
+      "title": "Puente dimiteix: “És una qüestió de dignitat política, coherència i empatia amb les víctimes”",
+      "excerpt": "(ACN) El ministre de Transports, Óscar Puente, ha anunciat la seva dimissió “per dignitat política” arran de l’accident d’Urda. “Un ministre de Transports no pot continuar en el càrrec amb dos accidents d’aquesta gravetat en menys d’un any, per molt diferents que siguin i tingui o no responsabilitat directa en aquests accidents: és una qüestió […]",
+      "url": "https://beteve.cat/politica/puente-dimiteix-dignitat-politica-despres-compareixenca-congres/",
+      "published": "2026-11-03T21:27:43+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/oscar-puente-dimiteix-2026-11-03.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo",
       "title": "L'Orthotomicus, el petit escarabat perforador que mata els pins a Paüls arran de l'incendi i la calor",
       "excerpt": "Agricultura farà un seguiment de l'insecte amb trampes de feromones i retirarà la fusta morta afectada per evitar-ne la propagació",
@@ -35,6 +45,16 @@
       "category": "País Valencià",
       "image": null,
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Crisi al govern espanyol en plena campanya: Óscar Puente dimiteix",
+      "excerpt": "El ministre de Transports espanyol ha anunciat la dimissió durant la compareixença al congrés espanyol · També renuncia a presentar-se a les eleccions espanyoles",
+      "url": "https://www.vilaweb.cat/noticies/oscar-puente-anuncia-que-presentara-la-dimissio-despres-de-compareixer-per-laccident-durda/",
+      "published": "2026-11-03T21:13:59+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -75,12 +95,12 @@
       "published": "2026-11-03T18:54:05+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/9/1793726541592.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434143/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/una-familia-de-calella-ha-de-viure-en-un-local-amb-5-fills-un-cas-mes-de-la-crisi-dhabitatge/noticia/3437588/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -365,22 +385,22 @@
     },
     {
       "source": "ARA",
-      "title": "El Congrés avalua la solitud d'Óscar Puente",
-      "excerpt": "A poques hores perquè es compleixi una setmana de l'accident ferroviari de Toledo, Óscar Puente compareixerà a la diputació permanent del Congrés per donar explicacions. El ministre de Transports ha estat el gran assenyalat per la tragèdia que ha deixat 69 víctimes mortals i haurà d'enfrontar-se als retrets de pràcticament tot l'arc parlamentari a menys d'un mes del 29-N. Fonts del ministeri de Transports indiquen que es plantegen la compareixença de Puente com una oportunitat per continuar donant \"explicacions\" i prometen \"transparència\". Les mateixes fonts…",
-      "url": "https://www.ara.cat/politica/congres-avalua-solitud-d-oscar-puente_1_5897797.html",
-      "published": "2026-11-03T07:00:51+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/0b3dba13-0df6-48e9-9c31-1a4f37a24a10_16-9-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "ARA",
       "title": "Guia de les 'midterm': 10 coses que has de saber d'aquestes eleccions crucials",
       "excerpt": "Les midterm se celebren cada quatre anys, coincidint amb l’equador dels mandats presidencials, i acostumen a perjudicar el partit que hi ha a la Casa Blanca. Més enllà del plebiscit a Trump, els comicis d'aquest any representen una oportunitat per intentar recuperar part dels guarda-raïls al poder executiu que el republicà ha erosionat durant els quasi dos cursos de mandat. Amb una majoria conservadora instal·lada al Tribunal Suprem, si els demòcrates aconsegueixen recuperar el control de les dues cambres tindran una mica de marge per…",
       "url": "https://www.ara.cat/internacional/estats-units/guia-midterms-10-coses-has-d-aquestes-eleccions-crucials_1_5894039.html",
       "published": "2026-11-03T07:00:49+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/ccb49b4f-f494-440d-bb20-dd681f0af319_source-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Puente dimiteix per sorpresa després de 4 hores de compareixença al Congrés: \"Ho faig per dignitat\"",
+      "excerpt": "L'oposició i els socis de Sumar havien insistit en demanar la dimissió del ministre en la seva compareixença al Congrés",
+      "url": "https://www.3cat.cat/3catinfo/puente-compareix-al-congres-amb-tota-loposicio-demanant-li-la-dimissio-per-laccident-de-toledo/noticia/3437431/",
+      "published": "2026-11-03T06:51:55+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1793725132126.jpg",
       "priority": "2 · Important"
     },
     {
@@ -397,6 +417,76 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/eleccions-de-mig-mandat-als-estats-units-un-referendum-sobre-trump-que-els-democrates-esperen-guanyar/noticia/3436227/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "“Hem escrit les bases pensant en vosaltres”: els missatges que empastifen l’ex-cap de gabinet d’Illa",
+      "excerpt": "Els Mossos han trobat converses d’Eduard Rivas que apunten a presumptes adjudicacions de contractes públics fetes a mida durant la seva etapa com a batlle d’Esparreguera",
+      "url": "https://www.vilaweb.cat/noticies/missatges-empastifen-ex-cap-gabinet-illa/",
+      "published": "2026-11-03T21:48:35+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El MNAC proposa iniciar el trasllat de les pintures profanes de Sixena el 17 de novembre",
+      "excerpt": "El calendari i el pla de treball s'han comunicat al govern d'Aragó després d'una picabaralla sobre les dates des del juliol",
+      "url": "https://www.3cat.cat/3catinfo/el-mnac-proposa-iniciar-el-trasllat-de-les-pintures-profanes-de-sixena-el-17-de-novembre/noticia/3437659/",
+      "published": "2026-11-03T21:43:52+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/2/2/1793725031922.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El dòberman de Sánchez més odiat per la dreta a qui han doblegat les tragèdies ferroviàries",
+      "excerpt": "Fins al 26 de setembre de 2023, dia del debat de la investidura fallida d'Alberto Núñez Feijóo al Congrés, Óscar Puente (Valladolid, 1968) era pràcticament un desconegut pel gran públic. L'encàrrec de Pedro Sánchez a aquest diputat ras del PSOE, exalcalde de Valladolid, de donar la rèplica al líder del PP el va catapultar mediàticament. Sobretot pel seu to provocador i el contingut punyent del seu discurs. Aquell dia van proliferar els articles explicant qui era Puente, la sorpresa de la jornada, que aviat es…",
+      "url": "https://www.ara.cat/politica/doberman-sanchez-mes-odiat-dreta-han-doblegat-tragedies-ferroviaries_1_5893998.html",
+      "published": "2026-11-03T21:43:27+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ffc302df-837c-4b86-9365-c89473ccdb49_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Óscar Puente, el boxejador digital del PSOE noquejat per les tragèdies a l'alta velocitat",
+      "excerpt": "La dimissió de Puente arriba en un moment delicat per al PSOE, amb la precampanya electoral en marxa i la gestió de la crisi ferroviària en el punt de mira",
+      "url": "https://www.3cat.cat/3catinfo/oscar-puente-el-boxejador-digital-del-psoe-noquejat-per-les-tragedies-a-lalta-velocitat/noticia/3436889/",
+      "published": "2026-11-03T21:43:04+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/8/1793293692589.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Missatges de mòbil implicarien l'excap de gabinet d'Illa en un cas de presumpta corrupció a Esparreguera",
+      "excerpt": "La defensa de Rivas indica que els missatges que l'incriminen estarien \"fora de context\" i que la investigació \"no li atribueix l'apropiació de diners públics\"",
+      "url": "https://www.3cat.cat/3catinfo/missatges-de-mobil-implicarien-lexcap-de-gabinet-dilla-en-un-cas-de-presumpta-corrupcio-a-esparreguera/noticia/3437661/",
+      "published": "2026-11-03T21:42:19+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/2/1793731590027.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Tres vagons d’un tren de mercaderies descarrilen i xoquen amb una locomotora sense provocar ferits",
+      "excerpt": "(ACN) Tres vagons d’un tren de mercaderies han descarrilat i han xocat amb una locomotora a Martorell. Fonts de Renfe han informat que l’incident no ha provocat ferits. Tot i això, el maquinista que es trobava a la locomotora afectada ha anat a l’hospital, seguint el protocol establert, però es troba bé, segons indica la […]",
+      "url": "https://beteve.cat/societat/descarrilen-vagons-tren-mercaderies-xoc-locomotora-martorell/",
+      "published": "2026-11-03T21:40:15+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/xoc-vagons-locomotora-martorell-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona no guanya: els millors panettones 2026 es fan al Vallès Oriental i a Alacant",
+      "excerpt": "Per aconseguir el millor panettone de tot l’estat, el clàssic, el de fruita confitada i panses, haurem de fer uns quants quilòmetres fins a la pastisseria Vallflorida Xocolaters, a Sant Esteve de Palautordera, i tastar la proposta dels germans Lluís i Gerard Costa. Barcelona tampoc no ha guanyat en la categoria de xocolata, premi que […]",
+      "url": "https://beteve.cat/estils-de-vida/barcelona-no-guanya-premi-millors-panettone-2026/",
+      "published": "2026-11-03T21:01:24+01:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/panettone-guanyadors-forum-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -440,8 +530,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Tres vagons d’un tren de mercaderies descarrilen i xoquen amb una locomotora sense provocar ferits a Martorell",
-      "excerpt": "RENFE explica que el maquinista ha anat a l'hospital per protocol però que està bé",
+      "title": "Tres vagons d’un tren de mercaderies descarrilen i xoquen amb una locomotora sense causar ferits a Martorell",
+      "excerpt": "RENFE explica que el maquinista ha anat a l'hospital seguint el protocol, però que està bé",
       "url": "https://www.vilaweb.cat/noticies/tres-vagons-dun-tren-de-mercaderies-descarrilen-i-xoquen-amb-una-locomotora-sense-provocar-ferits-a-martorell/",
       "published": "2026-11-03T20:31:48+01:00",
       "category": "Societat",
@@ -596,12 +686,12 @@
       "published": "2026-11-03T18:49:48+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/3/1793717361232.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434134/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/denunciat-un-venedor-de-vehicles-de-segona-ma-de-vilanova-i-la-geltru-per-una-vintena-destafes/noticia/3437635/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -1885,6 +1975,16 @@
     },
     {
       "source": "ARA",
+      "title": "Óscar Puente dimiteix com a ministre de Transports per l'accident de trens",
+      "excerpt": "Després de donar explicacions al Congrés durant tota la tarda, el ministre de Transports, Óscar Puente, ha anunciat en directe que dimiteix com a ministre de Transports després de l'accident de Trens. Per \"dignitat\", ha dit Puente.",
+      "url": "https://www.ara.cat/politica/congres-avalua-solitud-d-oscar-puente_1_5897797.html",
+      "published": "2026-11-03T07:00:51+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ff61833a-df20-4d68-88b4-7fa56104ffde_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
       "title": "Pols a Junts: Comín és reticent a entrar al grup liberal de l'Eurocambra",
       "excerpt": "Quan es va signar l'adhesió de Junts als centristes liberals del Partit Demòcrata Europeu (PDE) el moviment natural era la seva integració al grup liberal Renew del Parlament Europeu. Dins de Junts múltiples veus tenien clar aquest camí, que referma l'aposta pel centrisme, el mateix que el PNB i que havia seguit Convergència. Però tot plegat xoca amb la voluntat de l'eurodiputat de Junts. Tal com va expressar públicament aquest dilluns, Toni Comín té reticències sobre el fet d'entrar en aquest grup parlamentari un cop…",
       "url": "https://www.ara.cat/politica/pols-junts-comin-reticent-entrar-grup-liberal-l-eurocambra_1_5897798.html",
@@ -1936,16 +2036,6 @@
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/descobreixen-el-llegat-de-lavi-2000-dibuixos-de-peces-de-serralleria-artistica-del-modernisme/noticia/3437414/"
       },
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "3CatInfo",
-      "title": "Puente insisteix a apuntar a un error humà en l'accident a Toledo: \"L'alternativa era ocultar-ho?\"",
-      "excerpt": "L'oposició i els socis de Sumar insisteixen en demanar la dimissió del ministre en la seva compareixença al Congrés",
-      "url": "https://www.3cat.cat/3catinfo/puente-compareix-al-congres-amb-tota-loposicio-demanant-li-la-dimissio-per-laccident-de-toledo/noticia/3437431/",
-      "published": "2026-11-03T06:51:55+01:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1793725132126.jpg",
       "priority": "3 · Altres notícies"
     },
     {
