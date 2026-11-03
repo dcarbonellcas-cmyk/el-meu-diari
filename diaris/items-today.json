@@ -14,7 +14,7 @@
     {
       "source": "VilaWeb",
       "title": "Les víctimes de la gota freda exigeixen a Feijóo que retiri el suport a Mazón un any després de la dimissió",
-      "excerpt": "Denuncien que l’ex-president continua aforat i cobrant un sou públic, i acusa el PP de protegir-lo i d'evitar responsabilitats",
+      "excerpt": "Denuncien que l’ex-president continua aforat i cobrant un sou públic, i acusen el PP de protegir-lo i de no assumir responsabilitats",
       "url": "https://www.vilaweb.cat/noticies/les-victimes-de-la-gota-freda-exigeixen-a-feijoo-que-retiri-el-suport-a-mazon-un-any-despres-de-la-dimissio/",
       "published": "2026-11-03T09:17:12+01:00",
       "category": "País Valencià",
@@ -22,12 +22,12 @@
       "priority": "1 · Urgent"
     },
     {
-      "source": "VilaWeb",
-      "title": "La policia espanyola desallotja l’acampada de l’habitatge de la Puerta del Sol de Madrid",
-      "excerpt": "Hi ha dos detinguts per desobediència i resistència",
-      "url": "https://www.vilaweb.cat/noticies/policia-desallotja-acampada-habitatge-madrid/",
-      "published": "2026-11-03T08:08:10+01:00",
-      "category": "Espanya",
+      "source": "ARA",
+      "title": "Tot a punt per les eleccions de mig mandat als Estats Units",
+      "excerpt": "",
+      "url": "https://www.ara.cat/internacional/estats-units/punt-eleccions-mig-mandat-als-estats-units_6_5898426.html",
+      "published": "2026-11-03T10:34:42+01:00",
+      "category": "Actualitat",
       "image": null,
       "priority": "2 · Important"
     },
@@ -37,9 +37,9 @@
       "excerpt": "El termòmetre quedarà amb màximes entre els 10 i els 15 graus a Catalunya",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-notable-i-generalitzat-descens-de-les-temperatures-maximes/noticia/3437392/",
       "published": "2026-11-02T19:31:32+01:00",
-      "updated": "2026-11-03T08:02:58+01:00",
+      "updated": "2026-11-03T10:34:22+01:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpeg/0/7/1793683303570.jpeg",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/6/1793698425766.jpg",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434100/embed/",
         "source": "3CatInfo · El temps",
@@ -48,13 +48,13 @@
       "priority": "2 · Important"
     },
     {
-      "source": "ARA",
-      "title": "Els EUA bombardegen objectius a l'estret d'Ormuz abans de les eleccions de mig mandat",
-      "excerpt": "Els Estats Units han llançat \"atacs defensius\" contra posicions iranianes a l'estret d'Ormuz aquest dilluns, segons han informat fonts de l'exèrcit a Associated Press. L'episodi té lloc just el vespre abans de les eleccions de mig mandat, en què s'espera que Donald Trump perdi el control del Congrés, després de setmanes de filtracions sobre la possibilitat que Washington reprengués l'ofensiva a l'Orient Mitjà. Malgrat l'escalada, el vicepresident dels EUA, J.D. Vance, diu que les negociacions indirectes amb Teheran \"progressen\", mentre que el règim insta els…",
-      "url": "https://www.ara.cat/internacional/estats-units/eua-bombardegen-objectius-l-estret-d-ormuz-eleccions-mig-mandat_1_5898223.html",
-      "published": "2026-11-03T07:16:38+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/36bd66f0-f329-401c-a4ec-36263bdc7931_16-9-aspect-ratio_default_0.jpg",
+      "source": "VilaWeb",
+      "title": "La policia espanyola desallotja l’acampada de l’habitatge de la Puerta del Sol de Madrid",
+      "excerpt": "Hi ha dos detinguts per desobediència i resistència",
+      "url": "https://www.vilaweb.cat/noticies/policia-desallotja-acampada-habitatge-madrid/",
+      "published": "2026-11-03T08:08:10+01:00",
+      "category": "Espanya",
+      "image": null,
       "priority": "2 · Important"
     },
     {
@@ -109,6 +109,136 @@
     },
     {
       "source": "betevé",
+      "title": "Bon dia Barcelona",
+      "excerpt": "Comença el dia amb una entrevista d’actualitat i una tertúlia 100% barcelonina. El dia a dia de la ciutat analitzat per un ampli espectre de tertulians periodistes, historiadors i experts en diferents àmbits. Presentat per Dani Clavera.",
+      "url": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-168/",
+      "published": "2026-11-03T10:59:45+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "L'espera per treure's el carnet de conduir: entre 4 i 7 mesos entre la teòrica i les pràctiques",
+      "excerpt": "Només a la demarcació de Barcelona hi ha prop de 70.000 persones que s'esperen per començar les pràctiques un cop han superat l'examen teòric, segons avanaça \"El matí de Catalunya Ràdio\"",
+      "url": "https://www.3cat.cat/3catinfo/lespera-per-treures-el-carnet-de-conduir-entre-4-i-7-mesos-entre-la-teorica-i-les-practiques/noticia/3437464/",
+      "published": "2026-11-03T10:53:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/0/1726328089504.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Sónar 2027: torna dia i nit i els primers noms del festival",
+      "excerpt": "El Sónar 2027, el festival de música, innovació i creativitat de Barcelona, se celebrarà a Barcelona els dies 17, 18 i 19 de juny del 2027 i ho farà recuperant la divisió d’espais entre el Sónar de Dia i el Sónar de Nit, que l’any passat, amb el canvi de mans dels festival, va desaparèixer. Què […]",
+      "url": "https://beteve.cat/agenda/sonar-festival-barcelona/",
+      "published": "2026-11-03T10:36:01+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/06/Tokischa-sonar-2027-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El món del futbol, compungit per la mort de Jesús de Miguel, futbolista del Tenerife",
+      "excerpt": "El món del futbol s’ha bolcat en mostres de condol després de la mort de Jesús de Miguel, davanter del CD Tenerife, aquest dimarts, 3 de novembre, a les vuit del matí. El jugador, que tenia 30 anys, va patir dilluns una aturada cardiorespiratòria després d’un fort xoc amb el porter del FC Andorra Jesús […]",
+      "url": "https://beteve.cat/esports/futbol-dol-mort-jesus-de-miguel-futbolista-del-tenerife/",
+      "published": "2026-11-03T10:20:16+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/021126-jesus-de-miguel-tenerife-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un èxit de la llengua catalana en temps foscos",
+      "excerpt": "Fent una mirada a la realitat, crec que avui s’imposa una reflexió sobre el malestar que ens causa el món en què vivim. Cada dia ens dona un motiu diferent. Per exemple, trobo d’una maldat especialment refinada això del ciberatac que ha afectat desenes de supermercats d’Europa . A la nit, algú va ordenar a les màquines que passessin de temperatures sota zero als 50 graus. El resultat és que tones i tones de menjar s’han fet malbé. Dic que ho trobo d’una maldat especialment…",
+      "url": "https://www.ara.cat/analisi/exit-llengua-catalana-temps-foscos_1_5898441.html",
+      "published": "2026-11-03T10:18:32+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/51fa5384-a77b-4bab-a006-b3150f126875_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Un mort en el xoc de dos helicòpters a l’Everest",
+      "excerpt": "La víctima mortal és un ciutadà indi de 47 anys",
+      "url": "https://www.vilaweb.cat/noticies/un-mort-en-el-xoc-de-dos-helicopters-a-leverest/",
+      "published": "2026-11-03T10:15:51+01:00",
+      "category": "Àsia-Pacífic",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Dol al món del futbol: mor el jugador del Tenerife Jesús de Miguel",
+      "excerpt": "El davanter de 30 anys ha mort aquest dimarts després de patir una parada cardiorespiratòria durant el xoc amb el porter de l'Andorra, Jesús Owono. El partit va quedar suspès",
+      "url": "https://www.3cat.cat/3catinfo/drama-al-tenerife-andorra-un-futbolista-local-evacuat-durgencia/noticia/3437410/",
+      "published": "2026-11-03T10:15:01+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/3/1793697273632.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Sónar de Dia i el Sónar+D tornen a Barcelona",
+      "excerpt": "En una sala d’hospital, diverses dones embarassades es fan una ecografia. Però el que se sent no és el batec del cor dels seus futurs fills, sinó música electrònica. I els noms que apareixen a les pantalles no són els dels nadons, sinó els dels primers 30 artistes confirmats per a la 34a edició del […]",
+      "url": "https://beteve.cat/cultura/sonar-dia-torna-barcelona/",
+      "published": "2026-11-03T10:14:54+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/sonar-2027-cartell-021126-2026-11-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Mercats de cap de setmana a Barcelona, fires i festes del 2026: agenda amb horaris",
+      "excerpt": "Afegeix betevé com a font preferida Els mercats de cap de setmana a Barcelona proliferen. I ens encanten. Busques fires de productes vintage o mercats de pagès, comerç al carrer, àpats populars i festetes per gaudir-ne divendres, dissabte i diumenge? Aquí t’oferim una agenda actualitzada cada setmana perquè no te’n perdis cap detall! Pots trobar-hi […]",
+      "url": "https://beteve.cat/agenda/mercats-del-cap-de-setmana-barcelona/",
+      "published": "2026-11-03T10:05:49+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/03/Proyecto-nuevo-3.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Barça i Ajuntament treballen perquè la final de la Champions femenina del 2031 es jugui al Camp Nou",
+      "excerpt": "El Barça i l’Ajuntament de Barcelona treballen conjuntament amb la Generalitat per presentar una candidatura perquè la final de la Champions femenina del 2031 es disputi al Camp Nou. Aleshores, l’estadi blaugrana ja hauria d’estar totalment acabat, amb coberta inclosa, i tindrà capacitat per a 105.000 espectadors. El Barça vol una nova final al Camp […]",
+      "url": "https://beteve.cat/esports/final-champions-femenina-2031-camp-nou/",
+      "published": "2026-11-03T10:04:12+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/03/camp_nou_champions_newcastle_190326_OK.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Segones oportunitats",
+      "excerpt": "La vida de vegades ens ofereix una segona oportunitat. En el món de la música són molts els casos de cançons que han aconseguit l’èxit definitiu anys després de la seva creació. Sovint la “culpa” és del cinema, o de la publicitat. És el cas de dos temes mítics dels Righteous Brothers i de Nina […]",
+      "url": "https://beteve.cat/periferies/segones-oportunitats-2-2/",
+      "published": "2026-11-03T10:02:38+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/periferies_031126-2026-11-03.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El Sónar de Dia torna al Sónar",
+      "excerpt": "Cop de timó al Sónar, que abandona el format del 2026 per recuperar el de tota la vida. És a dir, el 2027, en comptes d'aplegar tota la programació diürna i nocturna en un sol espai, el recinte firal de Gran Via 2 a l'Hospitalet de Llobregat, el festival torna a l'organització d'un Sónar de Dia i un Sónar de Nit en dos llocs diferents. La nit continuarà a la Fira, seu fixa des del 2001, i l'activitat de dia, incloent-hi la del Sónar+D, es…",
+      "url": "https://www.ara.cat/cultura/musica/festivals-musica/sonar-dia-torna-sonar_1_5897835.html",
+      "published": "2026-11-03T10:00:17+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fd4dd1c5-b071-43d1-9f7e-1d9c68d089d8_1-1-aspect-ratio_default_0_x1939y694.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Mosaic de jazz",
+      "excerpt": "La quantitat de centenaris que hem celebrat aquest 2026 ens fa pensar, a dos mesos del seu final, que l’autèntic baby boom de la història del jazz no es va produir ni en la postguerra dels anys 40/50, ni en les dècades posteriors, sinó aquell any 1926. Comencem amb el saxofonista alt Lou Donaldson, un […]",
+      "url": "https://beteve.cat/jazz-it/mosaic-de-jazz/",
+      "published": "2026-11-03T09:53:58+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/jazzit_031126-2026-11-03.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "Detinguts a Barcelona dos homes reclamats internacionalment per les autoritats de Croàcia i Bòsnia",
       "excerpt": "(ACN) Els Mossos d’Esquadra han detingut a Barcelona dos homes de 43 anys reclamats internacionalment per delictes de falsificació documental i d’homicidi. S’havia dictat contra ells una ordre europea de detenció i entrega (OEDE) i una ordre internacional de detenció (OID), totes dues emeses per les autoritats de Croàcia i de Bòsnia i Hercegovina. Documentació […]",
       "url": "https://beteve.cat/societat/detinguts-barcelona-dos-homes-reclamats-internacionalment/",
@@ -130,7 +260,7 @@
     {
       "source": "ARA",
       "title": "Mor el jugador del Tenerife Jesús de Miguel després d'una dura entrada del porter de l'Andorra",
-      "excerpt": "El futbolista del CD Tenerife Jesús de Miguel ha mort aquest dimarts, segons ha informat el club. El jugador va patir una aturada cardiorespiratòria després d'una entrada del porter de l'Andorra i va ser traslladat d'urgència a l'hospital, on els metges no han pogut fer res per salvar-li la vida.",
+      "excerpt": "El futbolista del CD Tenerife Jesús de Miguel ha mort aquest dimarts als 30 anys, segons ha informat el club. El jugador va patir una aturada cardiorespiratòria després d'una entrada del porter de l'Andorra i va ser traslladat d'urgència a l'hospital, però els metges no han pogut fer res per salvar-li la vida.",
       "url": "https://www.ara.cat/esports/futbol/mor-jugador-tenerife-jesus-miguel_1_5898423.html",
       "published": "2026-11-03T09:45:08+01:00",
       "category": "Actualitat",
@@ -190,7 +320,7 @@
     {
       "source": "VilaWeb",
       "title": "Més denuncia que IB3 rebaixa el nivell de català que exigeix als periodistes",
-      "excerpt": "La formació critica que la radiotelevisió pública hagi passat d’exigir el C1 al B2 en una nova borsa de redactors i reclama que rectifiqui",
+      "excerpt": "La formació critica que la radiotelevisió pública hagi passat d’exigir el C1 al B2 en una nova borsa de redactors i demana que rectifiqui",
       "url": "https://www.vilaweb.cat/noticies/mes-denuncia-ib3-rebaixa-nivell-catala-periodistes/",
       "published": "2026-11-03T09:20:47+01:00",
       "category": "Illes",
@@ -199,7 +329,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Barcelona detecta 242 infraccions en una multiinspecció en supermercats 24 hores de Gràcia",
+      "title": "Barcelona detecta 242 infraccions en una multiinspecció en supermercats de 24 hores de Gràcia",
       "excerpt": "L'actuació ha fet onze tancaments cautelars per manipulació de la instal·lació elèctrica i per plagues",
       "url": "https://www.vilaweb.cat/noticies/barcelona-detecta-242-infraccions-en-una-multiinspeccio-en-supermercats-24-hores-de-gracia/",
       "published": "2026-11-03T09:03:21+01:00",
@@ -260,7 +390,7 @@
     {
       "source": "VilaWeb",
       "title": "S’ha mort Jesús de Miguel, el davanter del Tenerife que va topar amb el porter de l’Andorra",
-      "excerpt": "\"No hi ha paraules de consol; no hi ha absolutament res que mitigui aquest sentiment ple de tristesa\", ha dit el club",
+      "excerpt": "\"No hi ha paraules de consol, no hi ha absolutament res que mitigui aquest sentiment ple de tristesa\", ha expressat el club",
       "url": "https://www.vilaweb.cat/noticies/empitjora-estat-neurologic-davanter-tenerife-ingressat-topada-porter-andorra/",
       "published": "2026-11-03T08:26:49+01:00",
       "category": "Andorra",
@@ -325,6 +455,16 @@
       "published": "2026-11-03T07:33:02+01:00",
       "category": "Actualitat",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els EUA bombardegen una illa d'Ormuz mentre continuen negociant amb l'Iran",
+      "excerpt": "Els Estats Units han llançat \"atacs defensius\" contra posicions iranianes a l'estret d'Ormuz aquesta matinada de dimarts. L'episodi té lloc just el vespre abans de les eleccions de mig mandat, en què s'espera que Donald Trump perdi el control del Congrés, després de setmanes de filtracions sobre la possibilitat que Washington reprengués l'ofensiva a l'Orient Mitjà. Malgrat l'escalada, el vicepresident dels EUA, J.D. Vance, diu que les negociacions indirectes amb Teheran \"progressen\", mentre que el règim insta els Estats Units a aixecar el bloqueig naval…",
+      "url": "https://www.ara.cat/internacional/estats-units/eua-bombardegen-objectius-l-estret-d-ormuz-eleccions-mig-mandat_1_5898223.html",
+      "published": "2026-11-03T07:16:38+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/36bd66f0-f329-401c-a4ec-36263bdc7931_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -434,7 +574,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Ferrant Torrent, la veu de ferro roent, sorneguera i viscuda",
+      "title": "Ferran Torrent, la veu de ferro roent, sorneguera i viscuda",
       "excerpt": "La Institució de les Lletres Catalanes ha retut un homenatge a l’escriptor amb motiu dels seus setanta-cinc anys · L’acte ha coincidit amb la presentació de la biografia ‘Ferran Torrent. Entre els llibres i la vida’",
       "url": "https://www.vilaweb.cat/noticies/ferrant-torrent-la-veu-de-ferro-roent-sorneguera-i-viscuda/",
       "published": "2026-11-03T01:17:57+01:00",
