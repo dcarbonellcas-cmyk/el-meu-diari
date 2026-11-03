@@ -37,6 +37,26 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "ARA",
+      "title": "Les patates calentes de Trump l'endemà de les eleccions",
+      "excerpt": "La jornada electoral canviarà la configuració del Congrés, però no bona part dels maldecaps amb els quals batalla el país. Més enllà d'haver de lidiar amb la nova aritmètica parlamentària –i que a hores d'ara es dibuixa complicada per al republicà–, Donald Trump continuarà tenint una guerra per resoldre i una inflació que no sembla que es contingui.",
+      "url": "https://www.ara.cat/internacional/estats-units/patates-calentes-trump-l-endema-eleccions_1_5898805.html",
+      "published": "2026-11-03T20:43:31+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9063dbf0-386c-4fb3-882c-0afa597b9178_source-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Protesta a Barcelona per condemnar el desallotjament de l’acampada per l’habitatge de Madrid",
+      "excerpt": "L’acampada pel dret a l’habitatge de la plaça de Catalunya s’ha mobilitzat aquest dimarts a la tarda per condemnar el desallotjament de l’acampada de Madrid. Malgrat la pluja, una trentena de persones s’ha concentrat davant del monument de Francesc Macià a la mateixa plaça per mostrar la solidaritat amb les persones desallotjades a la protesta […]",
+      "url": "https://beteve.cat/societat/protesta-barcelona-contra-desallotjament-acampada-madrid/",
+      "published": "2026-11-03T20:03:32+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/protesta-acampada-madrid-barcelona-2026-11-03.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dimecres: el sol torna amb allunyament de la pertorbació",
       "excerpt": "Matí fred amb boires a l'interior i dia assolellat amb bo a migdia",
@@ -46,6 +66,21 @@
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/9/9/1793729601299.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Una família de Calella ha de viure en un local amb 5 fills, un cas més de la crisi d'habitatge",
+      "excerpt": "Esperen accedir a un pis d'emergència de la Generalitat, però el procés es pot allargar anys",
+      "url": "https://www.3cat.cat/3catinfo/una-familia-de-calella-ha-de-viure-en-un-local-amb-5-fills-un-cas-mes-de-la-crisi-dhabitatge/noticia/3437588/",
+      "published": "2026-11-03T18:54:05+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/9/1793726541592.jpg",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434143/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/una-familia-de-calella-ha-de-viure-en-un-local-amb-5-fills-un-cas-mes-de-la-crisi-dhabitatge/noticia/3437588/"
+      }
     },
     {
       "source": "betevé",
@@ -175,7 +210,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Transports reforça la seguretat als trens amb més controladors i no tallarà per ara la línia Barcelona-Madrid",
+      "title": "Transports reforça la seguretat als trens amb més controladors i descarta ara tallar la línia Barcelona-Madrid",
       "excerpt": "El ministre de Transports anuncia que reduirà les freqüències del corredor Madrid-Sevilla durant la represa, que es preveu uns deu dies després que la jutgessa autoritzi els treballs de les obres d'adequació",
       "url": "https://www.3cat.cat/3catinfo/puente-reforca-la-seguretat-als-trens-amb-mes-controladors-i-descarta-ara-tallar-la-linia-barcelona-madrid/noticia/3437538/",
       "published": "2026-11-03T13:51:44+01:00",
@@ -350,16 +385,6 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Puente compareix al Congrés amb tota l'oposició demanant-li la dimissió per l'accident de Toledo",
-      "excerpt": "El ministre ha insitit fins ara que no plegarà després de la tragèdia ferroviària",
-      "url": "https://www.3cat.cat/3catinfo/puente-compareix-al-congres-amb-tota-loposicio-demanant-li-la-dimissio-per-laccident-de-toledo/noticia/3437431/",
-      "published": "2026-11-03T06:51:55+01:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1793725132126.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo",
       "title": "Eleccions de mig mandat als Estats Units: un referèndum sobre Trump que els demòcrates esperen guanyar",
       "excerpt": "Els analistes ja especulen sobre com reaccionarà Trump si els republicans perden el control de les cambres, i què faran els demòcrates si els seus candidats més radicals fracassen",
       "url": "https://www.3cat.cat/3catinfo/eleccions-de-mig-mandat-als-estats-units-un-referendum-sobre-trump-que-els-democrates-esperen-guanyar/noticia/3436227/",
@@ -374,13 +399,103 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Europa ha de preparar-se millor davant dels ciberatacs",
+      "excerpt": "Dilluns desenes de supermercats de Bèlgica i Suècia, i en grau més baix dels Països Baixos, Finlàndia i Estònia, van patir ciberatacs que van inutilitzar els congeladors, de manera que es van fer malbé tones de menjar. Aquest dimarts els atacs s'han reproduït a Portugal. En paral·lel, en les darreres 24 hores fins a vuit avions han registrat amenaces de bomba a Europa, un d'ells de la ruta Manchester-Múrcia. Són massa coincidències per pensar que tot és una pura casualitat. \"Sens dubte no són fets…",
+      "url": "https://www.ara.cat/editorial/europa-preparar-millor-davant-dels-ciberatacs_129_5899062.html",
+      "published": "2026-11-03T20:52:48+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a9c1e7c8-cc81-48c6-a0b7-8c04e8562c54_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’escriptora i periodista barcelonina Cristina Fernández Cubas, Premi Cervantes 2026",
+      "excerpt": "(ACN) L’escriptora i periodista Cristina Fernández Cubas ha estat distingida amb el Premi Cervantes 2026, segons ha anunciat el ministre de Cultura, Ernest Urtasun. Llicenciada en Dret i Periodisme a Barcelona i casada amb l’escriptor Carlos Trías Sagner, és autora de contes i novel·les que li han valgut guardons com el Premi Ciutat de Barcelona […]",
+      "url": "https://beteve.cat/cultura/escriptora-cristina-fernandez-cubas-premi-cervantes-2026/",
+      "published": "2026-11-03T20:46:52+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/cristina-fernandez-cubas-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "17 detinguts en una operació internacional contra l'explotació sexual infantil, un a Barcelona",
+      "excerpt": "La xarxa criminal relacionada amb l'intercanvi i la distribució de material pornogràfic que feia servir menors, amb origen a Saragossa, estava present a Espanya i set països de l'Amèrica Llatina",
+      "url": "https://www.3cat.cat/3catinfo/17-detinguts-en-una-operacio-internacional-contra-lexplotacio-sexual-infantil-un-a-barcelona/noticia/3437651/",
+      "published": "2026-11-03T20:36:26+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/9/1793722821794.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Via 15",
+      "excerpt": "Via 15 és una coproducció en què col·laboren 15 televisions locals de la regió metropolitana.",
+      "url": "https://beteve.cat/via-15/via-15-20/",
+      "published": "2026-11-03T20:35:10+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Tres vagons d’un tren de mercaderies descarrilen i xoquen amb una locomotora sense provocar ferits a Martorell",
+      "excerpt": "RENFE explica que el maquinista ha anat a l'hospital per protocol però que està bé",
+      "url": "https://www.vilaweb.cat/noticies/tres-vagons-dun-tren-de-mercaderies-descarrilen-i-xoquen-amb-una-locomotora-sense-provocar-ferits-a-martorell/",
+      "published": "2026-11-03T20:31:48+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Infobarris",
+      "excerpt": "Torna Infobarris, el programa informatiu de betevé dedicat a explicar la realitat dels barris de Barcelona. Cada dia en directe, de 19 h a 19.40 h, la periodista Núria Llabina i un equip experimentat d’especialistes en el territori copsaran les històries i el batec als carrers de Barcelona.",
+      "url": "https://beteve.cat/infobarris/infobarris-197/",
+      "published": "2026-11-03T20:30:03+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Retorn del sol: el fred nocturn deixarà pas a una recuperació de la màxima aquest dimecres",
+      "excerpt": "La previsió del temps per a aquest dimecres, 4 de novembre, anuncia una clara millora del temps, amb més clarianes, fred o fresca matinal, però una recuperació evident de la temperatura màxima. Previsió horària per a Barcelona: Les clarianes portaran un migdia molt més suau Després d’un dimarts rúfol i fresc, en què en alguns […]",
+      "url": "https://beteve.cat/medi-ambient/dimecres-amb-retorn-del-sol/",
+      "published": "2026-11-03T20:28:13+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/previsio_dimarts-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Ana Rosa, Iker i Inda, retratats",
+      "excerpt": "Dijous passat, Eldiario.es va publicar una informació que revelava que l’empresa editora d’ OK Diario , el mitjà dirigit per Eduardo Inda, va pagar 242.000 euros al despatx de l’advocada de Koldo García, l’home de confiança de José Luis Ábalos, exministre de Transports del govern de Pedro Sánchez. És una figura central en la investigació judicial sobre possible corrupció en contractacions públiques de l’anomenat cas Koldo. No només és un escàndol que un mitjà de comunicació sigui qui pagui els honoraris a l’advocada, com així…",
+      "url": "https://www.ara.cat/media/tv/ana-rosa-iker-inda-retratats_129_5899167.html",
+      "published": "2026-11-03T20:25:02+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/380aa19a-332a-406d-8281-a12a07bde9d2_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Mor un vianant atropellat per una furgoneta en travessar la ronda Litoral de Barcelona",
+      "excerpt": "Setze persones han mort aquest any en accidents de trànsit a Barcelona",
+      "url": "https://www.3cat.cat/3catinfo/mor-un-vianant-atropellat-per-una-furgoneta-en-travessar-la-ronda-litoral-de-barcelona/noticia/3437683/",
+      "published": "2026-11-03T19:48:28+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/7/1764238310974.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
       "title": "Premi Cervantes 2026 a la catalana Cristina Fernández Cubas, mestra del conte i el relat breu",
-      "excerpt": "Dotat amb 125.000 euros, el guardó es considera el més prestigiós en llengua castellana",
+      "excerpt": "Dotat amb 125.000 euros, el guardó es considera el més prestigiós en llengua castellana i se suma al Premi Nacional de les Lletres Espanyoles que va rebre el 2023",
       "url": "https://www.3cat.cat/3catinfo/premi-cervantes-2026-a-la-catalana-cristina-fernandez-cubas-mestra-del-conte-i-el-relat-breu/noticia/3437690/",
       "published": "2026-11-03T19:34:49+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/1/4/1793730849741.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/5/1793731310751.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -406,7 +521,7 @@
     {
       "source": "ARA",
       "title": "L'escriptora barcelonina Cristina Fernández Cubas guanya el premi Cervantes 2026",
-      "excerpt": "La \"veu inconfusible i original\", la \"llibertat creadora\", el \"diàleg constant amb les obres llatinoamericanes de la literatura de l'estranyesa\" i \"l'obertura de camins a noves generacions de narradors\" són quatre dels motius principals que Ernest Urtasun, ministre de Cultura i Esports, ha donat aquest dimarts al vespre en nom del jurat per concedir a Cristina Fernández Cubas el premi Cervantes 2026, dotat amb 125.000 euros. Nascuda a Arenys de Mar el 1945 i instal·lada a Barcelona des de fa dècades, Fernández Cubas ha estat…",
+      "excerpt": "La \"veu inconfusible i original\", la \"llibertat creadora\", el \"diàleg constant amb les obres llatinoamericanes de la literatura de l'estranyesa\" i \"l'obertura de camins a noves generacions de narradors\" són quatre dels motius principals que Ernest Urtasun, ministre espanyol de Cultura i Esports, ha donat aquest dimarts al vespre en nom del jurat per concedir a Cristina Fernández Cubas el premi Cervantes 2026, dotat amb 125.000 euros i destinat a obres en llengua castellana. Nascuda a Arenys de Mar el 1945 i instal·lada a Barcelona…",
       "url": "https://llegim.ara.cat/actualitat/cristina-fernandez-cubas-guanya-premi-cervantes-2026_1_5899037.html",
       "published": "2026-11-03T19:20:48+01:00",
       "category": "Actualitat",
@@ -416,11 +531,11 @@
     {
       "source": "ARA",
       "title": "La pastisseria Vallflorida de Sant Esteve de Palautordera fa el millor panettone d'Espanya en un any de participació rècord",
-      "excerpt": "Un any més, un dels plats forts del Gastronòmic Fòrum Barcelona és el concurs de panettones, que dirimeix quin és el millor de l'Estat el 2026 tant en categoria tradicional com en la de xocolata. Enguany els guanyadors han estat Vallflorida, de Sant Esteve de Palautordera, per la categoria clàssica, per tant, el panettone que porta fruita confitada, i la pastisseria La Roja d'Almoradí, Alacant, per la categoria de xocolata. Vallflorida ja ha guanyat en ocasions anteriors; fins i tot un any es va endur…",
+      "excerpt": "Un any més, un dels plats forts del Gastronomic Forum Barcelona és el concurs de panettones, que dirimeix quin és el millor de l'Estat el 2026 tant en categoria tradicional com en la de xocolata. Enguany els guanyadors han estat Vallflorida, de Sant Esteve de Palautordera, en la categoria clàssica –per tant, el panettone que porta fruita confitada–, i la pastisseria La Roja d'Almoradí, al Baix Segura, en la categoria de xocolata. Vallflorida ja ha guanyat en ocasions anteriors; fins i tot un any es…",
       "url": "https://mengem.ara.cat/mengem/pastisseria-vallflorida-sant-esteve-palautordera-millor-panettone-d-espanya-any-participacio-record_1_5898905.html",
       "published": "2026-11-03T19:13:36+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/4b14cd27-732b-4807-8e20-3a8efa83470c_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/cde6f7be-f2df-4713-a785-6a3422a01bec_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -452,6 +567,41 @@
       "category": "història",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/11/jaciment-refugi-mossos-portada-2026-11-02.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "A punt de caure a la Terra el telescopi Swift, que estudiava les explosions més potents de l'univers",
+      "excerpt": "La NASA va llançar el satèl·lit el 2004 i en aquests 22 anys ha enviat dades de més de 2.000 explosions de rajos gamma: a l'agost va fracassar una operació per allargar-li la vida",
+      "url": "https://www.3cat.cat/3catinfo/a-punt-de-caure-a-la-terra-el-telescopi-swift-que-estudiava-les-explosions-mes-potents-de-lunivers/noticia/3437539/",
+      "published": "2026-11-03T18:53:32+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/4/1793706721940.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "L'estat del català a la Catalunya del Nord: menys parlants però més voluntat de protegir-lo",
+      "excerpt": "Una nova enquesta d'usos lingüístics revela que, tot i la disminució de parlants, un 92% dels enquestats donen suport a l'ensenyament del català i més del 70% defensa el bilingüisme francès/català",
+      "url": "https://www.3cat.cat/3catinfo/lestat-del-catala-a-la-catalunya-del-nord-menys-parlants-pero-mes-voluntat-de-protegir-lo/noticia/3437409/",
+      "published": "2026-11-03T18:50:59+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/6/1793716126965.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Denuncien un venedor de vehicles de segona mà de Vilanova i la Geltrú per una vintena d'estafes",
+      "excerpt": "Els Mossos investiguen una vintena de denúncies contra una empresa de Vilanova i la Geltrú dedicada a la venda de cotxes usats",
+      "url": "https://www.3cat.cat/3catinfo/denunciat-un-venedor-de-vehicles-de-segona-ma-de-vilanova-i-la-geltru-per-una-vintena-destafes/noticia/3437635/",
+      "published": "2026-11-03T18:49:48+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/3/1793717361232.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434134/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/denunciat-un-venedor-de-vehicles-de-segona-ma-de-vilanova-i-la-geltru-per-una-vintena-destafes/noticia/3437635/"
+      }
     },
     {
       "source": "betevé",
@@ -540,7 +690,7 @@
       "url": "https://www.ara.cat/cultura/aquest-estiu-m-he-sentit-pixessim-colonia_128_5898493.html",
       "published": "2026-11-03T18:00:44+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/aca987c1-17f9-4ec3-8df9-d0c8e7591e70_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/1ea3ad3e-a505-4b47-aaf2-85109f77700a_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1160,7 +1310,7 @@
     },
     {
       "source": "ARA",
-      "title": "Puente reconeix la gravetat de la situació i diu que treballarà per \"recuperar la confiança en l'alta velocitat\"",
+      "title": "Puente descarta que un treballador se saltés protocols per millorar la puntualitat: \"No ho crec, no m'ho crec\"",
       "excerpt": "",
       "url": "https://www.ara.cat/politica/oscar-puente-accident-ferroviari-toledo-compareixencia_6_5898574.html",
       "published": "2026-11-03T12:32:44+01:00",
@@ -1786,6 +1936,16 @@
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/descobreixen-el-llegat-de-lavi-2000-dibuixos-de-peces-de-serralleria-artistica-del-modernisme/noticia/3437414/"
       },
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Puente insisteix a apuntar a un error humà en l'accident a Toledo: \"L'alternativa era ocultar-ho?\"",
+      "excerpt": "L'oposició i els socis de Sumar insisteixen en demanar la dimissió del ministre en la seva compareixença al Congrés",
+      "url": "https://www.3cat.cat/3catinfo/puente-compareix-al-congres-amb-tota-loposicio-demanant-li-la-dimissio-per-laccident-de-toledo/noticia/3437431/",
+      "published": "2026-11-03T06:51:55+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1793725132126.jpg",
       "priority": "3 · Altres notícies"
     },
     {
