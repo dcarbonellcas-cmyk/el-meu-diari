@@ -2,19 +2,69 @@
   "date": "2026-11-03",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "La policia espanyola desallotja l’acampada de l’habitatge de la Puerta del Sol de Madrid",
+      "excerpt": "Hi ha dos detinguts per desobediència i resistència",
+      "url": "https://www.vilaweb.cat/noticies/policia-desallotja-acampada-habitatge-madrid/",
+      "published": "2026-11-03T08:08:10+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dimarts: torna la pluja amb un notable descens de la temperatura",
       "excerpt": "El termòmetre quedarà amb màximes entre els 10 i els 15 graus a Catalunya",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-notable-i-generalitzat-descens-de-les-temperatures-maximes/noticia/3437392/",
       "published": "2026-11-02T19:31:32+01:00",
-      "updated": "2026-11-03T06:57:28+01:00",
+      "updated": "2026-11-03T08:02:58+01:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpeg/0/7/1793683303570.jpeg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434076/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6434100/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-notable-i-generalitzat-descens-de-les-temperatures-maximes/noticia/3437392/"
       },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Els EUA bombardegen objectius a l'estret d'Ormuz abans de les eleccions de mig mandat",
+      "excerpt": "Els Estats Units han llançat \"atacs defensius\" contra posicions iranianes a l'estret d'Ormuz aquest dilluns, segons han informat fonts de l'exèrcit a Associated Press. L'episodi es produeix just el vespre abans de les eleccions de mig mandat, on s'espera que Donald Trump perdi el control del Congrés, després de setmanes de filtracions sobre la possibilitat que Washington reprengués l'ofensiva a l'Orient Mitjà. Malgrat l'escalada, el vicepresident dels EUA, JD Vance, diu que les negociacions indirectes amb Teheran \"progressen\", mentre que el règim insta els Estats…",
+      "url": "https://www.ara.cat/internacional/estats-units/eua-bombardegen-objectius-l-estret-d-ormuz-eleccions-mig-mandat_1_5898223.html",
+      "published": "2026-11-03T07:16:38+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/36bd66f0-f329-401c-a4ec-36263bdc7931_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "La policia desallotja l'acampada per l'habitatge de la Puerta del Sol de Madrid",
+      "excerpt": "Fins a 400 agents de la Policia Nacional i de la policia municipal de Madrid han executat aquesta matinada el desallotjament de l'acampada per l'habitatge de la Puerta del Sol. Després que en els últims dies els acampats comencessin a abandonar el lloc per preparar la vaga general de l'11 de novembre, agents antiavalots han procedit al desallotjament de l'espai per ordre de la delegació del govern espanyol a Madrid. S'han desallotjat un total de 334 persones i s'han fet dues detencions per \"desobediència i…",
+      "url": "https://www.ara.cat/societat/policia-desallotja-l-acampada-l-habitatge-puerta-sol_1_5898224.html",
+      "published": "2026-11-03T07:08:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/927fc3a0-adaf-4feb-ba6c-27a5edbc56e4_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "El Congrés avalua la solitud d'Óscar Puente",
+      "excerpt": "A poques hores perquè es compleixi una setmana de l'accident ferroviari de Toledo, Óscar Puente compareixerà a la diputació permanent del Congrés per donar explicacions. El ministre de Transports ha estat el gran assenyalat per la tragèdia que ha deixat 69 víctimes mortals i haurà d'enfrontar-se als retrets de pràcticament tot l'arc parlamentari a menys d'un mes del 29-N. Fonts del ministeri de Transports indiquen que es plantegen la compareixença de Puente com una oportunitat per continuar donant \"explicacions\" i prometen \"transparència\". Les mateixes fonts…",
+      "url": "https://www.ara.cat/politica/congres-avalua-solitud-d-oscar-puente_1_5897797.html",
+      "published": "2026-11-03T07:00:51+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0b3dba13-0df6-48e9-9c31-1a4f37a24a10_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Guia de les 'midterms': 10 coses que has de saber d'aquestes eleccions crucials",
+      "excerpt": "Les midterms se celebren cada quatre anys, coincidint amb l’equador dels mandats presidencials, i acostumen a perjudicar el partit que hi ha a la Casa Blanca. Més enllà del plebiscit a Trump, els comicis d'aquest any representen una oportunitat per intentar recuperar part dels guarda-raïls al poder executiu que el republicà ha erosionat durant els quasi dos cursos de mandat. Amb una majoria conservadora instal·lada al Tribunal Suprem, si els demòcrates aconsegueixen recuperar el control de les dues cambres tindran una mica de marge per…",
+      "url": "https://www.ara.cat/internacional/estats-units/guia-midterms-10-coses-has-d-aquestes-eleccions-crucials_1_5894039.html",
+      "published": "2026-11-03T07:00:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ccb49b4f-f494-440d-bb20-dd681f0af319_source-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -29,18 +79,158 @@
     },
     {
       "source": "3CatInfo",
+      "title": "Eleccions de mig mandat als Estats Units: un referèndum sobre Trump que els demòcrates esperen guanyar",
+      "excerpt": "Els analistes ja especulen sobre com reaccionarà Trump si perd el control de les cambres, i què faran els demòcrates si els candidats més radicals fracassen",
+      "url": "https://www.3cat.cat/3catinfo/eleccions-de-mig-mandat-als-estats-units-un-referendum-sobre-trump-que-els-democrates-esperen-guanyar/noticia/3436227/",
+      "published": "2026-11-03T06:49:17+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/5/1793652100357.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "L'empresari alemany que es va guanyar el favor del rei d'Anglaterra",
+      "excerpt": "De néixer a Prússia a gestionar les finances de la Corona anglesa, ser amic de Winston Churchill i tenir una neta casada amb Lluís Mountbatten. No hi ha dubte que la vida de Sir Ernest Cassel va ser trepidant.",
+      "url": "https://empreses.ara.cat/directius/l-empresari-alemany-guanyar-favor-rei-d-anglaterra_1_5897780.html",
+      "published": "2026-11-03T08:00:10+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f6f64479-ef60-449c-99b4-3dae9eff7407_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les portades del dimarts 3 de novembre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-dimarts-3-de-novembre-de-2026/",
+      "published": "2026-11-03T08:00:03+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Tanquen 11 súpers 24 h a Gràcia per manipulació de la instal·lació elèctrica o presència de plagues",
+      "excerpt": "L’Ajuntament ha tancat de manera cautelar 11 supermercats 24 h al districte de Gràcia en una nova tongada d’inspeccions municipals en aquest tipus de botiga. El 29 d’octubre, el consistori va inspeccionar 23 establiments i va detectar fins a 242 infraccions de diferents tipologies. Pel que fa als 11 súpers 24 h precintats, les infraccions […]",
+      "url": "https://beteve.cat/politica/tanquen-11-supers-24h-gracia-manipulacio-instalacio-electrica-plagues/",
+      "published": "2026-11-03T07:59:30+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/11/supermercats-tancats-nit-091122.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Comença l’Smart City Expo 2026, l’aparador de les solucions urbanes intel·ligents",
+      "excerpt": "Ja és aquí la15a edició del principal esdeveniment internacional sobre ciutats i solucions urbanes intel·ligents, l’Smart City Expo World Congress (SCEWC). Se celebrarà del 3 al 5 de novembre al recinte firal de Gran Via de Fira de Barcelona, sota el lema “Urban Solutions, Real Impact”, un hub internacional per establir sinergies entre administracions públiques, […]",
+      "url": "https://beteve.cat/economia/smart-city-expo-2026/",
+      "published": "2026-11-03T07:57:01+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/smart-city-expo-031125.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La reforma de la plaça d’Adrià: adeu cotxes i hola plataforma única per a vianants",
+      "excerpt": "Després d’anys de parlar-ne, finalment ha arribat la reforma de la plaça d’Adrià. Els treballs, que van començar el mes de juliol, la convertiran en plataforma única, trauran la circulació i l’aparcament de vehicles i conservaran el sauló de la part central. A més, també rehabilitaran la font ornamental i el monument en homenatge a […]",
+      "url": "https://beteve.cat/societat/reforma-placa-adria-adeu-cotxes-hola-plataforma-unica/",
+      "published": "2026-11-03T07:43:06+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/plasa-adria-general-2026-11-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Digue’ns què penses i et direm quin vot t’encaixa més",
+      "excerpt": "",
+      "url": "https://eleccions.ara.cat/generals/quin-partit-votar-eleccions-generals-2026",
+      "published": "2026-11-03T07:33:02+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El clan Bacharach: el tràgic final d'una família jueva a València",
+      "excerpt": "El dilluns 22 de juny del 1936, Engràcia, una minyona que treballa a casa d'una família alemanya benestant instal·lada en un cèntric pis de València, demana ajuda per obrir la porta del dormitori. Alguna cosa no va bé. Els nens no són a la seva habitació i ningú respon als seus cops de porta. Un electricista l'ajuda finalment a obrir la porta i el que descobreixen a dins és un espectacle macabre: la família sencera morta damunt del llit, els pares, Akiva i Friga i…",
+      "url": "https://llegim.ara.cat/opinio/clan-bacharach-tragic-final-d-familia-jueva-valencia_129_5888035.html",
+      "published": "2026-11-03T07:15:09+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/916df5d0-4418-48aa-995a-bac0d095e468_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Encara no podem fabricar sang de manera artificial, però hi estem treballant\"",
+      "excerpt": "Amb una cura exquisida, Núria Nogués (Barcelona, 1965) obre una capseta blava i n’extreu un penjoll amb forma de gota i una pedra vermella al centre. El mira amb delit i, gairebé com si fes una confessió, deixa anar: \"La sang és un teixit realment extraordinari\". Aquesta joia conté la seva història: una carrera dedicada a desxifrar els secrets dels grups sanguinis, a entendre què fa única cada sang i a evitar que aquesta singularitat es converteixi en un obstacle de salut.",
+      "url": "https://www.ara.cat/ciencia-medi-ambient/biomedicina/encara-no-fabricar-sang-manera-artificial-hi-treballant_1_5891997.html",
+      "published": "2026-11-03T07:01:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/956d3588-c2a7-4467-b6b0-92bc54c7d37f_source-aspect-ratio_default_0_x2001y1468.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"No podem posar el soci del Barça dins d'una gàbia\"",
+      "excerpt": "A mig partit de Champions entre el Barça i el Feyenoord, un aficionat neerlandès amb evidents senyals d'embriaguesa va orinar dins d'un got i va decidir llançar-lo endavant, a la zona on hi havia seguidors blaugranes. Només va haver de fer-lo passar per sobre d'una tanca de metacrilat d'uns tres metres d'altura. La denúncia, que fa a l'ARA un soci a qui li va anar d'un pèl que no l'esquitxessin, no és un fet aïllat. Ni d'un únic seguidor ni d'un únic partit. Ja fa…",
+      "url": "https://www.ara.cat/esports/barca/no-posar-soci-barca-d-gabia_1_5898000.html",
+      "published": "2026-11-03T07:00:51+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/27081896-ec1d-40b7-be71-5e205703adad_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Pols a Junts: Comín és reticent a entrar al grup liberal de l'Eurocambra",
+      "excerpt": "Quan es va signar l'adhesió de Junts als centristes liberals del Partit Demòcrata Europeu (PDE) el moviment natural era la seva integració al grup liberal Renew del Parlament Europeu. Dins de Junts múltiples veus tenien clar aquest camí, que referma l'aposta pel centrisme, el mateix que el PNB i que havia seguit Convergència. Però tot plegat xoca amb la voluntat de l'eurodiputat de Junts. Tal com va expressar públicament aquest dilluns, Toni Comín té reticències sobre el fet d'entrar en aquest grup parlamentari un cop…",
+      "url": "https://www.ara.cat/politica/pols-junts-comin-reticent-entrar-grup-liberal-l-eurocambra_1_5897798.html",
+      "published": "2026-11-03T07:00:51+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/53a8b5ec-2a73-4ef5-99eb-112344f1246e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Les empreses registren beneficis històrics a costa de precaritzar treballadors\"",
+      "excerpt": "Belén López (Masies de Voltregà, 1976) és des de fa un any i mig la secretària general de CCOO de Catalunya. La líder sindical assegura a l'ARA que preveu que la vaga sigui un èxit, ja que la ciutadania se sent “interpel·lada”. López assegura que, el dia 11, CCOO tindrà un paper clau a l'hora d'aturar els principals centres de treball catalans: \"Pilotarem el tancament d'empreses i, com cal esperar, participarem de totes les activitats que es facin amb el protagonisme que es mereix ser…",
+      "url": "https://www.ara.cat/economia/mercat-laboral/empreses-registren-beneficis-historics-costa-precaritzar-treballadors_128_5895938.html",
+      "published": "2026-11-03T07:00:50+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d0dbc2ea-8799-4d06-9222-7dbd189483be_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Pastís de mató i ametlla, la recepta de l'Ada Parellada",
+      "excerpt": "La cuinera Ada Parellada avui cuina un pastís de mató i ametlla per llepar-se'n els dits. En aquest cas, podem afirmar que tots el podeu fer a casa.",
+      "url": "https://mengem.ara.cat/receptes/pastis-mato-ametlla-recepta-l-ada-parellada_1_5889599.html",
+      "published": "2026-11-03T07:00:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bf56bb75-6663-4ef7-9c1f-7007211b00c2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Catalunya supera per primer cop les 400 'start-ups' de tecnologia profunda",
+      "excerpt": "El teixit d'empreses tecnològiques de Catalunya continua ampliant-se. D'acord amb un informe elaborat per Acció, l'agència per al creixement de les empreses del Departament d'Empresa i Treball de la Generalitat, el Principat comptava a tancament del 2025 amb 402 emergents de tecnologia profunda. Es tracta del primer cop que es registren més de 400 negocis d'aquest perfil al país. La dada suposa un creixement del 7,5% respecte del curs anterior.",
+      "url": "https://www.ara.cat/economia/tecnologia/catalunya-supera-cop-400-start-ups-tecnologia-profunda_1_5897505.html",
+      "published": "2026-11-03T07:00:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1aae5803-7d09-4bff-9899-cc6d5c769974_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
       "title": "Descobreixen el llegat de l'avi: 2.000 dibuixos de peces de serralleria artística del modernisme",
       "excerpt": "Al Museu del Disseny hi ha gran part dels dibuixos i esbossos de la serralleria Artística Àngel Rull, però la família ho desconeixia",
       "url": "https://www.3cat.cat/3catinfo/descobreixen-el-llegat-de-lavi-2000-dibuixos-de-peces-de-serralleria-artistica-del-modernisme/noticia/3437414/",
       "published": "2026-11-03T06:53:30+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/7/1793644008772.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6433863/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/descobreixen-el-llegat-de-lavi-2000-dibuixos-de-peces-de-serralleria-artistica-del-modernisme/noticia/3437414/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -50,6 +240,16 @@
       "published": "2026-11-03T06:50:26+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/7/1793343720974.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "L'acampada de la Puerta del Sol denuncia el desallotjament \"violent\" dels seus integrants",
+      "excerpt": "Els membres de l'Acampada 26S denuncien una intervenció violenta dels antiavalots que hauria deixat ferits pels cops i gas pebre",
+      "url": "https://www.3cat.cat/3catinfo/la-policia-desallotja-lacampada-de-la-puerta-de-sol-on-quedaven-unes-300-persones/noticia/3437456/",
+      "published": "2026-11-03T06:48:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/7/1793687231676.jpg",
       "priority": "3 · Altres notícies"
     },
     {
