@@ -4,7 +4,7 @@
     {
       "source": "VilaWeb",
       "title": "Vance atribueix la derrota dels republicans a la guerra de l’Iran: “És evident per a gairebé tothom”",
-      "excerpt": "El vice-president destaca que els ex-votants de Trump el tornarien a triar si acabés amb el conflicte i canviés la relació amb Israel",
+      "excerpt": "El vice-president destaca que els ex-votants de Trump el tornarien a triar si posés fi al conflicte i canviés la relació amb Israel",
       "url": "https://www.vilaweb.cat/noticies/vance-atribueix-la-derrota-dels-republicans-a-la-guerra-de-liran-es-evident-per-a-gairebe-tothom/",
       "published": "2026-11-04T19:53:02+01:00",
       "category": "Amèrica",
@@ -48,12 +48,38 @@
       "url": "https://www.ara.cat/internacional/estats-units/tsunami-democrata-arrasa-feus-republicans-castiga-contundentment-trump_1_5899315.html",
       "published": "2026-11-04T05:55:52+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/51d434fc-04a7-41cf-a838-3b3e86ca4abc_16-9-aspect-ratio_default_1061387.jpg",
+      "image": "https://static1.ara.cat/clip/51d434fc-04a7-41cf-a838-3b3e86ca4abc_source-aspect-ratio_default_0.jpg",
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió d'aquest dijous: tornen alguns ruixats de distribució irregular",
+      "excerpt": "Retorna un àrea d'inestabilitat més aviat dèbil",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/",
+      "published": "2026-11-04T18:31:41+01:00",
+      "updated": "2026-11-04T22:32:35+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/2/1793827938622.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434544/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La policia local desallotja l’acampada pel dret d’habitatge de Palma",
+      "excerpt": "Una vintena d’agents han intervingut a la plaça d’Espanya, on els manifestants denuncien que el desallotjament és il·legal",
+      "url": "https://www.vilaweb.cat/noticies/la-policia-desallotja-lacampada-pel-dret-de-lhabitatge-de-palma/",
+      "published": "2026-11-04T22:18:20+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
-      "title": "Les borses celebren amb pujades la derrota de Trump i l'energia s'abarateix",
+      "title": "Les borses celebren amb pujades la derrota de Trump mentre l'energia s'abarateix",
       "excerpt": "Els mercats financers han reaccionat aquest dimecres amb optimisme davant la derrota del Partit Republicà a les eleccions legislatives dels Estats Units. La majoria dels parquets del món han tancat la jornada amb guanys, mentre que el preu del petroli ha registrat caigudes destacades, tot i que es manté a nivells propers als 100 dòlars per barril en el cas del Brent, el cru de referència a Europa.",
       "url": "https://www.ara.cat/economia/mercats/borses-celebren-pujades-derrota-trump-l-energia-s-abarateix_1_5900245.html",
       "published": "2026-11-04T20:51:32+01:00",
@@ -83,25 +109,9 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió d'aquest dijous: tornen alguns ruixats de distribució irregular",
-      "excerpt": "Retorna un àrea d'inestabilitat més aviat dèbil",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/",
-      "published": "2026-11-04T18:31:41+01:00",
-      "updated": "2026-11-04T18:54:16+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/9/1/1793814839619.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434476/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "VilaWeb",
       "title": "Els Sis de Saragossa reclamen al govern espanyol els indults pendents abans de les eleccions",
-      "excerpt": "La plataforma exigeix l’alliberament d’Imad i Daniel, empresonats d’ençà de fa dos anys i mig per una protesta contra Vox, després d'haver indultat l’executiu de PSOE i Sumar dos dels altres condemnats el setembre del 2025",
+      "excerpt": "La plataforma exigeix l’alliberament de l’Imad i en Daniel, empresonats de fa dos anys i mig per una protesta contra Vox",
       "url": "https://www.vilaweb.cat/noticies/sis-saragossa-govern-espanyol-indults-eleccions/",
       "published": "2026-11-04T18:53:31+01:00",
       "category": "Policia i justícia",
@@ -346,6 +356,16 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "“KO”, portada de l’ARA",
+      "excerpt": "La derrota de Donald Trump a les eleccions de mig mandat als Estats Units protagonitza la portada de l’ARA d’aquest dijous. La gorra vermella que el president dels EUA ha fet famosa, habitualment amb el missatge \"Make America Great Again [Fem gran Amèrica un altre cop]\" passa a tenir el missatge “KO”, que simbolitza el revés electoral del president amb la pèrdua del control de les dues cambres del Congrés després d’un tsunami demòcrata que ha arrasat feus republicans. Sota la imatge, tres frases resumeixen…",
+      "url": "https://www.ara.cat/portada/ko-portada-l-ara_1_5900290.html",
+      "published": "2026-11-04T21:56:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/059ea529-a8a5-4652-91dd-a97d99afc3a2_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "bàsics",
       "excerpt": "El programa d’anàlisi de l’actualitat de Barcelona amb els principals titulars del dia i l’anàlisi corresponent. Perquè això és el ‘bàsics’: fer un pas més i buscar més veus implicades en els temes tractats, per donar les claus del debat a partir d’entrevistes, reportatges, taules i anàlisi. Presentat per Sandra Mestres.",
@@ -377,7 +397,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El PSPV reclama que la Diputació d’Alacant s’incorpori al Fons de Cooperació Municipal",
+      "title": "El PSPV reclama a la Diputació d’Alacant d’incorporar-se al Fons de Cooperació Municipal",
       "excerpt": "Els socialistes presenten quinze propostes valorades en 119 milions d’euros per al pressupost del 2027, entre les quals hi ha mesures d’habitatge, mobilitat i prevenció d’incendis",
       "url": "https://www.vilaweb.cat/noticies/el-pspv-reclama-que-la-diputacio-dalacant-sincorpori-al-fons-de-cooperacio-municipal/",
       "published": "2026-11-04T21:06:18+01:00",
@@ -428,7 +448,7 @@
     {
       "source": "VilaWeb",
       "title": "Desallotgen un bloc de vint pisos a Badalona per esquerdes estructurals",
-      "excerpt": "Els bombers i l'arquitecte municipal constaten greus danys i caldrà reformar tot l'edifici",
+      "excerpt": "Els bombers i l'arquitecte municipal hi constaten greus danys i caldrà reformar tot l'edifici",
       "url": "https://www.vilaweb.cat/noticies/desallotjament-bloc-20-pisos-badalona-esquerdes-estructurals/",
       "published": "2026-11-04T20:41:03+01:00",
       "category": "Societat",
@@ -458,7 +478,7 @@
     {
       "source": "VilaWeb",
       "title": "Els pèrits alerten de deformacions similars a les que van causar l’accident d’Adamuz a la línia Madrid-Sevilla",
-      "excerpt": "Els experts consideren que cal aclarir les actuacions de renovació i manteniment de la infrastructura · Alerten de les semblances entre les deformacions detectades en altres desviaments i les que hi havia a tocar del punt on es va trencar la soldadura",
+      "excerpt": "Els experts consideren que cal aclarir les actuacions de renovació i manteniment de la infrastructura · Alerten de les semblances entre les deformacions detectades en uns altres desviaments i les que hi havia a tocar del punt on es va trencar la soldadura",
       "url": "https://www.vilaweb.cat/noticies/perits-alerten-deformacions-similars-causar-accident-adamuz-linia-madrid-sevilla/",
       "published": "2026-11-04T20:32:42+01:00",
       "category": "Societat",
@@ -488,7 +508,7 @@
     {
       "source": "3CatInfo",
       "title": "El president d'Adif dimiteix hores després del nomenament de Cuerpo al capdavant de Transports",
-      "excerpt": "Pedro Luis Marco de la Peña era responsable dels centres de control ferroviaris i ha estat citat d'urgència per Cuerpo aquest mateix dimecres",
+      "excerpt": "Luis Pedro Marco de la Peña era responsable dels centres de control ferroviaris i ha estat citat d'urgència per Cuerpo aquest mateix dimecres",
       "url": "https://www.3cat.cat/3catinfo/el-president-dadif-dimiteix-hores-despres-del-nomenament-de-cuerpo-al-capdavant-de-transports/noticia/3437955/",
       "published": "2026-11-04T20:12:53+01:00",
       "category": "Actualitat",
@@ -677,7 +697,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El porter del FC Andorra trenca el silenci: “Són els dies més difícils de la meva vida, entomaré el que vingui”",
+      "title": "El porter del FC Andorra trenca el silenci: “Són els dies més difícils de la meva vida, entomaré allò que vingui”",
       "excerpt": "Owono, implicat en la topada que va causar la mort del futbolista del Tenerife, expressa el dolor per la tragèdia i assegura que afrontarà amb respecte les qüestions que se’n derivin",
       "url": "https://www.vilaweb.cat/noticies/el-porter-del-fc-andorra-trenca-el-silenci-son-els-dies-mes-dificils-de-la-meva-vida-entomare-el-que-vingui/",
       "published": "2026-11-04T18:06:37+01:00",
@@ -1553,7 +1573,12 @@
       "published": "2026-11-04T10:51:36+01:00",
       "category": "Espanya",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/11/carlos-cuerpo-2026-11-04.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434515/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/pedro-sanchez-compareix-despres-de-la-dimissio-doscar-puente/noticia/3437746/"
+      }
     },
     {
       "source": "betevé",
@@ -1653,7 +1678,12 @@
       "published": "2026-11-04T09:36:54+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/0/1793783640808.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434515/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/pedro-sanchez-compareix-despres-de-la-dimissio-doscar-puente/noticia/3437746/"
+      }
     },
     {
       "source": "ARA",
