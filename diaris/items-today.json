@@ -1,4 +1,30 @@
 {
   "date": "2026-11-04",
-  "items": []
+  "items": [
+    {
+      "source": "betevé",
+      "title": "Reinas de la mesa",
+      "excerpt": "El documental que veurem a ‘Punt de fuga’ ens descobrirà un grup de dones que a través de la pràctica del tenis taula han aconseguit trobar una activitat que les ajuda a superar les malalties i la soledat no desitjada. Tot seguit, a la sala, parlarem de la gent gran i lesport.",
+      "url": "https://beteve.cat/punt-de-fuga/reinas-de-la-mesa-2/",
+      "published": "2026-11-04T03:10:55+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "[VÍDEO] Pep Gimeno, Botifarra, publica “La petenera quan canta” amb Rozalén",
+      "excerpt": "\"La petenera quan canta\" és el segon avançament del nou disc del músic de Xàtiva, ‘El Poble Mana’, que eixirà a la venda l'11 de desembre",
+      "url": "https://www.vilaweb.cat/noticies/videos-pep-gimeno-botifarra-publica-la-petenera-quan-canta-amb-rozalen/",
+      "published": "2026-11-04T01:50:32+01:00",
+      "category": "Sense categoria",
+      "image": null,
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.youtube-nocookie.com/embed/24fzdfmoKTA",
+        "source": "VilaWeb",
+        "articleUrl": "https://www.vilaweb.cat/noticies/videos-pep-gimeno-botifarra-publica-la-petenera-quan-canta-amb-rozalen/"
+      }
+    }
+  ]
 }
