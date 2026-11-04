@@ -42,6 +42,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "La diputació permanent del congrés espanyol votarà els decrets d’habitatge el 12 de novembre",
+      "excerpt": "El debat es farà l’endemà de la vaga general i un dia abans del començament de la campanya electoral",
+      "url": "https://www.vilaweb.cat/noticies/la-diputacio-permanent-del-congres-espanyol-votara-els-decrets-dhabitatge-el-12-de-novembre/",
+      "published": "2026-11-04T17:49:04+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dimecres: el sol torna amb el permís de les boires",
       "excerpt": "Matí fred amb boires a l'interior i dia assolellat amb bonança a migdia",
@@ -86,6 +96,21 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/7/1741155644775.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Job dating, entrevistes ràpides per trobar feina en una de les comarques amb més atur",
+      "excerpt": "L'Ajuntament del Vendrell organitza per quarta vegada l'Speed Job Dating, amb una vintena d'empreses participants i amb què esperen que es formalitzin una trentena de contractacions",
+      "url": "https://www.3cat.cat/3catinfo/job-dating-entrevistes-rapides-per-trobar-feina-en-una-de-les-comarques-amb-mes-atur/noticia/3437525/",
+      "published": "2026-11-04T15:29:33+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/1/9/1793704494091.jpeg",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434406/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/job-dating-entrevistes-rapides-per-trobar-feina-en-una-de-les-comarques-amb-mes-atur/noticia/3437525/"
+      }
     },
     {
       "source": "ARA",
@@ -216,12 +241,12 @@
       "published": "2026-11-04T09:19:10+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/9/1714117142190.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434445/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/latur-puja-un-2-4-el-pitjor-augment-dun-octubre-des-de-la-pandemia-tot-i-lafiliacio-record/noticia/3437742/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -252,6 +277,86 @@
       "category": "Amèrica",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "El MWC 2027 incorporarà espais dedicats a l'automoció, la salut i l'aviació",
+      "excerpt": "El Mobile World Congress incorporarà a l'edició del 2027 tres verticals temàtics per reunir \"empreses que desenvolupen tecnologies connectades amb el món real\". La pròxima edició del principal congrés tecnològic global, que se celebrarà entre l'1 i el 4 de març al recinte Gran Via de Fira de Barcelona, reservarà espais per a la salut (Connect Health), l'automòbil (Connect Auto) i l'aviació (Connect Aviation). El president i director de GSMA Ltd., John Hoffman, ha assegurat en declaracions als mitjans aquest dimecres que aquesta mena d'espais…",
+      "url": "https://www.ara.cat/economia/tecnologia/mwc-2027-incorporara-espais-dedicats-l-automocio-salut-l-aviacio_1_5900071.html",
+      "published": "2026-11-04T18:01:46+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f4d71436-a8a8-4edc-94b9-1f1c4c84e27a_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "“Recordo dir als pares: «Pareu de portar-me a manifestacions. Jo vull anar a Disneyland!»”",
+      "excerpt": "Efectivament, no és ella, a la foto de WhatsApp, sinó Jennifer Aniston, la Rachel de Friends, amb un gest característic seu de mig princesa, mig rondinaire. Alba Riera és tan fan de la sèrie que, per Nadal, la família juga a un Trivial sobre la mítica sitcom que van preparar artesanalment fa anys. L'expresentadora de La turra es va posar aquesta imatge un dia al perfil, fa temps, tothom li va dir que era ella literalment, i aquí s'ha quedat.",
+      "url": "https://www.ara.cat/media/recordo-dir-als-pares-pareu-portar-manifestacions-vull-disneyland_128_5899559.html",
+      "published": "2026-11-04T18:00:31+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/da1fdd92-535d-4fc5-bd80-2f5d95a72b31_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Vull obrir a Barcelona un restaurant nou de cuina tradicional mediterrània\"",
+      "excerpt": "Entrevisto el cuiner Albert Adrià una tarda abans que obri les portes del restaurant Enigma. Al seu estudi té uns fulls en blanc en què ha dibuixat vuit possibles plats nous. A part dels plats, també parlem de la sèrie Gènesi , en què l’actor Carlos Cuevas ha fet d’Albert Adrià. I sobretot comentem la llista 50th Best Restaurants: aquest dimecres a Lima, Perú, es revelaran els resultats dels cinquanta millors restaurants. L’any passat, Enigma va quedar situat en el número 34, és a dir…",
+      "url": "https://mengem.ara.cat/xefs/vull-obrir-barcelona-restaurant-nou-cuina-tradicional-mediterrania_128_5897363.html",
+      "published": "2026-11-04T18:00:30+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/70469f26-0097-45c8-a333-de5eb3a3a3b0_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els americans han despullat el rei",
+      "excerpt": "No ha estat l’evidència que Trump és un president mentider, groller, egòlatra, amb símptomes d’incapacitat mental i que només mira per ell i els seus amics el que fonamentalment l’ha derrotat, sinó el cost de la vida. It is what it is.",
+      "url": "https://www.ara.cat/opinio/americans-han-despullat-rei_129_5900068.html",
+      "published": "2026-11-04T17:37:22+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1abf3a65-4c3c-43f1-ae9e-f64eca81b83a_16-9-aspect-ratio_default_0_x807y421.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Trump i la condemna del poble",
+      "excerpt": "Les eleccions de mig mandat dels Estats Units d’ahir són sens dubte un moment històric, un tsunami fins no fa gaire imprevisible. Demògrafs, sociòlegs i comunicadors, atents. No és només un punt d'inflexió en la història miserable d'exercici del mal i de sadisme protagonitzada durant dos eterns anys per Donald Trump i la seva administració. És la fi d’una bombolla de la qual la gent s’ha despertat, de cop, en els últims mesos. Han sigut les condicions materials de la vida les que han fet…",
+      "url": "https://www.ara.cat/opinio/trump-condemna-poble_129_5900047.html",
+      "published": "2026-11-04T17:34:07+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8ed4e737-996d-4976-9892-39f96450cfb6_16-9-aspect-ratio_default_0_x737y278.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "“No volem veure com desapareix la llengua”: vuit batlles compareixen a la justícia francesa per haver reconegut l’èuscar",
+      "excerpt": "Els municipis d'Euskadi Nord defensen que els acords tan sols reconeixen el paper històric de la llengua i demanen diàleg a la prefectura francesa",
+      "url": "https://www.vilaweb.cat/noticies/desapareix-llengua-vuit-batlles-euscar/",
+      "published": "2026-11-04T17:24:46+01:00",
+      "category": "País Basc",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Nou canvi de temps dijous, amb ruixats dispersos en alguns llocs",
+      "excerpt": "La calma i el sol han tornat a dominar aquest dimecres en moltes comarques després de la tongada de pluja general de dimarts, que va deixar més de 130 l/m² al Camp de Tarragona i la primera nevada destacada i general de la tardor a les cotes mitjanes i altes del Pirineu, amb gruixos d’entre 5 i 15 centímetres. Les temperatures han remuntat una mica al migdia, després de tocar fons durant la nit. A primera hora ha calgut la jaqueta o el jersei, amb…",
+      "url": "https://www.ara.cat/previsions/nou-canvi-temps-dijous-ruixats-dispersos-llocs_1_5900088.html",
+      "published": "2026-11-04T17:23:37+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/27f0440f-f10c-4adb-97cd-0c96d7632cc0_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El turisme creix sense fre a Catalunya: aquests són els llindars que ha superat",
+      "excerpt": "Catalunya continua superant tots els rècords en turisme. Per primera vegada, ha traspassat la barrera dels 16 milions de visitants internacionals en els nou primers mesos de l'any –un període especialment significatiu perquè inclou l'estiu, tradicionalment l'època més forta– i dels 20.000 milions d'euros de despesa totals.",
+      "url": "https://www.ara.cat/economia/macroeconomia/turisme-creix-fre-catalunya-aquests-son-llindars-superat_1_5899898.html",
+      "published": "2026-11-04T17:20:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/59ecb8e2-f157-4d3f-97c0-4ef6ced90abe_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -324,6 +429,31 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Desconfiança d’alguns usuaris de l’alta velocitat: “Hi ha gent que no vol agafar el tren”",
+      "excerpt": "L’accident ferroviari d’Urda, a Toledo, ha minvat la confiança en l’alta velocitat fins al punt que alguns usuaris habituals ja han buscat aquests dies transports alternatius per esquivar el tren, també en la línia Barcelona-Madrid. És el cas d’alguns assistents a l’Smart City Expo que s’està celebrant al recinte firal de Gran Via. “Vinc de […]",
+      "url": "https://beteve.cat/mobilitat/desconfianca-alta-velocitat-accident-gent-no-vol-tren/",
+      "published": "2026-11-04T16:40:28+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/alta-velocitat-sants-051026-2026-10-05.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La neu emblanquina bona part del Pirineu i deixa imatges hivernals",
+      "excerpt": "En general, els gruixos acumulats no han estat importants, però han superat els 10 centímetres en alguns sectors d'alta muntanya",
+      "url": "https://www.3cat.cat/3catinfo/la-neu-emblanquina-bona-part-del-pirineu-i-deixa-imatges-hivernals/noticia/3437813/",
+      "published": "2026-11-04T16:34:04+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/2/1793793256327.jpeg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434389/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-neu-emblanquina-bona-part-del-pirineu-i-deixa-imatges-hivernals/noticia/3437813/"
+      }
+    },
+    {
       "source": "VilaWeb",
       "title": "Zapatero reconeix que no disposa de cap document que acrediti l’origen de les joies que li van trobar al despatx",
       "excerpt": "L’ex-president espanyol assegura que van ser un regal personal de l’Aràbia Saudita el 2007 i recorre contra la negativa del jutge a investigar-ne la procedència",
@@ -351,6 +481,16 @@
       "published": "2026-11-04T16:00:51+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/9/1793798036996.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Vist per a sentència el judici contra l'home que va agredir sexualment tres nebodes seves a Lleida",
+      "excerpt": "La Fiscalia, que demanava 65 anys de presó, ha rebaixat finalment la petició a 53 anys i sis mesos, tot i que ha mantingut els 90.000 euros d'indemnització",
+      "url": "https://www.3cat.cat/3catinfo/vist-per-a-sentencia-el-judici-contra-lhome-que-va-agredir-sexualment-tres-nebodes-seves-a-lleida/noticia/3437858/",
+      "published": "2026-11-04T15:59:26+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/5/1793795466255.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -471,12 +611,12 @@
       "published": "2026-11-04T14:00:33+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/7/1793794208277.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434433/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/no-nomes-ha-perdut-trump-les-midterm-obren-un-nou-cicle-politic-als-eua/noticia/3437812/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -776,12 +916,12 @@
       "published": "2026-11-04T12:01:29+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/0/1793787144905.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434454/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/un-10-dels-homes-admet-haver-agredit-sexualment-un-menor-almenys-un-cop-a-la-vida/noticia/3437737/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -1161,12 +1301,12 @@
       "published": "2026-11-04T07:44:49+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/0/1793773800709.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434433/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/trump-admet-la-desfeta-a-les-midterm-pero-evita-la-responsabilitat-no-ho-veig-en-contra-meu/noticia/3437732/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
