@@ -52,6 +52,27 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "ARA",
+      "title": "Les borses celebren amb pujades la derrota de Trump i l'energia s'abarateix",
+      "excerpt": "Els mercats financers han reaccionat aquest dimecres amb optimisme davant la derrota del Partit Republicà a les eleccions legislatives dels Estats Units. La majoria dels parquets del món han tancat la jornada amb guanys, mentre que el preu del petroli ha registrat caigudes destacades, tot i que es manté a nivells propers als 100 dòlars per barril en el cas del Brent, el cru de referència a Europa.",
+      "url": "https://www.ara.cat/economia/mercats/borses-celebren-pujades-derrota-trump-l-energia-s-abarateix_1_5900245.html",
+      "published": "2026-11-04T20:51:32+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/06d773b8-c05e-420c-a46f-85e6a45a516a_16-9-aspect-ratio_default_0_x2668y1820.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "El vòrtex polar s'està afeblint i es podria dividir: conseqüència per a aquest hivern",
+      "excerpt": "Aquest fenomen inusual podria portar temperatures molt baixes i nevades a Catalunya durant els mesos de desembre i gener",
+      "url": "https://www.3cat.cat/3catinfo/el-vortex-polar-sesta-afeblint-i-es-podria-dividir-consequencia-per-a-aquest-hivern/noticia/3437653/",
+      "published": "2026-11-04T20:47:42+01:00",
+      "updated": "2026-11-04T20:48:44+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/4/1793729035749.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió d'aquest dijous: tornen alguns ruixats de distribució irregular",
       "excerpt": "Retorna un àrea d'inestabilitat més aviat dèbil",
@@ -316,6 +337,136 @@
     },
     {
       "source": "VilaWeb",
+      "title": "El PSPV reclama que la Diputació d’Alacant s’incorpori al Fons de Cooperació Municipal",
+      "excerpt": "Els socialistes presenten quinze propostes valorades en 119 milions d’euros per al pressupost del 2027, entre les quals hi ha mesures d’habitatge, mobilitat i prevenció d’incendis",
+      "url": "https://www.vilaweb.cat/noticies/el-pspv-reclama-que-la-diputacio-dalacant-sincorpori-al-fons-de-cooperacio-municipal/",
+      "published": "2026-11-04T21:06:18+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-05-11-2026_134_5900386.html",
+      "published": "2026-11-04T21:04:47+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Infobarris",
+      "excerpt": "Torna Infobarris, el programa informatiu de betevé dedicat a explicar la realitat dels barris de Barcelona. Cada dia en directe, de 19 h a 19.40 h, la periodista Núria Llabina i un equip experimentat d’especialistes en el territori copsaran les històries i el batec als carrers de Barcelona.",
+      "url": "https://beteve.cat/infobarris/infobarris-198/",
+      "published": "2026-11-04T20:58:02+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Qui ha votat els demòcrates? Tots els grups demogràfics giren a l'esquerra",
+      "excerpt": "Els votants de tots els grups demogràfics del país –de totes les races, edats, gèneres i nivells d'educació– han tornat a decantar-se pel Partit Demòcrata, i han revertit el desplaçament generalitzat del suport electoral cap als republicans que es va produir el 2024.",
+      "url": "https://www.ara.cat/internacional/estats-units/votat-democrates-tots-grups-demografics-giren-l-esquerra_1_5900316.html",
+      "published": "2026-11-04T20:56:47+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/90985c77-89f0-4fac-81cb-0a4007f2b6b6_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Desallotgen un bloc de vint pisos a Badalona per esquerdes estructurals",
+      "excerpt": "Els bombers i l'arquitecte municipal constaten greus danys i caldrà reformar tot l'edifici",
+      "url": "https://www.vilaweb.cat/noticies/desallotjament-bloc-20-pisos-badalona-esquerdes-estructurals/",
+      "published": "2026-11-04T20:41:03+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Una incidència amb els correus de Gmail impedeix els usuaris sol·licitar el Bonus Cultura de 20 €",
+      "excerpt": "Primer dia per demanar el Bonus Cultura de 20 € i els usuaris estan tenint problemes amb la plataforma digital habilitada per fer la sol·licitud. L’Ajuntament reconeix que hi ha una incidència amb Gmail, el servei de correu electrònic gratuït de Google, que impedeix demanar aquest abonament. Fonts municipals han explicat a betevé que hi […]",
+      "url": "https://beteve.cat/cultura/incidencia-correus-gmail-usuaris-bonus-cultura-20-euros/",
+      "published": "2026-11-04T20:36:19+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/pantalla-web-bonus-cultura-1-2026-11-04-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Per cada dòlar destinat a protegir la natura, se'n destinen 33 a destruir-la",
+      "excerpt": "Per cada dòlar que s’inverteix en solucions per protegir la natura, se’n destinen 33 a activitats que contribueixen a degradar-la. És la contradicció que ha planat sobre la cimera mundial de la biodiversitat de les Nacions Unides (COP17) celebrada a Yerevan, Armènia. Després de dues setmanes d’estira-i-arronsa i una ronda de negociacions de gairebé 12 hores, la presidència de la COP17 donava per tancada la cimera amb un to triomfal, anunciant prop de 2.000 milions de dòlars en nous compromisos de finançament per conservar la…",
+      "url": "https://www.ara.cat/ciencia-medi-ambient/conservacio/dolar-destinat-protegir-natura-n-destinen-33-destruir_1_5900070.html",
+      "published": "2026-11-04T20:34:11+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7405c7a7-7a1c-488a-b122-0a8116d7587c_16-9-aspect-ratio_default_0_x2041y1085.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els pèrits alerten de deformacions similars a les que van causar l’accident d’Adamuz a la línia Madrid-Sevilla",
+      "excerpt": "Els experts consideren que cal aclarir les actuacions de renovació i manteniment de la infrastructura · Alerten de les semblances entre les deformacions detectades en altres desviaments i les que hi havia a tocar del punt on es va trencar la soldadura",
+      "url": "https://www.vilaweb.cat/noticies/perits-alerten-deformacions-similars-causar-accident-adamuz-linia-madrid-sevilla/",
+      "published": "2026-11-04T20:32:42+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Via 15",
+      "excerpt": "Via 15 és una coproducció en què col·laboren 15 televisions locals de la regió metropolitana.",
+      "url": "https://beteve.cat/via-15/via-15-21/",
+      "published": "2026-11-04T20:21:20+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Dimiteix el president d'Adif una setmana després de l'accident de trens a Toledo",
+      "excerpt": "El fins ara president d'Adif, Luis Pedro Marco de la Peña, ha presentat aquest dimecres la seva dimissió davant del vicepresident del govern espanyol, Carlos Cuerpo, que s'estrenava avui mateix també com a ministre de Transports. Així ho confirmen fonts del govern espanyol. Marco de la Peña ha renunciat al càrrec a la gestora ferroviària l'endemà que el ja exministre de Transports Óscar Puente també dimitís, i una setmana després del tràgic accident de tren a Urda (Toledo), que ha deixat 69 víctimes mortals.",
+      "url": "https://www.ara.cat/societat/mobilitat/dimiteix-president-d-adif-setmana-despres-l-accident-trens_1_5900266.html",
+      "published": "2026-11-04T20:14:11+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f9deb9f6-e3a1-4cb8-a386-ac649d4ba5d2_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El president d'Adif dimiteix hores després del nomenament de Cuerpo al capdavant de Transports",
+      "excerpt": "Pedro Luis Marco de la Peña era responsable dels centres de control ferroviaris i ha estat citat d'urgència per Cuerpo aquest mateix dimecres",
+      "url": "https://www.3cat.cat/3catinfo/el-president-dadif-dimiteix-hores-despres-del-nomenament-de-cuerpo-al-capdavant-de-transports/noticia/3437955/",
+      "published": "2026-11-04T20:12:53+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/1/6/1793815859961.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Desallotgen una vuitantena de veïns d'un edifici al barri de Sant Roc de Badalona per una esquerda",
+      "excerpt": "Bombers i Guàrdia Urbana han intervingut per evacuar de manera preventiva els habitants de l'immoble en mal estat",
+      "url": "https://www.3cat.cat/3catinfo/desallotgen-una-vuitantena-de-veins-dun-edifici-al-barri-de-sant-roc-de-badalona-per-una-esquerda/noticia/3437951/",
+      "published": "2026-11-04T20:08:10+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/6/8/1793819188886.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Sant Andreu segueix creixent: xifra rècord i històrica de socis",
+      "excerpt": "La Unió Esportiva Sant Andreu viu un moment històric tant des del punt de vista esportiu com social. El club andreuenc creix i creix i ha informat que ha arribat a una xifra d’associats que és de rècord i històrica. El número de socis ha arribat als 6.000. Èxit esportiu i social El Sant Andreu […]",
+      "url": "https://beteve.cat/esports/sant-andreu-segueix-creixent-xifra-record-historica-socis/",
+      "published": "2026-11-04T20:05:58+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/aficio-sant-andreu-can-drago-castilla-1-2026-09-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
       "title": "“Són projectes fallits”: Ara Més – Front Ampli es reivindica a Barcelona com l’alternativa al PP i PSOE a les Illes",
       "excerpt": "La coalició presenta a l'Espai Mallorca la candidatura única i situa l'habitatge, el cost de la vida i el model territorial com a prioritats polítiques",
       "url": "https://www.vilaweb.cat/noticies/ara-mes-barcelona-reivindica-alternativa-pp-psoe-illes/",
@@ -372,6 +523,16 @@
       "published": "2026-11-04T19:19:16+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/419f05cc-0db4-45e9-90c5-9ee6c1e554b7_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Un detingut en el desmantellament d’un punt de distribució de drogues sintètiques a l’Eixample",
+      "excerpt": "Cop policial al narcotràfic de drogues sintètiques a Barcelona. Els Mossos i la Guàrdia Urbana han desmantellat un punt de distribució d’aquest tipus d’estupefaents químics que operava a l’Eixample. L’actuació policial ha comportat la detenció d’una persona i la investigació d’una altra per la seva presumpta vinculació amb el tràfic de drogues. A l’operatiu s’han […]",
+      "url": "https://beteve.cat/societat/detingut-desmantellament-punt-distribucio-drogues-sintetiques-eixample/",
+      "published": "2026-11-04T19:15:56+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/detencio-drogues-sintetiques-eixample-1-2026-11-04.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -472,6 +633,16 @@
       "published": "2026-11-04T18:06:37+01:00",
       "category": "Esports",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La Memòria Documental del Carmel estrena web per preservar la història del barri",
+      "excerpt": "La història recent del Carmel ja es pot consultar en un únic espai digital. La Memòria Documental del Carmel ha estrenat una plataforma web que recopila fotografies, filmacions, publicacions, cartells i testimonis vinculats a la història del barri. El projecte neix amb la voluntat de preservar la memòria col·lectiva del Carmel i posar-la a l’abast […]",
+      "url": "https://beteve.cat/historia/memoria-documental-carmel-estrena-web-preservar-historia/",
+      "published": "2026-11-04T18:06:08+01:00",
+      "category": "història",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/memoria-carmel3-041126-2026-11-04.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -666,7 +837,7 @@
       "url": "https://beteve.cat/economia/toquio-escollida-smart-city-any-2026/",
       "published": "2026-11-04T16:53:10+01:00",
       "category": "economia",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/premi-smart-city-2026-11-04.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/premi-smart-city-toquio-2026-11-04.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1461,7 +1632,7 @@
       "url": "https://www.ara.cat/internacional/estats-units/l-inici-resurreccio-democrata-partit-ja-pensa-presidencials_1_5899381.html",
       "published": "2026-11-04T08:48:27+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/af17555a-ec55-4de5-8526-2113081aee79_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/af17555a-ec55-4de5-8526-2113081aee79_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
