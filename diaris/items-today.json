@@ -42,6 +42,32 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió d'aquest dijous: tornen alguns ruixats de distribució irregular",
+      "excerpt": "Retorna un àrea d'inestabilitat més aviat dèbil",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/",
+      "published": "2026-11-04T18:31:41+01:00",
+      "updated": "2026-11-04T18:54:16+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/1/1793814839619.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434476/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els Sis de Saragossa reclamen al govern espanyol els indults pendents abans de les eleccions",
+      "excerpt": "La plataforma exigeix l’alliberament d’Imad i Daniel, empresonats d’ençà de fa dos anys i mig per una protesta contra Vox, després d'haver indultat l’executiu de PSOE i Sumar dos dels altres condemnats el setembre del 2025",
+      "url": "https://www.vilaweb.cat/noticies/sis-saragossa-govern-espanyol-indults-eleccions/",
+      "published": "2026-11-04T18:53:31+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "La diputació permanent del congrés espanyol votarà els decrets d’habitatge el 12 de novembre",
       "excerpt": "El debat es farà l’endemà de la vaga general i un dia abans del començament de la campanya electoral",
@@ -105,12 +131,12 @@
       "published": "2026-11-04T15:29:33+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/1/9/1793704494091.jpeg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434406/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/job-dating-entrevistes-rapides-per-trobar-feina-en-una-de-les-comarques-amb-mes-atur/noticia/3437525/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -280,12 +306,52 @@
     },
     {
       "source": "ARA",
+      "title": "Bob Dylan visita el Papa Lleó XIV al Vaticà",
+      "excerpt": "El papa Lleó XIV i el músic Bob Dylan s'han reunit al Palau Apostòlic del Vaticà aquest dimecres, aprofitant que el músic està de gira per Europa i actua el 5 de novembre a Roma i el dia 7 a Bolonya. Dylan s'hi ha presentat vestit de negre, amb guants i una caputxa. Tot i el contrast cromàtic, tots dos han encaixat les mans i han conversat amigablement.",
+      "url": "https://www.ara.cat/gent/musics/bob-dylan-visita-papa-lleo-xiv-vatica_1_5900227.html",
+      "published": "2026-11-04T18:49:32+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b9689e93-530b-402f-a3f0-50c1e5e776e9_source-aspect-ratio_default_0_x1374y158.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Neixen cinc nous cadells de llop a Catalunya",
+      "excerpt": "Catalunya no havia registrat cap naixement de llop en els últims cent anys, però sembla que aquesta tendència comença a canviar: per segon any consecutiu, una parella de llops ( Canis lupus ) ha criat a casa nostra. Tal com han confirmat aquest dimecres els Agents Rurals, en els últims dies han nascut cinc cadells d'una parella de llops de l'Alt Empordà i l'Alta Garrotxa.",
+      "url": "https://www.ara.cat/societat/medi-ambient/neixen-cinc-nous-cadells-llop-catalunya_1_5900126.html",
+      "published": "2026-11-04T18:36:14+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1d161343-5675-41da-9da2-17b799035075_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Una avaria elèctrica al metro de València causa retards i interrupcions en quatre línies",
+      "excerpt": "La incidència afecta les línies 3, 5, 7 i 9 de Metrovalencia · La línia 7 només funciona entre les estacions de Bailèn i Torrent Avinguda",
+      "url": "https://www.vilaweb.cat/noticies/avaria-electrica-metro-valencia-causa-retards-interrupcions/",
+      "published": "2026-11-04T18:33:38+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El porter del FC Andorra trenca el silenci: “Són els dies més difícils de la meva vida, entomaré el que vingui”",
+      "excerpt": "Owono, implicat en la topada que va causar la mort del futbolista del Tenerife, expressa el dolor per la tragèdia i assegura que afrontarà amb respecte les qüestions que se’n derivin",
+      "url": "https://www.vilaweb.cat/noticies/el-porter-del-fc-andorra-trenca-el-silenci-son-els-dies-mes-dificils-de-la-meva-vida-entomare-el-que-vingui/",
+      "published": "2026-11-04T18:06:37+01:00",
+      "category": "Esports",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
       "title": "El MWC 2027 incorporarà espais dedicats a l'automoció, la salut i l'aviació",
       "excerpt": "El Mobile World Congress incorporarà a l'edició del 2027 tres verticals temàtics per reunir \"empreses que desenvolupen tecnologies connectades amb el món real\". La pròxima edició del principal congrés tecnològic global, que se celebrarà entre l'1 i el 4 de març al recinte Gran Via de Fira de Barcelona, reservarà espais per a la salut (Connect Health), l'automòbil (Connect Auto) i l'aviació (Connect Aviation). El president i director de GSMA Ltd., John Hoffman, ha assegurat en declaracions als mitjans aquest dimecres que aquesta mena d'espais…",
       "url": "https://www.ara.cat/economia/tecnologia/mwc-2027-incorporara-espais-dedicats-l-automocio-salut-l-aviacio_1_5900071.html",
       "published": "2026-11-04T18:01:46+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/f4d71436-a8a8-4edc-94b9-1f1c4c84e27a_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/f4d71436-a8a8-4edc-94b9-1f1c4c84e27a_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -306,6 +372,26 @@
       "published": "2026-11-04T18:00:30+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/70469f26-0097-45c8-a333-de5eb3a3a3b0_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La família de Guillem Agulló demana que se'l reconegui com a víctima de terrorisme",
+      "excerpt": "Els pares i la germana del jove valencià assassinat per un grup d'ultradreta el 1993 demana a Sánchez i Marlaska que restitueixin la seva memòria",
+      "url": "https://www.3cat.cat/3catinfo/la-familia-de-guillem-agullo-demana-que-sel-reconegui-com-a-victima-de-terrorisme/noticia/3437827/",
+      "published": "2026-11-04T17:56:09+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1793792786726.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Barça de futbol sala s’enfrontarà a l’Olmissum en els vuitens de Champions",
+      "excerpt": "El Barça ja coneix el seu contrincant en l’eliminatòria de vuitens de final de la Lliga de Campions de futbol sala. Serà l’MNK Olmissum croata. El partit d’anada serà el 23 de novembre a Croàcia i la tornada se celebrarà el 4 de desembre al Palau Blaugrana. També s’ha definit el camí del Barça si […]",
+      "url": "https://beteve.cat/esports/barca-futbol-sala-senfrontara-olmissum-vuitens-champions/",
+      "published": "2026-11-04T17:41:48+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/Fotos-Beteve-2026-10-04T111141.794-2026-10-04.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -379,6 +465,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Cristina Fernández Cubas: “Cada conte és una aventura que comença de nou”",
+      "excerpt": "La trucada del ministre de Cultura aquest dimarts va agafar “per sorpresa” Cristina Fernández Cubas, que no s’imaginava la notícia que acabava de guanyar el Premi Cervantes 2026. L’escriptora ha agraït el guardó, que entén com un reconeixement al gènere del relat, al qual ha dedicat gran part de la seva creació literària. Per això, […]",
+      "url": "https://beteve.cat/cultura/cristina-fernandez-cubas-cada-conte-es-aventura/",
+      "published": "2026-11-04T17:02:33+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/fernandez-cubas-2026-11-04.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Jesús Owono trenca el silenci: \"Són els dies més difícils de la meva vida\"",
       "excerpt": "48 hores després del tràgic incident a l'Heliodoro Rodríguez López, que va acabar amb la mort de Jesús de Miguel , Jesús Owono ha trencat el seu silenci. \"Són els dies més difícils de la meva vida. Em costa trobar les paraules i em resulta molt difícil assimilar res del que ha passat\", assegura el porter de l'Andorra en un comunicat distribuït pel mateix club a través de les seves xarxes socials.",
@@ -397,6 +493,21 @@
       "category": "Actualitat",
       "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
       "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Nova temporada del \"Crackòvia\": Pedrerol, Bad Bunny i 15 gags mítics",
+      "excerpt": "El mític programa de sàtira esportiva ha tornat a 3Cat amb nous gags, noves escenes i nous personatges",
+      "url": "https://www.3cat.cat/3catinfo/nova-temporada-del-crackovia-pedrerol-bad-bunny-i-15-gags-mitics/noticia/3431066/",
+      "published": "2026-11-04T16:55:44+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/6/1789901109460.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/2806770/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/nova-temporada-del-crackovia-pedrerol-bad-bunny-i-15-gags-mitics/noticia/3431066/"
+      }
     },
     {
       "source": "VilaWeb",
@@ -446,12 +557,12 @@
       "published": "2026-11-04T16:34:04+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/2/1793793256327.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434389/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-neu-emblanquina-bona-part-del-pirineu-i-deixa-imatges-hivernals/noticia/3437813/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -760,7 +871,7 @@
     },
     {
       "source": "ARA",
-      "title": "Cristina Fernández Cubas després del Cervantes: \"Els contes són com un amant infidel, que si no n’estàs pendent se’n va amb una altra\"",
+      "title": "Cristina Fernández Cubas: \"A la tauleta de nit és on es veu l’edat de la gent\"",
       "excerpt": "La premi Cervantes 2026, Cristina Fernández Cubas, apareix amb pas lleuger, gavardina llarga i la seva habitual elegància sòbria a La Casa del Llibre de la Rambla de Catalunya de Barcelona. Fa poques hores que ha rebut la trucada del ministre de Cultura, Ernest Urtasun , que explica que la va agafar desprevinguda, a mig veure una pel·lícula, després d'un matí de metges. Diu que va respondre-li antipàtica: \"Em vaig quedar de pedra, sense paraules\". De seguida se li va col·lapsar el telèfon amb felicitacions.…",
       "url": "https://llegim.ara.cat/actualitat/cristina-fernandez-cubas-despres-cervantes-contes-son-amant-infidel-no-pendent-altra_1_5899729.html",
       "published": "2026-11-04T13:11:22+01:00",
