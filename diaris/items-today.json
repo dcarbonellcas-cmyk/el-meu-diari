@@ -42,6 +42,52 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimecres: el sol torna amb el permís de les boires",
+      "excerpt": "Matí fred amb boires a l'interior i dia assolellat amb bonança a migdia",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-el-sol-torna-amb-allunyament-de-la-pertorbacio/noticia/3437465/",
+      "published": "2026-11-03T18:55:20+01:00",
+      "updated": "2026-11-04T17:01:42+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/2/1793808007020.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434463/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-el-sol-torna-amb-allunyament-de-la-pertorbacio/noticia/3437465/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Kurdistan meridional elegeix una presidenta del parlament després de dos anys de paràlisi política",
+      "excerpt": "Vala Farid, del Partit Democràtic del Kurdistan, ha rebut el suport dels 52 diputats presents, malgrat el boicot de la Unió Patriòtica del Kurdistan i els seus aliats",
+      "url": "https://www.vilaweb.cat/noticies/kurdistan-meridional-parlament-paralisi-politica/",
+      "published": "2026-11-04T16:39:59+01:00",
+      "category": "Llevant",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Brussel·les apunta als salaris baixos com un problema al sector turístic",
+      "excerpt": "La manera d'enfocar el turisme comença a virar també a Brussel·les. Si fins ara les incipients directrius europees giraven al voltant de la competitivitat i la resiliència del sector, ara l'executiu comunitari parla de “pressió creixent” sobre determinades destinacions que tenen dificultats per gestionar l'afluència, sobretot a l'estiu, i assenyala els salaris baixos com un problema generalitzat.",
+      "url": "https://www.ara.cat/economia/mercat-laboral/brussel-apunta-als-salaris-baixos-problema-sector-turistic_1_5899995.html",
+      "published": "2026-11-04T16:36:20+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0f1ee0d3-1f00-4769-ade7-07f8e9a7ba5e_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Un Congrés hostil amb Trump: els fronts que els demòcrates volen obrir contra ell",
+      "excerpt": "La corrupció en els negocis familiars, la guerra de l'Iran, la política antiimmigració i el cas Epstein, entre els fronts que l'oposició vol obrir contra el president",
+      "url": "https://www.3cat.cat/3catinfo/un-congres-hostil-amb-trump-els-fronts-que-els-democrates-volen-obrir-contra-ell/noticia/3437815/",
+      "published": "2026-11-04T15:57:36+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/7/1741155644775.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "La família de Guillem Agulló reclama al govern espanyol que el reconegui com a víctima del terrorisme d'extrema dreta",
       "excerpt": "A les portes de les eleccions generals del 29-N, la família de Guillem Agulló continua a l'espera que el govern espanyol es mogui per “reparar el dany” i per “honrar la memòria” del jove antifeixista i independentista assassinat fa 33 anys a mans de l'extrema dreta . L'abril d'aquest any els pares i les germanes de l'activista van sol·licitar al ministeri de l'Interior que el reconegués com a víctima del terrorisme d'extrema dreta. Ara per ara, el departament de Fernando Grande-Marlaska només ha demanat dos…",
@@ -49,6 +95,16 @@
       "published": "2026-11-04T14:54:31+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/215ea858-0073-4ba6-82f6-40041446d873_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "L’aFFaC demana als mestres aixecar el boicot a les colònies i sortides escolars",
+      "excerpt": "Ja fa mesos que l’aFFac (Associacions Federades de Famílies d’Alumnes de Catalunya) veu com la cancel·lació de les sortides i colònies en molts centres és una qüestió que preocupa a les famílies. Des que els docents van optar per aquesta mesura de pressió, l’associació ha instat al Departament d’Educació a moure fitxa i crear un […]",
+      "url": "https://beteve.cat/societat/affac-demana-aixecar-boicot-colonies-i-sortides-mesura-pressio/",
+      "published": "2026-11-04T14:44:16+01:00",
+      "category": "educació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/06/primer-dia-escola-2-190626.jpg",
       "priority": "2 · Important"
     },
     {
@@ -103,7 +159,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Alhora registra una ILP al parlament perquè RENFE deixi d’operar Rodalia",
+      "title": "Alhora registra una ILP al parlament perquè RENFE deixi de gestionar Rodalia",
       "excerpt": "Mig miler de persones, segons l'organització, es concentra davant la cambra catalana amb crits d'independència",
       "url": "https://www.vilaweb.cat/noticies/alhora-registra-ilp-parlament-renfe-deixi-operar-rodalia/",
       "published": "2026-11-04T13:30:21+01:00",
@@ -132,22 +188,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dimecres: el sol torna amb el permís de les boires",
-      "excerpt": "Matí fred amb boires a l'interior i dia assolellat amb bonança a migdia",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-el-sol-torna-amb-allunyament-de-la-pertorbacio/noticia/3437465/",
-      "published": "2026-11-03T18:55:20+01:00",
-      "updated": "2026-11-04T10:36:06+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/8/1793784915183.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434307/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-el-sol-torna-amb-allunyament-de-la-pertorbacio/noticia/3437465/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "betevé",
       "title": "Horari dels col·legis electorals: quan obren i tanquen el 29-N per les eleccions espanyoles 2026?",
       "excerpt": "Quin és l’horari dels col·legis electorals? El diumenge 29 de novembre són les eleccions espanyoles 2026. Milions de ciutadans estan cridats a exercir el dret a vot el 29-N i ja es poden consultar les dades censals, on trobaràs, també, el col·legi electoral i la mesa on has de dipositar el teu vot. Aquest 2026, […]",
@@ -171,12 +211,17 @@
     {
       "source": "3CatInfo",
       "title": "L'atur registra el pitjor augment un octubre des del 2019 tot i l'afiliació rècord per la regularització",
-      "excerpt": "La xifra d'afiliació a la Seguretat Social arriba ja als 4,03 milions a Catalunya, més de 29.000 treballadors en actiu més respecte de setembre",
+      "excerpt": "La xifra d'afiliació a la Seguretat Social arriba ja a 4,03 milions a Catalunya, més de 29.000 treballadors en actiu respecte al setembre",
       "url": "https://www.3cat.cat/3catinfo/latur-puja-un-2-4-el-pitjor-augment-dun-octubre-des-de-la-pandemia-tot-i-lafiliacio-record/noticia/3437742/",
       "published": "2026-11-04T09:19:10+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/9/1714117142190.jpg",
-      "priority": "2 · Important"
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434445/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/latur-puja-un-2-4-el-pitjor-augment-dun-octubre-des-de-la-pandemia-tot-i-lafiliacio-record/noticia/3437742/"
+      }
     },
     {
       "source": "ARA",
@@ -209,9 +254,119 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Per què Europa no celebra la victòria demòcrata?",
+      "excerpt": "Les capitals europees s'han despertat aquest dimecres amb titulars sobre l'onada demòcrata al Congrés dels Estats Units . Malgrat l'eufòria i les esperances que això hagi pogut generar en alguns despatxos, les declaracions institucionals han estat més aviat descafeïnades i han optat per la prudència. Una prudència que evidencia que tot i el revés electoral dels republicans no s'esperen grans canvis en política exterior.",
+      "url": "https://www.ara.cat/internacional/europa/europa-no-celebra-victoria-democrata_1_5899540.html",
+      "published": "2026-11-04T17:12:18+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f6a72e18-524d-428c-9f51-6ae4c47d2897_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Raphinha renova amb el Barça: blaugrana fins al 2030",
+      "excerpt": "El Futbol Club Barcelona ha oficialitzat la renovació de Raphinha fins al juny del 2030 després que el director esportiu, Deco, ho digués a l’assemblea de socis que el club blaugrana va fer dissabte, 19 de setembre. El brasiler s’ha convertit en un dels jugadors més importants per a Hansi Flick i per a tot […]",
+      "url": "https://beteve.cat/esports/oficial-raphinha-sera-blaugrana-fins-2030/",
+      "published": "2026-11-04T17:03:33+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/raphinha-hat-trick-sevilla-2026-09-21.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Jesús Owono trenca el silenci: \"Són els dies més difícils de la meva vida\"",
+      "excerpt": "48 hores després del tràgic incident a l'Heliodoro Rodríguez López, que va acabar amb la mort de Jesús de Miguel , Jesús Owono ha trencat el seu silenci. \"Són els dies més difícils de la meva vida. Em costa trobar les paraules i em resulta molt difícil assimilar res del que ha passat\", assegura el porter de l'Andorra en un comunicat distribuït pel mateix club a través de les seves xarxes socials.",
+      "url": "https://www.ara.cat/esports/futbol/jesus-owono-trenca-silenci-son-dies-mes-dificils-meva-vida_1_5900108.html",
+      "published": "2026-11-04T17:02:31+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a61fd892-7b31-4e15-936d-1cbf86570d62_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1923/",
+      "published": "2026-11-04T16:57:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Cinc nous cadells consoliden la tornada del llop a Catalunya després de més de cent anys",
+      "excerpt": "La Generalitat enllesteix un pla de recuperació de l’espècie, catalogada en perill d’extinció, i prepara noves mesures de protecció per a les explotacions ramaderes",
+      "url": "https://www.vilaweb.cat/noticies/cinc-nous-cadells-consoliden-el-retorn-del-llop-a-catalunya-despres-de-mes-de-cent-anys/",
+      "published": "2026-11-04T16:55:22+01:00",
+      "category": "Ecologia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Zelenski aterra a Espanya en el marc de la cimera Iberoamericana",
+      "excerpt": "El president d'Ucraïna ha aterrat fa pocs minuts a Madrid per reunir-se amb mandataris i alts càrrecs en el marc de la XXX Cimera Iberoamericana, segons confirmen fonts de la Moncloa a l'ARA. Una de les trobades que mantindrà serà amb el president del govern espanyol, Pedro Sánchez. Es reuniran aquest dijous, al final de la tarda, al Palau de la Moncloa. \"L'objectiu d'aquesta trobada és reafirmar el suport d'Espanya a Ucraïna, com ha fet des de l'inici de la guerra\", subratllen des del govern…",
+      "url": "https://www.ara.cat/politica/zelenski-aterra-espanya-marc-cimera-iberoamericana_1_5900111.html",
+      "published": "2026-11-04T16:55:12+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cb337684-bdff-4b4b-9131-f3c3b04fa9ea_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Petit repunt de la inestabilitat aquest dijous, 5 de novembre: núvols grisos i alguns plugims",
+      "excerpt": "La previsió del temps per a aquest dijous, 5 de novembre, anuncia un lleuger gir cap a la inestabilitat. Augment dels núvols grisos, cel britànic i possibles gotellades disperses. Temperatura semblant o una mica més alta. El sol podria tornar a brillar bona part de divendres, 6 de novembre, a Barcelona i la resta de […]",
+      "url": "https://beteve.cat/medi-ambient/temps-barcelona-dijous-5-novembre-inestabilitat-nuvols-plugims/",
+      "published": "2026-11-04T16:40:37+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/temps-barcelona-dijous-5-novembre-inestabilitat-nuvols-plugims-2026-11-04.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Zapatero reconeix que no disposa de cap document que acrediti l’origen de les joies que li van trobar al despatx",
+      "excerpt": "L’ex-president espanyol assegura que van ser un regal personal de l’Aràbia Saudita el 2007 i recorre contra la negativa del jutge a investigar-ne la procedència",
+      "url": "https://www.vilaweb.cat/noticies/zapatero-document-joies-despatx/",
+      "published": "2026-11-04T16:33:35+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona busca revalidar el títol de millor panettone del món a Milà: “És tot un repte”",
+      "excerpt": "Enmig de la voràgine del dia a dia i amb un calendari trufat de celebracions i dolços associats, dos pastissers han de treure temps per ultimar la preparació dels panettones que han de competir a la final de Milà de la Coppa del Mondo del Panettone els dies 7 i 8 de novembre. Hi participen […]",
+      "url": "https://beteve.cat/estils-de-vida/barcelona-busca-revalidar-titol-millor-panettone-mon/",
+      "published": "2026-11-04T16:31:31+01:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/millor-panettone-mon-2026-10-29.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Un catàleg recull per primer cop els més de 6.000 estanys i basses del Pirineu",
+      "excerpt": "L'inventari vol crear una base per facilitar la feina als investigadors, unificar criteris i evitar confusions",
+      "url": "https://www.3cat.cat/3catinfo/un-cataleg-recull-per-primer-cop-els-mes-de-6000-estanys-i-basses-del-pirineu/noticia/3437844/",
+      "published": "2026-11-04T16:00:51+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/9/1793798036996.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Patacada de Trump als EUA: el PSC, Junts, els comuns i ERC la celebren i hi veuen un camí a seguir",
+      "excerpt": "La patacada contundent del Partit Republicà americà –liderat per Donald Trump– a les midterm o eleccions de mig mandat han generat una onada de celebracions d’aquells qui estan en contra de les polítiques de dreta radical que ha impulsat els darrers anys el president dels Estats Units. El Partit Demòcrata ha aconseguit majoria absoluta al […]",
+      "url": "https://beteve.cat/politica/patacada-trump-midterm-psc-junts-comuns-erc-celebren/",
+      "published": "2026-11-04T15:56:40+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/trump-eua-2026-11-04.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "“A tu no t’hi volem”: Míriam Nogueras denuncia que TVE l’ha vetada a ‘La Revuelta’ de Broncano",
-      "excerpt": "La candidata de Junts assegura que es va posar en contacte amb el president de RTVE per participar en el programa, però va rebre una negativa · La cadena pública sí que ha convidat altres candidats a les eleccions espanyoles del 29 de novembre",
+      "excerpt": "La candidata de Junts diu que es va posar en contacte amb el president de RTVE per participar en el programa i la resposta va ser negativa · La cadena pública sí que hi ha convidat uns altres candidats a les eleccions espanyoles del 29 de novembre",
       "url": "https://www.vilaweb.cat/noticies/miriam-nogueras-tve-revuelta-broncano/",
       "published": "2026-11-04T15:55:24+01:00",
       "category": "Mitjans de comunicació",
@@ -285,7 +440,7 @@
       "url": "https://www.ara.cat/internacional/europa/ciberatacs-bancs-sang-franca-neveres-passen-30oc-110oc_1_5899677.html",
       "published": "2026-11-04T14:13:17+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/baaae62d-0b5a-4a99-9804-6b85ab52a109_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/f00b23b5-9c98-4d03-98e7-18e6ddfaebc5_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -316,7 +471,12 @@
       "published": "2026-11-04T14:00:33+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/7/1793794208277.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434433/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/no-nomes-ha-perdut-trump-les-midterm-obren-un-nou-cicle-politic-als-eua/noticia/3437812/"
+      }
     },
     {
       "source": "betevé",
@@ -395,7 +555,7 @@
       "url": "https://mengem.ara.cat/xefs/millor-cuiner-l-any-miquel-pardo-dels-restaurants-cruix-melos-barcelona_1_5899778.html",
       "published": "2026-11-04T13:43:03+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/60a86755-a6d7-489d-a169-bc0f9d628869_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/60a86755-a6d7-489d-a169-bc0f9d628869_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -616,7 +776,12 @@
       "published": "2026-11-04T12:01:29+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/0/1793787144905.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434454/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/un-10-dels-homes-admet-haver-agredit-sexualment-un-menor-almenys-un-cop-a-la-vida/noticia/3437737/"
+      }
     },
     {
       "source": "betevé",
@@ -641,7 +806,7 @@
     {
       "source": "VilaWeb",
       "title": "Trump va dir als votants: “Feu veure que jo sóc a la butlleta.” Li han fet cas",
-      "excerpt": "El resulta electoral és una repudiació completa i total d’un home i de les seves polítiques · L'expressió \"massacre\" queda curta per a explicar una derrota que tan sols es pot comparar amb la que els republicans van patir després del Watergate, l'any 1974",
+      "excerpt": "El resultat electoral és una repudiació completa i total d’un home i de la seva política · L'expressió 'escabetxada' fa curt a l'hora d'explicar una derrota que tan sols es pot comparar amb la que els republicans van viure després del Watergate, l'any 1974",
       "url": "https://www.vilaweb.cat/noticies/trump-va-dir-als-votants-feu-veure-que-jo-soc-a-la-papereta-li-han-fet-cas/",
       "published": "2026-11-04T11:45:52+01:00",
       "category": "The Washington Post",
@@ -930,8 +1095,8 @@
     },
     {
       "source": "ARA",
-      "title": "Sánchez nomena Carlos Cuerpo nou ministre de Transports després de la dimissió de Puente",
-      "excerpt": "La renúncia per sorpresa aquest dimarts del ministre de Transports, Óscar Puente , una setmana després de la tragèdia ferroviària d'Urda, ha estat l'enèsima sacsejada de la precampanya de les eleccions generals a l'Estat. El titular de Transports va anunciar la seva dimissió aquest dimarts al vespre després de donar explicacions al Congrés, i aquest matí, el president espanyol, Pedro Sánchez, ja ha nomenat el seu substitut. Serà l'actual vicepresident primer i ministre d'Economia, Carlos Cuerpo, qui assumirà la cartera de Transports. \"Accepto [la decisió…",
+      "title": "Sánchez nomena Carlos Cuerpo ministre de Transports \"transitori\" després de la dimissió de Puente",
+      "excerpt": "La renúncia per sorpresa aquest dimarts del ministre de Transports, Óscar Puente , una setmana després de la tragèdia ferroviària d'Urda, ha estat l'enèsima sacsejada de la precampanya de les eleccions generals a l'Estat. El titular de Transports va anunciar la seva dimissió aquest dimarts al vespre després de donar explicacions al Congrés durant gairebé quatre hores, i aquest matí, el president espanyol, Pedro Sánchez, ja ha nomenat el seu substitut. Serà l'actual vicepresident primer i ministre d'Economia, Carlos Cuerpo, qui assumirà la cartera de…",
       "url": "https://www.ara.cat/politica/eleccions-generals/feijoo-demana-sanchez-dimiteixi-despres-renuncia-puente_1_5899434.html",
       "published": "2026-11-04T08:16:55+01:00",
       "category": "Actualitat",
@@ -996,7 +1161,12 @@
       "published": "2026-11-04T07:44:49+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/9/0/1793773800709.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434433/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/trump-admet-la-desfeta-a-les-midterm-pero-evita-la-responsabilitat-no-ho-veig-en-contra-meu/noticia/3437732/"
+      }
     },
     {
       "source": "VilaWeb",
