@@ -2,6 +2,16 @@
   "date": "2026-11-04",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Vance atribueix la derrota dels republicans a la guerra de l’Iran: “És evident per a gairebé tothom”",
+      "excerpt": "El vice-president destaca que els ex-votants de Trump el tornarien a triar si acabés amb el conflicte i canviés la relació amb Israel",
+      "url": "https://www.vilaweb.cat/noticies/vance-atribueix-la-derrota-dels-republicans-a-la-guerra-de-liran-es-evident-per-a-gairebe-tothom/",
+      "published": "2026-11-04T19:53:02+01:00",
+      "category": "Amèrica",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "Marc Márquez: guanyar un Mundial sota l'amenaça de la guerra",
       "excerpt": "Marc Márquez ja toca amb els dits la seva desena corona mundial. Després d'una temporada molt complicada, ja que el van haver d'operar a l'inici del curs després d'una caiguda, el pilot de Cervera ha protagonitzat una remuntada increïble, en què ha anat superant tots els rivals que aspiraven a destronar-lo. Però no han pogut. Després de guanyar el Gran Premi de Malàisia , la seva victòria número 80 en MotoGP, aquest cap de setmana ja podria ser campió a Qatar.",
@@ -305,13 +315,133 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "“Són projectes fallits”: Ara Més – Front Ampli es reivindica a Barcelona com l’alternativa al PP i PSOE a les Illes",
+      "excerpt": "La coalició presenta a l'Espai Mallorca la candidatura única i situa l'habitatge, el cost de la vida i el model territorial com a prioritats polítiques",
+      "url": "https://www.vilaweb.cat/noticies/ara-mes-barcelona-reivindica-alternativa-pp-psoe-illes/",
+      "published": "2026-11-04T20:02:44+01:00",
+      "category": "Illes",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els preus passen una factura descomunal a Trump",
+      "excerpt": "Els americans no han perdonat al seu president egòlatra haver de pagar el gasoli un 90% més car que abans de començar la guerra contra l'Iran. Ni l'empitjorament general del nivell de vida. Les promeses econòmiques incomplertes l'han sentenciat",
+      "url": "https://www.vilaweb.cat/noticies/els-preus-passen-una-descomunal-factura-a-trump/",
+      "published": "2026-11-04T19:50:19+01:00",
+      "category": "La píndola",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
-      "title": "Bob Dylan visita el Papa Lleó XIV al Vaticà",
+      "title": "\"Els estatunidencs han entès que Trump és perjudicial per als seus interessos\"",
+      "excerpt": "Els demòcrates han batejat la seva contundent victòria a les eleccions de mig mandat dels Estats Units com bluenami . És a dir, un tsunami blau. És una expressió que fa somriure Pol Morillas, director del Cidob, abans de començar aquesta entrevista al plató de l’ARA. Morillas fa una anàlisi d’urgència del significat del veredicte de les midterm , que és, sobretot, un càstig sonor i majúscul per a Donald Trump.",
+      "url": "https://www.ara.cat/internacional/estats-units/estatunidencs-han-entes-trump-perjudicial-als-interessos_128_5900236.html",
+      "published": "2026-11-04T19:46:13+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f76f1264-c256-4be9-b0f4-8b2981776b91_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El principi del final del trumpisme",
+      "excerpt": "El que acaben de viure els Estats Units no han estat unes midterm normals, en què l'electorat reequilibra el poder i atorga la majoria de les cambres al partit que fa oposició al president. La magnitud de la derrota republicana va molt més enllà. Els demòcrates han guanyat en llocs on fa només dos anys Donald Trump es va imposar a Kamala Harris per 25 punts de diferència, com ara Iowa o Tennessee. Kansas feia prop d'un segle que no enviava un senador demòcrata a…",
+      "url": "https://www.ara.cat/editorial/principi-final-trumpisme_129_5900219.html",
+      "published": "2026-11-04T19:40:44+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f2cf506f-ba5b-4491-8eae-ae1b1b55a111_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Dimiteix el president d’ADIF l’endemà de la renúncia d’Óscar Puente",
+      "excerpt": "Luis Pedro Marco de la Peña ha comunicat la decisió a Carlos Cuerpo, que ha assumit provisionalment el Ministeri de Transports espanyol després de la tragèdia ferroviària d’Urda",
+      "url": "https://www.vilaweb.cat/noticies/dimiteix-el-president-dadif-lendema-de-la-renuncia-doscar-puente/",
+      "published": "2026-11-04T19:24:17+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'altar romànic de Sant Andreu de Sagàs recupera tota l'esplendor cromàtica després d'una reforma",
+      "excerpt": "El frontal i les dues taules laterals de l'altar de Sant Andreu de Sagàs han completat amb èxit el seu procés de restauració. Les tasques, que ha dut a terme l'empresa Kreit-restauro S.L. sota la direcció del Centre de Restauració de Béns Mobles de Catalunya (CRBMC), han permès recuperar la \"vivacitat\" cromàtica, que havia quedat oculta amb intervencions anteriors. A més, s'han aconseguit estabilitzar les capes de preparació i pintura de les taules laterals i s'ha reparat l'esquerda del frontal.",
+      "url": "https://www.ara.cat/cultura/patrimoni/l-altar-romanic-sant-andreu-sagas-recupera-tota-l-esplendor-cromatica-despres-d-reforma_1_5900091.html",
+      "published": "2026-11-04T19:19:16+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/419f05cc-0db4-45e9-90c5-9ee6c1e554b7_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Ferran Adrià posa punt final a l’enciclopèdia més important del món del vi",
+      "excerpt": "“Això és per a vosaltres. Ho hem fet des de Catalunya. I no s’havia fet mai. És l’enciclopèdia més important del món del vi i n’hem d’estar orgullosos”, deia Ferran Adrià. I és que a elBullifoundation estan d’enhorabona perquè han posat punt final en una de les seves obres més colossals. Una investigació ambiciosa en què ha calgut molt d’esforç i més de 100.000 euros per volum.",
+      "url": "https://mengem.ara.cat/vins-caves/ferran-adria-posa-punt-final-l-enciclopedia-mes-important-mon-vi_1_5900174.html",
+      "published": "2026-11-04T19:13:34+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d776280e-59dd-42fd-9c59-cccd943013c1_16-9-aspect-ratio_default_1061417.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Rayo Barcelona BSC, campió del món de futbol platja",
+      "excerpt": "El Rayo Barcelona BSC s’ha proclamat campió del món de futbol platja després de guanyar la final del mundial davant el Sao Pedro per tres gols a quatre a la pròrroga. El club presidit pel youtuber Spursito aconsegueix el primer mundial per les barcelonines. Adriana Manau va ser escollida com a millor jugadora de la […]",
+      "url": "https://beteve.cat/esports/rayo-barcelona-bsc-campio-mon-futbol-platja/",
+      "published": "2026-11-04T19:12:41+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/wwc26_82297.jpg-2026-11-04.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-05-11-2026_134_5899708.html",
+      "published": "2026-11-04T19:05:19+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Filtrar o no filtrar, 'that is the question'",
+      "excerpt": "Per descomptat que no és casualitat que els tres missatges que primer van filtrar els àudios de l’accident de Toledo que apuntaven a un error humà fossin El País, Eldiario.es i la SER. I tampoc és fruit d’un capriciós arrenglerament dels astres que entre el primer i l’últim d’aquests tres passés poc més d’un minut. Però això, per se , no invalida el seu valor informatiu. El periodisme es construeix sovint amb maons clandestins que una font eleva a públics perquè vol aconseguir un efecte.…",
+      "url": "https://www.ara.cat/media/filtrar-no-filtrar-that-is-the-question_129_5900235.html",
+      "published": "2026-11-04T19:03:20+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a09f4bd6-e970-4917-9316-11072132ddb2_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Kathy Sey",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/kathy-sey/",
+      "published": "2026-11-04T19:01:57+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Bob Dylan visita el papa Lleó XIV al Vaticà",
       "excerpt": "El papa Lleó XIV i el músic Bob Dylan s'han reunit al Palau Apostòlic del Vaticà aquest dimecres, aprofitant que el músic està de gira per Europa i actua el 5 de novembre a Roma i el dia 7 a Bolonya. Dylan s'hi ha presentat vestit de negre, amb guants i una caputxa. Tot i el contrast cromàtic, tots dos han encaixat les mans i han conversat amigablement.",
       "url": "https://www.ara.cat/gent/musics/bob-dylan-visita-papa-lleo-xiv-vatica_1_5900227.html",
       "published": "2026-11-04T18:49:32+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/b9689e93-530b-402f-a3f0-50c1e5e776e9_source-aspect-ratio_default_0_x1374y158.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Un tren auscultador i un sistema d’arcs als túnels: així s’analitza el metro a temps real",
+      "excerpt": "Trens especials que ausculten les vies, càmeres en els combois o un sistema d’arcs instal·lats als túnels. Són algunes de les noves tecnologies que Transports Metropolitans de Barcelona (TMB) està incorporant per monitorar la circulació del servei de metro i detectar anomalies en temps real. Amb els nous sistemes, l’empresa espera prevenir incidències abans que […]",
+      "url": "https://beteve.cat/mobilitat/tren-auscultador-sistema-arcs-tunels-analisi-metro-temps-real/",
+      "published": "2026-11-04T18:38:31+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/10/l9-l10-metro-barcelona-031022.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -327,7 +457,7 @@
     {
       "source": "VilaWeb",
       "title": "Una avaria elèctrica al metro de València causa retards i interrupcions en quatre línies",
-      "excerpt": "La incidència afecta les línies 3, 5, 7 i 9 de Metrovalencia · La línia 7 només funciona entre les estacions de Bailèn i Torrent Avinguda",
+      "excerpt": "La incidència afecta les línies 3, 5, 7 i 9 de Metrovalencia",
       "url": "https://www.vilaweb.cat/noticies/avaria-electrica-metro-valencia-causa-retards-interrupcions/",
       "published": "2026-11-04T18:33:38+01:00",
       "category": "País Valencià",
@@ -502,12 +632,12 @@
       "published": "2026-11-04T16:55:44+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/6/1789901109460.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/2806770/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/nova-temporada-del-crackovia-pedrerol-bad-bunny-i-15-gags-mitics/noticia/3431066/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -527,6 +657,16 @@
       "published": "2026-11-04T16:55:12+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/cb337684-bdff-4b4b-9131-f3c3b04fa9ea_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Tòquio, escollida Smart City de l’any 2026",
+      "excerpt": "La ciutat de Tòquio ha estat escollida Smart City 2026 en la gala dels World Smart City Awards celebrada aquest dimecres al vespre. Aquest és el premi principal d’uns guardons que reconeixen les iniciatives i els projectes més destacats del sector de la innovació i la transformació urbanes. S’hi han presentat 533 propostes —un rècord— […]",
+      "url": "https://beteve.cat/economia/toquio-escollida-smart-city-any-2026/",
+      "published": "2026-11-04T16:53:10+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/premi-smart-city-2026-11-04.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -582,6 +722,16 @@
       "published": "2026-11-04T16:31:31+01:00",
       "category": "estils de vida",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/10/millor-panettone-mon-2026-10-29.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La guia de l’Slow Food Barcelona: 101 restaurants de cuina local, responsable i tradicional",
+      "excerpt": "La tria d’un restaurant és una decisió important. I més quan s’entén que darrere el projecte culinari que escollim hi ha uns productors, uns agricultors i uns ramaders que han de rebre un tracte just a canvi de portar-nos el seu producte al plat. Per fer més fàcil aquesta elecció, des de fa vuit anys […]",
+      "url": "https://beteve.cat/general/guia-101-restaurants-slow-food-barcelona/",
+      "published": "2026-11-04T16:25:58+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/slow-food-guide-2027-1-2026-11-04.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -657,7 +807,7 @@
     {
       "source": "ARA",
       "title": "Entre la vocació pedagògica i el contingut viral: així són els mestres 'influencers'",
-      "excerpt": "Susanna Martínez treballava en una escola de l’Escala basada en el mètode Montessori. Li va agradar tant que, quan més endavant es va haver d’incorporar a un altre claustre, amb una manera de treballar molt diferent, hi aportava idees i activitats que havia après aleshores. Veia que agradaven, fins al punt que una companya la va animar a penjar-les a les xarxes i compartir-les. D’aquí neix el perfil d’Instagram @propostes.per.infantil, un espai que la Susanna va alimentant amb el que posa en pràctica a l’aula,…",
+      "excerpt": "Susanna Ramírez treballava en una escola de l’Escala basada en el mètode Montessori. Li va agradar tant que, quan més endavant es va haver d’incorporar a un altre claustre, amb una manera de treballar molt diferent, hi aportava idees i activitats que havia après aleshores. Veia que agradaven, fins al punt que una companya la va animar a penjar-les a les xarxes i compartir-les. D’aquí neix el perfil d’Instagram @propostes.per.infantil, un espai que la Susanna va alimentant amb el que posa en pràctica a l’aula,…",
       "url": "https://criatures.ara.cat/criatures/vocacio-pedagogica-contingut-viral-aixi-son-mestres-influencers_130_5898572.html",
       "published": "2026-11-04T15:00:12+01:00",
       "category": "Actualitat",
