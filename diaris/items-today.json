@@ -3,6 +3,16 @@
   "items": [
     {
       "source": "ARA",
+      "title": "Llevar-se amb un tsunami demòcrata",
+      "excerpt": "Si hi ha una cita televisiva en la qual, tradicionalment, hem vist els equips d’informatius de TV3 passar-s’ho d’allò més bé són els especials electorals dels Estats Units, tant si es tracta de les eleccions presidencials o, com en aquest cas, les de mig mandat.",
+      "url": "https://www.ara.cat/media/ccma/llevar-tsunami-democrata_129_5899685.html",
+      "published": "2026-11-04T11:20:36+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9d427c9b-4002-4f49-9c49-69e3dcd83fe5_16-9-aspect-ratio_default_0.png",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
       "title": "Assassinat de Trump a la Cinquena Avinguda",
       "excerpt": "Era el 2016, no eren temps tan extraordinaris al món –potser s'estaven gestant llavors– i un Donald Trump candidat se sentia invencible: \"Podria plantar-me al mig de la Cinquena Avinguda i disparar a algú i no perdria ni un sol votant, d'acord?\" Trump parlava més seriosament del que molts pensàvem. I la història des de llavors la coneixem de sobres: victòria contundent el 2016, derrota el 2020 però amb un assalt contundent, massiu i devot al Capitoli, i victòria encara més contundent el 2024. Havent-se…",
       "url": "https://www.ara.cat/internacional/estats-units/assassinat-trump-cinquena-avinguda_129_5899343.html",
@@ -22,9 +32,35 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "“Demanem al govern que contribuesca a honorar la memòria del nostre fill i germà”: la contundent carta de la família Agulló a Sánchez i…",
+      "excerpt": "La família exigeix la consideració de víctima del terrorisme per al jove antifeixista assassinat l'any 1993",
+      "url": "https://www.vilaweb.cat/noticies/demanem-al-govern-que-contribuesca-a-honorar-la-memoria-del-nostre-fill-i-germa-la-contundent-carta-de-la-familia-agullo-a-sanchez-i-marlaska/",
+      "published": "2026-11-04T11:23:50+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimecres: el sol torna amb el permís de les boires",
+      "excerpt": "Matí fred amb boires a l'interior i dia assolellat amb bonança a migdia",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-el-sol-torna-amb-allunyament-de-la-pertorbacio/noticia/3437465/",
+      "published": "2026-11-03T18:55:20+01:00",
+      "updated": "2026-11-04T10:36:06+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/8/1793784915183.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434307/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-el-sol-torna-amb-allunyament-de-la-pertorbacio/noticia/3437465/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
-      "title": "Horari dels col·legis electorals: Quan obren i tanquen el 29-N per les eleccions espanyoles 2026?",
-      "excerpt": "Quin és l’horari dels col·legis electorals? Diumenge 29 de novembre són les eleccions espanyoles 2026. Milions de ciutadans estan cridats a exercir el dret a vot el 29-N i ja es poden consultar les dades censals, on trobaràs, també, el col·legi electoral i la mesa on has de dipositar el teu vot. Aquest 2026, l’hora […]",
+      "title": "Horari dels col·legis electorals: quan obren i tanquen el 29-N per les eleccions espanyoles 2026?",
+      "excerpt": "Quin és l’horari dels col·legis electorals? El diumenge 29 de novembre són les eleccions espanyoles 2026. Milions de ciutadans estan cridats a exercir el dret a vot el 29-N i ja es poden consultar les dades censals, on trobaràs, també, el col·legi electoral i la mesa on has de dipositar el teu vot. Aquest 2026, […]",
       "url": "https://beteve.cat/politica/horari-colegis-electorals/",
       "published": "2026-11-04T10:01:00+01:00",
       "category": "Catalunya",
@@ -44,22 +80,12 @@
     },
     {
       "source": "ARA",
-      "title": "L'atur creix a Catalunya a les portes de la vaga general",
-      "excerpt": "A les portes de la vaga general convocada a l'Estat el pròxim 11 de novembre, els aturats creixen a Catalunya. En concret, segons les dades difoses aquest dimecres pel ministeri de Treball, al Principat hi ha 8.174 desocupats més a l'octubre que el setembre, la qual cosa suposa una pujada del 2,48%. En comparació amb l'octubre passat, l'atur encara creix amb més força: puja un 4,24%, el que equival a 13.751 persones més sense feina que ara fa un any. A octubre, en total, a…",
+      "title": "L'atur torna a créixer a Catalunya a les portes de la vaga general",
+      "excerpt": "A les portes de la vaga general convocada a tot l'Estat per al pròxim 11 de novembre, els aturats creixen a Catalunya per quart mes consecutiu. En concret, segons les dades difoses aquest dimecres pel ministeri de Treball, al Principat hi ha 8.174 desocupats més a l'octubre que al setembre, una xifra que suposa una pujada del 2,48%. En comparació amb l'octubre passat, l'atur encara creix amb més força: puja un 4,24%, cosa que equival a 13.751 persones més sense feina que ara fa un…",
       "url": "https://www.ara.cat/economia/mercat-laboral/l-atur-creix-catalunya-portes-vaga-general_1_5899500.html",
       "published": "2026-11-04T09:06:23+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/b8b716de-5465-483d-9dce-286f09ae0538_16-9-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "ARA",
-      "title": "Sánchez nomena Carlos Cuerpo nou ministre de Transport",
-      "excerpt": "La renúncia aquest dimarts per sorpresa del ministre de Transports Óscar Puente , una setmana després de la tragèdia ferroviària d'Urda, ha estat l'enèsim sacseig de la precampanya de les eleccions generals a Espanya. El titular de Transports va plegar després de donar explicacions al Congrés, tal com demanaven tots els partits menys el PSOE i EH Bildu, i també va renunciar a formar part de les llistes del 29 de novembre per intentar protegir la difícil campanya socialista. La decisió ha desencadenat",
-      "url": "https://www.ara.cat/politica/eleccions-generals/feijoo-demana-sanchez-dimiteixi-despres-renuncia-puente_1_5899434.html",
-      "published": "2026-11-04T08:16:55+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/869a3cb8-1114-456a-aeeb-25c52e116524_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -73,22 +99,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dimecres: el sol torna amb el permís de les boires",
-      "excerpt": "Matí fred amb boires a l'interior i dia assolellat amb bonança a migdia",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-el-sol-torna-amb-allunyament-de-la-pertorbacio/noticia/3437465/",
-      "published": "2026-11-03T18:55:20+01:00",
-      "updated": "2026-11-04T06:28:21+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/9/9/1793729601299.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434307/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-el-sol-torna-amb-allunyament-de-la-pertorbacio/noticia/3437465/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "VilaWeb",
       "title": "En una nit històrica, els Estats Units es giren d’esquena a Trump i donen el control del congrés als demòcrates",
       "excerpt": "Els demòcrates aconsegueixen amb facilitat el control de la Cambra de Representants i el senat · L'abast de la derrota del Partit Republicà qüestiona la presidència i el lideratge de Trump",
@@ -97,6 +107,236 @@
       "category": "Amèrica",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Parlon demana analitzar a fons el fenomen Blocus més enllà de la resposta policial",
+      "excerpt": "La consellera d'Interior aposta per una acció social, educativa i associativa per evitar que els joves caiguin en missatges perillosos a les xarxes",
+      "url": "https://www.vilaweb.cat/noticies/parlon-demana-analitzar-fons-fenomen-blocus-mes-enlla-resposta-policial/",
+      "published": "2026-11-04T12:21:30+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Ja es poden demanar els nous Bonus Cultura de 20 €. T’expliquem com fer-ho",
+      "excerpt": "L’Ajuntament de Barcelona ha obert la convocatòria dels 55.000 Bonus Cultura, uns ajuts de 20 euros per persona que tenen l’objectiu de fomentar el consum cultural a la ciutat. La iniciativa, impulsada per l’Institut de Cultura de Barcelona (ICUB), té un pressupost total d’1,5 milions d’euros. A continuació detallem la informació imprescindible per poder accedir-hi. […]",
+      "url": "https://beteve.cat/cultura/com-demanar-bonus-cultura-barcelona/",
+      "published": "2026-11-04T12:21:29+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/07/llibreria-finestres-comics.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
+      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-11-04T12:21:09+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "«Sense la meva terapeuta no sé com hauria transitat per l'èxit d''El 47'»",
+      "excerpt": "Fa dos anys va pujar a El 47 i des de llavors no ha deixat de circular pel cinema. El seu viatge de debut va ser també el de la consagració. La vocació venia de lluny i la projecció sembla ara infinita. Estrena Ruega por nosotras , la pel·lícula de Daniel Monzón que denuncia una nova vergonya del franquisme: el Patronato de Protección de la Mujer, una institució on es tancava i es maltractava dones considerades conflictives o rebels. Sòlid cinema social amb el rostre…",
+      "url": "https://diumenge.ara.cat/diumenge/meva-terapeuta-no-hauria-transitat-l-exit-d-47_128_5898655.html",
+      "published": "2026-11-04T12:11:10+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ec0e3e1a-7bf7-43f6-9751-164c9d9c9730_16-9-aspect-ratio_default_0_x3471y1285.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
+      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-11-04T12:03:07+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Un 10% dels homes admet haver agredit sexualment un menor almenys un cop a la vida",
+      "excerpt": "Un estudi de la UB diferencia entre els homes que han exercit violència sexual i els que s'han sentit atrets per menors, que són un 22% dels participants",
+      "url": "https://www.3cat.cat/3catinfo/un-10-dels-homes-admet-haver-agredit-sexualment-un-menor-almenys-un-cop-a-la-vida/noticia/3437737/",
+      "published": "2026-11-04T12:01:29+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/0/1793787144905.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els Mossos d’Esquadra detenen un home per fer tractaments estètics sense titulació a l’Eixample",
+      "excerpt": "(ACN) Els Mossos d’Esquadra van detenir dijous passat un home de 48 anys com a presumpte autor de delictes d’intrusisme professional, lesions contra la salut pública i estafa per fer tractaments de medicina estètica sense titulació. Els fets van passar en una clínica de l’Eixample de Barcelona. Dues persones més han quedat investigades: una dona […]",
+      "url": "https://beteve.cat/societat/detingut-tractaments-estetics-sense-titulacio-eixample/",
+      "published": "2026-11-04T11:58:46+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/mossos-detingut-tractaments-estetics-2026-11-04.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Aval judicial a limitar els pisos turístics en el macrobloc de les 120 llicències de Barcelona",
+      "excerpt": "El serial que afecta un dels blocs d'habitatge de Barcelona símbol del conflicte amb els pisos turístics continua sumant capítols. Ara el Tribunal Superior de Justícia de Catalunya (TSJC) ha donat la raó a l'Ajuntament de Barcelona i ha avalat la decisió del consistori de retirar la llicència de pis turístic a 72 dels 120 habitatges del bloc del carrer Tarragona número 84. Tot i que la sentència només fa referència a un dels pisos, fixa la jurisprudència del TSJC per a la resta.",
+      "url": "https://www.ara.cat/societat/barcelona/aval-judicial-limitar-pisos-turistics-macrobloc-120-llicencies-barcelona_1_5899654.html",
+      "published": "2026-11-04T11:51:16+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/30362e05-bc13-4ffa-88e9-d4c43c18a43b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Trump va dir als votants: “Feu veure que jo sóc a la papereta”. Li han fet cas.",
+      "excerpt": "El resulta electoral és un repudi complet i total d’un home i de les seves polítiques. I l'expressió \"massacre\" es queda curta per explicar una derrota que només es pot comparar amb la que els republicans van patir després del Watergate, l'any 1974",
+      "url": "https://www.vilaweb.cat/noticies/trump-va-dir-als-votants-feu-veure-que-jo-soc-a-la-papereta-li-han-fet-cas/",
+      "published": "2026-11-04T11:45:52+01:00",
+      "category": "The Washington Post",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Míriam Nogueras, de Junts: \"Amb nosaltres no hi haurà un ministre que es digui Abascal, ni Colau\"",
+      "excerpt": "En una entrevista a \"El matí de Catalunya Ràdio\" la candidata de Junts a les eleccions generals ha vetat tant un pacte entre el PP i Vox, com una aliança entre el PSOE i Front Ampli",
+      "url": "https://www.3cat.cat/3catinfo/miriam-nogueras-de-junts-amb-nosaltres-no-hi-haura-un-ministre-que-es-digui-abascal-ni-colau/noticia/3437763/",
+      "published": "2026-11-04T11:41:12+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/2/1782990347327.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sánchez intenta convertir el fracàs de Puente en una lliçó de dignitat",
+      "excerpt": "Finalment, ahir, a l’acabar una llarga compareixença de quatre hores a la diputació permanent del Congrés, el ministre espanyol de Transports, Óscar Puente , va presentar la dimissió.",
+      "url": "https://www.ara.cat/analisi/sanchez-convertir-fracas-puente-llico-dignitat_1_5899683.html",
+      "published": "2026-11-04T11:35:06+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/51fa5384-a77b-4bab-a006-b3150f126875_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "ERC avisa Illa que queda “en molt mala situació” pel 29-N",
+      "excerpt": "El president de la Generalitat defensa la gestió de Puente arran de les crítiques de Junts",
+      "url": "https://www.vilaweb.cat/noticies/erc-avisa-illa-que-queda-en-molt-mala-situacio-pel-29-n/",
+      "published": "2026-11-04T11:09:45+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Només el 15% dels nord-catalans saben parlar català, tot i l'ampli suport per protegir-lo",
+      "excerpt": "El 44% dels nord-catalans entenen el català, però només el 15% el saben parlar i el 3% el parlen habitualment. L'enquesta sociolingüística que ha dut a terme l'Oficina Pública de la Llengua Catalana (OPLC) constata un retrocés general en l'ús de la llengua a la Catalunya Nord. En l'últim estudi de fa 11 anys i fins i tot en el de fa 22 anys, el resultat era que sis de cada deu nord-catalans l'entenien i un 35%-37% el podien parlar bé. El percentatge de persones…",
+      "url": "https://www.ara.cat/llengua/nomes-15-dels-nord-catalans-parlar-catala-l-ampli-suport-protegir_1_5899613.html",
+      "published": "2026-11-04T11:09:38+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b18be706-65f0-4d94-86c4-49d1dbd11ca8_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Crida del Banc dels Aliments per trobar voluntaris pel Gran Recapte: en falten 7.000",
+      "excerpt": "El Banc dels Aliments ha llançat una crida per trobar voluntaris pel Gran Recapte 2026, que es farà el 13 i 14 de novembre. Des de l’entitat assenyalen que quan queden només nou dies per a l’inici d’aquest esdeveniment solidari encara es necessiten 7.000 voluntaris. Des del Banc dels Aliments recorden que el voluntariat són […]",
+      "url": "https://beteve.cat/societat/banc-aliments-crida-trobar-voluntaris-gran-recapte-2026/",
+      "published": "2026-11-04T11:07:24+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/voluntaris-recapte-081125.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Presó per a l'agent d'assegurances acusat d'estafar una quarantena de veïns de Malgrat de Mar",
+      "excerpt": "Arran dels aiguats de l'octubre, les víctimes van descobrir que, tot i pagar, no s'havien contractat les pòlisses",
+      "url": "https://www.3cat.cat/3catinfo/preso-per-a-lagent-dassegurances-acusat-destafar-una-quarantena-de-veins-de-malgrat-de-mar/noticia/3437755/",
+      "published": "2026-11-04T11:06:53+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/7/9/1793786634997.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La capbussada",
+      "excerpt": "Sempre va bé tenir una excusa per submergir-me al bosc, per sota els arbres, i aïllar-me del cinisme insuportable del nostre sistema polític, ara que les eleccions l’amplifiquen. L’excusa és que la fullaraca corre amunt i avall pel meu carrer, com grups de gent petita que es manifesta pel fred dels lledoners despullats de la plaça. Això vol dir que aviat hauré de fer foc a la llar, i necessitaré branquillons per encendre’l.",
+      "url": "https://www.ara.cat/opinio/capbussada_129_5899592.html",
+      "published": "2026-11-04T10:59:23+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Bon dia Barcelona",
+      "excerpt": "Comença el dia amb una entrevista d’actualitat i una tertúlia 100% barcelonina. El dia a dia de la ciutat analitzat per un ampli espectre de tertulians periodistes, historiadors i experts en diferents àmbits. Presentat per Dani Clavera.",
+      "url": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-169/",
+      "published": "2026-11-04T10:57:44+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Un robatori de cable causa retards en els trens de gran velocitat entre Barcelona i Madrid",
+      "excerpt": "RENFE informa que la incidència afecta la infrastructura ferroviària entre els municipis aragonesos de Guallar i Plasencia de Jalón",
+      "url": "https://www.vilaweb.cat/noticies/un-robatori-de-cable-causa-retards-en-els-trens-de-gran-velocitat-entre-barcelona-i-madrid/",
+      "published": "2026-11-04T10:54:14+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El vicepresident Carlos Cuerpo relleva Óscar Puente com a ministre de Transports",
+      "excerpt": "Després de la dimissió del fins aquest dimarts ministre de Transports, Óscar Puente, arran de la tragèdia ferroviària a Urda, aquest dimecres al matí el president espanyol, Pedro Sánchez, ha anunciat qui el rellevarà. L’encarregat d’entomar la cartera de Transports fins que es constitueixi un nou govern després de les eleccions generals 2026 serà Carlos […]",
+      "url": "https://beteve.cat/politica/vicepresident-carlos-cuerpo-relleva-oscar-puente-ministre-transports/",
+      "published": "2026-11-04T10:51:36+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/carlos-cuerpo-2026-11-04.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els Pirineus es vesteixen de blanc amb la primera nevada d’aquest novembre",
+      "excerpt": "L’episodi de pluja d’aquest dimarts ha vingut acompanyat d’un ambient plenament hivernal. Aquesta barreja ha comportat que la neu hagi aparegut a bona part dels Pirineus i a una cota no gaire elevada. De fet, fins i tot el massís del Montseny s’ha aixecat vestit de blanc. El “premi gros”, al vessant sud dels Pirineus […]",
+      "url": "https://beteve.cat/medi-ambient/primera-nevada-tardor-pirineus-montseny-novembre-2026/",
+      "published": "2026-11-04T10:49:51+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/Port-del_Comte-2026-11-04.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer amb nens a Barcelona? Activitats i plans en família",
+      "excerpt": "Aquí trobaràs què fer amb nens a Barcelona, amb un munt d’activitats, plans i propostes pensats per als més petits de casa! A betevé ens encanta donar-te idees per fer en família, per a avui, demà, els pròxims dies i també el cap de setmana! N’hi ha un bon grapat: espectacles infantils, festes a l’aire […]",
+      "url": "https://beteve.cat/agenda/que-fer-amb-nens-a-barcelona/",
+      "published": "2026-11-04T10:39:28+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/01/que-fer-amb-nens-a-barcelona-txt-01-1920x1080-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una dimissió dramatitzada per intentar alçar el vol",
+      "excerpt": "Des que va decidir convocar eleccions a l'escalf de les mobilitzacions per l'habitatge, Pedro Sánchez ha perdut dos dels seus escuders més preuats: la portaveu del PSOE, Montse Mínguez, pels negocis immobiliaris de la seva parella, i ara el ministre de Transports, Óscar Puente, el seu ariet mediàtic més efectiu, pel terrible accident d'Urda que s'ha cobrat 69 víctimes mortals. Sobre el paper, cap dirigent polític pot sobreviure a un inici tan desastrós de precampanya electoral. Ara bé, dins de la catàstrofe, Sánchez ha trobat…",
+      "url": "https://www.ara.cat/politica/dimissio-dramatitzada-alcar-vol_129_5899616.html",
+      "published": "2026-11-04T10:36:31+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ff61833a-df20-4d68-88b4-7fa56104ffde_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "'Perdona'm cos meu': en defensa de les dones",
+      "excerpt": "Perdona’m cos meu és, d’alguna manera, una obra lligada amb les tres anteriors de la dramaturga i directora Queralt Riera (Parets dels Vallès, 1978) pel tema de la violència. A Dona parlava de la violència que implica la prostitució, a Pruna de la violència dels abusos sexuals a infants i a Jo porn, tu porno de la que nia sobre el cos de les dones. Ara, a Perdona’m cos meu , ens parla de la violència de l’home sobre el cos i l'ànima femenina, és…",
+      "url": "https://www.ara.cat/cultura/teatre/perdona-m-cos-defensa-dones_1_5899490.html",
+      "published": "2026-11-04T10:28:13+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/86485280-76d2-466b-b2fb-c74c390228f2_16-9-aspect-ratio_default_0_x1563y712.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -140,28 +380,28 @@
     },
     {
       "source": "betevé",
-      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
-      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
-      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-11-04T09:38:50+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "title": "Quan la música pren forma fora de l’escenari",
+      "excerpt": "El 25è aniversari del festival Al Ras, les primeres 8 Hores de Flamenc a Poble-sec, una nit de pop turc i una batalla de sound systems a Poblenou encapçalen una agenda musical en què sovint es difumina la barrera entre els artistes i el públic Concerts: Escolta el programa, aquí: Llista de reproducció:",
+      "url": "https://beteve.cat/10-000-fogueres/quan-musica-pren-forma-fora-escenari/",
+      "published": "2026-11-04T09:42:08+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/10000fogueres_041126-2026-11-04.webp",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
-      "title": "El vicepresident Carlos Cuerpo, nou ministre de Transports després de la dimissió d'Óscar Puente",
-      "excerpt": "Ho ha anunciat el president del govern espanyol que ha dit que ha acceptat la renúncia de Puente",
+      "title": "El vicepresident Carlos Cuerpo assumeix la cartera de Transports després de la dimissió d'Óscar Puente",
+      "excerpt": "Ho ha anunciat el president del govern espanyol en una compareixença institucional en què ha agraït la tasca de Puente",
       "url": "https://www.3cat.cat/3catinfo/pedro-sanchez-compareix-despres-de-la-dimissio-doscar-puente/noticia/3437746/",
       "published": "2026-11-04T09:36:54+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/9/9/1793781676399.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/0/1793783640808.jpg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
       "title": "Era l'economia, estúpid: les claus de la derrota de Trump",
-      "excerpt": "Trump havia plantejat les eleccions de mig mandat com un referèndum sobre la seva gestió, i el resultat ha estat un contundent triomf del no. Els demòcrates han obtingut el control de les dues cambres i els republicans han perdut estats que havien controlat durant dècades , fins i tot Texas. No li han servit les milionàries donacions ni els altaveus dels tecnooligarques -els Elon Musk, Mark Zuckerberg, i Jeff Brezos- que l'envoltaven en el dia de la seva investidura, fa dos anys, que semblen…",
+      "excerpt": "Trump havia plantejat les eleccions de mig mandat com un referèndum sobre la seva gestió, i el resultat ha estat un contundent triomf del no . Els demòcrates han obtingut el control de les dues cambres i els republicans han perdut estats que havien controlat durant dècades , fins i tot Texas. No li han servit les milionàries donacions ni els altaveus dels tecnooligarques –Elon Musk, Mark Zuckerberg i Jeff Bezos– que l'envoltaven el dia de la seva investidura, fa dos anys que semblen vint.",
       "url": "https://www.ara.cat/internacional/estats-units/l-economia-estupid-claus-derrota-trump_1_5899364.html",
       "published": "2026-11-04T09:24:22+01:00",
       "category": "Actualitat",
@@ -229,13 +469,13 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
-      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
-      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
-      "published": "2026-11-04T08:15:17+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "source": "ARA",
+      "title": "Sánchez nomena Carlos Cuerpo nou ministre de Transports després de la dimissió de Puente",
+      "excerpt": "La renúncia per sorpresa aquest dimarts del ministre de Transports, Óscar Puente , una setmana després de la tragèdia ferroviària d'Urda, ha estat l'enèsima sacsejada de la precampanya de les eleccions generals a l'Estat. El titular de Transports va anunciar la seva dimissió aquest dimarts al vespre després de donar explicacions al Congrés, i aquest matí, el president espanyol, Pedro Sánchez, ja ha nomenat el seu substitut. Serà l'actual vicepresident primer i ministre d'Economia, Carlos Cuerpo, qui assumirà la cartera de Transports. \"Accepto [la decisió…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/feijoo-demana-sanchez-dimiteixi-despres-renuncia-puente_1_5899434.html",
+      "published": "2026-11-04T08:16:55+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8b6036ce-b670-48b2-9a9d-e66a49a75a14_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -315,7 +555,7 @@
       "url": "https://www.3cat.cat/3catinfo/els-noms-propis-de-la-victoria-democrata-a-les-midterm-dels-eua-hem-guanyat-goliat/noticia/3437731/",
       "published": "2026-11-04T07:30:30+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/5/6/1793652085965.jpg",
+      "image": "https://img.3cat.cat/multimedia/gif/9/1/1793790370119.gif",
       "priority": "3 · Altres notícies"
     },
     {
@@ -406,7 +646,7 @@
     {
       "source": "ARA",
       "title": "El mapa del 'bluenami': quins estats han donat la victòria als demòcrates?",
-      "excerpt": "L'onada blava s'ha convertit en un tsunami aquesta nit electoral, tal com es pot veure al mapa que hi ha a sobre d'aquestes línies. \" Bluenami \", deien alguns mitjans dels Estats Units. Mentre esperem que es concreti la xifra de la seva majoria a la Cambra de Representants, el Partit Demòcrata ja té la majoria assegurada també al Senat. En aquesta cambra, els demòcrates han aconseguit totes les curses que es preveien i s'han endut alguns triomfs inesperats, com Carolina del Sud, Kansas i…",
+      "excerpt": "L'onada blava s'ha convertit en un tsunami aquesta nit electoral, tal com es pot veure al mapa que hi ha a sobre d'aquestes línies. \" Bluenami \", deien alguns mitjans dels Estats Units. Mentre esperem que es concreti la xifra de la seva majoria a la Cambra de Representants, el Partit Demòcrata ja té la majoria assegurada també al Senat. En aquesta cambra, els demòcrates han aconseguit totes les curses que es preveien i s'han endut alguns triomfs inesperats, com Carolina del Sud, Kansas, Iowa…",
       "url": "https://www.ara.cat/internacional/mapes-bluenami-quins-estats-han-donat-victoria-als-democrates_130_5899341.html",
       "published": "2026-11-04T06:26:23+01:00",
       "category": "Actualitat",
