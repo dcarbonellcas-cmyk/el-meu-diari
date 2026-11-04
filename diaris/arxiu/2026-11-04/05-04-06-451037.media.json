@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "pages": [
+    {
+      "page": 2,
+      "title": "El rebuig a Trump porta el Partit Demòcrata a una victòria històrica als Estats Units",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/el-rebuig-a-trump-porta-el-partit-democrata-a-una-victoria-historica-als-estats-units/",
+      "published": "2026-11-04T04:45:16+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 3,
+      "title": "Reinas de la mesa",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/punt-de-fuga/reinas-de-la-mesa-2/",
+      "published": "2026-11-04T03:10:55+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 4,
+      "title": "[VÍDEO] Pep Gimeno, Botifarra, publica “La petenera quan canta” amb Rozalén",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/videos-pep-gimeno-botifarra-publica-la-petenera-quan-canta-amb-rozalen/",
+      "published": "2026-11-04T01:50:32+01:00",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.youtube-nocookie.com/embed/24fzdfmoKTA",
+        "source": "VilaWeb",
+        "articleUrl": "https://www.vilaweb.cat/noticies/videos-pep-gimeno-botifarra-publica-la-petenera-quan-canta-amb-rozalen/"
+      }
+    }
+  ]
+}
