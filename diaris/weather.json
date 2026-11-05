@@ -1,5 +1,20 @@
 {
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T06:09:50.761611+01:00",
-  "forecast": null
+  "updatedAt": "2026-11-05T07:11:32.677913+01:00",
+  "forecast": {
+    "source": "3CatInfo · El temps",
+    "title": "La previsió d'aquest dijous: alguns ruixats de distribució irregular",
+    "excerpt": "Retorna un àrea d'inestabilitat més aviat dèbil",
+    "url": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/",
+    "published": "2026-11-04T18:31:41+01:00",
+    "updated": "2026-11-05T06:35:13+01:00",
+    "category": "El temps",
+    "image": "https://img.3cat.cat/multimedia/jpeg/5/4/1793813356645.jpeg",
+    "video": {
+      "url": "https://www.3cat.cat/3cat/video/6434544/embed/",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/"
+    },
+    "priority": "2 · Important"
+  }
 }
