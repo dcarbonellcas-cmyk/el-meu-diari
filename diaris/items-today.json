@@ -2,6 +2,42 @@
   "date": "2026-11-05",
   "items": [
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dijous: alguns ruixats de distribució irregular",
+      "excerpt": "Retorna un àrea d'inestabilitat més aviat dèbil",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/",
+      "published": "2026-11-04T18:31:41+01:00",
+      "updated": "2026-11-05T09:31:08+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1793867455323.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434614/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Ministeri de Treball espanyol proposa d’apujar el salari mínim a 1.286 euros mensuals l’any que ve",
+      "excerpt": "La proposta representa un augment del 5,3%, una xifra inferior al 7% que demanaven els sindicats",
+      "url": "https://www.vilaweb.cat/noticies/el-ministeri-de-treball-espanyol-proposa-dapujar-el-salari-minim-a-1-286-euros-mensuals-a-partir-de-2027/",
+      "published": "2026-11-05T09:00:18+01:00",
+      "category": "Economia",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El govern espanyol apujarà el salari mínim un 5,3% el 2027, fins als 1.286 euros",
+      "excerpt": "El Ministeri de Treball penja a exposició pública el reial decret que recull l'increment i s'haurà d'aprovar al Consell de Ministres abans de les eleccions generals del 29 de novembre",
+      "url": "https://www.3cat.cat/3catinfo/el-govern-espanyol-apujara-el-salari-minim-un-5-3-el-2027-fins-als-1286-euros/noticia/3434568/",
+      "published": "2026-11-05T08:47:39+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/3/1739280328639.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "Què pot canviar amb el control demòcrata del Congrés dels Estats Units?",
       "excerpt": "L'autèntic test d'estrès per als demòcrates començarà al gener, un cop s'hagi constituït el nou Congrés. Els nous representants que s'asseuran a les dues cambres tindran dues prioritats. La primera, més immediata, serà iniciar investigacions contra Trump i el seu entorn. La segona, més complicada, serà evitar que el partit acabi immers en una guerra intestina entre l'ala progressista i el sector moderat, més vinculat a la cúpula. Després que el rebuig a Trump hagi unit les diferents ànimes del partit, hi ha el risc…",
@@ -22,25 +58,129 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dijous: alguns ruixats de distribució irregular",
-      "excerpt": "Retorna un àrea d'inestabilitat més aviat dèbil",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/",
-      "published": "2026-11-04T18:31:41+01:00",
-      "updated": "2026-11-05T07:57:15+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpeg/5/4/1793813356645.jpeg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434614/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/"
-      },
-      "priority": "2 · Important"
+      "source": "VilaWeb",
+      "title": "Koldo García revela un pacte amb un advocat del PP per a incriminar Sánchez a canvi d’un milió d’euros",
+      "excerpt": "L’ex-assessor d’Ábalos assegura que Eduardo Inda havia de gestionar els pagaments a través d’Okdiario",
+      "url": "https://www.vilaweb.cat/noticies/koldo-garcia-pacte-advocat-pp-incriminar-pedro-sanchez-milio-euros/",
+      "published": "2026-11-05T10:03:21+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La Guàrdia Civil desplega una nova operació pel cas Koldo arran d’una investigació secreta",
+      "excerpt": "El jutge Ismael Moreno ha obert una nova peça separada després de rebre un informe de l'UCO, del qual encara no se'n sap el contingut",
+      "url": "https://www.vilaweb.cat/noticies/guardia-civil-desplega-operacio-cas-koldo-peca-secreta/",
+      "published": "2026-11-05T10:02:11+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Dem-olition\", \"Trumped\", \"Isolato\"... el resultat de les midterm en portades d'arreu del món",
+      "excerpt": "El món ha estat pendent de les eleccions de mig mandat als Estats Units. La derrota de Donald Trump i el partit republicà aclapara les portades de la premsa internacional, algunes amb titulars ben originals.",
+      "url": "https://www.ara.cat/internacional/estats-units/dem-olition-trumped-isolato-resultat-midterm-portades_1_5900739.html",
+      "published": "2026-11-05T09:44:45+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/29ff4ba0-2618-4292-b1aa-75b62a259bdf_source-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La desfeta republicana cerca culpables i fa trontollar el futur de Pete Hegseth",
+      "excerpt": "Trump defensa públicament el secretari de Defensa, però fonts de la Casa Blanca apunten que podria ser destituït",
+      "url": "https://www.vilaweb.cat/noticies/desfeta-republicana-cerca-culpables-pete-hegseth/",
+      "published": "2026-11-05T09:37:05+01:00",
+      "category": "Amèrica",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El llegat de Colita",
+      "excerpt": "L’inici professional de Colita es va produir l’any 1962 amb un encàrrec de figuració i foto fixa durant el rodatge de la pel·lícula Los Tarantos, dirigida per Francesc Rovira Beleta. Aquell enregistrament, dut a terme a Montjuïc i al Somorrostro, va significar una revelació vital per a ella. En aquest context va conèixer la mítica […]",
+      "url": "https://beteve.cat/va-passar-aqui/colita-vida-fotografa-barcelona/",
+      "published": "2026-11-05T09:36:00+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/colita-fotografa-vpa-2026-11-04.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
+      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-11-05T09:15:46+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "França desplega 70.000 agents per evitar una altra jornada de violència als carrers",
+      "excerpt": "Les autoritats franceses desplegaran 70.000 policies i gendarmes arreu del país aquest dijous davant una jornada d'aturades laborals i noves protestes per l'augment del cost de la vida i el deteriorament dels serveis públics. Es preveu que hi participin entre 500.000 i 700.000 persones. Després de les crítiques a la falta d'agents de policia durant les mobilitzacions del 17 d'octubre, i amb l'objectiu d'evitar nous episodis de violència, el govern francès ha decidit blindar les ciutats i posar en marxa un gran desplegament policial per…",
+      "url": "https://www.ara.cat/internacional/europa/franca-desplega-70-000-agents-evitar-altra-jornada-violencia-als-carrers_1_5900703.html",
+      "published": "2026-11-05T09:12:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/43d94743-3ddc-47a7-9b58-fbbff632b966_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tocar el cel al Palau",
+      "excerpt": "Amb el conjunt orquestral i coral Pygmalion, a Raphaël Pichon li agrada presentar programes heterogenis buscant la unitat i sense pauses. Podia sorprendre, doncs, que el conjunt francès presentés al Palau una vetllada amb un primer bloc dedicat a la música sacra romàntica germànica (Mendelssohn, Schubert, Bruckner) i un segon amb la Missa en do menor de Mozart, amb l’afegit (entre el Sanctus-Benedictus ) del motet Ave verum del compositor de Salzburg.",
+      "url": "https://www.ara.cat/cultura/musica/raphael-pichon-pygmalion-tocar-cel-palau_1_5900740.html",
+      "published": "2026-11-05T09:11:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/eec596f6-cb72-4edc-9168-9b287a969d82_source-aspect-ratio_default_0_x1172y64.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
+      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-11-05T09:04:55+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "25 famílies del Guinardó planten cara a la venda del seu bloc a un fons d’inversió",
+      "excerpt": "Els veïns de l’edifici situat a l‘avinguda de la Mare de Déu de Montserrat, 123, al barri del Guinardó, s’han organitzat per defensar la continuïtat de les 25 famílies que hi viuen després de conèixer que la finca s’ha venut a un fons d’inversió per 5,5 milions d’euros. L’edifici acull unes 65 persones en règim […]",
+      "url": "https://beteve.cat/economia/25-families-guinardo-planten-cara-venda-bloc-fons-inversio-voltor/",
+      "published": "2026-11-05T09:00:00+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/bloc-guinardo-041126-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Koldo García diu que va pactar amb l'advocat del PP un milió d'euros a canvi d'informació contra Sánchez",
+      "excerpt": "Novetats sobre el pagament de la defensa de Koldo García . Després que s'acredités que l'empresa editora d' OK Diario li va pagar 242.000 euros en el marc del cas mascaretes, l'exassessor del ministre José Luis Ábalos assegura que aquests diners formaven part d'un acord més ampli amb el PP. Segons explica ell mateix en uns àudios enviats a la SER des de la presó , on compleix una pena de gairebé 20 anys, l'advocat dels populars, Alberto Duran, li hauria ofert un milió d'euros…",
+      "url": "https://www.ara.cat/politica/koldo-garcia-diu-pactar-l-advocat-pp-milio-d-euros-canvi-d-informacio-sanchez_1_5900713.html",
+      "published": "2026-11-05T08:44:25+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7e08d2b4-2e50-43cf-93ec-35fe1d70048c_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La fi d’una lluita veïnal: comencen les obres del nou centre cultural Ideal Plàstica Flor",
+      "excerpt": "El triangle format pel passeig de Valldaura i els carrers de Font d’en Canyelles i Santa Engràcia ha deixat de ser un aparcament provisional després de 15 anys per convertir-se en una zona d’obres. S’hi ha de construir un gran edifici que integrarà diversos usos culturals amb un espai esportiu. Un equipament que Ajuntament i […]",
+      "url": "https://beteve.cat/societat/inici-obres-nou-centre-cultural-ideal-plastica-flor/",
+      "published": "2026-11-05T08:36:24+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/equipament-illa-ideal-plastica-flor-2026-10-27.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
       "title": "L’activista hongkonguès Joshua Wong, condemnat a deu anys de presó per “conspiració amb forces estrangeres”",
-      "excerpt": "L'activista estava a punt de sortir de la presó després de més de quatre anys de condemna per \"conspiració per a cometre subversió\"",
+      "excerpt": "L'activista era a punt de sortir de la presó després de més de quatre anys de condemna per \"conspiració per a cometre subversió\"",
       "url": "https://www.vilaweb.cat/noticies/activista-hongkongues-joshua-wong-condemnat-deu-anys-preso/",
       "published": "2026-11-05T08:28:50+01:00",
       "category": "Àsia-Pacífic",
@@ -105,12 +245,12 @@
       "published": "2026-11-05T07:17:51+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/7/1764238310974.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434500/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/24-dies-sense-sou-ni-feina-per-a-un-guardia-urba-de-barcelona-arran-duna-discriminacio-linguistica/noticia/3437778/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -169,7 +309,7 @@
       "url": "https://www.ara.cat/societat/educacio/quatre-docents-canviar-d-escola-curs-ve_1_5898947.html",
       "published": "2026-11-05T07:00:25+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/7ad9ab46-7c6e-46dd-ba66-2f3e0aa88c7a_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/fe6a5cb3-1aaa-4353-aec6-72ca31cd920d_source-aspect-ratio_default_0_x3648y1779.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -184,7 +324,7 @@
     },
     {
       "source": "ARA",
-      "title": "El PSOE aspira a deixar enrere el desànim i reprendre la cursa electoral",
+      "title": "El PSOE aspira a deixar enrere el desànim i reprèn la cursa electoral",
       "excerpt": "El PSOE reprèn la cursa electoral del 29-N. Els actes de precampanya tornaran a ocupar l'agenda de Pedro Sánchez des d'aquest divendres a la tarda, amb un míting a València. El desconcert es va apoderar d'ells després de l'accident de trens a Urda (Toledo), però un cop passats els tres dies de dol oficial –amb la dimissió d'Óscar Puente com a ministre de Transports materialitzada i encarrilada la XXX Cimera Iberoamericana, que se celebra a Madrid aquest dimecres i dijous–, els de Pedro Sánchez volen…",
       "url": "https://www.ara.cat/politica/psoe-aspira-deixar-enrere-desanim-reprendre-cursa-electoral_1_5899810.html",
       "published": "2026-11-05T07:00:24+01:00",
@@ -340,12 +480,12 @@
       "published": "2026-11-05T06:44:56+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/2/1793178776823.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434488/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/el-siurana-un-riu-que-fa-aigues/noticia/3403209/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
