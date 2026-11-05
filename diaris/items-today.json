@@ -27,6 +27,62 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "Milers de manifestants, instituts blocats i la universitat tancada en una jornada de vaga a Catalunya Nord",
+      "excerpt": "La protesta contra la carestia de la vida i la degradació dels serveis públics ha aplegat fins a 6.000 persones a Perpinyà, segons la CGT, i 3.500 segons la policia",
+      "url": "https://www.vilaweb.cat/noticies/manifestants-instituts-blocats-universitat-tancada-catalunya-nord/",
+      "published": "2026-11-05T16:07:47+01:00",
+      "category": "Catalunya Nord",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dijous: alguns ruixats de distribució irregular",
+      "excerpt": "Retorna un àrea d'inestabilitat més aviat dèbil",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/",
+      "published": "2026-11-04T18:31:41+01:00",
+      "updated": "2026-11-05T15:51:44+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/7/1793890264672.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434708/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "ERC es presenta a les eleccions amb el lema “Defensa’t” i es reivindica com la millor resposta al malestar",
+      "excerpt": "El partit presenta un programa amb 258 propostes",
+      "url": "https://www.vilaweb.cat/noticies/erc-eleccions-defensat-malestar/",
+      "published": "2026-11-05T15:22:38+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Protesta al metro: obren les portes contra l’encariment del transport públic",
+      "excerpt": "La Coordinadora del moviment popular del Guinardó, L’Analògica, ha obert les portes del metro a les estacions de Maragall i Horta per protestar contra l’encariment del transport públic. L’acció s’emmarca en la convocatòria de vaga de l’11 de novembre. Els activistes han col·locat cinta aïllant al control d’accés del metro per mantenir les portes obertes […]",
+      "url": "https://beteve.cat/mobilitat/protesta-metro-obren-portes-encariment-transport-public/",
+      "published": "2026-11-05T14:34:45+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/accio-obertura-portes-metro-11n-2026-11-05.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Quines són les funcions del president d’una mesa electoral? Què ha de fer el dia de les eleccions?",
+      "excerpt": "L’engranatge de les eleccions espanyoles 2026 no seria possible sense la participació dels ciutadans a les meses electorals el dia de les votacions, una participació que és obligatòria. Cadascuna de les meses electorals que hi haurà el 29 de novembre als col·legis electorals de tot Barcelona tindrà una persona que farà de president de mesa […]",
+      "url": "https://beteve.cat/politica/funcions-president-mesa-electoral-que-fa/",
+      "published": "2026-11-05T14:23:00+01:00",
+      "category": "Catalunya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/05/president-mesa-electoral-200523.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "El vòrtex polar s'està afeblint i es podria dividir: conseqüència per a aquest hivern",
       "excerpt": "Aquest fenomen inusual podria portar temperatures molt baixes i nevades a Catalunya durant els mesos de desembre i gener",
@@ -40,7 +96,7 @@
     {
       "source": "VilaWeb",
       "title": "El Tribunal Suprem espanyol arxiva la causa contra Alvise Pérez per la difusió d’una prova de covid falsa d’Illa",
-      "excerpt": "El magistrat no veu indicis suficients de criminalitat ni de coneixement de la falsedat",
+      "excerpt": "El magistrat no veu prou indicis de criminalitat ni de coneixement de la falsedat",
       "url": "https://www.vilaweb.cat/noticies/tribunal-suprem-espanyol-arxiva-causa-contra-alvise-perez-difusio-prova-covid-falsa-dilla/",
       "published": "2026-11-05T14:04:07+01:00",
       "category": "Societat",
@@ -50,7 +106,7 @@
     {
       "source": "VilaWeb",
       "title": "Catalá no descarta d’emprendre accions judicials per a desallotjar l’acampada per l’habitatge",
-      "excerpt": "L'equip de govern demana a la delegació del govern espanyol que mogui fitxa",
+      "excerpt": "L'equip de govern demana a la delegació del govern espanyol de moure fitxa",
       "url": "https://www.vilaweb.cat/noticies/catala-insta-delegacio-govern-espanyol-actuar-desallotjar-acampada-habitatge-placa-de-lajuntament-valencia/",
       "published": "2026-11-05T13:53:20+01:00",
       "category": "Societat",
@@ -76,22 +132,6 @@
       "updated": "2026-11-05T11:58:22+01:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/7/1/1793863187917.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dijous: alguns ruixats de distribució irregular",
-      "excerpt": "Retorna un àrea d'inestabilitat més aviat dèbil",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/",
-      "published": "2026-11-04T18:31:41+01:00",
-      "updated": "2026-11-05T09:31:08+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1793867455323.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434614/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -136,6 +176,126 @@
     },
     {
       "source": "betevé",
+      "title": "Mercats de cap de setmana a Barcelona, fires i festes del 2026: agenda amb horaris",
+      "excerpt": "Afegeix betevé com a font preferida Els mercats de cap de setmana a Barcelona proliferen. I ens encanten. Busques fires de productes vintage o mercats de pagès, comerç al carrer, àpats populars i festetes per gaudir-ne divendres, dissabte i diumenge? Aquí t’oferim una agenda actualitzada cada setmana perquè no te’n perdis cap detall! Pots trobar-hi […]",
+      "url": "https://beteve.cat/agenda/mercats-del-cap-de-setmana-barcelona/",
+      "published": "2026-11-05T16:04:39+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/03/Proyecto-nuevo-3.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els vestits de la dissenyadora que va vestir Sara Montiel, Lola Flores i Carmen Sevilla",
+      "excerpt": "Tota l’escena desprèn una llum irreal. Quatre homes negres amb el pit descobert i en pantalons precaris aguanten canelobres i una figura clarament femenina s’alça imponent al capdamunt d’unes escales vermelles. En la penombra ja es distingeixen la corba d’un pit i l’angle d’un maluc, que el vestit –color xampany, escamat, cada cop més refulgent a mesura que es fa la llum– i la capa –verda, rectíssima– realcen amb precisió. El primer pla acaba de dibuixar un temps i un país: el tupè antigravitatori, la…",
+      "url": "https://diumenge.ara.cat/diumenge/vestits-dissenyadora-vestir-sara-montiel-lola-flores-carmen-sevilla_130_5898494.html",
+      "published": "2026-11-05T16:00:07+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/57408f96-3041-4f14-9744-ba917f7486dd_16-9-aspect-ratio_default_0_x1910y1372.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Front Polisario alerta d’una escalada militar al Sàhara Occidental després de la retirada de l’ONU",
+      "excerpt": "Malgrat la fi d’una missió internacional de trenta-cinc anys, l’ONU recorda que el dret d’autodeterminació del poble saharià continua vigent",
+      "url": "https://www.vilaweb.cat/noticies/front-polisario-escalada-militar-sahara-occidental-onu/",
+      "published": "2026-11-05T15:49:03+01:00",
+      "category": "Àfrica",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Suprem retorna al jutjat del Vendrell la causa per prevaricació de Fèlix Alonso després d’haver perdut l’aforament",
+      "excerpt": "El tribunal argumenta que ha perdut la competència per a jutjar-lo perquè ja no és diputat al congrés espanyol",
+      "url": "https://www.vilaweb.cat/noticies/suprem-al-jutjat-del-vendrell-l-felix-alonso-despres-dhaver-perdut-laforament/",
+      "published": "2026-11-05T15:45:45+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Fotos contra l'abús i la irresponsabilitat del poder",
+      "excerpt": "\"Documento incendis perquè visc en un lloc on hi ha incendis\", diu el fotògraf gallec Brais Lorenzo, premiat en l'edició del World Press Photo 2026 en la categoria de reportatge gràfic de la regió Europa . En les paraules de Lorenzo hi ha resignació i ràbia. \"Fa quinze anys que els documento, i cada vegada n'augmenta més la capacitat destructiva\", afegeix, conscient del caràcter estructural dels incendis forestals, causats per l'emergència climàtica però també pel progressiu abandonament dels ecosistemes humans rurals. \"Em dol documentar el…",
+      "url": "https://www.ara.cat/cultura/fotografia/world-press-fotos-contra-abus-irresponsabilitat_1_5900987.html",
+      "published": "2026-11-05T15:43:15+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fa9300dd-8e9e-4ea7-bd5c-95646182d237_source-aspect-ratio_default_0_x1552y1932.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-755/",
+      "published": "2026-11-05T15:29:15+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Bon Preu obre cinc nous establiments i crea 250 llocs de treball aquest trimestre",
+      "excerpt": "La cadena de supermercats Bon Preu obrirà durant aquest últim trimestre de l'any cinc nous establiments que suposaran una inversió de 58,3 milions d’euros i la creació de més de 250 llocs de treball. Es tracta de tres botigues Esclat a Castellar del Vallès, Palafolls i Sabadell, aquest últim ja inaugurat el 14 d’octubre, i dos supermercats Bonpreu a Cerdanyola del Vallès i Barcelona. A més, aquest mes d’octubre també s’ha inaugurat una benzinera EsclatOil i un minimercat a Pallejà, i hi ha previsió d’obrir…",
+      "url": "https://www.ara.cat/economia/comerc/bon-preu-obre-cinc-nous-establiments-crea-250-llocs-treball-aquest-trimestre_1_5900989.html",
+      "published": "2026-11-05T15:25:39+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7f10d54d-7d00-4021-86b7-35a5846d8ea9_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La parella d’Ábalos, entre els detinguts en la nova operació del cas Koldo",
+      "excerpt": "L’UCO escorcolla la casa de l’ex-ministre espanyol a València i requereix informació a ADIF a Madrid",
+      "url": "https://www.vilaweb.cat/noticies/la-parella-de-lex-ministre-abalos-entre-els-detinguts-en-la-nova-operacio-del-cas-koldo/",
+      "published": "2026-11-05T14:58:53+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Vox critica els concerts de Pep Gimeno, Botifarra, a Xàtiva i origina una allau de solidaritat amb el cantant",
+      "excerpt": "El partit ultradretà critica que l’ajuntament assumeixi el cost de les actuacions, però el govern municipal, l’oposició i artistes valencians defensen la contractació del cantautor",
+      "url": "https://www.vilaweb.cat/noticies/vox-critica-concerts-pep-gimeno-botifarra-xativa-provoca-allau-solidaritat-cantant/",
+      "published": "2026-11-05T14:53:51+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Super3 salta de la pantalla amb desenes d’activitats per a acostar-se als infants",
+      "excerpt": "El canal infantil vol fer créixer la seva comunitat amb activitats, pre-estrenes, jocs, llibres, música i pòdcasts",
+      "url": "https://www.vilaweb.cat/noticies/el-super3-salta-de-la-pantalla-superexperiencies/",
+      "published": "2026-11-05T14:44:35+01:00",
+      "category": "Mitjans de comunicació",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Espectacles i activitats en família, dins i fora de Barcelona",
+      "excerpt": "Aquí trobareu espectacles i activitats per fer en família divendres, dissabte i diumenge, per tot el territori, per si vols sortir de la ciutat. Plans i propostes pensades per als més petits de la família des de l’equip del Catacrak, el programa infantil de betevé! I recordeu que en aquesta casa també pensem plans pels […]",
+      "url": "https://beteve.cat/catakrac/activitats-infantils-barcelona/",
+      "published": "2026-11-05T14:35:39+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/01/nens-que-fer.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Raphinha renova fins al 2030: \"M'agradaria acabar la meva carrera al Barça\"",
+      "excerpt": "El brasiler viu el millor moment esportiu de la seva carrera i ha allargat el contracte amb el club blaugrana dues temporades més",
+      "url": "https://www.3cat.cat/3catinfo/raphinha-renova-fins-al-2030-magradaria-acabar-la-meva-carrera-al-barca/noticia/3438070/",
+      "published": "2026-11-05T14:17:55+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/3/6/1793884583963.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
       "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
       "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
@@ -147,7 +307,7 @@
     {
       "source": "3CatInfo",
       "title": "Afloren més casos de maltractament de militars a migrants a Ceuta després de l'anunci que s'investigaran",
-      "excerpt": "Segons Amnistia Internacional, dels 28 nous episodis de pallisses, humiliacions i abusos denunciats, 18 han tingut lloc després del compromís del Ministeri de Defensa d'obrir una investigació interna",
+      "excerpt": "Segons Amnistia Internacional, dels 28 nous episodis de pallisses, humiliacions i abusos denunciats, 18 han passat després del compromís del Ministeri de Defensa d'obrir una investigació interna",
       "url": "https://www.3cat.cat/3catinfo/afloren-mes-casos-de-maltractament-de-militars-a-migrants-a-ceuta-despres-de-lanunci-que-sinvestigaran/noticia/3438012/",
       "published": "2026-11-05T14:14:53+01:00",
       "category": "Actualitat",
@@ -157,7 +317,7 @@
     {
       "source": "3CatInfo",
       "title": "El Vall d'Hebron crearà \"bessons digitals\" per preveure l'evolució de malalties i triar tractaments",
-      "excerpt": "Serà el primer hospital d'Europa que aplicarà la tecnologia coneguda com a \"bessons digitals humans\", que suposa un important pas endavant en el camp de la medicina personalitzada",
+      "excerpt": "Serà el primer hospital d'Europa que farà rèpliques virtuals de pacients, un pas endavant important en el camp de la medicina personalitzada perquè permetrà triar el millor tractament per cada malalt",
       "url": "https://www.3cat.cat/3catinfo/el-vall-dhebron-creara-bessons-digitals-per-preveure-levolucio-de-malalties-i-triar-tractaments/noticia/3438039/",
       "published": "2026-11-05T14:13:21+01:00",
       "category": "Actualitat",
@@ -196,12 +356,22 @@
     },
     {
       "source": "ARA",
-      "title": "Rufián i Montero compartiran dos mítings pel 29-N: un a Madrid i una a Barcelona",
+      "title": "Rufián i Montero compartiran dos mítings pel 29-N: un a Madrid i un a Barcelona",
       "excerpt": "L'acte que compartiran aquest dissabte a Madrid Gabriel Rufián i Irene Montero només es repetirà un cop en campanya: serà el dissabte 21 de novembre en l'acte central de Podem a la capital espanyola. Ara bé, els dos candidats també compartiran escenari a Barcelona l'endemà, el diumenge 22 de novembre, en l'acte central d'ERC, igual que fa dues setmanes a Nou Barris. L'aliança entre ERC i Podem, doncs, es traduirà finalment en un total de quatre actes fins al 29-N. La campanya dels republicans, amb…",
       "url": "https://www.ara.cat/politica/eleccions-generals/rufian-montero-compartiran-mitings-pel-29-n-madrid-barcelona_1_5900943.html",
       "published": "2026-11-05T13:57:46+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/c1b27def-5673-4685-b4cf-76f97d28d284_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/c1b27def-5673-4685-b4cf-76f97d28d284_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El ple ajornat per l’accident d’Urda serà històric: s’allargarà ben bé fins a les 22 h",
+      "excerpt": "El plenari municipal ordinari del mes d’octubre (que es va haver d’ajornar fins a aquest dijous, 5 de novembre, arran de l’accident mortal de tren a Urda) passarà als anals de la història. Segons ha pogut confirmar betevé amb la Secretaria General de l’Ajuntament, aquest plenari serà el primer de la història de la democràcia […]",
+      "url": "https://beteve.cat/politica/ple-municipal-barcelona-octubre-2026/",
+      "published": "2026-11-05T13:56:47+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/10/ple-municipal-241024.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -237,7 +407,7 @@
     {
       "source": "VilaWeb",
       "title": "Inspecció de Treball destapa més de dos-cents falsos becaris al Departament de Cultura",
-      "excerpt": "La inspecció reclama 2,16 milions d'euros en cotitzacions a la Seguretat Social i considera que els estudiants feien tasques estructurals de la conselleria sense drets laboral · El govern defensa que les pràctiques tenien una finalitat formativa i ha recorregut contra les resolucions",
+      "excerpt": "La inspecció reclama 2,16 milions d'euros en cotitzacions a la Seguretat Social i considera que els estudiants feien tasques estructurals de la conselleria sense drets laborals · El govern defensa que les pràctiques tenien una finalitat formativa i ha recorregut contra les resolucions",
       "url": "https://www.vilaweb.cat/noticies/inspeccio-de-treball-destapa-mes-de-dos-cents-falsos-becaris-al-departament-de-cultura/",
       "published": "2026-11-05T13:36:48+01:00",
       "category": "Cultura",
@@ -606,8 +776,8 @@
     },
     {
       "source": "ARA",
-      "title": "Una vintena d'avions afectats per una nova onada d'amenaces de bomba a Europa",
-      "excerpt": "Una nova onada d'alertes de bomba ha afectat aquest dijous una vintena d'avions que feien rutes a Europa, en un episodi que se suma al que ja es va viure dimarts . La majoria han pogut aterrar sense problemes a la seva destinació, però alguns han hagut de fer aterratges d'emergència en aeroports alternatius. És el cas d'un avió d'Aer Lingus que feia la ruta entre Dublín i Roma, que ha hagut d'aterrar a la base aèria d'Évreux, uns cent quilòmetres a l'est de París,…",
+      "title": "Una nova onada d'amenaces de bomba afecta almenys 25 avions a Europa",
+      "excerpt": "Les informacions sobre avions que han rebut amenaces de bomba a Europa han estat constants durant aquest dijous al matí. Segons el recompte de l'agència Reuters, hi ha hagut almenys 25 avions afectats, en un episodi que se suma al que ja es va viure dimarts . Hi ha hagut alertes en avions que estaven volant i també en alguns que eren a les pistes de diversos aeroports. De companyies de baix cost i també d'aerolínies de bandera. Tots amb rutes diferents, però tots dins…",
       "url": "https://www.ara.cat/internacional/europa/nova-onada-d-alertes-bomba-avions-europa-almenys-cinc-han-hagut-aterratges-d-emergencia_1_5900814.html",
       "published": "2026-11-05T10:56:06+01:00",
       "category": "Actualitat",
