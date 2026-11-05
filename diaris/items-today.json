@@ -27,14 +27,39 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "ARA",
+      "title": "Aquests seran els serveis mínims durant la vaga de l'11-N",
+      "excerpt": "El Govern ja ha concretat com seran els serveis mínims per a la vaga general de l'11-N a Catalunya . El departament d'Empresa i Treball ha decretat que l'11 de novembre Rodalies, el metro, els Ferrocarrils de la Generalitat (FGC), el tramvia i els autobusos urbans i interurbans hauran de garantir el 25% del servei habitual durant les hores punta, de les 6.30 h a les 9.30 h i de les 16.30 h a les 21.00 h. En canvi, el servei d’autobús que connecta Barcelona…",
+      "url": "https://www.ara.cat/societat/mobilitat/aquests-seran-serveis-minims-durant-vaga-l-11-n_1_5901554.html",
+      "published": "2026-11-05T20:35:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b038d009-01a7-4fc9-b3e1-047424b30b07_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de divendres: retorn del sol i la boira matinal",
       "excerpt": "Temps estable al 100% del territori",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-retorn-del-sol-i-la-boira-matinal/noticia/3438005/",
       "published": "2026-11-05T19:10:48+01:00",
-      "updated": "2026-11-05T19:11:33+01:00",
+      "updated": "2026-11-05T20:15:21+01:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/3/1793900697130.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/9/1793906099190.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434733/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-retorn-del-sol-i-la-boira-matinal/noticia/3438005/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Vaga de l'11N: serveis mínims del 25% del transport públic en hora punta i normalitat a urgències",
+      "excerpt": "El govern fixa el 25% en el servei a Rodalies, Ferrocarrils, metro, Tram i autobusos durant les hores punta, de matí i tarda",
+      "url": "https://www.3cat.cat/3catinfo/vaga-de-l11n-serveis-minims-del-25-del-transport-public-en-hora-punta-i-normalitat-a-urgencies/noticia/3438213/",
+      "published": "2026-11-05T20:12:03+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/0/1793103161100.jpg",
       "priority": "2 · Important"
     },
     {
@@ -226,6 +251,56 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "David Fernàndez es fa militant d’EH Bildu i formarà part de l’equip de relacions polítiques",
+      "excerpt": "Arnaldo Otegi ha anunciat la incorporació de l’ex-diputat de la CUP durant un acte a Bilbao, en què també ha participat Mertxe Aizpurua",
+      "url": "https://www.vilaweb.cat/noticies/david-fernandez-eh-bildu-relacions-politiques/",
+      "published": "2026-11-05T20:43:23+01:00",
+      "category": "País Basc",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Europa-Deportivo i el Celta-Espanyol de la Copa de la Reina ja tenen horaris nous",
+      "excerpt": "L’Europa-Deportivo i el Celta – RCD Espanyol tenen els horaris definits. Tots dos partits corresponen a la tercera eliminatòria de la Copa de la Reina i es van suspendre el 3 de novembre per la mort del jugador del Tenerife Jesús de Miguel. El partit entre l’Europa i el Deportivo l’emetrà en directe betevé. El […]",
+      "url": "https://beteve.cat/esports/europa-deportivo-celta-espanyol-copa-reina-tenen-horaris-nous/",
+      "published": "2026-11-05T20:34:46+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/01/europa-valencia-femeni-3.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les ombres del cas Koldo",
+      "excerpt": "Quan falta una setmana per a l'inici de la campanya electoral del 29-N, la Guàrdia Civil ha detingut sis persones i ha escorcollat diversos domicilis, entre els quals el de l'exministre José Luis Ábalos, en el marc d'una nova peça separada i secreta de l'anomenat cas Koldo. De moment n'ha transcendit poca informació, però tot apunta que es tracta de presumptes suborns que esquitxarien Adif, el gestor públic de la infraestructura ferroviària. El fet, però, que els sis detinguts ja hagin estat posats en llibertat…",
+      "url": "https://www.ara.cat/editorial/ombres-cas-koldo_129_5901400.html",
+      "published": "2026-11-05T20:26:04+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7e609c4b-fe5a-455e-937f-be6601fd780d_16-9-aspect-ratio_default_0_x3053y1112.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Crítica de les estrenes de cine: la cartellera s'omple de miserables",
+      "excerpt": "S'estrena \"Ruega por nosotras\", sobre el maltractament a les joves díscoles durant el franquisme; \"Sacamantecas\", sobre l'assassí en sèrie de finals del s. XIX, i una nova versió d'\"Els miserables\" de Victor Hugo",
+      "url": "https://www.3cat.cat/3catinfo/critica-de-les-estrenes-de-cine-la-cartellera-somple-de-miserables/noticia/3438011/",
+      "published": "2026-11-05T20:17:22+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/0/1793873947806.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Una caixa plena de records i 234 llums: l’homenatge de Paiporta a les víctimes de la gota freda",
+      "excerpt": "L’Associació de Víctimes de la DANA 29 d’Octubre de 2024 ha organitzat un acte de memòria i reivindicació al barranc de Paiporta, amb la participació de col·lectius socials, culturals i veïnals dels municipis afectats",
+      "url": "https://www.vilaweb.cat/noticies/una-caixa-plena-de-records-i-234-llums-lhomenatge-de-paiporta-a-les-victimes-de-la-gota-freda/",
+      "published": "2026-11-05T20:15:34+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Keira Knightley: \"Tinc un record molt viu d’haver estat perseguida\"",
       "excerpt": "Quan Keira Knightley surt del local d’assaig del nord de Londres ningú la crida. No hi ha cap càmera que li faci fotos mentre recorre uns quants carrers fins a arribar al pub de barri, on s’acomoda en una taula al racó i es treu les ulleres de sol. No sempre ha estat així.",
@@ -363,12 +438,12 @@
       "published": "2026-11-05T19:00:09+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/5/1793887694950.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434647/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/blocs-en-lluita-de-barcelona-demanen-ajuda-a-lajuntament-per-convertir-se-en-cooperatives/noticia/3437875/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -383,7 +458,7 @@
     {
       "source": "3CatInfo",
       "title": "Renuncia la regidora d'Urbanisme d'Esparreguera, investigada pel mateix cas que l'excap de gabinet d'Illa",
-      "excerpt": "Nativitat Sánchez, també primera tinenta d'alcaldia, ha presentat la renúncia \"per evitar que les investigacions interfereixin en la feina del govern municipal\"",
+      "excerpt": "Nativitat Sanchez, també primera tinenta d'alcaldia, ha presentat la renúncia \"per evitar que les investigacions interfereixin en la feina del govern municipal\"",
       "url": "https://www.3cat.cat/3catinfo/renuncia-la-regidora-durbanisme-desparreguera-investigada-pel-mateix-cas-que-lexcap-de-gabinet-dilla/noticia/3438156/",
       "published": "2026-11-05T19:00:01+01:00",
       "category": "Actualitat",
@@ -608,6 +683,16 @@
       "published": "2026-11-05T17:25:05+01:00",
       "category": "Societat",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Els notaris proposen crear una base dades europea per lluitar contra el blanqueig de diner",
+      "excerpt": "Fa pràcticament 20 anys que el sistema notarial espanyol es diferencia de la resta per una qüestió: té una base de dades que registra qualsevol document que se signa a les notaries i això és de gran ajuda per detectar possibles operacions, per exemple, de blanqueig de diner. Segons José Alberto Marín, degà del Col·legi […]",
+      "url": "https://beteve.cat/societat/notaris-proposen-base-dades-europea-blanqueig-diner/",
+      "published": "2026-11-05T17:22:01+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/notaria-051126-2026-11-05.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -937,7 +1022,7 @@
     },
     {
       "source": "ARA",
-      "title": "Brian Fariñas, el fill de camioner que ha enamorat Hansi Flick",
+      "title": "El camí de Brian Fariñas: de Benicarló al primer equip del Barça",
       "excerpt": "Brian Fariñas (Benicarló, 9 de febrer del 2006) s'ha presentat a l'afició per la porta gran. Les urgències en defensa van dur Hansi Flick a ubicar-lo com a titular contra l'Alabès. La resposta del futbolista de 20 anys va ser tan positiva que el migcampista reconvertit a lateral va repetir davant un rival de la talla de l'Aston Villa. Fariñas va tornar a convèncer en una posició que no és la seva, tot i que ja havia jugat en algunes ocasions amb el filial o…",
       "url": "https://www.ara.cat/esports/barca/brian-farinas-fill-camioner-enamorat-hansi-flick_130_5900158.html",
       "published": "2026-11-05T14:00:21+01:00",
@@ -1358,7 +1443,7 @@
     {
       "source": "ARA",
       "title": "Sánchez, sobre els insults de Milei: \"El respecte en política em sembla fonamental\"",
-      "excerpt": "Després de la plantada a la gala inaugural i al posterior sopar que oferia la casa reial espanyola, Javier Milei sí que ha assistit a la segona i última jornada de la Cimera Iberoamericana que s'ha celebrat a Madrid. Era, de fet, un dels grans reclams dels focus mediàtics per si seria fidel a les seves formes, que en l'última visita a Espanya es van materialitzar en insults cap a Pedro Sánchez: \"Dictador, corrupte, autoritari\", li va etzibar Milei fa tant sols dues setmanes. El…",
+      "excerpt": "Després de la plantada a la gala inaugural i al posterior sopar que oferia la casa reial espanyola, Javier Milei sí que ha assistit a la segona i última jornada de la Cimera Iberoamericana que s'ha celebrat a Madrid. Era, de fet, un dels grans reclams dels focus mediàtics per si seria fidel a les seves formes, que en l'última visita a Espanya es van materialitzar en insults cap a Pedro Sánchez: \"Dictador, corrupte, autoritari\", li va etzibar Milei fa tan sols dues setmanes. El…",
       "url": "https://www.ara.cat/politica/milei-ataca-agendes-progressistes-europees-davant-sanchez-felip-vi_1_5900811.html",
       "published": "2026-11-05T11:05:17+01:00",
       "category": "Actualitat",
