@@ -1,4 +1,25 @@
 {
   "date": "2026-11-05",
-  "items": []
+  "items": [
+    {
+      "source": "ARA",
+      "title": "El foc i la brasa de l’Asador Etxebarri el catapulten com a millor restaurant del món",
+      "excerpt": "Bittor Arginzoniz està millor al bosc buscant llenya que no pas en grans esdeveniments socials. També es troba més a gust davant la brasa roent que en un auditori. Però aquest parrillero de 66 anys, nascut a Axpe (País Basc), on ha viscut tota la vida i hi té el restaurant Asador Etxebarri, ha aconseguit posicionar-se dalt de tot de la llista més preuada aquest dimecres a la nit a Lima. És el mateix rànquing que fa dos anys va situar el Disfrutar al capdamunt…",
+      "url": "https://mengem.ara.cat/restaurants/foc-brasa-l-asador-etxebarri-catapulten-millor-restaurant-mon_1_5900444.html",
+      "published": "2026-11-05T04:25:11+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8fa1ce42-f097-4b80-910b-7878d2d3ff43_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "De la tragèdia a la prevenció: el IEC exposa les lliçons de la gota freda del País Valencià",
+      "excerpt": "La mostra neix d'un informe transversal de l’Institut sobre la catàstrofe a partir de disciplines diverses",
+      "url": "https://www.vilaweb.cat/noticies/de-la-tragedia-a-la-prevencio-liec-exposa-les-llicons-de-la-gota-freda-de-valencia/",
+      "published": "2026-11-05T01:50:58+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    }
+  ]
 }
