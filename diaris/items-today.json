@@ -27,6 +27,26 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "“Prou de vendre fum”: el Sindicat d’Habitatge d’Andorra amenaça de tallar la frontera",
+      "excerpt": "El col·lectiu dóna un mes al govern perquè adopti mesures contra la crisi de l’habitatge i adverteix que podria blocar els accessos al país durant el pont de la Puríssima",
+      "url": "https://www.vilaweb.cat/noticies/sindicat-habitatge-andorra-frontera/",
+      "published": "2026-11-05T21:19:51+01:00",
+      "category": "Andorra",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Quins seran els serveis mínims durant la vaga general de l’11 de novembre?",
+      "excerpt": "(ACN/Redacció) Dimecres, 11 de novembre, hi ha convocada una vaga general de 24 hores i ja es comencen a perfilar quins seran els serveis mínims durant l’aturada que ha decretat el Departament d’Empresa i Treball. Les afectacions més rellevants seran al transport públic, que garantirà un 25 % de servei en hores punta, mentre les […]",
+      "url": "https://beteve.cat/economia/serveis-minims-vaga-general-11-novembre-2026/",
+      "published": "2026-11-05T20:36:21+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/cartell-vaga-general-2026-11-05.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "Aquests seran els serveis mínims durant la vaga de l'11-N",
       "excerpt": "El Govern ja ha concretat com seran els serveis mínims per a la vaga general de l'11-N a Catalunya . El departament d'Empresa i Treball ha decretat que l'11 de novembre Rodalies, el metro, els Ferrocarrils de la Generalitat (FGC), el tramvia i els autobusos urbans i interurbans hauran de garantir el 25% del servei habitual durant les hores punta, de les 6.30 h a les 9.30 h i de les 16.30 h a les 21.00 h. En canvi, el servei d’autobús que connecta Barcelona…",
@@ -34,6 +54,16 @@
       "published": "2026-11-05T20:35:29+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/b038d009-01a7-4fc9-b3e1-047424b30b07_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona i Atlanta (els EUA) s’alien per compartir experiències sobre habitatge assequible",
+      "excerpt": "L’alcalde de Barcelona, Jaume Collboni, i l’alcalde d’Atlanta (capital de Geòrgia, als EUA), Andre Dickens, han signat una declaració conjunta de cooperació per compartir experiències en matèria d’accés a l’habitatge. Ho han fet aquest dijous a la tarda a l’Ajuntament de Barcelona. Collboni ha reiterat que la crisi de l’habitatge és una qüestió global i […]",
+      "url": "https://beteve.cat/politica/barcelona-atlanta-alien-cooperacio-habitatge/",
+      "published": "2026-11-05T20:34:32+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/barcelona-atlanta-habitatge-2026-11-05.jpg",
       "priority": "2 · Important"
     },
     {
@@ -251,6 +281,36 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Sekulic s'inventa un heroi inesperat",
+      "excerpt": "El Barça va madurar un any en un dia. L'equip blaugrana va recuperar un desavantatge de 10 punts contra el Hapoel Tel Aviv (90-93). Darío Brizuela es va convertir en l'inesperat heroi en un dia en què Aleksander Sekulic tenia les baixes de dos bases, Mo Gibson i Juan Núñez. L'escorta basc, que va anotar 22 punts, va tenir una incidència decisiva en el moment clau. Una cistella seva a sis segons del final va decidir el partit, ja que Vasilije Micic va fallar el…",
+      "url": "https://www.ara.cat/esports/basquet/eurolliga/cronica-hapoel-tel-aviv-barca_1_5901246.html",
+      "published": "2026-11-05T21:54:22+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e0c0c602-c506-4e7b-a1a8-0411085f13bf_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Es multiplica la pressió sobre Collboni per comprar blocs en risc a Barcelona",
+      "excerpt": "Barcelona ha fet del tanteig i retracte una de les seves grans palanques per ampliar el parc públic de la ciutat. L'eina, que dona a l'Ajuntament l'última paraula sobre cada bloc d'edificis sencer que es ven a la capital catalana, ha permès al consistori adquirir 1.600 pisos en els darrers deu anys. El mecanisme, però, situa constantment el govern municipal en un dilema: haver de decidir què es compra i què no.",
+      "url": "https://www.ara.cat/societat/barcelona/multiplica-pressio-collboni-comprar-blocs-risc-barcelona_1_5901198.html",
+      "published": "2026-11-05T21:26:48+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ca2d1356-0a63-4c8d-bd4e-9df9a064c21b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Arriba la borrasca Bruna: com afectarà Barcelona i Catalunya?",
+      "excerpt": "La borrasca Bruna agafa protagonisme. Després del fred dels darrers dies i de la primera enfarinada de la temporada, el focus meteorològic es desplaçarà cap a aquesta borrasca atlàntica, que començarà a influir en el temps aquest cap de setmana, 7 i 8 de novembre, i que es farà notar especialment a partir de dilluns. […]",
+      "url": "https://beteve.cat/medi-ambient/arriba-borrasca-bruna-com-afectara-barcelona-catalunya-novembre-2026/",
+      "published": "2026-11-05T20:59:01+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/arriba-borrasca-bruna-com-afectara-barcelona-catalunya-novembre-2026-2026-11-05.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "David Fernàndez es fa militant d’EH Bildu i formarà part de l’equip de relacions polítiques",
       "excerpt": "Arnaldo Otegi ha anunciat la incorporació de l’ex-diputat de la CUP durant un acte a Bilbao, en què també ha participat Mertxe Aizpurua",
@@ -301,6 +361,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "L’Ajuntament demanarà el certificat de residència a Barcelona per optar al Bonus Cultura de 20 €",
+      "excerpt": "La primera convocatòria de 20.000 Bonus Cultura de 20 € ha estat un èxit i els vals s’han exhaurit en 24 hores. Ara bé, per fer la inscripció no calia ser resident a Barcelona i això ha aixecat certa polseguera. En aquest sentit, l’Ajuntament reconeix que un 20 % de les sol·licituds s’han fet des […]",
+      "url": "https://beteve.cat/cultura/ajuntament-certificat-residencia-barcelona-optar-bonus-cultura/",
+      "published": "2026-11-05T20:10:41+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/02/teatre-butaques.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Keira Knightley: \"Tinc un record molt viu d’haver estat perseguida\"",
       "excerpt": "Quan Keira Knightley surt del local d’assaig del nord de Londres ningú la crida. No hi ha cap càmera que li faci fotos mentre recorre uns quants carrers fins a arribar al pub de barri, on s’acomoda en una taula al racó i es treu les ulleres de sol. No sempre ha estat així.",
@@ -317,7 +387,7 @@
       "url": "https://www.ara.cat/economia/mercats/caiguda-borsa-tecnologiques-perdre-musk-mes-27-000-m_1_5901394.html",
       "published": "2026-11-05T19:43:43+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/44019352-1072-40a1-8db8-0215458000b8_16-9-aspect-ratio_default_0_x2507y873.jpg",
+      "image": "https://static1.ara.cat/clip/44019352-1072-40a1-8db8-0215458000b8_source-aspect-ratio_default_0_x2507y873.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -497,7 +567,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "[VÍDEOS] “L’estaca” de Lluís Llach ressona durant les mobilitzacions als carrers de París",
+      "title": "[VÍDEOS] “L’estaca” de Lluís Llach ressona durant les mobilitzacions als carrers de París com a himne de resistència i solidaritat",
       "excerpt": "Alguns manifestants l'han cantada en les protestes estudiantils i ciutadanes d'aquestes darreres setmanes",
       "url": "https://www.vilaweb.cat/noticies/videos-estaca-ressona-carrers-paris-mobilitzacions/",
       "published": "2026-11-05T18:28:26+01:00",
