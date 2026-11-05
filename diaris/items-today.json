@@ -27,6 +27,37 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de divendres: retorn del sol i la boira matinal",
+      "excerpt": "Temps estable al 100% del territori",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-retorn-del-sol-i-la-boira-matinal/noticia/3438005/",
+      "published": "2026-11-05T19:10:48+01:00",
+      "updated": "2026-11-05T19:11:33+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/3/1793900697130.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Eisenkot guanya opcions per rebre l’encàrrec de formar govern i desbancar Netanyahu",
+      "excerpt": "Gadi Eisenkot guanya terreny en la cursa per rebre l’encàrrec de formar el pròxim govern d’Israel. L’excap de l’Estat Major de l'exèrcit israelià suma 67 recomanacions, davant de les 46 de Benjamin Netanyahu, i se situa al capdavant en les consultes presidencials. Les opcions per a Eisenkot han augmentat després que el partit ultraortodox Judaisme Unit de la Torà hagi anunciat que no recomanarà cap candidat al president, Isaac Herzog, i que les dues formacions àrabs hagin expressat el seu suport a l'exgeneral. Els avals,…",
+      "url": "https://www.ara.cat/internacional/proxim-orient/eisenkot-guanya-opcions-rebre-l-encarrec-formar-govern-desbancar-netanyahu_1_5901340.html",
+      "published": "2026-11-05T19:01:33+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2690da56-795f-4e61-bdd4-376fdc81ff09_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El president del Paraguai presenta la dimissió, però el congrés impulsa un judici polític per evitar que conservi la immunitat",
+      "excerpt": "La crisi del Banco Ueno precipita la renúncia de Santiago Peña, però els diputats aproven per unanimitat de continuar el procés de destitució · La constitució preveu que els ex-presidents esdevinguin senadors vitalicis, excepte si són destituïts",
+      "url": "https://www.vilaweb.cat/noticies/president-paraguai-dimiteix-crisi-bancaria/",
+      "published": "2026-11-05T17:47:38+01:00",
+      "category": "Amèrica",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "Més de 250.000 persones es manifesten a l’estat francès en la jornada de vaga general",
       "excerpt": "La jornada de mobilització, convocada pels principals sindicats, s'ha seguit en més de setanta ciutats i ha comptat amb el suport d'estudiants, pagesos i jupetins grocs",
@@ -145,6 +176,16 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Vaga general a França: mobilitzacions massives contra l'increment del cost de la vida",
+      "excerpt": "Com a mínim 600.000 persones s'han manifestat aquest dijous arreu de França, segons dades del ministeri de l'Interior, contra l'increment del cost de la vida i el deteriorament dels serveis públics. En el marc d'una vaga general convocada pels principals sindicats francesos, que eleven la dada de participació a 1,6 milions de francesos, els ciutadans han tornat novament als carrers en un dels estats precursors de les mobilitzacions que recorren Europa , i que majoritàriament comparteixen la pèrdua de poder adquisitiu i la retallada de…",
+      "url": "https://www.ara.cat/internacional/europa/franca-desplega-70-000-agents-evitar-altra-jornada-violencia-als-carrers_1_5900703.html",
+      "published": "2026-11-05T09:12:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7af327b3-a0dd-4db1-860d-19b5123fc3b4_source-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "El Ministeri de Treball espanyol proposa d’apujar el salari mínim a 1.286 euros mensuals l’any que ve",
       "excerpt": "La proposta representa un augment del 5,3%, una xifra inferior al 7% que demanaven els sindicats",
@@ -185,6 +226,221 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Keira Knightley: \"Tinc un record molt viu d’haver estat perseguida\"",
+      "excerpt": "Quan Keira Knightley surt del local d’assaig del nord de Londres ningú la crida. No hi ha cap càmera que li faci fotos mentre recorre uns quants carrers fins a arribar al pub de barri, on s’acomoda en una taula al racó i es treu les ulleres de sol. No sempre ha estat així.",
+      "url": "https://www.ara.cat/media/series/keira-knightley-record-viu-d-perseguida_1_5898703.html",
+      "published": "2026-11-05T20:00:45+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5f394b33-74b7-45fd-a331-7026b0f6b82b_16-9-aspect-ratio_default_0_x1740y1202.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La caiguda a borsa de les tecnològiques fa perdre a Musk més de 27.000 M€",
+      "excerpt": "La ressaca de la victòria demòcrata a les eleccions legislatives nord-americanes de dimarts passat han provocat fortes caigudes entre algunes de les principals empreses tecnològiques que cotitzen a la borsa dels EUA. Un dels principals afectats per les davallades és el magnat Elon Musk, que hauria perdut aproximadament més de 27.000 milions d'euros.",
+      "url": "https://www.ara.cat/economia/mercats/caiguda-borsa-tecnologiques-perdre-musk-mes-27-000-m_1_5901394.html",
+      "published": "2026-11-05T19:43:43+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/44019352-1072-40a1-8db8-0215458000b8_16-9-aspect-ratio_default_0_x2507y873.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La Séptima, una roda de hàmster ideològica",
+      "excerpt": "Dijous es va estrenar La Séptima, també coneguda com a Telesánchez. El logo de la cadena fins i tot comparteix el vermell corporatiu que identifica el PSOE. L’ideòleg del plantejament televisiu és José Miguel Contreras, que ja va ser creador i fundador de La Sexta. No li ha calgut trencar-se el cap. La Séptima és com si entressis en un bucle d' Al rojo vivo de La Sexta que s’allarga durant tot el dia, de dotze del migdia a una de la matinada. No hi…",
+      "url": "https://www.ara.cat/media/septima-roda-hamster-ideologica_129_5901446.html",
+      "published": "2026-11-05T19:40:20+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1cd8d1ce-a121-41fa-88a5-1ea6fb90a441_16-9-aspect-ratio_default_0_x596y213.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les vendes de cotxes elèctrics a Catalunya creixen un 100%",
+      "excerpt": "Els cotxes elèctrics finalment semblen haver trobat l'embranzida necessària a Catalunya. I és que segons dades de Faconauto i ANFAC les matriculacions de vehicles elèctrics aquest passat mes d’octubre han crescut un 100,52% respecte al mes d’octubre de l’any 2025. En l’acumulat interanual, amb dades dels mesos d’octubre a novembre de 2026, el percentatge de creixement se situa en un sorprenent 57,71% respecte a les xifres del 2025. Dit d’una altra manera, al llarg de l’any 2026 s’han matriculat més de 22.000 cotxes elèctrics nous…",
+      "url": "https://motor.ara.cat/novetats/vendes-cotxes-electrics-catalunya-creixen-100_1_5901191.html",
+      "published": "2026-11-05T19:33:53+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4637e28f-afeb-4ecd-a4ef-dbd280d3a55e_16-9-aspect-ratio_default_1061427.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Acord perquè l’Ajuntament compri El Centre de la Vila, ara molt deteriorat",
+      "excerpt": "Una majoria aclaparadora del Ple Municipal ha demanat que l’Ajuntament compri el centre comercial El Centre de la Vila, titularitat de l’empresa pública Mercasa (que depèn de l’Estat), al barri de la Vila Olímpica del Poblenou. A proposta de Junts, el Ple ha aprovat fer aquesta operació, que el govern de Jaume Collboni ja ha […]",
+      "url": "https://beteve.cat/politica/acord-ajuntament-compra-centre-vila-molt-deteriorat/",
+      "published": "2026-11-05T19:29:06+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/02/centre-de-la-vila-vila-olimpica-180226.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’estadi de Can Dragó ja té instal·lada la gespa natural nova",
+      "excerpt": "El camp de Can Dragó, on juga de local el CE Europa en els partits de Lliga, estrenarà gespa natural en el partit contra l’Atlètic Madrileny d’aquest diumenge, a les 12 h. Des del mes de febrer que l’equip escapulat ha de jugar a l’estadi del barri de Porta, ja que la normativa de la […]",
+      "url": "https://beteve.cat/esports/can-drago-ja-te-gespa-natural-nova/",
+      "published": "2026-11-05T19:25:48+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/estadi-can-drago-gespa2-2026-11-05.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El fiscal demana cinquanta-dos anys de presó per a l’investigat pel doble crim al pantà de Susqueda",
+      "excerpt": "Acusa Jordi Magentí de dos delictes d'assassinat amb l'agreujant de reincidència i de tinença il·lícita d'armes",
+      "url": "https://www.vilaweb.cat/noticies/fiscal-preso-per-investigat-doble-crim-panta-susqueda/",
+      "published": "2026-11-05T19:24:32+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Detinguts quatre menors a Palma per presumpta vinculació amb els aldarulls de Blocus",
+      "excerpt": "Els delictes investigats són conspiració per a cometre desordres públics, conspiració per a cometre delictes contra el patrimoni i pertinença a grup organitzat",
+      "url": "https://www.vilaweb.cat/noticies/detinguts-quatre-menors-a-palma-vinculacio-aldarulls-blocus/",
+      "published": "2026-11-05T19:19:26+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El resultat de les 'midterm' amenaça el cordó umbilical d'Israel",
+      "excerpt": "El suport a l'estat d'Israel, en ple genocidi de Gaza, ha estat un dels temes que han pesat en l'estrepitosa derrota de Donald Trump i el Partit Republicà a les eleccions de dimarts als Estats Units. L'opinió pública estatunidenca ha canviat en aquests tres anys i la defensa d'Israel ja no és una política de consens transversal al sistema bipartidista. El president demòcrata Joe Biden, un convençut defensor d'Israel, havia dit i repetit que \"si Israel no existís ens l'hauríem d'inventar\", i és ben conegut…",
+      "url": "https://www.ara.cat/internacional/proxim-orient/resultat-midterm-amenaca-cordo-umbilical-d-israel_1_5900905.html",
+      "published": "2026-11-05T19:13:25+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/46c161d5-90fe-49c3-ad70-110fe4d7a8a1_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-06-11-2026_134_5901316.html",
+      "published": "2026-11-05T19:05:55+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les revistes en català reivindiquen el seu espai davant l'algoritme a la Nit de les Revistes i la Premsa en Català",
+      "excerpt": "La 26a Nit de les Revistes i la Premsa en Català ha reivindicat el paper de les publicacions en català com a espais de lectura, reflexió i informació de qualitat en un entorn cada vegada més condicionat pels algoritmes i les plataformes digitals. La gala, organitzada per l'Associació de Publicacions Periòdiques en Català (APPEC), es va celebrar ahir al Casino l'Aliança del Poblenou de Barcelona i va reunir representants del sector editorial, periodístic i cultural. El president de l'entitat, Germà Capdevila, va defensar les revistes…",
+      "url": "https://www.ara.cat/media/revistes-catala-reivindiquen-espai-davant-l-algoritme-nit-revistes-premsa-catala_1_5901235.html",
+      "published": "2026-11-05T19:05:15+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b4fbca93-07a1-4e26-829c-8efe4f5d1fd6_16-9-aspect-ratio_default_1061432.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Es manté la picabaralla entre el sol i els núvols: cel radiant divendres, 6 de novembre",
+      "excerpt": "La previsió del temps per a aquest divendres, 6 de novembre, vindrà marcada per un parèntesi d’estabilitat i calma. Jornada plàcida i majoritàriament assolellada amb algunes boirines matinals. El més destacable serà el contrast fort entre el fred matinal i l’escalfor del migdia. S’entreveuen canvis a partir del cap de setmana. Previsió horària per a […]",
+      "url": "https://beteve.cat/medi-ambient/temps-barcelona-divendres-6-novembre-fred-sol-tardor-roba-capes/",
+      "published": "2026-11-05T19:01:45+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/temps-barcelona-divendres-6-novembre-fred-sol-tardor-roba-capes-2026-11-05.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De fit a fit",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/fit-fit-06-11-2026_134_5901385.html",
+      "published": "2026-11-05T19:00:50+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Blocs en lluita de Barcelona demanen ajuda a l'Ajuntament per convertir-se en cooperatives",
+      "excerpt": "Sostre Cívic ha exercit el dret de tanteig i retracte per aturar les compres especulatives",
+      "url": "https://www.3cat.cat/3catinfo/blocs-en-lluita-de-barcelona-demanen-ajuda-a-lajuntament-per-convertir-se-en-cooperatives/noticia/3437875/",
+      "published": "2026-11-05T19:00:09+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/5/1793887694950.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434647/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/blocs-en-lluita-de-barcelona-demanen-ajuda-a-lajuntament-per-convertir-se-en-cooperatives/noticia/3437875/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Sis menors més detinguts per la manifestació dels estudiants del Bages del 21 d'octubre",
+      "excerpt": "Els detinguts, entre 14 i 17 anys, estan acusats de desordres públics, atemptat contra l'autoritat, robatori amb violència i lesions",
+      "url": "https://www.3cat.cat/3catinfo/sis-menors-mes-detinguts-per-la-manifestacio-dels-estudiants-del-bages-del-21-doctubre/noticia/3438104/",
+      "published": "2026-11-05T19:00:02+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/1/1793886881213.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Renuncia la regidora d'Urbanisme d'Esparreguera, investigada pel mateix cas que l'excap de gabinet d'Illa",
+      "excerpt": "Nativitat Sánchez, també primera tinenta d'alcaldia, ha presentat la renúncia \"per evitar que les investigacions interfereixin en la feina del govern municipal\"",
+      "url": "https://www.3cat.cat/3catinfo/renuncia-la-regidora-durbanisme-desparreguera-investigada-pel-mateix-cas-que-lexcap-de-gabinet-dilla/noticia/3438156/",
+      "published": "2026-11-05T19:00:01+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/6/1793731369867.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Presó provisional per a 3 multireincidents en casos en què s’ha personat l’Ajuntament de Barcelona",
+      "excerpt": "L’Ajuntament de Barcelona es manté com a acusació particular en sis judicis per delictes de furt comesos per multireincidents. A mitjans d’aquest 2026, es va posar en marxa un mecanisme que involucra la Guàrdia Urbana, altres cossos policials i els serveis jurídics de l’Ajuntament amb l’objectiu de coordinar-se per combatre la multireincidència. La llei contra […]",
+      "url": "https://beteve.cat/societat/preso-provisional-tres-multireincidents-ajuntament-barcelona-personat/",
+      "published": "2026-11-05T18:41:41+01:00",
+      "category": "justícia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/04/detencio-guardia-urbana-25624-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona crea una empresa pública per rehabilitar el Besòs: ara per ara, 95 M€ fins al 2029",
+      "excerpt": "El Plenari de l’Ajuntament de Barcelona ha aprovat inicialment la creació de l’empresa pública Impulsem Futur Besòs-Maresme, SA (constituïda de forma mixta entre l’Ajuntament i la Generalitat), que serà l’encarregada de fer la rehabilitació de centenars de pisos que ara mateix estan en un estat deplorable al barri del Besòs i el Maresme. A llarg […]",
+      "url": "https://beteve.cat/politica/barcelona-crea-empresa-publica-rehabilitar-besos-maresme/",
+      "published": "2026-11-05T18:32:43+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/06/pla-barris-besos-maresme-240625.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "No són guerres híbrides",
+      "excerpt": "Fa temps que, a la Unió Europea (UE) i arreu del món, es denuncien incidents i atacs greus als espais de ciberseguretat i de transport. Els ciberatacs fa dècades que existeixen i cada vegada són més greus per la gran dependència –d'economies i societats, fins i tot en defensa i seguretat– d'eines cibernètiques. Per això, gairebé tots els països i organitzacions de seguretat inclouen en les seves estratègies de resposta a amenaces reptes de ciberseguretat (fins i tot s'han creat organismes específics, com va fer…",
+      "url": "https://www.ara.cat/opinio/no-son-guerres-hibrides_129_5901124.html",
+      "published": "2026-11-05T18:31:09+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fe93d06b-4ee7-4cb0-884e-4af6715a94ed_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "[VÍDEOS] “L’estaca” de Lluís Llach ressona durant les mobilitzacions als carrers de París",
+      "excerpt": "Alguns manifestants l'han cantada en les protestes estudiantils i ciutadanes d'aquestes darreres setmanes",
+      "url": "https://www.vilaweb.cat/noticies/videos-estaca-ressona-carrers-paris-mobilitzacions/",
+      "published": "2026-11-05T18:28:26+01:00",
+      "category": "França",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Hores baixes per a la dreta dura mediàtica del Regne Unit",
+      "excerpt": "En els últims temps, s’acumulen diferents notícies que fan pensar en un recentrament dels mitjans de comunicació britànics. La veda la va iniciar el conservador The Sun a les eleccions del 2024, quan va donar suport explícit al seu editorial al laborista Keir Starmer per sobre dels tories . No passava des del 2005 i va ser interpretat com un gir a posicions lleugerament més moderades ara que Lachlan Murdoch ha pres les regnes de l’imperi editorial del seu pare. Més recentment, el Telegraph ha…",
+      "url": "https://www.ara.cat/media/hores-baixes-dreta-dura-mediatica-regne-unit_129_5901335.html",
+      "published": "2026-11-05T18:21:04+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a50a2c0c-14b1-4d52-8616-7126b11bde22_source-aspect-ratio_default_1061433.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Detinguts a Lleida dos menors més vinculats amb els canals de Blocus",
       "excerpt": "Al Principat hi ha nou arrestats en relació amb aquestes investigacions",
@@ -197,11 +453,11 @@
     {
       "source": "ARA",
       "title": "El Gran Wyoming es jubila i Gonzo presentarà 'El intermedio'",
-      "excerpt": "El Gran Wyoming, nom artístic de José Miguel Monzón, es jubila i passa el relleu a Gonzo. Segons ha avançat El País, el comunicador, de 71 anys, deixarà de presentar El intermedio al gener i serà llavors quan el periodista gallec passarà a ser la cara visible de l'informatiu satíric de La Sexta. Actualment, Gonzo està al capdavant de Salvados, programa de la mateixa cadena. La capçalera detalla que el relleu serà progressiu i que, a partir de gener i durant un temps indefinit, tots…",
+      "excerpt": "El Gran Wyoming, nom artístic de José Miguel Monzón, es jubila i passa el relleu a Gonzo. Segons ha avançat El País , el comunicador, de 71 anys, deixarà de presentar El intermedio al gener i serà llavors quan el periodista gallec passarà a ser la cara visible de l'informatiu satíric de La Sexta. Actualment, Gonzo està al capdavant de Salvados , programa de la mateixa cadena. La capçalera detalla que el relleu serà progressiu i que, a partir del gener i durant un temps…",
       "url": "https://www.ara.cat/media/tv/gran-wyoming-jubila-gonzo-presentara-intermedio_1_5901315.html",
       "published": "2026-11-05T18:17:16+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/e7b37782-27d7-4d20-8980-a3c7d7574a50_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/e7b37782-27d7-4d20-8980-a3c7d7574a50_4-3-aspect-ratio_default_1061434.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -216,8 +472,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Crisi política a Còrsega: l’assemblea exigeix una negociació urgent per instaurar l’autonomia abans d’acabar l’any",
-      "excerpt": "La cambra aprova una resolució per 47 vots a favor i 15 en contra després del rebuig del senat francès a la reforma constitucional pactada amb els representants corsos",
+      "title": "Crisi política a Còrsega: l’Assemblea corsa exigeix una negociació urgent per a instaurar l’autonomia abans d’acabar l’any",
+      "excerpt": "La cambra aprova una resolució per 47 vots a favor i 15 en contra després del refús del senat francès a la reforma constitucional pactada amb els representants corsos",
       "url": "https://www.vilaweb.cat/noticies/crisi-politica-a-corsega-lassemblea-exigeix-una-negociacio-urgent-per-instaurar-lautonomia-abans-dacabar-lany/",
       "published": "2026-11-05T18:08:52+01:00",
       "category": "Còrsega",
@@ -231,7 +487,7 @@
       "url": "https://www.ara.cat/economia/mercat-laboral/inspeccio-treball-obre-expedient-departament-cultura-detectar-mes-200-falsos-becaris_1_5901173.html",
       "published": "2026-11-05T18:04:49+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/6d64b56e-1b8d-4336-a275-0fbee4b28041_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/6d64b56e-1b8d-4336-a275-0fbee4b28041_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -267,7 +523,7 @@
     {
       "source": "ARA",
       "title": "“La dreta utilitza la meritocràcia per justificar la desigualtat”",
-      "excerpt": "Fins fa poc tenia al WhatsApp una foto amb la seva filla, però amb la publicació del llibre s'escriu amb més gent que no la coneix –per a entrevistes, promoció– i ha decidit canviar-la. Són 128 pàgines que porten per títol Nadie merece nada (Quaderns Anagrama) on Jahel Queralt defensa i dissecciona el concepte de meritocràcia. Ella, filla d’un embaràs adolescent, va créixer en una casa sense electricitat ni aigua corrent i l’estadística ens indica que hauria de ser, d’adulta, una persona d’ingressos baixos. Però…",
+      "excerpt": "Fins fa poc tenia al WhatsApp una foto amb la seva filla, però amb la publicació del llibre s'escriu amb més gent que no la coneix –per a entrevistes, promoció– i ha decidit canviar-la. Són 128 pàgines que porten per títol Nadie merece nada (Quaderns Anagrama) on Jahel Queralt defensa i dissecciona el concepte de meritocràcia. Ella, filla d'uns pares que la van tenir tot just a l'acabar l'institut, va créixer –molt feliç– en una casa de camp sense electricitat. L’estadística ens indica que hauria…",
       "url": "https://www.ara.cat/societat/dreta-utilitza-meritocracia-justificar-desigualtat_128_5901075.html",
       "published": "2026-11-05T18:00:56+01:00",
       "category": "Actualitat",
@@ -295,6 +551,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "Embolic amb les paperetes del PSOE a Valladolid: Puente hi apareixerà, però qui vulgui el podrà ratllar",
+      "excerpt": "La Junta Electoral de Valladolid ha rebutjat la petició del PSOE de suprimir el nom de l'exministre de les paperetes perquè ja estan proclamades",
+      "url": "https://www.3cat.cat/3catinfo/embolic-amb-les-paperetes-del-psoe-a-valladolid-puente-hi-apareixera-pero-qui-vulgui-el-podra-ratllar/noticia/3438163/",
+      "published": "2026-11-05T17:53:35+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/6/1793894690869.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "La tofa",
       "excerpt": "Parlem, sisplau, del pentinat de Javier Milei, l’homenet que presideix l’Argentina i que va assistir a Madrid a una d’aquestes activitats que s’anomenen “cimera” i que adormen més que un llibre de l’Estivill. A l’ARA hem vist el gloriós vídeo de l’home, apersonat tot ell, saludant el rei Felip i el president Sánchez en aquesta cimera.",
@@ -302,16 +568,6 @@
       "published": "2026-11-05T17:51:38+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/08046eac-d6d1-4eb1-8ed7-350475313aab_16-9-aspect-ratio_default_0_x785y290.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "VilaWeb",
-      "title": "El president del Paraguai, Santiago Peña, dimiteix arran de la crisi bancària",
-      "excerpt": "El president renuncia després de la intervenció del Banco Ueno, que ha deixat milions de dipositants sense accés als seus diners",
-      "url": "https://www.vilaweb.cat/noticies/president-paraguai-dimiteix-crisi-bancaria/",
-      "published": "2026-11-05T17:47:38+01:00",
-      "category": "Amèrica",
-      "image": null,
       "priority": "3 · Altres notícies"
     },
     {
@@ -325,13 +581,23 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Els acusats pels aldarulls en el desallotjament d’Olzinelles neguen haver llançat res als mossos",
+      "excerpt": "(ACN) Els dos acusats per desordres públics i atemptat a l’autoritat en el desallotjament d’un bloc ocupat al carrer Olzinelles, a Sants, el 2020 han negat aquest dijous totalment els fets. Després que el judici s’hagi hagut de suspendre diverses vegades, en aquest sisè intent tots dos han negat haver llançat objectes als agents dels […]",
+      "url": "https://beteve.cat/societat/judici-acusats-desallotjament-olzinelles-neguen-fets/",
+      "published": "2026-11-05T17:31:24+01:00",
+      "category": "justícia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/acusats-olzinelles-2026-11-05.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Una profunda borrasca atlàntica marcarà el temps dels pròxims dies",
       "excerpt": "El canvi de temps d’aquest dijous ens ha portat molta nuvolositat, amb gotellades i ruixats dispersos i febles. Ben poca cosa en general, i les precipitacions no han arribat a tot arreu. Tot i això, a les comarques de Tarragona ha plogut amb una mica més de cara i ulls, especialment al Baix Ebre i al Montsià, on s’han assolit registres d'entre 10 i 15 l/m². Aquest divendres el sol i la calma s’imposaran a tot arreu, amb més bonança al migdia. Però a partir…",
       "url": "https://www.ara.cat/previsions/profunda-borrasca-atlantica-marcara-temps-dels-proxims-dies_1_5901165.html",
       "published": "2026-11-05T17:30:24+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/cf229e65-c856-44cb-ad2e-0334cc63abbc_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/9cdfa4d5-ee56-45fa-aa16-1dc4292c2e00_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -422,6 +688,16 @@
       "published": "2026-11-05T16:30:07+01:00",
       "category": "Societat",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Lluc Crusellas obre botiga al Gòtic i garanteix la continuïtat de la històrica Xocolates Fargas",
+      "excerpt": "El mestre xocolater Lluc Crusellas (Vic), millor mestre xocolater del món el 2022, acaba d’aterrar al Gòtic i assegura que té molts projectes per contribuir a revifar la tradició xocolatera dels seus carrers. A partir del 6 de novembre la històrica Xocolates Fargas (carrer del Pi, 16), incorpora els “cognoms” Crusellas i Eukarya, que és […]",
+      "url": "https://beteve.cat/estils-de-vida/lluc-crusellas-botiga-xocolates-fargas/",
+      "published": "2026-11-05T16:28:16+01:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/lluc-foto-portada-2026-11-05.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -780,6 +1056,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "Superexperiències del Super3: més de 100 activitats per a famílies, de musicals a preestrenes i actes exclusius",
+      "excerpt": "Musicals d'en Titó i el Mic, llibres de Nadal, preestrenes de \"Fuet\" i Conan, i molt més: consulta totes les activitats del Super3 per a famílies",
+      "url": "https://www.3cat.cat/3catinfo/superexperiencies-del-super3-mes-de-100-activitats-per-a-families-de-musicals-a-preestrenes-i-actes-exclusius/noticia/3437912/",
+      "published": "2026-11-05T13:30:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/2/3/1793892693732.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "RETEENA 2026: Festival Audiovisual Jove de Barcelona",
       "excerpt": "Torna RETEENA, Festival Audiovisual Jove de Barcelona, que celebrarà la 9ena edició del 3 al 13 de desembre de 2026. Com sempre es projectaran pel·lícules inèdites que compten amb talent jove i que serveix per incentivar la mirada crítica dels joves respecte d’allò que consumeixen. Aquí tens un avançament de programa. On? A la Nau […]",
@@ -856,8 +1142,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Nova onada de falses amenaces de bomba en una trentena de vols a Europa, alguns a Madrid",
-      "excerpt": "Aquest dimarts ja hi va haver almenys set vols afectats per amenaces similars i dilluns, un",
+      "title": "Nova onada de falses amenaces de bomba en una trentena de vols a Europa, alguns dels quals a Madrid",
+      "excerpt": "Aquest dimarts ja hi va haver almenys set vols afectats per amenaces similars, i dilluns, un",
       "url": "https://www.3cat.cat/3catinfo/nova-onada-de-falses-amenaces-de-bomba-a-avions-en-ple-vol-a-europa/noticia/3438053/",
       "published": "2026-11-05T13:00:53+01:00",
       "category": "Actualitat",
@@ -877,7 +1163,7 @@
     {
       "source": "3CatInfo",
       "title": "Cas Koldo: l'UCO escorcolla la casa d'Ábalos, demana informació a Adif i deté sis persones",
-      "excerpt": "La justícia entra en precampanya amb escorcolls i detencions de l'UCO en l'entorn de l'exministre de Transports",
+      "excerpt": "Pedro Sánchez nega cap vinculació amb els detinguts, que han quedat en llibertat durant la tarda",
       "url": "https://www.3cat.cat/3catinfo/cas-koldo-luco-escorcolla-la-casa-dabalos-demana-informacio-a-adif-i-dete-sis-persones/noticia/3438051/",
       "published": "2026-11-05T12:55:48+01:00",
       "category": "Actualitat",
@@ -916,8 +1202,8 @@
     },
     {
       "source": "ARA",
-      "title": "Sis detinguts en una nova peça secreta del cas Koldo",
-      "excerpt": "La investigació del cas Koldo a l'Audiència Nacional té una nova derivada que ha esclatat en plena precampanya del 29-N. La Unitat Central Operativa (UCO) de la Guàrdia Civil ha posat en marxa una operació aquest dijous que ha deixat sis detinguts en el marc d'una nova peça secreta pilotada pel jutge Ismael Moreno. A petició de l'instructor del cas Koldo, agents de l'UCO han escorcollat el domicili de l'exministre de Transports José Luis Ábalos a València així com altres dependències a Madrid, Sevilla i…",
+      "title": "Operació policial pel cas Koldo en plena precampanya",
+      "excerpt": "La investigació del cas Koldo a l'Audiència Nacional té una nova derivada que ha esclatat en plena precampanya del 29-N. La Unitat Central Operativa (UCO) de la Guàrdia Civil ha posat en marxa una operació aquest dijous que ha deixat sis detinguts —que han quedat en llibertat hores després— en el marc d'una nova peça secreta pilotada pel jutge Ismael Moreno. A petició de l'instructor del cas Koldo, agents de l'UCO han escorcollat el domicili de l'exministre de Transports José Luis Ábalos a València així…",
       "url": "https://www.ara.cat/politica/sis-detinguts-nova-peca-secreta-cas-koldo_1_5900860.html",
       "published": "2026-11-05T12:20:03+01:00",
       "category": "Actualitat",
@@ -1071,8 +1357,8 @@
     },
     {
       "source": "ARA",
-      "title": "Milei equipara el socialisme i el feixisme davant de Sánchez i Felip VI",
-      "excerpt": "Després de la plantada d'aquest dimarts a la nit, Javier Milei sí que ha assistit a la segona jornada de la Cimera Iberoamericana que se celebra a Madrid. Tothom estava pendent de com seria l'arribada del president argentí i, de moment, ha sigut freda i marcada pels seus dards contra els governs i les polítiques progressistes. Abans d'entrar, Milei ha saludat Felip VI i Pedro Sánchez. Amb el primer s'hi ha aturat uns breus minuts, mentre que amb Sánchez han fet una encaixada de mans…",
+      "title": "Sánchez, sobre els insults de Milei: \"El respecte en política em sembla fonamental\"",
+      "excerpt": "Després de la plantada a la gala inaugural i al posterior sopar que oferia la casa reial espanyola, Javier Milei sí que ha assistit a la segona i última jornada de la Cimera Iberoamericana que s'ha celebrat a Madrid. Era, de fet, un dels grans reclams dels focus mediàtics per si seria fidel a les seves formes, que en l'última visita a Espanya es van materialitzar en insults cap a Pedro Sánchez: \"Dictador, corrupte, autoritari\", li va etzibar Milei fa tant sols dues setmanes. El…",
       "url": "https://www.ara.cat/politica/milei-ataca-agendes-progressistes-europees-davant-sanchez-felip-vi_1_5900811.html",
       "published": "2026-11-05T11:05:17+01:00",
       "category": "Actualitat",
@@ -1187,16 +1473,6 @@
       "published": "2026-11-05T09:36:00+01:00",
       "category": "cultura",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/11/colita-fotografa-vpa-2026-11-04.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "ARA",
-      "title": "França desplega 70.000 agents per evitar una altra jornada de violència als carrers",
-      "excerpt": "Les autoritats franceses desplegaran 70.000 policies i gendarmes arreu del país aquest dijous davant una jornada d'aturades laborals i noves protestes per l'augment del cost de la vida i el deteriorament dels serveis públics. Es preveu que hi participin entre 500.000 i 700.000 persones. Després de les crítiques a la falta d'agents de policia durant les mobilitzacions del 17 d'octubre, i amb l'objectiu d'evitar nous episodis de violència, el govern francès ha decidit blindar les ciutats i posar en marxa un gran desplegament policial per…",
-      "url": "https://www.ara.cat/internacional/europa/franca-desplega-70-000-agents-evitar-altra-jornada-violencia-als-carrers_1_5900703.html",
-      "published": "2026-11-05T09:12:08+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/c3fa7817-bb62-457a-bb8c-791c14e7953e_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1511,8 +1787,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Nova jornada de mobilitzacions a França amb 70.000 agents desplegats",
-      "excerpt": "Interior ha prohibit que els recorreguts siguin a prop de \"llocs sensibles\", i en algunes ciutats com París no hi ha acord",
+      "title": "Nova mobilització a França: més de 600.000 persones protesten contra l'encariment de la vida",
+      "excerpt": "Els sindicats eleven la xifra d'assistents a les manifestacions fins als 1,6 milions de persones; el ministeri de l'Interior quantifica en 350.000 les persones que s'han manifestat a París",
       "url": "https://www.3cat.cat/3catinfo/nova-jornada-de-mobilitzacions-a-franca-amb-70000-agents-desplegats/noticia/3437980/",
       "published": "2026-11-05T06:50:37+01:00",
       "category": "Actualitat",
