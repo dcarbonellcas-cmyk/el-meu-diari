@@ -28,11 +28,11 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Milers de manifestants, instituts blocats i la universitat tancada en una jornada de vaga a Catalunya Nord",
-      "excerpt": "La protesta contra la carestia de la vida i la degradació dels serveis públics ha aplegat 6.000 persones a Perpinyà, segons la CGT, i 3.500 segons la policia",
-      "url": "https://www.vilaweb.cat/noticies/manifestants-instituts-blocats-universitat-tancada-catalunya-nord/",
-      "published": "2026-11-05T16:07:47+01:00",
-      "category": "Catalunya Nord",
+      "title": "Més de 250.000 persones es manifesten a l’estat francès en la jornada de vaga general",
+      "excerpt": "La jornada de mobilització, convocada pels principals sindicats, s'ha seguit en més de setanta ciutats i ha comptat amb el suport d'estudiants, pagesos i jupetins grocs",
+      "url": "https://www.vilaweb.cat/noticies/mes-250000-persones-manifesten-estat-frances-jornada-vaga-general/",
+      "published": "2026-11-05T17:20:37+01:00",
+      "category": "França",
       "image": null,
       "priority": "2 · Important"
     },
@@ -42,14 +42,24 @@
       "excerpt": "Retorna un àrea d'inestabilitat més aviat dèbil",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/",
       "published": "2026-11-04T18:31:41+01:00",
-      "updated": "2026-11-05T15:51:44+01:00",
+      "updated": "2026-11-05T17:20:01+01:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/2/7/1793890264672.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/2/1793895552824.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434708/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6434719/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-daquest-dijous-tornen-alguns-ruixats-de-distribucio-irregular/noticia/3437895/"
       },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Milers de manifestants, instituts blocats i la universitat tancada en una jornada de vaga a Catalunya Nord",
+      "excerpt": "La protesta contra la carestia de la vida i la degradació dels serveis públics ha aplegat 6.000 persones a Perpinyà, segons la CGT, i 3.500 segons la policia",
+      "url": "https://www.vilaweb.cat/noticies/manifestants-instituts-blocats-universitat-tancada-catalunya-nord/",
+      "published": "2026-11-05T16:07:47+01:00",
+      "category": "Catalunya Nord",
+      "image": null,
       "priority": "2 · Important"
     },
     {
@@ -176,8 +186,188 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La Junta Electoral refusa la petició de Puente d’esborrar el seu nom de la papereta del PSOE a Valladolid pel 29-N",
-      "excerpt": "L'òrgan considerarà vàlides les paperetes que continguin guixades sobre el nom de l’exministre",
+      "title": "Detinguts a Lleida dos menors més vinculats amb els canals de Blocus",
+      "excerpt": "Al Principat hi ha nou arrestats en relació amb aquestes investigacions",
+      "url": "https://www.vilaweb.cat/noticies/detinguts-a-lleida-dos-menors-mes-vinculats-amb-els-canals-de-blocus/",
+      "published": "2026-11-05T18:20:08+01:00",
+      "category": "Policia i justícia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El Gran Wyoming es jubila i Gonzo presentarà 'El intermedio'",
+      "excerpt": "El Gran Wyoming, nom artístic de José Miguel Monzón, es jubila i passa el relleu a Gonzo. Segons ha avançat El País, el comunicador, de 71 anys, deixarà de presentar El intermedio al gener i serà llavors quan el periodista gallec passarà a ser la cara visible de l'informatiu satíric de La Sexta. Actualment, Gonzo està al capdavant de Salvados, programa de la mateixa cadena. La capçalera detalla que el relleu serà progressiu i que, a partir de gener i durant un temps indefinit, tots…",
+      "url": "https://www.ara.cat/media/tv/gran-wyoming-jubila-gonzo-presentara-intermedio_1_5901315.html",
+      "published": "2026-11-05T18:17:16+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e7b37782-27d7-4d20-8980-a3c7d7574a50_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La justícia resol que l'Ajuntament de Martorell discrimina una veïna al no empadronar-la",
+      "excerpt": "Malgrat que la Rosa R.R. fa anys que viu a Martorell i ha demanat empadronar-se en nombroses ocasions, l'Ajuntament sempre l'hi ha impedit . Per això, va presentar una demanda contra el consistori i ara el Tribunal Superior de Justícia de Catalunya (TSJC) li ha donat la raó. La justícia declara que la negativa municipal a tramitar la seva sol·licitud d'empadronament, tot i demostrar que viu al municipi, vulnera el dret fonamental a la igualtat. La sentència, que ha avançat Nació Digital , recorda que…",
+      "url": "https://www.ara.cat/societat/justicia/justicia-resol-l-ajuntament-martorell-discrimina-veina-no-empadronar_1_5900850.html",
+      "published": "2026-11-05T18:15:07+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ecf0a16d-d6da-4a5e-b0af-5071567dab57_source-aspect-ratio_default_0_x341y258.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Crisi política a Còrsega: l’assemblea exigeix una negociació urgent per instaurar l’autonomia abans d’acabar l’any",
+      "excerpt": "La cambra aprova una resolució per 47 vots a favor i 15 en contra després del rebuig del senat francès a la reforma constitucional pactada amb els representants corsos",
+      "url": "https://www.vilaweb.cat/noticies/crisi-politica-a-corsega-lassemblea-exigeix-una-negociacio-urgent-per-instaurar-lautonomia-abans-dacabar-lany/",
+      "published": "2026-11-05T18:08:52+01:00",
+      "category": "Còrsega",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La Inspecció de Treball obre un expedient al departament de Cultura al detectar més de 200 \"falsos becaris\"",
+      "excerpt": "La Inspecció de Treball ha obert un expedient al departament de Cultura de la Generalitat per determinar si durant els últims anys han tingut més de 200 becaris fent tasques estructurals no formatives. Per la seva banda, fonts del departament de Cultura han explicat a l’ACN que han presentat al·legacions i recursos al procediment i que discrepen de les conclusions de l’organisme.",
+      "url": "https://www.ara.cat/economia/mercat-laboral/inspeccio-treball-obre-expedient-departament-cultura-detectar-mes-200-falsos-becaris_1_5901173.html",
+      "published": "2026-11-05T18:04:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6d64b56e-1b8d-4336-a275-0fbee4b28041_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un mal guàrdia urbà",
+      "excerpt": "L’Ajuntament de Barcelona ha fet el que havia de fer suspenent de sou i feina l’agent de la Guàrdia Urbana que, quan una persona li va demanar que li parlés en català, li va respondre: “Es muy de fascistas obligar a la gente a hablar en lo que no quiere”. I encara va afegir: “En uso de la libertad, hablamos como queremos. Igual que usted, que habla como quiere y nadie le dice en qué idioma ha de hablar”. I remata amb un autoritari “¿De…",
+      "url": "https://www.ara.cat/opinio/mal-guardia-urba_129_5901219.html",
+      "published": "2026-11-05T18:00:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1c43a15e-88f2-4964-9f11-22547b451092_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "José Antonio Gallardo: el trist precedent que ha evocat la mort de Jesús de Miguel",
+      "excerpt": "\"Mira, jo creia molt en Déu i en aquell moment vaig deixar de creure-hi. Va ser horrorós\", admet Manolo Canillas (Màlaga, 1960), exjugador del Màlaga i el Sabadell. La dramàtica mort de Jesús de Miguel ha fet aflorar de nou el dolor per la mort de José Antonio Gallardo, ara fa 40 anys. L'aleshores porter del Màlaga va morir tres setmanes després d'un xoc fatal amb Baltazar, davanter brasiler del Celta. Era l'última mort d'un jugador del futbol professional espanyol per un impacte amb un…",
+      "url": "https://www.ara.cat/esports/futbol/jose-antonio-gallardo-precedent-jesus-miguel_130_5901058.html",
+      "published": "2026-11-05T18:00:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c4760640-8e7f-451b-9ccf-cb13e0296a0d_1-1-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Intel·ligència Artificial vs. Estupidesa Natural?",
+      "excerpt": "Mentre als Estats Units continuen les inversions milmilionàries en el camp de la intel·ligència artificial (IA), sembla que també agafen força idees i actituds favorables a la seva regulació pública, fins i tot en el Partit Republicà. Les eleccions de mig mandat així ho han confirmat, en donar lloc a un canvi de majories en favor dels demòcrates, més partidaris d’aquesta regulació.",
+      "url": "https://www.ara.cat/opinio/intel-ligencia-artificial-vs-estupidesa-natural_129_5879034.html",
+      "published": "2026-11-05T18:00:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b423941b-6e19-4103-9e66-19230a43058b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "“La dreta utilitza la meritocràcia per justificar la desigualtat”",
+      "excerpt": "Fins fa poc tenia al WhatsApp una foto amb la seva filla, però amb la publicació del llibre s'escriu amb més gent que no la coneix –per a entrevistes, promoció– i ha decidit canviar-la. Són 128 pàgines que porten per títol Nadie merece nada (Quaderns Anagrama) on Jahel Queralt defensa i dissecciona el concepte de meritocràcia. Ella, filla d’un embaràs adolescent, va créixer en una casa sense electricitat ni aigua corrent i l’estadística ens indica que hauria de ser, d’adulta, una persona d’ingressos baixos. Però…",
+      "url": "https://www.ara.cat/societat/dreta-utilitza-meritocracia-justificar-desigualtat_128_5901075.html",
+      "published": "2026-11-05T18:00:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/71b2508f-41ae-4180-a54e-592072015646_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Barcelona reconeix Lluís Permanyer, Pilar Malla, Jesús Maria Sánchez i Ramon Agenjo amb la Medalla d’Or",
+      "excerpt": "Lluís Permanyer i Pilar Malla reben el guardó a títol pòstum per la trajectòria periodística i la defensa dels drets socials",
+      "url": "https://www.vilaweb.cat/noticies/barcelona-reconeix-lluis-permanyer-pilar-malla-jesus-maria-sanchez-ramon-agenjo-medalla-or/",
+      "published": "2026-11-05T17:54:20+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Participa en el ‘Plaça oberta’: ha deixat de ser segura l’alta velocitat?",
+      "excerpt": "L’alta velocitat està en el punt de mira. Dos accidents fatídics en menys d’un any deixen més d’un centenar de víctimes mortals i posen en evidència les deficiències que té aquest servei. Aquest divendres, al Plaça oberta, escoltarem la veu d’experts en l’àmbit ferroviari que ens ajudaran a conèixer millor en quina situació es troba […]",
+      "url": "https://beteve.cat/placa-oberta/participa-es-segura-alta-velocitat/",
+      "published": "2026-11-05T17:53:57+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/placa-oberta-alta-velocitat-051126-2026-11-05.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La tofa",
+      "excerpt": "Parlem, sisplau, del pentinat de Javier Milei, l’homenet que presideix l’Argentina i que va assistir a Madrid a una d’aquestes activitats que s’anomenen “cimera” i que adormen més que un llibre de l’Estivill. A l’ARA hem vist el gloriós vídeo de l’home, apersonat tot ell, saludant el rei Felip i el president Sánchez en aquesta cimera.",
+      "url": "https://www.ara.cat/opinio/tofa-milei_129_5901238.html",
+      "published": "2026-11-05T17:51:38+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/08046eac-d6d1-4eb1-8ed7-350475313aab_16-9-aspect-ratio_default_0_x785y290.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El president del Paraguai, Santiago Peña, dimiteix arran de la crisi bancària",
+      "excerpt": "El president renuncia després de la intervenció del Banco Ueno, que ha deixat milions de dipositants sense accés als seus diners",
+      "url": "https://www.vilaweb.cat/noticies/president-paraguai-dimiteix-crisi-bancaria/",
+      "published": "2026-11-05T17:47:38+01:00",
+      "category": "Amèrica",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Amnistia Internacional documenta noves agressions a migrants a Ceuta i denuncia la inacció de Defensa",
+      "excerpt": "Una nova investigació d'Amnistia Internacional ha documentat una trentena de casos nous de maltractaments a migrants a Ceuta per part de militars en les últimes setmanes, malgrat l'anunci del ministeri de Defensa d'obrir una investigació sobre els casos de \"tortura\" anteriors. L'organització, que ha fet pública la informació aquest dijous, ha denunciat fins a 28 casos nous de pallisses, humiliacions, vexacions i abusos per part de membres de les forces armades espanyoles a migrants que encara continuen a la ciutat autònoma després de l'entrada massiva…",
+      "url": "https://www.ara.cat/societat/amnistia-internacional-documenta-noves-agressions-migrants-ceuta-denuncia-inaccio-defensa_1_5900780.html",
+      "published": "2026-11-05T17:39:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b204d84d-7e0d-4e18-9223-cd79106e74d5_source-aspect-ratio_default_0_x2406y1278.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una profunda borrasca atlàntica marcarà el temps dels pròxims dies",
+      "excerpt": "El canvi de temps d’aquest dijous ens ha portat molta nuvolositat, amb gotellades i ruixats dispersos i febles. Ben poca cosa en general, i les precipitacions no han arribat a tot arreu. Tot i això, a les comarques de Tarragona ha plogut amb una mica més de cara i ulls, especialment al Baix Ebre i al Montsià, on s’han assolit registres d'entre 10 i 15 l/m². Aquest divendres el sol i la calma s’imposaran a tot arreu, amb més bonança al migdia. Però a partir…",
+      "url": "https://www.ara.cat/previsions/profunda-borrasca-atlantica-marcara-temps-dels-proxims-dies_1_5901165.html",
+      "published": "2026-11-05T17:30:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cf229e65-c856-44cb-ad2e-0334cc63abbc_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El TSJC anul·la la zona de baixes emissions de Sant Adrià de Besòs per manca de justificació",
+      "excerpt": "El tribunal retreu a l'ajuntament l'absència d'una memòria econòmica i d'un informe d'impacte suficient",
+      "url": "https://www.vilaweb.cat/noticies/tsjc-anulla-zona-baixes-emissions-sant-adria-besos-manca-justificacio/",
+      "published": "2026-11-05T17:25:05+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Ple atorga la Medalla d’Or a Lluís Permanyer, periodista i cronista de Barcelona",
+      "excerpt": "El Ple ha aprovat reconèixer amb la Medalla d’Or de la Ciutat al periodista i cronista de Barcelona Lluís Permanyer, que va morir l’octubre del 2025 amb 85 anys. L’alcalde, Jaume Collboni, ja va anunciar que se’l reconeixeria amb aquesta distinció fa un any i ara el tràmit ha passat pel Ple Municipal d’aquest octubre. […]",
+      "url": "https://beteve.cat/politica/ple-atorga-medalla-or-barcelona-lluis-permanyer/",
+      "published": "2026-11-05T17:21:39+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/10/permanyer-231025.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "U2 fa parada a Barcelona amb dos concerts a l’Estadi Olímpic, els dies 13 i 15 de maig del 2027",
+      "excerpt": "(ACN) U2 torna a Barcelona. La banda irlandesa actuarà els dies 13 i 15 de maig del 2027 a l’Estadi Olímpic Lluís Companys dins de la gira mundial Carnaval de Luz presents: The greatest show on earth. Les entrades per als dos concerts es posaran a la venda el divendres 13 de novembre, tot i […]",
+      "url": "https://beteve.cat/cultura/u2-barcelona-dos-concerts-estadi-olimpic-13-15-maig-2027/",
+      "published": "2026-11-05T17:15:29+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/u2-concert-barcelona-2015-2026-11-05.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La Junta Electoral refusa la petició de Puente d’esborrar el seu nom de la papereta del PSOE a Valladolid per al 29-N",
+      "excerpt": "L'òrgan considerarà vàlides les paperetes que continguin guixades sobre el nom de l’ex-ministre",
       "url": "https://www.vilaweb.cat/noticies/junta-electoral-refusa-peticio-puente-esborrar-nom-papereta-psoe-valladolid-29n/",
       "published": "2026-11-05T17:00:52+01:00",
       "category": "Espanya",
@@ -192,6 +382,16 @@
       "published": "2026-11-05T16:56:46+01:00",
       "category": "esports",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/11/808f9dc8-1c1e-4640-a278-01dfe4c689f8-2026-11-05.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Prop d’una trentena d’avions a Europa han rebut amenaces de bomba: Barcelona, de moment, al marge",
+      "excerpt": "(ACN/Redacció) Almenys 27 avions que feien rutes per Europa han rebut aquest dijous amenaces de bomba. Tres s’han produït en territori espanyol, totes a l’aeroport de Madrid. Per tot plegat, s’ha convocat un comitè de seguretat sota la coordinació dels cossos de seguretat, han fet les comprovacions pertinents i han descartat cap perill. De moment, […]",
+      "url": "https://beteve.cat/societat/trentena-avions-europa-amenaces-bomba-barcelona-al-marge/",
+      "published": "2026-11-05T16:49:06+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/06/aeroport-barcelona-150626.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -242,12 +442,12 @@
       "published": "2026-11-05T16:23:21+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/8/1793888076587.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434675/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/inspeccio-de-treball-expedienta-la-conselleria-de-cultura-per-tenir-falsos-becaris/noticia/3438075/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -347,6 +547,16 @@
       "published": "2026-11-05T15:25:39+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/7f10d54d-7d00-4021-86b7-35a5846d8ea9_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El World Press Photo 2026 arriba al CCCB i posa el focus en les històries socials",
+      "excerpt": "Torna el World Press Photo, la cita anual del fotoperiodisme a la ciutat. Aquest dijous s’ha presentat la prestigiosa mostra que permet veure el testimoni dels principals conflictes i reptes del present. Obre al públic aquest divendres i es podrà visitar fins al 13 de desembre al Centre de Cultura Contemporània de Barcelona. La 22a […]",
+      "url": "https://beteve.cat/cultura/world-press-photo-histories-socials-carol-guzy/",
+      "published": "2026-11-05T15:16:43+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/073-NorthAndCentralAmerica-STO-Carol-Guzy-ZUMA-Press-iWitness-for-Miami-Herald-scaled-2026-10-30.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -617,12 +827,12 @@
       "published": "2026-11-05T13:11:38+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/8/1793872737682.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434688/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/els-perits-dadamuz-alerten-de-tres-noves-anomalies-al-mateix-tram-de-vies-de-laccident/noticia/3437999/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -646,7 +856,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Nova onada de falses amenaces de bomba en una vintena de vols a Europa, alguns a Madrid",
+      "title": "Nova onada de falses amenaces de bomba en una trentena de vols a Europa, alguns a Madrid",
       "excerpt": "Aquest dimarts ja hi va haver almenys set vols afectats per amenaces similars i dilluns, un",
       "url": "https://www.3cat.cat/3catinfo/nova-onada-de-falses-amenaces-de-bomba-a-avions-en-ple-vol-a-europa/noticia/3438053/",
       "published": "2026-11-05T13:00:53+01:00",
@@ -812,12 +1022,12 @@
       "published": "2026-11-05T11:37:09+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/9/1793866827390.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434695/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/koldo-garcia-diu-haver-pactat-amb-ladvocat-del-pp-un-milio-deuros-per-informacio-per-derrocar-sanchez/noticia/3438000/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -891,12 +1101,12 @@
     },
     {
       "source": "ARA",
-      "title": "Una nova onada d'amenaces de bomba afecta almenys 25 avions a Europa",
-      "excerpt": "Les informacions sobre avions que han rebut amenaces de bomba a Europa han estat constants durant aquest dijous al matí. Segons el recompte de l'agència Reuters, hi ha hagut almenys 25 avions afectats, en un episodi que se suma al que ja es va viure dimarts . Hi ha hagut alertes en avions que estaven volant i també en alguns que eren a les pistes de diversos aeroports. De companyies de baix cost i també d'aerolínies de bandera. Tots amb rutes diferents, però tots dins…",
+      "title": "Una nova onada d'amenaces de bomba afecta una trentena d'avions a Europa",
+      "excerpt": "Les informacions sobre avions que han rebut amenaces de bomba a Europa han estat constants durant aquest dijous al matí. Segons el recompte de l'agència Reuters, hi ha hagut almenys 27 avions afectats, en un episodi que se suma al que ja es va viure dimarts . Hi ha hagut alertes en avions que estaven volant i també en alguns que eren a les pistes de diversos aeroports. De companyies de baix cost i també d'aerolínies de bandera. Tots amb rutes diferents, però tots dins…",
       "url": "https://www.ara.cat/internacional/europa/nova-onada-d-alertes-bomba-avions-europa-almenys-cinc-han-hagut-aterratges-d-emergencia_1_5900814.html",
       "published": "2026-11-05T10:56:06+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/73d8fb6e-47ef-4b8a-9e02-9785cf2b9b65_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/6e6762f3-45f7-4c7f-930b-40321a37044c_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1011,18 +1221,18 @@
     },
     {
       "source": "ARA",
-      "title": "Koldo García diu que va pactar amb l'advocat del PP un milió d'euros a canvi d'informació contra Sánchez",
+      "title": "Sánchez demana explicacions a Feijóo sobre si el PP ha pactat amb Koldo García",
       "excerpt": "El mateix dia que la Guàrdia Civil ha posat en marxa una operació que ha deixat sis detinguts en el marc del cas Koldo García , l'exassessor de l'exministre de Transports José Luis Ábalos ha acusat el PP d'haver-li ofert un milió d'euros a canvi d'informació contra Pedro Sánchez i el seu entorn. Segons afirma ell mateix en un àudio enviat a la Cadena SER des de la presó , on compleix una condemna de gairebé vint anys per corrupció, hauria estat l'advocat dels populars,…",
       "url": "https://www.ara.cat/politica/koldo-garcia-diu-pactar-l-advocat-pp-milio-d-euros-canvi-d-informacio-sanchez_1_5900713.html",
       "published": "2026-11-05T08:44:25+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/7e08d2b4-2e50-43cf-93ec-35fe1d70048c_source-aspect-ratio_default_0.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434695/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/koldo-garcia-diu-haver-pactat-amb-ladvocat-del-pp-un-milio-deuros-per-informacio-per-derrocar-sanchez/noticia/3438000/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -1306,7 +1516,7 @@
       "url": "https://www.3cat.cat/3catinfo/nova-jornada-de-mobilitzacions-a-franca-amb-70000-agents-desplegats/noticia/3437980/",
       "published": "2026-11-05T06:50:37+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/0/1793884012606.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/5/1793897133851.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1327,12 +1537,12 @@
       "published": "2026-11-05T06:47:05+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/6/1793860197364.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434696/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-desconnexio-de-trump-dels-seus-votants-li-costa-les-midterm-i-canvia-la-rasant-del-pais/noticia/3437983/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -1347,11 +1557,11 @@
     {
       "source": "ARA",
       "title": "El foc i la brasa de l’Asador Etxebarri el catapulten com a millor restaurant del món",
-      "excerpt": "Bittor Arginzoniz està millor al bosc buscant llenya que no pas en grans esdeveniments socials. També es troba més a gust davant la brasa roent que en un auditori. Però aquest parrillero de 66 anys, nascut a Axpe (País Basc), on ha viscut tota la vida i hi té el restaurant Asador Etxebarri, ha aconseguit posicionar-se dalt de tot de la llista més preuada aquest dimecres a la nit a Lima. És el mateix rànquing que fa dos anys va situar el Disfrutar al capdamunt…",
+      "excerpt": "Bittor Arginzoniz està millor al bosc buscant llenya que no pas en grans esdeveniments socials. També es troba més a gust davant la brasa roent que en un auditori. Però aquest parrillero de 66 anys, nascut a Axpe, a Atxondo (Biscaia), on ha viscut tota la vida i hi té el restaurant Asador Etxebarri, ha aconseguit posicionar-se dalt de tot de la llista més preuada aquest dimecres a la nit a Lima. És el mateix rànquing que fa dos anys va situar el Disfrutar al…",
       "url": "https://mengem.ara.cat/restaurants/foc-brasa-l-asador-etxebarri-catapulten-millor-restaurant-mon_1_5900444.html",
       "published": "2026-11-05T04:25:11+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/8fa1ce42-f097-4b80-910b-7878d2d3ff43_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/7e040e16-d3a7-4269-910f-5f44ff3dbf8c_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
