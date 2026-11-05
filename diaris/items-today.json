@@ -2,6 +2,21 @@
   "date": "2026-11-05",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "El Siurana, un riu que fa aigües: la guerra de l'aigua entre el Priorat i el Baix Camp",
+      "excerpt": "Anatomia d'una disputa que omple titulars des de fa més de deu anys, però té uns orígens gairebé centenaris",
+      "url": "https://www.3cat.cat/3catinfo/el-siurana-un-riu-que-fa-aigues/noticia/3403209/",
+      "published": "2026-11-05T06:44:56+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1793178776823.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434488/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/el-siurana-un-riu-que-fa-aigues/noticia/3403209/"
+      },
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dijous: alguns ruixats de distribució irregular",
       "excerpt": "Retorna un àrea d'inestabilitat més aviat dèbil",
@@ -50,7 +65,7 @@
     {
       "source": "ARA",
       "title": "El salari mínim pujarà fins als 1.286 euros el 2027, un 5,3% més",
-      "excerpt": "Amb la legislatura al límit i les urnes del 29-N a l'horitzó, el ministeri de Treball ha decidit portar la pujada del salari mínim interprofessional (SMI) fins als 1.286 euros al mes, un 5,3% més. La proposta es va publicar aquest dimecres passades les onze de la nit en audiència pública i els sindicats i les patronals podrien fer-hi aportacions fins al pròxim 16 de novembre. Però el moviment de Treball ja anticipa que aquesta serà la xifra que aprovarà pròximament el Consell de Ministres.",
+      "excerpt": "Amb la legislatura al límit i les urnes del 29-N a l'horitzó, el ministeri de Treball ha decidit portar la pujada del salari mínim interprofessional (SMI) fins als 1.286 euros al mes, un 5,3% més. La proposta es va publicar aquest dimecres passades les onze de la nit en audiència pública i els sindicats i les patronals podrien fer-hi aportacions fins al pròxim 16 de novembre. Però el moviment de Treball ja anticipa que aquesta serà la xifra que aprovarà pròximament el consell de ministres.",
       "url": "https://www.ara.cat/economia/salari-minim-pujara-fins-als-1-286-euros-2027-5-3-mes_1_5900539.html",
       "published": "2026-11-05T08:00:05+01:00",
       "category": "Actualitat",
@@ -58,9 +73,109 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Milei carrega contra les \"agendes progressistes\" europees davant Sánchez i Felip VI",
+      "excerpt": "Després de la plantada d'aquest dimarts a la nit, Javier Milei sí que ha assistit a la segona jornada de la Cimera Iberoamericana que se celebra a Madrid. Tothom estava pendent de com seria l'arribada del president argentí i, de moment, ha estat freda i marcada pels seus dards contra els governs i les polítiques progressistes. Abans d'entrar al plenari, Milei ha saludat Felip VI i a Pedro Sánchez. Amb el primer s'hi ha detingut uns breus minuts, però amb Sánchez ha estat una encaixada…",
+      "url": "https://www.ara.cat/politica/milei-ataca-agendes-progressistes-europees-davant-sanchez-felip-vi_1_5900811.html",
+      "published": "2026-11-05T11:05:17+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/81035a70-5a4d-4924-850e-26b0bdcaf8bd_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
-      "title": "Koldo García revela un pacte amb un advocat del PP per a incriminar Sánchez a canvi d’un milió d’euros",
-      "excerpt": "L’ex-assessor d’Ábalos assegura que Eduardo Inda havia de gestionar els pagaments a través d’Okdiario",
+      "title": "El Suprem aplica ara l’amnistia a Clara Ponsatí",
+      "excerpt": "Llarena va tancar el sumari sobre Ponsatí el juliol del 2023, però el Suprem no li ha aplicat l'amnistia pel delicte de desobediència fins ara",
+      "url": "https://www.vilaweb.cat/noticies/el-suprem-aplica-ara-lamnistia-a-clara-ponsati/",
+      "published": "2026-11-05T11:04:52+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Javi Rodríguez renova amb el Barça de futbol sala fins al juny del 2029",
+      "excerpt": "Javi Rodríguez està d’enhorabona. El tècnic del primer equip de futbol sala del Barça ha renovat el seu contracte amb el club per a dues temporades més, fins al juny del 2029. Rodríguez va arribar a la banqueta del Barça l’estiu del 2025 i, des d’aleshores, ha aportat personalitat i un estil de joc alegre […]",
+      "url": "https://beteve.cat/esports/javi-rodriguez-renova-barca-futbol-sala-fins-2029/",
+      "published": "2026-11-05T11:03:53+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/javi_rodriguez_futsal_fcb_051126_OK-2026-11-05.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Nova onada d'alertes de bomba en avions a Europa: almenys cinc han hagut de fer aterratges d'emergència",
+      "excerpt": "Una nova onada d'alertes de bomba ha afectat aquest dijous diversos avions que feien rutes a Europa, segons informa l'agència Reuters. Un vol que anava de Dublín a Roma ha hagut de fer un aterratge d'emergència a una base aèria francesa després de rebre l'avís mentre volava sobre l'espai aeri de França. A més, les autoritats de Bulgària han informat de tres avions afectats, i també hi ha hagut un avís en una aeronau de Finnair que feia la ruta Hèlsinki-Roma, que ha estat escortat…",
+      "url": "https://www.ara.cat/internacional/europa/nova-onada-d-alertes-bomba-avions-europa-almenys-cinc-han-hagut-aterratges-d-emergencia_1_5900814.html",
+      "published": "2026-11-05T10:56:06+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f0fa1153-e49f-4905-8e65-77a9201f6a5d_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Fernando Trueba: “Les relacions humanes han d’aprendre de la música, en què hi ha diàlegs de debò”",
+      "excerpt": "El cineasta Fernando Trueba ha estrenat a Catalunya la seva nova pel·lícula, Bajañí. Ho ha fet en el marc de l’In-Edit, el festival de cinema documental musical de Barcelona. Bajañí és el nom que rep la guitarra espanyola en caló i és l’instrument de què parteix la pel·lícula, que és un viatge musical pel flamenc, […]",
+      "url": "https://beteve.cat/cultura/fernando-trueba-pelicula-bajani/",
+      "published": "2026-11-05T10:55:08+01:00",
+      "category": "cinema",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/bajani-cartell-2026-11-03.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Bon dia Barcelona",
+      "excerpt": "Comença el dia amb una entrevista d’actualitat i una tertúlia 100% barcelonina. El dia a dia de la ciutat analitzat per un ampli espectre de tertulians periodistes, historiadors i experts en diferents àmbits. Presentat per Dani Clavera.",
+      "url": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-170/",
+      "published": "2026-11-05T10:53:26+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Nadal a Barcelona 2026: Què fer? Llums, fires i agenda d’activitats per gaudir de les festes!",
+      "excerpt": "El Nadal a Barcelona 2026 portarà com sempre un munt de propostes. Aquí trobaràs les activitats imprescindibles de l’agenda cultural nadalenca de la ciutat, i informació pràctica dels llums, dels pessebres, de la cavalcada de Reis 2027 i les fires i mercats nadalencs, activitats per fer en família i molt més!. Fes-te teva l’agenda de […]",
+      "url": "https://beteve.cat/agenda/activitats-nadal-barcelona/",
+      "published": "2026-11-05T10:45:11+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/12/que-fer-a-barcelona-2025-nadal-2026-11-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El fred arriba dues setmanes més tard que fa un segle",
+      "excerpt": "Els estius s’allarguen. Examinant les dades de l’Observatori Fabra (amb registres des del 1913), aquest fet es constata. El fred arriba, de mitjana, cada cop més tard. El primer registre de menys de 10 ºC Si un dia tenim 10 ºC a Barcelona gairebé tothom està d’acord que aquella jornada ha fet fred. Doncs bé, […]",
+      "url": "https://beteve.cat/medi-ambient/fred-arriba-tard-canvi-climatic/",
+      "published": "2026-11-05T10:44:44+01:00",
+      "category": "clima",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/02/el-fred-vacancesR.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
+      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-11-05T10:27:14+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
+      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-11-05T10:12:31+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Koldo García revela un pacte amb un advocat del PP per a incriminar Sánchez en canvi d’un milió d’euros",
+      "excerpt": "L’ex-assessor d’Ábalos assegura que Eduardo Inda havia de gestionar els pagaments per mitjà d’OK Diario",
       "url": "https://www.vilaweb.cat/noticies/koldo-garcia-pacte-advocat-pp-incriminar-pedro-sanchez-milio-euros/",
       "published": "2026-11-05T10:03:21+01:00",
       "category": "Espanya",
@@ -69,8 +184,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La Guàrdia Civil desplega una nova operació pel cas Koldo arran d’una investigació secreta",
-      "excerpt": "El jutge Ismael Moreno ha obert una nova peça separada després de rebre un informe de l'UCO, del qual encara no se'n sap el contingut",
+      "title": "La Guàrdia Civil escorcolla dependències d’ADIF i deté un ex-xòfer de Pedro Sánchez",
+      "excerpt": "L'Audiència espanyola ha obert una nova investigació del cas Koldo · S'està escorcollant el domicili de José Luis Ábalos",
       "url": "https://www.vilaweb.cat/noticies/guardia-civil-desplega-operacio-cas-koldo-peca-secreta/",
       "published": "2026-11-05T10:02:11+01:00",
       "category": "Espanya",
@@ -108,16 +223,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
-      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
-      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
-      "published": "2026-11-05T09:15:46+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "ARA",
       "title": "França desplega 70.000 agents per evitar una altra jornada de violència als carrers",
       "excerpt": "Les autoritats franceses desplegaran 70.000 policies i gendarmes arreu del país aquest dijous davant una jornada d'aturades laborals i noves protestes per l'augment del cost de la vida i el deteriorament dels serveis públics. Es preveu que hi participin entre 500.000 i 700.000 persones. Després de les crítiques a la falta d'agents de policia durant les mobilitzacions del 17 d'octubre, i amb l'objectiu d'evitar nous episodis de violència, el govern francès ha decidit blindar les ciutats i posar en marxa un gran desplegament policial per…",
@@ -139,16 +244,6 @@
     },
     {
       "source": "betevé",
-      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
-      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
-      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-11-05T09:04:55+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
       "title": "25 famílies del Guinardó planten cara a la venda del seu bloc a un fons d’inversió",
       "excerpt": "Els veïns de l’edifici situat a l‘avinguda de la Mare de Déu de Montserrat, 123, al barri del Guinardó, s’han organitzat per defensar la continuïtat de les 25 famílies que hi viuen després de conèixer que la finca s’ha venut a un fons d’inversió per 5,5 milions d’euros. L’edifici acull unes 65 persones en règim […]",
       "url": "https://beteve.cat/economia/25-families-guinardo-planten-cara-venda-bloc-fons-inversio-voltor/",
@@ -160,7 +255,7 @@
     {
       "source": "ARA",
       "title": "Koldo García diu que va pactar amb l'advocat del PP un milió d'euros a canvi d'informació contra Sánchez",
-      "excerpt": "Novetats sobre el pagament de la defensa de Koldo García . Després que s'acredités que l'empresa editora d' OK Diario li va pagar 242.000 euros en el marc del cas mascaretes, l'exassessor del ministre José Luis Ábalos assegura que aquests diners formaven part d'un acord més ampli amb el PP. Segons explica ell mateix en uns àudios enviats a la SER des de la presó , on compleix una pena de gairebé 20 anys, l'advocat dels populars, Alberto Duran, li hauria ofert un milió d'euros…",
+      "excerpt": "Novetats sobre el pagament de la defensa de Koldo García . Després que s'acredités que l'empresa editora d' OK Diario li va pagar 242.000 euros en el marc del cas mascaretes, l'exassessor del ministre José Luis Ábalos assegura que aquests diners formaven part d'un acord més ampli que implicava el PP. Segons afirma ell mateix en un àudio enviat a la SER des de la presó , on compleix una condemna de gairebé 20 anys , l'advocat dels populars, Alberto Durán, li va oferir l'any…",
       "url": "https://www.ara.cat/politica/koldo-garcia-diu-pactar-l-advocat-pp-milio-d-euros-canvi-d-informacio-sanchez_1_5900713.html",
       "published": "2026-11-05T08:44:25+01:00",
       "category": "Actualitat",
@@ -470,21 +565,6 @@
       "published": "2026-11-05T06:47:05+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/6/1793860197364.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "3CatInfo",
-      "title": "El Siurana: un riu que fa aigües",
-      "excerpt": "Anatomia de la guerra de l'aigua entre el Priorat i el Baix Camp",
-      "url": "https://www.3cat.cat/3catinfo/el-siurana-un-riu-que-fa-aigues/noticia/3403209/",
-      "published": "2026-11-05T06:44:56+01:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1793178776823.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434488/embed/",
-        "source": "3CatInfo",
-        "articleUrl": "https://www.3cat.cat/3catinfo/el-siurana-un-riu-que-fa-aigues/noticia/3403209/"
-      },
       "priority": "3 · Altres notícies"
     },
     {
