@@ -3,18 +3,33 @@
   "items": [
     {
       "source": "3CatInfo",
+      "title": "La guerra a Gaza i Ucraïna, la crisi climàtica i les protestes ciutadanes al World Press Photo 2026",
+      "excerpt": "Una exposició de 144 imatges que es pot visitar fins al 13 de desembre al CCCB mostra els millors treballs de fotoperiodisme d'arreu del món durant el 2025",
+      "url": "https://www.3cat.cat/3catinfo/la-guerra-a-gaza-i-ucraina-la-crisi-climatica-i-les-protestes-ciutadanes-al-world-press-photo-2026/noticia/3438187/",
+      "published": "2026-11-05T22:30:26+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/3/1793904182437.jpg",
+      "priority": "1 · Urgent",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434789/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-guerra-a-gaza-i-ucraina-la-crisi-climatica-i-les-protestes-ciutadanes-al-world-press-photo-2026/noticia/3438187/"
+      }
+    },
+    {
+      "source": "3CatInfo",
       "title": "Terratrèmol a Israel pel resultat de les midterm, que pot acabar d'aplanar un canvi de govern al país",
       "excerpt": "Els senadors més crítics amb Netanyahu han triomfat i Trump ja ha anunciat que a finals d'any tancarà l'aixeta militar",
       "url": "https://www.3cat.cat/3catinfo/terratremol-a-israel-pel-resultat-de-les-midterm-que-pot-acabar-daplanar-un-canvi-de-govern-al-pais/noticia/3438188/",
       "published": "2026-11-05T21:51:24+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/9/1793904254193.jpg",
-      "priority": "1 · Urgent",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434697/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/terratremol-a-israel-pel-resultat-de-les-midterm-que-pot-acabar-daplanar-un-canvi-de-govern-al-pais/noticia/3438188/"
-      }
+      },
+      "priority": "1 · Urgent"
     },
     {
       "source": "3CatInfo",
@@ -40,6 +55,16 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/el-siurana-un-riu-que-fa-aigues/noticia/3403209/"
       },
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "La desfeta electoral fa replantejar la fidelitat a Trump dins del govern",
+      "excerpt": "La desfeta electoral en les eleccions de mig mandat ha posat el partit republicà davant un mirall on feia temps que evitava mirar-se: la realitat més enllà de la Casa Blanca. La lleialtat ferotge que Donald Trump ha exigit i imposat als seus ha derivat en una ceguesa sobre què ha estat passant realment aquests dos anys als Estats Units. La reacció immediata enmig del xoc ha estat entonar un mea culpa mentre s'assenyala al president i pensar com evitar que la necrosi s'estengui. No…",
+      "url": "https://www.ara.cat/internacional/estats-units/desfeta-electoral-replantejar-fidelitat-trump-govern_1_5901583.html",
+      "published": "2026-11-05T23:12:22+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b4c1bfee-cec9-404d-bae4-18216d25c98c_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo · El temps",
@@ -294,6 +319,36 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/c9c0e3f9-54a2-48aa-94de-27b2f0d237be_source-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "El Natació Barcelona continua a l’Euro Cup 2026-2027: segona victòria, als penals, a la fase de grups",
+      "excerpt": "El Club Natació Barcelona torna a disputar una temporada més l’Euro Cup de waterpolo, la segona competició continental per clubs més important. L’equip d’Andrei Iosep tindrà el repte de superar els vuitens de final, en què van caure el curs passat. Els mariners van iniciar la competició amb la fase prèvia en què buscaven acabar […]",
+      "url": "https://beteve.cat/esports/natacio-barcelona-eurocup-waterpolo-26-27/",
+      "published": "2026-11-05T22:58:36+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/primer-equip-cn-barcelona-eurocup-2026-2026-10-30.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "De Rodri a Shin-chan: 37 noves cares (i culs) s'incorporen a la família dels caganers",
+      "excerpt": "L'empresa gironina Caganer.com presenta una àmplia col·lecció de figures de polítics internacionals i estrena una línia més realista",
+      "url": "https://www.3cat.cat/3catinfo/de-rodri-a-shin-chan-37-noves-cares-i-culs-sincorporen-a-la-familia-dels-caganers/noticia/3438196/",
+      "published": "2026-11-05T22:46:19+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/0/1793898851200.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Sánchez evita el xoc amb Milei, que equipara socialisme i feixisme en una Cimera Iberoamericana desangelada",
+      "excerpt": "La cimera mostra la tensió entre els governs espanyol i argentí, que s'ha despenjat dels acords en temes com la intel·ligència artificial o la mobilitat acadèmica",
+      "url": "https://www.3cat.cat/3catinfo/sanchez-evita-el-xoc-amb-milei-que-equipara-socialisme-i-feixisme-en-una-cimera-iberoamericana-desangelada/noticia/3438195/",
+      "published": "2026-11-05T22:26:07+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/4/1793904907541.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -1388,12 +1443,12 @@
       "published": "2026-11-05T12:55:48+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/8/1793880124185.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434772/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/cas-koldo-luco-escorcolla-la-casa-dabalos-demana-informacio-a-adif-i-dete-sis-persones/noticia/3438051/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
