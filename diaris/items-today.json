@@ -32,9 +32,19 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "betevé",
+      "title": "El Sindicat d’Habitatge Socialista i Solidaritat Obrera faran una manifestació alternativa l’11-N",
+      "excerpt": "(ACN) El Sindicat d’Habitatge Socialista de Catalunya (SHSC) i el sindicat Solidaritat Obrera (SO) han convocat una manifestació alternativa l’11-N. D’aquesta manera, es desmarquen de la convocatòria que compta amb el suport de CCOO, UGT, el Sindicat de Llogateres i altres entitats laborals i per l’habitatge. Els manifestants estan convocats a les 17 h a […]",
+      "url": "https://beteve.cat/societat/convoquen-manifestacio-alternativa-11-n-barcelona/",
+      "published": "2026-11-06T16:33:28+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/mani-alternativa-11N-061126-2026-11-06.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
-      "title": "Eisenkot demana al president d’Israel de formar govern per posar fi a l'”amenaça” de Netanyahu",
-      "excerpt": "“El govern actual amenaça, en la seva essència més bàsica, l’existència mateixa de la democràcia israeliana”, ha dit",
+      "title": "Eisenkot demana al president d’Israel de formar govern per posar fi a “l’amenaça” de Netanyahu",
+      "excerpt": "“El govern actual amenaça, en la seva essència, l’existència mateixa de la democràcia israeliana”, ha dit",
       "url": "https://www.vilaweb.cat/noticies/eisenkot-president-israel-formar-govern-netanyahu/",
       "published": "2026-11-06T15:57:25+01:00",
       "category": "Llevant",
@@ -51,7 +61,7 @@
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/3/9/1793951187393.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434871/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6434968/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/"
       },
@@ -182,6 +192,46 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-retorn-del-sol-i-la-boira-matinal/noticia/3438005/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Cap de setmana amb augment dels núvols i dels termòmetres",
+      "excerpt": "La previsió del temps per a aquest dissabte, 7 de novembre, anuncia unclar repunt de la nuvolositat i un allunyament del fred més intens dels darrers dies. De fet, sembla que de cara a diumenge, els núvols i els plugims podran ser encara més protagonistes. Previsió horària per a Barcelona: Protagonisme pels núvols i un […]",
+      "url": "https://beteve.cat/medi-ambient/barcelona-dissabte-7-novembre-mes-nuvols/",
+      "published": "2026-11-06T16:51:43+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/previ_dis_711-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-756/",
+      "published": "2026-11-06T16:49:07+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El pare de Meghan Markle, detingut per pornografia infantil",
+      "excerpt": "Thomas Markle, pare de Meghan Markle, ha estat detingut a Florida per presumpta possessió de pornografia infantil, segons ha avançat la cadena CBS News. El mes passat va transcendir que Markle, de 82 anys, era investigat per les autoritats filipines per presumptament tenir material gràfic d'abusos infantils després que el seu fill, Thomas Markle Jr., el denunciés després de trobar uns arxius en un ordinador. La duquessa de Sussex fa temps que va trencar la relació amb el seu pare, una figura que sempre ha…",
+      "url": "https://www.ara.cat/gent/pare-meghan-markle-detingut-pornografia-infantil_1_5902289.html",
+      "published": "2026-11-06T16:46:20+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b4428716-48fa-455d-af5e-f703632ff086_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona Oberta demana desallotjar l’acampada de Catalunya per instal·lar-hi els llums de Nadal",
+      "excerpt": "Barcelona Oberta ha criticat la decisió de l’Ajuntament de Barcelona de prescindir de l’enllumenat nadalenc a la plaça de Catalunya per la negativa a desallotjar l’acampada per l’habitatge. Des del consistori han explicat que “no es preveuen instal·lar els llums d’autor en un altre lloc perquè estan pensats específicament per a aquest espai”. Des de […]",
+      "url": "https://beteve.cat/economia/barcelona-oberta-reclama-desallotjar-acampada-placa-catalunya-llums-nadal/",
+      "published": "2026-11-06T16:17:34+01:00",
+      "category": "consum",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/acampada-placa-catalunya-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -325,6 +375,16 @@
     },
     {
       "source": "ARA",
+      "title": "Mussol o falcó: el duel per ocupar el niu de la presidència del BCE",
+      "excerpt": "\"Jo soc un mussol o una òliba\", bromejava Pablo Hernández de Cos en una sessió del cicle de col·loquis del Círculo Ecuestre de Barcelona que es va fer l'abril del 2024 . La pregunta el convidava a mullar-se entre les dues postures que es coneixen tradicionalment en política monetària: el falcó, que aposta per polítiques més restrictives, i el colom, que en fa de més laxes. De Cos, però, va esquivar el dilema i va decantar-se per estrafer la resposta de qui aspira a tenir…",
+      "url": "https://www.ara.cat/economia/macroeconomia/espanya-presenta-hernandez-cos-presidencia-bce_1_5902174.html",
+      "published": "2026-11-06T14:04:07+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/84f088dc-c2d8-442a-a41d-287d3e6fbccb_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
       "title": "Espanya presenta Hernández de Cos a la presidència del BCE",
       "excerpt": "Espanya ha presentat la candidatura de Pablo Hernández de Cos a la presidència del Banc Central Europeu. El dia que s'esgota el termini fixat per l'organisme, el ministre d'Economia —i ara també de Transports— Carlos Cuerpo, ha fet arribar la candidatura per carta al president de l'Eurogrup, Kyriakos Pierrakakis, a l'espera que es presentin més candidats.",
       "url": "https://www.ara.cat/internacional/europa/espanya-presenta-hernandez-cos-presidencia-bce_1_5902174.html",
@@ -415,8 +475,8 @@
     },
     {
       "source": "ARA",
-      "title": "Tercer dia amb amenaces de bomba a diversos avions a Europa",
-      "excerpt": "Continua l'onada d'amenaces de bomba a avions a Europa. Si aquest dijous els avisos van afectar almenys 30 vols , més amenaces continuen posant en alerta aquest divendres els vols i aeroports europeus, amb alertes en avions a França, Dinamarca, Portugal, els Països Baixos o la República Txeca. Ja és el tercer dia d'aquesta setmana que les amenaces de bomba interrompen desenes de vols a Europa sense que, de moment, s'hagi detectat cap artefacte explosiu en cap d'ells. Tanmateix, l'onada de falsos avisos, que va…",
+      "title": "Tercer dia amb amenaces de bomba en diversos avions a Europa",
+      "excerpt": "Continua l'onada d'amenaces de bomba en avions a Europa. Si aquest dijous els avisos van afectar uns 30 vols , més amenaces continuen posant en alerta aquest divendres els vols i aeroports europeus, amb alertes en avions a França, Dinamarca, Portugal, els Països Baixos i la República Txeca. Ja és el tercer dia d'aquesta setmana que les amenaces de bomba interrompen desenes de vols a Europa sense que, de moment, s'hagi detectat cap artefacte explosiu. Tanmateix, l'onada de falsos avisos, que va començar dimarts, continua…",
       "url": "https://www.ara.cat/internacional/europa/tercer-dia-amenaces-bomba-diversos-avions-europa_1_5902086.html",
       "published": "2026-11-06T13:30:22+01:00",
       "category": "Actualitat",
@@ -611,7 +671,7 @@
     {
       "source": "ARA",
       "title": "Canvis a la Nit de les Lletres Catalanes: quins són els nous guardons i com creix la dotació d'alguns premis",
-      "excerpt": "La celebració de la segona Nit de les Lletres Catalanes presentarà novetats rellevants. La cita, capitanejada per Òmnium Cultural i l'Institut d'Estudis Catalans (IEC), repetirà escenari, la sala oval del Museu Nacional d'Art de Catalunya (MNAC), però s'avançarà gairebé un mes —passarà del 15 de març al 20 de febrer, per distanciar-se el màxim de Sant Jordi—, incorporarà dos guardons i augmentarà la dotació de diversos premis històrics.",
+      "excerpt": "La celebració de la segona Nit de les Lletres Catalanes presentarà novetats rellevants. La cita, capitanejada per Òmnium Cultural i l'Institut d'Estudis Catalans (IEC), repetirà escenari, la Sala Oval del Museu Nacional d'Art de Catalunya (MNAC), però s'avançarà gairebé un mes –passarà del 15 de març al 20 de febrer, per distanciar-se al màxim de Sant Jordi–, incorporarà dos guardons i augmentarà la dotació de diversos premis històrics.",
       "url": "https://llegim.ara.cat/actualitat/canvis-nit-lletres-catalanes-quins-son-nous-guardons-creix-dotacio-d-premis_1_5901996.html",
       "published": "2026-11-06T11:53:22+01:00",
       "category": "Actualitat",
@@ -1066,12 +1126,12 @@
       "published": "2026-11-06T07:16:59+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/4/1793900583247.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434951/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/crisi-oberta-a-lalta-velocitat-dubtes-dels-usuaris-i-un-model-en-questio/noticia/3438141/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
