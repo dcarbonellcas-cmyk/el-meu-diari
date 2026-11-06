@@ -1,4 +1,141 @@
 {
   "date": "2026-11-06",
-  "items": []
+  "items": [
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de divendres: retorn del sol i la boira matinal",
+      "excerpt": "Temps estable al 100% del territori",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-retorn-del-sol-i-la-boira-matinal/noticia/3438005/",
+      "published": "2026-11-05T19:10:48+01:00",
+      "updated": "2026-11-06T06:53:15+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/3/1793900697130.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434810/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-retorn-del-sol-i-la-boira-matinal/noticia/3438005/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Així és una presó per a dones a l'Afganistan dels talibans",
+      "excerpt": "Quan dies enrere vaig visitar el mòdul de dones de la presó de Pul-e-Charkhi, a Kabul, no sabia què em trobaria. Tenia un permís oficial dels talibans per entrar-hi, però els funcionaris del centre penitenciari em van fer esperar prop d'una hora a la porta. Abans d’accedir-hi, em van advertir que només podia informar de les classes de confecció i d’alfabetització que fan per a les recluses, i de la guarderia que hi ha dins la presó per als seus fills.",
+      "url": "https://www.ara.cat/internacional/afganistan/aixi-preso-dones-l-afganistan-dels-talibans_129_5901612.html",
+      "published": "2026-11-06T07:00:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1ad34d2e-5c6c-4ea9-919d-9dc43594d707_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Policia i judicatura reclamen a Barcelona un front comú internacional contra les màfies",
+      "excerpt": "Pot semblar un tòpic, però la frase \"no es poden posar portes al camp\" resumeix en bona part com és la lluita policial i judicial contra les grans organitzacions criminals internacionals. Aquesta frase, pronunciada pel general Pedro Antonio Pizarro, cap de la Guàrdia Civil a Catalunya, ha ressonat al Col·legi de Notaris de Catalunya, on membres dels cossos policials, de la judicatura i del notariat s'han conjurat per fer front a un dels principals reptes no només de Catalunya, de l'Estat o d'Europa, sinó també…",
+      "url": "https://www.ara.cat/societat/successos/policia-judicatura-reclamen-barcelona-front-comu-internacional-mafies_1_5901562.html",
+      "published": "2026-11-06T07:00:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3976e432-1c34-4088-b9d0-d5ffc393a038_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Putin intensifica la caça als comunistes russos",
+      "excerpt": "En el 109è aniversari de la Revolució d’Octubre, els comunistes russos s’enfronten a un dels moments més delicats de la seva història. El Kremlin ha prohibit diversos dels actes commemoratius del partit per a aquest dissabte perquè tenen por que les concentracions es desbordin i es converteixin en protestes contra Vladímir Putin. És el que va passar fa un mes a Moscou, quan un grup de joves activistes va aprofitar una manifestació de la vella guàrdia per cridar “Fora el tsar!” i hi va haver…",
+      "url": "https://www.ara.cat/internacional/russia/putin-intensifica-caca-als-comunistes-russos_1_5901260.html",
+      "published": "2026-11-06T07:00:48+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3ec080da-e2f3-4665-afaa-2772a2d62ab4_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La il·lusió de vendre un quadre a qui se n’ha enamorat",
+      "excerpt": "El carrer de Consell de Cent, sobretot al tram comprès entre passeig de Gràcia i Balmes, ja fa molts anys que té una fabulosa distinció: l’art. Poca broma. I encara avui resisteix aquesta personalitat. Encara resisteixen unes quantes galeries d’art, la Mayoral, la Joan Gaspar, la Toni Tàpies... En van tancar algunes d’històriques, com la Prats, la Dalmau i la René Metràs. Ens fixem en la Jordi Barnadas, a tocar de passeig de Gràcia, un indret privilegiat, que ja fa quaranta anys que l’acull. El…",
+      "url": "https://empreses.ara.cat/empreses/il-lusio-vendre-quadre-n-enamorat_1_5901243.html",
+      "published": "2026-11-06T07:00:47+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/860f3c0b-ffca-4cd4-ab93-1aba5ca2b707_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Hi ha una forta indicació que Rússia estaria darrere de les amenaces de bomba a avions a Europa\"",
+      "excerpt": "Europa ha viscut aquesta setmana dues onades d'amenaces de bomba en avions i aeroports , i també un segon atac cibernètic contra supermercats de diversos països on els congeladors s'han convertit en forns. Ningú s'ha atribuït l'autoria d'aquests incidents i cap autoritat s'atreveix a assenyalar amb el dit a ningú. Però tenint en compte el context en què es produeix, és inevitable que plani la idea que Moscou pugui estar-hi darrere. En parlem amb Fredrik Wesslau, analista expert en seguretat del Consell Europeu de Relacions…",
+      "url": "https://www.ara.cat/internacional/europa/hi-forta-indicacio-russia-estaria-darrere-amenaces-bomba-avions-europa_128_5901168.html",
+      "published": "2026-11-06T07:00:47+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ec76ef7e-96fb-4198-9356-922b0e77f87d_source-aspect-ratio_default_0_x674y663.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tres de cada quatre dels principals candidats catalans al 29-N han tingut càrrec públic",
+      "excerpt": "L'any 1999, un jove estudiant anomenat Pierre Poilievre va escriure un assaig en què deia que \"la política no ha de ser una carrera per a tota la vida, i als càrrecs electes no se'ls ha de permetre encastellar-se als passadissos del poder d'una nació\". Avui aquell mateix estudiant és el líder del Partit Conservador del Canadà i, amb 47 anys, acumula 23 anys en càrrecs institucionals. Aquest fenomen, el fet de viure exclusivament de l'exercici de la funció pública, es coneix en ciència política…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/tres-quatre-dels-principals-candidats-catalans-29-n-han-tingut-carrec-public_130_5901143.html",
+      "published": "2026-11-06T07:00:47+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e350d8f9-3c5d-4330-a786-87a058c5ea34_16-9-aspect-ratio_default_0_x1320y534.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Catalunya necessitaria uns 700 autobusos més per portar tothom assegut",
+      "excerpt": "\"És impossible\": aquesta és la reflexió, breu i clara, que feia aquesta setmana una font del sector dels autobusos davant la possible prohibició que els usuaris viatgin drets durant els trajectes amb bus interurbà. El debat es va reobrir la setmana passada, arran de l'accident d'un bus de la companyia Sagalés a Fogars de Montclús, al Montseny, que va causar 83 ferits, dels quals una desena en estat greu. L'autobús va sortir-se de la via en un revolt i va caure per un terraplè de…",
+      "url": "https://www.ara.cat/societat/mobilitat/catalunya-necessitaria-700-autobusos-mes-portar-tothom-assegut_1_5901088.html",
+      "published": "2026-11-06T07:00:46+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/59a76b8a-fd74-48ee-b7ab-e72e8ed05307_16-9-aspect-ratio_default_1061426.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El remei als mals de l'Espanyol era a casa",
+      "excerpt": "En una de les seves primeres intervencions com a entrenador de l'Espanyol, Eder Sarabia va voler donar públicament les gràcies a Sergio García per la victòria de divendres passat a Vila-real. I ho va fer sense que ningú li preguntés directament per ell: “No és només pel resultat, sinó per les sensacions que va transmetre l'equip. Ara hi ha una altra energia, la gent somriu més... i així és més fàcil començar a treballar”.",
+      "url": "https://www.ara.cat/esports/rcd-espanyol/remei-als-mals-espanyol-casa_130_5900827.html",
+      "published": "2026-11-06T07:00:45+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/eaa59608-b4c8-42a3-a8df-8bf047debfbf_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Salvar Sánchez per salvar Catalunya?",
+      "excerpt": "\"Més que mai, no sé a qui votar\". És una frase habitual aquests dies. La distància entre el desig –les pròpies idees i sentiments– i la realitat –l’oferta dels partits–, normal a l’hora d’acudir a les urnes, s’ha eixamplat. La temptació abstencionista creix. Però si un no hi va, després no es pot queixar del resultat, oi? El \"ja s’ho faran\" no funciona perquè al capdavall també acaben fent –governant– per tu. Llavors, què? Vot útil?",
+      "url": "https://www.ara.cat/opinio/salvar-sanchez-salvar-catalunya_129_5901261.html",
+      "published": "2026-11-06T07:00:45+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/342ff0c5-6448-42b5-bb48-dce88dfe2879_16-9-aspect-ratio_default_1041525.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els secrets del bar La Plata i del Pepe, el cambrer més fidel de Barcelona",
+      "excerpt": "El 12 d’octubre del 1972 un marrec de 15 anys amb els ulls molt vius entrava al bar La Plata per demanar feina. Mig segle més tard el Pepe segueix darrere la barra d’aquest local del Gòtic, on tothom el coneix. \"Com més dono, més tinc\", deixa anar. La frase la va aprendre del Pepito, el fundador de la bodega. \"Millor fer quatre coses ben fetes que fer-ne moltes malament\", afegeix. La frase tampoc és seva, la deia sempre la Quimeta, la dona del Pepito.…",
+      "url": "https://mengem.ara.cat/mengem/secrets-bar-plata-pepe-cambrer-mes-fidel-barcelona_130_5898628.html",
+      "published": "2026-11-06T07:00:44+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c354e209-e45f-41e2-807c-a89ada4a677a_source-aspect-ratio_default_0_x2068y1032.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els prejudicis en medicina continuen condicionant la salut de les dones //Ja no en diem histèria",
+      "excerpt": "Fa més de dos mil anys, la medicina grega atribuïa alguns dels mals de les dones a un úter que es desplaçava pel cos com si fos un animal inquiet i entremaliat. Es creia que podia provocar ofecs, convulsions, dolors o desmais segons l’indret on es desplacés. Fins i tot es recomanava utilitzar olors agradables o desagradables per fer-lo tornar al seu lloc. Amb els segles, la histèria, paraula derivada del grec hystéra (úter), va esdevenir una etiqueta que agrupava manifestacions molt diverses, interpretades sovint…",
+      "url": "https://www.ara.cat/ciencia-medi-ambient/biomedicina/prejudicis-medicina-continuen-condicionant-salut-dones-ja-no-diem-histeria_129_5884501.html",
+      "published": "2026-11-06T07:00:43+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8fae59fa-3ba3-4fc1-a102-1ecf177dccb8_source-aspect-ratio_default_0_x798y612.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"20 anys enrere gairebé no hi havia un sector tecnològic local i ara sí que hi és\"",
+      "excerpt": "John Hoffman enfrontarà el març del 2027 el primer MWC després del seu canvi de càrrec . El president i director de GSMA Ltd. va deixar la gestió del dia a dia de l'organitzadora del congrés l'estiu passat, però continua sent la cara visible d'un esdeveniment que ha passat de ser una fira de la indústria mòbil a ser el punt de trobada de les tecnologies d'avantguarda de tot el planeta. Rep l'ARA després de presentar les primeres novetats que marcaran l'edició del curs que…",
+      "url": "https://www.ara.cat/economia/tecnologia/20-anys-enrere-gairebe-no-hi-havia-sector-tecnologic-local-ara-hi_128_5900976.html",
+      "published": "2026-11-06T06:02:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/219388cc-9ff5-4563-8a4d-be9bee226e0c_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    }
+  ]
 }
