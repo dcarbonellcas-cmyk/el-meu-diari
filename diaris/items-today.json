@@ -42,6 +42,32 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió del cap de setmana: pas de núvols, però gairebé sense pluja",
+      "excerpt": "Temperatura típica de tardor, però amb tendència a pujar a partir de diumenge",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/",
+      "published": "2026-11-06T09:32:42+01:00",
+      "updated": "2026-11-06T22:20:57+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/9/1793951187393.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435024/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Protocols de seguretat en cas d'avís de bomba a l'avió: així han d'actuar el pilot i els viatgers",
+      "excerpt": "El comandant Ramon Vallès explica pas a pas quines són les mesures que es prenen en un avió en cas d'amenaça d'un explosiu a bord",
+      "url": "https://www.3cat.cat/3catinfo/protocols-de-seguretat-en-cas-davis-de-bomba-a-lavio-aixi-han-dactuar-el-pilot-i-els-viatgers/noticia/3438444/",
+      "published": "2026-11-06T22:17:48+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/7/1755266888779.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "Barcelona no posarà il·luminació de Nadal a la plaça de Catalunya per l’acampada per l’habitatge",
       "excerpt": "Els comerciants reclamen de desmantellar l’acampada després de la vaga de l’11 de novembre i reconsiderar la decisió",
@@ -109,22 +135,6 @@
       "published": "2026-11-06T15:57:25+01:00",
       "category": "Llevant",
       "image": null,
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió del cap de setmana: pas de núvols, però gairebé sense pluja",
-      "excerpt": "Temperatura típica de tardor, però amb tendència a pujar a partir de diumenge",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/",
-      "published": "2026-11-06T09:32:42+01:00",
-      "updated": "2026-11-06T15:57:22+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/9/1793951187393.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434968/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -254,6 +264,26 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "Trump canvia de cap de gabinet i nomena Stephen Miller, un dels seus assessors més fidels i radicals",
+      "excerpt": "És el primer canvi que fa el president dels Estats Units dins el seu govern després de la desfeta republicana de les eleccions de mig mandat",
+      "url": "https://www.3cat.cat/3catinfo/trump-canvia-de-cap-de-gabinet-i-nomena-stephen-miller-un-dels-seus-assessors-mes-fidels-i-radicals/noticia/3438440/",
+      "published": "2026-11-06T22:19:04+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/5/1793998093452.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "M’acuso de gremialista i corporativista (1985)",
+      "excerpt": "Columna de Josep Pernau (Lleida, 1930-Barcelona, 2011) a El Periódico (6-XI-1985). Publicada tal dia com ahir. Traducció pròpia. Pernau excel·lia per una ironia genuïna, aplicada en aquesta peça a la polèmica sobre la creació del Col·legi Professional de Periodistes de Catalunya, entitat que ell havia promogut. Pernau va ser reporter, cap de redacció i director de diaris, i professor a l’Escola de Periodisme (CICF).",
+      "url": "https://www.ara.cat/opinio/m-acuso-gremialista-corporativista-1985_129_5883913.html",
+      "published": "2026-11-06T22:00:31+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e1790a7a-e146-4e3c-822a-984362a25ba2_16-9-aspect-ratio_default_0_x278y96.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "El PSPV regala a Pedro Sánchez l’oxigen per a continuar viu en la campanya",
       "excerpt": "En el primer míting després de l'accident d'Urda, els socialistes utilitzen Óscar Puente per contraposar les seues polítiques a les de la dreta i l'extrema dreta",
@@ -375,8 +405,8 @@
     },
     {
       "source": "ARA",
-      "title": "Sánchez s'aferra a l'exemple del Brasil i els EUA: \"Si allí han pogut vèncer a l'ultradreta, ací també es podrà\"",
-      "excerpt": "\"Si al Brasil i Estats Units s'ha pogut, ací també es podrà\". El president espanyol, Pedro Sánchez, s'ha aferrat a les recents victòries progressistes al Brasil i als Estats Units i ha pronosticat que si a aquests països la socialdemocràcia ha vençut a l'ultradreta, a \"Espanya també es podrà\". Per aconseguir-ho ha cridat a la mobilització i ha invocat el bagatge acumulat durant els últims anys encapçalant a escala internacional les denúncies sobre el genocidi israelià a Palestina o esdevenint el parallamps dels atacs de…",
+      "title": "Sánchez torna a la precampanya i defensa \"la dignitat\" de Puente",
+      "excerpt": "Una setmana després del dramàtic accident de tren d'Urda (Toledo) –i també de les noves revelacions del cas Koldo–, Pedro Sánchez ha tornat als mítings preelectorals per al 29-N. El president espanyol i líder del PSOE ha triat València per tornar a defensar la gestió de la tragèdia d'Óscar Puente, ja exministre de Transports. De fet, ha destacat la \"dignitat i exemplaritat\" del polític de Valladolid després que dimarts a la nit anunciés la seva dimissió al Congrés. \"Hem donat la cara amb absoluta transparència…",
       "url": "https://www.ara.cat/politica/sanchez-s-aferra-l-exemple-brasil-eua-han-pogut-vencer-l-ultradreta-aci-tambe-podra_1_5902513.html",
       "published": "2026-11-06T20:28:40+01:00",
       "category": "Actualitat",
@@ -455,12 +485,12 @@
     },
     {
       "source": "ARA",
-      "title": "Trump fa els primers canvis després de la desfeta electoral i ascendeix l'ultra Stephen Miller com a cap de gabinet",
-      "excerpt": "Després de l'estaborniment de la desfeta electoral, Donald Trump finalment reacciona i aposta per la mà dura. El president estatunidenc ha anunciat que relleva a la cap de gabinet de la Casa Blanca, Susie Wiles, i al seu lloc ascendeix a l'ultra Stephen Miller . El fins ara cap adjunt del gabinet presidencial és una de les figures més extremistes dins de l'administració, sent la ment rere la campanya de deportacions massives i la transformació de l'ICE en el braç armat del magnat.",
+      "title": "Trump fa els primers canvis després de la desfeta electoral i ascendeix l'ultra Stephen Miller a cap de gabinet",
+      "excerpt": "Després de l'estaborniment de la desfeta electoral, Donald Trump finalment reacciona i aposta per la mà dura. El president estatunidenc ha anunciat que relleva la cap de gabinet de la Casa Blanca, Susie Wiles, i al seu lloc ascendeix l'ultra Stephen Miller . El fins ara cap adjunt del gabinet presidencial és una de les figures més extremistes dins de l'administració, la ment darrere la campanya de deportacions massives i la transformació de l'ICE en el braç armat del magnat.",
       "url": "https://www.ara.cat/internacional/estats-units/trump-ascendeix-stephen-miller-cap-gabinet-destitueix-susie-wiles-despres-desfeta-electoral_1_5902575.html",
       "published": "2026-11-06T20:04:54+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/44e4a3cd-3a57-4dd1-90e8-b94f4402f223_16-9-aspect-ratio_default_0_x998y437.jpg",
+      "image": "https://static1.ara.cat/clip/7637646a-7e05-4d8f-9388-a8850a67a75f_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -510,7 +540,7 @@
       "url": "https://www.ara.cat/opinio/casa_129_5902451.html",
       "published": "2026-11-06T19:43:17+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/dc8df86a-d59f-4d34-9680-ff21d61d5208_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/b038d009-01a7-4fc9-b3e1-047424b30b07_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -1766,7 +1796,12 @@
       "published": "2026-11-06T07:18:51+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/1/1450262187315.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435018/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/tallar-la-linia-del-tren-per-sanejar-la-infraestructura-el-metode-alemany-que-confirma-un-fracas/noticia/3438003/"
+      }
     },
     {
       "source": "3CatInfo",
