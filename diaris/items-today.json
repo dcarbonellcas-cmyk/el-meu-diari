@@ -2,6 +2,16 @@
   "date": "2026-11-06",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Interrompuda la R4 entre Martorell i Sant Sadurní d’Anoia per un incendi en una locomotora",
+      "excerpt": "RENFE gestiona un servei alternatiu per carretera en el tram afectat",
+      "url": "https://www.vilaweb.cat/noticies/interrompuda-martorell-i-sant-sadurni-anoia-incendi-locomotora/",
+      "published": "2026-11-06T14:42:41+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo",
       "title": "Almenys dos morts, un dels quals menor, en l'accident d'un autobús escolar a França",
       "excerpt": "Hi ha 16 ferits, tres dels quals greus",
@@ -20,6 +30,62 @@
       "category": "cinema",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/07/olivia-i-el-terratremol-invisible-2026-07-06.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Eisenkot demana al president d’Israel de formar govern per posar fi a l'”amenaça” de Netanyahu",
+      "excerpt": "“El govern actual amenaça, en la seva essència més bàsica, l’existència mateixa de la democràcia israeliana”, ha dit",
+      "url": "https://www.vilaweb.cat/noticies/eisenkot-president-israel-formar-govern-netanyahu/",
+      "published": "2026-11-06T15:57:25+01:00",
+      "category": "Llevant",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió del cap de setmana: pas de núvols, però gairebé sense pluja",
+      "excerpt": "Temperatura típica de tardor, però amb tendència a pujar a partir de diumenge",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/",
+      "published": "2026-11-06T09:32:42+01:00",
+      "updated": "2026-11-06T15:57:22+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/9/1793951187393.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434871/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Barcelona no posarà llums de Nadal a la plaça Catalunya per l'acampada per l'habitatge",
+      "excerpt": "L'Ajuntament de Barcelona descarta, ara per ara, instal·lar els llums de Nadal a la plaça Catalunya. La decisió s'ha pres davant la continuïtat de l'acampada pel dret a l'habitatge que ocupa l'espai, segons ha avançat El Periódico i confirmen fonts municipals a l'ACN. Aquestes fonts diuen que de moment \"l'Ajuntament no instal·larà l'enllumenat de Nadal a la plaça Catalunya\". També indiquen que el consistori no es planteja instal·lar els llums d'autor previstos per a la plaça en cap lloc de la ciutat, ja que estaven…",
+      "url": "https://www.ara.cat/societat/barcelona/barcelona-no-posara-llums-nadal-placa-catalunya-l-acampada-l-habitatge_1_5902212.html",
+      "published": "2026-11-06T15:15:09+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f12db00d-13b7-4d6b-8499-bac2bcfed9d7_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Gairebé la meitat d’usuaris habituals de Rodalies s’han plantejat canviar la freqüència d’ús",
+      "excerpt": "(ACN) Gairebé la meitat d’usuaris habituals de Rodalies s’han plantejat canviar la freqüència d’ús del servei després de l’accident de Gelida del 20 de gener, segons l’enquesta Òmnibus de la Generalitat, elaborada pel CEO. Concretament, en preguntar-los per si han pensat a utilitzar els serveis de Rodalies i mitjana distància de Renfe “amb la mateixa […]",
+      "url": "https://beteve.cat/mobilitat/45-per-cent-usuaris-planteja-canviar-frequencia-us-rodalies/",
+      "published": "2026-11-06T14:02:30+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/02/recuperacio-rodalies-100226.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "USTEC diu que els serveis mínims de l’11-N mostren que els de les vagues educatives es poden abaixar",
+      "excerpt": "(ACN) El sindicat USTEC-STEs (IAC) adverteix que els serveis mínims que el govern ha decretat per a la vaga general de l’11 de novembre evidencien que els de les vagues educatives poden ser més baixos. En un missatge difós a les xarxes socials, ha detallat que s’ha establert un docent per cada sis aules d’educació […]",
+      "url": "https://beteve.cat/societat/ustec-marge-rebaixar-serveis-minims-vagues-educatives/",
+      "published": "2026-11-06T13:56:59+01:00",
+      "category": "educació",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/04/aula-buida-200423.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "3CatInfo",
@@ -82,22 +148,6 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió del cap de setmana: pas de núvols, però gairebé sense pluja",
-      "excerpt": "Temperatura típica de tardor, però amb tendència a pujar a partir de diumenge",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/",
-      "published": "2026-11-06T09:32:42+01:00",
-      "updated": "2026-11-06T10:10:06+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/9/1793951187393.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6434871/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/"
-      },
-      "priority": "2 · Important"
-    },
-    {
       "source": "VilaWeb",
       "title": "El govern espanyol retira part de la producció d’oli d’oliva per evitar un enfonsament del preu",
       "excerpt": "La mesura publicada al BOE pretén regular l'oferta per \"millorar i estabilitzar\" el funcionament del sector",
@@ -132,6 +182,126 @@
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-retorn-del-sol-i-la-boira-matinal/noticia/3438005/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Desallotgen la televisió pública irlandesa per una amenaça de bomba",
+      "excerpt": "L’amenaça també ha afectat més mitjans de comunicació irlandesos i el govern investiga si forma part d’una campanya coordinada per a causar alteracions",
+      "url": "https://www.vilaweb.cat/noticies/desallotgen-la-televisio-publica-irlandesa-per-una-amenaca-de-bomba/",
+      "published": "2026-11-06T15:51:26+01:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Vuit catalans de cada deu volen que es reforci l’ensenyament del català als immigrants",
+      "excerpt": "Una enquesta del CEO revela també que el 81% dels catalans dóna suport a polítiques que garanteixin l’atenció en català i castellà als serveis públics i als comerços",
+      "url": "https://www.vilaweb.cat/noticies/vuit-catalans-de-cada-deu-volen-que-es-reforci-lensenyament-del-catala-als-immigrants/",
+      "published": "2026-11-06T15:22:56+01:00",
+      "category": "Llengua",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Brussel·les alerta que l'algoritme de TikTok pot alimentar trastorns de salut mental",
+      "excerpt": "Nova envestida de la UE contra TikTok. Brussel·les sospita que l'algoritme de la plataforma infringeix la llei de serveis digitals (DSA, per les sigles en anglès) perquè atrapa els usuaris en un pou sense fons del qual és molt complicat sortir-ne. Considera que el seu disseny de personalització del contingut arrossega els usuaris a una espiral de contingut nociu que pot perjudicar la seva salut mental i, fins i tot, fomentar trastorns de conducta alimentària. Per això, amenaça la companyia amb una multa milionària si…",
+      "url": "https://www.ara.cat/economia/brussel-alerta-l-algoritme-tiktok-pot-alimentar-trastorns-salut-mental_1_5901942.html",
+      "published": "2026-11-06T15:15:26+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8d573ba6-a9b8-4ece-a9de-96a0a63328f9_source-aspect-ratio_default_0_x1445y3522.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un ICE a Europa? La policia belga podrà entrar als domicilis per buscar immigrants il·legals",
+      "excerpt": "Bèlgica endureix la seva deriva antiimmigració. Després de deu hores de debat acalorat, el Parlament belga ha aprovat una llei que permetrà a la policia fer batudes als domicilis si té sospites que hi poden viure immigrants sense documentació. La controvertida mesura exigirà una ordre judicial i només s'aplicarà en casos en què els immigrants hagin ignorat prèviament una ordre d'expulsió. Les visites estaran permeses entre les 5 de la matinada i les 9 del vespre i l'agent de policia podrà sol·licitar l'assistència d'un serraller.",
+      "url": "https://www.ara.cat/internacional/europa/ice-europa-policia-belga-podra-entrar-als-domicilis-buscar-immigrants-il-legals_1_5902097.html",
+      "published": "2026-11-06T15:10:16+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9eb74a76-8334-48a0-90b5-81b09c6d462b_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les patronals catalanes fan les seves cartes als Reis pel 29-N",
+      "excerpt": "Les patronals catalanes Foment del Treball i Pimec han fet les seves cartes als Reis de cara a les eleccions generals del pròxim 29-N. En concret, totes dues organitzacions empresarials han presentat aquest divendres un grapat de demandes perquè els partits polítics les tinguin en compte de cara als comicis, però sobretot les tingui en compte el futur govern espanyol. Foment del Treball ho ha fet a Barcelona i Pimec a Madrid i ambdues coincideixen en alguns elements: repensar la fiscalitat, el problema, a parer…",
+      "url": "https://www.ara.cat/economia/patronals/patronals-catalanes-seves-cartes-als-reis-pel-29-n_1_5902061.html",
+      "published": "2026-11-06T15:04:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1297e544-7dc2-442e-9d05-687587ade289_16-9-aspect-ratio_default_0_x3426y1502.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Què farà l’independentista abstencionista?",
+      "excerpt": "En les properes eleccions generals del 29 de novembre, què farà l’independentista abstencionista que en les eleccions recents ha decidit quedar-se a casa? Durant la fase més intensa del Procés, aproximadament entre el 2012 i l’inici de la crisi de la covid, es va començar a detectar un patró nou en el comportament electoral català, que es manifestava de diverses formes: les eleccions al Parlament de Catalunya es percebien com a molt importants, fins i tot les més importants. Durant aquest període, la mobilització electoral…",
+      "url": "https://www.ara.cat/politica/fara-l-independentista-abstencionista_129_5902114.html",
+      "published": "2026-11-06T15:02:10+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/36482182-0fb8-43d4-9026-ef2ef15bf4b1_source-aspect-ratio_default_0_x1603y948.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Suspenen el Festivern d’enguany: “Tornarem”",
+      "excerpt": "Les suspensions per la pluja i les dificultats econòmiques obliguen el festival de Tavernes de la Valldigna a aturar-se, però l’organització promet de fer tot allò que sigui possible per tornar el 2027",
+      "url": "https://www.vilaweb.cat/noticies/cancellen-el-festivern-denguany-tornarem/",
+      "published": "2026-11-06T15:01:06+01:00",
+      "category": "Música",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Concerts de Nadal, Sant Esteve i Cap d’Any 2026-2027: L’Auditori, el Palau de Música, el Liceu…",
+      "excerpt": "Quan arriben les dates nadalenques tornen també els grans concerts de Nadal, de Sant Esteve i Cap d’Any 2026-2027 a Barcelona. Aquí trobaràs actualitzada l’agenda de concerts per les festes de Nadal 2026 i per acomiadar l’any. Trobaràs tots els concerts per espai i dates. L’Auditori Palau de la Música Gran Teatre del Liceu Sagrada […]",
+      "url": "https://beteve.cat/agenda/concerts-nadal-cap-any-barcelona/",
+      "published": "2026-11-06T14:58:28+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/12/concert-nadal-palau.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Descobreixen a la Franja una nova espècie d’amfibi que va conviure amb els darrers dinosaures d’Europa",
+      "excerpt": "L’animal, de menys de cinc centímetres, va viure fa uns 66 milions d’anys i ha estat identificat gràcies a més de vuitanta restes fòssils trobades a Areny de Noguera, a la Ribagorça, fa gairebé trenta anys",
+      "url": "https://www.vilaweb.cat/noticies/descobreixen-franja-especie-amfibi-dinosaures-europa/",
+      "published": "2026-11-06T14:55:44+01:00",
+      "category": "Ciència",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els independentistes de Nova Caledònia donen suport a Mélenchon per la promesa d’independència el 2028",
+      "excerpt": "El FLNKS anuncia el suport al candidat de la França Insubmisa, que es compromet a convocar dos referèndums el 2027 per fer efectiva la independència el primer de gener del 2028 · La promesa contrasta amb les posicions jacobines de Mélenchon sobre les llengües minoritzades i les reivindicacions nacionals a l'estat francès",
+      "url": "https://www.vilaweb.cat/noticies/els-independentistes-de-nova-caledonia-donen-suport-a-melenchon-per-la-promesa-dindependencia-el-2028/",
+      "published": "2026-11-06T14:31:23+01:00",
+      "category": "Àsia-Pacífic",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Espanyol prepara una estada a la Garrotxa: Eder Sarabia vol intensificar l’adaptació de l’equip",
+      "excerpt": "L’entrenador de l’Espanyol, Eder Sarabia, no vol deixar escapar cap oportunitat de poder treballar a fons amb la seva plantilla. El tècnic, que va assumir el càrrec fa només cinc dies, aprofitarà l’aturada de la Lliga durant un cap de setmana per fer una estada amb el primer equip blanc-i-blau. Ho farà del 10 al […]",
+      "url": "https://beteve.cat/esports/espanyol-prepara-estada-eder-sarabia/",
+      "published": "2026-11-06T14:29:27+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/espanyol-fara-estada-vall-bas-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Noves amenaces de bomba contra vols europeus i també a mitjans de comunicació d'Irlanda",
+      "excerpt": "Albares parla d'una \"agressió híbrida\" contra Europa perquè és la \"gran esperança\" de la democràcia",
+      "url": "https://www.3cat.cat/3catinfo/noves-amenaces-de-bomba-contra-vols-europeus-i-tambe-a-mitjans-de-comunicacio-dirlanda/noticia/3438332/",
+      "published": "2026-11-06T14:22:42+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/1/1793971117314.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -184,13 +354,23 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Willy Tornado",
+      "excerpt": "Una ruptura, una conversa amb el nen que va ser i les ganes de tornar a ballar. Willy Tornado ens presenta A pesar de todo, el seu nou EP, que es publica aquest 6 de novembre. Partim dels dos avançaments, ‘Mirarte con amor’ i ‘Todo lo que no fuimos’, per parlar de com transforma les […]",
+      "url": "https://beteve.cat/tot-passa/willy-tornado/",
+      "published": "2026-11-06T13:51:30+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/totpassa_061126-2026-11-06.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Feijóo tria Catalunya i Albiol per l'inici de la campanya del 29-N",
       "excerpt": "El PP té coll avall que el resultat que obtingui a Catalunya el 29-N pot ser determinant. Ja és el que va passar en les eleccions de fa tres anys i mig quan la suma dels d'Alberto Núñez Feijóo amb Vox al Congrés es va quedar a només quatre escons de la majoria absoluta. El 2023 els populars van tenir a tocar l'obtenció d'un diputat més tant a Girona com a Lleida. I de cara als comicis del 29 de novembre, l'equip de campanya del…",
       "url": "https://www.ara.cat/politica/feijoo-tria-catalunya-albiol-l-inici-campanya-29-n_1_5902113.html",
       "published": "2026-11-06T13:47:15+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/0b51becd-46c1-489d-83b8-2b1473604331_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/0b51becd-46c1-489d-83b8-2b1473604331_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -236,11 +416,11 @@
     {
       "source": "ARA",
       "title": "Tercer dia amb amenaces de bomba a diversos avions a Europa",
-      "excerpt": "Continua l'onada d'amenaces de bomba a avions a Europa. Si aquest dijous els avisos van afectar almenys 30 vols , les amenaces han afectat aquest divendres més avions a França, Dinamarca, Portugal i la República Txeca. Ja és el tercer dia d'aquesta setmana que les alertes de bomba interrompen desenes de vols a Europa sense que, de moment, s'hagi detectat cap artefacte explosiu en cap d'ells. Tanmateix, l'onada de falsos avisos, que va començar dimarts, ha generat disrupcions en el trànsit aeri europeu, amb aterratges…",
+      "excerpt": "Continua l'onada d'amenaces de bomba a avions a Europa. Si aquest dijous els avisos van afectar almenys 30 vols , més amenaces continuen posant en alerta aquest divendres els vols i aeroports europeus, amb alertes en avions a França, Dinamarca, Portugal, els Països Baixos o la República Txeca. Ja és el tercer dia d'aquesta setmana que les amenaces de bomba interrompen desenes de vols a Europa sense que, de moment, s'hagi detectat cap artefacte explosiu en cap d'ells. Tanmateix, l'onada de falsos avisos, que va…",
       "url": "https://www.ara.cat/internacional/europa/tercer-dia-amenaces-bomba-diversos-avions-europa_1_5902086.html",
       "published": "2026-11-06T13:30:22+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/314b8113-da40-4c5f-8ce9-4a4939dc3f3d_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/314b8113-da40-4c5f-8ce9-4a4939dc3f3d_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -261,12 +441,12 @@
       "published": "2026-11-06T13:21:10+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/7/1789200624078.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6411168/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/detinguts-12-membres-del-grup-ultra-nucleo-nacional-en-una-operacio-policial-en-set-provincies/noticia/3438298/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
@@ -300,8 +480,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "El jutge no investigarà Zapatero per malversació en relació amb les joies com demanava la Fiscalia",
-      "excerpt": "El magistrat diu que cap llei exigia Zapatero que entregués a Patrimoni de l'Estat les peces que li hauria regalat el rei d'Aràbia Saudita",
+      "title": "El jutge no investigarà Zapatero per malversació en relació amb les joies, com demanava la Fiscalia",
+      "excerpt": "El magistrat diu que cap llei exigia a Zapatero que entregués a Patrimoni de l'Estat les peces que li hauria regalat el rei de l'Aràbia Saudita",
       "url": "https://www.3cat.cat/3catinfo/el-jutge-no-investigara-zapatero-per-malversacio-en-relacio-amb-les-joies-com-demanava-la-fiscalia/noticia/3438312/",
       "published": "2026-11-06T13:03:34+01:00",
       "category": "Actualitat",
@@ -365,7 +545,7 @@
       "url": "https://www.ara.cat/politica/jutge-rebutja-imputar-zapatero-malversacio-joies-l-arabia-saudita_1_5902092.html",
       "published": "2026-11-06T12:32:45+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/b69f13bb-dffc-4154-a7b1-3a6401bcbeac_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/c9c1f5a5-7a94-401d-a4bd-9eb05ffcbf32_source-aspect-ratio_default_0_x2003y651.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -616,12 +796,12 @@
       "published": "2026-11-06T10:50:38+01:00",
       "category": "Espanya",
       "image": null,
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6411168/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/detinguts-12-membres-del-grup-ultra-nucleo-nacional-en-una-operacio-policial-en-set-provincies/noticia/3438298/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -636,7 +816,7 @@
     {
       "source": "ARA",
       "title": "L'economia catalana creix més que l'espanyola i l'europea durant el tercer trimestre",
-      "excerpt": "L'economia catalana va créixer un 2,9% interanual el tercer trimestre d'aquest any, segons l'Institut d'Estadística de Catalunya (Idescat). Es tracta, d'acord amb les dades avançades per l'organisme aquest divendres, d'un alentiment lleuger del creixement respecte al segon trimestre, quan el producte interior brut (PIB) català es va expandir un 3% cada any. Si es compara amb el període entre l'abril i el juny, l'expansió econòmica va ser del 0,7%.",
+      "excerpt": "L'economia catalana va créixer per damunt de la mitjana espanyola i europea al tercer trimestre, una tendència habitual des de la recuperació posterior a la pandèmia. Així, el producte interior brut (PIB, l'indicador que mesura la mida d'una economia) de Catalunya manté la tendència a l'alça malgrat el context internacional advers provocat per les tensions aranzelàries, l'elevada inflació i la crisi energètica derivada de la guerra a l'Orient Mitjà.",
       "url": "https://www.ara.cat/economia/macroeconomia/l-economia-catalana-creix-2-9-durant-tercer-trimestre_1_5901912.html",
       "published": "2026-11-06T10:41:05+01:00",
       "category": "Actualitat",
@@ -706,7 +886,7 @@
     {
       "source": "3CatInfo",
       "title": "La incertesa sobre la IA impacta en les borses després de les midterm dels EUA",
-      "excerpt": "La caiguda a Wall Street dijous ha arrossegat els mercats asiàtics i Europa ja obre lleugerament a la baixa",
+      "excerpt": "La caiguda a Wall Street dijous ha arrossegat els mercats financers asiàtics, però les borses europees experimenten una baixada lleugera",
       "url": "https://www.3cat.cat/3catinfo/la-incertesa-sobre-la-ia-impacta-en-les-borses-despres-de-les-midterm-dels-eua/noticia/3438248/",
       "published": "2026-11-06T09:55:26+01:00",
       "category": "Actualitat",
@@ -886,7 +1066,12 @@
       "published": "2026-11-06T07:16:59+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/4/1793900583247.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434951/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/crisi-oberta-a-lalta-velocitat-dubtes-dels-usuaris-i-un-model-en-questio/noticia/3438141/"
+      }
     },
     {
       "source": "ARA",
