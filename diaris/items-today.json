@@ -22,6 +22,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo",
+      "title": "La Junta Electoral permetrà votar amb DNI digital a les eleccions del 29N",
+      "excerpt": "Aquells que vulguin podran obrir l'aplicació MiDNI davant la mesa electoral i obtindran un codi QR que certifica que les dades personals són autèntiques",
+      "url": "https://www.3cat.cat/3catinfo/la-junta-electoral-permetra-votar-amb-dni-digital-a-les-eleccions-del-29n/noticia/3438274/",
+      "published": "2026-11-06T13:47:37+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/7/1793961647375.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
       "title": "Pimec i CCOO expressen el seu descontentament pels serveis mínims de la vaga general de l’11-N",
       "excerpt": "(ACN/Redacció) El govern ja ha donat a conèixer els serveis mínims de la vaga general de l’11-N. En el transport públic, s’assegurarà el 25 % en hora punta, en educació primària hi haurà un docent per cada sis aules, en els serveis socials i residències es garantirà el 85 % de l’activitat i en el […]",
@@ -34,7 +44,7 @@
     {
       "source": "betevé",
       "title": "Més de 300 robatoris de coure a la xarxa ferroviària en només 10 mesos",
-      "excerpt": "Els robatoris de cable de coure a la xarxa ferroviària de Catalunya s’han intensificat i això es demostra en dades. Entre el 2010 i el 2024 —és a dir, en un període de 14 anys— se’n van detectar prop d’un miler a tota la xarxa. Ara, entre l’1 de gener i el 30 d’octubre de […]",
+      "excerpt": "Els robatoris de cable de coure a la xarxa ferroviària de Catalunya s’han intensificat i això es demostra amb dades. Entre el 2010 i el 2024 —és a dir, en un període de 14 anys— se’n van detectar prop d’un miler a tota la xarxa. Ara, entre l’1 de gener i el 30 d’octubre del […]",
       "url": "https://beteve.cat/societat/mes-300-robatoris-coure-xarxa-ferroviaria-10-mesos/",
       "published": "2026-11-06T12:52:29+01:00",
       "category": "seguretat ciutadana",
@@ -125,10 +135,185 @@
     },
     {
       "source": "betevé",
+      "title": "Arriba el solstici d’hivern: tot allò que ens cal saber",
+      "excerpt": "El solstici d’hivern correspon al moment en el qual el Sol assoleix la menor altura aparent al cel i coincideix amb el dia més curt de tot l’any. L’hivern del 2026-27 començarà dilluns 21 de desembre a les 21.50 h i durarà 88 dies i 23 hores, i acabarà el 20 de març de 2027, amb l’inici de la primavera. Quina és la […]",
+      "url": "https://beteve.cat/medi-ambient/arriba-solstici-hivern-tot-allo-cal-saber/",
+      "published": "2026-11-06T14:06:07+01:00",
+      "category": "clima",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/12/arriba-solstici-hivern-201225.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Quan comença l’hivern 2026-27? A quina hora?",
+      "excerpt": "El dimarts 1 de desembre comença l’hivern meteorològic o climàtic. Ara bé, realment quan ho farà l’hivern astronòmic 2026-27? Sabem que el tret de sortida de les estacions és diferent en funció de l’àmbit en què treballem: meteorologia, climatologia o astronomia. Dia i hora: quan comença l’hivern 2026-27? L’hivern del 2026-27 començarà el dilluns 21 […]",
+      "url": "https://beteve.cat/medi-ambient/quan-comenca-hivern/",
+      "published": "2026-11-06T14:04:41+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/11/nevada-febrer-2023.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Espanya presenta Hernández de Cos a la presidència del BCE",
+      "excerpt": "Espanya ha presentat la candidatura de Pablo Hernández de Cos a la presidència del Banc Central Europeu. El dia que s'esgota el termini fixat per l'organisme, el ministre d'Economia —i ara també de Transports— Carlos Cuerpo, ha fet arribar la candidatura per carta al president de l'Eurogrup, Kyriakos Pierrakakis, a l'espera que es presentin més candidats.",
+      "url": "https://www.ara.cat/internacional/europa/espanya-presenta-hernandez-cos-presidencia-bce_1_5902174.html",
+      "published": "2026-11-06T14:04:07+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/84f088dc-c2d8-442a-a41d-287d3e6fbccb_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "De pilotar l'avió del Barça a arribar corrent a l'Everest",
+      "excerpt": "Potser perquè és andorrà i s'ha criat entre muntanyes, l'Uri Pujol Sans somiava veure l'Everest. I fa uns anys, el 2020, ja va arribar al seu camp base caminant. Acabava un somni, però en naixien d'altres. Aquest novembre hi tornarà per córrer 170 km per l’Himàlaia per ajudar infants i joves amb malalties neuromusculars; serà en el marc de l'Everest Trail Race, una de les curses per etapes més exigents del calendari internacional de curses de muntanya.",
+      "url": "https://www.ara.cat/esports/futbol/portar-avio-barca-femeni-arribar-corrent-everest_1_5894946.html",
+      "published": "2026-11-06T14:00:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/68c09485-73ec-48cb-a57e-35651eb4ddc9_source-aspect-ratio_default_0_x352y414.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Quan guanyi la dreta",
+      "excerpt": "Com que guanyarà la dreta, el millor escenari possible per a Catalunya en les properes eleccions generals és un Congrés on els vots de Junts siguin decisius per legislar. En un Parlament ajustat, tant el senyor Feijóo com el senyor Abascal deixarien d’entelar el món català amb els seus mots obacs i començarien a recitar poemes de Pere Gimferrer des de l’escó. No soc optimista, però. Dubto que la fortuna s’aliï amb l’aritmètica, com va aliar-s'hi fa tres anys, després d’haver estat cinquena força política…",
+      "url": "https://www.ara.cat/opinio/guanyi-dreta_129_5901123.html",
+      "published": "2026-11-06T14:00:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d9c84816-4b55-4b11-803f-efe89e020d38_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Feijóo tria Catalunya i Albiol per l'inici de la campanya del 29-N",
+      "excerpt": "El PP té coll avall que el resultat que obtingui a Catalunya el 29-N pot ser determinant. Ja és el que va passar en les eleccions de fa tres anys i mig quan la suma dels d'Alberto Núñez Feijóo amb Vox al Congrés es va quedar a només quatre escons de la majoria absoluta. El 2023 els populars van tenir a tocar l'obtenció d'un diputat més tant a Girona com a Lleida. I de cara als comicis del 29 de novembre, l'equip de campanya del…",
+      "url": "https://www.ara.cat/politica/feijoo-tria-catalunya-albiol-l-inici-campanya-29-n_1_5902113.html",
+      "published": "2026-11-06T13:47:15+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0b51becd-46c1-489d-83b8-2b1473604331_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
+      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-11-06T13:44:01+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Catakrac (07/11/2026): Taurons, cargols i un robot bomber!",
+      "excerpt": "Aquesta setmana al Catakrac investiguem els secrets dels taurons a L’Aquàrium de Barcelona, descobrim per què els cargols tenen milers de dentetes, gaudim de la màgia del Mag Stigman i coneixem un sorprenent robot bomber. També posem a prova els infants amb ‘La patata calenta’ i el repte de la paraula “carquinyoli“, descobrim noves recomanacions […]",
+      "url": "https://beteve.cat/catakrac/taurons-cargols-robot-bomber/",
+      "published": "2026-11-06T13:41:13+01:00",
+      "category": "escoles",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/catakrac-1124-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Muntanyesa-Tona: el duel de Tercera per continuar sent líder, en directe a betevé",
+      "excerpt": "El Muntanyesa és l’actual líder del grup cinquè de la Tercera Divisió, empatat a punts amb el Vilanova. El conjunt de Nou Barris vol continuar al capdavant de la classificació i, per no posar en perill aquesta posició, haurà d’aconseguir la victòria aquest diumenge, 8 de novembre, contra el Tona, a la Bombonera. El partit, […]",
+      "url": "https://beteve.cat/esports/muntanyesa-tona-tercera-lider-directe/",
+      "published": "2026-11-06T13:40:16+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/muntanyesa-tona-3-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’Ajuntament de Barcelona multa amb 150.000 euros l’empresa del Bicing pel mal servei",
+      "excerpt": "Durant el primer semestre del 2027 substituirà totes les bicicletes mecàniques per elèctriques, malgrat que les mecàniques fallen menys",
+      "url": "https://www.vilaweb.cat/noticies/ajuntament-barcelona-multa-150000-bicing-mal-servei/",
+      "published": "2026-11-06T13:37:36+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tercer dia amb amenaces de bomba a diversos avions a Europa",
+      "excerpt": "Continua l'onada d'amenaces de bomba a avions a Europa. Si aquest dijous els avisos van afectar almenys 30 vols , les amenaces han afectat aquest divendres més avions a França, Dinamarca, Portugal i la República Txeca. Ja és el tercer dia d'aquesta setmana que les alertes de bomba interrompen desenes de vols a Europa sense que, de moment, s'hagi detectat cap artefacte explosiu en cap d'ells. Tanmateix, l'onada de falsos avisos, que va començar dimarts, ha generat disrupcions en el trànsit aeri europeu, amb aterratges…",
+      "url": "https://www.ara.cat/internacional/europa/tercer-dia-amenaces-bomba-diversos-avions-europa_1_5902086.html",
+      "published": "2026-11-06T13:30:22+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/314b8113-da40-4c5f-8ce9-4a4939dc3f3d_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La Generalitat calcula que caldrien de 700 a 800 busos més per evitar que els usuaris vagin dempeus",
+      "excerpt": "(ACN/Redacció) La Generalitat afirma que Catalunya necessitaria entre 700 i 800 autobusos més per garantir que tots els passatgers del servei interurbà puguin anar asseguts. La xifra —avançada pel Diari ARA i La Vanguardia i confirmada pel Departament de Territori a l’ACN— arriba en ple debat sobre la qüestió arran de l’accident de Fogars de […]",
+      "url": "https://beteve.cat/economia/caldrien-800-autobusos-evitar-usuaris-dempeus/",
+      "published": "2026-11-06T13:22:14+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/Copia-de-plenari-novembre-1-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Detinguts 12 membres del grup ultra Núcleo Nacional en una operació policial en set províncies",
+      "excerpt": "La Policia Nacional està fent diferents escorcolls, també de la seva seu central a Madrid, en el marc d'una investigació per les agressions denunciades per estudiants en una protesta a Gijón",
+      "url": "https://www.3cat.cat/3catinfo/detinguts-12-membres-del-grup-ultra-nucleo-nacional-en-una-operacio-policial-en-set-provincies/noticia/3438298/",
+      "published": "2026-11-06T13:21:10+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/7/1789200624078.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6411168/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/detinguts-12-membres-del-grup-ultra-nucleo-nacional-en-una-operacio-policial-en-set-provincies/noticia/3438298/"
+      }
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Una nova onada d’amenaces de bomba sacsa el trànsit aeri europeu i afecta divuit vols",
+      "excerpt": "Els avisos, que s'afegeixen als de dies anteriors, han obligat a reforçar la vigilància en aeroports com els de Praga i Bucarest",
+      "url": "https://www.vilaweb.cat/noticies/nova-onada-amenaces-bomba-transit-aeri/",
+      "published": "2026-11-06T13:09:48+01:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La plaça de Catalunya es queda sense llums de Nadal per l’acampada prohabitatge",
+      "excerpt": "Per primera vegada en els últims anys, aquesta campanya de Nadal 2026 la plaça de Catalunya no tindrà enllumenat nadalenc. La raó és que hi ha l’acampada per l’habitatge, que ocupa una bona part del centre de la plaça, i no s’hi poden fer els treballs per penjar els llums. Així ho ha avançat El […]",
+      "url": "https://beteve.cat/politica/placa-catalunya-sense-llums-nadal-per-acampada-prohabitatge/",
+      "published": "2026-11-06T13:07:20+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/11/placa-catalunya-nadal-201124ok.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El derbi Europa – Sant Andreu a l’RCDE Stadium, el més multitudinari de la història",
+      "excerpt": "El derbi entre el Europa i el Sant Andreu està preparat per fer història. L’enfrontament entre els dos equips serà el dissabte 14 de novembre, a les 18.30 h a l’RCDE Stadium, i s’espera que sigui el més multitudinari que mai hauran disputat aquests dos conjunts, amb una intenció molt clara i ambiciosa: omplir l’RCDE […]",
+      "url": "https://beteve.cat/esports/derbi-europa-sant-andreu-mes-multitudinari-historia/",
+      "published": "2026-11-06T13:03:37+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/03/310325-serrano-noel-derbi-sant-andreu-europa.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El jutge no investigarà Zapatero per malversació en relació amb les joies com demanava la Fiscalia",
+      "excerpt": "El magistrat diu que cap llei exigia Zapatero que entregués a Patrimoni de l'Estat les peces que li hauria regalat el rei d'Aràbia Saudita",
+      "url": "https://www.3cat.cat/3catinfo/el-jutge-no-investigara-zapatero-per-malversacio-en-relacio-amb-les-joies-com-demanava-la-fiscalia/noticia/3438312/",
+      "published": "2026-11-06T13:03:34+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/3/1793965204531.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "Exposicions a Barcelona: la teva agenda de museus",
       "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
       "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
-      "published": "2026-11-06T12:54:15+01:00",
+      "published": "2026-11-06T13:02:16+01:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
       "priority": "3 · Altres notícies"
@@ -141,6 +326,16 @@
       "published": "2026-11-06T12:53:46+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/fe6d1163-454e-43d2-be64-2b215a9b64ae_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La UE alerta de l'\"efecte cau de conill\" de TikTok: què és i com pot afectar la salut mental",
+      "excerpt": "Es tracta d'una de les conclusions preliminars d'una investigació que està duent a terme la Comissió Europea, que podria acabar en una multa milionària",
+      "url": "https://www.3cat.cat/3catinfo/la-ue-adverteix-tiktok-perque-lalgoritme-que-recomana-videos-retroalimenta-el-malestar-psicologic/noticia/3438262/",
+      "published": "2026-11-06T12:49:12+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/7/1743614967971.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -166,7 +361,7 @@
     {
       "source": "ARA",
       "title": "El jutge rebutja imputar Zapatero per malversació per les joies de l'Aràbia Saudita",
-      "excerpt": "Respir per a José Luis Rodríguez Zapatero a l'Audiència Nacional. El jutge que està investigant el cas Plus Ultra ha rebutjat investigar-lo també per malversació per les joies que li va regalar el rei de l'Aràbia Saudita el 2007. Va ser una petició que va formular la Fiscalia Anticorrupció i que ell va respondre al·legant que eren un obsequi \"estrictament personal\". Per descartar-ho, José Luis Calama argumenta que la llei que \"va establir expressament\" que els alts càrrecs no podrien acceptar regals que \"excedeixin dels…",
+      "excerpt": "Respir per a José Luis Rodríguez Zapatero a l'Audiència Nacional. El jutge que està investigant el cas Plus Ultra ha rebutjat imputar-lo també per malversació –ho està per delicte fiscal i contraban– per les joies que li va regalar el rei de l'Aràbia Saudita el 2007. Va ser una petició que va formular la Fiscalia Anticorrupció i que l'expresident espanyol va rebatre al·legant que les peces eren un obsequi “estrictament personal”. El magistrat José Luis Calama argumenta que la llei que “va establir expressament” que…",
       "url": "https://www.ara.cat/politica/jutge-rebutja-imputar-zapatero-malversacio-joies-l-arabia-saudita_1_5902092.html",
       "published": "2026-11-06T12:32:45+01:00",
       "category": "Actualitat",
@@ -185,8 +380,8 @@
     },
     {
       "source": "ARA",
-      "title": "Totes les bicicletes del Bicing seran elèctriques l'estiu que ve",
-      "excerpt": "A partir de l'estiu del 2027 totes les bicicletes del Bicing seran elèctriques. Aquest és l'objectiu del pla d'acció que té en marxa l'Ajuntament de Barcelona, tal com ha avançat El País i ha confirmat l'ARA. Segons aquest pla de millora, les 3.000 bicicletes mecàniques que encara té el servei de bicis barceloní s'aniran substituint per bicis elèctriques durant el primer semestre de l'any vinent. Per altra banda, també es preveu afegir 400 bicicletes de reserva a la flota per tal de millorar la capacitat…",
+      "title": "Totes les bicicletes del Bicing de Barcelona seran elèctriques l'estiu que ve",
+      "excerpt": "A partir de l'estiu del 2027 totes les bicicletes del Bicing seran elèctriques. Aquest és l'objectiu del pla d'acció que té en marxa l'Ajuntament de Barcelona, tal com ha avançat El País i ha confirmat l'ARA. Segons aquest pla de millora, les 3.000 bicicletes mecàniques que encara té el servei de bicis barceloní s'aniran substituint per bicis elèctriques durant el primer semestre de l'any vinent. Per altra banda, també es preveu afegir 400 bicicletes de reserva a la flota per millorar la capacitat de resposta…",
       "url": "https://www.ara.cat/societat/barcelona/totes-bicicletes-bicing-seran-electriques-l-estiu-ve_1_5902054.html",
       "published": "2026-11-06T12:20:05+01:00",
       "category": "Actualitat",
@@ -267,6 +462,16 @@
       "source": "betevé",
       "title": "Paraules a la vista: carquinyoli",
       "excerpt": "A ‘Paraules a la vista’ visitem l’Escola Badalona Port per posar a prova la curiositat i el vocabulari dels nens i nenes. Aquesta vegada els plantegem un repte ben llaminer: què vol dir “carquinyoli“? Descobrim les seves hipòtesis, les respostes més imaginatives i, finalment, el significat real d’aquesta paraula tan nostra.",
+      "url": "https://beteve.cat/catakrac/paraules-a-la-vista-carquinyoli/",
+      "published": "2026-11-06T11:36:41+01:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/paraules-carquinyoli-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Paraules a la vista: carquinyoli",
+      "excerpt": "A ‘Paraules a la vista’ visitem l’Escola Badalona Port per posar a prova la curiositat i el vocabulari dels nens i nenes. Aquesta vegada els plantegem un repte ben llaminer: què vol dir “carquinyoli“? Descobrim les seves hipòtesis, les respostes més imaginatives i, finalment, el significat real d’aquesta paraula tan nostra.",
       "url": "https://beteve.cat/nens-i-nenes/paraules-a-la-vista-carquinyoli/",
       "published": "2026-11-06T11:36:41+01:00",
       "category": "nens i nenes",
@@ -335,7 +540,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Nogueras, disposada a negociar amb el PSOE després del 29-N si posa l’agenda catalana al centre",
+      "title": "Nogueras avisa el PSOE que només negociarà amb l’agenda catalana: “Si volen els nostres vots, ja saben què hi ha”",
       "excerpt": "La candidata de Junts descarta qualsevol acord amb el PP, que qualifica de “partit catalanòfob”, i critica Sánchez perquè considera que no compleix els acords",
       "url": "https://www.vilaweb.cat/noticies/nogueras-sobre-a-negociar-amb-el-psoe-despres-del-29-n-si-posa-lagenda-catalana-al-centre/",
       "published": "2026-11-06T11:27:40+01:00",
@@ -371,16 +576,6 @@
       "published": "2026-11-06T11:14:49+01:00",
       "category": "nens i nenes",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/11/cargols-sabies-que-ia-2026-11-06.jpg",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
-      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
-      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
-      "published": "2026-11-06T11:10:49+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -421,7 +616,12 @@
       "published": "2026-11-06T10:50:38+01:00",
       "category": "Espanya",
       "image": null,
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6411168/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/detinguts-12-membres-del-grup-ultra-nucleo-nacional-en-una-operacio-policial-en-set-provincies/noticia/3438298/"
+      }
     },
     {
       "source": "ARA",
@@ -436,7 +636,7 @@
     {
       "source": "ARA",
       "title": "L'economia catalana creix més que l'espanyola i l'europea durant el tercer trimestre",
-      "excerpt": "L'economia catalana va créixer un 2,9% interanual el tercer trimestre d'aquest any, segons l'Institut d'Estadística de Catalunya (Idescat). Es tracta, d'acord amb les dades avançades per l'organisme aquest divendres, d'un alentiment lleuger del creixement respecte del segon trimestre, quan el producte interior brut (PIB) català es va expandir un 3% any a any. Si es compara amb el període entre l'abril i el juny, l'expansió econòmica va ser del 0,7%.",
+      "excerpt": "L'economia catalana va créixer un 2,9% interanual el tercer trimestre d'aquest any, segons l'Institut d'Estadística de Catalunya (Idescat). Es tracta, d'acord amb les dades avançades per l'organisme aquest divendres, d'un alentiment lleuger del creixement respecte al segon trimestre, quan el producte interior brut (PIB) català es va expandir un 3% cada any. Si es compara amb el període entre l'abril i el juny, l'expansió econòmica va ser del 0,7%.",
       "url": "https://www.ara.cat/economia/macroeconomia/l-economia-catalana-creix-2-9-durant-tercer-trimestre_1_5901912.html",
       "published": "2026-11-06T10:41:05+01:00",
       "category": "Actualitat",
