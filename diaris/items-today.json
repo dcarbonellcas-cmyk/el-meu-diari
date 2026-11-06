@@ -2,12 +2,32 @@
   "date": "2026-11-06",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "La fiscalia europea investiga un possible frau amb fons de la UE destinats a la seguretat de la línia Madrid-Sevilla",
+      "excerpt": "La investigació afecta les obres de renovació dels sistemes de seguretat, senyalització i comunicacions de la línia on hi va haver l’accident d’Urda",
+      "url": "https://www.vilaweb.cat/noticies/fiscalia-europea-investiga-frau-fons-ue-seguretat-linia-madrid-sevilla/",
+      "published": "2026-11-06T10:26:27+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Els suplents d’una mesa electoral cobren per les eleccions espanyoles 2026 el 29 de novembre?",
+      "excerpt": "Els vocals i els presidents d’una mesa electoral reben sempre una quantitat econòmica per la seva tasca durant la jornada dels comicis. El 29-N, amb motiu de les eleccions espanyoles 2026, els membres de la mesa cobraran un total de 70 euros. Però, i els suplents? Cobren pel 29-N? En quins casos? Els 70 € […]",
+      "url": "https://beteve.cat/politica/suplents-mesa-electoral-cobren/",
+      "published": "2026-11-06T10:24:00+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/02/mesa-electoral-100221.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió del cap de setmana: pas de núvols, però gairebé sense pluja",
       "excerpt": "Temperatura típica de tardor, però amb tendència a pujar a partir de diumenge",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/",
       "published": "2026-11-06T09:32:42+01:00",
-      "updated": "2026-11-06T09:48:46+01:00",
+      "updated": "2026-11-06T10:10:06+01:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/3/9/1793951187393.jpg",
       "video": {
@@ -54,13 +74,153 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
+      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-11-06T11:05:45+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La samarreta màgica del mag Stigman",
+      "excerpt": "El Mag Stigman visita els nens i nenes de cinquè de l’Escola Joan Roca de Barcelona per compartir amb ells un joc de màgia sorprenent. Un infant tria una carta lliurement d’una baralla de pòquer i, de manera completament inesperada, la mateixa carta apareix impresa a la samarreta del mag, decorada amb el logotip del […]",
+      "url": "https://beteve.cat/catakrac/samarreta-magica-mag-stigman/",
+      "published": "2026-11-06T11:02:38+01:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/magia-stigman-samarreta-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Bon dia Barcelona",
+      "excerpt": "Comença el dia amb una entrevista d’actualitat i una tertúlia 100% barcelonina. El dia a dia de la ciutat analitzat per un ampli espectre de tertulians periodistes, historiadors i experts en diferents àmbits. Presentat per Dani Clavera.",
+      "url": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-171/",
+      "published": "2026-11-06T10:59:53+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Missió tauró: investiguem els reis del mar",
+      "excerpt": "Els nens i nenes de tercer de primària de l’Escola Vedruna Terrassa visiten L’Aquàrium de Barcelona per descobrir el fascinant món dels taurons. Durant aquesta experiència, observen diferents espècies marines, aprenen com respiren i es desplacen els peixos i coneixen les característiques que fan dels taurons uns animals únics. A través d’una divertida investigació sobre […]",
+      "url": "https://beteve.cat/catakrac/aquarium-taurons-especies-marines/",
+      "published": "2026-11-06T10:51:37+01:00",
+      "category": "nens i nenes",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/tauro-aquarium-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La policia espanyola escorcolla la seu del grup neonazi Núcleo Nacional i fa unes quantes detencions",
+      "excerpt": "L’operació investiga les agressions denunciades per estudiants arran d’una concentració de l’organització neonazi a Xixon",
+      "url": "https://www.vilaweb.cat/noticies/policia-espanyola-escorcolla-seu-grup-neonazi-nucleo-nacional/",
+      "published": "2026-11-06T10:50:38+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El ministeri d'Agricultura activa per primer cop la retirada d'oli per evitar que el preu s'enfonsi",
+      "excerpt": "El ministeri d'Agricultura activa per primer cop la retirada d'una part de la producció d'oli per evitar que el preu s'enfonsi. En concret, el departament que dirigeix Luis Planas ha formalitzat aquest divendres la retirada d'una part de la producció d'oli d'oliva per un excés d'oferta i intentar, així, que els preus s'estabilitzin. El mecanisme dibuixat per l'executiu central suposa retirar del mercat 188.000 tones d'oli d'oliva (el 12% de la producció prevista en aquesta campanya, més les existències).",
+      "url": "https://www.ara.cat/economia/ministeri-d-agricultura-activa-cop-retirada-d-oli-evitar-preu-s-enfonsi_1_5901900.html",
+      "published": "2026-11-06T10:47:06+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5de672b4-ed4b-4404-bf40-b314fcf9e397_16-9-aspect-ratio_default_0_x3097y1809.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'economia catalana creix un 2,9% durant el tercer trimestre",
+      "excerpt": "L'economia catalana va créixer un 2,9% interanual el tercer trimestre del curs, segons l'Institut d'Estadística de Catalunya (Idescat). Es tracta, d'acord amb les dades avançades per l'organisme aquest divendres, d'un alentiment lleuger del creixement respecte del segon trimestre, quan el producte interior brut (PIB) català es va expandir un 3% any a any. Si es compara amb el període entre l'abril i el juny, l'expansió econòmica va ser del 0,7%.",
+      "url": "https://www.ara.cat/economia/macroeconomia/l-economia-catalana-creix-2-9-durant-tercer-trimestre_1_5901912.html",
+      "published": "2026-11-06T10:41:05+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a567cce4-34e8-443f-bd85-49754a389577_16-9-aspect-ratio_default_1017665.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "‘Episòdic’, una iniciativa per acostar el món audiovisual a nous talents: “Ens obrirà moltes portes”",
+      "excerpt": "La iniciativa d’Episòdic, impulsada per betevé, en col·laboració amb el festival Serielizados, la Regidoria de Cultura i Indústries Creatives i l’ICUB, és una oportunitat per acostar el món professional a les noves generacions de creadors audiovisuals. Aquesta primera temporada, que s’estrenarà aquest diumenge a betevé, porta a la televisió El principi d’Arquimedes, l’adaptació televisiva de […]",
+      "url": "https://beteve.cat/cultura/episodic-iniciativa-acostar-mon-audiovisual-nous-talents-obrira-portes/",
+      "published": "2026-11-06T10:40:16+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/equip-episodic-principi-arquimedes-2026-11-04.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La Fiscalia Europea investiga un possible frau en obres a l'alta velocitat després de l'accident d'Urda",
+      "excerpt": "El març passat ja ho va fer amb l'accident d'Adamuz, i ara hi torna. La Fiscalia Europea ha obert una altra investigació, la segona, per aclarir un possible frau en els diners destinats al manteniment de la línia d'alta velocitat Madrid-Sevilla, que acumula dos accidents en menys d'un any: al gener a Adamuz, amb 46 víctimes mortals, i fa menys de deu a Urda, amb 69 morts.",
+      "url": "https://www.ara.cat/societat/mobilitat/fiscalia-europea-investiga-possible-frau-obres-l-alta-velocitat-despres-l-accident-d-urda_1_5901915.html",
+      "published": "2026-11-06T10:32:40+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/23c515df-dde8-4b56-8243-48b01877b155_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "“Mai he volgut distanciar-me del meu pare”",
+      "excerpt": "Ser fill d’una estrella del cinema té avantatges evidents, no cal dir-ho, però també riscos, com posa de manifest l’extensa llista de joguines trencades que hi ha en les famílies de Hollywood. A Kyle Eastwood, en canvi, se’l veu còmode amb el cognom i amb la seva carrera de gairebé tres dècades com a contrabaixista de jazz. Tan còmode que aquest dimarts, en el marc del Festival de Jazz de Barcelona, homenatjarà la trajectòria del seu pare amb un concert a la sala Paral·lel 62…",
+      "url": "https://www.ara.cat/cultura/musica/kyle-eastwood-mai-he-volgut-distanciar-pare_128_5901821.html",
+      "published": "2026-11-06T10:31:03+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c291a646-1409-4616-8ad4-e6263b564c53_source-aspect-ratio_default_0_x657y403.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Festa Major de la Sagrera 2026: Programa i dates de les activitats",
+      "excerpt": "A la tardor arriba la Festa Major de la Sagrera 2026, amb la cultura popular com a gran protagonista. Se celebrarà del 12 al 22 de novembre. El programa de les festes estarà marcat per les actuacions de gegants, sardanes, balls de bastons, focs i activitats de tots tipus per a gran i petits! Durant […]",
+      "url": "https://beteve.cat/agenda/festa-major-sagrera-programa/",
+      "published": "2026-11-06T10:30:03+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/festa-major-sagrera-2026-cartell-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Planeta compra Tintín",
+      "excerpt": "Més moviments de pes cap a la concentració empresarial en el món editorial. El Grup Planeta ha anunciat la incorporació de la històrica editorial barcelonina Joventut, un referent en el còmic i la literatura infantil i juvenil des del 1923, que té al seu catàleg clàssics com Les aventures de Tintín, El Club dels Cinc i Pippi Calcesllargues . Com diria el Capità Haddock: \"Llamp de rellamp!\".",
+      "url": "https://llegim.ara.cat/actualitat/planeta-compra-tintin_1_5901902.html",
+      "published": "2026-11-06T10:23:20+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/65d4891b-3eaf-402d-aacb-091acb7e6180_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Un robatori de cable entre l’Ametlla de Mar i Vandellòs causa retards als trens entre Castelló i Tarragona",
+      "excerpt": "ADIF treballa per substituir el material sostret i alguns combois acumulen demores de més de mitja hora",
+      "url": "https://www.vilaweb.cat/noticies/un-robatori-de-cable-entre-lametlla-de-mar-i-vandellos-causa-retards-als-trens-entre-castello-i-tarragona/",
+      "published": "2026-11-06T10:18:48+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La incertesa sobre la IA impacta en les borses després de les midterm dels EUA",
+      "excerpt": "La caiguda a Wall Street dijous ha arrossegat els mercats asiàtics i Europa ja obre lleugerament a la baixa",
+      "url": "https://www.3cat.cat/3catinfo/la-incertesa-sobre-la-ia-impacta-en-les-borses-despres-de-les-midterm-dels-eua/noticia/3438248/",
+      "published": "2026-11-06T09:55:26+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/8/1793951945187.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "La casa on Macià va preparar l'alliberament de Catalunya fa cent anys obre com a espai cultural",
       "excerpt": "La Vil·la Denise, una casa senyorial de 240 m 2 a Prats de Molló (Vallespir), comença aquest diumenge una nova vida. L'immoble on el novembre del 1926, ara fa cent anys, Francesc Macià es va instal·lar per dirigir l'alliberament de Catalunya en plena dictadura de Primo de Rivera, obre les portes com a Casa Macià, amb una proposta museogràfica i diferents espais per a activitats culturals.",
       "url": "https://www.ara.cat/cultura/casa-macia-preparar-l-alliberament-catalunya-cent-anys-obre-espai-cultural_1_5900988.html",
       "published": "2026-11-06T09:49:30+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/c7fc06c0-8490-4df8-932e-5f2cdc4a9322_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/4ddae813-f94d-4aa2-9af3-230253d0c8ed_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -106,7 +266,7 @@
     {
       "source": "VilaWeb",
       "title": "El fum de la frenada d’un tren de Rodalia obliga a desallotjar l’estació de Passeig de Gràcia",
-      "excerpt": "Uns quants usuaris de Rodalia han lamentat que durant l'incident no han rebut cap mena d'informació i se n'han queixat a les xarxes",
+      "excerpt": "Uns quants usuaris de Rodalia han lamentat que durant l'incident no havien rebut cap mena d'informació i se n'han queixat a les xarxes",
       "url": "https://www.vilaweb.cat/noticies/fum-frenada-tren-rodalia-desallotjar-estacio-passeig-gracia/",
       "published": "2026-11-06T08:58:38+01:00",
       "category": "Societat",
@@ -135,12 +295,12 @@
     },
     {
       "source": "betevé",
-      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
-      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
-      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-11-06T08:38:35+01:00",
-      "category": "Agenda de Barcelona",
-      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "title": "Sortegem dos paquets d’entrades familiars per anar a Els Llums de Sant Pau 2026",
+      "excerpt": "Els Llums de Sant Pau ja s’han convertit en una cita imperdible de Nadal a Barcelona. Enguany, el Recinte Modernista s’il·luminarà ambientat en el conte El Petit Príncep, d’Antoine de Saint-Exupéry. Vols viure aquesta experiència en família? Sortegem dos paquets de quatre entrades per visitar Els Llums de Sant Pau 2026. Què has de fer? […]",
+      "url": "https://beteve.cat/cultura/sorteig-entrades-llums-sant-pau-2026/",
+      "published": "2026-11-06T08:28:06+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/Llums_sant_pau_2026-2026-11-05.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -271,7 +431,7 @@
     {
       "source": "ARA",
       "title": "La il·lusió de vendre un quadre a qui se n’ha enamorat",
-      "excerpt": "El carrer de Consell de Cent, sobretot al tram comprès entre passeig de Gràcia i Balmes, ja fa molts anys que té una fabulosa distinció: l’art. Poca broma. I encara avui resisteix aquesta personalitat. Encara resisteixen unes quantes galeries d’art, la Mayoral, la Joan Gaspar, la Toni Tàpies... En van tancar algunes d’històriques, com la Prats, la Dalmau i la René Metràs. Ens fixem en la Jordi Barnadas, a tocar de passeig de Gràcia, un indret privilegiat, que ja fa quaranta anys que l’acull. El…",
+      "excerpt": "El carrer Consell de Cent, sobretot al tram comprès entre el passeig de Gràcia i el carrer Balmes, ja fa molts anys que té una fabulosa distinció: l’art. Poca broma. I aquesta personalitat resisteix encara avui gràcies a unes quantes galeries d’art: la Mayoral, la Joan Gaspar, la Toni Tàpies... En van tancar algunes d’històriques, com la Prats, la Dalmau i la René Metràs. Ens fixem en la Jordi Barnadas, a tocar del passeig de Gràcia, un indret privilegiat que ja fa quaranta anys que…",
       "url": "https://empreses.ara.cat/empreses/il-lusio-vendre-quadre-n-enamorat_1_5901243.html",
       "published": "2026-11-06T07:00:47+01:00",
       "category": "Actualitat",
@@ -330,7 +490,7 @@
     },
     {
       "source": "ARA",
-      "title": "Els secrets del bar La Plata i del Pepe, el cambrer més fidel de Barcelona",
+      "title": "El cambrer del Gòtic que porta 54 anys al mateix bar i no es vol jubilar per seguir servint peixet fregit",
       "excerpt": "El 12 d’octubre del 1972 un marrec de 15 anys amb els ulls molt vius entrava al bar La Plata per demanar feina. Mig segle més tard el Pepe segueix darrere la barra d’aquest local del Gòtic, on tothom el coneix. \"Com més dono, més tinc\", deixa anar. La frase la va aprendre del Pepito, el fundador de la bodega. \"Millor fer quatre coses ben fetes que fer-ne moltes malament\", afegeix. La frase tampoc és seva, la deia sempre la Quimeta, la dona del Pepito.…",
       "url": "https://mengem.ara.cat/mengem/secrets-bar-plata-pepe-cambrer-mes-fidel-barcelona_130_5898628.html",
       "published": "2026-11-06T07:00:44+01:00",
