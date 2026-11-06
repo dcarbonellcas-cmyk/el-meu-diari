@@ -2,9 +2,19 @@
   "date": "2026-11-06",
   "items": [
     {
+      "source": "ARA",
+      "title": "Vinc d'un país en guerra: el 29-N voteu amb consciència",
+      "excerpt": "Vaig créixer en un país on la guerra ha marcat generacions senceres. Un país on moltes decisions s'han pres lluny de les persones que n'han patit les conseqüències. Potser per això, quan penso en la democràcia, penso en la responsabilitat que tenim, uns envers els altres, i en el valor de poder decidir el nostre futur sense recórrer a la violència.",
+      "url": "https://www.ara.cat/opinio/vinc-d-pais-guerra-29-n-voteu-consciencia_129_5894895.html",
+      "published": "2026-11-06T17:58:51+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8bf815b3-1748-4226-b412-5bf1c5809531_16-9-aspect-ratio_default_0_x2377y705.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
-      "title": "Interrompuda la R4 entre Martorell i Sant Sadurní d’Anoia per un incendi en una locomotora",
-      "excerpt": "RENFE gestiona un servei alternatiu per carretera en el tram afectat",
+      "title": "Restablerta la R4 entre Martorell i Sant Sadurní una vegada resolta l’incendi en una locomotora",
+      "excerpt": "Renfe ha gestionat un servei alternatiu per carretera en el tram afectat mentre ha durat la incidència",
       "url": "https://www.vilaweb.cat/noticies/interrompuda-martorell-i-sant-sadurni-anoia-incendi-locomotora/",
       "published": "2026-11-06T14:42:41+01:00",
       "category": "Societat",
@@ -39,6 +49,16 @@
       "published": "2026-11-06T16:33:28+01:00",
       "category": "societat",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/11/mani-alternativa-11N-061126-2026-11-06.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El govern admet que calen 800 busos interurbans i mil conductors més perquè ningú viatgi dret",
+      "excerpt": "Plataformes d'usuaris del transport públic del Maresme han aconseguit el compromís del Parlament per buscar solucions a fi de millorar la xarxa d'autobusos",
+      "url": "https://www.3cat.cat/3catinfo/el-govern-admet-que-calen-800-busos-interurbans-i-mil-conductors-mes-perque-ningu-viatgi-dret/noticia/3438249/",
+      "published": "2026-11-06T15:59:42+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/7/1793954862477.jpeg",
       "priority": "2 · Important"
     },
     {
@@ -194,9 +214,154 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Parlar, llegir, escriure, pensar",
+      "excerpt": "Ha arribat el temps en què cadascú haurà de decidir, a l'ombra de la IA, si vol continuar sent humà?",
+      "url": "https://www.ara.cat/opinio/parlar-llegir-escriure-pensar_129_5901208.html",
+      "published": "2026-11-06T17:52:17+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/98e624fe-7a4f-435d-858a-5c41b6d717db_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Jo vull ser com Donald Trump",
+      "excerpt": "Trump és el responsable de tot però mai no té la culpa de res. Quina enveja. Si alguna cosa surt malament, com és el cas del resultat d’aquestes eleccions que hem seguit més que els mateixos estatunidencs, no és per la seva voluntat d’enriquir-se aprofitant la presidència; ni per les seves polítiques migratòries que la policia executa sense immutar-se; ni per la relació amb Jeffrey Epstein; ni pel seu masclisme permanent; ni per retallar els pocs serveis públics que hi ha als EUA; ni per…",
+      "url": "https://www.ara.cat/opinio/vull-donald-trump_129_5901290.html",
+      "published": "2026-11-06T17:48:09+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/eac8c727-d1de-4a2f-8e68-ec7d1921f2b9_16-9-aspect-ratio_default_0_x1970y1973.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Mediterrani comença amb victòria la fase prèvia de la Conference Cup femenina",
+      "excerpt": "El Club Esportiu Mediterrani torna a jugar competicions europees aquesta temporada. Després d’unes temporades renunciant-hi, el club de Sants torna a disputar partits continentals. El conjunt de Marian Díaz inicia aquesta etapa disputant la fase preliminar de la Conference Cup, la tercera competició del waterpolo per equips. El Medi ha quedat enquadrat en el grup […]",
+      "url": "https://beteve.cat/esports/mediterrani-conference-cup-waterpolo-26/",
+      "published": "2026-11-06T17:35:34+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/mediterrani-cami-conference-femenina-2026-09-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Barça fitxa Joaquim Forn per reforçar la governança del club",
+      "excerpt": "El qui fou conseller d’Interior el 2017 serà el nou responsable de governança corporativa, amb l’encàrrec de vetllar perquè les decisions s’ajustin als objectius de la junta directiva",
+      "url": "https://www.vilaweb.cat/noticies/el-barca-fitxa-joaquim-forn-per-reforcar-la-governanca-del-club/",
+      "published": "2026-11-06T17:31:27+01:00",
+      "category": "Esports",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Cap de setmana sota els efectes indirectes de la borrasca ‘Bruna’",
+      "excerpt": "El sol i la calma absoluta d’aquest divendres no tindran gaire continuïtat els pròxims dies. A partir d’aquest cap de setmana estarem sota els efectes indirectes de la gran borrasca atlàntica Bruna , que portarà molta pluja a l’oest de la península. A casa nostra, però, ben poca aigua s’espera de moment. Tindrem un dissabte i un diumenge amb un cel més canviant per la presència de força intervals de núvols. Però més enllà d’alguna gotellada o ruixat molt feble, local i passatger, no s’espera…",
+      "url": "https://www.ara.cat/previsions/cap-setmana-efectes-indirectes-borrasca-bruna_1_5902257.html",
+      "published": "2026-11-06T17:30:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f8b0af48-2237-41de-866d-a45ebab7b36a_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Les obres que ningú vol fer: més de 200 contractes sense adjudicar el primer trimestre de l'any",
+      "excerpt": "Els constructors en culpen les baixes tarifes de materials i mà d'obra incloses a les licitacions",
+      "url": "https://www.3cat.cat/3catinfo/les-obres-que-ningu-vol-fer-mes-de-200-contractes-sense-adjudicar-el-primer-trimestre-de-lany/noticia/3437322/",
+      "published": "2026-11-06T17:23:31+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/5/1793628856350.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434908/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/les-obres-que-ningu-vol-fer-mes-de-200-contractes-sense-adjudicar-el-primer-trimestre-de-lany/noticia/3437322/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Isabel Allende: \"Soc una persona eternament desplaçada, casa meva és als llibres\"",
+      "excerpt": "La guanyadora del Premi Planeta amb \"La hora antes del alba\", que ja és a les llibreries, té 84 anys i continua escrivint perquè l'apassiona i, diu, no sap fer res més",
+      "url": "https://www.3cat.cat/3catinfo/isabel-allende-soc-una-persona-eternament-desplacada-casa-meva-es-als-llibres/noticia/3438222/",
+      "published": "2026-11-06T17:22:54+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/8/1793908669388.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434736/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/isabel-allende-soc-una-persona-eternament-desplacada-casa-meva-es-als-llibres/noticia/3438222/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "Enamorar-se d'una IA i la sodomia il·legal",
+      "excerpt": "Converses desordenades sobre amor (en totes les seves formes), embolics i cultura pop amb l'analista cultural i comunicadora Estela Ortiz i la psicòloga i sexòloga Beti Badia.",
+      "url": "https://www.ara.cat/podcasts/embolicades/enamorar-d-ia-sodomia-il-legal_1_5902298.html",
+      "published": "2026-11-06T17:15:58+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a5c295f1-5b0f-4d15-b63a-cf98e0e69134_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Detenen a Florida el pare de Meghan Markle per possessió de pornografia infantil",
+      "excerpt": "Thomas Markle, de 82 anys, és investigat a les Filipines després que es trobés material d'abús sexual infantil al seu domicili",
+      "url": "https://www.3cat.cat/3catinfo/detenen-a-florida-el-pare-de-meghan-markle-per-possessio-de-pornografia-infantil/noticia/3438412/",
+      "published": "2026-11-06T17:13:27+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1793981534712.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El festival MIRA celebra 15 anys amb Arca, Max Cooper, Tortoise, Pinar Yoldas i Onionlab",
+      "excerpt": "L’artista de Veneçuela Arca és un dels principals reclams del festival MIRA, aquest divendres i dissabte a la Fira de Montjuïc. El certamen d’arts digitals i música electrònica arriba a la quinzena edició amb un cartell que inclou noms com Max Cooper, Pinar Yoldas i Onionlab. Més enllà dels discjòqueis i dels concerts, el programa […]",
+      "url": "https://beteve.cat/cultura/festival-mira-arca-max-cooper-tortoise/",
+      "published": "2026-11-06T17:11:46+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/festival-mira-20260611-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Retirada del 12% d'oli d'oliva: com afecta els productors catalans i com ho notarem els consumidors",
+      "excerpt": "Algunes denominacions d'origen protegit catalanes rebutgen la mesura, ja que creuen que no té en compte la realitat de cada territori",
+      "url": "https://www.3cat.cat/3catinfo/retirada-del-12-doli-doliva-com-afecta-els-productors-catalans-i-com-ho-notarem-els-consumidors/noticia/3438349/",
+      "published": "2026-11-06T17:08:18+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/9/1793981237197.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La justícia obliga Martorell a empadronar una veïna que està ocupant un pis des de fa anys",
+      "excerpt": "La dona no té contracte de lloguer, però la sentència del TSJC estableix que això no és un motiu per negar-li el padró",
+      "url": "https://www.3cat.cat/3catinfo/la-justicia-obliga-martorell-a-empadronar-una-veina-que-esta-ocupant-un-pis-des-de-fa-anys/noticia/3438264/",
+      "published": "2026-11-06T17:07:41+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/3/1696503364538.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434950/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-justicia-obliga-martorell-a-empadronar-una-veina-que-esta-ocupant-un-pis-des-de-fa-anys/noticia/3438264/"
+      }
+    },
+    {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1925/",
+      "published": "2026-11-06T16:58:20+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Cap de setmana amb augment dels núvols i dels termòmetres",
-      "excerpt": "La previsió del temps per a aquest dissabte, 7 de novembre, anuncia unclar repunt de la nuvolositat i un allunyament del fred més intens dels darrers dies. De fet, sembla que de cara a diumenge, els núvols i els plugims podran ser encara més protagonistes. Previsió horària per a Barcelona: Protagonisme pels núvols i un […]",
+      "excerpt": "La previsió del temps per a aquest dissabte, 7 de novembre, anuncia un clar repunt de la nuvolositat i un allunyament del fred més intens dels darrers dies. De fet, sembla que de cara a diumenge, els núvols i els plugims podran ser encara més protagonistes. Previsió horària per a Barcelona: Protagonisme pels núvols i […]",
       "url": "https://beteve.cat/medi-ambient/barcelona-dissabte-7-novembre-mes-nuvols/",
       "published": "2026-11-06T16:51:43+01:00",
       "category": "medi ambient",
@@ -216,7 +381,7 @@
     {
       "source": "ARA",
       "title": "El pare de Meghan Markle, detingut per pornografia infantil",
-      "excerpt": "Thomas Markle, pare de Meghan Markle, ha estat detingut a Florida per presumpta possessió de pornografia infantil, segons ha avançat la cadena CBS News. El mes passat va transcendir que Markle, de 82 anys, era investigat per les autoritats filipines per presumptament tenir material gràfic d'abusos infantils després que el seu fill, Thomas Markle Jr., el denunciés després de trobar uns arxius en un ordinador. La duquessa de Sussex fa temps que va trencar la relació amb el seu pare, una figura que sempre ha…",
+      "excerpt": "Thomas Markle, pare de Meghan Markle, ha estat detingut a Florida per presumpta possessió de pornografia infantil, segons ha avançat la cadena CBS News. El mes passat va transcendir que Markle, de 82 anys, era investigat per les autoritats filipines per presumptament tenir material gràfic d'abusos infantils després que el seu fill, Thomas Markle Jr., el denunciés per uns arxius que va trobar en un ordinador. La duquessa de Sussex fa anys que no té relació amb el seu pare, una figura que sempre ha…",
       "url": "https://www.ara.cat/gent/pare-meghan-markle-detingut-pornografia-infantil_1_5902289.html",
       "published": "2026-11-06T16:46:20+01:00",
       "category": "Actualitat",
@@ -231,6 +396,16 @@
       "published": "2026-11-06T16:17:34+01:00",
       "category": "consum",
       "image": "https://img.beteve.cat/wp-content/uploads/2026/11/acampada-placa-catalunya-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Albiol titlla de \"fracàs\" i d'\"antipàtica\" la política lingüística de la Generalitat",
+      "excerpt": "El líder del PP, Alberto Núñez Feijóo, ha anunciat que obrirà la campanya del 29N a Badalona al costat del cap de llista popular per Barcelona",
+      "url": "https://www.3cat.cat/3catinfo/albiol-titlla-de-fracas-i-dantipatica-la-politica-linguistica-de-la-generalitat/noticia/3438333/",
+      "published": "2026-11-06T16:01:32+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/5/1793960425759.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -255,7 +430,7 @@
     },
     {
       "source": "ARA",
-      "title": "Brussel·les alerta que l'algoritme de TikTok pot alimentar trastorns de salut mental",
+      "title": "Brussel·les amenaça de multar TikTok i l'acusa d'alimentar trastorns de salut mental",
       "excerpt": "Nova envestida de la UE contra TikTok. Brussel·les sospita que l'algoritme de la plataforma infringeix la llei de serveis digitals (DSA, per les sigles en anglès) perquè atrapa els usuaris en un pou sense fons del qual és molt complicat sortir-ne. Considera que el seu disseny de personalització del contingut arrossega els usuaris a una espiral de contingut nociu que pot perjudicar la seva salut mental i, fins i tot, fomentar trastorns de conducta alimentària. Per això, amenaça la companyia amb una multa milionària si…",
       "url": "https://www.ara.cat/economia/brussel-alerta-l-algoritme-tiktok-pot-alimentar-trastorns-salut-mental_1_5901942.html",
       "published": "2026-11-06T15:15:26+01:00",
@@ -354,6 +529,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "3CatInfo",
+      "title": "Troben 3.000 taràntules amagades en mitjons bruts en un aeroport del Perú",
+      "excerpt": "Les autoritats del Perú han detingut tres homes, que volien agafar un vol cap a Alemanya per portar-les a una fira dedicada a aquesta espècie",
+      "url": "https://www.3cat.cat/3catinfo/troben-3000-tarantules-amagades-en-mitjons-bruts-en-un-aeroport-del-peru/noticia/3438300/",
+      "published": "2026-11-06T14:07:05+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/1/1793965452613.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Arriba el solstici d’hivern: tot allò que ens cal saber",
       "excerpt": "El solstici d’hivern correspon al moment en el qual el Sol assoleix la menor altura aparent al cel i coincideix amb el dia més curt de tot l’any. L’hivern del 2026-27 començarà dilluns 21 de desembre a les 21.50 h i durarà 88 dies i 23 hores, i acabarà el 20 de març de 2027, amb l’inici de la primavera. Quina és la […]",
@@ -425,7 +610,7 @@
     },
     {
       "source": "ARA",
-      "title": "Feijóo tria Catalunya i Albiol per l'inici de la campanya del 29-N",
+      "title": "Albiol vol conèixer Sílvia Orriols",
       "excerpt": "El PP té coll avall que el resultat que obtingui a Catalunya el 29-N pot ser determinant. Ja és el que va passar en les eleccions de fa tres anys i mig quan la suma dels d'Alberto Núñez Feijóo amb Vox al Congrés es va quedar a només quatre escons de la majoria absoluta. El 2023 els populars van tenir a tocar l'obtenció d'un diputat més tant a Girona com a Lleida. I de cara als comicis del 29 de novembre, l'equip de campanya del…",
       "url": "https://www.ara.cat/politica/feijoo-tria-catalunya-albiol-l-inici-campanya-29-n_1_5902113.html",
       "published": "2026-11-06T13:47:15+01:00",
@@ -850,7 +1035,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Detinguts dotze membres de Núcleo Nacional en una operació contra el grup neonazi",
+      "title": "Detinguts catorze membres de Núcleo Nacional en una operació contra el grup neonazi",
       "excerpt": "En l’operació s'investiguen les agressions denunciades per estudiants arran d’una concentració de l’organització neonazi a Xixon",
       "url": "https://www.vilaweb.cat/noticies/policia-espanyola-escorcolla-seu-grup-neonazi-nucleo-nacional/",
       "published": "2026-11-06T10:50:38+01:00",
