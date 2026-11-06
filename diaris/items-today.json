@@ -42,6 +42,36 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "Barcelona no posarà il·luminació de Nadal a la plaça de Catalunya per l’acampada per l’habitatge",
+      "excerpt": "Els comerciants reclamen de desmantellar l’acampada després de la vaga de l’11 de novembre i reconsiderar la decisió",
+      "url": "https://www.vilaweb.cat/noticies/barcelona-nadal-placa-catalunya-acampada-habitatge/",
+      "published": "2026-11-06T19:23:53+01:00",
+      "category": "Barcelona",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El govern d’Andorra sosté que impedirà que el Sindicat de l’Habitatge talli la frontera",
+      "excerpt": "El sindicat no descarta de fer el blocatge a l’Alt Urgell, amb el suport de col·lectius de la Seu d’Urgell, si el govern andorrà li impedeix de fer-lo al pas fronterer",
+      "url": "https://www.vilaweb.cat/noticies/el-govern-dandorra-soste-que-no-permetra-que-el-sindicat-de-lhabitatge-talli-la-frontera/",
+      "published": "2026-11-06T19:05:10+01:00",
+      "category": "Andorra",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Detingut un menor vinculat a Blocus que hauria promogut i coordinat els aldarulls a Barcelona",
+      "excerpt": "Els Mossos d’Esquadra han detingut un menor d’edat com a presumpte autor d’un delicte de pertinença a banda criminal i també per desordres públics. Se’l considera difusor i coordinador de la convocatòria de Blocus del 24 d’octubre, en què hi va haver més d’un centenar detinguts per greus aldarulls i saquejos al centre de Barcelona. […]",
+      "url": "https://beteve.cat/societat/detingut-menor-coordinacio-difusio-blocus-aldarulls-barcelona/",
+      "published": "2026-11-06T18:33:11+01:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/destrosses-botiges-aldarulls-1-2026-10-25.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
       "title": "Quins seran els serveis mínims per a la vaga de Rodalies dels dies 10 i 12 de novembre?",
       "excerpt": "El govern català ha decretat uns serveis mínims del 33 % a Rodalies i regionals per a la vaga de maquinistes del 10 i el 12 de novembre convocada pels sindicats SEMAF i ALFERRO. En hora punta —de 6 a 9.30 h, i de 17 a 20.30 h— es garantirà el 66 % del servei […]",
@@ -224,9 +254,79 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Per què hi ha un 'corralito' al Paraguai?",
+      "excerpt": "Els 2,9 milions de clients de Ueno Bank, una de les entitats financeres més populars del Paraguai, viuen la incertesa d'un corralito que els ha bloquejat els estalvis i les pensions. La caiguda del banc ha provocat alhora un terratrèmol al govern del país donats els vincles empresarials del president Santiago Peña, que ha dimitit, amb el banc. Aquests lligams han generat un judici polític contra el mandatari d'ultradreta, amic i aliat del líder de Vox a Espanya, Santiago Abascal. També ha generat polèmica un…",
+      "url": "https://www.ara.cat/economia/hi-corralito-paraguai_1_5902442.html",
+      "published": "2026-11-06T19:59:30+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4a72c350-c33d-455f-a922-4d2f43c3e2e4_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Caiguda brutal de la licitació d’obra pública de l’estat",
+      "excerpt": "A Catalunya, el volum licitat per l'administració espanyola el tercer trimestre ha caigut d’un 64% · Rodalia i carreteres s'enduen la pitjor part · Malgrat tot, el creixement del PIB català en aquest període ha estat bo, del 2,9% anual, superior al del conjunt estatal",
+      "url": "https://www.vilaweb.cat/noticies/brutal-caiguda-de-la-licitacio-dobra-publica-de-lestat/",
+      "published": "2026-11-06T19:50:47+01:00",
+      "category": "La píndola",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A qui li importen les prostitutes?",
+      "excerpt": "“És que a qui li importen les prostitutes? A qui li importa una trama d’una cosa així?” Aquestes preguntes les formulava de manera retòrica l’actriu Laia Marull en una entrevista que l’Alejandra Palés li feia fa unes setmanes per a aquest diari. Parlaven de la sèrie El castillo , de Movistar +, on Marull interpreta una policia que participa en la investigació de l’entramat criminal i econòmic d’una xarxa de macroprostíbuls de finals dels noranta. Marull feia aquesta reflexió al voltant de la duresa de…",
+      "url": "https://www.ara.cat/media/series/li-importen-prostitutes_129_5902453.html",
+      "published": "2026-11-06T19:50:41+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/420951ff-f189-4a14-b120-f61923a8fb35_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Com una casa",
+      "excerpt": "Sempre que es convoca una vaga general, un mira enrere per poder seguir fitant endavant. La vida en comú –i la de cadascú– relliga i s’entrellaça amb les vagues generals que hem viscut. La primera que recordo, mirall retrovisor d’infant absort, és amb l’avi Saturnino –empresonat en la immediata postguerra durant anys i passant de les vagues contra la dictadura a les aturades dels anys vuitanta per una democràcia econòmica i social que no arribava mai i que encara no coneixem–. Aquell 14-D del 1988…",
+      "url": "https://www.ara.cat/opinio/casa_129_5902451.html",
+      "published": "2026-11-06T19:43:17+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/dc8df86a-d59f-4d34-9680-ff21d61d5208_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La Nit de les Lletres Catalanes s’inspirarà en els elements de la nit i repartirà un total de 192.000 euros",
+      "excerpt": "Incorpora dos nous premis i augmenta la dotació de quatre guardons",
+      "url": "https://www.vilaweb.cat/noticies/nit-lletres-catalanes-elements-nit/",
+      "published": "2026-11-06T19:34:17+01:00",
+      "category": "Cultura",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "A la contra",
+      "excerpt": "",
+      "url": "https://www.ara.cat/vinyetes/ferreres-07-11-2026_134_5901349.html",
+      "published": "2026-11-06T19:05:11+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Santi Rodríguez",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/santi-rodriguez/",
+      "published": "2026-11-06T19:02:55+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Detenen un menor vinculat als canals de Blocus i relacionat amb els aldarulls del 24 d’octubre a Barcelona",
-      "excerpt": "El jove participava de forma activa en un canal de Tik Tok des d'on es van difondre altres convocatòries",
+      "excerpt": "El noi participava de manera activa en un canal de TikTok on es van difondre convocatòries",
       "url": "https://www.vilaweb.cat/noticies/detenen-un-menor-vinculat-als-canals-de-blocus-i-relacionat-amb-els-aldarulls-del-24-doctubre-a-barcelona/",
       "published": "2026-11-06T18:26:11+01:00",
       "category": "Policia i justícia",
@@ -271,12 +371,12 @@
       "published": "2026-11-06T18:10:07+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/1/1793972586011.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434964/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/reneix-la-historica-marca-de-saxofons-creada-per-francisca-montserrat-a-barcelona-fa-100-anys/noticia/3438366/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -645,8 +745,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Noves amenaces de bomba contra vols europeus i també a mitjans de comunicació d'Irlanda",
-      "excerpt": "Albares parla d'una \"agressió híbrida\" contra Europa perquè és la \"gran esperança\" de la democràcia",
+      "title": "Noves amenaces de bomba contra vols europeus i també mitjans de comunicació d'Irlanda",
+      "excerpt": "Han afectat aeroports d'una desena de països, inclòs el de Madrid-Barajas, i Albares ha parlat d'una \"agressió híbrida\" contra Europa",
       "url": "https://www.3cat.cat/3catinfo/noves-amenaces-de-bomba-contra-vols-europeus-i-tambe-a-mitjans-de-comunicacio-dirlanda/noticia/3438332/",
       "published": "2026-11-06T14:22:42+01:00",
       "category": "Actualitat",
@@ -790,7 +890,7 @@
       "url": "https://www.ara.cat/internacional/europa/tercer-dia-amenaces-bomba-diversos-avions-europa_1_5902086.html",
       "published": "2026-11-06T13:30:22+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/314b8113-da40-4c5f-8ce9-4a4939dc3f3d_source-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/e22b499d-55b8-406a-9396-4070337235c1_16-9-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
