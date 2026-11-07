@@ -13,6 +13,32 @@
     },
     {
       "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge:  temperatura en ascens, matí de sol i tarda de núvols",
+      "excerpt": "Encetem el camí cap a l'estiuet de Sant Martí",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/",
+      "published": "2026-11-07T09:49:31+01:00",
+      "updated": "2026-11-07T10:00:42+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/9/1794036234693.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435071/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "La seguretat de l’alta velocitat, en el punt de mira: “El manteniment no s’inaugura”",
+      "excerpt": "La crisi ferroviària desencadenada per l’accident d’Urda, a Toledo, només nou mesos després del d’Adamuz, ha fet trontollar la confiança en la seguretat i en la gestió de la xarxa d’alta velocitat espanyola. Mentre el neguit creix entre els usuaris, els experts reconeixen que els sinistres han posat en evidència dèficits importants en la gestió […]",
+      "url": "https://beteve.cat/mobilitat/seguretat-alta-velocitat-punt-de-mira-manteniment-no-inaugura/",
+      "published": "2026-11-07T09:42:46+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/08/tren-alta-velocitat-270825.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
       "title": "La previsió del dissabte: pas de núvols, però gairebé sense pluja",
       "excerpt": "Temperatura típica de tardor, però amb tendència a pujar a partir de diumenge",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-del-dissabte-7-de-novembre-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/",
@@ -65,12 +91,67 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Una incidència altera el servei d’unes quantes línies de Rodalia i Regionals Sud",
-      "excerpt": "Retards i serveis fora d’horari habitual a R1, R2, R2 Nord, R2 Sud, R4, Regionals Sud i R8",
+      "title": "València celebra els vint-i-cinc anys de la Viquipèdia en català amb la XIX Viquitrobada",
+      "excerpt": "La trobada reuneix aquest cap de setmana la comunitat viquipedista per a debatre sobre els biaixos de l'enciclopèdia, els reptes de la intel·ligència artificial i els nous projectes per impulsar el coneixement lliure en català",
+      "url": "https://www.vilaweb.cat/noticies/valencia-celebra-25-anys-viquipedia-catala-xix-viquitrobada/",
+      "published": "2026-11-07T10:45:12+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Les semblances i diferències entre ERC i Podem",
+      "excerpt": "Esquerra i Podem han signat un pacte per defensar drets socials i polítiques d'habitatge de cara al 29N",
+      "url": "https://www.3cat.cat/3catinfo/les-semblances-i-diferencies-entre-erc-i-podem/noticia/3437876/",
+      "published": "2026-11-07T10:36:05+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/4/1793988242349.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435019/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/les-semblances-i-diferencies-entre-erc-i-podem/noticia/3437876/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "Històries imprevistes (1)",
+      "excerpt": ".",
+      "url": "https://diumenge.ara.cat/diumenge/histories-imprevistes-1_1_5900136.html",
+      "published": "2026-11-07T10:00:16+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/639cfe5c-455c-4464-bb3b-93cad6ff9dfd_source-aspect-ratio_default_0_x2141y1866.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Santiago Peña, destituït com a president del Paraguai i detingut per corrupció",
+      "excerpt": "Pedro Alliana, fins ara vicepresident, serà el nou cap d'Estat fins a la fi de la legislatura, el 2028",
+      "url": "https://www.3cat.cat/3catinfo/santiago-pena-destituit-com-a-president-del-paraguai-i-detingut-per-corrupcio/noticia/3438459/",
+      "published": "2026-11-07T09:59:47+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/4/1794041492149.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Una ‘incidència operativa’ altera el servei d’unes quantes línies de Rodalia i Regionals Sud",
+      "excerpt": "Hi ha retards i serveis fora d’horari habitual a la R1, R2, R2 Nord, R2 Sud, R4, Regionals Sud i la R8",
       "url": "https://www.vilaweb.cat/noticies/una-incidencia-altera-el-servei-dunes-quantes-linies-de-rodalia-i-regionals-sud/",
       "published": "2026-11-07T09:58:04+01:00",
       "category": "Societat",
       "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La Oreja de Van Gogh ofereix una festa de nostàlgia col·lectiva al Palau Sant Jordi a ritme d’èxits",
+      "excerpt": "(ACN) Una festa de nostàlgia col·lectiva. La Oreja de Van Gogh, amb Amaia Montero, ha apel·lat a la memòria de finals dels 90 i principis dels 2000 davant de 17.000 persones. És el primer de quatre concerts al Palau Sant Jordi —els altres seran aquest dissabte, 26 i 27 de novembre— en la gira Tantas […]",
+      "url": "https://beteve.cat/cultura/concert-oreja-van-gogh-festa-nostalgica-palau-sant-jordi/",
+      "published": "2026-11-07T09:54:21+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/la-oreja-van-de-gogh-071126-2026-11-07.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -141,7 +222,12 @@
       "published": "2026-11-07T08:00:52+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/7/9/1794034199497.jpg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435074/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-naturalitat-damaia-montero-venc-els-problemes-de-veu-al-concert-de-la-oreja-de-van-gogh-al-sant-jordi/noticia/3438458/"
+      }
     },
     {
       "source": "ARA",
