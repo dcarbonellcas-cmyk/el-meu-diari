@@ -2,6 +2,52 @@
   "date": "2026-11-07",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Les set lliçons que deixa el terratrèmol de les eleccions de mig mandat als EUA",
+      "excerpt": "Els midterm han transformat com poques vegades el mapa polític dels EUA i permeten treure un grapat de lliçons útils per qualsevol futura campanya electoral, tant per als demòcrates com per als republicans.",
+      "url": "https://www.3cat.cat/3catinfo/les-set-llicons-que-deixa-el-terratremol-de-les-eleccions-de-mig-mandat-als-eua/noticia/3438434/",
+      "published": "2026-11-07T07:11:53+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/1/1793816782018.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió del dissabte: pas de núvols, però gairebé sense pluja",
+      "excerpt": "Temperatura típica de tardor, però amb tendència a pujar a partir de diumenge",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-del-dissabte-7-de-novembre-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/",
+      "published": "2026-11-06T09:32:42+01:00",
+      "updated": "2026-11-07T08:03:36+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/0/1794035003100.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435071/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-dissabte-7-de-novembre-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Israel continua sense cap fórmula clara de govern a un dia de la data límit per designar un candidat",
+      "excerpt": "“Un govern jueu i àrab, junts” era la reivindicació que es repetia dissabte passat en una de les manifestacions a Jerusalem després de les eleccions. Al carrer, alguns israelians demanaven que els partits àrabs poguessin participar en el futur govern . Al Parlament, aquesta possibilitat continua sent el principal obstacle per desallotjar Benjamin Netanyahu del poder.",
+      "url": "https://www.ara.cat/internacional/proxim-orient/israel-continua-cap-formula-clara-govern-dia-data-limit-designar-candidat_1_5902535.html",
+      "published": "2026-11-07T08:00:52+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b36e00c5-dfef-4d65-a13d-ef01c18f29ec_source-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "\"A les eleccions espanyoles votaré Vox i a les catalanes Aliança\"",
+      "excerpt": "\"La immigració està descontrolada i si Aliança no es presenta no tenim alternativa en aquestes eleccions\". El David, un reusenc de mitjana edat, votarà el partit de Sílvia Orriols quan es convoquin comicis a Catalunya, però el 29 de novembre triarà la papereta de Vox com, de fet, farà un de cada cinc votants d'Aliança, segons l'última enquesta del Centre d'Estudis d'Opinió (CEO) . \"Tenim un partit contra la immigració a Espanya i un altre a Catalunya\", celebra per defensar aquest vot dual. Fins ara,…",
+      "url": "https://www.ara.cat/politica/eleccions-espanyoles-votare-vox-catalanes-alianca_1_5898930.html",
+      "published": "2026-11-07T08:00:48+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c0a756f6-bb6b-46ad-967e-55472aedd2ac_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió del cap de setmana: pas de núvols, però gairebé sense pluja",
       "excerpt": "Temperatura típica de tardor, però amb tendència a pujar a partir de diumenge",
@@ -11,11 +57,201 @@
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/3/9/1793951187393.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435024/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6435071/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-pas-de-nuvols-pero-gairebe-sense-pluja/noticia/3438247/"
       },
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "La tecnologia xinesa ajuda els governs repressius africans a ofegar la dissidència",
+      "excerpt": "Quan la Xina va pagar 200 milions de dòlars per construir la nova seu de la Unió Africana (UA) a Addis Abeba, es va percebre com un acte de gran generositat. Però cinc anys després, uns tècnics van notar alguna cosa estranya. Cada nit els servidors que havia proporcionat la Xina rondinaven frenèticament. Estaven exportant dades a servidors de Shanghai, incloent-hi correus electrònics confidencials, memoràndums de diplomàtics, imatges de càmeres de seguretat i molt més. Especialistes algerians i etíops que posteriorment van escorcollar l'edifici van…",
+      "url": "https://empreses.ara.cat/sector-public/tecnologia-xinesa-ajuda-governs-repressius-africans-ofegar-dissidencia_1_5902328.html",
+      "published": "2026-11-07T08:02:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/03d8f2aa-940c-47fd-8708-6f731bd981b4_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La naturalitat d'Amaia Montero venç els problemes de veu al concert de la Oreja de Van Gogh al Sant Jordi",
+      "excerpt": "El públic demostra l'estimació cap a la cantant en el primer dels quatre concerts del conjunt basc al Palau Sant Jordi",
+      "url": "https://www.3cat.cat/3catinfo/la-naturalitat-damaia-montero-venc-els-problemes-de-veu-al-concert-de-la-oreja-de-van-gogh-al-sant-jordi/noticia/3438458/",
+      "published": "2026-11-07T08:00:52+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/9/1794034199497.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Em va impressionar la humanitat de Zelenski\"",
+      "excerpt": "L’única condició que Jaume Duch Guillot (Barcelona, 1962) va posar al president Salvador Illa quan li va proposar la conselleria d’Exteriors va ser canviar l’ordre del nom del càrrec. És a dir, passar de conseller d’Acció Exterior i Unió Europea de Catalunya a conseller d’Unió Europea i Acció Exterior de Catalunya. Europa al davant. En un moment decisiu i urgent per al continent, Duch fa un repàs de l’actualitat internacional i el rol que pot jugar Catalunya. La conversa té lloc setmanes després d’haver-se reunit…",
+      "url": "https://www.ara.cat/internacional/europa/em-impressionar-humanitat-zelenski_128_5902465.html",
+      "published": "2026-11-07T08:00:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/88113e3e-8b40-4c67-934a-dcb8051527b5_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Vox ja parla els fills en català",
+      "excerpt": "\"És per això que a la meva filla li parlo en català. Perquè no vull que desconegui ni d'on ve, ni de quins escuts disposa per defensar-se d'un globalisme apàtrida, i, el pitjor, que imposa la nostra dissolució per regalar el que és nostre a uns altres\". Aquesta frase no és de cap dirigent d'Aliança Catalana, sinó de Vox. En concret, del seu cap de llista per Tarragona, Jordi de la Fuente , que va voler rememorar a X unes paraules del polític d'extrema dreta…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/vox-ja-parla-fills-catala_1_5897470.html",
+      "published": "2026-11-07T08:00:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/08ad8d0a-4450-4764-a27b-5733173b4692_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"El crim organitzat està passant de matar gent a infiltrar-se en l'economia\"",
+      "excerpt": "El magistrat italià Lorenzo Salazar compta amb una llarga trajectòria a la judicatura italiana –ha sigut, per exemple, fiscal de Nàpols– i també està completant un ampli pas per les institucions europees, ara liderant el Comitè Europeu per als Problemes Criminals del Consell d'Europa. Aquests dies està a Barcelona per a unes jornades de l'Acadèmia Notarial Europea sobre la delinqüència internacional, que se celebren al Col·legi Notarial de Catalunya.",
+      "url": "https://www.ara.cat/societat/justicia/crim-organitzat-passant-matar-gent-infiltrar-l-economia_128_5902454.html",
+      "published": "2026-11-07T08:00:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/65109057-b898-4748-8f5e-c9a12be3b005_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"¿Tenim la consciència neta?\": les ombres darrere el Floquet de Neu",
+      "excerpt": "Aquest novembre fa seixanta anys de l'arribada del Floquet de Neu a Barcelona. Els caçadors van vendre l'aleshores cria de goril·la per 15.000 pessetes al primatòleg Jordi Sabater Pi, i el van traslladar primer a Ikunde, el centre instal·lat a pocs quilòmetres de Bata (Guinea Equatorial) que proveïa les col·leccions de diferents institucions vinculades a l'Ajuntament de Barcelona, i després a la capital catalana. Es va convertir en una icona i una figura entranyable, però darrere hi ha també alguns episodis més foscos lligats al…",
+      "url": "https://www.ara.cat/cultura/historia/consciencia-neta-ombres-darrere-floquet-neu_130_5902153.html",
+      "published": "2026-11-07T08:00:46+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a0fed642-a57c-49e6-b844-0f5011570b56_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Marc Pubill, el campió del món que va seduir el Barça",
+      "excerpt": "Marc Pubill tornarà a trobar-se amb el Barça aquest diumenge (21 h, Movistar LaLiga), aquesta vegada des d'un lloc que fa només uns anys semblava difícil d'imaginar. El defensor de l'Atlètic de Madrid és ara titular en un equip de Champions i acaba de proclamar-se campió del món amb la selecció espanyola. Al davant tindrà un club que li va trucar a la porta diverses vegades i que va estar interessat en ell tant durant la seva etapa en el Llevant com després de guanyar…",
+      "url": "https://www.ara.cat/esports/barca/marc-pubill-campio-mon-seduir-barca_130_5900963.html",
+      "published": "2026-11-07T08:00:45+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/516a6780-e2e8-4aca-99fb-6609ef35e586_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Vaig conèixer la Najin quan tenia una setmana de vida. Avui és el rinoceront blanc del nord viu més vell del planeta\"",
+      "excerpt": "Oliver A. Ryder, genetista i conservacionista nord-americà, ha dedicat prop de cinquanta anys a investigar com la biologia molecular pot ajudar a preservar les espècies animals amenaçades. Director de genètica de la conservació del Zoo de San Diego (Califòrnia, Estats Units) i copresident del grup d'especialistes en biobancs animals de la Unió Internacional per a la Conservació de la Natura, és un dels impulsors del Frozen Zoo, una col·lecció de milers de mostres cel·lulars animals que és, assegura, una “assegurança genètica” per a la Terra.",
+      "url": "https://www.ara.cat/ciencia-medi-ambient/conservacio/coneixer-najin-tenia-setmana-vida-avui-rinoceront-blanc-nord-viu-mes-vell-planeta_128_5898659.html",
+      "published": "2026-11-07T08:00:44+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a60b8301-2d7f-4210-b3a2-dab4ec171676_source-aspect-ratio_default_0_x2142y1300.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Què volen dir les inicials de PANTERA? Tot el que cal tenir en compte a l’hora de verificar una informació",
+      "excerpt": "És dimecres al matí a l’Institut Estany de la Ricarda del Prat de Llobregat. Avui grups de 3r d’ESO es formen en alfabetització mediàtica i informacional (AMI) amb una activitat que els té molt intrigats: un escape room . Aquests adolescents formen part de l’anomenada generació alfa , que es caracteritzen per ser nadius digitals, han crescut envoltats de pantalles i no tenen cap referent analògic. Avui, però, no els acompanyen els mòbils, sinó periodistes de mitjans locals i de Learn to Check, una associació…",
+      "url": "https://criatures.ara.cat/criatures/volen-dir-inicials-pantera-cal-compte-l-hora-verificar-informacio_1_5894915.html",
+      "published": "2026-11-07T08:00:43+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f746c587-d079-4183-82a5-75c1c8ee3a99_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Lleó XIV arriba a Sud-amèrica en una intensa gira per l'Uruguai, l'Argentina i el Perú",
+      "excerpt": "Lleó XIV visita el país més laic de l'Amèrica Llatina, el bressol del seu antecessor i la pàtria que el va acollir i que li va donar la nacionalitat",
+      "url": "https://www.3cat.cat/3catinfo/lleo-xiv-arriba-a-sud-america-en-una-intensa-gira-per-luruguai-largentina-i-el-peru/noticia/3438414/",
+      "published": "2026-11-07T07:21:39+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/5/1793986179351.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Publicitat feta amb IA: entre el rebuig, l'homogeneïtzació i la democratització del disseny",
+      "excerpt": "En ple auge de les imatges fetes amb intel·ligència artificial, que es noti la intervenció humana en cartells, dibuixos o anuncis emergeix com un valor afegit",
+      "url": "https://www.3cat.cat/3catinfo/publicitat-feta-amb-ia-entre-el-rebuig-lhomogeneitzacio-i-la-democratitzacio-del-disseny/noticia/3438315/",
+      "published": "2026-11-07T07:18:56+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/8/7/1793985956478.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Les primeres bombes químiques utilitzades contra població civil es van fabricar a Flix i Badalona",
+      "excerpt": "Així ho revela el documental \"Operació Iperita\", coproduït per 3Cat, que investiga el paper de Catalunya en els primers atacs químics, des de l'aire, contra civils durant la Guerra del Rif, al Marroc",
+      "url": "https://www.3cat.cat/3catinfo/les-primeres-bombes-quimiques-utilitzades-contra-poblacio-civil-es-van-fabricar-a-flix-i-badalona/noticia/3437934/",
+      "published": "2026-11-07T07:16:12+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1793811673112.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Em repugna la meva imbecil·litat\": la suculenta correspondència de Flaubert, per fi en català",
+      "excerpt": "\"No entenc com he pogut separar-me de tu. Soc ben bé així! És la meva natura lamentable. Si no m'estimessis em moriria, m'estimes i aquí em tens escrivint-te que prou. Em repugna la meva imbecil·litat\". Així d'apassionat i contundent sonava Gustave Flaubert (Rouen, 1821 - Canteleu, 1880) quan, als 25 anys, es comunicava per carta amb Louise Colet, el gran amor de la seva vida. Onze anys més gran que el futur escriptor, casada i mare d'una nena, Colet va començar una relació amb Flaubert…",
+      "url": "https://llegim.ara.cat/reportatges/gustave-flaubert-repugna-meva-imbecilitat-per-fi-catala_1_5901163.html",
+      "published": "2026-11-07T07:15:11+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e6ed317e-4998-494c-8d6b-bbaf172f207a_16-9-aspect-ratio_default_1061429.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Revés sense precedents als centres de dades als Estats Units: un avís a la bombolla de la IA?",
+      "excerpt": "El rebuig als plans d'expansió dels macrocentres en desenes de consultes locals i la victòria de candidats proregulació en les eleccions de mig mandat alimenten la caiguda dels gegants tecnològics",
+      "url": "https://www.3cat.cat/3catinfo/reves-sense-precedents-als-centres-de-dades-als-estats-units-un-avis-a-la-bombolla-de-la-ia/noticia/3438313/",
+      "published": "2026-11-07T07:10:50+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/4/1793958385849.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La IA canvia els ciberatacs: de les grans neveres de supermercats fins a la smart TV de casa",
+      "excerpt": "Experts avisen que la intel·ligència artificial abarateix els atacs i amplia el ventall de possibles objectius, també domèstics",
+      "url": "https://www.3cat.cat/3catinfo/la-ia-canvia-els-ciberatacs-de-les-grans-neveres-de-supermercats-fins-a-la-smart-tv-de-casa/noticia/3438437/",
+      "published": "2026-11-07T07:09:51+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/5/1794005776357.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Dos cotxes elèctrics fabricats a Catalunya, entre els finalistes a Cotxe de l’Any",
+      "excerpt": "Tot i que ja fa algunes edicions que els cotxes elèctrics són presents entre els guanyadors al premi de Cotxe de l’Any a Europa (l’any 2011 el va guanyar el Nissan Leaf, l’edició de 2012 l’Opel Ampera, el 2019 el Jaguar I-Pace, l’any 2022 el Kia EV6, l’any 2024 el Renault Scenic i l’edició de 2025 el Renault 5 E-Tech), la d’enguany és la primera edició en la qual tots set candidats finalistes són vehicles totalment elèctrics, sense versions amb motor de combustió.",
+      "url": "https://motor.ara.cat/novetats/cotxes-electrics-fabricats-catalunya-finalistes-cotxe-l-any_1_5902274.html",
+      "published": "2026-11-07T07:01:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d1c7a8ec-d207-4260-81de-8af8242da337_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L’autonomia estratègica com a oportunitat competitiva",
+      "excerpt": "Els desafiaments de Putin, Trump i Xi han portat Europa –incloent-hi el Regne Unit– cap a formular una política, que se n'ha dit d'“autonomia estratègica”, que tindrà conseqüències per al marc competitiu en què es mouen les nostres empreses, les que existeixen i les que poden venir.",
+      "url": "https://empreses.ara.cat/opinio/l-autonomia-estrategica-oportunitat-competitiva_1_5902285.html",
+      "published": "2026-11-07T07:00:59+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3f002620-f9cd-41e0-8334-3d60fec50af1_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tres maneres de fer conserva de rovellons, la recepta de l'Ada Parellada",
+      "excerpt": "Han arribat els bolets i aquest tresor no es pot perdre. Per aquest motiu, la cuinera del Semproniana, Ada Parellada, ens proposa tres tècniques per conservar-los.",
+      "url": "https://mengem.ara.cat/receptes/tres-maneres-conserva-rovellons-recepta-l-ada-parellada_1_5894078.html",
+      "published": "2026-11-07T07:00:59+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9100a0b8-2cfb-4fab-99b4-30e7553666b0_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Visita al laboratori marítim nord-català on es va inventar la fotografia submarina",
+      "excerpt": "Just passar la frontera entre la Costa Brava i la Vermella, comença el tram de mar més protegit del litoral rossellonès. Una zona on no s’hi pot navegar i fins i tot una àrea d’exclusió en què ni s’accepten submarinistes. Forma part del Parc Natural del Golf de Lleó, entre Cervera de la Marenda i Leucata, que cobreix més de 4.000 km 2 de costa de l’estat francès. És la zona amb l’aigua més freda de tot el Mediterrani.",
+      "url": "https://www.ara.cat/ciencia-medi-ambient/visita-laboratori-maritim-nord-catala-inventar-fotografia-submarina_1_5899552.html",
+      "published": "2026-11-07T07:00:59+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c2513441-4177-4c47-a8c8-50a10512c53e_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
