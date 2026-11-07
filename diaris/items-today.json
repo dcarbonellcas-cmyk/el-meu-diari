@@ -2,6 +2,16 @@
   "date": "2026-11-07",
   "items": [
     {
+      "source": "ARA",
+      "title": "Almenys cinc morts i més de 10 ferits en un tiroteig a Cracòvia",
+      "excerpt": "Cinc persones han mort i més de 10 han resultat ferides en un tiroteig aquest dissabte a la plaça principal de la ciutat polonesa de Cracòvia, la segona ciutat més gran del país. Segons ha informat la policia, l'autor dels trets ha estat disparat pels agents i ha estat traslladat a l'hospital.",
+      "url": "https://www.ara.cat/internacional/almenys-cinc-morts-mes-10-ferits-tiroteig-cracovia_1_5903227.html",
+      "published": "2026-11-07T16:44:46+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7d86a700-faee-4c86-ac8e-a84d50f4a5e5_source-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "Almenys cinc morts i diversos ferits en un atac amb arma de foc al centre de Cracòvia",
       "excerpt": "Un home ha obert foc d’un cotxe estant a la plaça del Mercat Principal",
@@ -14,7 +24,7 @@
     {
       "source": "3CatInfo",
       "title": "Almenys 5 morts i una dotzena de ferits en un tiroteig al centre de Cracòvia",
-      "excerpt": "La policia polonesa investiga les circumstàncies del tiroteig a la plaça major de Cracòvia, mentre el primer ministre Donald Tusk parla d'atemptat",
+      "excerpt": "La policia polonesa investiga les circumstàncies del tiroteig a la plaça del Mercat de Cracòvia, mentre el primer ministre Donald Tusk parla d'atemptat",
       "url": "https://www.3cat.cat/3catinfo/almenys-5-morts-i-una-dotzena-de-ferits-en-un-tiroteig-al-centre-de-cracovia/noticia/3438505/",
       "published": "2026-11-07T16:29:39+01:00",
       "category": "Actualitat",
@@ -32,6 +42,22 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge:  temperatura en ascens, matí de sol i tarda de núvols",
+      "excerpt": "Encetem el camí cap a l'estiuet de Sant Martí",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/",
+      "published": "2026-11-07T09:49:31+01:00",
+      "updated": "2026-11-07T17:25:27+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/4/1794068688743.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435133/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "Denuncien l'Ajuntament de Barcelona per incomplir la reserva del 30% d'habitatge protegit",
       "excerpt": "El Sindicat de Llogateres porta als tribunals el consistori per no fer complir la norma aprovada pel mateix Ajuntament al grup immobiliari Vandor",
@@ -39,12 +65,12 @@
       "published": "2026-11-07T16:28:30+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/1/6/1794061046661.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6435106/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/denuncien-lajuntament-de-barcelona-per-incomplir-la-reserva-del-30-dhabitatge-protegit/noticia/3438460/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -63,7 +89,7 @@
       "url": "https://www.ara.cat/politica/govern-espanyol-compromet-reconeixer-guillem-agullo-victima-terrorisme_1_5903161.html",
       "published": "2026-11-07T14:43:17+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/215ea858-0073-4ba6-82f6-40041446d873_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/2443f40b-6871-443e-b9a3-cd2473748fcc_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -95,22 +121,6 @@
       "published": "2026-11-07T13:46:27+01:00",
       "category": "Principat",
       "image": null,
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge:  temperatura en ascens, matí de sol i tarda de núvols",
-      "excerpt": "Encetem el camí cap a l'estiuet de Sant Martí",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/",
-      "published": "2026-11-07T09:49:31+01:00",
-      "updated": "2026-11-07T13:35:46+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/9/1794036234693.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435071/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -227,12 +237,92 @@
     },
     {
       "source": "ARA",
+      "title": "Marc Márquez ja acarona el seu desè Mundial amb els dits",
+      "excerpt": "La sort somriu a Marc Márquez. El pilot de Cervera podria ser campió mundial per desena vegada aquest diumenge (17h / DAZN), la vuitena a la categoria reina. El català ha vist com tot li anava de cara a la cursa esprint del Gran premi de Qatar, cursa on l'italià Marco Bezzecchi (Aprilia RS-GP) ha intentat plantar cara, però ha acabat rodant pel terra quan ha intentant avançar Márquez a la quarta volta en una acció molt polèmica. Avui, arriba la primera pilota de partit…",
+      "url": "https://www.ara.cat/esports/motor/motogp/marc-marquez-ja-acarona-dese-mundial-dits_1_5903247.html",
+      "published": "2026-11-07T17:42:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8b8b17c5-06d6-4c1b-80df-a9cf66a36fd9_16-9-aspect-ratio_default_0_x1520y745.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Un centenar de persones protesten a Elna contra la celebració de l’annexió de Catalunya Nord a França",
+      "excerpt": "És la primera vegada que un ajuntament del Rosselló organitza una festa d’aquest tipus en contra de la identitat catalana que, a més, coincideix amb la Diada de Catalunya Nord",
+      "url": "https://www.vilaweb.cat/noticies/un-centenar-de-persones-protesten-a-elna-contra-la-celebracio-de-lannexio-de-catalunya-nord-a-franca/",
+      "published": "2026-11-07T17:28:06+01:00",
+      "category": "Catalunya Nord",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Sequeres i calor extrema: quan els arbres de Barcelona “s’espatllen” i deixen de funcionar",
+      "excerpt": "Pensar una ciutat mediterrània adaptada al nou context climàtic, és pensar-la en verd: en la vegetació i en l’arbrat. Elements que contribueixen, d’una banda, a la millora de la qualitat de l’aire —com a capturadors de CO2— i, de l’altra, perquè fan baixar la temperatura ambiental —per la transpiració— i mitiguen l’efecte illa de calor. […]",
+      "url": "https://beteve.cat/medi-ambient/sequeres-onades-calor-arbres-no-refreden/",
+      "published": "2026-11-07T17:21:42+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/01/arbres-eixample-200124.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Vox diu que el PSOE ha convertit el Ministeri de Transports en la “zona zero de la corrupció”",
+      "excerpt": "(ACN) El secretari general de Vox, Ignacio Garriga, ha acusat el PSOE de convertir el Ministeri de Transports en “la zona zero de la corrupció” i d’haver “desviat recursos” del manteniment i la millora de la xarxa ferroviària. En un acte de precampanya per a les eleccions generals també ha titllat el president del Govern de […]",
+      "url": "https://beteve.cat/politica/vox-ministeri-transports-zona-zero-corrupcio-psoe/",
+      "published": "2026-11-07T17:04:19+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/ignacio-garriga-vox-2026-11-07.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Ucraïna denuncia divuit atacs russos contra la seva infrastructura energètica, un dels quals amb un míssil nord-coreà",
+      "excerpt": "Zelenski confirma 172 atacs amb drons i 36 amb míssils balístics, i reclama reforçar les sancions contra Rússia i els seus aliats",
+      "url": "https://www.vilaweb.cat/noticies/ucraina-denuncia-divuit-atacs-russos-contra-la-seva-infrastructura-energetica-un-dels-quals-amb-un-missil-nord-corea/",
+      "published": "2026-11-07T17:01:33+01:00",
+      "category": "Món",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Els periodistes homes són un còctel de vanitat i ego com no hi ha en cap altra professió\"",
+      "excerpt": "L'editora de la revista JotDown , coneguda amb el nom (fals) de Mar de Marchis, va causar una revolució a la premsa espanyola no només amb la seva publicació sinó fent-se amiga o confident de nombrosos personatges amb poder mediàtic a l'època sense sortir de casa, per culpa d'una agorafòbia i una depressió. El periodista i corresponsal d' El País Daniel Verdú ha volgut explicar qui s'amagava realment rere d'aquest pseudònim, però, sobretot, mostrar quin panorama mediàtic hi havia ara fa una dècada, que va…",
+      "url": "https://www.ara.cat/media/periodistes-homes-son-coctel-vanitat-ego-no-hi-cap-altra-professio_128_5901393.html",
+      "published": "2026-11-07T17:00:43+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9e4004ef-63a7-4063-a403-3a00ccf55050_source-aspect-ratio_default_0_x1944y915.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La Catalunya del Nord reivindica el català en una Diada marcada per les restriccions a Perpinyà",
+      "excerpt": "La Federació d'Entitats Catalanes denuncia que les autoritats franceses han comunicat el canvi de recorregut amb només 48 hores d'antelació",
+      "url": "https://www.3cat.cat/3catinfo/catalunya-nord-reivindica-el-catala-en-una-diada-marcada-per-les-restriccions-a-perpinya/noticia/3438510/",
+      "published": "2026-11-07T16:46:17+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/7/0/1794067151607.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
       "title": "L'empordanès que anirà al Dakar amb una moto que ha creat ell mateix",
       "excerpt": "Quan acabava el seu torn de les 6 del matí a les 2 del migdia a la fàbrica Rieju, l'August Castellà (Figueres, 1992) sortia a rodar amb una moto. L'endemà, tots els seus companys ja sabien que tindrien feina. Castellà, enginyer mecànic i responsable de desenvolupament dels projectes Rally i Trail de la marca empordanesa, tornava amb idees per millorar la Rieju 307 Rally que ell mateix havia desenvolupat. I després de posar-la a prova, anava retocant coses per fer-la més competitiva. Inicialment, no ho…",
       "url": "https://www.ara.cat/esports/motor/dakar/l-empordanes-anira-dakar-moto-creat-ell-mateix_1_5895022.html",
       "published": "2026-11-07T16:00:44+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/4bef4898-d980-4675-a97d-118b0d023dc3_16-9-aspect-ratio_default_0_x2496y956.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "L'editorial Almadía manté el premi a David Silva Rojas, l'autor acusat d'escriure una novel·la amb IA",
+      "excerpt": "El País va publicar que el llibre \"Donde el agua trabaja\", de David Silva Rojas, havia estat escrit per intel·ligència artificial en un 99%",
+      "url": "https://www.3cat.cat/3catinfo/leditorial-almadia-mante-el-premi-a-lautor-acusat-descriure-una-novella-amb-ia/noticia/3438468/",
+      "published": "2026-11-07T15:57:09+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/8/6/1792791381668.jpeg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -358,11 +448,11 @@
     {
       "source": "ARA",
       "title": "Sánchez porta la precampanya a Catalunya i invoca Patti Smith i el Papa",
-      "excerpt": "A mesura que passen els dies, el PSOE mira de deixar enrere la crisi per la tragèdia ferroviària d'Urda (Toledo) i tornar al marc de la campanya que havia començat abans de l'accident que ha deixat 69 morts. És el que ha fet aquest dissabte Pedro Sánchez des de Tarragona: apel·lar a la disjuntiva d'un govern progressista davant la \"internacional de la ultradreta\" que a Espanya personifica en PP i Vox. El president espanyol, però, hi ha sumat un element que fins fa uns dies…",
+      "excerpt": "A mesura que passen els dies, el PSOE intenta deixar enrere la crisi per la tragèdia ferroviària d'Urda (Toledo) i tornar a centrar-se en la campanya que havia començat abans de l'accident que ha deixat 69 morts. És el que ha fet aquest dissabte Pedro Sánchez des de Tarragona: apel·lar a la disjuntiva d'un govern progressista davant la \"internacional de la ultradreta\" que a Espanya es personifica en el PP i Vox. El president espanyol, però, hi ha sumat un element que fins fa uns…",
       "url": "https://www.ara.cat/politica/eleccions-generals/sanchez-porta-precampanya-catalunya-demana-majoria-amplia-frenar-pp-vox_1_5903018.html",
       "published": "2026-11-07T13:03:10+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/1a982b06-a901-4208-87d9-59d66387c3fc_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/1a982b06-a901-4208-87d9-59d66387c3fc_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -457,17 +547,17 @@
     },
     {
       "source": "3CatInfo",
-      "title": "EN DIRECTE | Espanyol-Deportivo: els blanc-i-blaus volen continuar sumant a la Lliga",
+      "title": "EN DIRECTE | Espanyol-Deportivo: sense gols al descans (0-0)",
       "excerpt": "L'RCDE Stadium espera viure la primera victòria com a local de l'era Sarabia, encara que el tècnic basc segueixi sancionat",
       "url": "https://www.3cat.cat/3catinfo/en-directe-espanyol-deportivo-els-blanc-i-blaus-volen-continuar-sumant-a-la-lliga/noticia/3438400/",
       "published": "2026-11-07T12:23:00+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/6/1786909563860.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/8/1794066754286.jpg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
-      "title": "Un escalfament estratosfèric sobtat podria portar un hivern fred i nivós a Catalunya",
+      "title": "Un escalfament estratosfèric sobtat podria portar un hivern fred i nivós a Catalunya?",
       "excerpt": "Els darrers dies, les xarxes s’han omplert de notícies anunciant un hivern fred i nivós a Catalunya, però el cert és que tot plegat no es pot saber amb exactitud. Tot i que els models de predicció sí que indiquen un afebliment, i un possible trencament posterior, del vòrtex polar, cal tenir en compte que […]",
       "url": "https://beteve.cat/medi-ambient/es-trenca-el-vortex-polar/",
       "published": "2026-11-07T12:18:02+01:00",
@@ -727,7 +817,7 @@
     },
     {
       "source": "ARA",
-      "title": "\"Vaig conèixer la Najin quan tenia una setmana de vida. Avui és el rinoceront blanc del nord viu més vell del planeta\"",
+      "title": "\"Vaig conèixer la Najin quan tenia una setmana. Avui és el rinoceront blanc del nord viu més vell del planeta\"",
       "excerpt": "Oliver A. Ryder, genetista i conservacionista nord-americà, ha dedicat prop de cinquanta anys a investigar com la biologia molecular pot ajudar a preservar les espècies animals amenaçades. Director de genètica de la conservació del Zoo de San Diego (Califòrnia, Estats Units) i copresident del grup d'especialistes en biobancs animals de la Unió Internacional per a la Conservació de la Natura, és un dels impulsors del Frozen Zoo, una col·lecció de milers de mostres cel·lulars animals que és, assegura, una “assegurança genètica” per a la Terra.",
       "url": "https://www.ara.cat/ciencia-medi-ambient/conservacio/coneixer-najin-tenia-setmana-vida-avui-rinoceront-blanc-nord-viu-mes-vell-planeta_128_5898659.html",
       "published": "2026-11-07T08:00:44+01:00",
