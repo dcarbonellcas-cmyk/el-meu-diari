@@ -2,19 +2,19 @@
   "date": "2026-11-07",
   "items": [
     {
-      "source": "ARA",
-      "title": "Almenys sis morts i quinze ferits en un tiroteig a Cracòvia",
-      "excerpt": "Sis persones han mort i quinze més han resultat ferides en un tiroteig aquest dissabte a la plaça principal de la ciutat polonesa de Cracòvia, la segona ciutat més gran del país. Segons ha informat la policia, uns agents han aconseguit disparar l'autor dels trets, que ha estat traslladat a l'hospital.",
-      "url": "https://www.ara.cat/internacional/almenys-cinc-morts-mes-10-ferits-tiroteig-cracovia_1_5903227.html",
-      "published": "2026-11-07T16:44:46+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/7d86a700-faee-4c86-ac8e-a84d50f4a5e5_source-aspect-ratio_default_0.jpg",
+      "source": "VilaWeb",
+      "title": "Avançament editorial: ‘Perdre una guerra’, de Jon Lee Anderson",
+      "excerpt": "L’editorial Saldonar publica per primera vegada l’obra d’aquest periodista de guerra al català, amb el relat del fracàs dels Estats Units a l’Afganistan",
+      "url": "https://www.vilaweb.cat/noticies/avancament-editorial-perdre-una-guerra-de-jon-lee-anderson/",
+      "published": "2026-11-07T21:40:03+01:00",
+      "category": "Lletres",
+      "image": null,
       "priority": "1 · Urgent"
     },
     {
       "source": "VilaWeb",
-      "title": "Sis morts i dotze ferits crítics en un tiroteig al centre de Cracòvia, a Polònia",
-      "excerpt": "Un home ha obert foc d’un cotxe estant a la plaça del Mercat Principal",
+      "title": "Les autoritats poloneses diuen que l’autor de l’atemptat que ha matat sis persones era d’extrema dreta",
+      "excerpt": "El ministre de l'Interior polonès, Marcin Kierwiński responsabilitza un jove polonès de vint-i-cinc anys, d'extrema dreta, de l'atemptat que ha causat sis morts i quinze persones ferides, dotze de les quals en estat greu",
       "url": "https://www.vilaweb.cat/noticies/almenys-cinc-morts-i-diversos-ferits-en-un-atac-amb-arma-de-foc-al-centre-de-cracovia/",
       "published": "2026-11-07T16:43:23+01:00",
       "category": "Món",
@@ -23,12 +23,22 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Almenys 6 morts i una quinzena de ferits en un tiroteig al centre de Cracòvia",
-      "excerpt": "La policia ha ferit i ha detingut l'autor del tiroteig a la popular plaça del Mercat, un ciutadà polonès que portava armament i roba militar",
+      "title": "Almenys 6 morts en un tiroteig al centre de Cracòvia \"inspirat per ideologies d'extrema dreta\"",
+      "excerpt": "La policia ha ferit i ha detingut l'autor de l'atemptat a la popular plaça del Mercat, un ciutadà polonès de 25 anys, segons ha confirmat el ministre de l'Interior",
       "url": "https://www.3cat.cat/3catinfo/almenys-5-morts-i-una-dotzena-de-ferits-en-un-tiroteig-al-centre-de-cracovia/noticia/3438505/",
       "published": "2026-11-07T16:29:39+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/0/1794065613508.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "Pedro Sánchez es reuneix amb la família de Guillem Agulló 33 anys després de l'assassinat",
+      "excerpt": "Després que la família fes pública la seva petició aquesta mateixa setmana, el govern espanyol s'ha compromès a reconèixer Guillem Agulló com a víctima del terrorisme. De fet, el compromís l'ha adoptat el mateix president espanyol, Pedro Sánchez, davant la família, amb la qual es va reunir aquest divendres a València abans de l'acte de precampanya, segons ha avançat la Cadena SER i ha confirmat l'ARA. Aquesta setmana, la família de Guillem Agulló va enviar una carta a Pedro Sánchez i també al ministre de…",
+      "url": "https://www.ara.cat/politica/govern-espanyol-compromet-reconeixer-guillem-agullo-victima-terrorisme_1_5903161.html",
+      "published": "2026-11-07T14:43:17+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2443f40b-6871-443e-b9a3-cd2473748fcc_16-9-aspect-ratio_default_0.jpg",
       "priority": "1 · Urgent"
     },
     {
@@ -40,6 +50,36 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/1/1793816782018.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El president israelià encarrega a Gadi Eisenkot, rival de Netanyahu, la missió de formar govern",
+      "excerpt": "Considera que el líder del bloc de l'oposició és qui té més opcions d'aconseguir prou suports de cara a la investidura, després d'unes eleccions molt ajustades",
+      "url": "https://www.3cat.cat/3catinfo/el-president-israelia-encarrega-a-gadi-eisenkot-rival-de-netanyahu-la-missio-de-formar-govern/noticia/3438531/",
+      "published": "2026-11-07T21:10:04+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/4/1794081992446.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El president d’Israel encarrega a Eisenkot de formar govern i aparta Netanyahu",
+      "excerpt": "La formació centrista va obtenir la segona posició a les eleccions del 27 d’octubre i compta amb el suport de 67 dels 120 diputats del parlament israelià",
+      "url": "https://www.vilaweb.cat/noticies/el-president-disrael-encarrega-a-gadi-eisenkot-la-formacio-de-govern/",
+      "published": "2026-11-07T20:59:30+01:00",
+      "category": "Món",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "El president d'Israel encarrega a Gadi Eisenkot formar el nou govern",
+      "excerpt": "El president d'Israel, Isaac Herzog, ha encarregat a Gadi Eisenkot, líder del partit Yashar i principal rival polític de Benjamin Netanyahu, la formació d'un nou govern. La decisió s'ha anunciat aquest dissabte després de dies de consultes amb les diferents forces polítiques del país. Eisenkot, excap de l'Estat Major de l'exèrcit israelià, ha rebut el suport de 67 dels 120 diputats de la Knesset, el Parlament israelià. En canvi, 46 parlamentaris han recomanat que Netanyahu continuï al capdavant del govern, mentre que una formació ultraortodoxa…",
+      "url": "https://www.ara.cat/internacional/proxim-orient/president-d-israel-encarrega-gadi-eisenkot-formar-nou-govern_1_5903824.html",
+      "published": "2026-11-07T20:55:13+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/610306d9-39f2-4d30-8c78-0f4f2d8f014b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -120,16 +160,6 @@
       "published": "2026-11-07T15:30:13+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/7952f14f-42a7-4298-9144-8bbec5039a2c_16-9-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "ARA",
-      "title": "El govern espanyol es compromet a reconèixer Guillem Agulló com a víctima del terrorisme",
-      "excerpt": "Després que la família fes pública la seva petició aquesta mateixa setmana, el govern espanyol s'ha compromès a reconèixer Guillem Agulló com a víctima del terrorisme. De fet, el compromís l'ha adoptat el mateix president espanyol, Pedro Sánchez, davant la família, amb la qual es va reunir aquest divendres a València abans de l'acte de precampanya, segons ha avançat la Cadena SER i ha confirmat l'ARA. Aquesta setmana, la família de Guillem Agulló va enviar una carta a Pedro Sánchez i també al ministre de…",
-      "url": "https://www.ara.cat/politica/govern-espanyol-compromet-reconeixer-guillem-agullo-victima-terrorisme_1_5903161.html",
-      "published": "2026-11-07T14:43:17+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/2443f40b-6871-443e-b9a3-cd2473748fcc_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
     },
     {
@@ -276,6 +306,76 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "Muntanyesa-Tona: el duel de Tercera per continuar sent líder, en directe a betevé",
+      "excerpt": "El Muntanyesa és l’actual líder del grup cinquè de la Tercera Divisió, empatat a punts amb el Vilanova. El conjunt de Nou Barris vol continuar al capdavant de la classificació i, per no posar en perill aquesta posició, haurà d’aconseguir la victòria aquest diumenge, 8 de novembre, contra el Tona, a la Bombonera. El partit, […]",
+      "url": "https://beteve.cat/esports/muntanyesa-tona-tercera-lider-directe/",
+      "published": "2026-11-07T21:21:09+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/muntanyesa-tona-3-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La fiscalia del Paraguai imputa l’expresident Peña i en demana la presó preventiva arran de la caiguda d’Ueno Bank",
+      "excerpt": "Peña, destituït pel Senat ahir, ha estat imputat pels presumptes delictes de lesió de confiança, en qualitat d’instigador, i administració en benefici propi, en qualitat d’autor",
+      "url": "https://www.vilaweb.cat/noticies/la-fiscalia-del-paraguai-imputa-lexpresident-pena-i-en-demana-la-preso-preventiva-arran-de-la-caiguda-dueno-bank/",
+      "published": "2026-11-07T21:06:40+01:00",
+      "category": "Món",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Mediterrani suma el segon triomf a la fase prèvia de la Conference Cup femenina",
+      "excerpt": "El Club Esportiu Mediterrani torna a jugar competicions europees aquesta temporada. Després d’unes temporades renunciant-hi, el club de Sants torna a disputar partits continentals. El conjunt de Marian Díaz inicia aquesta etapa disputant la fase preliminar de la Conference Cup, la tercera competició del waterpolo per equips. El Medi ha quedat enquadrat en el grup […]",
+      "url": "https://beteve.cat/esports/mediterrani-conference-cup-waterpolo-26/",
+      "published": "2026-11-07T21:05:12+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/09/mediterrani-cami-conference-femenina-2026-09-25.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els homenatges a Marianne Faithfull i Ana Kiro i el videoclip de Triquell, al palmarès de l'In-Edit",
+      "excerpt": "El Festival de Cinema Documental Musical de Barcelona tanca la seva 24a edició aquest diumenge després de projectar més de 70 pel·lícules",
+      "url": "https://www.3cat.cat/3catinfo/els-homenatges-a-marianne-faithfull-i-ana-kiro-i-el-videoclip-de-triquell-al-palmares-de-lin-edit/noticia/3438506/",
+      "published": "2026-11-07T21:03:16+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/6/1794073610663.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies vespre",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-vespre/beteve-noticies-vespre-457/",
+      "published": "2026-11-07T21:02:45+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Temperatures en ascens, molts núvols i poca pluja",
+      "excerpt": "La borrasca atlàntica Bruna seguirà enviant fronts cap al nostre territori i continuarà portant molta pluja a l’oest de la Península. A Catalunya s’espera ben poca aigua, com a mínim aquest diumenge, i més enllà d’alguna gotellada o ruixat molt feble durant la tarda, la jornada s'espera bastant calmada. No obstant això, un front més actiu podrà deixar plugims o xàfecs més repartits de cara a dilluns a la tarda i durant la matinada de dimarts. Les temperatures pujaran clarament a partir de diumenge, ja…",
+      "url": "https://www.ara.cat/previsions/temperatures-ascens-nuvols-pluja_1_5903478.html",
+      "published": "2026-11-07T21:00:45+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4f233bee-ebae-40df-8560-b86cf409100a_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Sant Andreu suma un punt en l’últim segon en la seva visita a Cartagena",
+      "excerpt": "Javier Rey continua sense conèixer la derrota amb Javi Rey a la banqueta quadribarrada. Després de superar el Terol, els quadribarrats han aconseguit un punt ‘in extremis’ en el seu partit contra el Cartagena. Un gol d’Alexis de penal, en el temps afegit, ha permès als andreuencs tornar de Múrcia amb un punt a la […]",
+      "url": "https://beteve.cat/esports/sant-andreu-suma-punt-visita-cartagena/",
+      "published": "2026-11-07T21:00:44+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/cartagena-sant-andreu-alexis-2026-11-07.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "No a tot, la vinyeta de Manel Fontdevila",
       "excerpt": "",
@@ -287,8 +387,18 @@
     },
     {
       "source": "betevé",
+      "title": "L’Europa B guanya el Cornellà i se situa com a líder provisional del grup 5 de la Tercera Federació",
+      "excerpt": "L’Europa B ha aconseguit un triomf de prestigi per dos gols a un davant el Cornellà al Nou Sardenya. Els gols d’Aiman Boussid i Nico Cochs han servit per certificar la tercera victòria consecutiva dels homes de Ramon Gatell, que són provisionalment líders a la classificació. Un inici trepidant encarrila la victòria La sortida de […]",
+      "url": "https://beteve.cat/esports/europa-b-guanya-cornella-lider-provisional/",
+      "published": "2026-11-07T20:29:32+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/EUROPA-B-CORNELLA-2026-11-07.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
       "title": "Centenars de joves es manifesten “contra els rendistes, els empresaris i els governs”",
-      "excerpt": "Centenars de joves s’ha manifestat aquest dissabte al vespre, a quatre dies de la vaga general de l’11 de novembre, “contra l’encariment de la vida” davant del Mercat de Sant Antoni. Convocats per l’Organització Juvenil Socialista (OJS), la protesta vol reunir tot el jovent que pateix el preu de l’habitatge, la manca de perspectives de […]",
+      "excerpt": "450 persones, segons la Guàrdia Urbana, s’han manifestat aquest dissabte al vespre, a quatre dies de la vaga general de l’11 de novembre, “contra l’encariment de la vida” davant del Mercat de Sant Antoni. Convocats per l’Organització Juvenil Socialista (OJS), la protesta vol reunir tot el jovent que pateix el preu de l’habitatge, la manca […]",
       "url": "https://beteve.cat/societat/joves-manifestacio-barcelona-contra-rendistes-empresaris-governs/",
       "published": "2026-11-07T20:17:45+01:00",
       "category": "societat",
@@ -693,6 +803,16 @@
       "published": "2026-11-07T16:46:17+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/7/0/1794067151607.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un pistoler d'ultradreta mata sis persones i en fereix 16 més a Cracòvia",
+      "excerpt": "Sis persones han mort i setze més han resultat ferides en un tiroteig aquest dissabte a la plaça principal de la ciutat polonesa de Cracòvia, la segona ciutat més gran del país. Segons ha informat la policia, uns agents han aconseguit disparar l'autor dels trets, que ha estat ingressat a l'hospital en estat greu. El ministre de l'Interior, Marcin Kierwinski, ha detallat que l'atacant, un ciutadà polonès de 25 anys, té \"opinions molt radicals\" i que \"tot apunta al fet que estava influenciat per la…",
+      "url": "https://www.ara.cat/internacional/almenys-cinc-morts-mes-10-ferits-tiroteig-cracovia_1_5903227.html",
+      "published": "2026-11-07T16:44:46+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7d86a700-faee-4c86-ac8e-a84d50f4a5e5_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
