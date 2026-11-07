@@ -12,6 +12,27 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "Es registra l'octubre més càlid a nivell global",
+      "excerpt": "És gairebé segur que el 2026 superarà els 1,5 °C per sobre dels nivells preindustrials",
+      "url": "https://www.3cat.cat/3catinfo/es-registra-loctubre-mes-calid-a-nivell-global/noticia/3438314/",
+      "published": "2026-11-07T12:34:06+01:00",
+      "updated": "2026-11-07T12:34:40+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/9/1794043367792.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Detingut al Raval un presumpte gihadista reincident per un delicte d’adoctrinament terrorista",
+      "excerpt": "La Policia Nacional ha detingut al Raval, a Ciutat Vella, un presumpte gihadista reincident i simpatitzant d’Estat Islàmic per un delicte d’adoctrinament terrorista. Segons la investigació, l’home mantenia perfils a les xarxes socials amb contingut radical i estava en contacte continu amb usuaris vinculats a l’entorn gihadista. L’Audiència Nacional n’ha decretat l’ingrés a la presó. […]",
+      "url": "https://beteve.cat/societat/detingut-gihadista-reincident-adoctrinament-terrorista-raval/",
+      "published": "2026-11-07T12:14:13+01:00",
+      "category": "seguretat ciutadana",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/gihadista-policia-nacional-071126-2026-11-07.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "Una \"incidència operativa\" provoca retards a diverses línies de Rodalies i als Regionals del sud",
       "excerpt": "Les afectacions es registren a l'R1, l'R2, l'R2 Nord, l'R2 Sud, l'R4 i els Regionals del sud. L'R8 també circula amb demores per una avaria a la infraestructura a Castellbisbal.",
@@ -120,6 +141,56 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "S’ha mort Josep Tarradellas Macià, fill de l’ex-president de la Generalitat, a Lausana",
+      "excerpt": "El professor universitari i expert en ecotoxicologia tenia vuitanta-quatre anys i havia dedicat part de la seva trajectòria a preservar i difondre el llegat documental del seu pare, el president Josep Tarradellas",
+      "url": "https://www.vilaweb.cat/noticies/sha-mort-josep-tarradellas-macia-fill-de-lex-president-de-la-generalitat-a-lausana/",
+      "published": "2026-11-07T12:39:32+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Comencen els treballs per transformar 10 parets mitgeres de Barcelona en façanes artístiques",
+      "excerpt": "Ja estan en marxa les primeres obres per transformar 10 parets mitgeres en creacions que combinin bellesa, sostenibilitat i millores per al veïnat. De moment, els treballs han començat a Sarrià – Sant Gervasi i a les Corts, i l’objectiu és que abans d’acabar l’any ja s’hagin iniciat les obres a totes les parets projectades. […]",
+      "url": "https://beteve.cat/societat/comencen-treballs-transformacio-parets-mitgeres-barcelona-facanes-artistiques/",
+      "published": "2026-11-07T12:34:50+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/facanes-urbanes-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La glacera de la Maladeta s’ha reduït un 76% d’ençà de 1991 i el ritme de retrocés s’intensifica en la darrera dècada",
+      "excerpt": "Després d’un estiu amb rècords de calor, el frontal de la massa de gel ha retrocedit fins a disset metres",
+      "url": "https://www.vilaweb.cat/noticies/la-glacera-de-la-maladeta-sha-reduit-un-76-denca-de-1991-i-el-ritme-de-retroces-sintensifica-en-la-darrera-decada/",
+      "published": "2026-11-07T12:29:02+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "50 detinguts en l'operació més gran contra una xarxa que facilitava l'entrada irregular de migrants",
+      "excerpt": "Les víctimes, majoritàriament del Pakistan, pagaven fins a 30.000 euros i l'organització comptava amb empresaris per fer contractes fraudulents",
+      "url": "https://www.3cat.cat/3catinfo/50-detinguts-en-loperacio-mes-gran-contra-una-xarxa-que-facilitava-lentrada-irregular-de-migrants/noticia/3438470/",
+      "published": "2026-11-07T12:27:14+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/3/1794048195330.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "“Què faig fotuda en aquesta tragèdia, si soc una dona de comèdia?”",
+      "excerpt": "Marisol Galdón (Sabadell, 1962) és una de les veus pioneres de Catalunya Ràdio, una de les primeres dones que va fer de discjòquei a les nits de la Catalunya dels anys 80, una icona de la televisió dels anys 90 i 2000, una persona culta, apassionada i vehement, que sempre ha anat per lliure i a qui es disputaven els millors programes de totes les cadenes. Però tot això un dia va canviar. El 2021 va publicar un vídeo explicant la seva precària situació econòmica…",
+      "url": "https://www.ara.cat/media/fotuda-aquesta-tragedia-dona-comedia_128_5901289.html",
+      "published": "2026-11-07T12:00:33+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2f54809f-bc3f-489c-b8d8-a857934d69c4_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Preparant-se per a la jubilació",
       "excerpt": "Carles Sans hi torna. Després de tancar l’etapa silent amb Tricicle, va volar sol de la mà de la paraula amb un espectacle de gran èxit que ha girat durant cinc anys: Per fi sol! I continua parlant. Fins i tot una mica massa, perquè els gags verbals li funcionen menys que els gestuals. Diu Me’n vaig , però a la fi potser farà com els toreros que no acaben de marxar mai del cercle d’albera. El leivmotiv de la nova proposta és justament què…",
@@ -132,7 +203,7 @@
     {
       "source": "ARA",
       "title": "Cau una xarxa que introduïa immigrants pakistanesos de manera irregular a Catalunya",
-      "excerpt": "Cop policial contra el tràfic de persones a Catalunya. Els Mossos d'Esquadra han detingut mig centenar de membres d'una xarxa criminal que va guanyar més de tres milions d'euros introduint immigrants pakistanesos de manera irregular al país. Tres d'ells han ingressat a la presó. L'organització feia pagar fins a 30.000 euros a les víctimes, que molts cops acabaven treballant en feines properes a l'explotació. Per a fer-ho, la xarxa se servia d'empresaris que simulaven contractes fraudulents.",
+      "excerpt": "Cop policial contra el tràfic de persones a Catalunya. Els Mossos d'Esquadra han detingut mig centenar de membres d'una xarxa criminal que hauria guanyat més de tres milions d'euros introduint immigrants pakistanesos de manera irregular al país. Tres han ingressat a la presó. L'organització feia pagar fins a 30.000 euros a les víctimes, que molts cops acabaven treballant en feines properes a l'explotació. La xarxa se servia d'empresaris que simulaven contractes fraudulents.",
       "url": "https://www.ara.cat/societat/successos/cau-xarxa-introduia-immigrants-pakistanesos-manera-irregular-catalunya_1_5903029.html",
       "published": "2026-11-07T11:35:35+01:00",
       "category": "Actualitat",
@@ -141,8 +212,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Detenen 50 membres d’una xarxa que va guanyar més de 3 milions introduint immigrants de manera irregular a Catalunya",
-      "excerpt": "L'organització feia pagar fins a 30.000 euros a les víctimes i se servia d'empresaris per dur a terme els enganys",
+      "title": "Detenen 50 membres d’una xarxa que va guanyar més de 3 milions d’euros amb el tràfic irregular d’immigrants a Catalunya",
+      "excerpt": "L'organització cobrava fins a 30.000 euros a les víctimes i comptava amb la col·laboració d’empresaris per a dur a terme els enganys",
       "url": "https://www.vilaweb.cat/noticies/detenen-50-membres-xarxa-3-milions-introduint-immigrants-rregular-catalunya/",
       "published": "2026-11-07T11:13:59+01:00",
       "category": "Societat",
@@ -162,7 +233,7 @@
     {
       "source": "VilaWeb",
       "title": "València celebra els vint-i-cinc anys de la Viquipèdia en català amb la XIX Viquitrobada",
-      "excerpt": "La trobada reuneix aquest cap de setmana la comunitat viquipedista per a debatre sobre els biaixos de l'enciclopèdia, els reptes de la intel·ligència artificial i els nous projectes per impulsar el coneixement lliure en català",
+      "excerpt": "La comunitat viquipedista es reuneix aquest cap de setmana per debatre sobre els biaixos de l'enciclopèdia, els desafiaments de la intel·ligència artificial i els nous projectes per a impulsar el coneixement lliure en català",
       "url": "https://www.vilaweb.cat/noticies/valencia-celebra-25-anys-viquipedia-catala-xix-viquitrobada/",
       "published": "2026-11-07T10:45:12+01:00",
       "category": "Societat",
@@ -216,8 +287,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Una ‘incidència operativa’ altera el servei d’unes quantes línies de Rodalia i Regionals Sud",
-      "excerpt": "Hi ha retards i serveis fora d’horari habitual a la R1, R2, R2 Nord, R2 Sud, R4, Regionals Sud i la R8",
+      "title": "Una incidència operativa altera el servei d’unes quantes línies de Rodalia i els Regionals sud",
+      "excerpt": "Hi ha retards i serveis fora d’horari habitual a les línies R1, R2, R2 nord, R2 sud, R4, Regionals sud i R8",
       "url": "https://www.vilaweb.cat/noticies/una-incidencia-altera-el-servei-dunes-quantes-linies-de-rodalia-i-regionals-sud/",
       "published": "2026-11-07T09:58:04+01:00",
       "category": "Societat",
@@ -246,8 +317,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La Oreja de Van Gogh canta ‘Boig per tu’ al Palau Sant Jordi",
-      "excerpt": "Amaia Montero canta un fragment de 'Boig per tu', de Sau, sense recordar-ne la lletra, mentre alguns espectadors critiquen que va desafinar en diverses cançons del concert",
+      "title": "La Oreja de Van Gogh canta “Boig per tu” al Palau Sant Jordi",
+      "excerpt": "Amaia Montero canta un fragment de “Boig per tu”, de Sau, sense recordar-ne la lletra · Alguns espectadors critiquen que va cantar unes quantes cançons amb desafinació",
       "url": "https://www.vilaweb.cat/noticies/la-oreja-de-van-gogh-canta-boig-per-tu-al-palau-sant-jordi/",
       "published": "2026-11-07T09:32:29+01:00",
       "category": "Cultura",
@@ -257,7 +328,7 @@
     {
       "source": "ARA",
       "title": "Detingut l’expresident del Paraguai després de ser destituït com a senador",
-      "excerpt": "L'expresident del Paraguai, Santiago Peña, ha estat detingut aquesta nit a la seva residència d'Asunción, poques hores després que el Senat el destituís en un judici polític per “mal exercici de les seves funcions”. La Fiscalia investiga si Peña va cometre els delictes de lesió de confiança, administració en profit propi i tràfic d’influències en relació amb la caiguda d’Ueno Bank, un conglomerat on va tenir accions fins al març del 2025 i on van anar a parar fons milionaris de caixes de jubilació estatals…",
+      "excerpt": "L'expresident del Paraguai, Santiago Peña, ha estat detingut aquest dissabte a la matinada a la seva residència d'Asunción, on ha quedat sota arrest domiciliari, poques hores després que el Senat el destituís en un judici polític per “mal exercici de les seves funcions”. La Fiscalia investiga si Peña va cometre els delictes de lesió de confiança, administració en profit propi i tràfic d’influències en relació amb la caiguda d’Ueno Bank, un conglomerat on va tenir accions fins al març del 2025 i on van anar…",
       "url": "https://www.ara.cat/internacional/detingut-l-expresident-paraguai-despres-destituit-pel-senat_1_5902941.html",
       "published": "2026-11-07T09:11:43+01:00",
       "category": "Actualitat",
@@ -312,7 +383,7 @@
     {
       "source": "ARA",
       "title": "\"Em va impressionar la humanitat de Zelenski\"",
-      "excerpt": "L’única condició que Jaume Duch Guillot (Barcelona, 1962) va posar al president Salvador Illa quan li va proposar la conselleria d’Exteriors va ser canviar l’ordre del nom del càrrec. És a dir, passar de conseller d’Acció Exterior i Unió Europea de Catalunya a conseller d’Unió Europea i Acció Exterior de Catalunya. Europa al davant. En un moment decisiu i urgent per al continent, Duch fa un repàs de l’actualitat internacional i el rol que pot jugar Catalunya. La conversa té lloc setmanes després d’haver-se reunit…",
+      "excerpt": "L’única petició que Jaume Duch Guillot (Barcelona, 1962) va fer al president Salvador Illa quan li va proposar la conselleria d’Exteriors va ser canviar l’ordre del nom del càrrec. És a dir, passar de conseller d’Acció Exterior i Unió Europea de Catalunya a conseller d’Unió Europea i Acció Exterior de Catalunya. Europa al davant. En un moment decisiu i urgent per al continent, Duch fa un repàs de l’actualitat internacional i el rol que pot jugar Catalunya. La conversa té lloc setmanes després d’haver-se reunit…",
       "url": "https://www.ara.cat/internacional/europa/em-impressionar-humanitat-zelenski_128_5902465.html",
       "published": "2026-11-07T08:00:49+01:00",
       "category": "Actualitat",
@@ -321,7 +392,7 @@
     },
     {
       "source": "ARA",
-      "title": "Vox ja parla els fills en català",
+      "title": "Vox ja parla als fills en català",
       "excerpt": "\"És per això que a la meva filla li parlo en català. Perquè no vull que desconegui ni d'on ve, ni de quins escuts disposa per defensar-se d'un globalisme apàtrida, i, el pitjor, que imposa la nostra dissolució per regalar el que és nostre a uns altres\". Aquesta frase no és de cap dirigent d'Aliança Catalana, sinó de Vox. En concret, del seu cap de llista per Tarragona, Jordi de la Fuente , que va voler rememorar a X unes paraules del polític d'extrema dreta…",
       "url": "https://www.ara.cat/politica/eleccions-generals/vox-ja-parla-fills-catala_1_5897470.html",
       "published": "2026-11-07T08:00:49+01:00",
