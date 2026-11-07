@@ -12,6 +12,42 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "Nogueras condiciona el suport al nou govern espanyol a la recaptació i la gestió dels impostos a Catalunya",
+      "excerpt": "La candidata de Junts diu que cal tenir \"prou força\" perquè \"cap partit inútil decideixi per als catalans\"",
+      "url": "https://www.vilaweb.cat/noticies/nogueras-recaptacio-gestio-impostos-catalunya-condicio-govern-espanyol/",
+      "published": "2026-11-07T13:46:27+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge:  temperatura en ascens, matí de sol i tarda de núvols",
+      "excerpt": "Encetem el camí cap a l'estiuet de Sant Martí",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/",
+      "published": "2026-11-07T09:49:31+01:00",
+      "updated": "2026-11-07T13:35:46+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/9/1794036234693.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435071/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Sindicat de Llogateres denuncia l’Ajuntament de Barcelona per no aplicar el 30% d’habitatge protegit a les finques de Vandor",
+      "excerpt": "L'entitat denuncia la inactivitat municipal davant les obres de gran rehabilitació de l'immobiliària i anuncia dos nous recursos contenciosos · Assegura que l'aplicació de la normativa permetria d'incorporar 17 habitatges protegits en quatre edificis sense inversió pública",
+      "url": "https://www.vilaweb.cat/noticies/sindicat-llogateres-ajuntament-barcelona-tribunals-incompliment-habitatge-protegit/",
+      "published": "2026-11-07T13:32:16+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "Es registra l'octubre més càlid a nivell global",
       "excerpt": "És gairebé segur que el 2026 superarà els 1,5 °C per sobre dels nivells preindustrials",
@@ -60,22 +96,6 @@
       "published": "2026-11-07T10:22:36+01:00",
       "category": "mobilitat",
       "image": "https://img.beteve.cat/wp-content/uploads/2022/10/retard-soterrament-vies-adif.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge:  temperatura en ascens, matí de sol i tarda de núvols",
-      "excerpt": "Encetem el camí cap a l'estiuet de Sant Martí",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/",
-      "published": "2026-11-07T09:49:31+01:00",
-      "updated": "2026-11-07T10:00:42+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/9/1794036234693.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435071/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -141,9 +161,109 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "B de gust:",
+      "excerpt": "Assaboreix l’oferta gastronòmica de Barcelona cada migdia. El ‘B de gust’ et convida a entrar a bars i forns de barri, restaurants de cuina catalana o internacional i mercats de producte fresc. Tot això, amanit amb entrevistes, receptes, reportatges i recomanacions. Presentat per Carmen Cortés.",
+      "url": "https://beteve.cat/b-de-gust/b-de-gust-40/",
+      "published": "2026-11-07T13:48:27+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Retards d’almenys 30 minuts a l’R1, R2, R2 Nord, R2 Sud, R4 i regionals sud per una incidència",
+      "excerpt": "Els trens de l’R1, l’R2, l’R2 Nord, L’R2, l’R4 i els regionals sud circulen amb retards que poden superar 30 minuts durant el matí d’aquest dissabte, 7 de novembre, com a conseqüència d’una incidència operativa que Rodalies de Catalunya no ha especificat. Els retards s’han començat a registrar poc després de les 8 h del […]",
+      "url": "https://beteve.cat/mobilitat/incidencies-rodalies-catalunya-trens/",
+      "published": "2026-11-07T13:35:42+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/05/Pictos-ultima-hora_en-temps-real-2.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La floreta de Diego Simeone al Barça: “Son el millor equip”",
+      "excerpt": "Ni vuit minuts ha durat la roda de premsa de Diego Pablo Simeone prèvia al partit entre l’Atlètic de Madrid i el Barça d’aquest diumenge. El tècnic matalasser ha estat molt escuet en les seves respostes. Sobretot, quan se li ha preguntat pel nom de l’estiu: Julián Álvarez. “Està molt bé”, ha respost quan li […]",
+      "url": "https://beteve.cat/esports/floreta-diego-simeone-barca-millor-equip/",
+      "published": "2026-11-07T13:16:20+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/Fotos-Beteve-2026-11-07T131534.713-2026-11-07.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La família de Guillem Agulló arrenca a Sánchez el compromís de reconèixer-lo com a víctima del terrorisme",
+      "excerpt": "El president del govern espanyol es va reunir ahir a València amb els familiars del jove antifeixista assassinat per un grup de neonazis el 1993 i es va mostrar disposat a fer els tràmits necessaris perquè la petició tiri endavant",
+      "url": "https://www.vilaweb.cat/noticies/familia-de-guillem-agullo-arrenca-sanchez-compromis-reconeixer-victima-terrorisme/",
+      "published": "2026-11-07T13:06:20+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sánchez porta la precampanya a Catalunya i demana una \"majoria àmplia\" per frenar PP i Vox",
+      "excerpt": "Pedro Sánchez ha portat aquest dissabte la precampanya pel 29-N a Catalunya. El president espanyol i líder del PSOE ha aterrat a Tarragona per demanar una \"majoria àmplia\" que permeti frenar les aspiracions de PP i Vox d'arribar al govern espanyol. \"Si votem en massa, enviem a casa Feijóo i Abascal\", ha cridat Sánchez. Ara bé, tot i ser a Catalunya, el president espanyol no ha fet cap referència específica a cap de les carpetes que va obrir durant el seu mandat, com ara l'amnistia…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/sanchez-porta-precampanya-catalunya-demana-majoria-amplia-frenar-pp-vox_1_5903018.html",
+      "published": "2026-11-07T13:03:10+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1a982b06-a901-4208-87d9-59d66387c3fc_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El sistema sanitari, en guàrdia davant l'onada de ciberatacs a Europa",
+      "excerpt": "Primer van ser diversos supermercats del nord d'Europa i, després, el sistema de refrigeració d'un banc de sang francès. Europa viu una onada de ciberatacs que l'Agència de Ciberseguretat (ENISA) i la Comissió Europea qualifiquen de \"greu\" per l'impacte que pot tenir en serveis i infraestructures essencials i les pèrdues econòmiques importants que pot comportar. Encara no s'ha confirmat l'autoria de cap dels incidents i les autoritats nacionals i comunitàries no han constatat si formen part de cap operació coordinada. Ara bé, la coincidència temporal…",
+      "url": "https://www.ara.cat/societat/salut/sistema-sanitari-guardia-davant-l-onada-ciberatacs-europa_1_5902296.html",
+      "published": "2026-11-07T13:00:23+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f30353ba-81ea-4acd-afe4-83d299923325_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un autoretrat inèdit, un mural ocult i un teló reciclat: els secrets de Gaudí que han sortit a la llum",
+      "excerpt": "Un segle després de la mort d'Antoni Gaudí, la seva obra continua plantejant preguntes. La Pedrera va acollir del 22 al 25 d'octubre el primer Congrés Internacional Gaudí, amb més de 40 recerques inèdites, que anaven de les tècniques constructives i els criteris de conservació a la documentació històrica i la lectura contemporània del seu llegat. Al programa també hi havia ponències sobre l'ornamentació vegetal del Palau Güell i la documentació de la intervenció de Gaudí a la catedral de Mallorca. Aquestes són tres de…",
+      "url": "https://www.ara.cat/cultura/arquitectura/autoretrat-inedit-mural-ocult-telo-reciclat-secrets-gaudi-han-sortit-llum_130_5896715.html",
+      "published": "2026-11-07T13:00:22+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/40f52bea-11d3-49ba-8655-3835dc14f10f_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Els republicans han de buscar nou líder: Vance i Rubio també han quedat tocats\"",
+      "excerpt": "Robert Yale Shapiro és doctor en ciències polítiques i vicedegà de l'Escola d'Afers Públics i Internacionals de la Universitat de Colúmbia i està especialitzat en política nord-americana, opinió pública i lideratge polític. Atén l'ARA per telèfon des de Nova York, per valorar les històriques eleccions de mig mandat que han donat la majoria de les dues cambres al Partit Demòcrata.",
+      "url": "https://www.ara.cat/internacional/estats-units/republicans-han-buscar-nou-lider-vance-rubio-tambe-han-quedat-tocats_128_5901890.html",
+      "published": "2026-11-07T13:00:22+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1df595bf-3db4-415a-a0e0-98f99137e5c2_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "França torna a mobilitzar 70.000 policies davant del quart dissabte consecutiu de protestes",
+      "excerpt": "Aquest dissabte hi ha una nova protesta convocada, amb epicentre a París, dos dies després de la gran mobilització nacional del dijous",
+      "url": "https://www.3cat.cat/3catinfo/franca-torna-a-mobilitzar-70000-policies-davant-del-quart-dissabte-consecutiu-de-protestes/noticia/3438461/",
+      "published": "2026-11-07T12:59:34+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/9/1793456308696.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Sindicat de Llogateres demandarà l’Ajuntament per no fer complir el 30 % en blocs de Vandor",
+      "excerpt": "El Sindicat de Llogateres ha anunciat accions legals contra l’Ajuntament de Barcelona perquè assegura que no està fent complir la cessió del 30 % d’habitatge protegit en blocs de pisos propietat de l’empresa Vandor. En una convocatòria a la cruïlla d’Entença amb Diputació, on han fet acte de presència alguns veïns dels blocs afectats, han […]",
+      "url": "https://beteve.cat/economia/sindicat-llogateres-demandara-ajuntament-barcelona-30-per-cent/",
+      "published": "2026-11-07T12:55:47+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/accio-sindicat-llogateres-2026-11-07.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "S’ha mort Josep Tarradellas Macià, fill de l’ex-president de la Generalitat, a Lausana",
-      "excerpt": "El professor universitari i expert en ecotoxicologia tenia vuitanta-quatre anys i havia dedicat part de la seva trajectòria a preservar i difondre el llegat documental del seu pare, el president Josep Tarradellas",
+      "excerpt": "El professor universitari i expert en ecotoxicologia tenia vuitanta-quatre anys · Va treballar per preservar i divulgar el llegat documental del seu pare, l'ex-president Josep Tarradellas",
       "url": "https://www.vilaweb.cat/noticies/sha-mort-josep-tarradellas-macia-fill-de-lex-president-de-la-generalitat-a-lausana/",
       "published": "2026-11-07T12:39:32+01:00",
       "category": "Societat",
@@ -162,8 +282,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La glacera de la Maladeta s’ha reduït un 76% d’ençà de 1991 i el ritme de retrocés s’intensifica en la darrera dècada",
-      "excerpt": "Després d’un estiu amb rècords de calor, el frontal de la massa de gel ha retrocedit fins a disset metres",
+      "title": "La glacera de la Maladeta s’ha reduït d’un 76% d’ençà del 1991 i el ritme de retrocés s’intensifica en aquesta darrera dècada",
+      "excerpt": "Després d’un estiu amb rècords de calor, el frontal de la massa de gel ha retrocedit fins a 17 metres",
       "url": "https://www.vilaweb.cat/noticies/la-glacera-de-la-maladeta-sha-reduit-un-76-denca-de-1991-i-el-ritme-de-retroces-sintensifica-en-la-darrera-decada/",
       "published": "2026-11-07T12:29:02+01:00",
       "category": "Societat",
@@ -328,7 +448,7 @@
     {
       "source": "ARA",
       "title": "Detingut l’expresident del Paraguai després de ser destituït com a senador",
-      "excerpt": "L'expresident del Paraguai, Santiago Peña, ha estat detingut aquest dissabte a la matinada a la seva residència d'Asunción, on ha quedat sota arrest domiciliari, poques hores després que el Senat el destituís en un judici polític per “mal exercici de les seves funcions”. La Fiscalia investiga si Peña va cometre els delictes de lesió de confiança, administració en profit propi i tràfic d’influències en relació amb la caiguda d’Ueno Bank, un conglomerat on va tenir accions fins al març del 2025 i on van anar…",
+      "excerpt": "L'expresident del Paraguai, Santiago Peña, ha estat detingut aquest dissabte a la matinada a la seva residència d'Asunción, on ha quedat sota arrest domiciliari, poques hores després que el Senat el destituís en un judici polític per “mal exercici de les seves funcions”. La Fiscalia investiga si Peña va cometre els delictes de lesió de confiança, administració en profit propi i tràfic d’influències en relació amb la caiguda de Ueno Bank, un conglomerat on va tenir accions fins al març del 2025 i on van…",
       "url": "https://www.ara.cat/internacional/detingut-l-expresident-paraguai-despres-destituit-pel-senat_1_5902941.html",
       "published": "2026-11-07T09:11:43+01:00",
       "category": "Actualitat",
