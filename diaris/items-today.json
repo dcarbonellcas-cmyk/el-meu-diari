@@ -1,4 +1,25 @@
 {
   "date": "2026-11-07",
-  "items": []
+  "items": [
+    {
+      "source": "betevé",
+      "title": "El principi d’Arquimedes – Por",
+      "excerpt": "Adaptació televisiva de lobra de Josep Maria Miró, un dels grans èxits del teatre català contemporani. La sèrie, formada per sis capítols de 10 minuts, trasllada a la pantalla una història que posa el focus en la confiança, la por, els prejudicis i els dubtes que poden desencadenar-se a partir dun gest.",
+      "url": "https://beteve.cat/episodic/el-principi-darquimedes-por/",
+      "published": "2026-11-07T03:11:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El principi d’Arquimedes – Espantar",
+      "excerpt": "Adaptació televisiva de lobra de Josep Maria Miró, un dels grans èxits del teatre català contemporani. La sèrie, formada per sis capítols de 10 minuts, trasllada a la pantalla una història que posa el focus en la confiança, la por, els prejudicis i els dubtes que poden desencadenar-se a partir dun gest.",
+      "url": "https://beteve.cat/episodic/el-principi-darquimedes-espantar/",
+      "published": "2026-11-07T03:10:57+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    }
+  ]
 }
