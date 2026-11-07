@@ -3,6 +3,16 @@
   "items": [
     {
       "source": "VilaWeb",
+      "title": "Una dècada després de l’esclat de la guerra civil, el fantasma de la crisi humanitària torna a planar sobre el Iemen",
+      "excerpt": "L'avenç dels hutis i la represa de la guerra civil ha abocat una part del país a una crisi d'escassetat d'aliments i de medicaments",
+      "url": "https://www.vilaweb.cat/noticies/crisi-humanitaria-iemen-guerra-civil/",
+      "published": "2026-11-07T21:40:32+01:00",
+      "category": "The Washington Post",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
       "title": "Avançament editorial: ‘Perdre una guerra’, de Jon Lee Anderson",
       "excerpt": "L’editorial Saldonar publica per primera vegada l’obra d’aquest periodista de guerra al català, amb el relat del fracàs dels Estats Units a l’Afganistan",
       "url": "https://www.vilaweb.cat/noticies/avancament-editorial-perdre-una-guerra-de-jon-lee-anderson/",
@@ -13,7 +23,7 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Les autoritats poloneses diuen que l’autor de l’atemptat que ha matat sis persones era d’extrema dreta",
+      "title": "L’autor de l’atemptat de Cracòvia havia matat abans tres membres de la seva família",
       "excerpt": "El ministre de l'Interior polonès, Marcin Kierwiński responsabilitza un jove polonès de vint-i-cinc anys, d'extrema dreta, de l'atemptat que ha causat sis morts i quinze persones ferides, dotze de les quals en estat greu",
       "url": "https://www.vilaweb.cat/noticies/almenys-cinc-morts-i-diversos-ferits-en-un-atac-amb-arma-de-foc-al-centre-de-cracovia/",
       "published": "2026-11-07T16:43:23+01:00",
@@ -24,7 +34,7 @@
     {
       "source": "3CatInfo",
       "title": "Almenys 6 morts en un tiroteig al centre de Cracòvia \"inspirat per ideologies d'extrema dreta\"",
-      "excerpt": "La policia ha ferit i ha detingut l'autor de l'atemptat a la popular plaça del Mercat, un ciutadà polonès de 25 anys, segons ha confirmat el ministre de l'Interior",
+      "excerpt": "S'han trobat tres cadàvers més a la casa de l'autor de l'atac terrorista, un ciutadà polonès de 25 anys a qui la policia ha disparat i detingut",
       "url": "https://www.3cat.cat/3catinfo/almenys-5-morts-i-una-dotzena-de-ferits-en-un-tiroteig-al-centre-de-cracovia/noticia/3438505/",
       "published": "2026-11-07T16:29:39+01:00",
       "category": "Actualitat",
@@ -52,6 +62,22 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de diumenge:  temperatura en ascens, matí de sol i tarda de núvols",
+      "excerpt": "Encetem el camí cap a l'estiuet de Sant Martí",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/",
+      "published": "2026-11-07T09:49:31+01:00",
+      "updated": "2026-11-07T22:19:50+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/6/1794086356764.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435183/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "El president israelià encarrega a Gadi Eisenkot, rival de Netanyahu, la missió de formar govern",
       "excerpt": "Considera que el líder del bloc de l'oposició és qui té més opcions d'aconseguir prou suports de cara a la investidura, després d'unes eleccions molt ajustades",
@@ -73,8 +99,8 @@
     },
     {
       "source": "ARA",
-      "title": "El president d'Israel encarrega a Gadi Eisenkot formar el nou govern",
-      "excerpt": "El president d'Israel, Isaac Herzog, ha encarregat a Gadi Eisenkot, líder del partit Yashar i principal rival polític de Benjamin Netanyahu, la formació d'un nou govern. La decisió s'ha anunciat aquest dissabte després de dies de consultes amb les diferents forces polítiques del país. Eisenkot, excap de l'Estat Major de l'exèrcit israelià, ha rebut el suport de 67 dels 120 diputats de la Knesset, el Parlament israelià. En canvi, 46 parlamentaris han recomanat que Netanyahu continuï al capdavant del govern, mentre que una formació ultraortodoxa…",
+      "title": "El president d'Israel encarrega a l'opositor Gadi Eisenkot formar el nou govern",
+      "excerpt": "El president d'Israel, Isaac Herzog, ha encarregat a Gadi Eisenkot, líder del partit Yashar i principal rival polític de Benjamin Netanyahu, la formació d'un nou govern. La decisió s'ha anunciat aquest dissabte, després de diversos dies de consultes amb les forces polítiques sorgides de les eleccions del 27 d'octubre. \"Faré tot el possible perquè siguem dignes\", ha escrit Eisenkot a X, on ha fet una crida a formar \"un govern nacional d'emergència\".",
       "url": "https://www.ara.cat/internacional/proxim-orient/president-d-israel-encarrega-gadi-eisenkot-formar-nou-govern_1_5903824.html",
       "published": "2026-11-07T20:55:13+01:00",
       "category": "Actualitat",
@@ -119,22 +145,6 @@
       "published": "2026-11-07T19:00:35+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/3aeee699-4086-485b-81b3-ce3ac70eccec_source-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de diumenge:  temperatura en ascens, matí de sol i tarda de núvols",
-      "excerpt": "Encetem el camí cap a l'estiuet de Sant Martí",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/",
-      "published": "2026-11-07T09:49:31+01:00",
-      "updated": "2026-11-07T17:25:27+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/3/4/1794068688743.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435133/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -185,8 +195,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Nogueras condiciona el suport al nou govern espanyol a la recaptació i la gestió dels impostos a Catalunya",
-      "excerpt": "La candidata de Junts diu que cal tenir \"prou força\" perquè \"cap partit inútil decideixi per als catalans\"",
+      "title": "Nogueras condiciona el suport al nou govern espanyol a la recaptació i la gestió dels imposts a Catalunya",
+      "excerpt": "La candidata de Junts diu que cal tenir prou força perquè “cap partit inútil decideixi pels catalans\"",
       "url": "https://www.vilaweb.cat/noticies/nogueras-recaptacio-gestio-impostos-catalunya-condicio-govern-espanyol/",
       "published": "2026-11-07T13:46:27+01:00",
       "category": "Principat",
@@ -195,8 +205,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "El Sindicat de Llogateres denuncia l’Ajuntament de Barcelona per no aplicar el 30% d’habitatge protegit a les finques de Vandor",
-      "excerpt": "L'entitat denuncia la inactivitat municipal davant les obres de gran rehabilitació de l'immobiliària i anuncia dos nous recursos contenciosos · Assegura que l'aplicació de la normativa permetria d'incorporar 17 habitatges protegits en quatre edificis sense inversió pública",
+      "title": "El Sindicat de Llogateres denuncia l’Ajuntament de Barcelona per no haver aplicat el 30% d’habitatge protegit a les finques de Vandor",
+      "excerpt": "L'entitat denuncia la inactivitat municipal en relació amb les obres de gran rehabilitació de la immobiliària i anuncia dos nous recursos contenciosos · Assegura que l'aplicació de la normativa permet d'incorporar 17 habitatges protegits en quatre edificis, sense inversió pública",
       "url": "https://www.vilaweb.cat/noticies/sindicat-llogateres-ajuntament-barcelona-tribunals-incompliment-habitatge-protegit/",
       "published": "2026-11-07T13:32:16+01:00",
       "category": "Societat",
@@ -306,6 +316,76 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "El futur del trumpisme no només depèn de Trump",
+      "excerpt": "En l'última dècada, Donald Trump s'ha convertit en la figura central del moviment ultraconservador. Però ell no va inventar el trumpisme. El republicà va convertir-se en el catalitzador d'un fenomen més profund que va iniciar-se amb el Tea Party durant el primer any de Barack Obama a la Casa Blanca i en ple epicentre de la gran crisi econòmica de final del 2000. Trump és el símptoma d'un canvi de cicle polític que tenia unes arrels molt més profundes i estructurals. Mort el gos, morta…",
+      "url": "https://www.ara.cat/internacional/estats-units/futur-trumpisme-no-nomes-depen-trump_1_5903178.html",
+      "published": "2026-11-07T22:01:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7cfa222e-ec1b-4d26-99b4-ac28f82bca59_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Línia de salida",
+      "excerpt": "El documental que veurem a ‘Punt de fuga’ ens descobrirà un grup de persones que, a través de lesport, afronten la rehabilitació per problemes d’addicció. Tot seguit, a la sala, parlarem amb un metge expert i amb persones que han passat per aquest procés.",
+      "url": "https://beteve.cat/punt-de-fuga/linia-de-salida/",
+      "published": "2026-11-07T21:57:30+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Joan Safont: “El poder és també d’aquells qui mouen la tramoia de la història”",
+      "excerpt": "Entrevista a Joan Safont pel llibre ‘Amadeu Hurtado, l'eminència grisa’, una biografia d'aquest personatge històric que travessa la història del catalanisme polític i cultural",
+      "url": "https://www.vilaweb.cat/noticies/joan-safont/",
+      "published": "2026-11-07T21:50:38+01:00",
+      "category": "Lletres",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Míriam Iscla: “Tenir cura de les paraules no ens fa més elitistes ni més intel·lectuals”",
+      "excerpt": "Entrevista a l'actriu, que aquests dies protagonitza 'Morning Sun' a la sala la Villarroel de Barcelona, al costat d'Anna Güell i Raquel Ferri",
+      "url": "https://www.vilaweb.cat/noticies/entrevista-miriam-iscla-morning-sun/",
+      "published": "2026-11-07T21:40:55+01:00",
+      "category": "Cultura",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Neix la marca Rancis Catalans, per reivindicar els vins oxidatius secs del nord i del sud del país",
+      "excerpt": "Jan Lhéritier fundador de la fira Be Ranci! al Rosselló, i Jaume Balaguer, president de la DOQ Priorat, són els impulsors i fundadors d’aquesta marca europea",
+      "url": "https://www.vilaweb.cat/noticies/neix-la-marca-rancis-catalans-per-reivindicar-els-vins-oxidatius-secs-del-nord-i-del-sud-del-pais/",
+      "published": "2026-11-07T21:40:44+01:00",
+      "category": "Vinyaserra",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Amenaces als avions, neveres que es desconnecten…: la setmana més estranya i inquietant per a Europa",
+      "excerpt": "Dotzenes d'incidents de seguretat han coincidit en el temps en uns quants països sense que, de moment, siga possible d'establir-hi una connexió · L'absència de patrons genera preocupació i nerviosisme entre governs",
+      "url": "https://www.vilaweb.cat/noticies/amenaces-als-avions-neveres-que-es-desconnecten-la-setmana-mes-estranya-i-inquietant-per-a-europa/",
+      "published": "2026-11-07T21:40:39+01:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "“Poseu-vos les guerres culturals on us càpiguen”",
+      "excerpt": "A la conservadora Texas, la candidata demòcrata, Gina Hinojosa, ha guanyat Trump defugint el ‘wokisme’ i les guerres culturals",
+      "url": "https://www.vilaweb.cat/noticies/guerres-culturals-capiguen/",
+      "published": "2026-11-07T21:40:25+01:00",
+      "category": "Mail Obert",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "Muntanyesa-Tona: el duel de Tercera per continuar sent líder, en directe a betevé",
       "excerpt": "El Muntanyesa és l’actual líder del grup cinquè de la Tercera Divisió, empatat a punts amb el Vilanova. El conjunt de Nou Barris vol continuar al capdavant de la classificació i, per no posar en perill aquesta posició, haurà d’aconseguir la victòria aquest diumenge, 8 de novembre, contra el Tona, a la Bombonera. El partit, […]",
@@ -407,8 +487,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Rodalia funcionarà amb serveis mínims d’entre el 25% i el 66% durant les vagues de la setmana que ve",
-      "excerpt": "Els trens circularan amb menys freqüència els dies 10, 11 i 12 de novembre, amb afectacions diferents segons la jornada i la franja horària",
+      "title": "Rodalia funcionarà amb serveis mínims que oscil·laran entre el 25% i el 66% durant les vagues de la setmana vinent",
+      "excerpt": "Els trens circularan amb menys freqüència els dies 10, 11 i 12 de novembre, amb afectacions diferents segons el dia i la franja horària",
       "url": "https://www.vilaweb.cat/noticies/rodalia-serveix-minims-vagues/",
       "published": "2026-11-07T20:16:52+01:00",
       "category": "Societat",
@@ -437,8 +517,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Carles Peris és reelegit secretari general de la Unió Llauradora i Ramadera",
-      "excerpt": "218 delegats de totes les comarques participen en el congrés que marca les línies dels propers quatre anys",
+      "title": "Carles Peris, reelegit secretari general de la Unió Llauradora i Ramadera",
+      "excerpt": "Un total de 218 delegats de totes les comarques participen en el congrés que marca les línies dels pròxims quatre anys",
       "url": "https://www.vilaweb.cat/noticies/carles-peris-es-reelegit-secretari-general-de-la-unio-llauradora-i-ramadera/",
       "published": "2026-11-07T19:22:49+01:00",
       "category": "País Valencià",
@@ -657,8 +737,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Més d’un miler de persones es manifesten a Perpinyà per reivindicar la llengua i la identitat catalanes",
-      "excerpt": "La mobilització de la Diada de Catalunya Nord ha començat a les 16.30, després d’una concentració a la plaça de Catalunya, amb una forta presència policial i una participació destacada d’estudiants",
+      "title": "Més d’un miler de manifestants protesten a Perpinyà per reivindicar la llengua i la identitat catalanes",
+      "excerpt": "La mobilització de la Diada de Catalunya Nord ha començat a les 16.30, després d’una concentració a la plaça de Catalunya · Hi ha hagut una forta presència policíaca i una destacada participació estudiantil",
       "url": "https://www.vilaweb.cat/noticies/manifstacio-perpinya-diada-catalunya-nord-identitat-catalana/",
       "published": "2026-11-07T18:13:31+01:00",
       "category": "Catalunya Nord",
@@ -747,8 +827,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Protesta a Elna contra la celebració de l’annexió de Catalunya Nord a França impulsada pel batlle d’extrema dreta",
-      "excerpt": "És la primera vegada que un ajuntament del Rosselló organitza una festa d’aquest tipus en contra de la identitat catalana que, a més, coincideix amb la Diada de Catalunya Nord",
+      "title": "Protesta a Elna contra la celebració de l’annexió de Catalunya Nord a França promoguda pel batlle d’extrema dreta",
+      "excerpt": "És la primera vegada que un ajuntament del Rosselló organitza una festa d’aquesta mena en contra de la identitat catalana · La celebració coincideix amb la Diada de Catalunya Nord",
       "url": "https://www.vilaweb.cat/noticies/un-centenar-de-persones-protesten-a-elna-contra-la-celebracio-de-lannexio-de-catalunya-nord-a-franca/",
       "published": "2026-11-07T17:28:06+01:00",
       "category": "Catalunya Nord",
@@ -778,7 +858,7 @@
     {
       "source": "VilaWeb",
       "title": "Ucraïna denuncia divuit atacs russos contra la seva infrastructura energètica, un dels quals amb un míssil nord-coreà",
-      "excerpt": "Zelenski confirma 172 atacs amb drons i 36 amb míssils balístics, i reclama reforçar les sancions contra Rússia i els seus aliats",
+      "excerpt": "Zelenski confirma 172 atacs amb drons i 36 amb míssils balístics · Reclama de reforçar les sancions contra Rússia i els seus aliats",
       "url": "https://www.vilaweb.cat/noticies/ucraina-denuncia-divuit-atacs-russos-contra-la-seva-infrastructura-energetica-un-dels-quals-amb-un-missil-nord-corea/",
       "published": "2026-11-07T17:01:33+01:00",
       "category": "Món",
@@ -807,7 +887,7 @@
     },
     {
       "source": "ARA",
-      "title": "Un pistoler d'ultradreta mata sis persones i en fereix 16 més a Cracòvia",
+      "title": "Un pistoler d'ultradreta mata sis persones i en fereix 16 més al centre de Cracòvia",
       "excerpt": "Sis persones han mort i setze més han resultat ferides en un tiroteig aquest dissabte a la plaça principal de la ciutat polonesa de Cracòvia, la segona ciutat més gran del país. Segons ha informat la policia, uns agents han aconseguit disparar l'autor dels trets, que ha estat ingressat a l'hospital en estat greu. El ministre de l'Interior, Marcin Kierwinski, ha detallat que l'atacant, un ciutadà polonès de 25 anys, té \"opinions molt radicals\" i que \"tot apunta al fet que estava influenciat per la…",
       "url": "https://www.ara.cat/internacional/almenys-cinc-morts-mes-10-ferits-tiroteig-cracovia_1_5903227.html",
       "published": "2026-11-07T16:44:46+01:00",
@@ -957,8 +1037,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "La família de Guillem Agulló arrenca a Sánchez el compromís de reconèixer-lo com a víctima del terrorisme",
-      "excerpt": "El president del govern espanyol es va reunir ahir a València amb els familiars del jove antifeixista assassinat per un grup de neonazis el 1993 i es va mostrar disposat a fer els tràmits necessaris perquè la petició tiri endavant",
+      "title": "La família de Guillem Agulló aconsegueix el compromís de Sánchez per a reconèixer-lo com a víctima del terrorisme",
+      "excerpt": "El president del govern espanyol es va reunir ahir a València amb els familiars del jove antifeixista assassinat per un grup de neonazis el 1993 · Es va mostrar disposat a fer els tràmits necessaris perquè el reconeixement sigui possible",
       "url": "https://www.vilaweb.cat/noticies/familia-de-guillem-agullo-arrenca-sanchez-compromis-reconeixer-victima-terrorisme/",
       "published": "2026-11-07T13:06:20+01:00",
       "category": "País Valencià",
@@ -1272,7 +1352,7 @@
     },
     {
       "source": "3CatInfo",
-      "title": "La naturalitat d'Amaia Montero venç els problemes de veu al concert de la Oreja de Van Gogh al Sant Jordi",
+      "title": "La naturalitat d'Amaia Montero venç els problemes de veu al concert de La Oreja de Van Gogh al Sant Jordi",
       "excerpt": "El públic demostra l'estimació cap a la cantant en el primer dels quatre concerts del conjunt basc al Palau Sant Jordi",
       "url": "https://www.3cat.cat/3catinfo/la-naturalitat-damaia-montero-venc-els-problemes-de-veu-al-concert-de-la-oreja-de-van-gogh-al-sant-jordi/noticia/3438458/",
       "published": "2026-11-07T08:00:52+01:00",
