@@ -53,6 +53,38 @@
     },
     {
       "page": 7,
+      "title": "Una incidència altera el servei d’unes quantes línies de Rodalia i Regionals Sud",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/una-incidencia-altera-el-servei-dunes-quantes-linies-de-rodalia-i-regionals-sud/",
+      "published": "2026-11-07T09:58:04+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 8,
+      "title": "El nou impost que proposa Ada Colau és més alt que el que ja paguen els rics?",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/nou-impost-proposa-ada-colau-mes-alt-ja-paguen-rics_1_5902284.html",
+      "published": "2026-11-07T09:34:48+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 9,
+      "title": "La Oreja de Van Gogh canta ‘Boig per tu’ al Palau Sant Jordi",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/la-oreja-de-van-gogh-canta-boig-per-tu-al-palau-sant-jordi/",
+      "published": "2026-11-07T09:32:29+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 10,
+      "title": "Detingut l’expresident del Paraguai després de ser destituït com a senador",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/detingut-l-expresident-paraguai-despres-destituit-pel-senat_1_5902941.html",
+      "published": "2026-11-07T09:11:43+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 11,
       "title": "Catakrac (07/11/2026): Taurons, cargols i un robot bomber!",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/catakrac/taurons-cargols-robot-bomber/",
@@ -60,15 +92,15 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 8,
-      "title": "Paraguai destitueix Santiago Peña, que queda sota arrest domiciliari, i nomena Pedro Alliana nou president",
+      "page": 12,
+      "title": "El Paraguai destitueix Santiago Peña, que queda sota arrest domiciliari, i nomena Pedro Alliana nou president",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/paraguai-destitueix-pena-arrest-domiciliari-nomena-pedro-alliana/",
       "published": "2026-11-07T08:26:56+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 9,
+      "page": 13,
       "title": "La tecnologia xinesa ajuda els governs repressius africans a ofegar la dissidència",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/sector-public/tecnologia-xinesa-ajuda-governs-repressius-africans-ofegar-dissidencia_1_5902328.html",
@@ -76,7 +108,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 10,
+      "page": 14,
       "title": "La naturalitat d'Amaia Montero venç els problemes de veu al concert de la Oreja de Van Gogh al Sant Jordi",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-naturalitat-damaia-montero-venc-els-problemes-de-veu-al-concert-de-la-oreja-de-van-gogh-al-sant-jordi/noticia/3438458/",
@@ -84,7 +116,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 11,
+      "page": 15,
       "title": "\"Em va impressionar la humanitat de Zelenski\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/europa/em-impressionar-humanitat-zelenski_128_5902465.html",
@@ -92,7 +124,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 12,
+      "page": 16,
       "title": "Vox ja parla els fills en català",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/vox-ja-parla-fills-catala_1_5897470.html",
@@ -100,7 +132,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 13,
+      "page": 17,
       "title": "\"El crim organitzat està passant de matar gent a infiltrar-se en l'economia\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/justicia/crim-organitzat-passant-matar-gent-infiltrar-l-economia_128_5902454.html",
@@ -108,7 +140,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 14,
+      "page": 18,
       "title": "\"¿Tenim la consciència neta?\": les ombres darrere el Floquet de Neu",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/historia/consciencia-neta-ombres-darrere-floquet-neu_130_5902153.html",
@@ -116,7 +148,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 15,
+      "page": 19,
       "title": "Marc Pubill, el campió del món que va seduir el Barça",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/barca/marc-pubill-campio-mon-seduir-barca_130_5900963.html",
@@ -124,7 +156,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 16,
+      "page": 20,
       "title": "\"Vaig conèixer la Najin quan tenia una setmana de vida. Avui és el rinoceront blanc del nord viu més vell del planeta\"",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/ciencia-medi-ambient/conservacio/coneixer-najin-tenia-setmana-vida-avui-rinoceront-blanc-nord-viu-mes-vell-planeta_128_5898659.html",
@@ -132,7 +164,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 17,
+      "page": 21,
       "title": "Què volen dir les inicials de PANTERA? Tot el que cal tenir en compte a l’hora de verificar una informació",
       "source": "ARA",
       "articleUrl": "https://criatures.ara.cat/criatures/volen-dir-inicials-pantera-cal-compte-l-hora-verificar-informacio_1_5894915.html",
@@ -140,7 +172,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 18,
+      "page": 22,
       "title": "Les portades del dissabte 7 de novembre de 2026",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-dissabte-7-de-novembre-de-2026/",
@@ -148,7 +180,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 19,
+      "page": 23,
       "title": "Lleó XIV arriba a Sud-amèrica en una intensa gira per l'Uruguai, l'Argentina i el Perú",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/lleo-xiv-arriba-a-sud-america-en-una-intensa-gira-per-luruguai-largentina-i-el-peru/noticia/3438414/",
@@ -156,7 +188,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 20,
+      "page": 24,
       "title": "Publicitat feta amb IA: entre el rebuig, l'homogeneïtzació i la democratització del disseny",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/publicitat-feta-amb-ia-entre-el-rebuig-lhomogeneitzacio-i-la-democratitzacio-del-disseny/noticia/3438315/",
@@ -164,7 +196,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 21,
+      "page": 25,
       "title": "Les primeres bombes químiques utilitzades contra població civil es van fabricar a Flix i Badalona",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/les-primeres-bombes-quimiques-utilitzades-contra-poblacio-civil-es-van-fabricar-a-flix-i-badalona/noticia/3437934/",
@@ -172,7 +204,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 22,
+      "page": 26,
       "title": "\"Em repugna la meva imbecil·litat\": la suculenta correspondència de Flaubert, per fi en català",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/reportatges/gustave-flaubert-repugna-meva-imbecilitat-per-fi-catala_1_5901163.html",
@@ -180,7 +212,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 23,
+      "page": 27,
       "title": "Revés sense precedents als centres de dades als Estats Units: un avís a la bombolla de la IA?",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/reves-sense-precedents-als-centres-de-dades-als-estats-units-un-avis-a-la-bombolla-de-la-ia/noticia/3438313/",
@@ -188,7 +220,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 24,
+      "page": 28,
       "title": "La IA canvia els ciberatacs: de les grans neveres de supermercats fins a l'smart TV de casa",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-ia-canvia-els-ciberatacs-de-les-grans-neveres-de-supermercats-fins-a-la-smart-tv-de-casa/noticia/3438437/",
@@ -196,7 +228,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 25,
+      "page": 29,
       "title": "Dos cotxes elèctrics fabricats a Catalunya, entre els finalistes a Cotxe de l’Any",
       "source": "ARA",
       "articleUrl": "https://motor.ara.cat/novetats/cotxes-electrics-fabricats-catalunya-finalistes-cotxe-l-any_1_5902274.html",
@@ -204,7 +236,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 26,
+      "page": 30,
       "title": "L’autonomia estratègica com a oportunitat competitiva",
       "source": "ARA",
       "articleUrl": "https://empreses.ara.cat/opinio/l-autonomia-estrategica-oportunitat-competitiva_1_5902285.html",
@@ -212,7 +244,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 27,
+      "page": 31,
       "title": "Tres maneres de fer conserva de rovellons, la recepta de l'Ada Parellada",
       "source": "ARA",
       "articleUrl": "https://mengem.ara.cat/receptes/tres-maneres-conserva-rovellons-recepta-l-ada-parellada_1_5894078.html",
@@ -220,7 +252,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 28,
+      "page": 32,
       "title": "Visita al laboratori marítim nord-català on es va inventar la fotografia submarina",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/ciencia-medi-ambient/visita-laboratori-maritim-nord-catala-inventar-fotografia-submarina_1_5899552.html",
@@ -228,7 +260,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 29,
+      "page": 33,
       "title": "El principi d’Arquimedes – Por",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/episodic/el-principi-darquimedes-por/",
@@ -236,7 +268,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 30,
+      "page": 34,
       "title": "El principi d’Arquimedes – Espantar",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/episodic/el-principi-darquimedes-espantar/",
