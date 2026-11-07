@@ -2,6 +2,26 @@
   "date": "2026-11-07",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Almenys cinc morts i diversos ferits en un atac amb arma de foc al centre de Cracòvia",
+      "excerpt": "Un home ha obert foc d’un cotxe estant a la plaça del Mercat Principal",
+      "url": "https://www.vilaweb.cat/noticies/almenys-cinc-morts-i-diversos-ferits-en-un-atac-amb-arma-de-foc-al-centre-de-cracovia/",
+      "published": "2026-11-07T16:43:23+01:00",
+      "category": "Món",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Almenys 5 morts i una dotzena de ferits en un tiroteig al centre de Cracòvia",
+      "excerpt": "La policia polonesa investiga les circumstàncies del tiroteig a la plaça major de Cracòvia, mentre el primer ministre Donald Tusk parla d'atemptat",
+      "url": "https://www.3cat.cat/3catinfo/almenys-5-morts-i-una-dotzena-de-ferits-en-un-tiroteig-al-centre-de-cracovia/noticia/3438505/",
+      "published": "2026-11-07T16:29:39+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/0/1794065613508.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo",
       "title": "Les set lliçons que deixa el terratrèmol de les eleccions de mig mandat als EUA",
       "excerpt": "Les midterm han transformat com poques vegades el mapa polític dels EUA i permeten treure un grapat de lliçons útils per a qualsevol futura campanya electoral, tant per als demòcrates com per als republicans.",
@@ -12,9 +32,24 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo",
+      "title": "Denuncien l'Ajuntament de Barcelona per incomplir la reserva del 30% d'habitatge protegit",
+      "excerpt": "El Sindicat de Llogateres porta als tribunals el consistori per no fer complir la norma aprovada pel mateix Ajuntament al grup immobiliari Vandor",
+      "url": "https://www.3cat.cat/3catinfo/denuncien-lajuntament-de-barcelona-per-incomplir-la-reserva-del-30-dhabitatge-protegit/noticia/3438460/",
+      "published": "2026-11-07T16:28:30+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/6/1794061046661.jpg",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435106/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/denuncien-lajuntament-de-barcelona-per-incomplir-la-reserva-del-30-dhabitatge-protegit/noticia/3438460/"
+      }
+    },
+    {
       "source": "ARA",
-      "title": "El Front Ampli de Colau es presenta a Catalunya: \"Fregirem a impostos els pijos\"",
-      "excerpt": "Fa poques setmanes van ser Gabriel Rufián i Irene Montero els que van presentar-se com a tàndem a Barcelona de cara al 29-N , i aquest dissabte ho ha fet el Front Ampli d'Ada Colau. En la posada de llarg a Catalunya de la candidatura que encapçala l'exalcaldessa de Barcelona, hi eren les principals cares visibles: Colau, el número dos per Barcelona, Ernest Urtasun, i també el número u per Madrid, Emilio Delgado. Des de la Sagrera, han volgut que el seu principal missatge anés…",
+      "title": "El Front Ampli de Colau es presenta a Catalunya: \"Fregirem els 'pijos' a impostos\"",
+      "excerpt": "Fa poques setmanes van ser Gabriel Rufián i Irene Montero els que van presentar-se com a tàndem a Barcelona de cara al 29-N , i aquest dissabte ho ha fet el Front Ampli d'Ada Colau. En la posada de llarg a Catalunya de la candidatura que encapçala l'exalcaldessa de Barcelona hi havia les principals cares visibles: Colau, Ernest Urtasun –el número dos per Barcelona– i Emilio Delgado –el número u per Madrid–. Des de la Sagrera, han volgut que el seu missatge principal anés dirigit…",
       "url": "https://www.ara.cat/politica/eleccions-generals/front-ampli-colau-presenta-catalunya-fregirem-impostos-pijos_1_5903165.html",
       "published": "2026-11-07T15:30:13+01:00",
       "category": "Actualitat",
@@ -191,6 +226,16 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "L'empordanès que anirà al Dakar amb una moto que ha creat ell mateix",
+      "excerpt": "Quan acabava el seu torn de les 6 del matí a les 2 del migdia a la fàbrica Rieju, l'August Castellà (Figueres, 1992) sortia a rodar amb una moto. L'endemà, tots els seus companys ja sabien que tindrien feina. Castellà, enginyer mecànic i responsable de desenvolupament dels projectes Rally i Trail de la marca empordanesa, tornava amb idees per millorar la Rieju 307 Rally que ell mateix havia desenvolupat. I després de posar-la a prova, anava retocant coses per fer-la més competitiva. Inicialment, no ho…",
+      "url": "https://www.ara.cat/esports/motor/dakar/l-empordanes-anira-dakar-moto-creat-ell-mateix_1_5895022.html",
+      "published": "2026-11-07T16:00:44+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4bef4898-d980-4675-a97d-118b0d023dc3_16-9-aspect-ratio_default_0_x2496y956.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "betevé notícies migdia",
       "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
@@ -212,8 +257,8 @@
     },
     {
       "source": "ARA",
-      "title": "El tàndem Rufián i Montero s'estrena a Madrid contra el vot útil al PSOE",
-      "excerpt": "L'acte de Podem a Madrid aquest dissabte tenia una mica d'ERC. I no només perquè Gabriel Rufián, candidat dels republicans el 29-N, ha fet de teloner d'Irene Montero — ha estat el seu primer acte conjunt de precampanya a la capital espanyola —, sinó perquè tots dos han coincidit en el color del seu jersei: el groc. \"Així de connectats estem\", ha dit Rufián, que ha assegurat que no ho havien parlat prèviament. També ha revelat que no havia fet cap míting de precampanya en…",
+      "title": "El tàndem Rufián-Montero s'estrena a Madrid contra el vot útil al PSOE",
+      "excerpt": "L'acte de Podem a Madrid aquest dissabte tenia una mica d'ERC. I no només perquè Gabriel Rufián, candidat dels republicans el 29-N, ha fet de teloner d'Irene Montero — ha sigut el seu primer acte conjunt de precampanya a la capital espanyola —, sinó perquè tots dos han coincidit en el color del jersei: el groc. \"Així de connectats estem\", ha dit Rufián, que ha assegurat que no ho havien parlat prèviament. També ha revelat que no havia fet cap míting de precampanya en un…",
       "url": "https://www.ara.cat/politica/tandem-rufian-montero-s-estrena-madrid-vot-util-psoe_1_5903081.html",
       "published": "2026-11-07T15:00:39+01:00",
       "category": "Actualitat",
@@ -313,7 +358,7 @@
     {
       "source": "ARA",
       "title": "Sánchez porta la precampanya a Catalunya i invoca Patti Smith i el Papa",
-      "excerpt": "Pedro Sánchez ha portat aquest dissabte la precampanya pel 29-N a Catalunya. El president espanyol i líder del PSOE ha aterrat a Tarragona per demanar una \"majoria àmplia\" que permeti frenar les aspiracions del PP i Vox d'arribar al govern espanyol. \"Si votem en massa, enviem Feijóo i Abascal a casa\", ha cridat Sánchez. Ara bé, tot i ser a Catalunya, el president espanyol no ha fet cap referència específica a cap de les carpetes que va obrir durant el seu mandat, com ara l'amnistia…",
+      "excerpt": "A mesura que passen els dies, el PSOE mira de deixar enrere la crisi per la tragèdia ferroviària d'Urda (Toledo) i tornar al marc de la campanya que havia començat abans de l'accident que ha deixat 69 morts. És el que ha fet aquest dissabte Pedro Sánchez des de Tarragona: apel·lar a la disjuntiva d'un govern progressista davant la \"internacional de la ultradreta\" que a Espanya personifica en PP i Vox. El president espanyol, però, hi ha sumat un element que fins fa uns dies…",
       "url": "https://www.ara.cat/politica/eleccions-generals/sanchez-porta-precampanya-catalunya-demana-majoria-amplia-frenar-pp-vox_1_5903018.html",
       "published": "2026-11-07T13:03:10+01:00",
       "category": "Actualitat",
@@ -352,12 +397,12 @@
     },
     {
       "source": "3CatInfo",
-      "title": "França torna a mobilitzar 70.000 policies davant del quart dissabte consecutiu de protestes",
-      "excerpt": "Aquest dissabte hi ha una nova protesta convocada, amb epicentre a París, dos dies després de la gran mobilització nacional del dijous",
+      "title": "Milers de persones surten al carrer a França en el quart cap de setmana consecutiu de protestes",
+      "excerpt": "El Ministeri de l'Interior francès ha tornat a mobilitzar 70.000 policies per evitar que es repeteixin els aldarulls i saquejos del 17 d'octubre",
       "url": "https://www.3cat.cat/3catinfo/franca-torna-a-mobilitzar-70000-policies-davant-del-quart-dissabte-consecutiu-de-protestes/noticia/3438461/",
       "published": "2026-11-07T12:59:34+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/6/9/1793456308696.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/7/1794064262974.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -408,6 +453,26 @@
       "published": "2026-11-07T12:27:14+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/0/3/1794048195330.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "EN DIRECTE | Espanyol-Deportivo: els blanc-i-blaus volen continuar sumant a la Lliga",
+      "excerpt": "L'RCDE Stadium espera viure la primera victòria com a local de l'era Sarabia, encara que el tècnic basc segueixi sancionat",
+      "url": "https://www.3cat.cat/3catinfo/en-directe-espanyol-deportivo-els-blanc-i-blaus-volen-continuar-sumant-a-la-lliga/noticia/3438400/",
+      "published": "2026-11-07T12:23:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/6/1786909563860.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Un escalfament estratosfèric sobtat podria portar un hivern fred i nivós a Catalunya",
+      "excerpt": "Els darrers dies, les xarxes s’han omplert de notícies anunciant un hivern fred i nivós a Catalunya, però el cert és que tot plegat no es pot saber amb exactitud. Tot i que els models de predicció sí que indiquen un afebliment, i un possible trencament posterior, del vòrtex polar, cal tenir en compte que […]",
+      "url": "https://beteve.cat/medi-ambient/es-trenca-el-vortex-polar/",
+      "published": "2026-11-07T12:18:02+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/02/neu-bcn-05-febrer-2013-050224.jpg",
       "priority": "3 · Altres notícies"
     },
     {
