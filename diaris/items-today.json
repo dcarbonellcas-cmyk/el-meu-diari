@@ -72,6 +72,16 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "VilaWeb",
+      "title": "ERC exigeix a Ordeig que defensi l’oli català davant l’ordre d’immobilització del govern espanyol",
+      "excerpt": "El ministeri d'Agricultura espanyol ha obligat a immobilitzar el 12% de la producció d’oli de la campanya 2026-2027",
+      "url": "https://www.vilaweb.cat/noticies/erc-exigeix-a-ordeig-que-defensi-loli-catala-davant-lordre-dimmobilitzacio-del-govern-espanyol/",
+      "published": "2026-11-08T20:33:45+01:00",
+      "category": "Ecologia",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "Vaga, raons i responsables",
       "excerpt": "La vaga general de dimecres té moltes possibilitats de ser un èxit, perquè el malestar que la provoca ja fa temps que dura i ha acabat creant un estat de consciència generalitzat que va molt més enllà de la gent polititzada: lloguers i compres d’habitatge impossibles, sous que fan curt, fills grans que no marxen de casa i plans de vida a totes les edats que van quedant suspesos en la incertesa. El cost de la vida és el problema dels nostres dies a Europa,…",
@@ -84,7 +94,7 @@
     {
       "source": "VilaWeb",
       "title": "He d’avisar que faig vaga? Em descomptaran sou? Guia per a resoldre els dubtes bàsics sobre la vaga general de l’11-N",
-      "excerpt": "Cal avisar l'empresa? Els autònoms poden sumar-s'hi? I els becaris? Responem les preguntes més freqüents sobre la vaga general i la vaga de consum.",
+      "excerpt": "Cal avisar l'empresa? Els autònoms s’hi poden afegir? I els becaris? Responem a les preguntes més freqüents sobre la vaga general i la vaga de consum",
       "url": "https://www.vilaweb.cat/noticies/he-davisar-que-faig-vaga-em-descomptaran-sou-guia-per-a-resoldre-els-dubtes-basics-sobre-la-vaga-general-de-l11-n/",
       "published": "2026-11-08T18:57:50+01:00",
       "category": "Societat",
@@ -293,6 +303,86 @@
       "category": "Principat",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Suspesos gairebé la meitat dels desnonaments previstos a Barcelona en l'últim mes",
+      "excerpt": "Setmana clau per al moviment en defensa del dret a l'habitatge, que després de forçar l'avançament electoral s'encamina cap a la primera vaga general de l'Estat des del 2012. El catalitzador de tota aquesta efervescència social ha estat l'expulsió de Maricarmen Abascal i els decrets d'habitatge que la van precedir. El Congrés els va tombar en primera instància i finalment els va acabar aprovant la diputació permanent de la cambra parlamentària espanyola. Segons ha pogut saber l'ARA, des de la seva entrada en vigor ara…",
+      "url": "https://www.ara.cat/societat/habitatge/suspesos-gairebe-meitat-dels-desnonaments-previstos-barcelona-l-ultim-mes_1_5902539.html",
+      "published": "2026-11-08T20:30:04+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b0864872-cb2b-43a4-87d4-fe7ae90304b2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "COP31: la cimera pel canvi climàtic que hauria de marcar el rumb cap a l’electrificació",
+      "excerpt": "La COP31 arrenca amb el repte d’abordar, teòricament, el repte de l’electrificació. I és teòric perquè, sobre la taula, la presidència de la cimera —compartida entre Turquia i Austràlia— proposa que el 2035 l’electrificació mundial sigui del 35 %. Ara bé, de moment no consta com es concretarà això a la pràctica. Un dubte raonable […]",
+      "url": "https://beteve.cat/medi-ambient/reptes-cop31-canvi-climatic-electrificacio/",
+      "published": "2026-11-08T20:20:58+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/cotxe-electric-cimera-081126-2026-11-08.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Broncano no havia de cedir amb Abascal",
+      "excerpt": "Ignoro si David Broncano jugava al chicken game i va convidar Santiago Abascal a La revuelta creuant els dits molt fort perquè el de Vox declinés l’oferta. Si va ser el cas, evidencia que no entén com funciona la ultradreta, que aprofita qualsevol altaveu per engegar el seu discurs victimista i més encara si pot anar a RTVE per queixar-se de la televisió pública (per molt que la seva presència al programa tiri per terra part dels clams). En tot cas, resulta incomprensible que hagi…",
+      "url": "https://www.ara.cat/media/broncano-no-havia-cedir-abascal_129_5904534.html",
+      "published": "2026-11-08T20:18:43+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/81db9218-49c6-49fb-a7a0-22e9062527b0_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un seminarista denuncia un mossèn de la Seu d'Urgell per violació",
+      "excerpt": "El mossèn el va immobilitzar contra el matalàs i el va violar. La declaració d'un jove seminarista davant els Mossos d'Esquadra és, però, molt més crua, amb més detalls. El noi, de 26 anys, va presentar una denúncia, a la qual ha tingut accés l'ARA, per agressió sexual el 26 d'octubre contra un rector de la diòcesi d'Urgell. Sentir el seu relat en persona és encara més dur. El jove no pot evitar arrencar a plorar diverses vegades. “Perdó”, es disculpa per no poder mantenir…",
+      "url": "https://www.ara.cat/societat/religio/seminarista-denuncia-mossen-d-urgell-violacio_130_5901207.html",
+      "published": "2026-11-08T20:17:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/301c0057-0249-4fe1-aa4b-877f50d560f1_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Inici de setmana amb alguns plugims i ambient rúfol",
+      "excerpt": "La previsió del temps per a aquest dilluns, 9 de novembre, portarà més núvol i algun plugim a la tarda. Tot i això, la temperatura màxima es mantindrà prop dels 20ºC durant bona part del dia. Previsió horària per a Barcelona: Dia tapat però amb pocs canvis en la temperatura La borrasca Bruna, situada a […]",
+      "url": "https://beteve.cat/medi-ambient/barcelona-dilluns-9-novembre-plugims/",
+      "published": "2026-11-08T20:16:09+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/previsio_temps_meteo-2026-11-08.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'hora de la veritat per al centre comercial abandonat de la Vila Olímpica",
+      "excerpt": "Arriba l'hora de la veritat per al Centre de la Vila. La negociació entre l'Ajuntament de Barcelona i Mercasa –l'empresa pública estatal que gestiona el centre– encara la recta final i, segons confirmen a l'ARA diverses fonts, l'acord és imminent. Es posaria punt final així a un dels serials més enrevessats de la ciutat, que ha vist com aquest espai de la Vila Olímpica s'anava abandonant i deteriorant amb els anys tot i ser el principal nucli comercial d'una zona amb poca oferta.",
+      "url": "https://www.ara.cat/societat/barcelona/l-hora-veritat-centre-comercial-abandonat-vila-olimpica_1_5903822.html",
+      "published": "2026-11-08T20:11:38+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3c1c3c88-710e-4065-a2d0-a5f1e4bc286c_16-9-aspect-ratio_default_1056022.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Una persecució a la ronda de Dalt acaba amb un cotxe bolcat i la via tallada en sentit Besòs | VÍDEO",
+      "excerpt": "Ensurt majúscul a la ronda de Dalt aquest diumenge a la tarda. La via ha quedat tallada durant una estona en sentit Besòs després que s’hagi produït una persecució entre un cotxe i un vehicle de la Guàrdia Urbana. Segons ha explicat a betevé un testimoni dels fets, el vehicle que fugia de la policia […]",
+      "url": "https://beteve.cat/mobilitat/persecucio-ronda-dalt-cotxe-bolcat-via-tallada/",
+      "published": "2026-11-08T19:59:57+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/ronda-accident-081126-2026-11-08.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Barça Atlètic s’imposa al Manresa i segueix líder a la Segona RFEF",
+      "excerpt": "El Barça Atlètic s’ha imposat per 3 a 0 davant el Manresa. El conjunt blaugrana ha encarrilat ràpidament el partit amb dos gols en 10 minuts. Orian Goren ha fet el primer i Pedro Rodríguez, de penal, el segon. Els locals, després d’una mala primera meitat, han estat més protagonistes al segon temps, però Álex […]",
+      "url": "https://beteve.cat/esports/barca-atletic-guanya-manresa-segueix-lider-segona-rfef/",
+      "published": "2026-11-08T19:51:39+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/barca-atletic-manresa-2026-11-08.jpg",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -590,6 +680,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Els núvols creen una imatge ben curiosa: què són i com es formen?",
+      "excerpt": "La borrasca Bruna ens ha portat aquests dies bandes de núvols prims que han deixat cels dignes de fotografiar. Aquest diumenge, previ a l’estiuet de Sant Martí, els altocúmuls han estat els protagonistes i han deixat imatges curioses en alguns punts del territori. Les xarxes s’omplen d’imatges d’un núvol ben curiós Les darreres hores, les […]",
+      "url": "https://beteve.cat/medi-ambient/nuvols-curiosos-stratiformis-cavus/",
+      "published": "2026-11-08T17:01:30+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/stratiformis_cavus_alfons_puertas-2026-11-08.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Batman perd els seus poders",
       "excerpt": "La policia de Frankfurt s’emporta un manifestant disfressat de Batman durant les protestes del moviment Gen Z Regelt que han afectat tot el país. La foto podria ser, perfectament, la vinyeta d’un còmic. El fotògraf Kai Pfaffenbach va fer diversos retrats a aquest personatge durant la nit que coincidia amb la celebració de Halloween. Algunes de les escenes que va captar estaven plenes d’èpica, amb un Batman triomfant que emergia d’entre les flames dels contenidors fent el senyal de la victòria amb els dits. Unes…",
@@ -611,8 +711,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Rufián acusa Junts de votar amb PP i Vox contra la classe treballadora catalana",
-      "excerpt": "El candidat d'ERC retreu a Junts el vot contrari a mesures d'habitatge i critica també el PSC i el PSOE",
+      "title": "Rufián acusa Junts de votar amb el PP i Vox contra la classe treballadora catalana",
+      "excerpt": "El candidat d'ERC retreu a Junts els vots contra mesures d'habitatge · També critica el PSC i el PSOE",
       "url": "https://www.vilaweb.cat/noticies/rufian-acusa-junts-de-votar-amb-pp-i-vox-contra-la-classe-treballadora-catalana/",
       "published": "2026-11-08T16:42:01+01:00",
       "category": "Principat",
@@ -861,7 +961,7 @@
       "url": "https://www.3cat.cat/3catinfo/en-directe-atletic-de-madrid-barca-el-liderat-de-la-lliga-en-joc-al-metropolitano/noticia/3438413/",
       "published": "2026-11-08T12:55:01+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/2/9/1793477789192.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/5/1794167536756.jpg",
       "priority": "3 · Altres notícies"
     },
     {
