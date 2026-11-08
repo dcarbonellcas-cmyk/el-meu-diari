@@ -2,6 +2,16 @@
   "date": "2026-11-08",
   "items": [
     {
+      "source": "ARA",
+      "title": "“No puc continuar en un país on cada dos per tres estem en guerra\": els que ja no veuen futur a Israel",
+      "excerpt": "“Marxaré a Grècia i després a Xipre”. Amb 22 anys, la Reem treballa al barri cristià de la Ciutat Vella de Jerusalem i ja té un pla per marxar. Té feina i una situació econòmica estable, però no s’imagina el futur allà. La seva família viu a l’estranger i ella vol seguir el seu camí. “No puc continuar en un país on cada dos per tres estem en guerra, vull tenir millors oportunitats”, explica. El seu cas reflecteix el malestar d’una part de la societat…",
+      "url": "https://www.ara.cat/internacional/proxim-orient/no-continuar-pais-tres-guerra-ja-no-veuen-futur-israel_130_5903471.html",
+      "published": "2026-11-08T10:00:33+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/426796ee-8ba6-40ad-a753-c9f748a6c578_source-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "VilaWeb",
       "title": "Òrrius viu sense clavegueram per l’impacte dels aiguats: “Estem en situació de crisi ambiental”",
       "excerpt": "L'Ajuntament ha instal·lat lavabos químics arreu del poble i els veïns minimitzen l'abocament de residus al vàter",
@@ -30,6 +40,26 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/6/5/1794059462156.jpg",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El risc de parts prematurs va augmentar notablement arran de la gota freda",
+      "excerpt": "Va augmentar d'un 36% en comparació amb la xifra prèvia al desastre, i d'un 76% als municipis més afectats, segons un estudi",
+      "url": "https://www.vilaweb.cat/noticies/el-risc-de-parts-prematurs-va-augmentar-notablement-arran-de-la-gota-freda/",
+      "published": "2026-11-08T10:23:19+01:00",
+      "category": "Sanitat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Segon dia de retards generalitzats a Rodalies per una incidència operativa",
+      "excerpt": "Cap de setmana complicat per als usuaris de Rodalies que aquest diumenge afronten el segon dia consecutiu de retards generalitats a les línies que presten servei. A causa d’una incidència operativa, els trens circulen amb demores i fora de l’horari habitual. En algunes d’aquestes línies els retards poden superar els 30 minuts. A primera hora […]",
+      "url": "https://beteve.cat/mobilitat/segon-dia-retards-rodalies-incidencia-operativa-maquinistes/",
+      "published": "2026-11-08T10:06:50+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/11/atropellament-montcada-rodalies-041124.jpg",
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -128,8 +158,18 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Mor un soldat de l'exèrcit espanyol durant una instrucció militar a Saragossa",
+      "excerpt": "Un soldat de l'exèrcit de terra ha mort durant una activitat d'instrucció al de San Gregorio, a Saragossa, per causes que s'estan investigant, segons ha informat aquest diumenge el Ministeri de Defensa. En el seu comunicat, el quarter general de l'exèrcit ha expressat el seu \"profund dolor\" per la mort i ha traslladat el seu \"més sincer condol\" i el seu \"suport incondicional\" als familiars i companys del soldat.",
+      "url": "https://www.ara.cat/societat/successos/mor-soldat-l-exercit-durant-instruccio-militar-saragossa_1_5903999.html",
+      "published": "2026-11-08T10:24:50+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/90a57cfb-5ea6-416f-8cd7-4e23ca3fe077_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
-      "title": "Comença el desallotjament del bloc de Manresa ocupat ahir per la PAHC",
+      "title": "Tensió a Manresa en el desallotjament del bloc de la Sareb ocupat ahir per la PAHC",
       "excerpt": "El dispositiu policial s'ha desplegat a primera hora al barri de la Font dels Capellans, l'endemà que la plataforma ocupés l'immoble de la Sareb per allotjar-hi cinc famílies desnonades",
       "url": "https://www.3cat.cat/3catinfo/dispositiu-dels-mossos-per-desallotjar-el-darrer-bloc-ocupat-per-la-pahc-a-manresa/noticia/3438550/",
       "published": "2026-11-08T09:28:56+01:00",
@@ -159,18 +199,18 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Els Mossos desallotgen l’edifici de Manresa propietat de la Sareb que la PAHC Bages va ocupar ahir",
-      "excerpt": "A dins hi ha mig centenar de persones, segons la plataforma",
+      "title": "Els Mossos desallotgen l’edifici de Manresa propietat de la Sareb ocupat ahir",
+      "excerpt": "La plataforma ha denunciat brutalitat policíaca i també que els Mossos s'han saltat els protocols",
       "url": "https://www.vilaweb.cat/noticies/els-mossos-desallotgen-ledifici-de-manresa-propietat-de-la-sareb-que-la-pahc-bages-va-ocupar-ahir/",
       "published": "2026-11-08T08:57:17+01:00",
-      "category": "Actualitat",
+      "category": "Societat",
       "image": null,
       "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
-      "title": "Rescaten vint-i-quatre immigrants que havien arribat en barcassa a les Illes",
-      "excerpt": "S’han interceptat embarcacions prop de Formentera i a la Colònia de Sant Jordi, a Mallorca",
+      "title": "Rescaten vuitanta immigrants que havien arribat en barcassa a les Illes",
+      "excerpt": "S’han interceptat embarcacions a Formentera, Eivissa i Mallorca",
       "url": "https://www.vilaweb.cat/noticies/rescaten-vint-i-quatre-immigrants-que-havien-arribat-en-barcassa-a-les-illes/",
       "published": "2026-11-08T08:37:48+01:00",
       "category": "Societat",
