@@ -2,6 +2,26 @@
   "date": "2026-11-08",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Almenys 7 morts i més d'un centenar de ferits en un xoc de trens a Egipte",
+      "excerpt": "L'accident ferroviari ha passat a la província de Guiza, quan un tren de passatgers n'ha encalçat un altre pel darrere",
+      "url": "https://www.3cat.cat/3catinfo/almenys-4-morts-i-mes-de-80-ferits-en-un-xoc-de-trens-a-egipte/noticia/3438599/",
+      "published": "2026-11-08T17:13:06+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/5/1794152584755.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Comença a desmantellar-se el campament temporal d’immigrants al port de Ceuta",
+      "excerpt": "Prop de 13.000 persones han estat retornades al Marroc",
+      "url": "https://www.vilaweb.cat/noticies/comenca-a-desmantellar-se-el-campament-temporal-dimmigrants-al-port-de-ceuta/",
+      "published": "2026-11-08T17:10:39+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "“No puc continuar en un país on cada dos per tres estem en guerra\": els que ja no veuen futur a Israel",
       "excerpt": "“Marxaré a Grècia i després a Xipre”. Amb 22 anys, la Reem treballa al barri cristià de la Ciutat Vella de Jerusalem i ja té un pla per marxar. Té feina i una situació econòmica estable, però no s’imagina el futur allà. La seva família viu a l’estranger i ella vol seguir el seu camí. “No puc continuar en un país on cada dos per tres estem en guerra, vull tenir millors oportunitats”, explica. El seu cas reflecteix el malestar d’una part de la societat…",
@@ -42,6 +62,22 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: la borrasca Bruna portarà les primeres precipitacions, molt modestes",
+      "excerpt": "El temps es complicarà més a mitjans de setmana, per l'acció d'una pertorbació que està viatjant des dels tròpics",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/",
+      "published": "2026-11-08T11:13:37+01:00",
+      "updated": "2026-11-08T17:30:05+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/0/1794155384700.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435242/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo",
       "title": "Serveis mínims a Rodalies per les vagues del 10, 11 i 12 de novembre",
       "excerpt": "Els maquinistes de Renfe estan convocats pel sindicat Semaf a dues jornades d'aturades: dimarts, dia 10, i dijous, 12 de novembre, i dimecres, dia 11, hi haurà vaga general",
@@ -49,22 +85,6 @@
       "published": "2026-11-08T14:58:59+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/7/1775056949478.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dilluns: la borrasca Bruna portarà les primeres precipitacions, molt modestes",
-      "excerpt": "El temps es complicarà més a mitjans de setmana, per l'acció d'una pertorbació que està viatjant des dels tròpics",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/",
-      "published": "2026-11-08T11:13:37+01:00",
-      "updated": "2026-11-08T14:48:38+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/7/1794129976270.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435193/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -225,6 +245,61 @@
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "Lluèrnia s'apaga després de 15 anys il·luminant Olot",
+      "excerpt": "El festival s'acomiada amb trenta instal·lacions i un homenatge als voluntaris que l'han fet possible",
+      "url": "https://www.3cat.cat/3catinfo/lluernia-sapaga-despres-de-15-anys-illuminant-olot/noticia/3438596/",
+      "published": "2026-11-08T17:37:57+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/4/1794151943145.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435235/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/lluernia-sapaga-despres-de-15-anys-illuminant-olot/noticia/3438596/"
+      }
+    },
+    {
+      "source": "VilaWeb",
+      "title": "“És pèssim i vergonyós”: usuaris de Rodalia critiquen els retards i l’espera sense informació",
+      "excerpt": "Els retards s’estenen entre trenta i seixanta minuts a línies com la R1, la R2, la R4, l’R11 i els Regionals Sud",
+      "url": "https://www.vilaweb.cat/noticies/es-pessim-i-vergonyos-usuaris-de-rodalia-critiquen-els-retards-i-lespera-sense-informacio/",
+      "published": "2026-11-08T17:07:36+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Sis arbres amb història a Nou Barris: de la palmera més alta a un eucaliptus supervivent",
+      "excerpt": "Es calcula que a Barcelona hi ha més de 200.000 arbres. I si bé cada exemplar és diferent, alguns ho són per la història que amaguen al darrere i els fa únics. Un equip d’Infobarris ha passejat amb un expert en arbres i història de Nou Barris, en Joan Catafal, i ens ha destacat sis […]",
+      "url": "https://beteve.cat/medi-ambient/sis-arbres-historia-nou-barris-palmera-alta-eucaliptus-supervivent/",
+      "published": "2026-11-08T17:04:17+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/arbres-historia-noubarris-palmera-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Batman perd els seus poders",
+      "excerpt": "La policia de Frankfurt s’emporta un manifestant disfressat de Batman durant les protestes del moviment Gen Z Regelt que han afectat tot el país. La foto podria ser, perfectament, la vinyeta d’un còmic. El fotògraf Kai Pfaffenbach va fer diversos retrats a aquest personatge durant la nit que coincidia amb la celebració de Halloween. Algunes de les escenes que va captar estaven plenes d’èpica, amb un Batman triomfant que emergia d’entre les flames dels contenidors fent el senyal de la victòria amb els dits. Unes…",
+      "url": "https://diumenge.ara.cat/diumenge/batman-perd-poders_129_5899812.html",
+      "published": "2026-11-08T17:00:53+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/368bb338-40d4-45f9-9b81-6ebb09e14955_16-9-aspect-ratio_default_0_x535y239.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "“El català i els diners no són negociables”: Nogueras fixa les línies vermelles a Madrid",
+      "excerpt": "La candidata de Junts ha dit que la seva formació és l’únic partit que protegeix realment els interessos dels catalans",
+      "url": "https://www.vilaweb.cat/noticies/el-catala-i-els-diners-no-son-negociables-nogueras-fixa-les-linies-vermelles-a-madrid/",
+      "published": "2026-11-08T16:47:42+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Rufián acusa Junts de votar amb PP i Vox contra la classe treballadora catalana",
       "excerpt": "El candidat d'ERC retreu a Junts el vot contrari a mesures d'habitatge i critica també el PSC i el PSOE",
@@ -302,12 +377,12 @@
       "published": "2026-11-08T14:39:21+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/2/1/1794143597212.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6435229/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/de-lalta-velocitat-a-lavio-lautobus-i-el-cotxe-el-tren-perd-viatgers-entre-barcelona-i-madrid/noticia/3438572/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "betevé",
@@ -332,11 +407,11 @@
     {
       "source": "ARA",
       "title": "L'hàbil maniobra del Barça per oblidar les lesions: l'Instant Replay de l'ARA",
-      "excerpt": "El Barça va desactivar a temps el Rio Breogan (99-91) i va sumar la seva setena victòria consecutiva. L'equip blaugrana, que va perdre Kevin Punter per lesió, va recuperar un desavantatge de vuit punt. El partit va arribar empatat als últims cinc minuts, però els 60 punts anotats en la segona meitat van ser decisius. \"Hem fet bé moltes coses per sobreposar-nos a les lesions\", va dir Sekulic. Darío Brizuela va celebrar el seu aniversari amb 16 punts.",
+      "excerpt": "El Barça va desactivar a temps el Río Breogán (99-91) i va sumar la seva setena victòria consecutiva. L'equip blaugrana, que va perdre Kevin Punter per lesió, va recuperar un desavantatge de vuit punts. El partit va arribar empatat als últims cinc minuts, però els 60 punts anotats en la segona meitat van ser decisius. \"Hem fet bé moltes coses per sobreposar-nos a les lesions\", va dir Sekulic. Darío Brizuela va celebrar el seu aniversari amb 16 punts.",
       "url": "https://www.ara.cat/esports/basquet/acb/habil-maniobra-barca-oblidar-lesions-instant-replay-ara_1_5904053.html",
       "published": "2026-11-08T14:10:39+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/f9bb23e4-3166-410d-bd2e-7a1ae83d0e20_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/f9bb23e4-3166-410d-bd2e-7a1ae83d0e20_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -366,7 +441,7 @@
       "url": "https://www.ara.cat/politica/eleccions-generals/rufian-junqueras-pugen-mateix-escenari-arrencar-cursa-cap-29-n_1_5903989.html",
       "published": "2026-11-08T13:58:52+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/98f2df1e-6500-43c3-95e7-52143796f77a_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/98f2df1e-6500-43c3-95e7-52143796f77a_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -377,12 +452,12 @@
       "published": "2026-11-08T13:55:04+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/4/1794142715448.jpg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6435230/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/un-llop-solitari-fascinat-per-lextrema-dreta-que-sen-sap-del-tirador-de-cracovia/noticia/3438566/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
@@ -461,12 +536,12 @@
     },
     {
       "source": "3CatInfo",
-      "title": "EN DIRECTE | Barça-Madrid CFF (0-0): nou duel de les culers a la Lliga F, a TV3",
+      "title": "EN DIRECTE | Barça-Madrid CFF (5-1): Claudia Pina completa la maneta",
       "excerpt": "El conjunt blaugrana s'enfronta a l'equip madrileny en la desena jornada de la Lliga F a l'estadi Johan Cruyff",
       "url": "https://www.3cat.cat/3catinfo/en-directe-barca-madrid-cff-nou-duel-de-les-culers-a-la-lliga-f-a-tv3/noticia/3438421/",
       "published": "2026-11-08T12:57:59+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/8/7/1794152093278.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/6/1794155658567.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -617,12 +692,12 @@
       "published": "2026-11-08T09:28:56+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/9/4/1794126191849.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6435234/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/dispositiu-dels-mossos-per-desallotjar-el-darrer-bloc-ocupat-per-la-pahc-a-manresa/noticia/3438550/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "VilaWeb",
