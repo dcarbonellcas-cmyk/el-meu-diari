@@ -2,6 +2,16 @@
   "date": "2026-11-08",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "Òrrius viu sense clavegueram per l’impacte dels aiguats: “Estem en situació de crisi ambiental”",
+      "excerpt": "L'Ajuntament ha instal·lat lavabos químics arreu del poble i els veïns minimitzen l'abocament de residus al vàter",
+      "url": "https://www.vilaweb.cat/noticies/orrius-viu-sense-clavegueram-per-limpacte-dels-aiguats-estem-en-situacio-de-crisi-ambiental/",
+      "published": "2026-11-08T09:04:43+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "Ciberatacs i amenaces de bomba: sembrar el caos sense declarar una guerra convencional",
       "excerpt": "Supermercats amb els sistemes de refrigeració sabotejats, un banc de sang víctima d'un ciberatac, avions comercials amenaçats amb bombes –i ara també alguns mitjans de comunicació –, dades bancàries i personals de milers de ciutadans de Moldàvia exposades, robatoris milmilionaris de criptomonedes ... Europa ha encadenat darrerament un seguit d'incidents de naturalesa molt diversa que pregonen una mateixa inquietud: fins a quin punt es pot desestabilitzar una societat sense declarar-li la guerra? Som conscients els ciutadans europeus de les nostres vulnerabilitats, derivades en bona part…",
@@ -27,14 +37,24 @@
       "excerpt": "Encetem el camí cap a l'estiuet de Sant Martí",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/",
       "published": "2026-11-07T09:49:31+01:00",
-      "updated": "2026-11-08T08:13:26+01:00",
+      "updated": "2026-11-08T08:40:48+01:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/jpg/2/6/1794120438462.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435183/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6435193/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/"
       },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Pedro Alliana forma el nou govern del Paraguai enmig de la crisi del banc Ueno",
+      "excerpt": "L’ex-president Santiago Peña continua detingut, acusat, entre més delictes, de presumpta administració deslleial",
+      "url": "https://www.vilaweb.cat/noticies/pedro-alliana-forma-el-nou-govern-del-paraguai-enmig-de-la-crisi-del-banc-ueno/",
+      "published": "2026-11-08T08:29:31+01:00",
+      "category": "Amèrica",
+      "image": null,
       "priority": "2 · Important"
     },
     {
@@ -99,6 +119,46 @@
     },
     {
       "source": "ARA",
+      "title": "Una cançó d’amor al Sudan a Moscou",
+      "excerpt": "Moscou, finals d’octubre. Una sala plena d’homes amb americana i corbata. Els més importants, asseguts. La melodia comença a sonar i reconeixen la cançó a l’instant. Somriuen i alguns comencen a aplaudir seguint el ritme. El cap d’estat no es mou. Els cantants russos, nois i noies amb veus agudes, vestits de blanc, comencen a entonar una cançó en àrab, una de les més conegudes del Sudan: \" Uhibbu Makan Watani al-Sudan \" (\"Estimo la meva terra, el Sudan\"). És la cerimònia de concessió d’un…",
+      "url": "https://www.ara.cat/internacional/africa/canco-d-amor-sudan-moscou_129_5902291.html",
+      "published": "2026-11-08T09:00:50+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/27fb773d-2cde-4881-861d-f40863ed143a_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els Mossos desallotgen l’edifici de Manresa propietat de la Sareb que la PAHC Bages va ocupar ahir",
+      "excerpt": "A dins hi ha mig centenar de persones, segons la plataforma",
+      "url": "https://www.vilaweb.cat/noticies/els-mossos-desallotgen-ledifici-de-manresa-propietat-de-la-sareb-que-la-pahc-bages-va-ocupar-ahir/",
+      "published": "2026-11-08T08:57:17+01:00",
+      "category": "Actualitat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Rescaten vint-i-quatre immigrants que havien arribat en barcassa a les Illes",
+      "excerpt": "S’han interceptat embarcacions prop de Formentera i a la Colònia de Sant Jordi, a Mallorca",
+      "url": "https://www.vilaweb.cat/noticies/rescaten-vint-i-quatre-immigrants-que-havien-arribat-en-barcassa-a-les-illes/",
+      "published": "2026-11-08T08:37:48+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Per què la poesia de Segimon Serrallonga ha viscut tant de temps amagada?",
+      "excerpt": "El primer que em ve al cap després de llegir aquest eloqüent volum de 800 pàgines és una pregunta: ¿com és que l’obra lírica de Segimon Serrallonga (Torelló, 1930 - Badalona, 2002) ha viscut tant de temps amagada? En coneixíem, per descomptat, algunes realitzacions, però la majoria d’aquestes poesies restava per descobrir. La impressió que ens produeix ara l’obra fa caure d’esquena, si bé és cert que conté peces de lírica altíssima i d’altres d’intenció –no pas d’escriptura– força més corretjuda.",
+      "url": "https://llegim.ara.cat/critiques-literaries/poesia-segimon-serrallonga-viscut-tant-temps-amagada_1_5898758.html",
+      "published": "2026-11-08T08:30:22+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/87174160-b768-4284-904b-2bdde9dff3aa_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
       "title": "\"Els pares dels teus amics són un dels elements més determinants de la teva trajectòria professional\"",
       "excerpt": "Matthew O. Jackson (Elmhurst, Illinois, 1962) ocupa la càtedra William D. Eberle d'economia de la prestigiosa Universitat de Stanford, als Estats Units. Les seves investigacions se centren en la presa de decisions dels agents econòmics i les seves conseqüències sobre la societat, i posa especial èmfasi en el paper que juguen les connexions entre els diferents individus de la societat. La seva recerca es considera pionera i extremadament influent en aquesta àrea d'estudi, un fet que li va valdre ser investit doctor honoris causa per…",
       "url": "https://www.ara.cat/economia/pares-dels-teus-amics-son-dels-elements-mes-determinants-teva-trajectoria-professional_128_5899021.html",
@@ -148,6 +208,16 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "VilaWeb",
+      "title": "Les portades del diumenge 8 de novembre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-diumenge-8-de-novembre-de-2026/",
+      "published": "2026-11-08T08:00:03+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo",
       "title": "La veu d'un dels participants de Prats de Molló: \"Si passàvem la frontera, de nosaltres no en quedava cap\"",
       "excerpt": "Fa 100 anys dels fets de Prats de Molló i amb l'efemèride es publiquen diverses novetats editorials que posen cara i biografia a tots els participants",
@@ -155,12 +225,12 @@
       "published": "2026-11-08T07:14:53+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/2/8/1792350035582.jpeg",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6434455/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-veu-dun-dels-participants-de-prats-de-mollo-si-passavem-la-frontera-de-nosaltres-no-en-quedava-cap/noticia/3430106/"
-      }
+      },
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
