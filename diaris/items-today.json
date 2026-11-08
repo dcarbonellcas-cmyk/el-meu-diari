@@ -2,19 +2,79 @@
   "date": "2026-11-08",
   "items": [
     {
+      "source": "ARA",
+      "title": "Ciberatacs i amenaces de bomba: sembrar el caos sense declarar una guerra convencional",
+      "excerpt": "Supermercats amb els sistemes de refrigeració sabotejats, un banc de sang víctima d'un ciberatac, avions comercials amenaçats amb bombes –i ara també alguns mitjans de comunicació –, dades bancàries i personals de milers de ciutadans de Moldàvia exposades, robatoris milmilionaris de criptomonedes ... Europa ha encadenat darrerament un seguit d'incidents de naturalesa molt diversa que pregonen una mateixa inquietud: fins a quin punt es pot desestabilitzar una societat sense declarar-li la guerra? Som conscients els ciutadans europeus de les nostres vulnerabilitats, derivades en bona part…",
+      "url": "https://www.ara.cat/internacional/europa/ciberatacs-amenaces-bomba-sembrar-caos-declarar-guerra-convencional_1_5902801.html",
+      "published": "2026-11-08T08:00:58+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/78c8a3e3-cc5d-4b65-acc8-9271ee9e41bd_16-9-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El teu veí t'espiava? Hongria destapa un dels seus secrets de la Guerra Freda",
+      "excerpt": "El nou cercador digital permet accedir als expedients des de casa, i revela noms de figures públiques i veïns que van col·laborar amb la policia secreta comunista",
+      "url": "https://www.3cat.cat/3catinfo/el-teu-vei-tespiava-hongria-destapa-un-dels-seus-secrets-de-la-guerra-freda/noticia/3438171/",
+      "published": "2026-11-08T07:13:20+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/5/1794059462156.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de diumenge:  temperatura en ascens, matí de sol o ressol i tarda de núvols",
       "excerpt": "Encetem el camí cap a l'estiuet de Sant Martí",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/",
       "published": "2026-11-07T09:49:31+01:00",
-      "updated": "2026-11-08T06:56:23+01:00",
+      "updated": "2026-11-08T08:13:26+01:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/4/6/1794086356764.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/6/1794120438462.jpg",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6435183/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-diumenge-temperatura-en-ascens-mati-de-sol-i-tarda-de-nuvols/noticia/3438457/"
       },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Lliçó de BlackRock abans de les eleccions",
+      "excerpt": "La casualitat (la providència, creuen alguns) ha fet que Barcelona aculli el 26 de novembre, dos dies abans de la jornada de reflexió i tres abans del dia d'anar a votar a les eleccions generals, més de 2.000 directius al congrés organitzat per la Fundació CEDE. Gestió de la incertesa, digitalització, intel·ligència artificial (IA), geopolítica i les experiències d'alts executius són matèries que preocupen els 170.000 executius que formen part d'aquesta organització, que compleix 30 anys i que presideix Isidre Fainé, president de la Fundació…",
+      "url": "https://empreses.ara.cat/opinio/llico-blackrock-eleccions_129_5900781.html",
+      "published": "2026-11-08T08:00:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2b60b089-7021-4af1-9caa-b0215394d367_source-aspect-ratio_default_0_x876y303.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "He d'avisar si faig vaga? Em descompten sou? Dubtes i respostes de l'aturada general de l'11N",
+      "excerpt": "La mobilització sindical arriba a les portes de la campanya de les eleccions generals i amb l'habitatge al centre de les reivindicacions",
+      "url": "https://www.3cat.cat/3catinfo/he-davisar-si-faig-vaga-em-descompten-sou-dubtes-i-respostes-de-laturada-general-de-l11n/noticia/3436369/",
+      "published": "2026-11-08T07:12:26+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1793908361723.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "PP i Vox eviten el foc creuat i ja assagen l'entesa pensant en un futur govern",
+      "excerpt": "L'extrema dreta abaixa algunes banderes, com la fi de l'estat autonòmic, per evitar \"fer por\" i mobilitzar el votant d'esquerres",
+      "url": "https://www.3cat.cat/3catinfo/pp-i-vox-eviten-el-foc-creuat-i-ja-assagen-lentesa-pensant-en-un-futur-govern/noticia/3438131/",
+      "published": "2026-11-08T07:10:53+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/1/6/1793020312361.jpeg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "De l'accident d'Urda a la vaga general: qui capitalitzarà el nou guió a les portes de la campanya pel 29N",
+      "excerpt": "Els partits han hagut de configurar noves estratègies després de l'accident de l'alta velocitat a Toledo, la dimissió del ministre Óscar Puente i l'impacte del debat sobre el dret a l'habitatge",
+      "url": "https://www.3cat.cat/3catinfo/de-laccident-durda-a-la-vaga-general-qui-capitalitzara-el-nou-guio-a-les-portes-de-la-campanya-pel-29n/noticia/3438532/",
+      "published": "2026-11-08T07:08:29+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/7/1794091456572.jpg",
       "priority": "2 · Important"
     },
     {
@@ -36,6 +96,101 @@
       "category": "Principat",
       "image": null,
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Els pares dels teus amics són un dels elements més determinants de la teva trajectòria professional\"",
+      "excerpt": "Matthew O. Jackson (Elmhurst, Illinois, 1962) ocupa la càtedra William D. Eberle d'economia de la prestigiosa Universitat de Stanford, als Estats Units. Les seves investigacions se centren en la presa de decisions dels agents econòmics i les seves conseqüències sobre la societat, i posa especial èmfasi en el paper que juguen les connexions entre els diferents individus de la societat. La seva recerca es considera pionera i extremadament influent en aquesta àrea d'estudi, un fet que li va valdre ser investit doctor honoris causa per…",
+      "url": "https://www.ara.cat/economia/pares-dels-teus-amics-son-dels-elements-mes-determinants-teva-trajectoria-professional_128_5899021.html",
+      "published": "2026-11-08T08:00:58+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e36ff7b1-3610-4356-8a43-eff7fe10ac0c_source-aspect-ratio_default_0_x1525y658.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els danys col·laterals del nou crèdit del Barça amb Goldman Sachs",
+      "excerpt": "Quan d'aquí uns anys el Camp Nou estigui acabat i funcioni a ple rendiment, és molt probable que tots els retards i contratemps que hi ha hagut en la remodelació quedin en l'oblit. O que es recordin com a simples anècdotes. Però per arribar a aquest extrem encara falta molt de temps. Ni tan sols ara, que s'està a la teòrica recta final, es respira tranquil·litat en un club que no pot permetre's més demores en aquest últim tram de la reforma.",
+      "url": "https://www.ara.cat/esports/barca/danys-col-laterals-nou-credit-barca-goldman-sachs_1_5903162.html",
+      "published": "2026-11-08T08:00:58+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ce4dd198-9d64-4725-9269-3d9db53ee470_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les batalles que amaga el 29-N a Catalunya",
+      "excerpt": "Catalunya, com va passar el 2019, tornarà a ser un territori clau de cara a les pròximes eleccions generals. Fa tres anys els socialistes van aconseguir retenir el govern espanyol gràcies, essencialment, a com va votar l'electorat català, on el PSC va guanyar les eleccions. De cara al 29-N, totes les enquestes li pronostiquen una altra victòria a la candidatura que aquesta vegada encapçalarà Jordi Hereu, però sense que sigui tan fulgurant com fa tres anys. ERC, per exemple, és el partit que se li…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/batalles-amaga-29-n-catalunya_1_5900233.html",
+      "published": "2026-11-08T08:00:58+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0a23ae04-bbe3-46a3-9218-ecdd01436215_4-3-aspect-ratio_default_1061455.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sempre som nosaltres i les nostres circumstàncies, també quan criem persones",
+      "excerpt": "Recordo la data en què vaig apuntar-me a la llista d’espera per accedir als tractaments de reproducció assistida de la seguretat social. Espera, pensa-t’ho, valora-ho, ja arribarà el dia, no te’n desdiguis malgrat la incertesa, tot i no tenir una feina estable . Quan va arribar el meu torn, vaig abraçar l’oportunitat amb tota la por del món, i va sortir bé. Quin petit gran miracle, la vida! Ja embarassada, pensava sovint en la grandesa de la natura, que havia volgut que “tot en mi…",
+      "url": "https://criatures.ara.cat/criatures/sempre-nostres-circumstancies-tambe-criem-persones_129_5898582.html",
+      "published": "2026-11-08T08:00:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/70e74aeb-5e06-4dd5-8191-62db798834b2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"L''star system' de Hollywood comença amb 'Maria Rosa' de Guimerà\"",
+      "excerpt": "El dramaturg Àngel Guimerà (Santa Cruz de Tenerife, 1845 - Barcelona, 1924) va trigar pràcticament dos anys a donar el vistiplau perquè Terra baixa es pogués representar als Estats Units. \"Em sembla que no es prenia gaire seriosament aquest projecte i no sabia qui era Mrs. Fiske\", explica la catedràtica de la Universitat de Richmond (Virgínia) Sharon G. Feldman. Durant una dècada, ella ha resseguit el periple de les obres de Guimerà a l'Amèrica del Nord per constatar-ne l'impacte als teatres de principis del segle…",
+      "url": "https://www.ara.cat/cultura/teatre/l-star-system-hollywood-comenca-maria-rosa-guimera_1_5899512.html",
+      "published": "2026-11-08T08:00:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/34070a24-bdcc-4bf7-b0dd-5a9fb6db91e8_source-aspect-ratio_default_0_x983y451.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La veu d'un dels participants de Prats de Molló: \"Si passàvem la frontera, de nosaltres no en quedava cap\"",
+      "excerpt": "Fa 100 anys dels fets de Prats de Molló i amb l'efemèride es publiquen diverses novetats editorials que posen cara i biografia a tots els participants",
+      "url": "https://www.3cat.cat/3catinfo/la-veu-dun-dels-participants-de-prats-de-mollo-si-passavem-la-frontera-de-nosaltres-no-en-quedava-cap/noticia/3430106/",
+      "published": "2026-11-08T07:14:53+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/2/8/1792350035582.jpeg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6434455/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-veu-dun-dels-participants-de-prats-de-mollo-si-passavem-la-frontera-de-nosaltres-no-en-quedava-cap/noticia/3430106/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Rapejar Miquel Martí i Pol: quan la poesia enganxa els adolescents",
+      "excerpt": "El festival Canalla! de Vic acosta la poesia clàssica a més de 600 adolescents a través del rap i els ajuda a fer-se seva la llengua i a expressar-se sense vergonya",
+      "url": "https://www.3cat.cat/3catinfo/rapejar-miquel-marti-i-pol-quan-la-poesia-enganxa-els-adolescents/noticia/3438007/",
+      "published": "2026-11-08T07:14:05+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/3/1793868173830.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La doctora IA no és cap metge: quan pot ser útil i quin perill té fer-hi consultes sobre salut",
+      "excerpt": "Preguntar a la intel·ligència artificial generativa sobre símptomes o proves mèdiques pot ser una ajuda però també perillós tant per a la salut com per la protecció de dades",
+      "url": "https://www.3cat.cat/3catinfo/la-doctora-ia-no-es-cap-metge-quan-pot-ser-util-i-quin-perill-te-fer-hi-consultes-sobre-salut/noticia/3421096/",
+      "published": "2026-11-08T07:11:49+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/9/3/1789225255339.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "L'esquerra espanyola també vol el seu \"exèrcit digital\" a WhatsApp",
+      "excerpt": "Els partits imiten l'estratègia digital de Lula da Silva al Brasil per mobilitzar simpatitzants a través de WhatsApp i altres xarxes socials de cara al 29N",
+      "url": "https://www.3cat.cat/3catinfo/lesquerra-espanyola-tambe-vol-el-seu-exercit-digital-a-whatsapp/noticia/3438512/",
+      "published": "2026-11-08T07:09:55+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/png/5/9/1794076278595.png",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
