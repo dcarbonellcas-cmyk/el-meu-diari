@@ -43,11 +43,27 @@
     },
     {
       "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: la borrasca Bruna portarà les primeres precipitacions, molt modestes",
+      "excerpt": "El temps es complicarà més a mitjans de setmana, per l'acció d'una pertorbació que està viatjant des dels tròpics",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/",
+      "published": "2026-11-08T11:13:37+01:00",
+      "updated": "2026-11-08T14:48:38+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/7/1794129976270.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435193/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
       "title": "Una pertorbació d'origen subtropical se sumarà als efectes de la gran borrasca Bruna",
       "excerpt": "S'obre la possibilitat de l'arribada d'un riu atmosfèric al Mediterrani",
       "url": "https://www.3cat.cat/3catinfo/una-pertorbacio-dorigen-subtropical-se-sumara-als-efectes-de-la-gran-borrasca-bruna/noticia/3438560/",
       "published": "2026-11-08T13:27:07+01:00",
-      "updated": "2026-11-08T13:32:32+01:00",
+      "updated": "2026-11-08T14:08:08+01:00",
       "category": "El temps",
       "image": "https://img.3cat.cat/multimedia/png/1/0/1794139141501.png",
       "priority": "2 · Important"
@@ -70,22 +86,6 @@
       "published": "2026-11-08T13:00:46+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/e474f2b3-9881-4e4b-886a-4a6fb718f5eb_16-9-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo · El temps",
-      "title": "La previsió de dilluns: la borrasca Bruna portarà les primeres precipitacions, molt modestes",
-      "excerpt": "El temps es complicarà més a mitjans de setmana, per l'acció d'una pertorbació que està viatjant des dels tròpics",
-      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/",
-      "published": "2026-11-08T11:13:37+01:00",
-      "updated": "2026-11-08T11:14:58+01:00",
-      "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/0/7/1794129976270.jpg",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435193/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/"
-      },
       "priority": "2 · Important"
     },
     {
@@ -215,6 +215,66 @@
       "priority": "2 · Important"
     },
     {
+      "source": "VilaWeb",
+      "title": "Colau reivindica Front Ampli com el vot útil i aspira al 10% dels vots",
+      "excerpt": "La candidata creu que la coalició pot passar de vuit a 22 diputats i restar escons a Vox",
+      "url": "https://www.vilaweb.cat/noticies/colau-reivindica-front-ampli-com-el-vot-util-i-aspira-al-10-dels-vots/",
+      "published": "2026-11-08T14:56:37+01:00",
+      "category": "Illes",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El partit àrab Raam anuncia el suport a Eisenkot com a primer ministre d’Israel",
+      "excerpt": "El partit àrab-israelià facilitarà la majoria al líder del Yashar fins i tot sense un acord de coalició previ",
+      "url": "https://www.vilaweb.cat/noticies/el-partit-arab-raam-anuncia-el-suport-a-eisenkot-com-a-primer-ministre-disrael/",
+      "published": "2026-11-08T14:50:42+01:00",
+      "category": "Llevant",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "De l'alta velocitat a l'avió, l'autobús i el cotxe: el tren perd viatgers entre Barcelona i Madrid",
+      "excerpt": "Els accidents al corredor d'Andalusia, els retards, els viatges més llargs i la reducció de freqüències han fet perdre atractiu al corredor Barcelona-Madrid",
+      "url": "https://www.3cat.cat/3catinfo/de-lalta-velocitat-a-lavio-lautobus-i-el-cotxe-el-tren-perd-viatgers-entre-barcelona-i-madrid/noticia/3438572/",
+      "published": "2026-11-08T14:39:21+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/1/1794143597212.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "“Recuperem un tros de la nostra memòria”: la inauguració de la Casa Macià lliga l’exili del passat i el del present",
+      "excerpt": "La Casa Macià ha obert les seves portes com a espai de memòria, coincidint amb el centenari dels Fets de Prats de Molló",
+      "url": "https://www.vilaweb.cat/noticies/inauguracio-casa-macia-espai-memoria-prats-mollo/",
+      "published": "2026-11-08T14:13:42+01:00",
+      "category": "Catalunya Nord",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'hàbil maniobra del Barça per oblidar les lesions: l'Instant Replay de l'ARA",
+      "excerpt": "El Barça va desactivar a temps el Rio Breogan (99-91) i va sumar la seva setena victòria consecutiva. L'equip blaugrana, que va perdre Kevin Punter per lesió, va recuperar un desavantatge de vuit punt. El partit va arribar empatat als últims cinc minuts, però els 60 punts anotats en la segona meitat van ser decisius. \"Hem fet bé moltes coses per sobreposar-nos a les lesions\", va dir Sekulic. Darío Brizuela va celebrar el seu aniversari amb 16 punts.",
+      "url": "https://www.ara.cat/esports/basquet/acb/habil-maniobra-barca-oblidar-lesions-instant-replay-ara_1_5904053.html",
+      "published": "2026-11-08T14:10:39+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f9bb23e4-3166-410d-bd2e-7a1ae83d0e20_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’Europa fa el millor partit de la temporada i guanya l’Atlètic Madrileny",
+      "excerpt": "L’Europa ha guanyat per 3 a 2 el filial de l’Atlètic de Madrid a Can Dragó, dos equips que la temporada passada lluitaven per pujar a Segona Divisió. Tots dos van disputar les eliminatòries d’ascens i ara signen la permanència a 1a RFEF. Arribaven al matx de l’11a jornada amb l’Europa penúltim classificat del grup […]",
+      "url": "https://beteve.cat/esports/europa-millor-partit-temporada-guanya-atletic-madrileny/",
+      "published": "2026-11-08T14:05:13+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/picto-europa-atletic-madrileny-2026-11-08.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "B de gust:",
       "excerpt": "Assaboreix l’oferta gastronòmica de Barcelona cada migdia. El ‘B de gust’ et convida a entrar a bars i forns de barri, restaurants de cuina catalana o internacional i mercats de producte fresc. Tot això, amanit amb entrevistes, receptes, reportatges i recomanacions. Presentat per Carmen Cortés.",
@@ -226,18 +286,18 @@
     },
     {
       "source": "ARA",
-      "title": "Rufián i Junqueras pugen al mateix escenari per arrencar la cursa cap al 29-N",
-      "excerpt": "Ha hagut de passar gairebé un mes des que ERC va tancar la seva llista pel 29-N perquè Gabriel Rufián i Oriol Junqueras hagin pujat a un escenari plegats. De fet, el primer acte de precampanya dels republicans de fa quinze dies va ser compartit: Irene Montero i Gabriel Rufián van protagonitzar el seu primer acte conjunt a Barcelona —aquest dissabte ho van fer a Madrid—. No ha estat fins aquest diumenge quan ERC ha organitzat el seu primer acte de precampanya, a Badalona, fent…",
+      "title": "Rufián i Junqueras pugen al mateix escenari per arrencar la cursa cap al 29-N amb dards a Junts i al PSC",
+      "excerpt": "Ha hagut de passar gairebé un mes des que ERC va tancar la seva llista per al 29-N perquè Gabriel Rufián i Oriol Junqueras hagin pujat a un escenari plegats. De fet, el primer acte de precampanya dels republicans de fa quinze dies va ser compartit: Irene Montero i Gabriel Rufián van protagonitzar el seu primer acte conjunt a Barcelona —aquest dissabte ho van fer a Madrid—. No ha estat fins aquest diumenge que ERC ha organitzat el seu primer acte de precampanya, a Badalona,…",
       "url": "https://www.ara.cat/politica/eleccions-generals/rufian-junqueras-pugen-mateix-escenari-arrencar-cursa-cap-29-n_1_5903989.html",
       "published": "2026-11-08T13:58:52+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/8b8f0610-b1fa-4b98-bba8-5ee35e8809e5_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/8b8f0610-b1fa-4b98-bba8-5ee35e8809e5_16-9-aspect-ratio_default_1061463.jpg",
       "priority": "3 · Altres notícies"
     },
     {
       "source": "3CatInfo",
       "title": "Un llop solitari \"fascinat per l'extrema dreta\": què se sap del tirador de Cracòvia?",
-      "excerpt": "La policia considera el tiroteig com un cas de terrorisme intern, comès per un ciutadà polonès de 24 anys que abans havia matat a trets els seus pares i la germana a casa seva",
+      "excerpt": "La policia considera el tiroteig com un cas de terrorisme intern, comès per un ciutadà polonès de 24 anys que abans havia matat a trets els pares i la germana a casa seva",
       "url": "https://www.3cat.cat/3catinfo/un-llop-solitari-fascinat-per-lextrema-dreta-que-sen-sap-del-tirador-de-cracovia/noticia/3438566/",
       "published": "2026-11-08T13:55:04+01:00",
       "category": "Actualitat",
