@@ -42,6 +42,32 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: la borrasca Bruna portarà les primeres precipitacions, molt modestes",
+      "excerpt": "El temps es complicarà més a mitjans de setmana, per l'acció d'una pertorbació que està viatjant des dels tròpics",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/",
+      "published": "2026-11-08T11:13:37+01:00",
+      "updated": "2026-11-08T11:14:58+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/7/1794129976270.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435193/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Sense trens a Rodalies a les hores vall per la vaga general i serveis mínims del 25 % en hores punta",
+      "excerpt": "(ACN) Rodalies tindrà uns serveis mínims del 25 % en hores punta i no hi haurà cap tren durant la resta del dia durant la vaga general de dimecres, 11 de novembre, segons ha decretat el Departament de Treball. Així, entre les 6.30 i les 9.30 h i entre les 16.30 i les 21 h, […]",
+      "url": "https://beteve.cat/mobilitat/sense-trens-rodalies-vaga-general-serveis-minims/",
+      "published": "2026-11-08T11:07:40+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/01/estacio-sants-buida-240126-1.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "VilaWeb",
       "title": "El risc de parts prematurs va augmentar notablement arran de la gota freda",
       "excerpt": "Va augmentar d'un 36% en comparació amb la xifra prèvia al desastre, i d'un 76% als municipis més afectats, segons un estudi",
@@ -158,6 +184,36 @@
       "priority": "2 · Important"
     },
     {
+      "source": "betevé",
+      "title": "El vot per correu es consolida a les generals i arriba al 29-N com a “arma de campanya” de la dreta",
+      "excerpt": "(ACN) El vot per correu a les eleccions generals s’ha consolidat en l’última dècada: des del 2016, ha superat les 100.000 paperetes a Catalunya i el milió a l’estat en tots els comicis al Congrés, independentment de la participació. Les convocatòries d’estiu n’han disparat les xifres, amb el rècord històric el juliol del 2023. La […]",
+      "url": "https://beteve.cat/politica/vot-correu-consolida-eleccions-generals-arriba-29-n-arma-campanya-dreta/",
+      "published": "2026-11-08T11:07:03+01:00",
+      "category": "Espanya",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/vot-correu-eleccions-generals-2026-11-08.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Puigdemont apareix per sorpresa a la inauguració de la Casa Macià a Prats de Molló",
+      "excerpt": "Aquest diumenge se celebra la inauguració oficial del projecte de museïtzació de la casa on Macià va preparar el pla per envair Catalunya",
+      "url": "https://www.3cat.cat/3catinfo/puigdemont-apareix-per-sorpresa-a-la-inauguracio-de-la-casa-macia-a-prats-de-mollo/noticia/3438559/",
+      "published": "2026-11-08T11:04:44+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/4/1/1794131736814.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "‘Per Barcelona’, l’últim llibre de Lluís Permanyer",
+      "excerpt": "Recorria Barcelona, sobretot l’Eixample, amb el seu bigoti inconfusible i la mirada sempre atenta a la ciutat. Va escriure més de 80 llibres, molts dels quals dedicats a les seves grans passions: Barcelona, l’Eixample i la burgesia. Una ciutat que Lluís Permanyer va observar, documentar i explicar durant dècades i que ara torna a ser […]",
+      "url": "https://beteve.cat/cultura/lluis-permanyer-llibre-postum-memories-per-barcelona/",
+      "published": "2026-11-08T10:53:45+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/permanyer-llibre-postum-061126-2026-11-06.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Mor un soldat de l'exèrcit espanyol durant una instrucció militar a Saragossa",
       "excerpt": "Un soldat de l'exèrcit de terra ha mort durant una activitat d'instrucció al de San Gregorio, a Saragossa, per causes que s'estan investigant, segons ha informat aquest diumenge el Ministeri de Defensa. En el seu comunicat, el quarter general de l'exèrcit ha expressat el seu \"profund dolor\" per la mort i ha traslladat el seu \"més sincer condol\" i el seu \"suport incondicional\" als familiars i companys del soldat.",
@@ -169,8 +225,8 @@
     },
     {
       "source": "3CatInfo",
-      "title": "Tensió a Manresa en el desallotjament del bloc de la Sareb ocupat ahir per la PAHC",
-      "excerpt": "El dispositiu policial s'ha desplegat a primera hora al barri de la Font dels Capellans, l'endemà que la plataforma ocupés l'immoble de la Sareb per allotjar-hi cinc famílies desnonades",
+      "title": "Suspès el desallotjament del bloc ocupat a Manresa: les famílies es poden quedar després d'un matí tens",
+      "excerpt": "Una trucada de la SAREB al sistema de mediació dels mossos, ha aturat el desallotjament que estava en marxa",
       "url": "https://www.3cat.cat/3catinfo/dispositiu-dels-mossos-per-desallotjar-el-darrer-bloc-ocupat-per-la-pahc-a-manresa/noticia/3438550/",
       "published": "2026-11-08T09:28:56+01:00",
       "category": "Actualitat",
@@ -199,8 +255,8 @@
     },
     {
       "source": "VilaWeb",
-      "title": "Els Mossos desallotgen l’edifici de Manresa propietat de la Sareb ocupat ahir",
-      "excerpt": "La plataforma ha denunciat brutalitat policíaca i també que els Mossos s'han saltat els protocols",
+      "title": "Tensió, càrregues i un detingut en el desallotjament de l’edifici de Manresa propietat de la Sareb ocupat per la PAHC",
+      "excerpt": "La Plataforma d’Afectats per la Hipoteca i el Capitalisme ha denunciat brutalitat policíaca i també que els Mossos s'han saltat els protocols",
       "url": "https://www.vilaweb.cat/noticies/els-mossos-desallotgen-ledifici-de-manresa-propietat-de-la-sareb-que-la-pahc-bages-va-ocupar-ahir/",
       "published": "2026-11-08T08:57:17+01:00",
       "category": "Societat",
