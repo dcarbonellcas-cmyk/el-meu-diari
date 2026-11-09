@@ -2,6 +2,327 @@
   "date": "2026-11-09",
   "items": [
     {
+      "source": "VilaWeb",
+      "title": "S’ha mort l’autor del tiroteig de Cracòvia, que va causar nous morts i més d’una dotzena de ferits",
+      "excerpt": "L’agressor, de 24 anys, era ingressat en estat crític després d’haver rebut uns quants trets de la policia",
+      "url": "https://www.vilaweb.cat/noticies/mor-autor-tiroteig-cracovia-nou-morts/",
+      "published": "2026-11-09T08:17:34+01:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El director de Rodalia atribueix els retards i cancel·lacions al “context de vaga”",
+      "excerpt": "Playà demana responsabilitat als maquinistes i recomana als usuaris buscar serveis alternatius en una setmana complicada",
+      "url": "https://www.vilaweb.cat/noticies/director-rodalia-retards-cancellacions-context-vaga/",
+      "published": "2026-11-09T08:48:22+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Es repeteixen els retards generalitzats a Rodalies en una setmana amb tres jornades de vaga",
+      "excerpt": "Els usuaris de Rodalies tornen a enfrontar-se a una jornada caòtica pel que fa a la mobilitat. Després d’un cap de setmana amb retards generalitzats de fins a una hora a causa d’una “incidència operativa“, aquest dilluns els trens també circulen fora del seu horari habitual, amb retards i cancel·lacions, i l’R7 es troba interrompuda. […]",
+      "url": "https://beteve.cat/mobilitat/repeteixen-retards-rodalies-setmana-tres-jornades-vaga/",
+      "published": "2026-11-09T08:45:51+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/retards-rodalies-sants-2026-11-08.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dilluns: la borrasca Bruna ens porta les primeres precipitacions, molt modestes",
+      "excerpt": "El temps es complicarà més a mitjans de setmana, per l'acció d'una pertorbació que està viatjant des dels tròpics",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/",
+      "published": "2026-11-08T11:13:37+01:00",
+      "updated": "2026-11-09T08:09:48+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/8/1794208172583.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435308/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Retards en totes les línies de Rodalies per \"incidències amb els maquinistes i els trens\"",
+      "excerpt": "El servei de Rodalies funciona aquest matí novament amb retards generalitzats a totes les línies. Fonts de Renfe han concretat que hi ha \"incidències relacionades amb els maquinistes i els trens\" que s’estan analitzant, segons informa l'ACN, mentre que el director de Rodalies de Catalunya, Òscar Playà, ha afirmat a Catalunya Ràdio que la situació té a veure amb el \"context\" de \"conflicte\" i de \"vaga\" que es viu al sector. Aquesta setmana hi ha convocades tres vagues: dues de maquinistes i la vaga general…",
+      "url": "https://www.ara.cat/societat/mobilitat/retards-generalitzats-rodalies-incidencies-maquinistes-trens_1_5904722.html",
+      "published": "2026-11-09T07:47:44+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/36aa0329-d0e3-4e15-9858-96a16558f2e2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "\"L'endemà de la vaga general continuarà havent-hi un problema amb l'habitatge\"",
+      "excerpt": "La vaga general del pròxim 11 de novembre ha servit per marcar els perfils dels agents socials del país. Mentre els sindicats laborals i d'habitatge han aprofitat la convocatòria per pressionar l'executiu i esmolar els seus arguments en l'àmbit del treball –des de l'SMI fins a la reducció de jornada o la distribució dels beneficis empresarials–, les patronals han reconegut la crisi residencial, però no l'eina que s'ha triat per donar-hi resposta. El president de la patronal catalana de les petites i mitjanes empreses Pimec,…",
+      "url": "https://www.ara.cat/economia/patronals/l-endema-vaga-general-continuara-havent-hi-problema-l-habitatge_128_5901091.html",
+      "published": "2026-11-09T07:01:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fbd9ba2c-5f1d-46dd-80a2-c2cdc2ce6aaf_source-aspect-ratio_default_0_x2368y904.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "I si féssim una vaga general per deflactar l’IRPF?",
+      "excerpt": "Pugen els preus, pugen els sous (menys). I sabeu què no para de pujar? La recaptació d’impostos. 248.326 milions d’euros entre el gener i el setembre del 2026, segons l’Agència Estatal Tributària, amb creixements de doble dígit en alguns impostos: un 12,5% en l’IRPF i un 7,4% en l’IVA. I sabeu qui hi contribueix? La inflació, que ningú sembla tenir intenció de frenar. A preus més elevats, més recaptació.",
+      "url": "https://empreses.ara.cat/opinio/fessim-vaga-general-deflactar-l-irpf_129_5904327.html",
+      "published": "2026-11-09T07:00:25+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/498f4aa0-f998-4358-9b6c-8b8505eb09fa_16-9-aspect-ratio_default_0_x2458y381.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Retards a tot Rodalies en l'inici d'una setmana amb vagues convocades dimarts, dimecres i dijous",
+      "excerpt": "Els maquinistes denuncien un canvi d'horaris i torns que deixa trens sense conductor i que ha generat un conflicte laboral amb Renfe, a les portes de tres dies de vaga aquest setmana",
+      "url": "https://www.3cat.cat/3catinfo/els-retards-constants-a-rodalies-del-cap-de-setmana-podrien-arribar-fins-divendres-es-vergonyos/noticia/3438619/",
+      "published": "2026-11-09T06:40:18+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/4/3/1794207794934.jpeg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
+      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-11-09T08:53:15+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
+      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-11-09T08:48:18+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Puigdemont: “Nosaltres acabarem fent un gran acte d’unilateralitat algun dia”",
+      "excerpt": "El president a l'exili defensa que la independència requerirà una acció unilateral i assegura que caldrà acumular més legitimitat per a poder-la dur a terme",
+      "url": "https://www.vilaweb.cat/noticies/carles-puigdemont-gran-acte-unilateralitat/",
+      "published": "2026-11-09T08:35:59+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les portades del dilluns 9 de novembre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-dilluns-9-de-novembre-de-2026/",
+      "published": "2026-11-09T08:00:02+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Culebró a Nvidia, líder en xips per a IA: investiguen el CEO per un afer amb una espia xinesa",
+      "excerpt": "El director executiu de la companyia, Jensen Huang, ha enviat un missatge als treballadors reconeixent la infidelitat i ha assegurat que està \"totalment compromès\" amb l'empresa",
+      "url": "https://www.3cat.cat/3catinfo/culebrot-a-nvidia-lider-en-xips-per-a-ia-investiguen-el-ceo-per-una-aventura-amb-una-espia-xinesa/noticia/3438622/",
+      "published": "2026-11-09T07:25:40+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/8/1794178643888.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Retards generalitzats i trens cancel·lats per una “incidència operativa” a Rodalia",
+      "excerpt": "Rodalia registra problemes greus després d'un cap de setmana marcat pels retards generalitzats arran del conflicte laboral entre RENFE i els maquinistes",
+      "url": "https://www.vilaweb.cat/noticies/retards-generalitzats-trens-cancellats-incidencia-operativa-rodalies/",
+      "published": "2026-11-09T07:23:39+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Per què val la pena llegir Maggie O'Farrell més enllà de 'Hamnet'",
+      "excerpt": "Els seguidors de Maggie O’Farrell hem rebut la bona notícia que a principis d’any –concretament, el primer dia de febrer– tindrem una novel·la nova de l’autora irlandesa: Land. L’ha traduïda al català Marc Rubió i la publicarà L’Altra Editorial. Es tracta d’una història ambientada a final del segle XIX, en un racó irlandès allunyat de tot, i inspirada en la peripècia viscuda pel besavi de l'autora, que va treballar cartografiant l’illa per a l’exèrcit britànic. Els editors i els crítics parlen d’una narració abassegadora i…",
+      "url": "https://llegim.ara.cat/opinio/val-pena-llegir-maggie-farrell-mes-enlla-hamnet_129_5901034.html",
+      "published": "2026-11-09T07:15:39+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1938e4bb-d82e-40e6-9b42-06d6dc578ca3_source-aspect-ratio_default_0_x2137y1040.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Jutgen un home per una agressió homòfoba en un gimnàs de Barcelona fa tres anys",
+      "excerpt": "Comença el judici contra l’home acusat d’agredir-ne un altre per la seva orientació sexual en un gimnàs fa tres anys. Els fets, que es remunten al març del 2023, es van produir al DIR Maragall, quan els dos usuaris es trobaven a la sauna seca. Un d’ells es va aixecar per dirigir-se a un altre […]",
+      "url": "https://beteve.cat/societat/judici-agressio-homofoba-gimnas-barcelona/",
+      "published": "2026-11-09T07:06:45+01:00",
+      "category": "justícia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/09/robatori-gimnas-sant-marti-270925.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Si depèn de nosaltres, hi haurà repetició electoral\"",
+      "excerpt": "Jordi Graupera (Barcelona, 1981) arriba a l'ARA en mode electoral i amb el temps just per anar a buscar la seva filla al col·legi. Està convençut que aquesta vegada té una oportunitat.",
+      "url": "https://www.ara.cat/politica/eleccions-generals/depen-hi-haura-repeticio-electoral_128_5902537.html",
+      "published": "2026-11-09T07:00:26+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b342e7f1-e63a-4c16-9957-af412446bd60_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els plans de Puigdemont i Nogueras",
+      "excerpt": "Miriam Nogueras i Carles Puigdemont determinaran el rumb de Junts els pròxims mesos, des del punt de vista electoral i d'horitzó per a la confecció de l'alternativa nacional respectivament. D'aquí tres setmanes se celebraran les eleccions espanyoles, en què es posa a prova la feina feta a Madrid per la dirigent juntaire i, tot seguit, es produirà l'esperat retorn del president, que la formació independentista espera que li serveixi com el revulsiu necessari per capgirar el taulell polític català, condicionat fins ara pel creixement de…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/plans-puigdemont-nogueras_1_5888067.html",
+      "published": "2026-11-09T07:00:26+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/720f2f81-847d-4336-b796-1203b5dfb9f6_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un 35% d'electrificació el 2035: objectiu de mínims a la cimera del clima de l'ONU",
+      "excerpt": "Amb el preu del petroli disparat pel conflicte a l'Iran i les onades de calor i inundacions mortals a l'ordre del dia, els governs del món haurien d'estar bolcats en la lluita contra l'emergència climàtica i la reducció de la dependència dels combustibles fòssils. Però, paradoxalment, la cimera de l'ONU contra el canvi climàtic d'aquest any, la COP31, que arrenca aquest dilluns a Turquia, es perfila com una de les més intranscendents i amb menys resultats concrets de totes les que s'han fet. El govern…",
+      "url": "https://www.ara.cat/medi-i-crisi-climatica/35-d-electrificacio-2035-objectiu-minims-cimera-clima-l-onu_1_5898654.html",
+      "published": "2026-11-09T07:00:25+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/101ca8f2-ae97-4f3d-a0f5-7ca11d538cd9_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El fill del sindicalista de la fàbrica d'Aragonès, la nova mà dreta d’Illa",
+      "excerpt": "El nou cap de gabinet de Salvador Illa també ve del món local. Xavier Amor (1975, Pineda de Mar) va ser alcalde del seu municipi durant 17 anys consecutius (entre el 2007 i el 2024) després de tres mandats de batlles de CiU. Igual que el seu predecessor, Eduard Rivas , va presidir la Federació de Municipis de Catalunya (2013-2019) i no va fer el salt a la Generalitat fins a l'estiu del 2024, com a secretari de Governs Locals i Relacions amb l'Aran.",
+      "url": "https://www.ara.cat/politica/govern/fill-sindicalista-fabrica-d-aragones-nova-ma-dreta-d-illa_1_5899786.html",
+      "published": "2026-11-09T07:00:25+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/000ed217-d3b0-4736-a26e-9efe6b270167_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Nomenaments al sector de les assegurances i a Caixa Enginyers",
+      "excerpt": "Setmana sense grans canvis a les cúpules empresarials catalanes i espanyoles. Els principals moviments s'han produït sobretot al sector de les assegurances, en el qual VidaCaixa ha nomenat un nou conseller dominical, Javier Murillo, i la madrilenya Mapfre té un nou conseller delegat a la seva filial portuguesa. Dintre del món financer, Caixa Enginyers ha ratificat diversos seients del seu consell rector, al qual ha donat entrada a una nova vocal.",
+      "url": "https://empreses.ara.cat/directius/nomenaments-sector-assegurances-caixa-enginyers_1_5902295.html",
+      "published": "2026-11-09T07:00:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/66c58647-0d92-4f44-a731-8fdd72778b4f_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els supermercats catalans, de moment immunes als ciberatacs",
+      "excerpt": "Un bon grapat de països europeus han patit aquestes últimes setmanes atacs informàtics en cadenes de supermercats. Espanya, però, de moment és immune a aquest tipus d'operacions cibernètiques, que les autoritats de la Unió Europea i dels estats afectats emmarquen dins del context de guerra híbrida , com també ho són els atacs als bancs de sang de França.",
+      "url": "https://empreses.ara.cat/empreses/supermercats-catalans-moment-immunes-als-ciberatacs_1_5901843.html",
+      "published": "2026-11-09T07:00:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a97b7c41-0ba4-4a7d-8d3e-abd186bc1891_source-aspect-ratio_default_0_x2347y851.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Berta Creus: \"Els fantasmes que arrosseguem al llarg de la vida estan sempre amb nosaltres\"",
+      "excerpt": "Hi ha una imatge que, des de fa un temps, apareixia una vegada rere l'altra a la ment de l'escriptora Berta Creus (Sant Martí de Tous, 1986). \"M'imaginava una parella en una relació que no passa pel seu millor moment. Un d'ells sortia al jardí amb un càntir ple d'aigua, li queia a terra i es trencava en mil bocins. Cada bocí era una història que conformava la seva vida junts\", explica Creus. Passats pel sedàs de la literatura, aquesta parella són la Jara i…",
+      "url": "https://llegim.ara.cat/actualitat/berta-creus-fantasmes-arrosseguem-vida-sempre_1_5823919.html",
+      "published": "2026-11-09T07:00:23+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/cf47c591-36b9-49fd-9dfd-420c314fda9d_source-aspect-ratio_default_0_x4003y1473.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Cinc cartes que hauries d'escriure algun cop a la vida",
+      "excerpt": "a setmana passada viatjava en avió i vam experimentar el tipus de turbulències que et sacsegen els ossos i desencadenen pensaments de pànic. La meva ment es va centrar en la meva filla. Iem vaig preguntar si ella sabia quant l’estimava.",
+      "url": "https://www.ara.cat/estils/cinc-cartes-hauries-d-escriure-cop-vida_130_5898548.html",
+      "published": "2026-11-09T07:00:22+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b153cbe6-27c3-4c99-9bd5-acc81680ccb7_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El cervell matern, un altre territori fins ara oblidat per la ciència",
+      "excerpt": "Sent dona i biòloga, és a dir, havent estudiat les ciències de la vida, em sorprèn encara les poques coses que sé sobre els canvis biològics que implica el fet de ser dona. Conversant amb les amigues comentem que ningú ens va explicar mai el que realment implicava la menopausa, així com els canvis corporals, orgànics i metabòlics associats. Pel que fa a la menstruació, per molt que sembli que ara està alliberada i que tothom en parla lliurement, tampoc s'explica què suposa realment per…",
+      "url": "https://www.ara.cat/ciencia-medi-ambient/neurociencia/cervell-matern-territori-fins-ara-oblidat-ciencia_1_5897487.html",
+      "published": "2026-11-09T07:00:21+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fff3c926-5bcd-402c-aaab-440353f7d338_source-aspect-ratio_default_0_x3224y1638.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Una de les coses que considero més perilloses en la criança és l’excés d’informació\"",
+      "excerpt": "La meva vida avui és un poc més difícil que fa sis anys, però molt més plena. El meu company de vida, Pau Valls, és també il·lustrador i autor de còmic. Els dos, autònoms. Els dos, creatius. Pots imaginar-te la pressió que ens acompanya sovint per la incertesa econòmica. Però, malgrat açò, no hi ha un sol dia que no ens sentim immensament afortunats.",
+      "url": "https://criatures.ara.cat/criatures/coses-considero-mes-perilloses-crianca-l-exces-d-informacio_128_5894973.html",
+      "published": "2026-11-09T07:00:20+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/63f5aca7-a9a6-473f-9dee-f3974fc7058e_16-9-aspect-ratio_default_0_x336y433.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"La meva vinya, la pastura i la sureda van fer que el foc que es va declarar al Cap de Creus el 2022 no…",
+      "excerpt": "Entrevisto l’enòloga Anna Espelt a les seves vinyes de Mas Marès al Parc Natural del Cap de Creus, una finca que té cent setanta-dues hectàrees, vint-i-cinc de les quals són de vinya. El sol s’ha alçat lluminós al cel blau, i si no fos per la tramuntana constant que hi bufa, semblaria un dia d’estiu. Comencem a parlar prop d'un menhir que hi ha entre les vinyes, que per a l’Anna és un símbol de la vida humana que hi ha hagut antigament a les…",
+      "url": "https://mengem.ara.cat/vins-caves/meva-vinya-pastura-sureda-foc-declarar-cap-creus-2022-no-arribes-roses_128_5900787.html",
+      "published": "2026-11-09T07:00:20+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7a299641-83ce-432b-84ec-d212dd163e80_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Julie Klinger, experta en terres rares: \"El subministrament de la indústria de defensa depèn de la Xina\"",
+      "excerpt": "Les terres rares comparteixen propietats magnètiques, conductores i òptiques que les fan molt atractives per a molts sectors econòmics, inclosos la transició energètica i la defensa",
+      "url": "https://www.3cat.cat/3catinfo/julie-klinger-experta-en-terres-rares-el-subministrament-de-la-industria-de-defensa-depen-de-la-xina/noticia/3437874/",
+      "published": "2026-11-09T06:43:14+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/0/1794139957008.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El repte de celebrar funerals laics a pobles petits: se'n fan a patis, aparcaments i... esglésies",
+      "excerpt": "L'augment de cerimònies no religioses posa de manifest la falta d'espais adequats fora de l'àrea metropolitana, fet que obliga les famílies a improvisar comiats en llocs poc convencionals",
+      "url": "https://www.3cat.cat/3catinfo/el-repte-de-celebrar-funerals-laics-a-pobles-petits-sen-fan-a-patis-aparcaments-i-esglesies/noticia/3438294/",
+      "published": "2026-11-09T06:42:07+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/3/1793965525535.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Seguir el rastre dels diners del crim organitzat: el paper dels notaris per lluitar contra el blanqueig",
+      "excerpt": "Els notaris demanen una base de dades europea per combatre el blanqueig de capitals, seguint l'exemple de l'Índex Únic Informatitzat del Notariat a Espanya",
+      "url": "https://www.3cat.cat/3catinfo/seguir-el-rastre-dels-diners-del-crim-organitzat-el-paper-dels-notaris-per-lluitar-contra-el-blanqueig/noticia/3438525/",
+      "published": "2026-11-09T06:40:48+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/8/1794143622387.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435300/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/seguir-el-rastre-dels-diners-del-crim-organitzat-el-paper-dels-notaris-per-lluitar-contra-el-blanqueig/noticia/3438525/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El testimoni d'un controlador d'Adif: \"Quan hi ha una incidència, no dones l'abast\"",
+      "excerpt": "El centre de control de Saragossa supervisa la línia d'alta velocitat Madrid-Barcelona-Figueres, on es reben moltes trucades de maquinistes que adverteixen de problemes a les vies",
+      "url": "https://www.3cat.cat/3catinfo/el-testimoni-dun-controlador-dadif-quan-hi-ha-una-incidencia-no-dones-labast/noticia/3438612/",
+      "published": "2026-11-09T06:38:43+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/6/1794165551668.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "ARA",
       "title": "Els espanyols, entre els europeus que menys inverteixen als mercats de capitals",
       "excerpt": "Les llars espanyoles se situen entre les que menys inverteixen en els mercats de capitals (accions, bons, plans de pensions i fons d'inversió). La mitjana per adult és de 31.039 euros, un 36% per sota de la mitjana de la Unió Europea (UE), que és de 48.290 euros. I a molta més distància de Dinamarca (116.334), Suècia (114.028) i els Països Baixos (113.248). Tots tres, països amb molta més tradició per aquestes inversions i amb nivells de vida més alts que a Espanya. Aquestes xifres…",

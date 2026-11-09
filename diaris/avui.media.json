@@ -3,6 +3,264 @@
   "pages": [
     {
       "page": 2,
+      "title": "S’ha mort l’autor del tiroteig de Cracòvia, que va causar nous morts i més d’una dotzena de ferits",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/mor-autor-tiroteig-cracovia-nou-morts/",
+      "published": "2026-11-09T08:17:34+01:00",
+      "priority": "1 · Urgent"
+    },
+    {
+      "page": 3,
+      "title": "El director de Rodalia atribueix els retards i cancel·lacions al “context de vaga”",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/director-rodalia-retards-cancellacions-context-vaga/",
+      "published": "2026-11-09T08:48:22+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 4,
+      "title": "Es repeteixen els retards generalitzats a Rodalies en una setmana amb tres jornades de vaga",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/mobilitat/repeteixen-retards-rodalies-setmana-tres-jornades-vaga/",
+      "published": "2026-11-09T08:45:51+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 5,
+      "title": "La previsió de dilluns: la borrasca Bruna ens porta les primeres precipitacions, molt modestes",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/",
+      "published": "2026-11-08T11:13:37+01:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435308/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dilluns-la-borrasca-bruna-portara-les-primeres-precipitacions-molt-modestes/noticia/3438490/"
+      }
+    },
+    {
+      "page": 6,
+      "title": "Retards en totes les línies de Rodalies per \"incidències amb els maquinistes i els trens\"",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/mobilitat/retards-generalitzats-rodalies-incidencies-maquinistes-trens_1_5904722.html",
+      "published": "2026-11-09T07:47:44+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 7,
+      "title": "\"L'endemà de la vaga general continuarà havent-hi un problema amb l'habitatge\"",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/economia/patronals/l-endema-vaga-general-continuara-havent-hi-problema-l-habitatge_128_5901091.html",
+      "published": "2026-11-09T07:01:29+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 8,
+      "title": "I si féssim una vaga general per deflactar l’IRPF?",
+      "source": "ARA",
+      "articleUrl": "https://empreses.ara.cat/opinio/fessim-vaga-general-deflactar-l-irpf_129_5904327.html",
+      "published": "2026-11-09T07:00:25+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 9,
+      "title": "Retards a tot Rodalies en l'inici d'una setmana amb vagues convocades dimarts, dimecres i dijous",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/els-retards-constants-a-rodalies-del-cap-de-setmana-podrien-arribar-fins-divendres-es-vergonyos/noticia/3438619/",
+      "published": "2026-11-09T06:40:18+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 10,
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-11-09T08:53:15+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 11,
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-11-09T08:48:18+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 12,
+      "title": "Puigdemont: “Nosaltres acabarem fent un gran acte d’unilateralitat algun dia”",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/carles-puigdemont-gran-acte-unilateralitat/",
+      "published": "2026-11-09T08:35:59+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 13,
+      "title": "Les portades del dilluns 9 de novembre de 2026",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-dilluns-9-de-novembre-de-2026/",
+      "published": "2026-11-09T08:00:02+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 14,
+      "title": "Culebró a Nvidia, líder en xips per a IA: investiguen el CEO per un afer amb una espia xinesa",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/culebrot-a-nvidia-lider-en-xips-per-a-ia-investiguen-el-ceo-per-una-aventura-amb-una-espia-xinesa/noticia/3438622/",
+      "published": "2026-11-09T07:25:40+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 15,
+      "title": "Retards generalitzats i trens cancel·lats per una “incidència operativa” a Rodalia",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/retards-generalitzats-trens-cancellats-incidencia-operativa-rodalies/",
+      "published": "2026-11-09T07:23:39+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 16,
+      "title": "Per què val la pena llegir Maggie O'Farrell més enllà de 'Hamnet'",
+      "source": "ARA",
+      "articleUrl": "https://llegim.ara.cat/opinio/val-pena-llegir-maggie-farrell-mes-enlla-hamnet_129_5901034.html",
+      "published": "2026-11-09T07:15:39+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 17,
+      "title": "Jutgen un home per una agressió homòfoba en un gimnàs de Barcelona fa tres anys",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/judici-agressio-homofoba-gimnas-barcelona/",
+      "published": "2026-11-09T07:06:45+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 18,
+      "title": "\"Si depèn de nosaltres, hi haurà repetició electoral\"",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/depen-hi-haura-repeticio-electoral_128_5902537.html",
+      "published": "2026-11-09T07:00:26+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 19,
+      "title": "Els plans de Puigdemont i Nogueras",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/plans-puigdemont-nogueras_1_5888067.html",
+      "published": "2026-11-09T07:00:26+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 20,
+      "title": "Un 35% d'electrificació el 2035: objectiu de mínims a la cimera del clima de l'ONU",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/medi-i-crisi-climatica/35-d-electrificacio-2035-objectiu-minims-cimera-clima-l-onu_1_5898654.html",
+      "published": "2026-11-09T07:00:25+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 21,
+      "title": "El fill del sindicalista de la fàbrica d'Aragonès, la nova mà dreta d’Illa",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/govern/fill-sindicalista-fabrica-d-aragones-nova-ma-dreta-d-illa_1_5899786.html",
+      "published": "2026-11-09T07:00:25+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 22,
+      "title": "Nomenaments al sector de les assegurances i a Caixa Enginyers",
+      "source": "ARA",
+      "articleUrl": "https://empreses.ara.cat/directius/nomenaments-sector-assegurances-caixa-enginyers_1_5902295.html",
+      "published": "2026-11-09T07:00:24+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 23,
+      "title": "Els supermercats catalans, de moment immunes als ciberatacs",
+      "source": "ARA",
+      "articleUrl": "https://empreses.ara.cat/empreses/supermercats-catalans-moment-immunes-als-ciberatacs_1_5901843.html",
+      "published": "2026-11-09T07:00:24+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 24,
+      "title": "Berta Creus: \"Els fantasmes que arrosseguem al llarg de la vida estan sempre amb nosaltres\"",
+      "source": "ARA",
+      "articleUrl": "https://llegim.ara.cat/actualitat/berta-creus-fantasmes-arrosseguem-vida-sempre_1_5823919.html",
+      "published": "2026-11-09T07:00:23+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 25,
+      "title": "Cinc cartes que hauries d'escriure algun cop a la vida",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/estils/cinc-cartes-hauries-d-escriure-cop-vida_130_5898548.html",
+      "published": "2026-11-09T07:00:22+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 26,
+      "title": "El cervell matern, un altre territori fins ara oblidat per la ciència",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/ciencia-medi-ambient/neurociencia/cervell-matern-territori-fins-ara-oblidat-ciencia_1_5897487.html",
+      "published": "2026-11-09T07:00:21+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 27,
+      "title": "\"Una de les coses que considero més perilloses en la criança és l’excés d’informació\"",
+      "source": "ARA",
+      "articleUrl": "https://criatures.ara.cat/criatures/coses-considero-mes-perilloses-crianca-l-exces-d-informacio_128_5894973.html",
+      "published": "2026-11-09T07:00:20+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 28,
+      "title": "\"La meva vinya, la pastura i la sureda van fer que el foc que es va declarar al Cap de Creus el 2022 no…",
+      "source": "ARA",
+      "articleUrl": "https://mengem.ara.cat/vins-caves/meva-vinya-pastura-sureda-foc-declarar-cap-creus-2022-no-arribes-roses_128_5900787.html",
+      "published": "2026-11-09T07:00:20+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 29,
+      "title": "Julie Klinger, experta en terres rares: \"El subministrament de la indústria de defensa depèn de la Xina\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/julie-klinger-experta-en-terres-rares-el-subministrament-de-la-industria-de-defensa-depen-de-la-xina/noticia/3437874/",
+      "published": "2026-11-09T06:43:14+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 30,
+      "title": "El repte de celebrar funerals laics a pobles petits: se'n fan a patis, aparcaments i... esglésies",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/el-repte-de-celebrar-funerals-laics-a-pobles-petits-sen-fan-a-patis-aparcaments-i-esglesies/noticia/3438294/",
+      "published": "2026-11-09T06:42:07+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 31,
+      "title": "Seguir el rastre dels diners del crim organitzat: el paper dels notaris per lluitar contra el blanqueig",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/seguir-el-rastre-dels-diners-del-crim-organitzat-el-paper-dels-notaris-per-lluitar-contra-el-blanqueig/noticia/3438525/",
+      "published": "2026-11-09T06:40:48+01:00",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435300/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/seguir-el-rastre-dels-diners-del-crim-organitzat-el-paper-dels-notaris-per-lluitar-contra-el-blanqueig/noticia/3438525/"
+      }
+    },
+    {
+      "page": 32,
+      "title": "El testimoni d'un controlador d'Adif: \"Quan hi ha una incidència, no dones l'abast\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/el-testimoni-dun-controlador-dadif-quan-hi-ha-una-incidencia-no-dones-labast/noticia/3438612/",
+      "published": "2026-11-09T06:38:43+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 33,
       "title": "Els espanyols, entre els europeus que menys inverteixen als mercats de capitals",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/macroeconomia/espanyols-europeus-menys-inverteixen-als-mercats-capitals_1_5903097.html",
