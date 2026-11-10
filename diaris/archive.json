@@ -1,6 +1,21 @@
 {
   "editions": [
     {
+      "date": "2026-11-10",
+      "updatedAt": "2026-11-10T03:09:36.190759+01:00",
+      "pdf": "diaris/arxiu/2026-11-10/03-09-36-190759.pdf",
+      "count": 5,
+      "sources": [
+        "3CatInfo",
+        "VilaWeb",
+        "ARA",
+        "betevé",
+        "3CatInfo · El temps"
+      ],
+      "unavailableSources": [],
+      "fingerprint": "45d1a561a5d884e26c1291df4d7758d1920c6e5faa12b40860211d46cd82c236"
+    },
+    {
       "date": "2026-11-09",
       "updatedAt": "2026-11-09T19:49:20.089757+01:00",
       "pdf": "diaris/arxiu/2026-11-09/19-49-20-089757.pdf",
@@ -14,36 +29,6 @@
       ],
       "unavailableSources": [],
       "fingerprint": "b70896734a4334bf32e1258028250a4d7672d7344946649f5aa09e670183b382"
-    },
-    {
-      "date": "2026-11-09",
-      "updatedAt": "2026-11-09T08:59:34.799836+01:00",
-      "pdf": "diaris/arxiu/2026-11-09/08-59-34-799836.pdf",
-      "count": 32,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "d902e1c7204b84c704c442cc17d780fa75cb3e573e3cf9238e9e7f074cb3bdfa"
-    },
-    {
-      "date": "2026-11-09",
-      "updatedAt": "2026-11-09T01:55:52.457765+01:00",
-      "pdf": "diaris/arxiu/2026-11-09/01-55-52-457765.pdf",
-      "count": 1,
-      "sources": [
-        "3CatInfo",
-        "VilaWeb",
-        "ARA",
-        "betevé",
-        "3CatInfo · El temps"
-      ],
-      "unavailableSources": [],
-      "fingerprint": "f10e7dfd4854723cb62682764815fcd8c0c9cfbfc57a8664dc282456baefa37c"
     },
     {
       "date": "2026-11-08",
