@@ -2,6 +2,26 @@
   "date": "2026-11-10",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Un republicà promou un impeachment contra Hegseth, secretari de Defensa de Trump, per la guerra a l'Iran",
+      "excerpt": "Promogut per un congressista republicà apartat per Trump, té poques possibilitats d'èxit, però només és la primera iniciativa contra Trump després de les midterm",
+      "url": "https://www.3cat.cat/3catinfo/un-republica-promou-un-impeachment-contra-hegseth-secretari-de-defensa-de-trump-per-la-guerra-a-liran/noticia/3438922/",
+      "published": "2026-11-10T16:12:08+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/6/1794315729566.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "ARA",
+      "title": "Desclassificats els arxius policials sobre l'assassinat d'Arturo Ruiz a mans de la ultradreta el 1977",
+      "excerpt": "Gairebé mig segle després de l'assassinat d'Arturo Ruiz a mans de la ultradreta el 1977, i d'anys de lluita per part de la seva família per esclarir els fets, es podran començar a tenir algunes respostes al voltant del crim. El consell de ministres espanyol ha aprovat aquest dimarts la desclassificació de tota la documentació policial relativa a l'assassinat del jove de 19 anys. A Ruiz li van disparar a Madrid el 23 de gener del 1977 durant una manifestació proamnistia, només un dia abans…",
+      "url": "https://www.ara.cat/cultura/desclassificats-arxius-policials-l-assassinat-d-arturo-ruiz-mans-ultradreta-1977_1_5906270.html",
+      "published": "2026-11-10T16:07:52+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b3bb4c31-5225-4a28-9920-fa45d77025d7_source-aspect-ratio_default_0.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
       "source": "ARA",
       "title": "La guerra de l'Iran fa baixar les emissions de CO₂ per primer cop des de la pandèmia",
       "excerpt": "No era pas l'objectiu de Donald Trump, però la guerra de l'Iran ha tingut un efecte positiu inesperat. Per primer cop des de la pandèmia de covid-19, les emissions globals de CO₂ han baixat en lloc de pujar i s'han reduït un 0,4%, segons l'informe anual de Global Carbon Project publicat aquest dimarts durant la cimera climàtica de l'ONU, la COP31 de Turquia. \"Si no hi hagués hagut la guerra de l'Iran, les emissions haurien crescut aquest 2026 un altre cop\", assegurava en roda de…",
@@ -22,35 +42,201 @@
       "priority": "1 · Urgent"
     },
     {
+      "source": "betevé",
+      "title": "Comerciants del passeig de Gràcia, abans de la vaga: “Ho vivim amb certa angoixa”",
+      "excerpt": "El president de l’Associació d’Amics del Passeig de Gràcia, Lluís Sans, ha explicat al bàsics, de betevé, com viuen els comerciants les hores prèvies a la vaga general de dimecres. Sans ha avisat que els aldarulls del mes d’octubre són un precedent i que viuen el que pugui passar després de la manifestació “amb certa […]",
+      "url": "https://beteve.cat/economia/comerciants-passeig-gracia-vaga-angoixa/",
+      "published": "2026-11-10T18:45:15+01:00",
+      "category": "comerç",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/10/tancament-anticipat-botigues-aldarulls-2026-10-31.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "El govern espanyol demana a l'Agència de Protecció de Dades que \"paralitzi\" l'activitat de TikTok a l'Estat",
+      "excerpt": "La ministra de Joventut i Infància, Sira Rego, ha demanat als responsables de TikTok que cessin la seva activitat a Espanya mentre no retirin tot el material d'abús sexual infantil de la plataforma i els centenars de perfils de pederastes que una investigació del mitjà de comunicació Maldita.es ha revelat. Si no ho fan, Rego ha anunciat que s'ha demanat a l'Agència de Protecció de Dades que paralitzi l'activitat de la xarxa social a l'Estat de forma \"excepcional\", ha dit en una atenció als mitjans…",
+      "url": "https://www.ara.cat/societat/govern-espanyol-demana-l-agencia-proteccio-dades-paralitzi-l-activitat-tiktok-l_1_5906496.html",
+      "published": "2026-11-10T18:26:24+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2e8595c2-5046-49ef-b9e1-259f057f2bdd_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El govern espanyol demana de tancar temporalment TikTok per la difusió d’abusos a menors",
+      "excerpt": "La petició arriba després d’una investigació de Maldita.es que ha detectat més de mil vídeos d’abusos sexuals infantils a la plataforma, amb més de 48 milions de visualitzacions",
+      "url": "https://www.vilaweb.cat/noticies/el-govern-espanyol-demana-a-laepd-de-tancar-temporalment-tiktok/",
+      "published": "2026-11-10T18:12:50+01:00",
+      "category": "Internet",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "El govern espanyol farà vaga? Sánchez i els ministres no tindran agenda",
+      "excerpt": "A partir d'aquest dimarts al vespre es viurà una situació inèdita a l'Estat: engegarà una vaga general convocada pel Sindicat de Llogateres i també els majoritaris d'UGT i Comissions Obreres en contra de l'augment del cost de la vida i, sobretot, pel preu de l'habitatge. La cita, però, no està absenta de polèmica, ja que arriba després de vuit anys de govern de Pedro Sánchez i a les portes d'unes eleccions que poden capgirar les majories a l'Estat a favor del PP i Vox. ¿És…",
+      "url": "https://www.ara.cat/politica/govern-espanyol-fara-vaga-sanchez-ministres-no-tindran-agenda_1_5906379.html",
+      "published": "2026-11-10T18:08:19+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b44c596e-cb55-4bb0-9446-c412214b3c07_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Ultimàtum del Sindicat d’Habitatge d’Andorra: o acord o blocatge de la frontera per la Puríssima",
+      "excerpt": "El sindicat exigeix vuit mesures per a frenar la crisi de l’habitatge i dóna al govern fins el 3 de desembre per a arribar a un acord, mentre la ministra Marsol rebutja les amenaces",
+      "url": "https://www.vilaweb.cat/noticies/ultimatum-sindicat-habitatge-andorra-acords-blocatge-frontera-purissima/",
+      "published": "2026-11-10T17:25:24+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Serveis mínims per la vaga de l’11-N: franges horàries sense transport públic garantit",
+      "excerpt": "Amb motiu de la vaga general d’aquest 11 de novembre, la Generalitat ha decretat serveis mínims per garantir el funcionament del transport públic, l’educació o la sanitat. Tot i això, hi ha determinades franges horàries —en les quals habitualment hi ha menys afluència de viatgers— en què no està garantit el transport. Tampoc no hi […]",
+      "url": "https://beteve.cat/economia/franges-horaries-sense-transport-garantit-vaga-general-11n/",
+      "published": "2026-11-10T17:17:37+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/05/metro-l3-.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dimarts: menys núvols i més temperatura",
       "excerpt": "Es fregaran els 25ºC en punts del litoral i prelitoral",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-menys-nuvols-i-mes-temperatura/noticia/3438636/",
       "published": "2026-11-09T19:32:04+01:00",
-      "updated": "2026-11-10T10:31:05+01:00",
+      "updated": "2026-11-10T17:03:31+01:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/2/1794303040527.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/3/1794326546930.jpg",
       "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435546/embed/",
+        "url": "https://www.3cat.cat/3cat/video/6435657/embed/",
         "source": "3CatInfo · El temps",
         "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimarts-menys-nuvols-i-mes-temperatura/noticia/3438636/"
       },
       "priority": "2 · Important"
     },
     {
+      "source": "3CatInfo",
+      "title": "El govern espanyol aprova 820 milions per a famílies monoparentals, nombroses o amb discapacitat",
+      "excerpt": "L'executiu de Sánchez crearà també un títol de família monoparental, semblant al que ja s'aplica a Catalunya, amb bonificacions i ajudes",
+      "url": "https://www.3cat.cat/3catinfo/el-govern-espanyol-aprova-820-milions-per-a-families-monoparentals-nombroses-o-amb-discapacitat/noticia/3438890/",
+      "published": "2026-11-10T16:14:26+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/6/1794310708262.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Vaga 11N: Les llibreries també alcen la veu contra uns lloguers \"cada vegada més inassumibles\"",
+      "excerpt": "El 92,5% de llibreries agremiades a Barcelona estan de lloguer i, en alguns casos, el preu del local ocupa el 50% de les despeses totals del negoci",
+      "url": "https://www.3cat.cat/3catinfo/vaga-11n-les-llibreries-tambe-alcen-la-veu-contra-uns-lloguers-cada-vegada-mes-inassumibles/noticia/3438870/",
+      "published": "2026-11-10T15:31:10+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/0/1794237128004.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "El govern aprova un paquet d’uns 1.000 milions d’euros en habitatge",
+      "excerpt": "(ACN) El govern ha aprovat aquest dimarts un paquet d’uns 1.000 milions d’euros en polítiques d’habitatge, en el marc del Pla estatal d’habitatge 2026-2030. Ho ha avançat el president de la Generalitat, Salvador Illa, en la inauguració del XIV Fòrum FemCAT i, segons ha dit, es tracta d’aproximadament un 15 % dels recursos del total […]",
+      "url": "https://beteve.cat/economia/govern-aprova-paquet-1000-milions-euros-habitatge/",
+      "published": "2026-11-10T15:22:39+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/10/rehabilitacio-2.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "[VÍDEO] Vicent Partal compareix al parlament per la sanció de l’AEPD contra VilaWeb",
+      "excerpt": "També hi han intervingut Jesús Rodríguez, de la Directa; Tomeu Martí, del Diari de Balears, i Tomás Muñoz, d'El Salto",
+      "url": "https://www.vilaweb.cat/noticies/video-directe-vicent-partal-director-vilaweb/",
+      "published": "2026-11-10T15:12:19+01:00",
+      "category": "Mitjans de comunicació",
+      "image": null,
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.youtube-nocookie.com/embed/cI-lNcm7Bhg",
+        "source": "VilaWeb",
+        "articleUrl": "https://www.vilaweb.cat/noticies/video-directe-vicent-partal-director-vilaweb/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "Els 1.015 M€ promesos a Catalunya del Pla Estatal d'Habitatge, una mica més a prop: la Generalitat aprova el conveni",
+      "excerpt": "La Generalitat torna a treure pit de la pluja de milions promesa per a Catalunya dins del Pla Estatal d'Habitatge. Quan el govern de Pedro Sánchez va aprovar el pla a mitjans d'abril, ja va anunciar que invertiria 7.000 milions d'euros fins al 2030 per resoldre el problema d'accés a l'habitatge a tot l'Estat. D'aquests, 1.015 milions són per a Catalunya. Tal com estava previst, l'administració central n'aportarà el 60% –609 milions– i, la resta sortirà de les arques de la Generalitat.",
+      "url": "https://www.ara.cat/economia/immobiliari/1-015-m-promesos-catalunya-pla-estatal-d-habitatge-mica-mes-prop-generalitat-aprova-conveni_1_5906078.html",
+      "published": "2026-11-10T14:50:05+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/462c9eb9-59da-4bb7-b57f-3a1f2d5682b0_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Feijóo promet de reformar el reglament del congrés espanyol perquè no s’hi parli català",
+      "excerpt": "El dirigent del PP diu que derogarà la llei d’amnistia i reforçarà la presència de l’estat a Catalunya si arriba a la Moncloa",
+      "url": "https://www.vilaweb.cat/noticies/feijoo-promet-de-reformar-el-reglament-del-congres-espanyol-perque-no-shi-parli-catala/",
+      "published": "2026-11-10T13:38:11+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Un nou càlcul d'hores de conducció i més supervisió: Moncloa aprova mesures el primer dia de vaga de maquinistes",
+      "excerpt": "En la primera de les tres jornades de vaga previstes a Rodalies, però que s'estenen al sector ferroviari al conjunt de l'Estat, el govern espanyol mira d'acontentar els maquinistes amb un paquet de mesures urgents per reforçar la seguretat ferroviària i la protecció social dels professionals del sector. En concret, el consell de ministres ha aprovat un decret llei (s'haurà de votar al Congrés, a la Diputació Permanent) que busca donar resposta a les reivindicacions de les organitzacions sindicals amb mesures com un càlcul més…",
+      "url": "https://www.ara.cat/societat/mobilitat/nou-calcul-d-hores-conduccio-mes-supervisio-moncloa-aprova-mesures-dia-vaga-maquinistes_1_5906067.html",
+      "published": "2026-11-10T13:34:36+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c19a5e2e-7e7e-48c5-9357-39cf8d1feeef_source-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Prohibir el català al Congrés i recuperar el delicte de sedició: les claus del programa del PP",
+      "excerpt": "\"El castellà tornarà a ser la llengua comuna de treball al Congrés\". És un dels compromisos del PP d'Alberto Núñez Feijóo si guanya les eleccions del 29 de novembre. El programa electoral dels populars, fet públic aquest dimarts, planteja reformar el reglament de la cambra baixa per eliminar la possibilitat de fer servir el català, l'euskera i el gallec en l'activitat parlamentària. Es tracta d'un dels assoliments de l'independentisme aquesta legislatura, pactat amb el PSOE com a contrapartida per permetre la investidura de Pedro Sánchez…",
+      "url": "https://www.ara.cat/politica/pp-promet-eliminar-catala-congres-guanya-eleccions_1_5906076.html",
+      "published": "2026-11-10T13:12:17+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a0b08915-907c-46a7-b654-d437143b019b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La borrasca Charles travessarà la Península amb pluges molt abundants i ventades fortes",
+      "excerpt": "El temporal afectarà especialment el sud i l'oest peninsular, mentre que a Catalunya les precipitacions més importants es concentraran al Pirineu i el garbí deixarà un fort temporal marítim.",
+      "url": "https://www.3cat.cat/3catinfo/la-borrasca-charles-travessara-la-peninsula-amb-pluges-molt-abundants-i-ventades-fortes/noticia/3438845/",
+      "published": "2026-11-10T10:51:01+01:00",
+      "updated": "2026-11-10T11:42:46+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/1/1794303118810.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Una vaga fonamentada amb biaix electoral",
+      "excerpt": "L’entrevista d’ahir a la nit a La revuelta de TVE li va sortir molt millor a Abascal que a Broncano. El líder de Vox va escoltar, va callar, no va interrompre i va respondre quan li tocava. I va respondre amb un to raonablement responsable. Broncano, en canvi, va fer intervencions llarguíssimes amb aclariments que ningú no li estava demanant i que sonaven a excusa, i ni va aconseguir fer un programa divertit (estem parlant d’un programa d’entreteniment) ni saber va fer una entrevista punyent.…",
+      "url": "https://www.ara.cat/analisi/vaga-fonamentada-biaix-electoral_1_5905932.html",
+      "published": "2026-11-10T10:47:27+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/51fa5384-a77b-4bab-a006-b3150f126875_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
       "source": "ARA",
       "title": "Eduard Farelo protagonitza l'espot de la vaga general de l'11 de novembre",
-      "excerpt": "L'actor Eduard Farelo és el protagonista de l'espot de la vaga general de l'11 de novembre, que el Sindicat de Llogateres ha fet públic 24 hores després que donés a conèixer la cançó Estimada Valentina , composta explícitament per a la protesta. Segons el sindicat, el tema acumula més d'un milió i mig de visualitzacions a les plataformes digitals.",
+      "excerpt": "L'actor Eduard Farelo és el protagonista de l'espot de la vaga general de l'11 de novembre que el Sindicat de Llogateres ha fet públic 24 hores després que donés a conèixer la cançó Estimada Valentina , composta expressament per a la protesta. Segons el sindicat, el tema acumula més d'un milió i mig de visualitzacions a les plataformes digitals.",
       "url": "https://www.ara.cat/gent/eduard-farelo-protagonitza-l-espot-vaga-general-l-11-novembre_1_5905931.html",
       "published": "2026-11-10T10:28:40+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/6a7247ba-7d34-490e-a506-2940983e9457_16-9-aspect-ratio_default_0.jpg",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.youtube-nocookie.com/embed/sqhZSOcF65A",
         "source": "VilaWeb",
         "articleUrl": "https://www.vilaweb.cat/noticies/video-lactor-eduard-farelo-protagonitza-lespot-de-la-vaga-general-de-l11-de-novembre/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -85,12 +271,12 @@
       "published": "2026-11-10T09:30:18+01:00",
       "category": "Societat",
       "image": null,
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.youtube-nocookie.com/embed/sqhZSOcF65A",
         "source": "VilaWeb",
         "articleUrl": "https://www.vilaweb.cat/noticies/video-lactor-eduard-farelo-protagonitza-lespot-de-la-vaga-general-de-l11-de-novembre/"
-      }
+      },
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -163,13 +349,388 @@
       "priority": "2 · Important"
     },
     {
-      "source": "3CatInfo",
-      "title": "El Paraguai, pendent de l'iris de l'expresident per obrir la caixa forta d'un búnquer secret",
-      "excerpt": "En l'escorcoll de la segona residència de Santiago Peña, no han pogut obrir una caixa forta protegida amb dades biomètriques, com empremtes o l'iris dels ulls",
-      "url": "https://www.3cat.cat/3catinfo/el-paraguai-pendent-de-liris-de-lexpresident-per-obrir-la-caixa-forta-dun-bunquer-secret/noticia/3438851/",
-      "published": "2026-11-10T10:42:04+01:00",
+      "source": "VilaWeb",
+      "title": "La policia andorrana es disculpa per la retirada del ‘Mein Kampf’ i torna els exemplars a la llibreria",
+      "excerpt": "La Batllia ha arxivat el procediment judicial perquè no hi ha trobat cap delicte i ha ordenat de retornar els llibres decomissats",
+      "url": "https://www.vilaweb.cat/noticies/policia-andorrana-retirada-mein-kampf-exemplars-llibreria/",
+      "published": "2026-11-10T18:50:52+01:00",
+      "category": "Andorra",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Ada Castells",
+      "excerpt": "Qui ve Amb cita prèvia a l’estudi de betevé ve a parlar de la vida, dels èxits, de les contradiccions, de les manies i de tot allò que normalment queda fora dels titulars.",
+      "url": "https://beteve.cat/amb-cita-previa/ada-castells/",
+      "published": "2026-11-10T18:45:34+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/7/1/1794297979217.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Arriba la potent borrasca subtropical ‘Charles’: com afectarà Catalunya?",
+      "excerpt": "Les borrasques atlàntiques no donen treva, i entre dimecres i dijous es produirà el plat fort d’aquesta situació. Abans, però, entre aquest vespre i la nit arribaran nous ruixats per Ponent que afectaran especialment la cara sud del Pirineu i Prepirineu de Lleida, on la pluja pot ser una mica més destacada. A la resta del país no es descarten algunes gotellades o ruixats febles, dispersos i passatgers que circularan ràpidament d’oest a est.",
+      "url": "https://www.ara.cat/previsions/potent-borrasca-subtropical-charles-afectara-catalunya_1_5906411.html",
+      "published": "2026-11-10T18:28:39+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2ea34f6b-36ba-449d-85a1-5394e1b82adf_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La Generalitat compra una pintura inèdita de Lluís Borrassà en una subhasta a París",
+      "excerpt": "Creix la presència de Lluís Borrassà als museus públics: tal com ha pogut saber l'ARA, la Generalitat acaba de comprar per 160.000 euros a la casa de subhastes Artcurial de París Martiri de sant Llorenç. És a dir, cinc vegades el preu de sortida, que se situava entre 30.000 i 40.000 euros. Al preu de venda cal afegir-hi la comissió de la casa de subhastes, així que el preu final és d'uns 213.760 euros. La pintura, que anirà al Museu Nacional d'Art de Catalunya (MNAC),…",
+      "url": "https://www.ara.cat/cultura/art/generalitat-compra-pintura-inedita-lluis-borrassa-subhasta-paris_1_5905702.html",
+      "published": "2026-11-10T18:26:45+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8211c842-6066-48f4-99c1-d6102f784c84_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Brussel·les vol limitar les funcions addictives de les xarxes socials i els xatbots que simulen vincles personals",
+      "excerpt": "La Llei d'Equitat Digital de la UE també regularà els dissenys manipuladors i determinades pràctiques dels influenciadors",
+      "url": "https://www.vilaweb.cat/noticies/brusselles-funcions-addictives-xarxes-socials-xatbots-vincles-personals/",
+      "published": "2026-11-10T18:26:24+01:00",
+      "category": "Internet",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Les cuines dels grans hotels de Barcelona es donen a conèixer amb una ruta de tapes de 8 a 15 €",
+      "excerpt": "La tapa, un clàssic de la nostra gastronomia, normalment s’associa a bars i tavernes. On no és tan habitual trobar-ne és als hotels de luxe de Barcelona, però fins al 15 de novembre fer un platet en un cinc estrelles és possible. La desena edició de l’Hotel Tapa Tour proposa una ruta gastronòmica per 12 […]",
+      "url": "https://beteve.cat/estils-de-vida/grans-hotels-barcelona-ruta-tapes/",
+      "published": "2026-11-10T18:14:33+01:00",
+      "category": "estils de vida",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/tapa-bera-hotel-2026-11-10.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Jo Nesbø: \"Si Harry Hole trobés allò que desitja, aleshores ja no hi hauria història\"",
+      "excerpt": "Després de tres anys i mig d’espera des de l’última aventura de Harry Hole, l'escriptor noruec Jo Nesbø (Oslo, 1960) torna a les llibreries amb Sense pietat (Proa). És la 14a entrega de la saga protagonitzada per l’indisciplinat, tèrbol i, fins ara, força autodestructiu policia. En aquesta nova novel·la, traduïda al català per Laura Segarra Vidal, Hole s'ha d'encarar amb un assassí que vol crear una obra artística que tothom recordi. \"He volgut parlar de l’ambició de l’artista i de com acaba sent una força…",
+      "url": "https://llegim.ara.cat/actualitat/jo-nesbo-harry-hole-mesura-em-gran-m-interessa-mes-recuperar-meus-vells-amics-coneixer_1_5906338.html",
+      "published": "2026-11-10T18:12:21+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2fcf7770-718b-4c9f-b967-7e94ed264255_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'escriptora que es va trobar un ant descomunal al davant de casa",
+      "excerpt": "\"Vaig néixer en un país, el Perú, on es té molt poca consideració pels animals, i en què fins i tot se'ls maltracta, però des de fa una mica més de la meitat de la meva vida visc en un lloc on se'ls hi té un gran respecte\", comenta la narradora Claudia Ulloa Donoso (Lima, 1979), acabada d'arribar de Trondheim, ciutat situada al centre de Noruega, per presentar el seu tercer recull de narracions. El miedo terrible de ser un animal (Páginas de Espuma, 2026)…",
+      "url": "https://llegim.ara.cat/actualitat/l-escriptora-trobar-ant-enorme-davant-casa-seva-claudia-ulloa-donoso_1_5884947.html",
+      "published": "2026-11-10T18:01:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f16f7176-7ed8-4d87-9999-df569989c1ca_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Laporta i la línia vermella que va condemnar Bartomeu",
+      "excerpt": "L'actual màxim golejador de les grans lligues europees, Raphinha Dias, acaba de renovar el seu contracte. D'acord amb el nou clausulat, el davanter brasiler, que ofereix un rendiment estratosfèric quan les lesions musculars el respecten, va signar fins al 30 de juny del 2030, quan estarà a punt de fer 34 anys. Més enllà de l'heterodòxia que suposa que l'agent que el va portar al Barça –Anderson Luis de Souza, Deco– sigui avui en dia el director esportiu blaugrana, l'acord tindrà un impacte positiu a…",
+      "url": "https://www.ara.cat/esports/barca/laporta-linia-vermella-condemnar-bartomeu_1_5905503.html",
+      "published": "2026-11-10T18:01:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2b5862b9-c2bc-4ea1-8c15-5e513bbfbae3_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Amenaces híbrides i vulnerabilitat europea",
+      "excerpt": "El discurs de la inseguretat s’ha anat ensenyorint d’Europa fins a esmunyir-se dins les neveres dels supermercats. És la idea de vulnerabilitat portada a la zona zero de la nostra quotidianitat. Una desena de països de la Unió Europea han denunciat ciberatacs contra els sistemes de refrigeració de diferents cadenes de supermercats que han provocat pèrdues milionàries. El comissari europeu d'Agricultura i Alimentació, Christophe Hansen, va arribar a qualificar els atacs com un “intent deliberat de pertorbar la nostra cadena de subministrament alimentari“, i les…",
+      "url": "https://www.ara.cat/opinio/amenaces-hibrides-vulnerabilitat-europea_129_5906096.html",
+      "published": "2026-11-10T18:01:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3e7cf559-287d-440b-8bd6-e3dd5df2ea36_16-9-aspect-ratio_default_0_x915y772.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Contra la banalització de la política",
+      "excerpt": "1. Diu Feijóo: “Fer una coalició de govern amb Vox no depèn de mi”. Curiosa idea té el líder del PP de les responsabilitats d’un president de govern. Quina autoritat pot tenir si no pot decidir els socis amb qui governarà? Curiosa manera d’eludir la responsabilitat de dur l’extrema dreta neofeixista al govern. Realment és el seu estil: tirar pilotes fora quan una pregunta li resulta incòmoda. Un doble signe de fragilitat: es treu de sobre una responsabilitat ineludible i dona via lliure al soci…",
+      "url": "https://www.ara.cat/opinio/banalitzacio-politica_129_5906061.html",
+      "published": "2026-11-10T18:01:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/06edba4e-4823-42b0-b155-74eb3c9c639c_16-9-aspect-ratio_default_0_x733y646.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Han invertit molts diners i cervells per instal·lar la por\"",
+      "excerpt": "Al perfil de WhatsApp hi té la foto del riu Flamisell, al Pallars Jussà, i al text de l'estat s'hi llegeix \"A contracorrent\". Cristina Farré ha viscut tota la vida a contracorrent. I quina vida! Exmilitant del Partit Comunista d'Espanya (internacional), la lluita política la va portar a la clandestinitat, a patir tortures, a la presó i a l’exili; una història que ha recollit al llibre de memòries Ho vam donar tot .",
+      "url": "https://www.ara.cat/societat/han-invertit-diners-cervells-instal-lar_128_5905377.html",
+      "published": "2026-11-10T18:00:59+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/30c00474-5d5b-48f4-84aa-b30b8e5695d7_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Menjar-se a besades",
+      "excerpt": "“Que et puc fer un petó?”, pregunta, a tall de salutació. És una reunió de gent del vi, de l’Incavi, i la majoria de gent es dona la benvinguda amb encaixades de mà i molta franquesa i calidesa. “Has de fer-ho”, dic en broma. “És que primer m’agrada preguntar”, fa, en sentir-me. I afegeix: “A casa som molt petoners, però mai se sap…” M’aturo un moment en l’adjectiu. Ser petoner. Ser algú a qui li agrada fer petons. En llengua castellana seria ser besucón ,…",
+      "url": "https://www.ara.cat/opinio/menjar-besades_129_5906364.html",
+      "published": "2026-11-10T17:58:17+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1b876d79-f6ed-4764-9826-008243ac71e9_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El grup neonazi Núcleo Nacional va rebre entrenament militar a Ucraïna per preparar un “alçament armat”",
+      "excerpt": "La investigació policíaca revela que membres de l’organització van practicar amb fusells d’assalt AK-47 i van establir contactes amb la brigada Azov, amb la intenció de transmetre els coneixements a més militants",
+      "url": "https://www.vilaweb.cat/noticies/grup-neonazi-nucleo-nacional-entrenament-militar-ucraina/",
+      "published": "2026-11-10T17:52:14+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Ana Botín anuncia que serà l’últim membre de la seva família a presidir el Santander",
+      "excerpt": "(ACN) La presidenta actual del banc Santander, Ana Botín, ha anunciat que ella serà l’últim membre de la seva família que dirigeix l’entitat. Ho ha dit en una entrevista al diari Financial Times publicada aquest dimarts. “No hi haurà un altre Botín dirigint el Santander”, ha assegurat la presidenta, que és la quarta generació de […]",
+      "url": "https://beteve.cat/economia/ana-botin-anuncia-sera-ultim-membre-familia-presidir-santander/",
+      "published": "2026-11-10T17:49:35+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/Ana-botin-santander-2026-11-10.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Israel obre la legislatura amb el primer assalt per desbancar Netanyahu",
+      "excerpt": "Israel inaugura aquest dimarts la 26a legislatura de la Knesset, el Parlament sorgit de les eleccions del 27 d’octubre , amb una primera batalla política que va més enllà de la constitució de la cambra: el relleu del seu president. Els partits contraris a Benjamin Netanyahu volen apartar Amir Ohana, un dels homes de confiança del primer ministre, i situar-hi Matan Kahana, del partit Yashar, que lidera Gadi Eisenkot. No és un simple canvi de càrrecs institucionals: controlar la presidència del Parlament pot donar a…",
+      "url": "https://www.ara.cat/internacional/proxim-orient/israel-obre-legislatura-assalt-desbancar-netanyahu_1_5906213.html",
+      "published": "2026-11-10T17:44:11+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8683cb8d-892a-4db6-873e-ad47722b962f_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Nou escàndol sexual d'un còmic britànic: acusen David Walliams de depredar menors",
+      "excerpt": "Una investigació del diari The Guardian i la cadena ITV News assenyala el popular còmic britànic David Walliams com a depredador sexual, amb preferència per noies molt joves, incloent-hi menors. Segons les acusacions, hauria pressionat per obtenir sexe per part de diverses companyes de feina al llarg dels anys i cometia actes de grooming amb noies joves: establir converses d'amistat aprofitant la seva posició –d'edat i estatus– per portar-les de seguida al terreny sexual. Una de les noies que els mitjans mostren com a testimoni…",
+      "url": "https://www.ara.cat/gent/nou-escandol-sexual-d-comic-britanic-acusen-david-walliams-depredar-menors_1_5906339.html",
+      "published": "2026-11-10T17:40:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b887e6b2-38bc-4a26-a586-0ece1fb432eb_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Fira de la xocolata, jocs de taula i una cursa familiar: plans amb nens per a aquesta setmana",
+      "excerpt": "Aquest mes de novembre està ple de plans familiars i se'ns fa molt difícil triar. Com sempre, us hem preparat una selecció de plans per fer amb els vostres fills els dies 13, 14 i 15 de novembre, com ara jugar a jocs de taula a la Fabra i Coats amb el DAU Barcelona, delectar-se amb xocolata i arts dolces al Xoco Fusió de Camarles, i córrer en família La Milla, la cursa inclusiva oberta a totes les edats, gèneres i condicions.",
+      "url": "https://criatures.ara.cat/criatures/fira-xocolata-jocs-taula-cursa-familiar-plans-nens-aquesta-setmana_1_5905278.html",
+      "published": "2026-11-10T17:29:41+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8e52e0cf-5fd9-49d8-9dd9-07c78bb94a69_source-aspect-ratio_default_0_x1839y1100.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La Marató escalfa motors per a una 35a edició amb rècord de testimonis",
+      "excerpt": "La Marató, la cita anual de 3Cat, ja està llesta per encarar la 35a edició, que estarà dedicada a les malalties neurodegeneratives i neuromusculars. Comandada per Roger Escapa en la seva versió radiofònica i per Raquel Sans i Miki Núñez en la televisiva, l'esdeveniment solidari i divulgatiu comptarà amb la participació de més de 40 testimonis, una xifra que des de l'organització s'exhibeix com a rècord. El programa de televisió, que s'emetrà el 13 de desembre, posarà el focus en 750 malalties (600 de neurodegeneratives…",
+      "url": "https://www.ara.cat/media/marato-escalfa-motors-35a-edicio-record-testimonis_1_5905997.html",
+      "published": "2026-11-10T17:06:21+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/211ca6dd-d416-4af9-9c2b-619fab7542d9_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El difícil art de l’entrevista",
+      "excerpt": "La Revuelta va batre el seu rècord milionari d'espectadors amb Abascal, però el programa no va ser un èxit. Al contrari. Si fas un programa d’entreteniment has d’entretenir, no pots fer patir. Espaordit perquè mai es pogués dir que havia acabat empatitzant amb el líder de Vox, Broncano va renunciar als riures, que és tant com dir que va renunciar a fer el seu programa.",
+      "url": "https://www.ara.cat/opinio/dificil-art-l-entrevista_129_5906317.html",
+      "published": "2026-11-10T16:59:46+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4a8425b4-12d8-4f4e-9523-6e209ba8a6c6_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Michel Houellebecq, investigat per incitar a l'odi contra els musulmans",
+      "excerpt": "L'escriptor francès Michel Houellebecq ha estat imputat per incitar a l'odi contra els musulmans, per unes declaracions publicades el novembre del 2022, segons informa el diari Le Figaro i recull Efe. L'autor d' Insubmissió està sent investigat en un tribunal de Nanterre per \"complicitat en la provocació a la discriminació, l'odi o la violència contra un grup de persones\" per la seva pertinença a una religió.",
+      "url": "https://llegim.ara.cat/actualitat/michel-houellebecq-investigat-odi-racial-musulmans_1_5906334.html",
+      "published": "2026-11-10T16:55:52+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8ea576ad-a9e0-4d2f-9627-58ab656cc7d2_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Arriba a Estrasburg el cas de la dona a qui van denegar l’amnistia perquè els fets van succeir a València",
+      "excerpt": "Amparo Molina no va tenir opció de presentar recurs perquè li van notificar tard la denegació de l'amnistia · Només va poder recórrer al TC i, després de la seva inadmissió, ara porta el cas a Europa",
+      "url": "https://www.vilaweb.cat/noticies/arriba-a-estrasburg-el-cas-de-la-dona-a-qui-van-denegar-lamnistia-perque-els-fets-van-succeir-a-valencia/",
+      "published": "2026-11-10T16:54:18+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé emetrà ‘Tocats per Lucho’, el documental de “La porteria” sobre el Barça B de Luis Enrique",
+      "excerpt": "betevé emetrà ‘Tocats per Lucho’, una producció de La porteria amb la col·laboració de betevé que repassa la trajectòria del Barça B de Luis Enrique. El documental recupera l’essència del millor Barça B de la història i reuneix bona part dels integrants de la plantilla 15 anys després. El Barça B de Luis Enrique va […]",
+      "url": "https://beteve.cat/esports/beteve-emetra-tocats-lucho-documental-porteria-barca-b-luis-enrique/",
+      "published": "2026-11-10T16:49:09+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/picto-lucho-jove-2026-11-10.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Entitats ecologistes alerten que l’alosa becuda es troba a un pas de la seva segona extinció a Catalunya",
+      "excerpt": "Ipcena-EdC, SEO BirdLife i Depana reclamen a Territori una reforma profunda del pla de recuperació",
+      "url": "https://www.vilaweb.cat/noticies/entitats-ecologistes-alosa-becuda-segona-extincio-catalunya/",
+      "published": "2026-11-10T16:49:01+01:00",
+      "category": "Ecologia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "‘Son cuatro días’, una novel·la gràfica que aborda el dol i el suïcidi",
+      "excerpt": "“Els meus amics sumen més que els meus dimonis”. La frase de Carolina Durante obre Son cuatro días, el còmic de Joan S. Luna i Jordi Pastor que pren el títol d’una cançó d’El Último de la Fila. Publicat per Astiberri, el llibre parteix de la mort per suïcidi de l’Ismael, amic de joventut de […]",
+      "url": "https://beteve.cat/tot-passa/son-cuatro-dias-una-novela-grafica-que-aborda-el-dol-i-el-suicidi/",
+      "published": "2026-11-10T16:47:59+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/totpassa_101126-2026-11-10.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer aquest cap de setmana a Barcelona? Agenda",
+      "excerpt": "Afegeix betevé com a font preferida A l’agenda de betevé ens encanta remenar i triar els millors plans de la ciutat! Com que n’hi ha tants, mirem de fer-te’n una selecció, tot i que ja saps que la llista és gairebé infinita. Aquestes són les nostres recomanacions per a aquest cap de setmana. 🤸 Tres […]",
+      "url": "https://beteve.cat/agenda/que-fer-aquest-cap-de-setmana-a-barcelona/",
+      "published": "2026-11-10T16:47:24+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/04/que-fer-finde-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La porteria",
+      "excerpt": "Tertúlia de futbol que gira entorn de l’actualitat del FC Barcelona, amb atenció als equips catalans de Segona, Primera federació i Segona federació, el futbol femení i un cop d’ull a la informació poliesportiva. Els dijous inclou les seccions de la Cristianpèdia i els Mesetazos.",
+      "url": "https://beteve.cat/la-porteria/la-porteria-1927/",
+      "published": "2026-11-10T16:44:10+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La Junta Electoral considera que Mompó va vulnerar la neutralitat institucional amb dos vídeos a Instagram",
+      "excerpt": "El president de la Diputació de València ha retirat les publicacions, però l’organisme adverteix que això no elimina la possible infracció",
+      "url": "https://www.vilaweb.cat/noticies/junta-electoral-mompo-neutralitat-institucional-videos-instagram/",
+      "published": "2026-11-10T16:43:27+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La plantilla de l’Europa celebra la resposta massiva de l’afició per al derbi amb el Sant Andreu",
+      "excerpt": "L’Europa viurà un derbi històric contra el Sant Andreu a l’RCDE Stadium, amb més d’11.000 entrades venudes per un derbi que serà històric . La mobilització extraordinària que demostra l’expectació que ha generat el partit entre els dos equips barcelonins. El conjunt gracienc, a més, arriba a la cita en un bon moment anímic després […]",
+      "url": "https://beteve.cat/esports/europa-celebra-suport-massiu-aficio-derbi-sant-andreu/",
+      "published": "2026-11-10T16:39:19+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/03/270326-aficio-europa-can-drago.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-759/",
+      "published": "2026-11-10T16:23:35+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Janet Sanz i la seva parella, Dani Granados, esperen el primer fill",
+      "excerpt": "Janet Sanz i la seva parella, Dani Granados, seran pares per primera vegada. Ho ha anunciat el músic i investigador cultural a través del seu perfil d'Instagram, on ha penjat una foto de tots dos amb el missatge: \"Primera foto de família. On en caben dos, n'hi caben tres\". La parella apareix posant a la platja de Barcelona. Per acompanyar la publicació, Granados ha triat la cançó My girl , de The Temptations. A banda de la foto de família, ha compartit una segona imatge…",
+      "url": "https://www.ara.cat/gent/famosos/janet-sanz-seva-parella-dani-granados-esperen-fill_1_5906274.html",
+      "published": "2026-11-10T16:07:37+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1bb9ead9-a645-4320-bd1f-acf444077028_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els unionistes maniobren per vetar al Nord d’Irlanda una llei per a garantir l’ensenyament en irlandès",
+      "excerpt": "El Sinn Féin acusa els unionistes de voler castigar els alumnes que estudien en irlandès, enmig d’un augment del suport a la reunificació",
+      "url": "https://www.vilaweb.cat/noticies/els-unionistes-maniobren-per-vetar-al-nord-dirlanda-una-llei-per-a-garantir-lensenyament-en-irlandes/",
+      "published": "2026-11-10T16:03:21+01:00",
+      "category": "Europa",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Sobrecàrrega elèctrica a l’underground",
+      "excerpt": "La dissetena edició del Say It Loud, la Festa Major Alternativa de la Sagrera, la tercera edició del microfestival Barriando, a Porta, i la jornada dominical de sons amazics a Cornellà de Llobregat amplien el ventall estilístic del cap de setmana. Concerts: Escolta el programa aquí: Llista de reproducció:",
+      "url": "https://beteve.cat/10-000-fogueres/sobrecarrega-electrica-a-lunderground/",
+      "published": "2026-11-10T15:58:45+01:00",
+      "category": "cultura",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/10000fogueres_101126-2026-11-10.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Pedro Sánchez fa la guitza al 'Foraster'",
+      "excerpt": "Mentre David Broncano entrevistava Santiago Abascal a La revuelta , La Séptima, la nova cadena, feia honor al seu sobrenom de TeleSánchez i entrevistava el president del govern espanyol per contraprogramar-la. A Catalunya l’estratègia televisiva va tenir el seu impacte. Mentre que La 1 va rebentar els audímetres amb el líder de Vox, amb 589.000 espectadors i un 31,9% de quota de pantalla, La última hora de Javier Ruiz va fer la guitza a l’espectacle del Foraster al Palau Sant Jordi. Sánchez va congregar una…",
+      "url": "https://www.ara.cat/opinio/pedro-sanchez-guitza-foraster_129_5906279.html",
+      "published": "2026-11-10T15:53:12+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/8c1cca95-3dc5-4c94-bb80-8114a303ecef_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La Federació Basca de Futbol reactiva el procés per a aconseguir l’oficialitat de la selecció",
+      "excerpt": "La federació basca invoca la llei espanyola de l’esport per obrir una nova via cap al reconeixement de la selecció",
+      "url": "https://www.vilaweb.cat/noticies/federacio-basca-futbol-oficialitat-seleccio/",
+      "published": "2026-11-10T15:31:35+01:00",
+      "category": "Esports",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Nadal a Barcelona 2026: Què fer? Llums, fires i agenda d’activitats per gaudir de les festes!",
+      "excerpt": "El Nadal a Barcelona 2026 portarà com sempre un munt de propostes. Aquí trobaràs les activitats imprescindibles de l’agenda cultural nadalenca de la ciutat i informació pràctica dels llums, dels pessebres, de la cavalcada de Reis 2027 i les fires i mercats nadalencs, activitats per fer en família i molt més! Fes-te teva l’agenda de […]",
+      "url": "https://beteve.cat/agenda/activitats-nadal-barcelona/",
+      "published": "2026-11-10T15:18:12+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/12/que-fer-a-barcelona-2025-nadal-2026-11-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Denuncia per tocaments un traumatòleg de Girona: \"Hi anava pel genoll i em va acabar descordant la camisa\"",
+      "excerpt": "És la tercera pacient que denuncia aquest traumatòleg per tocaments i explica el seu testimoni perquè creu que hi poden haver més afectades",
+      "url": "https://www.3cat.cat/3catinfo/denuncia-per-tocaments-un-traumatoleg-de-girona-hi-anava-pel-genoll-i-em-va-acabar-descordant-la-camisa/noticia/3438880/",
+      "published": "2026-11-10T15:11:24+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/9/7/1794305905979.jpeg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435590/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/denuncia-per-tocaments-un-traumatoleg-de-girona-hi-anava-pel-genoll-i-em-va-acabar-descordant-la-camisa/noticia/3438880/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "La patata calenta de Pedro Sánchez: extradir o no un filantrop propalestí reclamat per Trump",
+      "excerpt": "El govern espanyol té una pedra a la sabata a l'Audiència Nacional. Un filantrop nord-americà i activista pels drets humans i pels drets del poble palestí va ser detingut fa quatre mesos a Eivissa arran d'un ordre de detenció internacional emesa per l'administració Trump. Des d'aleshores està a la presó esperant que la justícia i la Moncloa prenguin una decisió sobre la seva extradició als Estats Units. És James Cox Fergie Chambers i ara la Fiscalia s'ha mostrat partidària de donar llum verda a la…",
+      "url": "https://www.ara.cat/politica/patata-calenta-pedro-sanchez-extradir-no-filantrop-propalesti-reclamat-trump_1_5906054.html",
+      "published": "2026-11-10T15:08:01+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/417a2bc4-bc3d-480c-b388-8e69b239fde5_source-aspect-ratio_default_0_x1181y618.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -177,9 +738,244 @@
       "title": "Exposicions a Barcelona: la teva agenda de museus",
       "excerpt": "Quina exposició de Barcelona vols visitar? Aquesta és l’agenda d’exposicions a Barcelona per al 2026. Entra-hi i tria! Hi trobaràs exposicions de fotografia, pintura, art i molt més! Algunes de les propostes culturals són gratuïtes. Si no tens clar quin museu de Barcelona vols visitar, potser aquí et podem ajudar! A més, recorda que hi ha […]",
       "url": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
-      "published": "2026-11-10T10:39:57+01:00",
+      "published": "2026-11-10T15:04:37+01:00",
       "category": "Agenda de Barcelona",
       "image": "https://img.beteve.cat/wp-content/uploads/2023/01/fundacio-miro-si.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Un tiroteig i l'explosió d'un artefacte en una motxilla deixa un policia mort i una menor ferida a Oviedo",
+      "excerpt": "Un agent de la Policia Nacional ha mort i un altre ha resultat ferit molt greu en l'explosió d'una motxilla amb un artefacte escorcollada aquest dimarts a primera hora en un pis d'Oviedo. Al mateix edifici també s'ha produït un tiroteig pocs instants abans de l'explosió per un conflicte veïnal que ha deixat ferida una noia de 17 anys. La policia investiga com a relacionats aquests dos successos i està buscant un home que seria tant l'autor dels trets com el propietari de la motxilla…",
+      "url": "https://www.ara.cat/societat/successos/tiroteig-l-explosio-d-artefacte-motxilla-deixa-policia-mort-menor-ferida-oviedo_1_5906115.html",
+      "published": "2026-11-10T14:59:14+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/741a72ed-ead2-49a2-9d79-8e32e5dfbe54_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "L’Audiència espanyola avala d’investigar Zapatero per un suposat tràfic d’influències a Bolívia",
+      "excerpt": "La sala penal de l'Audiència refusa el recurs de l'ex-president espanyol, en què acusava el jutge instructor, José Luis Calama, d'extralimitar-se",
+      "url": "https://www.vilaweb.cat/noticies/laudiencia-espanyola-avala-investigar-zapatero-per-un-suposat-trafic-dinfluencies-a-bolivia/",
+      "published": "2026-11-10T14:34:49+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La pugna d'Europa per una cadira a les negociacions d'Ucraïna",
+      "excerpt": "Han començat les converses a Abu Dhabi sobre el futur d'Ucraïna , i ho han fet amb una absència considerable. Tot i que les delegacions de França, Alemanya, el Regne Unit, Itàlia i la Unió Europea s'han pogut reunir amb les d'Ucraïna, els Estats Units i l'OTAN per coordinar-se, Europa no té presència a la taula de negociació. El Vell Continent –que el Kremlin ha exclòs d'aquesta ronda pel seu suport a Kíiv– ha reivindicat poder dir la seva, sobretot pel que fa a les…",
+      "url": "https://www.ara.cat/internacional/europa/pugna-d-europa-cadira-negociacions-d-ucraina_1_5906013.html",
+      "published": "2026-11-10T14:32:14+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/394340ac-f9bf-4047-9378-68661ec86bd6_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Un menor internat pels aldarulls de Blocus a Barcelona diu que és víctima de l'algoritme de TikTok",
+      "excerpt": "L'advocat del menor de Sant Sadurní d'Anoia acusat de ser el promotor dels aldarulls demana investigar TikTok i Instagram per determinar si van facilitar la difusió de les convocatòries",
+      "url": "https://www.3cat.cat/3catinfo/un-menor-internat-pels-aldarulls-de-blocus-a-barcelona-diu-que-es-victima-de-lalgoritme-de-tiktok/noticia/3438879/",
+      "published": "2026-11-10T14:31:25+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/9/8/1793473434589.jpeg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435631/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/un-menor-internat-pels-aldarulls-de-blocus-a-barcelona-diu-que-es-victima-de-lalgoritme-de-tiktok/noticia/3438879/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "L'Hospital Clínic alerta de l'augment d'atesos a urgències per una nova droga, la \"pols de mico\"",
+      "excerpt": "En el que portem d'any, 130 persones s'han intoxicat amb aquesta droga, una xifra que multiplica per cinc els casos registrats el 2024, i els responsables del centre admeten la seva preocupació",
+      "url": "https://www.3cat.cat/3catinfo/lhospital-clinic-alerta-de-laugment-datesos-a-urgencies-per-una-nova-droga-la-pols-de-mico/noticia/3438937/",
+      "published": "2026-11-10T14:27:09+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/1/1658999798519.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Paneque evita de fer autocrítica pel nou desgavell a Rodalia: “Anem avançant”",
+      "excerpt": "La meitat dels maquinistes del sindicat SEMAF que havien de complir avui els serveis mínims no s'han presentat",
+      "url": "https://www.vilaweb.cat/noticies/paneque-evita-de-fer-autocritica-pel-nou-desgavell-a-rodalia-anem-avancant/",
+      "published": "2026-11-10T14:24:43+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Alerten d'una estafa a WhatsApp que permet a l'atacant escriure missatges en nom teu",
+      "excerpt": "La modalitat d'estafa, que encaixa amb el ghostpairing, permet als atacants prendre el control del teu WhatsApp i demanar diners als teus contactes habituals des del xat",
+      "url": "https://www.3cat.cat/3catinfo/alerten-duna-estafa-a-whatsapp-que-permet-a-latacant-escriure-missatges-en-nom-teu/noticia/3438938/",
+      "published": "2026-11-10T13:58:58+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/3/1794315367636.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El polèmic anunci del Gremi de Restauració de Barcelona contra la llei antitabac: \"No tenen assumptes més importants dels quals ocupar-se?\"",
+      "excerpt": "\"La sanitat espanyola es troba a la vora del col·lapse, però el ministeri [de Salut] es dedica a perseguir els fumadors com si fossin delinqüents\", va assegurar el Gremi de Restauració de Barcelona a les seves xarxes socials el passat 5 de novembre per criticar la reforma de la llei antitabac que prohibiria fumar a les terrasses.",
+      "url": "https://www.ara.cat/societat/anunci-gremi-restauracio-barcelona-llei-antitabac_1_5905512.html",
+      "published": "2026-11-10T13:55:52+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c6652c70-dda7-4fbf-91bd-c879f39e3e8e_source-aspect-ratio_default_1061494.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Abascal a 'La revuelta': dominadors i dominats",
+      "excerpt": "De tant en tant, a Brussel·les, veig La revuelta , a RTVE Internacional. L’altre dia hi era Pedro Almodóvar i en Broncano ho va aprofitar per anunciar que el dilluns següent aniria al programa Santiago Abascal, de Vox. Vaig pensar que l’entrevista seria interessant, i ahir me la vaig mirar. D’interessant ho va ser, i molt. Va ser una gran lliçó, no principalment de política, sinó d’antropologia i d’història. L’antropologia, diuen els diccionaris, és “l’estudi de l’ésser humà de manera integral, abastant tant la seva…",
+      "url": "https://www.ara.cat/opinio/abascal-revuelta-dominadors-dominats_129_5906132.html",
+      "published": "2026-11-10T13:55:25+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f290c5a6-314a-449c-a688-bf9686e8bf5f_16-9-aspect-ratio_default_0_x910y458.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Front comú per assegurar la pervivència de les empreses familiars catalanes",
+      "excerpt": "A Catalunya l'empresa familiar té més compromesa la seva supervivència quan hi ha un relleu generacional que en altres comunitats de l'Estat. Així ho constata un estudi elaborat per diversos col·legis professionals, associacions empresarials i patronals, que demanen millores en el tracte fiscal que reben aquestes companyies quan s'ha de fer la successió.",
+      "url": "https://www.ara.cat/economia/front-comu-assegurar-pervivencia-empreses-familiars-catalanes_1_5906075.html",
+      "published": "2026-11-10T13:51:59+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ac733c2d-56c2-4406-99ef-7b3405c0f4a0_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Rufián: \"M'hauria agradat anar al debat de Pimec, però el meu partit em va dir que no\"",
+      "excerpt": "Gabriel Rufián s'espolsa les responsabilitats per la seva polèmica absència, aquest dilluns, al debat de candidats al 29-N de Pimec i assenyala el seu propi partit. En una entrevista aquest matí a SER Catalunya, el cap de llista republicà ha afirmat que no va participar en l'acte de la patronal perquè l'hi va manar el comitè de campanya republicà. \"M'hauria agradat anar-hi, però el meu partit em va dir que no hi anés\", ha dit, afegint que el resultat va ser una \"cagada bestial\".",
+      "url": "https://www.ara.cat/politica/eleccions-generals/rufian-m-hagues-agradat-debat-pimec-partit-em-dir-no_1_5906052.html",
+      "published": "2026-11-10T12:57:58+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/373d655e-f073-4798-ac25-c5e92bd75228_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La lliçó que ens deixa la pèrdua de Jesús de Miguel",
+      "excerpt": "A Sabadell vivim amb la por que vingui un equip amb més diners i ens pispi en Quadri Liameed. Ens estimem molt aquest noi nigerià que va arribar fa dos anys amb cara de tímid i s'ha convertit en un dels puntals de l'equip. Ens estimem jugadors com en Quadri, l'Albert Orriols o en Ton Ripoll, ja que les seves històries emocionen. Joves que somien ser futbolistes, que treballen fort però passat els 20 anys encara no són professionals i han de guanyar diners fent…",
+      "url": "https://www.ara.cat/esports/futbol/llico-deixa-perdua-jesus-miguel_129_5906045.html",
+      "published": "2026-11-10T12:52:50+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f36c1614-7d5a-4deb-ab00-47ae876629b4_1-1-aspect-ratio_default_1061504.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Trump diu que l’FBI investiga el cas d’espionatge de l’amant del fundador de Nvidia",
+      "excerpt": "\"M'ha assegurat que no tenia ni la més petita idea que la persona en qüestió fos una espia\", ha dit el president sobre Huang",
+      "url": "https://www.vilaweb.cat/noticies/trump-diu-que-lfbi-investiga-el-cas-despionatge-de-lamant-del-fundador-de-nvidia/",
+      "published": "2026-11-10T12:41:51+01:00",
+      "category": "Amèrica",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Rufián culpa ara ERC de l’absència al debat a la PIMEC: “És una cagada bestial”",
+      "excerpt": "El candidat diu que estava bé de salut i que la decisió de no assistir-hi va ser del partit",
+      "url": "https://www.vilaweb.cat/noticies/rufian-culpa-erc-absencia-debat-pimec-cagada-bestial/",
+      "published": "2026-11-10T12:35:51+01:00",
+      "category": "Principat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El YangWang U9 Xtreme bat el rècord de velocitat: més de 500 km/h de velocitat punta",
+      "excerpt": "YangWang, la divisió esportiva del grup automobilístic BYD, ha aconseguit superar per primer cop en la història la barrera dels 500 km/h de velocitat punta. El rècord final, de 503,17 km/h, es va assolir en un tram de carretera (tancada al trànsit) a Abu Dhabi amb el pilot de proves de la marca, l’alemany Marc Besseng, al volant d’aquest superesportiu elèctric. No deixa de ser certament irònic que el rècord mundial de velocitat hagi estat aconseguit per un esportiu elèctric xinès en un país ric…",
+      "url": "https://motor.ara.cat/novetats/yangwang-u9-xtreme-bat-record-velocitat-mes-500-km-h-velocitat-punta_1_5905882.html",
+      "published": "2026-11-10T12:28:20+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c7dead6b-9f73-438c-86c9-09519762ced1_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Els Mossos desallotgen els treballadors del sector del metall que tallaven la A-27 a Tarragona",
+      "excerpt": "Els manifestants se n'han anat corrents quan els antiavalots han començat a avançar cap a ells",
+      "url": "https://www.vilaweb.cat/noticies/mossos-desallotgen-treballadors-metalla-tallaven-a27/",
+      "published": "2026-11-10T12:18:18+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La 35a edició de La Marató donarà veu a les persones que conviuen amb malalties neurodegeneratives i neuromusculars",
+      "excerpt": "La campanya de sensibilització i la programació especial de 3Cat del 13 de desembre impulsaran la recerca i faran visible l'impacte d'aquestes patologies en les persones afectades i el seu entorn",
+      "url": "https://www.3cat.cat/3catinfo/la-35a-edicio-de-la-marato-donara-veu-a-les-persones-que-conviuen-amb-malalties-neurodegeneratives-i-neuromusculars/noticia/3438415/",
+      "published": "2026-11-10T12:17:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/1/2/1794309245421.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Abascal fa rècord històric d’espectadors per a Broncano i ‘La revuelta’",
+      "excerpt": "Un 33,6% dels espectadors van optar ahir per seguir l’entrevista a Santiago Abascal a La1 . Són xifres que queden tres dècimes per sota del 33,9% que va aconseguir uns dies abans Pedro Sánchez amb la seva participació a La revuelta . Això sí, si es mira en nombre d’espectadors, el líder de Vox en va aconseguir 4,8 milions mentre que el socialista es va quedar en 4,4 milions. A Catalunya, Abascal va ser seguit per un 31,9% de l’audiència i 589.000 espectadors mentre que…",
+      "url": "https://www.ara.cat/media/abascal-record-historic-d-espectadors-broncano-revuelta_1_5906020.html",
+      "published": "2026-11-10T12:13:55+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/82e52ffc-c061-4b8a-8c5d-4a450c0ea692_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les famílies monoparentals amb dos fills o més s'equipararan a les famílies nombroses",
+      "excerpt": "L'últim consell de ministres abans de l'arrencada de la campanya electoral del 29-N recuperarà una mesura que va quedar en un calaix amb la llei de famílies estatal, una norma en standby des del 2023, quan l'avançament electoral la va fer descarrilar al Congrés, on estava bloquejada, i que amb les eleccions del 29-N li ha passat el mateix. En concret, el govern espanyol ha aprovat aquest dimarts la creació d'un títol oficial de família monoparental o monomarental a escala estatal que les acredita oficialment…",
+      "url": "https://www.ara.cat/societat/govern-espanyol-crea-titol-families-monoparentals-reforcar-prestacions_1_5905960.html",
+      "published": "2026-11-10T11:49:53+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/44457575-d406-4bcc-9b30-34b690e8ea8b_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La fiscalia espanyola defensa l’extradició del multimilionari i activista pro-palestí Fergie Chambers",
+      "excerpt": "Fergie Chambers va ser detingut a Eivissa a l'estiu · Els EUA l'acusen d’emblanquiment de capitals i possible finançament d’Hamàs",
+      "url": "https://www.vilaweb.cat/noticies/la-fiscalia-espanyola-defensa-lextradicio-del-multimilionari-i-activista-pro-palesti-fergie-chambers/",
+      "published": "2026-11-10T11:11:47+01:00",
+      "category": "Espanya",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Refugiar-se a l'acampada de plaça Catalunya: \"Com has de dormir tranquil al carrer?\"",
+      "excerpt": "L'assemblea a l'acampada de la plaça Catalunya comença tard. Ha plogut i estan movent bancs i cadires a les portes del campament perquè hi càpiga tothom. Algunes persones es retroben després de dies sense veure's i s'abracen; ja no dormen a l'acampada, però han vingut igualment a la trobada d'aquesta tarda. Expliquen a l'ARA que són menys que fa un mes, quan la protesta pel dret a l'habitatge va ocupar el centre de la ciutat, però que ara estan més ben organitzats i tothom es…",
+      "url": "https://www.ara.cat/societat/habitatge/refugiar-l-acampada-placa-catalunya-has-dormir-tranquil-carrer_1_5905483.html",
+      "published": "2026-11-10T10:58:49+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6b4d892c-d03d-43a4-8047-113da3e3dbb5_16-9-aspect-ratio_default_0_x2308y1596.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Tatxo Benet (FemCat) carrega contra el \"tracte fiscal vergonyós\" que rep Catalunya",
+      "excerpt": "El president de l'associació empresarial FemCat, Tatxo Benet, ha posat el finançament català al centre de la diana del sector privat. En una intervenció en el Fòrum FemCat, la primera d'ençà del seu nomenament, Benet ha titllat de “vergonyós\" i \"intolerable” el “tracte fiscal” que rep Catalunya per part de l'estat espanyol. En aquest sentit, ha defensat “el dret i el deure” d'assenyalar aquest greuge “cada cop que parlen del desenvolupament del nostre país”. La jornada patronal se celebra aquest dimarts al Petit Palau del…",
+      "url": "https://www.ara.cat/economia/patronals/tatxo-benet-femcat-carrega-tracte-fiscal-vergonyos-rep-catalunya_1_5905914.html",
+      "published": "2026-11-10T10:53:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fce308a3-3744-4b1e-b5ec-ac66d01dcf1c_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Paraguai, pendent de l'iris de l'expresident per obrir la caixa forta d'un búnquer secret",
+      "excerpt": "En l'escorcoll de la segona residència de Santiago Peña, no han pogut obrir una caixa forta protegida amb dades biomètriques, com empremtes o l'iris dels ulls",
+      "url": "https://www.3cat.cat/3catinfo/el-paraguai-pendent-de-liris-de-lexpresident-per-obrir-la-caixa-forta-dun-bunquer-secret/noticia/3438851/",
+      "published": "2026-11-10T10:42:04+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/7/1/1794297979217.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -204,12 +1000,12 @@
     },
     {
       "source": "ARA",
-      "title": "Rússia, Ucraïna i els Estats Units seuen a parlar després de 9 mesos sense diàleg",
-      "excerpt": "Rússia i Ucraïna tornen a seure a parlar aquest dimarts a Abu Dhabi després de nou mesos sense converses . Els Estats Units, amb un Donald Trump afeblit després del fracàs de l'atac contra l'Iran i la derrota domèstica a les eleccions de mig mandat, actuen com a mediadors a la taula de negociació, en la qual no hi ha Europa.",
+      "title": "Redibuixar les fronteres del Donbàs: l’últim truc dels EUA per acostar la pau entre Rússia i Ucraïna",
+      "excerpt": "Els Estats Units busquen fórmules imaginatives per desencallar les negociacions de pau entre Rússia i Ucraïna . En les primeres converses trilaterals en nou mesos, que continuaran aquest dimecres a Abu Dhabi, les parts han discutit nous enfocaments per a les dues qüestions més delicades: el territori i les garanties de seguretat. Els enviats nord-americans han plantejat redefinir els límits administratius del Donbàs amb l’esperança de satisfer les exigències dels dos bàndols. Alhora, volen que el Kremlin accepti el paraigua militar occidental per a Kíiv…",
       "url": "https://www.ara.cat/internacional/europa/russia-ucraina-estats-units-seuen-parlar-despres-9-mesos-dialeg_1_5905764.html",
       "published": "2026-11-10T10:17:36+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/7a51fcba-1d77-4d01-9189-2fc59d1ce89b_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/7a51fcba-1d77-4d01-9189-2fc59d1ce89b_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -225,7 +1021,7 @@
     {
       "source": "VilaWeb",
       "title": "Un policia espanyol mort i un altre de ferit greu en una explosió a Uviéu",
-      "excerpt": "Segons la policia espanyola, l’incident al barri d’Otero és greu i també s’hi ha produït un tiroteig",
+      "excerpt": "La policia espanyola assegura que també hi ha hagut un tiroteig i en cerca el responsable",
       "url": "https://www.vilaweb.cat/noticies/agent-policia-mort-ferit-greu-explosio-oviedo/",
       "published": "2026-11-10T10:04:32+01:00",
       "category": "Espanya",
@@ -269,7 +1065,7 @@
       "url": "https://www.ara.cat/especials/udg/encen-montilivi-cinc-anys-convertint-campus-udg-espectacle-llum-creativitat_130_5905289.html",
       "published": "2026-11-10T09:23:11+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/4a593293-6132-499c-8396-59c63d4ec5c4_16-9-aspect-ratio_default_0.jpg",
+      "image": "https://static1.ara.cat/clip/4a593293-6132-499c-8396-59c63d4ec5c4_source-aspect-ratio_default_0.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -325,11 +1121,11 @@
     {
       "source": "ARA",
       "title": "Renfe avisa que els maquinistes no estan complint ni els serveis mínims",
-      "excerpt": "La primera de les tres jornades de vaga previstes a Rodalies ja és tota una declaració d'intencions. Renfe ha alertat a primera hora d'aquest dimecres que els maquinistes de Semaf, el sindicat majoritari que ha convocat les aturades, estan incomplint fins i tot els serveis mínims. En un missatge difós a les seves xarxes socials, l'operador recomana buscar \"mitjans de transport alternatius\" i admet que \"els trens no estan prestant el servei programat\".",
+      "excerpt": "La primera de les tres jornades de vaga previstes a Rodalies ja és tota una declaració d'intencions. Renfe ha alertat a primera hora d'aquest dimarts que els maquinistes de Semaf, el sindicat majoritari que ha convocat les aturades, estan incomplint fins i tot els serveis mínims. L'operadora ha demanat disculpes i recomana buscar \"mitjans de transport alternatius\" i admet que \"els trens no estan prestant el servei programat\".",
       "url": "https://www.ara.cat/societat/mobilitat/renfe-avisa-maquinistes-no-complint-serveis-minims_1_5905741.html",
       "published": "2026-11-10T07:26:35+01:00",
       "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/2c19bfe1-f212-434e-bbf6-42b362f36835_16-9-aspect-ratio_default_0_x2118y806.jpg",
+      "image": "https://static1.ara.cat/clip/2c19bfe1-f212-434e-bbf6-42b362f36835_source-aspect-ratio_default_0_x2118y806.jpg",
       "priority": "3 · Altres notícies"
     },
     {
@@ -375,7 +1171,7 @@
     {
       "source": "ARA",
       "title": "Quins ingressos calen per tenir una vida \"digna\" a Barcelona?",
-      "excerpt": "Els sous no sempre donen per viure sense ofecs. De fet, fa temps que es fa servir el terme \"treballadors pobres\", és a dir, treballadores que, tot i tenir una feina, no arriben a final de mes. I el fet és que per poder tenir una vida \"digna\" o sense asfíxia a l'àrea metropolitana de Barcelona s'han de guanyar almenys 1.891 euros bruts al mes en 12 pagues, però són més si és a la capital catalana (2.020 euros) que a la seva àrea metropolitana…",
+      "excerpt": "Els sous no sempre donen per viure sense ofecs. De fet, fa temps que es fa servir el terme \"treballadors pobres\", és a dir, treballadors que, tot i tenir una feina, no arriben a final de mes. I el fet és que per poder tenir una vida \"digna\" o sense asfíxia a l'àrea metropolitana de Barcelona s'han de guanyar almenys 1.891 euros bruts al mes en 12 pagues, però són més a la capital catalana (2.020 euros) que a la seva àrea metropolitana (1.772 euros).…",
       "url": "https://www.ara.cat/economia/macroeconomia/quins-ingressos-calen-vida-digna-barcelona_1_5905169.html",
       "published": "2026-11-10T07:00:34+01:00",
       "category": "Actualitat",
@@ -460,7 +1256,12 @@
       "published": "2026-11-10T06:49:31+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpeg/1/2/1790335307121.jpeg",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435617/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/quin-sou-cal-per-a-una-vida-digna-a-larea-de-barcelona-segons-el-tipus-de-llar-uns-1891-euros-de-mitjana/noticia/3438719/"
+      }
     },
     {
       "source": "VilaWeb",
