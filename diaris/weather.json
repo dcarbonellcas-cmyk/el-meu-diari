@@ -1,20 +1,20 @@
 {
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T16:13:47.183534+01:00",
+  "updatedAt": "2026-11-11T22:59:23.699258+01:00",
   "forecast": {
     "source": "3CatInfo · El temps",
-    "title": "La previsió de dimecres: estiuet de Sant Martí i pluja a la nit",
-    "excerpt": "Sant Martí porta temperatures com marca la tradició popular",
-    "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-estiuet-de-sant-marti-i-pluja-a-la-nit/noticia/3438988/",
-    "published": "2026-11-10T19:01:29+01:00",
-    "updated": "2026-11-11T15:39:28+01:00",
+    "title": "La previsió de dijous: adeu a la pluja nocturna i temporal marítim",
+    "excerpt": "La profunda depressió marxa amb rapidesa",
+    "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-adeu-a-la-pluja-nocturna-i-temporal-maritim/noticia/3439098/",
+    "published": "2026-11-11T18:07:45+01:00",
+    "updated": "2026-11-11T22:26:23+01:00",
     "category": "El temps",
-    "image": "https://img.3cat.cat/multimedia/jpg/1/6/1794407909461.jpg",
+    "image": "https://img.3cat.cat/multimedia/jpg/6/8/1794432365186.jpg",
     "video": {
-      "url": "https://www.3cat.cat/3cat/video/6435848/embed/",
+      "url": "https://www.3cat.cat/3cat/video/6435880/embed/",
       "source": "3CatInfo · El temps",
-      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-estiuet-de-sant-marti-i-pluja-a-la-nit/noticia/3438988/"
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-adeu-a-la-pluja-nocturna-i-temporal-maritim/noticia/3439098/"
     },
-    "priority": "2 · Important"
+    "priority": "1 · Urgent"
   }
 }
