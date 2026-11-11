@@ -2,13 +2,149 @@
   "date": "2026-11-11",
   "items": [
     {
+      "source": "3CatInfo",
+      "title": "Evacuen 300 escoles a Itàlia per amenaces de bomba falses, que també reben Irlanda i el Regne Unit",
+      "excerpt": "6.300 escoles italianes han rebut un correu electrònic amb les amenaces, però només un petit percentatge s'han evacuat, mentre que a Irlanda, Irlanda del Nord i Escòcia la policia no hi ha vist \"indicis d'amenaces creïbles\"",
+      "url": "https://www.3cat.cat/3catinfo/evacuen-300-escoles-a-italia-per-amenaces-de-bomba-falses-que-tambe-reben-irlanda-i-el-regne-unit/noticia/3439166/",
+      "published": "2026-11-11T15:01:11+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/5/1794400167054.jpg",
+      "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de dimecres: estiuet de Sant Martí i pluja a la nit",
+      "excerpt": "Sant Martí porta temperatures com marca la tradició popular",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-estiuet-de-sant-marti-i-pluja-a-la-nit/noticia/3438988/",
+      "published": "2026-11-10T19:01:29+01:00",
+      "updated": "2026-11-11T15:39:28+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/6/1794407909461.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6435848/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-estiuet-de-sant-marti-i-pluja-a-la-nit/noticia/3438988/"
+      },
+      "priority": "2 · Important"
+    },
+    {
       "source": "betevé",
-      "title": "Arrenca la vaga general: Primers talls de trànsit i afectacions al transport públic",
-      "excerpt": "Barcelona viu aquest dimecres una jornada de vaga general, la primera que es convoca a l’estat espanyol des de fa 14 anys, és a dir, des del 2012. L’aturada es fa per dos motius principals: el dret a l’habitatge i la fi dels desnonaments i per reivindicar una millora de les condicions laborals i salarials. […]",
+      "title": "Vaga general 11-N: els sindicats la qualifiquen d’èxit mentre la patronal parla de baix seguiment",
+      "excerpt": "Barcelona viu aquest dimecres una jornada de vaga general, la primera que es convoca a l’estat espanyol des del 2012. L’aturada es fa per dos motius principals: el dret a l’habitatge i la fi dels desnonaments i per reivindicar una millora de les condicions laborals i salarials. La jornada ha arrencat amb talls de trànsit […]",
       "url": "https://beteve.cat/economia/directe-vaga-general-barcelona-habitatge-salaris-11-novembre-2026/",
-      "published": "2026-11-11T07:16:36+01:00",
+      "published": "2026-11-11T14:43:05+01:00",
       "category": "economia",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/vaga-general-11n-directe-2026-11-11.jpg",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/vaga-general-11n-cartell-directe-2026-11-11.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "L'oposició reacciona a la vaga: \"És un circ general a favor del govern d'Espanya\"",
+      "excerpt": "La vaga general convocada per sindicats es produeix dos dies abans de l'inici de la campanya electoral del 29 de novembre, cosa que la situa enmig de la batalla política. És més, per a l'oposició, la mobilització és un instrument al servei del govern espanyol de Pedro Sánchez: el seu argument és que després de set anys de govern, els sindicats han decidit ara convocar la protesta i que, a parer seu, la queixa no apunta a l'executiu sinó a l'oposició. \"És un gran circ…",
+      "url": "https://www.ara.cat/politica/l-oposicio-reacciona-vaga-circ-general-favor-govern-d-espanya_1_5907182.html",
+      "published": "2026-11-11T14:27:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4ba7fd75-683e-48eb-8e6b-ff9015e82833_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "La vaga general marca el ple de les Corts Valencianes i PP i Vox es queden a soles a mitjan sessió",
+      "excerpt": "PP i Vox es van negar a canviar la data del ple tal com demanaven PSPV i Compromís",
+      "url": "https://www.vilaweb.cat/noticies/la-vaga-general-marca-el-ple-de-les-corts-valencianes-i-pp-i-vox-es-queden-a-soles-a-mitjan-sessio/",
+      "published": "2026-11-11T14:20:45+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Una nova burla d’À Punt a l’audiència: emeten un programa de cases de luxe per a omplir la graella en plena vaga per l’habitatge",
+      "excerpt": "El comitè de vaga responsabilitza la direcció i el Consell d'Administració de prendre decisions que perjudiquen els treballadors quan surten a cobrir informacions",
+      "url": "https://www.vilaweb.cat/noticies/una-nova-burla-da-punt-a-laudiencia-emeten-un-programa-de-cases-de-luxe-per-a-omplir-la-graella-en-plena-vaga-per-lhabitatge/",
+      "published": "2026-11-11T14:00:29+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Suspès un desnonament a Gràcia en plena vaga general",
+      "excerpt": "\"El Jani i la Loli es queden al barri\", deia la pancarta darrere la qual diversos centenars de persones, més de cinc-centes segons el Sindicat d'Habitatge de Gràcia, s'han congregat per aturar el desnonament d'aquests dos veïns del carrer Fraternitat, de Gràcia. Un desnonament previst per al mateix dia de la vaga general, que finalment i de manera provisional, s'ha pogut aturar.",
+      "url": "https://www.ara.cat/societat/habitatge/suspes-desnonament-gracia-plena-vaga-general_1_5907116.html",
+      "published": "2026-11-11T13:41:04+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/12b1d89a-23c4-47ae-b562-c81b5d57707f_16-9-aspect-ratio_default_1061514.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Per què Catalunya té uns serveis mínims tan baixos al transport?",
+      "excerpt": "Moltes són les persones que s’han vist sorpreses aquest dimecres de vaga general per la falta de transport públic per moure’s arreu del territori i, molt especialment, per l’àrea metropolitana de Barcelona. La ciutadania i els usuaris de busos i trens fa temps que s’adapten a la incidències, manca d’oferta i a les vagues que […]",
+      "url": "https://beteve.cat/economia/per-que-catalunya-te-serveis-minims-tan-baixos-transport-vaga-general/",
+      "published": "2026-11-11T13:04:31+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/metro-ple-11N-2026-11-11.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Les patronals parlen de baixa incidència de la vaga general i els sindicats d'èxit",
+      "excerpt": "Discrepància entre patronals i sindicats sobre el seguiment de la vaga general d'aquest dimecres. Mentre els sindicats i organitzacions convocants parlen d'èxit de l'aturada, les patronals rebaixen el seguiment, si bé destaquen l'impacte dels piquets i les dificultats de mobilitat com un dels factors que fa que l'impacte sigui superior al seguiment per part dels treballadors.",
+      "url": "https://www.ara.cat/economia/mercat-laboral/patronals-parlen-baixa-incidencia-vaga-sindicats-d-exit_1_5907059.html",
+      "published": "2026-11-11T12:36:43+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/18cc750e-93f2-4205-9d6c-63eca35d6711_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "Vaga general a dos dies de la campanya",
+      "excerpt": "Hola, com estan?",
+      "url": "https://www.ara.cat/analisi/vaga-general-dies-campanya_129_5907084.html",
+      "published": "2026-11-11T11:53:13+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c4add2df-ebf2-45b6-a02d-8a58a6b14a84_16-9-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El consum elèctric baixa, però no tant com a la vaga general del 2012",
+      "excerpt": "Durant les primeres hores de la vaga general, la demanda elèctrica al conjunt de l'estat ha estat equiparable a la d'un dia festiu",
+      "url": "https://www.vilaweb.cat/noticies/primeres-hores-de-vaga-baixa-lleugerament-el-consum-electric/",
+      "published": "2026-11-11T11:30:55+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Quins partits fan vaga general per l’habitatge i quins no a l’Ajuntament de Barcelona?",
+      "excerpt": "Feia 14 anys que no hi havia una vaga general i aquest dimecres, 11 de novembre, es preveu una jornada històrica perquè per primera vegada s’ha convocat una vaga per defensar el dret a l’habitatge. La convocatòria va néixer arran de la crisi política que hi va haver al Congrés dels Diputats a principis d’octubre, […]",
+      "url": "https://beteve.cat/politica/quins-partits-fan-vaga-general-habitatge-ajuntament-barcelona/",
+      "published": "2026-11-11T09:55:25+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/07/facana-ajuntament-150723.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "[EN DIRECTE] La vaga aconsegueix que no sigui un dia normal, però queda lluny de ser massiva",
+      "excerpt": "Us oferim el seguiment informatiu actualitzat de la jornada de vaga general",
+      "url": "https://www.vilaweb.cat/noticies/vaga-general-11-n-manifestacions-incidencies-serveis-minims/",
+      "published": "2026-11-11T09:10:11+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Vaga general 11-M (serveis mínims)",
+      "excerpt": "Comença el dia amb una entrevista d’actualitat i una tertúlia 100% barcelonina. El dia a dia de la ciutat analitzat per un ampli espectre de tertulians periodistes, historiadors i experts en diferents àmbits. Presentat per Dani Clavera.",
+      "url": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-173/",
+      "published": "2026-11-11T09:00:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
       "priority": "2 · Important"
     },
     {
@@ -30,6 +166,236 @@
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/92682962-db12-4614-aaf3-deb6a5217ba2_16-9-aspect-ratio_default_0.jpg",
       "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "El fenomen de la Canya al Girona: “Es fa més fotos que els jugadors”",
+      "excerpt": "Fa quatre anys el Girona va convertir-se en el primer club de futbol pet friendly . Ara, aquella decisió, l’ha convertit en un “club diferent dels altres\", perquè van més enllà del que fa un club de futbol tradicional. \"Creem moments que són únics per a persones que no són mai protagonistes, les quals viuen a l’ombra o només se’ls destaca per les seves dificultats o discapacitats”, explica Albert Marquès, director del centre CTAC Girona i el tècnic de la Canya, un retriever de Labrador…",
+      "url": "https://www.ara.cat/esports/girona-fc/fenomen-canya-girona-mes-fotos-jugadors_130_5905922.html",
+      "published": "2026-11-11T16:00:42+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e9cad32f-dd68-44e2-87fe-e4ecde59e5e6_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "L'última sorpresa de Lamine Yamal a Barcelona",
+      "excerpt": "Lamine Yamal ha tornat a sorprendre diversos seguidors pels carrers de Barcelona. L'extrem de Rocafonda va prometre que, si guanyava el Mundial amb Espanya, sortejaria 100 auriculars sense fil. I ho va complir. El futbolista blaugrana ha penjat un vídeo al seu canal de YouTube –on acumula més de quatre milions de subscriptors– en què es passeja en cotxe per Barcelona regalant aquests auriculars a diverses persones que es va trobant pel carrer.",
+      "url": "https://www.ara.cat/esports/barca/lamine-yamal-regala-auriculars_1_5907187.html",
+      "published": "2026-11-11T14:12:35+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2900a45c-9c32-461f-b8eb-2650dbb6ad16_16-9-aspect-ratio_default_1061523.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "betevé notícies migdia",
+      "excerpt": "A betevé notícies t’expliquem què està passant a Barcelona amb una mirada àgil, connexions en directe i informació del temps destacada. El rigor, la professionalitat i la proximitat continuen sent els pilars dels informatius de betevé.",
+      "url": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-760/",
+      "published": "2026-11-11T13:55:00+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una campanya de cartells de \"cerca i captura\" d'un museu fa tornar a França un quadre saquejat",
+      "excerpt": "Olivia Voisin parla dels seus \"casos freds\" com una detectiu de policia, però en realitat és la directora del Museu de Belles Arts d'Orleans, a França, i busca quadres desapareguts durant l'ocupació nazi de la ciutat l'any 1940.",
+      "url": "https://www.ara.cat/cultura/art/campanya-cartells-recerca-captura-d-museu-tornar-franca-quadre-saquejat_1_5907127.html",
+      "published": "2026-11-11T13:52:22+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/1f63d7d3-e693-44c0-abd7-c51494544f8c_16-9-aspect-ratio_default_0_x511y204.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El relleu que marca el futur de l'Església catalana",
+      "excerpt": "Octavi Vilà, amb una àmplia trajectòria acadèmica i al capdavant de Poblet i el bisbat de Girona, arriba a Barcelona amb el repte de connectar amb la societat i recuperar la confiança en l'Església",
+      "url": "https://www.3cat.cat/3catinfo/el-relleu-que-marca-el-futur-de-lesglesia-catalana/noticia/3439064/",
+      "published": "2026-11-11T13:17:22+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/8/1794349984986.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
+      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-11-11T12:54:20+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
+      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-11-11T12:53:14+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "L’autoexigència en l’esport: com evitar la frustració?",
+      "excerpt": "Cada vegada hi ha més gent que fa esport, té ganes de millorar i té objectius, però que també té una feina, responsabilitats i una vida que no sempre li permet fer tot allò que li agradaria. Sentir-se malament quan un dia no es pot anar a entrenar, retallar hores de son per llevar-se d’hora […]",
+      "url": "https://beteve.cat/fase-estatica/autoexigencia-esport-com-evitar-frustracio/",
+      "published": "2026-11-11T12:48:32+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/faseestatica_014-2026-11-11.webp",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Les amenaces de bomba s'escampen a més de 6.000 escoles a Itàlia, Irlanda, Escòcia i Irlanda del Nord",
+      "excerpt": "El caos causat per les amenaces de bomba a Europa s'ha estès aquest dimecres a les escoles. Almenys 6.300 centres d'Itàlia han rebut el mateix missatge d'avís, que afirmava: \"S'ha deixat un potent artefacte explosiu controlat a distància al vostre edifici\". A més, hi ha hagut amenaces a unes 300 escoles d'Irlanda del Nord i també n'han rebut centres d'Escòcia i la República d'Irlanda. En tots els casos, la policia no considera que hi hagi un risc real, sinó que ho tracta com una falsa…",
+      "url": "https://www.ara.cat/internacional/europa/almenys-300-escoles-d-italia-evacuades-amenaces-bomba_1_5907111.html",
+      "published": "2026-11-11T12:22:23+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f2bd2e86-ac2a-4e53-887e-52d070b4b1af_16-9-aspect-ratio_default_0_x889y145.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Ucraïna veu possible arribar a un acord de pau “abans de Cap d’Any”",
+      "excerpt": "L’optimisme de la delegació ucraïnesa després de les negociacions de pau d’Abu Dhabi contrasta amb la inflexibilitat mostrada pels enviats russos. Els representants de Kíiv creuen que les converses han proporcionat “un bon impuls per trobar una solució” al conflicte “abans de Cap d’Any”. En canvi, els emissaris de Moscou han reiterat que no volen fer cap concessió territorial , han rebutjat la participació d’Europa en el procés i no han acceptat cap de les demandes de Volodímir Zelenski: ni un alto el foc energètic,…",
+      "url": "https://www.ara.cat/internacional/europa/guerra-ucraina-russia-trasllada-baltic-posa-alerta-paisos-zona_1_5907061.html",
+      "published": "2026-11-11T12:13:42+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/95fade7f-cd8e-4617-8729-43296e26df4c_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Catalunya demana quedar al marge de la reserva obligada d'oli d'oliva",
+      "excerpt": "El Govern i el sector català de l'oli d'oliva demanaran al ministeri d'Agricultura que les almàsseres catalanes quedin exemptes de forma temporal de l'obligació de retenir fins al 12% de la producció d'oli d'oliva, una mesura adoptada per part del govern espanyol per regular l'oferta i estabilitzar el mercat . La gran producció en algunes zones, com Andalusia, ha fet desplomar el preu de l'oli d'oliva, després d'anys d'encariment a causa de les baixes produccions per la sequera.",
+      "url": "https://www.ara.cat/economia/alimentacio/catalunya-demana-quedar-marge-reserva-obligada-d-oli-d-oliva_1_5907004.html",
+      "published": "2026-11-11T11:59:34+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/fb6d8720-0aaf-4886-967e-431944942fc9_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Per què veiem albades i postes rogenques especialment a l’hivern?",
+      "excerpt": "Albades i postes de sol enceses són un espectacle, també a Barcelona. Tot i que se’n veuen al llarg de tot l’any, és justament ara, quan el sol va tan baix, que es fan més freqüents i sovint més espectaculars. El pas de fronts atlàntics desgastats aporten molts núvols alts i mitgencs que acaben tenyint-se […]",
+      "url": "https://beteve.cat/medi-ambient/per-que-veiem-sortides-postes-sol-enceses/",
+      "published": "2026-11-11T11:08:18+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2021/12/perque-postes-sol-acolorides-281221.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Més de 20 ºC al desembre: d’excepcional a recurrent. Només 7 registres i tots en els darrers anys",
+      "excerpt": "El fred d’hivern és cada cop més difícil de veure i la suavitat es va instal·lant també en mesos tradicionalment freds, com el desembre. Tot i que encara és poc habitual, cada cop és més recurrent assolir els 20 ºC al desembre a l’Observatori Fabra – RACAB. Només set cops s’han superat els 20 ºC […]",
+      "url": "https://beteve.cat/medi-ambient/excepcional-recurrent-20-graus-desembre-observatori-fabra/",
+      "published": "2026-11-11T10:46:06+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/12/8-desembre-20-graus-calor.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La llevantada del novembre del 2001, una de les més potents a Barcelona",
+      "excerpt": "Novembre del 2001 ha quedat també en el record meteorològic de moltíssimes persones per ser una de les pitjors llevantades vistes mai a casa nostra. Aquesta, el temporal de Sant Esteve del 2008 i el temporal Gloria del 2020 són probablement les tres grans fites en aquest tipus de situació de la història més recent. […]",
+      "url": "https://beteve.cat/medi-ambient/llevantada-historica-novembre-2001/",
+      "published": "2026-11-11T10:29:02+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2020/11/LLEVANTADA2001-1.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Un piquet ha interromput durant uns minuts el programa ‘Cafè d’Idees’ d’RTVE",
+      "excerpt": "Després d'uns minuts, els vaguistes han abandonat el plató i el programa ha continuat informant sobre el transcurs de la vaga",
+      "url": "https://www.vilaweb.cat/noticies/un-piquet-ha-interromput-durant-uns-minuts-el-programa-cafe-didees-drtve/",
+      "published": "2026-11-11T10:25:46+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Ajornat el desnonament d’un matrimoni vulnerable a Gràcia fins al desembre",
+      "excerpt": "“En Jan i la Loli es queden a casa!”. Entre crits i abraçades, els sindicats d’habitatge i els veïns han celebrat que el desnonament d’un matrimoni vulnerable a Gràcia, previst per aquest dimecres, s’hagi ajornat fins al 3 de desembre. Centenars de persones, 500 segons el Sindicat d’Habitatge de Gràcia, s’havien mobilitzat davant el domicili […]",
+      "url": "https://beteve.cat/societat/aturat-desnonament-matrimoni-vulnerable-gracia/",
+      "published": "2026-11-11T10:23:37+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/desnonament-gracia-111126-1-2026-11-11.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Octavi Vilà serà el pròxim arquebisbe de Barcelona en substitució de Joan Josep Omella",
+      "excerpt": "L'actual bisbe de Girona rellevarà Omella, que fa cinc anys que va arribar a l'edat de jubilació",
+      "url": "https://www.3cat.cat/3catinfo/octavi-vila-sera-el-proxim-arquebisbe-de-barcelona-en-substitucio-de-joan-josep-omella/noticia/3439062/",
+      "published": "2026-11-11T10:14:26+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/1/1/1794348968511.jpeg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Octavi Vilà, el candidat preferit pel catalanisme, serà el nou arquebisbe de Barcelona",
+      "excerpt": "L'actual bisbe de Girona i antic abat de Poblet, Octavi Vilà i Mayo (Tarragona, 1961), serà el nou arquebisbe de Barcelona, i rellevarà Joan Josep Omella, que aquest dimecres ha comunicat el seu adeu. La decisió del Vaticà feia temps que estava presa i aquest dimarts va ser comunicada per Omella al Consell Episcopal. Malgrat l'hermetisme que envolta aquest tipus de relleus, feia setmanes que s'especulava amb la figura de Vilà com a candidat més probable.",
+      "url": "https://www.ara.cat/societat/religio/octavi-vila-sera-nou-arquebisbe-barcelona_1_5906998.html",
+      "published": "2026-11-11T10:09:17+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e40e6011-eede-4c50-b442-60839a0d1dd9_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La nevada del desembre del 2001, una data marcada al calendari",
+      "excerpt": "Nit del 14 al 15 de desembre del 2001, fa exactament 25 anys. Veníem d’un temporal de llevant duríssim, dels més durs de les darreres dècades i que ens va afectar durant el mes de novembre. Un mes més tard, les peces es van posar al lloc idoni per desencadenar una de les nevades més […]",
+      "url": "https://beteve.cat/medi-ambient/nevada-desembre-2001/",
+      "published": "2026-11-11T10:07:53+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2020/11/neu-2001.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Quines muntanyes es poden veure des del Tibidabo?",
+      "excerpt": "El dia 11 de desembre és el Dia Internacional de les Muntanyes. Aquesta diada, triada per l’Assemblea General de les Nacions Unides, té per objectiu conscienciar la població de la importància que tenen les muntanyes en relació amb la vida i la biodiversitat i del desenvolupament sostenible al seu voltant. Barcelona té la sort de […]",
+      "url": "https://beteve.cat/medi-ambient/quines-muntanyes-es-poden-veure-tibidabo/",
+      "published": "2026-11-11T10:02:52+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/12/montsent-pallars-marc-bret.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El bisbe de Girona, Octavi Vilà, nou arquebisbe de Barcelona en substitució de Joan Josep Omella",
+      "excerpt": "(ACN/Redacció ) El bisbe de Girona, Octavi Vilà, serà el nou arquebisbe de Barcelona en substitució del cardenal Joan Josep Omella. En espera de l’anunci oficial per part del Vaticà, les dues diòcesis han convocat els mitjans de comunicació a un contacte informatiu a les 12 del migdia. El del religiós cistercenc era el nom […]",
+      "url": "https://beteve.cat/societat/bisbe-girona-octavi-vila-nou-arquebisbe-barcelona/",
+      "published": "2026-11-11T09:58:35+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/octavi-vila-111126-2026-11-11.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La trista entrevista de Broncano a Colau",
+      "excerpt": "Després del desastre amb Abascal, a Broncano se li va fer molt complicat afrontar el programa de l’endemà dimarts. El presentador va pujar a l’escenari molt afligit, amb xiulets i un repicar luctuós de timbals, vestit de negre i amb ganes de disculpar-se amb el públic. Va fer un gran esforç per posar-hi sentit de l’humor, perquè se’l veia devastat: \"Jo soc el presentador. Ho sento molt. L'única persona que ha decebut més a l'esquerra que Gabriel Rufián\". Va reconèixer l’error comès amb el líder…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/trista-entrevista-broncano-colau_129_5906950.html",
+      "published": "2026-11-11T08:42:59+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/c3e53ac4-6524-40f9-a082-5e73f1568b4b_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les portades del dimecres 11 de novembre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-dimecres-11-de-novembre-de-2026/",
+      "published": "2026-11-11T08:00:03+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",
@@ -63,8 +429,8 @@
     },
     {
       "source": "ARA",
-      "title": "Els republicans descarrilen l'impeachment contra Hegseth malgrat la desfeta electoral",
-      "excerpt": "El judici polític al secretari de Defensa, Pete Hegseth, s'havia convertit sobretot en un test de lleialtat a Donald Trump després de la desfeta electoral de les mid-term. La resposta ha estat clara: la majoria republicana que encara domina la Cambra dels Representants ha fet descarrilar el cas. Amb 211 vots contra 204, s'ha decidit enviar la resolució d'impeachment al comitè d'Assumptes Jurídics. La decisió suposa deixar el procés en via morta, ja que aquest grup també està controlat per una majoria republicana.",
+      "title": "Els republicans bloquegen l''impeachment' contra Hegseth malgrat la desfeta electoral",
+      "excerpt": "El judici polític al secretari de Defensa dels Estats Units, Pete Hegseth , s'havia convertit sobretot en un test de lleialtat a Donald Trump després de la desfeta electoral de les eleccions de mig mandat. La resposta ha estat clara: la majoria republicana, que encara domina la Cambra de Representants, ha fet descarrilar el cas. Amb 211 vots contra 204, s'ha decidit enviar la resolució d' impeachment al Comitè d'Assumptes Jurídics. La decisió suposa deixar el procés en via morta, ja que aquest grup també…",
       "url": "https://www.ara.cat/internacional/estats-units/republicans-descarrilen-l-impeachment-hegseth-malgrat-desfeta-electoral_1_5906878.html",
       "published": "2026-11-11T04:43:49+01:00",
       "category": "Actualitat",
