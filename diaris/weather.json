@@ -1,20 +1,20 @@
 {
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T12:12:57.231373+01:00",
+  "updatedAt": "2026-11-12T19:57:25.067656+01:00",
   "forecast": {
     "source": "3CatInfo · El temps",
-    "title": "La previsió de dijous: de la pluja al sol, amb vent i temporal marítim",
-    "excerpt": "La profunda depressió marxa amb rapidesa",
-    "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-adeu-a-la-pluja-nocturna-i-temporal-maritim/noticia/3439098/",
-    "published": "2026-11-11T18:07:45+01:00",
-    "updated": "2026-11-12T09:40:26+01:00",
+    "title": "La previsió de divendres: baixa la temperatura entre 2 i 3 graus",
+    "excerpt": "Vent aponentat moderat amb sol i algunes nuvolades",
+    "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-baixa-la-temperatura-entre-2-i-3-graus/noticia/3439316/",
+    "published": "2026-11-12T18:37:27+01:00",
+    "updated": "2026-11-12T18:43:55+01:00",
     "category": "El temps",
-    "image": "https://img.3cat.cat/multimedia/jpg/5/8/1794472775985.jpg",
+    "image": "https://img.3cat.cat/multimedia/jpg/7/4/1794505418747.jpg",
     "video": {
-      "url": "https://www.3cat.cat/3cat/video/6435928/embed/",
+      "url": "https://www.3cat.cat/3cat/video/6436054/embed/",
       "source": "3CatInfo · El temps",
-      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-adeu-a-la-pluja-nocturna-i-temporal-maritim/noticia/3439098/"
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-baixa-la-temperatura-entre-2-i-3-graus/noticia/3439316/"
     },
-    "priority": "1 · Urgent"
+    "priority": "2 · Important"
   }
 }
