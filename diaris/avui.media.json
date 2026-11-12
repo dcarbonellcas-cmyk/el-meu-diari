@@ -3,707 +3,82 @@
   "pages": [
     {
       "page": 2,
-      "title": "La previsió de dijous: adeu a la pluja nocturna i temporal marítim",
-      "source": "3CatInfo · El temps",
-      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-adeu-a-la-pluja-nocturna-i-temporal-maritim/noticia/3439098/",
-      "published": "2026-11-11T18:07:45+01:00",
-      "priority": "1 · Urgent",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435880/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-adeu-a-la-pluja-nocturna-i-temporal-maritim/noticia/3439098/"
-      }
+      "title": "Montserrat Duch: “Les dones van lluitar en la guerra de Successió”",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/entrevista-montserrat-duch-historia-de-les-dones/",
+      "published": "2026-11-12T00:05:14+01:00",
+      "priority": "1 · Urgent"
     },
     {
       "page": 3,
-      "title": "Evacuen 300 escoles a Itàlia per amenaces de bomba falses, que també reben Irlanda i el Regne Unit",
-      "source": "3CatInfo",
-      "articleUrl": "https://www.3cat.cat/3catinfo/evacuen-300-escoles-a-italia-per-amenaces-de-bomba-falses-que-tambe-reben-irlanda-i-el-regne-unit/noticia/3439166/",
-      "published": "2026-11-11T15:01:11+01:00",
-      "priority": "1 · Urgent",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435864/embed/",
-        "source": "3CatInfo",
-        "articleUrl": "https://www.3cat.cat/3catinfo/evacuen-300-escoles-a-italia-per-amenaces-de-bomba-falses-que-tambe-reben-irlanda-i-el-regne-unit/noticia/3439166/"
-      }
+      "title": "Habitatge cooperatiu: un bri de llum enmig de la foscor",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/habitatge-cooperatiu-un-bri-de-llum-enmig-de-la-foscor/",
+      "published": "2026-11-12T00:05:00+01:00",
+      "priority": "2 · Important"
     },
     {
       "page": 4,
-      "title": "Protesta massiva i vaga parcial",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/politica/protesta-massiva-vaga-mig-gas_130_5907453.html",
-      "published": "2026-11-11T21:51:58+01:00",
-      "priority": "2 · Important"
+      "title": "Caiguts del cel: al front d’Ucraïna, els drons lleven algunes vides i en rescaten unes altres",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/drons-ucraina-evacuacio-ferits-front/",
+      "published": "2026-11-12T00:05:58+01:00",
+      "priority": "3 · Altres notícies"
     },
     {
       "page": 5,
-      "title": "La vaga posa de relleu, sobretot amb les manifestacions, el malestar per la precarietat",
+      "title": "Aquest dissabte arriba a Barcelona l’última semifinal de la Lliga del Paraulògic",
       "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/la-vaga-posa-de-relleu-sobretot-amb-les-manifestacions-el-malestar-per-la-precarietat/",
-      "published": "2026-11-11T21:33:15+01:00",
-      "priority": "2 · Important"
+      "articleUrl": "https://www.vilaweb.cat/noticies/aquest-dissabte-arriba-a-barcelona-lultima-semifinal-de-la-lliga-del-paraulogic/",
+      "published": "2026-11-12T00:05:55+01:00",
+      "priority": "3 · Altres notícies"
     },
     {
       "page": 6,
-      "title": "Vaga general 11-N: 50 detinguts pels aldarulls al centre un cop acabada la manifestació",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/economia/directe-vaga-general-barcelona-habitatge-salaris-11-novembre-2026/",
-      "published": "2026-11-11T21:16:29+01:00",
-      "priority": "2 · Important"
+      "title": "Amnistia, punt final: independentisme, punt i seguit",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/amnistia-punt-final-independentisme-punt-seguit/",
+      "published": "2026-11-12T00:05:23+01:00",
+      "priority": "3 · Altres notícies"
     },
     {
       "page": 7,
-      "title": "Vaga, joves i resposta política",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/editorial/vaga-joves-resposta-politica_129_5907493.html",
-      "published": "2026-11-11T20:54:59+01:00",
-      "priority": "2 · Important"
+      "title": "“Esborrem la frontera”: el desafiament d’un jove de Prada per a reclamar la unitat entre la Catalunya del nord i la del sud",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/esborrem-frontera-repte-jove-prada-reivindicar-unitat-catalunya-nord-sud/",
+      "published": "2026-11-12T00:05:20+01:00",
+      "priority": "3 · Altres notícies"
     },
     {
       "page": 8,
-      "title": "La demanda elèctrica cau per la vaga general però no tant com al 2012",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/economia/demanda-electrica-cau-vaga-general-11-n/",
-      "published": "2026-11-11T20:33:06+01:00",
-      "priority": "2 · Important"
+      "title": "Primers cinc anys d’excel·lència de l’editorial Cal Carré",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/primers-cinc-anys-dexcellencia-de-leditorial-cal-carre/",
+      "published": "2026-11-12T00:05:05+01:00",
+      "priority": "3 · Altres notícies"
     },
     {
       "page": 9,
-      "title": "Prop de 50 detinguts a Barcelona pels aldarulls després de la manifestació de la vaga general",
-      "source": "3CatInfo",
-      "articleUrl": "https://www.3cat.cat/3catinfo/aldarulls-a-barcelona-despres-de-la-manifestacio-unitaria-de-la-vaga-general/noticia/3439254/",
-      "published": "2026-11-11T20:14:41+01:00",
-      "priority": "2 · Important"
+      "title": "Toni Comín s’afilia al Partit Demòcrata Europeu, però no entrarà al grup Renew",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/toni-comin-safilia-al-partit-democrata-europeu-pero-no-entrara-al-grup-renew/",
+      "published": "2026-11-12T00:00:44+01:00",
+      "priority": "3 · Altres notícies"
     },
     {
       "page": 10,
-      "title": "Barcelona es mobilitza pel dret a l’habitatge en una manifestació multitudinària",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/societat/barcelona-mobilitza-pel-dret-l-habitatge-manifestacio-multitudinaria_1_5907622.html",
-      "published": "2026-11-11T19:54:17+01:00",
-      "priority": "2 · Important"
+      "title": "Claveguera TikTok",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/claveguera-tiktok/",
+      "published": "2026-11-12T00:00:35+01:00",
+      "priority": "3 · Altres notícies"
     },
     {
       "page": 11,
-      "title": "Les millors fotografies de la vaga i les manifestacions als Països Catalans",
+      "title": "L’església catalana fa un gran tomb amb el nomenament de fra Octavi Vilà com a arquebisbe de Barcelona",
       "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/les-millors-fotografies-de-la-vaga-i-les-manifestacions-als-paisos-catalans/",
-      "published": "2026-11-11T19:35:12+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 12,
-      "title": "La inflació es modera a Alemanya i baixa al 2,8%",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/economia/macroeconomia/inflacio-modera-alemanya-baixa-2-8_1_5907368.html",
-      "published": "2026-11-11T17:50:03+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 13,
-      "title": "[EN DIRECTE] Manifestacions massives arreu del país tanquen la jornada de vaga",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/en-directe-manifestacions-vaga-general-11-n/",
-      "published": "2026-11-11T17:48:14+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 14,
-      "title": "Els sindicats qualifiquen la vaga general d’èxit, i la patronal parla de baix seguiment",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/economia/seguiment-vaga-general-11n-exit-sindicats/",
-      "published": "2026-11-11T16:49:44+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 15,
-      "title": "“Rendistes culpables, govern responsable”: Madrid clama per l'habitatge sota la pluja",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/politica/tensio-centre-madrid-carregues-policials-detencions_1_5907269.html",
-      "published": "2026-11-11T16:47:26+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 16,
-      "title": "Vaga general: manifestacions multitudinàries per l'habitatge i els salaris arreu de Catalunya",
-      "source": "3CatInfo",
-      "articleUrl": "https://www.3cat.cat/3catinfo/tarda-de-manifestacions-a-barcelona-i-diverses-ciutats-catalanes-per-lhabitatge-i-els-salaris/noticia/3439211/",
-      "published": "2026-11-11T16:26:08+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 17,
-      "title": "CCOO i UGT xifren en un 84% el seguiment de la vaga general a Catalunya",
-      "source": "3CatInfo",
-      "articleUrl": "https://www.3cat.cat/3catinfo/ccoo-i-ugt-xifren-en-un-84-el-seguiment-de-la-vaga-general-a-catalunya/noticia/3439165/",
-      "published": "2026-11-11T16:19:26+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 18,
-      "title": "La previsió de dimecres: estiuet de Sant Martí i pluja a la nit",
-      "source": "3CatInfo · El temps",
-      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-estiuet-de-sant-marti-i-pluja-a-la-nit/noticia/3438988/",
-      "published": "2026-11-10T19:01:29+01:00",
-      "priority": "2 · Important",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435848/embed/",
-        "source": "3CatInfo · El temps",
-        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dimecres-estiuet-de-sant-marti-i-pluja-a-la-nit/noticia/3438988/"
-      }
-    },
-    {
-      "page": 19,
-      "title": "La vaga general escalfa la campanya del 29-N: \"Estareu quatre anys més menjant oposició\"",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/politica/l-oposicio-reacciona-vaga-circ-general-favor-govern-d-espanya_1_5907182.html",
-      "published": "2026-11-11T14:27:08+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 20,
-      "title": "La vaga general marca el ple de les Corts Valencianes i PP i Vox es queden a soles a mitjan sessió",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/la-vaga-general-marca-el-ple-de-les-corts-valencianes-i-pp-i-vox-es-queden-a-soles-a-mitjan-sessio/",
-      "published": "2026-11-11T14:20:45+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 21,
-      "title": "Una nova burla d’À Punt a l’audiència: emeten un programa de cases de luxe per a omplir la graella en plena vaga per l’habitatge",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/una-nova-burla-da-punt-a-laudiencia-emeten-un-programa-de-cases-de-luxe-per-a-omplir-la-graella-en-plena-vaga-per-lhabitatge/",
-      "published": "2026-11-11T14:00:29+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 22,
-      "title": "Suspès un desnonament a Gràcia en plena vaga general",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/societat/habitatge/suspes-desnonament-gracia-plena-vaga-general_1_5907116.html",
-      "published": "2026-11-11T13:41:04+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 23,
-      "title": "Per què Catalunya té uns serveis mínims tan baixos al transport?",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/economia/per-que-catalunya-te-serveis-minims-tan-baixos-transport-vaga-general/",
-      "published": "2026-11-11T13:04:31+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 24,
-      "title": "Una vaga amb més impacte que seguiment",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/economia/mercat-laboral/patronals-parlen-baixa-incidencia-vaga-sindicats-d-exit_1_5907059.html",
-      "published": "2026-11-11T12:36:43+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 25,
-      "title": "Vaga general a dos dies de la campanya",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/analisi/vaga-general-dies-campanya_129_5907084.html",
-      "published": "2026-11-11T11:53:13+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 26,
-      "title": "El consum elèctric baixa, però no tant com a la vaga general del 2012",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/primeres-hores-de-vaga-baixa-lleugerament-el-consum-electric/",
-      "published": "2026-11-11T11:30:55+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 27,
-      "title": "Quins partits fan vaga general per l’habitatge i quins no a l’Ajuntament de Barcelona?",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/politica/quins-partits-fan-vaga-general-habitatge-ajuntament-barcelona/",
-      "published": "2026-11-11T09:55:25+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 28,
-      "title": "[EN DIRECTE] La vaga aconsegueix que no sigui un dia normal, però queda lluny de ser massiva",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/vaga-general-11-n-manifestacions-incidencies-serveis-minims/",
-      "published": "2026-11-11T09:10:11+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 29,
-      "title": "Vaga general 11-M (serveis mínims)",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/bon-dia-barcelona/bon-dia-barcelona-173/",
-      "published": "2026-11-11T09:00:00+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 30,
-      "title": "Serveis mínims per la vaga de l’11-N: franges horàries sense transport públic garantit",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/economia/franges-horaries-sense-transport-garantit-vaga-general-11n/",
-      "published": "2026-11-11T06:59:41+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 31,
-      "title": "La vaga general més transversal fa un crit per l'habitatge",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/economia/mercat-laboral/vaga-general-mes-transversal-crit-l-habitatge_1_5906101.html",
-      "published": "2026-11-11T06:56:05+01:00",
-      "priority": "2 · Important"
-    },
-    {
-      "page": 32,
-      "title": "Nit de vandalisme i aldarulls després de la manifestació",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/societat/nit-vandalisme-aldarulls-despres-manifestacio_1_5907787.html",
-      "published": "2026-11-11T22:26:01+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 33,
-      "title": "El Sindicat de Llogateres adverteix els partits: “Se’ns ha acabat la paciència”",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/el-sindicat-de-llogateres-adverteix-els-partits-sens-ha-acabat-la-paciencia/",
-      "published": "2026-11-11T21:56:42+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 34,
-      "title": "Els acampats de València han decidit que demà abandonaran la plaça",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/acampats-valencia-dema-abandonaran-placa/",
-      "published": "2026-11-11T21:45:35+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 35,
-      "title": "Els Mossos disparen foam contra manifestants que volien boicotejar un acte de Vox a Tarragona",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/els-mossos-disparen-foam-contra-manifestants-que-volien-boicotejar-un-acte-de-vox-a-tarragona/",
-      "published": "2026-11-11T21:20:31+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 36,
-      "title": "Votar contra nosaltres mateixos",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/opinio/votar-mateixos_129_5906537.html",
-      "published": "2026-11-11T20:57:44+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 37,
-      "title": "Sanció de 16,5 milions al Banc Sabadell per vincular la venda conjunta d'hipoteques i assegurances",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/economia/banca/sancio-16-5-milions-banc-sabadell-vincular-venda-conjunta-d-hipoteques-assegurances_1_5907621.html",
-      "published": "2026-11-11T20:57:33+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 38,
-      "title": "Què és Europa?",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/opinio/europa_129_5905371.html",
-      "published": "2026-11-11T20:56:28+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 39,
-      "title": "De la pluja nocturna al vent fort de ponent: els efectes del pas de Charles per l’àrea de Barcelona",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/medi-ambient/temps-barcelona-dijous-12-novembre-pluja-vent-fort-charles/",
-      "published": "2026-11-11T20:46:45+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 40,
-      "title": "Aparadors trencats, contenidors en flames i càrregues policíaques al final de la manifestació de l’11-N a Barcelona",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/carregues-policiaques-manifestacio-barcelona-vaga-11/",
-      "published": "2026-11-11T20:40:00+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 41,
-      "title": "McAuto i pancartes",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/opinio/mcauto-pancartes_129_5907620.html",
-      "published": "2026-11-11T20:33:33+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 42,
-      "title": "La demanda elèctrica, per sota d'un dia normal però sense una gran caiguda",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/economia/energia/demanda-electrica-d-dia-normal-gran-caiguda_1_5907543.html",
-      "published": "2026-11-11T19:48:52+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 43,
-      "title": "Per què se’ns arrapa la cortina quan ens dutxem?",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/medi-ambient/cortina-dutxa-calenta/",
-      "published": "2026-11-11T19:26:03+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 44,
-      "title": "L’11-N mobilitza 400.000 persones, segons l’organització, i 55.000 segons la Guàrdia Urbana",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/economia/marxa-multitudinaria-culmina-jornada-vaga/",
-      "published": "2026-11-11T19:21:37+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 45,
-      "title": "De fit a fit",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/vinyetes/fit-fit-12-11-2026_134_5906145.html",
-      "published": "2026-11-11T19:05:20+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 46,
-      "title": "Abascal, Wild i la ‘ultraderechita cobarde’",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/media/abascal-wild-ultraderechita-cobarde_129_5907502.html",
-      "published": "2026-11-11T18:36:46+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 47,
-      "title": "Mor Stacy Keach, l'actor que va encarnar el carismàtic detectiu Mike Hammer i el boxejador de 'Ciutat daurada'",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/cultura/cinema/mor-stacy-keach-l-actor-encarnar-carismatic-detectiu-mike-hammer-boxejador-fat-city_1_5907452.html",
-      "published": "2026-11-11T18:26:09+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 48,
-      "title": "Aina Clotet torna a examinar la distància entre desitjos i realitat amb 'Això no és Finlàndia'",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/media/aina-clotet-torna-examinar-distancia-desitjos-realitat-aixo-no-finlandia_1_5878563.html",
-      "published": "2026-11-11T18:22:57+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 49,
-      "title": "El grèvol i la molsa, guarniments de Nadal poc sostenibles?",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/medi-ambient/grevol-molsa-guarniments-nadal-gens-sostenibles/",
-      "published": "2026-11-11T18:16:03+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 50,
-      "title": "Benvingut, arquebisbe Octavi",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/opinio/benvingut-arquebisbe-octavi_129_5907403.html",
-      "published": "2026-11-11T18:11:42+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 51,
-      "title": "La relació del conseller delegat de Nvidia amb una suposada espia va facilitar l'enviament de xips a la Xina per valor de 7.500 milions…",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/economia/tecnologia/relacio-conseller-delegat-nvidia-suposada-espia-facilitar-l-enviament-xips-xina-7-500-milions-dolars_1_5907377.html",
-      "published": "2026-11-11T18:11:35+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 52,
-      "title": "Trinxat d’entrevista amb escuma de diàleg i reducció de contingut",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/opinio/trinxat-d-entrevista-escuma-dialeg-reduccio-contingut_129_5907216.html",
-      "published": "2026-11-11T18:03:29+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 53,
-      "title": "La policia bloca diverses columnes amb milers de manifestants a València",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/la-policia-bloca-diverses-columnes-amb-milers-de-manifestants-a-valencia/",
-      "published": "2026-11-11T17:54:33+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 54,
-      "title": "Borrasca ‘Charles’ a Catalunya: pluges de nit i alerta dijous per fort vent",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/previsions/borrasca-charles-catalunya-pluges-nit-alerta-dijous-fort-vent_1_5906971.html",
-      "published": "2026-11-11T17:30:54+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 55,
-      "title": "'A la contra', per Ferreres 12/11/2026",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/vinyetes/ferreres-12-11-2026_134_5907348.html",
-      "published": "2026-11-11T17:00:34+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 56,
-      "title": "\"Treballem perquè sigui increïblement impopular ser multimilionari”",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/media/treballem-perque-sigui-increiblement-impopular-multimilionari_128_5906441.html",
-      "published": "2026-11-11T17:00:30+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 57,
-      "title": "La Fiscalia investiga TikTok arran de la denúncia que hi ha més de mil vídeos d'abús sexual infantil",
-      "source": "3CatInfo",
-      "articleUrl": "https://www.3cat.cat/3catinfo/la-fiscalia-investiga-tiktok-arran-de-la-denuncia-que-hi-ha-mes-de-mil-videos-dabus-sexual-infantil/noticia/3439214/",
-      "published": "2026-11-11T16:54:51+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 58,
-      "title": "L'independentisme badoc",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/opinio/l-independentisme-badoc_129_5907178.html",
-      "published": "2026-11-11T16:37:34+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 59,
-      "title": "\"Canviem les normes del joc com qui juga al parxís\"",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/societat/habitatge/canviem-normes-joc-juga-parxis_128_5907215.html",
-      "published": "2026-11-11T16:36:03+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 60,
-      "title": "El fenomen de la Canya al Girona: “Es fa més fotos que els jugadors”",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/esports/girona-fc/fenomen-canya-girona-mes-fotos-jugadors_130_5905922.html",
-      "published": "2026-11-11T16:00:42+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 61,
-      "title": "L'última sorpresa de Lamine Yamal a Barcelona",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/esports/barca/lamine-yamal-regala-auriculars_1_5907187.html",
-      "published": "2026-11-11T14:12:35+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 62,
-      "title": "betevé notícies migdia",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-760/",
-      "published": "2026-11-11T13:55:00+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 63,
-      "title": "Una campanya de cartells de \"cerca i captura\" d'un museu fa tornar a França un quadre saquejat",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/cultura/art/campanya-cartells-recerca-captura-d-museu-tornar-franca-quadre-saquejat_1_5907127.html",
-      "published": "2026-11-11T13:52:22+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 64,
-      "title": "El relleu que marca el futur de l'Església catalana",
-      "source": "3CatInfo",
-      "articleUrl": "https://www.3cat.cat/3catinfo/el-relleu-que-marca-el-futur-de-lesglesia-catalana/noticia/3439064/",
-      "published": "2026-11-11T13:17:22+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 65,
-      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/agenda/que-fer-a-barcelona/",
-      "published": "2026-11-11T12:54:20+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 66,
-      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
-      "published": "2026-11-11T12:53:14+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 67,
-      "title": "L’autoexigència en l’esport: com evitar la frustració?",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/fase-estatica/autoexigencia-esport-com-evitar-frustracio/",
-      "published": "2026-11-11T12:48:32+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 68,
-      "title": "Les amenaces de bomba s'escampen a més de 6.000 escoles a Itàlia, Irlanda, Escòcia i Irlanda del Nord",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/internacional/europa/almenys-300-escoles-d-italia-evacuades-amenaces-bomba_1_5907111.html",
-      "published": "2026-11-11T12:22:23+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 69,
-      "title": "Ucraïna veu possible arribar a un acord de pau “abans de Cap d’Any”",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/internacional/europa/guerra-ucraina-russia-trasllada-baltic-posa-alerta-paisos-zona_1_5907061.html",
-      "published": "2026-11-11T12:13:42+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 70,
-      "title": "Catalunya demana quedar al marge de la reserva obligada d'oli d'oliva",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/economia/alimentacio/catalunya-demana-quedar-marge-reserva-obligada-d-oli-d-oliva_1_5907004.html",
-      "published": "2026-11-11T11:59:34+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 71,
-      "title": "Per què veiem albades i postes rogenques especialment a l’hivern?",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/medi-ambient/per-que-veiem-sortides-postes-sol-enceses/",
-      "published": "2026-11-11T11:08:18+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 72,
-      "title": "Més de 20 ºC al desembre: d’excepcional a recurrent. Només 7 registres i tots en els darrers anys",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/medi-ambient/excepcional-recurrent-20-graus-desembre-observatori-fabra/",
-      "published": "2026-11-11T10:46:06+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 73,
-      "title": "La llevantada del novembre del 2001, una de les més potents a Barcelona",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/medi-ambient/llevantada-historica-novembre-2001/",
-      "published": "2026-11-11T10:29:02+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 74,
-      "title": "Un piquet ha interromput durant uns minuts el programa ‘Cafè d’Idees’ d’RTVE",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/un-piquet-ha-interromput-durant-uns-minuts-el-programa-cafe-didees-drtve/",
-      "published": "2026-11-11T10:25:46+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 75,
-      "title": "Ajornat el desnonament d’un matrimoni vulnerable a Gràcia fins al desembre",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/societat/aturat-desnonament-matrimoni-vulnerable-gracia/",
-      "published": "2026-11-11T10:23:37+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 76,
-      "title": "Octavi Vilà serà el pròxim arquebisbe de Barcelona en substitució de Joan Josep Omella",
-      "source": "3CatInfo",
-      "articleUrl": "https://www.3cat.cat/3catinfo/octavi-vila-sera-el-proxim-arquebisbe-de-barcelona-en-substitucio-de-joan-josep-omella/noticia/3439062/",
-      "published": "2026-11-11T10:14:26+01:00",
-      "priority": "3 · Altres notícies",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435832/embed/",
-        "source": "3CatInfo",
-        "articleUrl": "https://www.3cat.cat/3catinfo/octavi-vila-sera-el-proxim-arquebisbe-de-barcelona-en-substitucio-de-joan-josep-omella/noticia/3439062/"
-      }
-    },
-    {
-      "page": 77,
-      "title": "Octavi Vilà, el candidat preferit pel catalanisme, serà el nou arquebisbe de Barcelona",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/societat/religio/octavi-vila-sera-nou-arquebisbe-barcelona_1_5906998.html",
-      "published": "2026-11-11T10:09:17+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 78,
-      "title": "La nevada del desembre del 2001, una data marcada al calendari",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/medi-ambient/nevada-desembre-2001/",
-      "published": "2026-11-11T10:07:53+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 79,
-      "title": "Quines muntanyes es poden veure des del Tibidabo?",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/medi-ambient/quines-muntanyes-es-poden-veure-tibidabo/",
-      "published": "2026-11-11T10:02:52+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 80,
-      "title": "El bisbe de Girona, Octavi Vilà, nou arquebisbe de Barcelona en substitució de Joan Josep Omella",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/societat/bisbe-girona-octavi-vila-nou-arquebisbe-barcelona/",
-      "published": "2026-11-11T09:58:35+01:00",
-      "priority": "3 · Altres notícies",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6435832/embed/",
-        "source": "3CatInfo",
-        "articleUrl": "https://www.3cat.cat/3catinfo/octavi-vila-sera-el-proxim-arquebisbe-de-barcelona-en-substitucio-de-joan-josep-omella/noticia/3439062/"
-      }
-    },
-    {
-      "page": 81,
-      "title": "La trista entrevista de Broncano a Colau",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/trista-entrevista-broncano-colau_129_5906950.html",
-      "published": "2026-11-11T08:42:59+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 82,
-      "title": "Les portades del dimecres 11 de novembre de 2026",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-dimecres-11-de-novembre-de-2026/",
-      "published": "2026-11-11T08:00:03+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 83,
-      "title": "L'home que va voler ser enterrat dins d'un pot de Pringles",
-      "source": "ARA",
-      "articleUrl": "https://empreses.ara.cat/empreses/l-home-voler-enterrat-d-pot-pringles_1_5906427.html",
-      "published": "2026-11-11T07:00:09+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 84,
-      "title": "Una altra veritat és possible",
-      "source": "ARA",
-      "articleUrl": "https://llegim.ara.cat/opinio/altra-veritat-possible_129_5905905.html",
-      "published": "2026-11-11T07:00:09+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 85,
-      "title": "Catalunya no podrà limitar els preus del lloguer si guanya el PP",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/catalunya-no-podra-limitar-preus-lloguer-guanya-pp_1_5906753.html",
-      "published": "2026-11-11T07:00:09+01:00",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "page": 86,
-      "title": "Els republicans bloquegen l''impeachment' contra Hegseth malgrat la desfeta electoral",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/internacional/estats-units/republicans-descarrilen-l-impeachment-hegseth-malgrat-desfeta-electoral_1_5906878.html",
-      "published": "2026-11-11T04:43:49+01:00",
+      "articleUrl": "https://www.vilaweb.cat/noticies/lesglesia-catalana-fa-un-gran-tomb-amb-el-nomenament-de-fra-octavi-vila-com-a-arquebisbe-de-barcelona/",
+      "published": "2026-11-12T00:00:24+01:00",
       "priority": "3 · Altres notícies"
     }
   ]
