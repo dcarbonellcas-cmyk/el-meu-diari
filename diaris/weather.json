@@ -1,5 +1,20 @@
 {
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T01:26:12.154976+01:00",
-  "forecast": null
+  "updatedAt": "2026-11-13T08:59:37.752800+01:00",
+  "forecast": {
+    "source": "3CatInfo · El temps",
+    "title": "La previsió de divendres: sol, boira i algun ruixat de tarda al nord-est",
+    "excerpt": "Vent aponentat moderat a la meitat sud",
+    "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-baixa-la-temperatura-entre-2-i-3-graus/noticia/3439316/",
+    "published": "2026-11-12T18:37:27+01:00",
+    "updated": "2026-11-13T08:14:22+01:00",
+    "category": "El temps",
+    "image": "https://img.3cat.cat/multimedia/jpg/5/9/1794554033395.jpg",
+    "video": {
+      "url": "https://www.3cat.cat/3cat/video/6436169/embed/",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-baixa-la-temperatura-entre-2-i-3-graus/noticia/3439316/"
+    },
+    "priority": "2 · Important"
+  }
 }

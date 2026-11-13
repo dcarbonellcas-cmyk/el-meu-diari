@@ -1,4 +1,392 @@
 {
   "date": "2026-11-13",
-  "items": []
+  "items": [
+    {
+      "source": "ARA",
+      "title": "Habitatge i la potència sense control",
+      "excerpt": "ERC ha anunciat que presentarà una proposició de llei denominada “Una família, una casa” tan aviat com es constitueixi el Congrés dels Diputats, i a la manifestació del dia 11 es va fer viral una pancarta que deia “Cap família sense casa, cap casa sense família”. Aquests eslògans i altres no fan sinó reivindicar el que la Constitució espanyola estableix de manera taxativa i inequívoca. Què ha fallat?",
+      "url": "https://www.ara.cat/opinio/habitatge-potencia-control_129_5908465.html",
+      "published": "2026-11-13T08:38:31+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/f38e6869-adf3-463d-87af-6a8646c005a7_16-9-aspect-ratio_default_0_x4049y2891.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El comitè d’empresa d’IB3 convoca una vaga indefinida i crida a fer una aturada de sis hores durant el 29-N",
+      "excerpt": "Els treballadors exigeixen la plena integració del personal internalitzat, la regularització dels llocs de feina i el desblocatge de la negociació del conveni col·lectiu",
+      "url": "https://www.vilaweb.cat/noticies/comite-empresa-ib3-vaga-indefinida-29n/",
+      "published": "2026-11-13T08:26:34+01:00",
+      "category": "Illes",
+      "image": null,
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "La previsió de divendres: sol, boira i algun ruixat de tarda al nord-est",
+      "excerpt": "Vent aponentat moderat a la meitat sud",
+      "url": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-baixa-la-temperatura-entre-2-i-3-graus/noticia/3439316/",
+      "published": "2026-11-12T18:37:27+01:00",
+      "updated": "2026-11-13T08:14:22+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/9/1794554033395.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6436169/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-baixa-la-temperatura-entre-2-i-3-graus/noticia/3439316/"
+      },
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Retards a Rodalies per una “incidència operativa” i un robatori de cable a Fabra i Puig",
+      "excerpt": "Nova jornada de retards generalitzats a Rodalies. Segons ha informat la companyia, una “incidència operativa” relacionada amb la disponibilitat de maquinistes i de trens provoca demores a diverses línies. A això cal sumar un robatori de cable a Fabra i Puig, que també provoca retards a l’R4 i l’R7. Renfe apunta que els trens poden […]",
+      "url": "https://beteve.cat/mobilitat/incidencies-rodalies-catalunya-trens/",
+      "published": "2026-11-13T07:52:21+01:00",
+      "category": "mobilitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/05/Pictos-ultima-hora_en-temps-real-2.webp",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Retards generalitzats a Rodalies per setè dia consecutiu, amb un robatori de coure a Fabra i Puig",
+      "excerpt": "Hi ha retards d'almenys mitja hora en sis línies: R1, R2, R2 Nord, R2 Sud, R4 i R7",
+      "url": "https://www.3cat.cat/3catinfo/retards-a-lr4-i-lr7-de-rodalies-a-causa-dun-robatori-de-coure-a-fabra-i-puig/noticia/3439566/",
+      "published": "2026-11-13T07:09:43+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/6/1794553996368.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "ARA",
+      "title": "La dificultat de formar govern a Israel reobre el debat sobre les obligacions militars dels ultraortodoxos",
+      "excerpt": "Als carrers de Mea Shearim, el barri ultraortodox més emblemàtic de Jerusalem, la vida sembla que transcorri en un univers paral·lel. Homes amb barrets negres caminen entre sinagogues i escoles talmúdiques, al marge d’un debat que sacseja Israel: qui ha de defensar l’estat. La polèmica ha tornat al centre de la política després que Avigdor Liberman, un dels dirigents que ha criticat de manera més dura els privilegis ultraortodoxos, hagi obert la porta a pactar-hi per formar el nou govern d’Israel .",
+      "url": "https://www.ara.cat/internacional/proxim-orient/dificultat-formar-govern-israel-reobre-debat-obligacions-militars-dels-ultraortodoxos_1_5908538.html",
+      "published": "2026-11-13T07:00:58+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e4528113-cf17-4432-8c73-5c8061f9af01_source-aspect-ratio_default_0.jpg",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "El Niño del 2026 podria ser el més intens mai registrat: com afectarà Catalunya?",
+      "excerpt": "El Servei Meteorològic de Catalunya adverteix que el fenomen ja comença a alterar la circulació atmosfèrica, però remarca que no hi ha una relació directa entre el Niño i els fenòmens extrems a casa nostra",
+      "url": "https://www.3cat.cat/3catinfo/el-nino-del-2026-podria-ser-el-mes-intens-mai-registrat-com-afectara-catalunya/noticia/3439315/",
+      "published": "2026-11-13T06:01:07+01:00",
+      "updated": "2026-11-13T06:01:48+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/png/5/8/1794474367185.png",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "betevé",
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "excerpt": "Aquesta és l’agenda de concerts a Barcelona. T’agrada gaudir de la música en directe? Vols saber quina música pots escoltar a L’Auditori de Barcelona, al Palau de la Música o al Liceu? Tots els estils i totes les sales: aquí trobaràs els concerts setmana a setmana a la nostra ciutat. I recorda que si vols […]",
+      "url": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-11-13T08:51:18+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2024/07/concerts-2-2.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
+      "excerpt": "Vols saber què pots fer a Barcelona avui, demà o aquest mes? L’Agenda de Barcelona et posa al dia de les propostes culturals. Et fem una llista d’activitats i plans molts diversos, amb propostes, algunes de gratuïtes, per fer en família, el cap de setmana, a l’aire lliure, concerts, espectacles, exposicions i molt més! Els […]",
+      "url": "https://beteve.cat/agenda/que-fer-a-barcelona/",
+      "published": "2026-11-13T08:50:31+01:00",
+      "category": "Agenda de Barcelona",
+      "image": "https://img.beteve.cat/wp-content/uploads/2022/05/que-fer-a-Barcelona-05-2022-1920x1080-03-text.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Caiguda global dels serveis de Microsoft, entre els quals Outlook i Teams",
+      "excerpt": "(Agències) Els servies de la tecnològica Microsoft, entre ells Microsoft Outlook i Microsoft Teams, han caigut de manera mundial, segons ha confirmat la companyia. Això significa que ha tombat l’activitat de correus corporatius d’usuaris de tot el món que utilitzen els serveis d’aquesta tecnològica. Microsoft ha detectat que un procés central dels servidors afectats ha […]",
+      "url": "https://beteve.cat/economia/caiguda-mundial-microsoft/",
+      "published": "2026-11-13T08:47:02+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/microsoft-caiguda-2026-11-13.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Microsoft no aconsegueix de resoldre una incidència mundial que afecta Outlook i més serveis",
+      "excerpt": "La companyia ha provat unes quantes solucions, però els servidors tornen a fallar quan recuperen el trànsit habitual",
+      "url": "https://www.vilaweb.cat/noticies/microsoft-incidencia-mundial-outlook/",
+      "published": "2026-11-13T08:17:03+01:00",
+      "category": "Ciència i Tecnologia",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Rodalia torna a registrar retards generalitzats per una “incidència operativa”",
+      "excerpt": "Un robatori de cable a Fabra i Puig també afecta la R4, que acumula retards de més de mitja hora",
+      "url": "https://www.vilaweb.cat/noticies/rodalies-torna-a-registrar-retards-generalitzats-per-una-incidencia-operativa/",
+      "published": "2026-11-13T08:08:54+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Remei de Ca la Fresca, la banda que sona diferent de tota la resta",
+      "excerpt": "“Hi ha altres grups molt més del moment que nosaltres. O que estan, no ho sé, més en boca de tothom”. Ho diu, una mica aclaparada a causa de la pregunta, Xantal Rodríguez. És la cantant i lletrista de Remei de Ca la Fresca, un combo de rock d’Arbúcies amb poc més de sis anys de trajectòria. Hi ha raons objectives que conviden pensar que, realment, no siguin la banda del moment: no toquen en cap dels quatre o cinc festivals fotocopiats i multitudinaris que…",
+      "url": "https://diumenge.ara.cat/diumenge/remei-ca-fresca-banda-sona-diferent-tota-resta_130_5898538.html",
+      "published": "2026-11-13T08:00:55+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2a6d3e7f-b717-46c8-9337-e76f952889b7_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Les portades del divendres 13 de novembre de 2026",
+      "excerpt": "Us oferim les portades de tots els diaris en paper dels Països Catalans",
+      "url": "https://www.vilaweb.cat/noticies/les-portades-del-divendres-13-de-novembre-de-2026/",
+      "published": "2026-11-13T08:00:02+01:00",
+      "category": "País",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Rosalía arrasa als Grammy Llatins amb \"Lux\" com a millor àlbum",
+      "excerpt": "La cantant ha guanyat cinc premis i un de tècnic a la millor enginyeria de gravació per \"Lux\"",
+      "url": "https://www.3cat.cat/3catinfo/rosalia-arrasa-als-grammy-llatins-amb-lux-com-a-millor-album/noticia/3439568/",
+      "published": "2026-11-13T07:59:22+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/1/1794551004913.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Microsoft no aconsegueix solucionar la caiguda global de Teams, Outlook i Copilot",
+      "excerpt": "Una caiguda global de diverses aplicacions de Microsoft afecta més de 430 milions de persones a tot el món des d’aquest dijous al vespre. En 74 països, els serveis de Teams, Outlook i Copilot s’han vist interromputs per motius que encara no s’han fet públics. L’empresa ha descartat que es tracti d’un ciberatac, però per ara continua sense ser capaç de restablir el servei.",
+      "url": "https://www.ara.cat/economia/tecnologia/microsoft-no-aconsegueix-solucionar-s-esperava-caiguda-global-dels-serveis_1_5909013.html",
+      "published": "2026-11-13T07:40:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/b2bfda10-b2fb-48c3-b075-1fb64075982d_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Lluís Sans, sobre el canvi del passeig de Gràcia al llarg dels anys: “Als 50 era trist passejar-hi”",
+      "excerpt": "Lluís Sans passa pel ‘Mirador Barcelona’, del bàsics, una talaia des de la qual mirar amb perspectiva la ciutat. Sans es propietari de la botiga Santa Eulàlia, un establiment centenari de 183 anys d’història, i president de l’Associació d’Amics del Passeig de Gràcia. “Jo soc la quarta generació de la meva família, però abans hi va haver […]",
+      "url": "https://beteve.cat/economia/lluis-sans-canvi-passeig-gracia-anys-50-trist-passejar/",
+      "published": "2026-11-13T07:38:25+01:00",
+      "category": "comerç",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/mirador-lluis-sans-basics-2026-11-12.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Sostre Cívic: “Podem comprar edificis en dret de tempteig i retracte, però necessitem suport públic”",
+      "excerpt": "Per la crisi actual de l’habitatge, entitats com Sostre Cívic treballen per oferir alternatives. “Cal actuar amb tots els instruments possibles”, ha explicat a l’Infobarris el seu codirector, David Guàrdia, “és important que l’administració fomenti models com el nostre, d’economia social i solidària, i treballi amb les cooperatives”. Una de les seves propostes és poder […]",
+      "url": "https://beteve.cat/economia/sostre-civic-comprar-edificis-dret-tempteig-retracte-suport-public/",
+      "published": "2026-11-13T07:34:25+01:00",
+      "category": "economia",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/bloc-guinardo-041126-123-2026-11-04.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "\"Com podia continuar estimant la meva mare sense que ella em destruís?\"",
+      "excerpt": "Als 35 anys, i gràcies a l’èxit immediat de la novel·la El déu de les petites coses (1996; en català, a Amsterdam), l’escriptora i activista Arundhati Roy (Shillong, 1961) va aconseguir “la independència econòmica”. Des de llavors, la seva trajectòria ha continuat amb una única divisa, que deixa anar amb un somriure murri: “Faig el que em dona la gana”.",
+      "url": "https://llegim.ara.cat/reportatges/podia-continuar-estimant-meva-mare-em-destruis_128_5907143.html",
+      "published": "2026-11-13T07:15:14+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/9d877f77-46ee-4aab-a2a5-5ab3770b6acc_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El debilitament del vòrtex polar i un riu atmosfèric, possibles senyals d’El Niño a Europa",
+      "excerpt": "L’episodi d’El Niño 2026-2027 continua guanyant intensitat i ja ha entrat en la categoria de fenomen molt fort, conegut popularment com a súper Niño. Les anomalies de temperatura de l’aigua del Pacífic equatorial central i oriental ja superen els 3 °C i les previsions apunten que encara podrien augmentar durant les pròximes setmanes. Ara, el […]",
+      "url": "https://beteve.cat/medi-ambient/nino-efectes-europa-vortex-polar-riu-atmosferic-catalunya-2026/",
+      "published": "2026-11-13T07:14:08+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/nino-efectes-europa-vortex-polar-riu-atmosferic-catalunya-2026-2026-11-12.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La Catalunya rural i l'àrea metropolitana, la cara i la creu del reciclatge: consulta les dades",
+      "excerpt": "Manresa s'ha convertit en la ciutat que recicla més després d'implementar els contenidors tancats",
+      "url": "https://www.3cat.cat/3catinfo/la-catalunya-rural-i-larea-metropolitana-la-cara-i-la-creu-del-reciclatge-consulta-les-dades/noticia/3437478/",
+      "published": "2026-11-13T07:05:31+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/5/2/1793792724025.jpg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6436068/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-catalunya-rural-i-larea-metropolitana-la-cara-i-la-creu-del-reciclatge-consulta-les-dades/noticia/3437478/"
+      }
+    },
+    {
+      "source": "3CatInfo",
+      "title": "La tempesta perfecta que dificulta la recollida de residu tèxtil: molta roba, menys qualitat i més costos",
+      "excerpt": "La proliferació de la coneguda com a \"fast fashion\" dificulta tant la reutilització com el reciclatge i ha obligat a modificar-ne la gestió",
+      "url": "https://www.3cat.cat/3catinfo/la-tempesta-perfecta-que-dificulta-la-recollida-de-residu-textil-molta-roba-menys-qualitat-i-mes-costos/noticia/3437783/",
+      "published": "2026-11-13T07:01:49+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpeg/3/5/1793879534053.jpeg",
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6436069/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-tempesta-perfecta-que-dificulta-la-recollida-de-residu-textil-molta-roba-menys-qualitat-i-mes-costos/noticia/3437783/"
+      }
+    },
+    {
+      "source": "ARA",
+      "title": "Per què TikTok sap millor que tu mateix que t’agrada Jordi Wild o Vito Quiles?",
+      "excerpt": "Si abans eren les persones les qui anaven a buscar les notícies, ara són les notícies les qui van a buscar les persones. És un dels efectes de l’ scroll , l’acció de lliscar la pantalla del mòbil per continuar consumint més i més contingut. Aquest gest –sovint inconscient– s’ha estès al funcionament de les principals xarxes socials i descriu la rutina de gran part de la població, com l’Arnau, de 21 anys, que s’hi passa “tres hores al dia”, diu sorprès d’ell mateix. L’aplicació…",
+      "url": "https://www.ara.cat/politica/tiktok-millor-mateix-t-agrada-jordi-wild-vito-quiles_1_5905256.html",
+      "published": "2026-11-13T07:01:01+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/e192d58f-7e69-4d9f-bd66-ae2cc8d2c3c2_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Reconstrucció dels aldarulls de l’11-N: així va iniciar-los un grup d’anarquistes",
+      "excerpt": "Des de l’aire, amb drons i helicòpters, ja es podien distingir amb claredat. Al passeig de Gràcia de Barcelona hi havia moltíssima gent. Els sindicats de la vaga general havien convocat una manifestació unitària, però que es va acabar fragmentant. Per guanyar visibilitat i tenir la seva gent més agrupada, alguns sindicats van optar per concentrar-se uns carrers més avall desembocant en tres manifestacions diferenciades però pròximes. Malgrat la multitud, els Mossos d’Esquadra van detectar des de l’aire un grup d’unes cinquanta persones, totes vestides…",
+      "url": "https://www.ara.cat/societat/successos/reconstruccio-dels-aldarulls-l-11-n-aixi-iniciar-grup-d-anarquistes_130_5908676.html",
+      "published": "2026-11-13T07:01:01+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/acdc9877-5efa-4ce5-affd-a80cfa3b3881_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Putin utilitza les converses de pau per revifar les aspiracions sobre l’Europa de l’Est",
+      "excerpt": "Tot i mantenir-se inflexible en les seves condicions per a la pau, darrerament Vladímir Putin ha recuperat l’interès per la diplomàcia. El motiu és que en les últimes converses entre Rússia, Ucraïna i els Estats Units els emissaris de Donald Trump han posat sobre la taula una de les demandes que el Kremlin sempre havia considerat clau per posar fi a la guerra: la discussió d’una nova arquitectura de seguretat europea. Aquesta formulació engloba l’exigència d’allunyar les fronteres de l’OTAN del territori rus i d’impedir…",
+      "url": "https://www.ara.cat/internacional/russia/putin-utilitza-converses-pau-revifar-aspiracions-l-europa-l-est_1_5908878.html",
+      "published": "2026-11-13T07:01:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/dc86b0de-d472-4603-97f1-7ae8d39582ec_16-9-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Jordi Wild posa a prova el futur president d’Espanya",
+      "excerpt": "La campanya de les eleccions generals del 29 de novembre podria viure un nou gir de guió. Aquest divendres a primera hora, Jordi Wild publicarà a les seves xarxes socials les entrevistes a tres candidats a la presidència del govern espanyol. Pedro Sánchez, líder del PSOE; Alberto Núñez Feijóo, líder del PP, i Ada Colau, líder del Front Ampli, són els tres noms que han passat pels micròfons del comunicador manresà. Qui no ho ha fet ha estat Santiago Abascal, líder de Vox, que, hores…",
+      "url": "https://www.ara.cat/politica/eleccions-generals/jordi-wild-posa-prova-futur-president-d-espanya_1_5908775.html",
+      "published": "2026-11-13T07:01:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/0a83d4c6-e0e4-40fc-b12c-a1cafe39e677_16-9-aspect-ratio_default_0.png",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Els taps de Cadaqués es tornaran a vendre a partir del gener",
+      "excerpt": "Els últims taps de Cadaqués els va vendre la pastisseria Cabrisas el 31 d’octubre passat . Els mateixos creadors l’havien inventat i difós, i ells mateixos van decidir posar-hi punt i final després de cent anys de treball. Tan bon punt van tancar, el pastisser Oriol Balaguer afirma que va rebre encàrrecs de particulars i privats que li demanaven si en podia preparar. Balaguer està molt vinculat amb les comarques de Girona des que el 2024 va adquirir la recepta dels bisbalencs i la pastissera…",
+      "url": "https://mengem.ara.cat/xefs/taps-cadaques-tornaran-vendre-partir-gener_1_5908490.html",
+      "published": "2026-11-13T07:00:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/bc609d16-8150-44c1-8b8a-9ece1f29c898_source-aspect-ratio_default_0_x845y908.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Johnny Depp busca la redempció",
+      "excerpt": "Charles Dickens va escriure al prefaci del Conte de Nadal (1843) que amb el seu llibret fantasmagòric volia evocar una idea sense disgustar a ningú, a saber: que la redempció i el canvi sempre són possibles. La història és coneguda: la nit del 24 de desembre, l’avar i malhumorat Ebenezer Scrooge rep la visita de l’espectre del seu difunt soci, Marley, que li anuncia els perills de la seva conducta i l’arribada de tres esperits. Des del cinema dels orígens ( Marley’s ghost , 1901)…",
+      "url": "https://www.ara.cat/cultura/cinema/critiques/johnny-depp-scrooge-conte-nadal-dickens_1_5908109.html",
+      "published": "2026-11-13T07:00:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/73be46bb-d815-47eb-a592-38aa5bfa21b8_source-aspect-ratio_default_0_x2034y949.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "És fals que et puguin cobrar les urgències mèdiques si vas a una altra comunitat autònoma, com diu Vox",
+      "excerpt": "El diputat de Vox José María Figaredo ha explicat que la seva dona va anar a urgències a Andalusia, tot i estar empadronada a Madrid, i que dos mesos després va rebre una factura de la sanitat pública andalusa “perquè no va portar la targeta de Madrid”, segons ha relatat al pòdcast Quorvm podcast . A partir d’aquesta anècdota familiar, Figaredo ha qüestionat el funcionament del sistema sanitari i ha denunciat que les administracions no saben si una persona té cobertura. “És una vergonya. En…",
+      "url": "https://www.ara.cat/politica/fals-et-puguin-cobrar-urgencies-mediques-vas-altra-comunitat-autonoma-diu-vox_1_5907928.html",
+      "published": "2026-11-13T07:00:57+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5e58ecc8-7ede-4403-96a7-1f375da1bce8_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Una hora al dia de temps de qualitat en família",
+      "excerpt": "Durant la dècada dels anys noranta, Islàndia tenia unes xifres molt preocupants de consum de tòxics entre adolescents. Segons les enquestes nacionals, més del 40% dels joves d’entre 15 i 16 anys s'havien emborratxat el mes anterior, prop d'un quart fumaven cada dia i una part significativa havia consumit cànnabis.",
+      "url": "https://criatures.ara.cat/criatures/hora-dia-temps-qualitat-familia_129_5905164.html",
+      "published": "2026-11-13T07:00:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/ddae32e7-c637-47be-b375-c681e9b8df9e_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El nou repte de Kilian Jornet: cuidar els escenaris de la seva infància",
+      "excerpt": "Kilian Jornet va decidir fa temps que la seva carrera no pot limitar-se a fer curses. Decidit a deixar un llegat, va crear una fundació que treballa en diferents projectes. El darrer, ben especial, ja que afecta un escenari que coneix a la perfecció. La Fundació Kilian Jornet ha presentat un projecte, seleccionat entre 495 candidatures de 75 països, que permetrà desenvolupar durant tres anys noves actuacions de restauració, protecció i recerca científica a l’espai natural protegit de Tossa Plana de Lles-Puigpedrós, a la Cerdanya.…",
+      "url": "https://www.ara.cat/esports/atletisme/nou-repte-kilian-jornet-cuidar-escenaris-seva-infancia_130_5907912.html",
+      "published": "2026-11-13T07:00:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/d41db3bb-c7d0-4f13-aa29-04280a12a754_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "La mediocritat insidiosa",
+      "excerpt": "No hi ha res pitjor que un mediocre que es creu en possessió de la veritat, inconscient de les seves limitacions. Ho estem veient amb Trump, amb Milei, amb Putin... Emborratxats de poder i envoltats d’aduladors, són milhomes que s’afirmen a la contra: veuen enemics per totes bandes, els necessiten. Els humilien. Són el seu combustible, com un ressort psicològic per al seu esperpèntic complex de superioritat. Rere una retòrica nacional grandiloqüent hi creix un virus destructor de les seves nacions. Com una bomba de…",
+      "url": "https://www.ara.cat/opinio/mediocritat-insidiosa_129_5907901.html",
+      "published": "2026-11-13T07:00:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/7f3001ee-e56b-4f74-b084-f452ff516ef0_16-9-aspect-ratio_default_1061533.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Per a què serveixen les campanyes electorals? De mobilitzar el votant a la pesca d'indecisos",
+      "excerpt": "Els partits ja no s'enfoquen a convèncer els votants, sinó a mobilitzar-los perquè el dia de les eleccions no es quedin a casa, mentre els politòlegs constaten que creix el percentatge de població que decideix el vot a l'últim moment",
+      "url": "https://www.3cat.cat/3catinfo/per-a-que-serveixen-les-campanyes-electorals-de-mobilitzar-el-votant-a-la-pesca-dindecisos/noticia/3439017/",
+      "published": "2026-11-13T07:00:31+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/6/2/1794478857726.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Rosalía triomfa als Grammy Llatins 2026: “Sé que tinc tot el que fa falta per ser la millor”",
+      "excerpt": "Gran èxit de Rosalía en la 27a edició dels premis Grammy Llatins. La feina feta amb el disc Lux era reconeguda amb set nominacions, i en la gala celebrada aquest dijous a Las Vegas s’ha endut sis premis: àlbum de l’any i millor àlbum de música alternativa; millor cançó i millor cançó de pop per La perla ; millor vídeo musical curt pel de Sauvignon blanc ; i millor enginyeria d’enregistrament. Només s’ha quedat sense premi en la categoria d’enregistrament de l’any, en què l’Acadèmia…",
+      "url": "https://www.ara.cat/cultura/musica/rosalia-triomfa-als-latin-grammy-2026_1_5908962.html",
+      "published": "2026-11-13T06:43:14+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/a07382a9-f012-4086-a9c6-2c4f6f0acbbf_source-aspect-ratio_default_0_x3188y1732.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Niño s’enforteix i el Meteocat detecta els primers indicis d’un possible impacte a Europa",
+      "excerpt": "El debilitament del vòrtex polar i l'arribada d'un riu atmosfèric poden ser els primers senyals de la influència d'El Niño a Europa",
+      "url": "https://www.vilaweb.cat/noticies/nino-enforteix-meteocat-impacte-europa/",
+      "published": "2026-11-13T06:00:56+01:00",
+      "category": "Societat",
+      "image": null,
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Detectats els primers efectes del super-Niño a Catalunya",
+      "excerpt": "L’episodi del Niño que ha començat aquest any continua guanyant intensitat de manera imparable i ja ha assolit la categoria de molt fort , la màxima possible. Des del principi s’ha catalogat com a super-Niño, i les previsions ja indicaven que seria el més fort des que es tenen registres. Ara les dades ho van confirmant. Els seus efectes han estat evidents les últimes setmanes en diverses parts del món, lluny de casa nostra, però, per primer cop aquest any, també s’han detectat els primers…",
+      "url": "https://www.ara.cat/societat/medi-ambient/detectats-primers-efectes-super-nino-catalunya_1_5908291.html",
+      "published": "2026-11-13T06:00:07+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/76d4ebc9-b833-4ece-8b5d-2de30b830a1e_source-aspect-ratio_default_0.jpg",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Tour ’26: Sexenni",
+      "excerpt": "",
+      "url": "https://beteve.cat/musica-moderna/tour-26-sexenni/",
+      "published": "2026-11-13T03:10:49+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "priority": "3 · Altres notícies"
+    }
+  ]
 }
