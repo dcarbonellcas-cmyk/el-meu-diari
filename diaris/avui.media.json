@@ -3,6 +3,51 @@
   "pages": [
     {
       "page": 2,
+      "title": "Més del 60% dels catalans situa el preu com el principal problema d’accés a l’habitatge de lloguer i de compra",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/mes-del-60-dels-catalans-situa-el-preu-com-el-principal-problema-dacces-a-lhabitatge-de-lloguer-i-de-compra/",
+      "published": "2026-11-13T10:38:38+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 3,
+      "title": "La previsió del cap de setmana: cel canviant i poques precipitacions per l'oest",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-canviant-i-poques-precipitacions-per-loest/noticia/3439567/",
+      "published": "2026-11-13T09:51:33+01:00",
+      "priority": "2 · Important",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6436169/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-cel-canviant-i-poques-precipitacions-per-loest/noticia/3439567/"
+      }
+    },
+    {
+      "page": 4,
+      "title": "La inflació escala tres dècimes a l’octubre a Catalunya: fins al 4,8 %",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/economia/inflacio-octubre-catalunya-48/",
+      "published": "2026-11-13T09:50:56+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 5,
+      "title": "Programes electorals 2026: les propostes dels partits per a les eleccions generals del 29-N",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/politica/programes-electorals-29n-eleccions-generals-2026-pdf/",
+      "published": "2026-11-13T09:26:00+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 6,
+      "title": "L'IPC encadena mig any a l'alça i la inflació se situa al 4,8%: què puja i què baixa",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-inflacio-encadena-mig-any-a-lalca-i-se-situa-al-4-8-que-puja-i-que-baixa/noticia/3439574/",
+      "published": "2026-11-13T09:21:45+01:00",
+      "priority": "2 · Important"
+    },
+    {
+      "page": 7,
       "title": "Habitatge i la potència sense control",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/opinio/habitatge-potencia-control_129_5908465.html",
@@ -10,15 +55,15 @@
       "priority": "2 · Important"
     },
     {
-      "page": 3,
-      "title": "El comitè d’empresa d’IB3 convoca una vaga indefinida i crida a fer una aturada de sis hores durant el 29-N",
+      "page": 8,
+      "title": "El comitè d’empresa d’IB3 convoca una vaga indefinida i vol fer una aturada de sis hores durant el 29-N",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/comite-empresa-ib3-vaga-indefinida-29n/",
       "published": "2026-11-13T08:26:34+01:00",
       "priority": "2 · Important"
     },
     {
-      "page": 4,
+      "page": 9,
       "title": "La previsió de divendres: sol, boira i algun ruixat de tarda al nord-est",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-divendres-baixa-la-temperatura-entre-2-i-3-graus/noticia/3439316/",
@@ -31,7 +76,7 @@
       }
     },
     {
-      "page": 5,
+      "page": 10,
       "title": "Retards a Rodalies per una “incidència operativa” i un robatori de cable a Fabra i Puig",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/mobilitat/incidencies-rodalies-catalunya-trens/",
@@ -39,7 +84,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 6,
+      "page": 11,
       "title": "Retards generalitzats a Rodalies per setè dia consecutiu, amb un robatori de coure a Fabra i Puig",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/retards-a-lr4-i-lr7-de-rodalies-a-causa-dun-robatori-de-coure-a-fabra-i-puig/noticia/3439566/",
@@ -47,7 +92,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 7,
+      "page": 12,
       "title": "La dificultat de formar govern a Israel reobre el debat sobre les obligacions militars dels ultraortodoxos",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/proxim-orient/dificultat-formar-govern-israel-reobre-debat-obligacions-militars-dels-ultraortodoxos_1_5908538.html",
@@ -55,7 +100,7 @@
       "priority": "2 · Important"
     },
     {
-      "page": 8,
+      "page": 13,
       "title": "El Niño del 2026 podria ser el més intens mai registrat: com afectarà Catalunya?",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/el-nino-del-2026-podria-ser-el-mes-intens-mai-registrat-com-afectara-catalunya/noticia/3439315/",
@@ -63,15 +108,111 @@
       "priority": "2 · Important"
     },
     {
-      "page": 9,
-      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
-      "published": "2026-11-13T08:51:18+01:00",
+      "page": 14,
+      "title": "Paneque diu que s’han fet quaranta detencions en tres mesos pels robatoris de coure a Rodalia",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/paneque-quaranta-detencions-tres-mesos-robatoris-coure/",
+      "published": "2026-11-13T10:25:56+01:00",
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 10,
+      "page": 15,
+      "title": "RTVE farà un debat electoral sense Sánchez, Feijóo i Junts",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/rtve-debat-electoral-sense-sanchez-feijoo-junts/",
+      "published": "2026-11-13T10:16:27+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 16,
+      "title": "Roben a Elsa Pataki i Chris Hemsworth mentre dormien a casa",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/gent/roben-elsa-pataki-chris-hemsworth-dormien-casa_1_5909024.html",
+      "published": "2026-11-13T10:15:13+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 17,
+      "title": "Arrenca el Gran Recapte 2026, amb més de 2.100 punts de donació a tot Catalunya",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/arrenca-gran-recapte-2026/",
+      "published": "2026-11-13T09:57:20+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 18,
+      "title": "El Natació Barcelona, a l’Euro Cup 2026-2027: tercera victòria a la fase de grups",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/esports/natacio-barcelona-eurocup-waterpolo-26-27/",
+      "published": "2026-11-13T09:47:26+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 19,
+      "title": "Concerts de Barcelona el 2026: Agenda completa d’actuacions musicals",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/concerts-barcelona-setmana/",
+      "published": "2026-11-13T09:32:46+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 20,
+      "title": "Què fer amb nens a Barcelona? Activitats i plans en família",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/que-fer-amb-nens-a-barcelona/",
+      "published": "2026-11-13T09:29:39+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 21,
+      "title": "Mercats de cap de setmana a Barcelona, fires i festes del 2026: agenda amb horaris",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/mercats-del-cap-de-setmana-barcelona/",
+      "published": "2026-11-13T09:19:25+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 22,
+      "title": "El cost de la vida no dona respir malgrat l’abaratiment dels combustibles",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/economia/macroeconomia/cost-vida-no-dona-respir-malgrat-l-abaratiment-dels-combustibles_1_5909097.html",
+      "published": "2026-11-13T09:11:49+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 23,
+      "title": "Exposicions a Barcelona: la teva agenda de museus",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/exposicions-museus-art-barcelona/",
+      "published": "2026-11-13T09:07:07+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 24,
+      "title": "AMEBA Parkfest L’Hospitalet: nova cita amb la música electrònica",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/agenda/ameba-festival-electronica-hospitalet-programa/",
+      "published": "2026-11-13T09:03:09+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 25,
+      "title": "Les gambes del PP i els sindicats",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/economia/mercat-laboral/gambes-pp-sindicats_129_5908479.html",
+      "published": "2026-11-13T09:00:57+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 26,
+      "title": "Per què hi ha tres carrers de les Corts dedicats a taquígrafs?",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/va-passar-aqui/tres-carrers-les-corts-taquigrafs/",
+      "published": "2026-11-13T09:00:05+01:00",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "page": 27,
       "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/que-fer-a-barcelona/",
@@ -79,7 +220,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 11,
+      "page": 28,
       "title": "Caiguda global dels serveis de Microsoft, entre els quals Outlook i Teams",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/caiguda-mundial-microsoft/",
@@ -87,7 +228,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 12,
+      "page": 29,
       "title": "Microsoft no aconsegueix de resoldre una incidència mundial que afecta Outlook i més serveis",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/microsoft-incidencia-mundial-outlook/",
@@ -95,7 +236,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 13,
+      "page": 30,
       "title": "Rodalia torna a registrar retards generalitzats per una “incidència operativa”",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/rodalies-torna-a-registrar-retards-generalitzats-per-una-incidencia-operativa/",
@@ -103,7 +244,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 14,
+      "page": 31,
       "title": "Remei de Ca la Fresca, la banda que sona diferent de tota la resta",
       "source": "ARA",
       "articleUrl": "https://diumenge.ara.cat/diumenge/remei-ca-fresca-banda-sona-diferent-tota-resta_130_5898538.html",
@@ -111,7 +252,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 15,
+      "page": 32,
       "title": "Les portades del divendres 13 de novembre de 2026",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/les-portades-del-divendres-13-de-novembre-de-2026/",
@@ -119,7 +260,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 16,
+      "page": 33,
       "title": "Rosalía arrasa als Grammy Llatins amb \"Lux\" com a millor àlbum",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/rosalia-arrasa-als-grammy-llatins-amb-lux-com-a-millor-album/noticia/3439568/",
@@ -127,7 +268,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 17,
+      "page": 34,
       "title": "Microsoft no aconsegueix solucionar la caiguda global de Teams, Outlook i Copilot",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/tecnologia/microsoft-no-aconsegueix-solucionar-s-esperava-caiguda-global-dels-serveis_1_5909013.html",
@@ -135,7 +276,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 18,
+      "page": 35,
       "title": "Lluís Sans, sobre el canvi del passeig de Gràcia al llarg dels anys: “Als 50 era trist passejar-hi”",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/lluis-sans-canvi-passeig-gracia-anys-50-trist-passejar/",
@@ -143,7 +284,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 19,
+      "page": 36,
       "title": "Sostre Cívic: “Podem comprar edificis en dret de tempteig i retracte, però necessitem suport públic”",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/economia/sostre-civic-comprar-edificis-dret-tempteig-retracte-suport-public/",
@@ -151,7 +292,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 20,
+      "page": 37,
       "title": "\"Com podia continuar estimant la meva mare sense que ella em destruís?\"",
       "source": "ARA",
       "articleUrl": "https://llegim.ara.cat/reportatges/podia-continuar-estimant-meva-mare-em-destruis_128_5907143.html",
@@ -159,7 +300,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 21,
+      "page": 38,
       "title": "El debilitament del vòrtex polar i un riu atmosfèric, possibles senyals d’El Niño a Europa",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/medi-ambient/nino-efectes-europa-vortex-polar-riu-atmosferic-catalunya-2026/",
@@ -167,7 +308,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 22,
+      "page": 39,
       "title": "La Catalunya rural i l'àrea metropolitana, la cara i la creu del reciclatge: consulta les dades",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-catalunya-rural-i-larea-metropolitana-la-cara-i-la-creu-del-reciclatge-consulta-les-dades/noticia/3437478/",
@@ -180,7 +321,7 @@
       }
     },
     {
-      "page": 23,
+      "page": 40,
       "title": "La tempesta perfecta que dificulta la recollida de residu tèxtil: molta roba, menys qualitat i més costos",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-tempesta-perfecta-que-dificulta-la-recollida-de-residu-textil-molta-roba-menys-qualitat-i-mes-costos/noticia/3437783/",
@@ -193,7 +334,7 @@
       }
     },
     {
-      "page": 24,
+      "page": 41,
       "title": "Per què TikTok sap millor que tu mateix que t’agrada Jordi Wild o Vito Quiles?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/tiktok-millor-mateix-t-agrada-jordi-wild-vito-quiles_1_5905256.html",
@@ -201,7 +342,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 25,
+      "page": 42,
       "title": "Reconstrucció dels aldarulls de l’11-N: així va iniciar-los un grup d’anarquistes",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/successos/reconstruccio-dels-aldarulls-l-11-n-aixi-iniciar-grup-d-anarquistes_130_5908676.html",
@@ -209,7 +350,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 26,
+      "page": 43,
       "title": "Putin utilitza les converses de pau per revifar les aspiracions sobre l’Europa de l’Est",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/russia/putin-utilitza-converses-pau-revifar-aspiracions-l-europa-l-est_1_5908878.html",
@@ -217,7 +358,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 27,
+      "page": 44,
       "title": "Jordi Wild posa a prova el futur president d’Espanya",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/jordi-wild-posa-prova-futur-president-d-espanya_1_5908775.html",
@@ -225,7 +366,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 28,
+      "page": 45,
       "title": "Els taps de Cadaqués es tornaran a vendre a partir del gener",
       "source": "ARA",
       "articleUrl": "https://mengem.ara.cat/xefs/taps-cadaques-tornaran-vendre-partir-gener_1_5908490.html",
@@ -233,7 +374,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 29,
+      "page": 46,
       "title": "Johnny Depp busca la redempció",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/cinema/critiques/johnny-depp-scrooge-conte-nadal-dickens_1_5908109.html",
@@ -241,7 +382,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 30,
+      "page": 47,
       "title": "És fals que et puguin cobrar les urgències mèdiques si vas a una altra comunitat autònoma, com diu Vox",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/fals-et-puguin-cobrar-urgencies-mediques-vas-altra-comunitat-autonoma-diu-vox_1_5907928.html",
@@ -249,7 +390,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 31,
+      "page": 48,
       "title": "Una hora al dia de temps de qualitat en família",
       "source": "ARA",
       "articleUrl": "https://criatures.ara.cat/criatures/hora-dia-temps-qualitat-familia_129_5905164.html",
@@ -257,7 +398,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 32,
+      "page": 49,
       "title": "El nou repte de Kilian Jornet: cuidar els escenaris de la seva infància",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/atletisme/nou-repte-kilian-jornet-cuidar-escenaris-seva-infancia_130_5907912.html",
@@ -265,7 +406,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 33,
+      "page": 50,
       "title": "La mediocritat insidiosa",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/opinio/mediocritat-insidiosa_129_5907901.html",
@@ -273,7 +414,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 34,
+      "page": 51,
       "title": "Per a què serveixen les campanyes electorals? De mobilitzar el votant a la pesca d'indecisos",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/per-a-que-serveixen-les-campanyes-electorals-de-mobilitzar-el-votant-a-la-pesca-dindecisos/noticia/3439017/",
@@ -281,7 +422,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 35,
+      "page": 52,
       "title": "Rosalía triomfa als Grammy Llatins 2026: “Sé que tinc tot el que fa falta per ser la millor”",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/musica/rosalia-triomfa-als-latin-grammy-2026_1_5908962.html",
@@ -289,7 +430,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 36,
+      "page": 53,
       "title": "El Niño s’enforteix i el Meteocat detecta els primers indicis d’un possible impacte a Europa",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/nino-enforteix-meteocat-impacte-europa/",
@@ -297,7 +438,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 37,
+      "page": 54,
       "title": "Detectats els primers efectes del super-Niño a Catalunya",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/medi-ambient/detectats-primers-efectes-super-nino-catalunya_1_5908291.html",
@@ -305,7 +446,7 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "page": 38,
+      "page": 55,
       "title": "Tour ’26: Sexenni",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/musica-moderna/tour-26-sexenni/",
