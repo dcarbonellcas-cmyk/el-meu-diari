@@ -2,6 +2,28 @@
   "date": "2026-11-18",
   "items": [
     {
+      "source": "betevé",
+      "title": "TMB posa en marxa una prova pilot per a atendre persones amb TEA o amb hipersensibilitat sensorial",
+      "excerpt": "El Punt TMB de l’estació de metro de Sagrada Família de la Línia 5 ha iniciat una prova pilot d’hores tranquil·les per millorar l’atenció a les persones neurodivergents. La iniciativa vol oferir un entorn més accessible i confortable a les persones amb trastorn de l’espectre autista (TEA) o hipersensibilitat sensorial. La franja horària en què […]",
+      "url": "https://beteve.cat/societat/tmb-estrena-prova-pilot-persones-tea-hipersensibilitat-sensorial/",
+      "published": "2026-11-18T18:46:58+01:00",
+      "category": "diversitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/punt-tmb-181126-2026-11-18.jpg",
+      "tone": "good",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Barcelona cedeix cinc solars municipals per fer-hi 410 pisos protegits de lloguer assequible",
+      "excerpt": "La Comissió de Presidència d’aquest dimecres al matí ha aprovat cedir cinc solars municipals a la societat mixta Habitatge Metròpolis Barcelona (HMB) perquè hi construeixi 410 pisos protegits de lloguer assequible. Els terrenys se cedeixen en dret a superfície per a 75 anys i es troben en dos districtes de la ciutat: Sants-Montjuïc i Sant […]",
+      "url": "https://beteve.cat/politica/barcelona-cedeix-cinc-solars-municipals-410-pisos-protegits-lloguer-assequible/",
+      "published": "2026-11-18T14:51:44+01:00",
+      "category": "municipal",
+      "image": "https://img.beteve.cat/wp-content/uploads/2023/03/construccio-pisos-310323.jpg",
+      "tone": "good",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "Un incendi de vehicles a Massamagrell interromp durant mitja hora la circulació de Metrovalència",
       "excerpt": "El foc ha afectat tres cotxes en un aparcament situat al costat de l’estació i ha causat retards a les línies 3 i 9",
@@ -11,6 +33,22 @@
       "image": null,
       "tone": "bad",
       "priority": "1 · Urgent"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Denuncien clàusules abusives en lloguers assequibles al bloc Cosme Toda, a l'Hospitalet de Llobregat",
+      "excerpt": "Els veïns es queixen que el preu se'ls ha disparat perquè els cobren l'IBI, l'assegurança d'impagaments i la neteja de l'escala",
+      "url": "https://www.3cat.cat/3catinfo/denuncien-clausules-abusives-en-lloguers-assequibles-al-bloc-cosme-toda-a-lhospitalet-de-llobregat/noticia/3440650/",
+      "published": "2026-11-18T19:34:40+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/3/1795017168039.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437113/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/denuncien-clausules-abusives-en-lloguers-assequibles-al-bloc-cosme-toda-a-lhospitalet-de-llobregat/noticia/3440650/"
+      },
+      "tone": "bad",
+      "priority": "2 · Important"
     },
     {
       "source": "VilaWeb",
@@ -24,12 +62,45 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "betevé",
+      "title": "Males notícies per a l’Espanyol: lesió greu d’Àlex Calatrava",
+      "excerpt": "El jugador de l’Espanyol Àlex Calatrava s’ha trencat el lligament encreuat anterior del genoll esquerre. S’ha lesionat durant la sessió d’entrenament d’aquest dimecres al matí a la Ciutat Esportiva Dani Jarque. En els propers dies serà operat i, després, ja començarà el seu procés de recuperació. L’Espanyol ha comunicat la lesió d’Àlex Calatrava. S’ha lesionat […]",
+      "url": "https://beteve.cat/esports/males-noticies-espanyol-lesio-greu-alex-calatrava/",
+      "published": "2026-11-18T18:31:03+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/158263_backendGallery-2026-11-18.jpg",
+      "tone": "bad",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Més del 80% dels casos d’abús sexual infantil els comet un familiar o conegut de la víctima",
+      "excerpt": "La Fundació Vicki Bernadet alerta que el 90% de les víctimes no expliquen els abusos fins que no són adults · Presenta una exposició fotogràfica que vol conscienciar sobre la violència sexual amagada en entorns de confiança",
+      "url": "https://www.vilaweb.cat/noticies/mes-del-80-dels-abusos-sexuals-infantils-els-comet-un-familiar-o-conegut-de-la-victima/",
+      "published": "2026-11-18T17:40:07+01:00",
+      "category": "Societat",
+      "image": null,
+      "tone": "bad",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "VilaWeb",
       "title": "L’Audiència de Barcelona confirma la presó sota fiança per a Jonathan Andic, investigat per la mort del seu pare",
       "excerpt": "El tribunal manté les mesures cautelars imposades al fill del fundador de Mango, tot i admetre que la hipòtesi d’una caiguda accidental no es pot descartar",
       "url": "https://www.vilaweb.cat/noticies/audiencia-barcelona-confirma-preso-fianca-jonathan-andic-mort-pare/",
       "published": "2026-11-18T16:28:39+01:00",
       "category": "Policia i justícia",
+      "image": null,
+      "tone": "bad",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Quatre docents de cada deu de les EOI denuncien assetjament laboral, segons la Intersindical",
+      "excerpt": "L'informe posa l'accent en la manca de protocols i el suport insuficient del Departament d'Educació",
+      "url": "https://www.vilaweb.cat/noticies/quatre-cada-deu-docents-eoi-denuncien-assetjament-laboral-intersindical/",
+      "published": "2026-11-18T13:35:05+01:00",
+      "category": "Societat",
       "image": null,
       "tone": "bad",
       "priority": "3 · Altres notícies"
@@ -68,6 +139,17 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "ARA",
+      "title": "Canal Sur aparta l’humorista Manolo Sarria per una denúncia d’assetjament sexual",
+      "excerpt": "Canal Sur Televisión va suspendre dijous, de manera fulminant, l’emissió del concurs Atrápame si puedes, que presentava Manolo Sarria, després d’una denúncia per un presumpte delicte d’assetjament sexual contra l’humorista. Aquesta setmana, la cadena n’ha reprès l’emissió amb l’actor Antonio Garrido al capdavant.",
+      "url": "https://www.ara.cat/media/canal-sur-aparta-l-humorista-manolo-sarria-denuncia-d-assetjament-sexual_1_5914353.html",
+      "published": "2026-11-18T09:31:16+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/5ca2a9b1-847c-4c7e-bb46-bf5cb7607efd_16-9-aspect-ratio_default_0_x1724y1548.jpg",
+      "tone": "bad",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dijous: marxa el front i baixa poc la temperatura",
       "excerpt": "Força sol amb vent aponentat",
@@ -78,22 +160,6 @@
       "image": "https://img.3cat.cat/multimedia/jpg/2/9/1795011172992.jpg",
       "tone": "other",
       "priority": "2 · Important"
-    },
-    {
-      "source": "3CatInfo",
-      "title": "Denuncien clàusules abusives en lloguers assequibles al bloc Cosme Toda, a l'Hospitalet de Llobregat",
-      "excerpt": "Els veïns es queixen que el preu se'ls ha disparat perquè els cobren l'IBI, l'assegurança d'impagaments i la neteja de l'escala",
-      "url": "https://www.3cat.cat/3catinfo/denuncien-clausules-abusives-en-lloguers-assequibles-al-bloc-cosme-toda-a-lhospitalet-de-llobregat/noticia/3440650/",
-      "published": "2026-11-18T19:34:40+01:00",
-      "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/9/3/1795017168039.jpg",
-      "tone": "other",
-      "priority": "2 · Important",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6437113/embed/",
-        "source": "3CatInfo",
-        "articleUrl": "https://www.3cat.cat/3catinfo/denuncien-clausules-abusives-en-lloguers-assequibles-al-bloc-cosme-toda-a-lhospitalet-de-llobregat/noticia/3440650/"
-      }
     },
     {
       "source": "VilaWeb",
@@ -114,13 +180,13 @@
       "published": "2026-11-18T18:33:15+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/8/1/1795017584918.jpg",
-      "tone": "other",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6437139/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/de-microsoft-a-lagencia-nacional-de-seguretat-el-degoteig-dincidencies-informatiques-als-eua/noticia/3440592/"
-      }
+      },
+      "tone": "other",
+      "priority": "2 · Important"
     },
     {
       "source": "betevé",
@@ -207,13 +273,13 @@
       "published": "2026-11-18T10:56:47+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/5/7/1794990279075.jpg",
-      "tone": "other",
-      "priority": "2 · Important",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6437084/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/gabriel-rufian-erc-no-existeix-la-dreta-catalana-en-aquestes-eleccions/noticia/3440490/"
-      }
+      },
+      "tone": "other",
+      "priority": "2 · Important"
     },
     {
       "source": "ARA",
@@ -337,17 +403,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "TMB posa en marxa una prova pilot per a atendre persones amb TEA o amb hipersensibilitat sensorial",
-      "excerpt": "El Punt TMB de l’estació de metro de Sagrada Família de la Línia 5 ha iniciat una prova pilot d’hores tranquil·les per millorar l’atenció a les persones neurodivergents. La iniciativa vol oferir un entorn més accessible i confortable a les persones amb trastorn de l’espectre autista (TEA) o hipersensibilitat sensorial. La franja horària en què […]",
-      "url": "https://beteve.cat/societat/tmb-estrena-prova-pilot-persones-tea-hipersensibilitat-sensorial/",
-      "published": "2026-11-18T18:46:58+01:00",
-      "category": "diversitat",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/punt-tmb-181126-2026-11-18.jpg",
-      "tone": "other",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "ARA",
       "title": "Amaia Montero: “Soc humana i no em mereixo això”",
       "excerpt": "En una entrevista al programa Hoy por hoy de la Cadena Ser, conduït per Aimar Bretos, els components de la banda de La Oreja de Van Gogh han parlat de la pressió mediàtica arran del retorn de la cantant Amaia Montero als escenaris . Després de set anys apartada dels focus, la cantant basca ha reconegut el desgast emocional que li suposen les crítiques i la difusió de vídeos descontextualitzats dels seus directes. “Pateixo, soc humana i no em mereixo això, però el vertigen és…",
@@ -366,17 +421,6 @@
       "published": "2026-11-18T18:34:23+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/554f2e5e-24c2-46b8-9e73-106d20c2d71f_16-9-aspect-ratio_default_0_x3243y99.jpg",
-      "tone": "other",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "betevé",
-      "title": "Males notícies per a l’Espanyol: lesió greu d’Àlex Calatrava",
-      "excerpt": "El jugador de l’Espanyol Àlex Calatrava s’ha trencat el lligament encreuat anterior del genoll esquerre. S’ha lesionat durant la sessió d’entrenament d’aquest dimecres al matí a la Ciutat Esportiva Dani Jarque. En els propers dies serà operat i, després, ja començarà el seu procés de recuperació. L’Espanyol ha comunicat la lesió d’Àlex Calatrava. S’ha lesionat […]",
-      "url": "https://beteve.cat/esports/males-noticies-espanyol-lesio-greu-alex-calatrava/",
-      "published": "2026-11-18T18:31:03+01:00",
-      "category": "esports",
-      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/158263_backendGallery-2026-11-18.jpg",
       "tone": "other",
       "priority": "3 · Altres notícies"
     },
@@ -465,17 +509,6 @@
       "published": "2026-11-18T18:00:25+01:00",
       "category": "Actualitat",
       "image": "https://static1.ara.cat/clip/2f8fad86-3a58-4acd-815a-3debdf621c0d_1-1-aspect-ratio_default_1061682.jpg",
-      "tone": "other",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "VilaWeb",
-      "title": "Més del 80% dels casos d’abús sexual infantil els comet un familiar o conegut de la víctima",
-      "excerpt": "La Fundació Vicki Bernadet alerta que el 90% de les víctimes no expliquen els abusos fins que no són adults · Presenta una exposició fotogràfica que vol conscienciar sobre la violència sexual amagada en entorns de confiança",
-      "url": "https://www.vilaweb.cat/noticies/mes-del-80-dels-abusos-sexuals-infantils-els-comet-un-familiar-o-conegut-de-la-victima/",
-      "published": "2026-11-18T17:40:07+01:00",
-      "category": "Societat",
-      "image": null,
       "tone": "other",
       "priority": "3 · Altres notícies"
     },
@@ -711,17 +744,6 @@
       "priority": "3 · Altres notícies"
     },
     {
-      "source": "betevé",
-      "title": "Barcelona cedeix cinc solars municipals per fer-hi 410 pisos protegits de lloguer assequible",
-      "excerpt": "La Comissió de Presidència d’aquest dimecres al matí ha aprovat cedir cinc solars municipals a la societat mixta Habitatge Metròpolis Barcelona (HMB) perquè hi construeixi 410 pisos protegits de lloguer assequible. Els terrenys se cedeixen en dret a superfície per a 75 anys i es troben en dos districtes de la ciutat: Sants-Montjuïc i Sant […]",
-      "url": "https://beteve.cat/politica/barcelona-cedeix-cinc-solars-municipals-410-pisos-protegits-lloguer-assequible/",
-      "published": "2026-11-18T14:51:44+01:00",
-      "category": "municipal",
-      "image": "https://img.beteve.cat/wp-content/uploads/2023/03/construccio-pisos-310323.jpg",
-      "tone": "other",
-      "priority": "3 · Altres notícies"
-    },
-    {
       "source": "ARA",
       "title": "Fracassa l’últim intent de frenar la connexió del tramvia per la Diagonal",
       "excerpt": "En les darreres setmanes, a Barcelona ha ressuscitat un dels debats que fa més temps que acompanyen la capital catalana: la connexió del tramvia per la Diagonal. Aquest dimecres l’oposició a l’enllaç dels dos trams ha portat el seu rebuig a l’Ajuntament. De la mà del PP, la comissió única ha debatut una proposició que demanava frenar la licitació de les obres per tirar endavant la unió del Trambaix i el Trambesòs. Una iniciativa que no ha prosperat.",
@@ -904,17 +926,6 @@
       "url": "https://www.vilaweb.cat/noticies/la-junta-electoral-expedienta-el-portaveu-del-consell-per-vulnerar-la-llei-i-fer-propaganda-del-pp-en-a-punt/",
       "published": "2026-11-18T13:36:42+01:00",
       "category": "País Valencià",
-      "image": null,
-      "tone": "other",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "VilaWeb",
-      "title": "Quatre docents de cada deu de les EOI denuncien assetjament laboral, segons la Intersindical",
-      "excerpt": "L'informe posa l'accent en la manca de protocols i el suport insuficient del Departament d'Educació",
-      "url": "https://www.vilaweb.cat/noticies/quatre-cada-deu-docents-eoi-denuncien-assetjament-laboral-intersindical/",
-      "published": "2026-11-18T13:35:05+01:00",
-      "category": "Societat",
       "image": null,
       "tone": "other",
       "priority": "3 · Altres notícies"
@@ -1108,17 +1119,6 @@
     },
     {
       "source": "ARA",
-      "title": "Canal Sur aparta l’humorista Manolo Sarria per una denúncia d’assetjament sexual",
-      "excerpt": "Canal Sur Televisión va suspendre dijous, de manera fulminant, l’emissió del concurs Atrápame si puedes, que presentava Manolo Sarria, després d’una denúncia per un presumpte delicte d’assetjament sexual contra l’humorista. Aquesta setmana, la cadena n’ha reprès l’emissió amb l’actor Antonio Garrido al capdavant.",
-      "url": "https://www.ara.cat/media/canal-sur-aparta-l-humorista-manolo-sarria-denuncia-d-assetjament-sexual_1_5914353.html",
-      "published": "2026-11-18T09:31:16+01:00",
-      "category": "Actualitat",
-      "image": "https://static1.ara.cat/clip/5ca2a9b1-847c-4c7e-bb46-bf5cb7607efd_16-9-aspect-ratio_default_0_x1724y1548.jpg",
-      "tone": "other",
-      "priority": "3 · Altres notícies"
-    },
-    {
-      "source": "ARA",
       "title": "Entre persianes",
       "excerpt": "Mentre trobar un habitatge digne s’ha convertit en una de les principals preocupacions socials, baixos comercials buits i locals en desús obren el debat sobre possibles alternatives residencials. La reconversió d’aquests espais en habitatges és una de les propostes que guanyen força enmig d’una crisi que no sembla tenir una solució fàcil. La mobilització de l’11-N torna a posar de manifest la necessitat de repensar el model d’accés a l’habitatge i de garantir que aquest dret no es converteixi en un privilegi.",
       "url": "https://www.ara.cat/campdetarragona/persianes_1_5911291.html",
@@ -1268,13 +1268,13 @@
       "published": "2026-11-18T07:43:48+01:00",
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/4/1/1793104088214.jpg",
-      "tone": "other",
-      "priority": "3 · Altres notícies",
       "video": {
         "url": "https://www.3cat.cat/3cat/video/6435791/embed/",
         "source": "3CatInfo",
         "articleUrl": "https://www.3cat.cat/3catinfo/barcelona-retirara-3500-bicicletes-compartides-privades-per-un-mal-us-de-lespai-public/noticia/3436358/"
-      }
+      },
+      "tone": "other",
+      "priority": "3 · Altres notícies"
     },
     {
       "source": "ARA",

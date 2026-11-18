@@ -3,6 +3,24 @@
   "pages": [
     {
       "page": 2,
+      "title": "TMB posa en marxa una prova pilot per a atendre persones amb TEA o amb hipersensibilitat sensorial",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/societat/tmb-estrena-prova-pilot-persones-tea-hipersensibilitat-sensorial/",
+      "published": "2026-11-18T18:46:58+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "good"
+    },
+    {
+      "page": 3,
+      "title": "Barcelona cedeix cinc solars municipals per fer-hi 410 pisos protegits de lloguer assequible",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/politica/barcelona-cedeix-cinc-solars-municipals-410-pisos-protegits-lloguer-assequible/",
+      "published": "2026-11-18T14:51:44+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "good"
+    },
+    {
+      "page": 4,
       "title": "Un incendi de vehicles a Massamagrell interromp durant mitja hora la circulació de Metrovalència",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/incendi-cotxes-massamagrell-interromp-metrovalencia-linies-3-9/",
@@ -11,7 +29,21 @@
       "tone": "bad"
     },
     {
-      "page": 3,
+      "page": 5,
+      "title": "Denuncien clàusules abusives en lloguers assequibles al bloc Cosme Toda, a l'Hospitalet de Llobregat",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/denuncien-clausules-abusives-en-lloguers-assequibles-al-bloc-cosme-toda-a-lhospitalet-de-llobregat/noticia/3440650/",
+      "published": "2026-11-18T19:34:40+01:00",
+      "priority": "2 · Important",
+      "tone": "bad",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437113/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/denuncien-clausules-abusives-en-lloguers-assequibles-al-bloc-cosme-toda-a-lhospitalet-de-llobregat/noticia/3440650/"
+      }
+    },
+    {
+      "page": 6,
       "title": "El Bisbat d’Urgell obre un procés judicial canònic contra el capellà acusat de violació",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/bisbat-urgell-proces-judicial-canonic-capella-acusat-violacio/",
@@ -20,7 +52,25 @@
       "tone": "bad"
     },
     {
-      "page": 4,
+      "page": 7,
+      "title": "Males notícies per a l’Espanyol: lesió greu d’Àlex Calatrava",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/esports/males-noticies-espanyol-lesio-greu-alex-calatrava/",
+      "published": "2026-11-18T18:31:03+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "bad"
+    },
+    {
+      "page": 8,
+      "title": "Més del 80% dels casos d’abús sexual infantil els comet un familiar o conegut de la víctima",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/mes-del-80-dels-abusos-sexuals-infantils-els-comet-un-familiar-o-conegut-de-la-victima/",
+      "published": "2026-11-18T17:40:07+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "bad"
+    },
+    {
+      "page": 9,
       "title": "L’Audiència de Barcelona confirma la presó sota fiança per a Jonathan Andic, investigat per la mort del seu pare",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/audiencia-barcelona-confirma-preso-fianca-jonathan-andic-mort-pare/",
@@ -29,7 +79,16 @@
       "tone": "bad"
     },
     {
-      "page": 5,
+      "page": 10,
+      "title": "Quatre docents de cada deu de les EOI denuncien assetjament laboral, segons la Intersindical",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/quatre-cada-deu-docents-eoi-denuncien-assetjament-laboral-intersindical/",
+      "published": "2026-11-18T13:35:05+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "bad"
+    },
+    {
+      "page": 11,
       "title": "L’Audiència Nacional admet la denúncia contra Julio Iglesias per agressió sexual",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/gent/famosos/l-audiencia-nacional-admet-denuncia-julio-iglesias-agressio-sexual_1_5914644.html",
@@ -38,7 +97,7 @@
       "tone": "bad"
     },
     {
-      "page": 6,
+      "page": 12,
       "title": "L'Audiència Nacional investiga Julio Iglesias per agressió sexual",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/laudiencia-nacional-investiga-julio-iglesias-per-agressio-sexual/noticia/3440563/",
@@ -47,7 +106,7 @@
       "tone": "bad"
     },
     {
-      "page": 7,
+      "page": 13,
       "title": "S’ha mort Enrique Lemus, el fundador del grup neonazi Núcleo Nacional, després de tenir un infart",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/mort-enrique-lemus-fundador-grup-neonazi-nucleo-nacional-despres-sofrir-infart/",
@@ -56,7 +115,16 @@
       "tone": "bad"
     },
     {
-      "page": 8,
+      "page": 14,
+      "title": "Canal Sur aparta l’humorista Manolo Sarria per una denúncia d’assetjament sexual",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/media/canal-sur-aparta-l-humorista-manolo-sarria-denuncia-d-assetjament-sexual_1_5914353.html",
+      "published": "2026-11-18T09:31:16+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "bad"
+    },
+    {
+      "page": 15,
       "title": "La previsió de dijous: marxa el front i baixa poc la temperatura",
       "source": "3CatInfo · El temps",
       "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-marxa-el-front-i-baixa-poc-la-temperatura/noticia/3440630/",
@@ -65,21 +133,7 @@
       "tone": "other"
     },
     {
-      "page": 9,
-      "title": "Denuncien clàusules abusives en lloguers assequibles al bloc Cosme Toda, a l'Hospitalet de Llobregat",
-      "source": "3CatInfo",
-      "articleUrl": "https://www.3cat.cat/3catinfo/denuncien-clausules-abusives-en-lloguers-assequibles-al-bloc-cosme-toda-a-lhospitalet-de-llobregat/noticia/3440650/",
-      "published": "2026-11-18T19:34:40+01:00",
-      "priority": "2 · Important",
-      "tone": "other",
-      "video": {
-        "url": "https://www.3cat.cat/3cat/video/6437113/embed/",
-        "source": "3CatInfo",
-        "articleUrl": "https://www.3cat.cat/3catinfo/denuncien-clausules-abusives-en-lloguers-assequibles-al-bloc-cosme-toda-a-lhospitalet-de-llobregat/noticia/3440650/"
-      }
-    },
-    {
-      "page": 10,
+      "page": 16,
       "title": "[DADES] Qui guanyarà les eleccions espanyoles del 29 de novembre segons les enquestes?",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/dades-resultat-preveuen-enquestes-eleccions-espanyoles-29-n/",
@@ -88,7 +142,7 @@
       "tone": "other"
     },
     {
-      "page": 11,
+      "page": 17,
       "title": "De Microsoft a l'Agència Nacional de Seguretat: el degoteig d'incidències informàtiques als EUA",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/de-microsoft-a-lagencia-nacional-de-seguretat-el-degoteig-dincidencies-informatiques-als-eua/noticia/3440592/",
@@ -102,7 +156,7 @@
       }
     },
     {
-      "page": 12,
+      "page": 18,
       "title": "29-N: drets socials, salaris i Rufián, protagonistes del dia 6 de campanya",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/politica/drets-socials-salaris-rufian-centren-dia-6-campanya-eleccions-generals-2026/",
@@ -111,7 +165,7 @@
       "tone": "other"
     },
     {
-      "page": 13,
+      "page": 19,
       "title": "El sindicat de maquinistes manté la vaga del 23 de novembre a RENFE, malgrat l’acord amb la resta de sindicats",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/semaf-mante-vaga-renfe-23-novembre-acord-sindicats/",
@@ -120,7 +174,7 @@
       "tone": "other"
     },
     {
-      "page": 14,
+      "page": 20,
       "title": "Nogueras qualifica de “tripartit reciclat” la proposta de govern de concentració de Rufián",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/nogueras-tripartit-reciclat-govern-concentracio-rufian/",
@@ -129,7 +183,7 @@
       "tone": "other"
     },
     {
-      "page": 15,
+      "page": 21,
       "title": "El Tribunal de Comptes investiga el germà de Sánchez pels sous que va cobrar de la Diputació de Badajoz",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/el-tribunal-de-comptes-investiga-el-germa-de-sanchez-pels-sous-que-va-cobrar-de-la-diputacio-de-badajoz/noticia/3440538/",
@@ -138,7 +192,7 @@
       "tone": "other"
     },
     {
-      "page": 16,
+      "page": 22,
       "title": "Rufián desafia Junts a deixar per escrit que no votarà amb el PP i Vox al congrés espanyol",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/rufian-desafia-junts-deixar-escrit-no-votara-el-pp-vox-congres-espanyol/",
@@ -147,7 +201,7 @@
       "tone": "other"
     },
     {
-      "page": 17,
+      "page": 23,
       "title": "El Tribunal Suprem espanyol confirma la pena de cinc anys de presó per a Alfonso Rus i Marcos Benavent",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/el-tribunal-suprem-espanyol-confirma-la-pena-de-cinc-anys-de-preso-per-a-alfonso-rus-i-marcos-benavent/",
@@ -156,7 +210,7 @@
       "tone": "other"
     },
     {
-      "page": 18,
+      "page": 24,
       "title": "Les empreses familiars posen deures als partits en habitatge, educació, pensions i competitivitat",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/patronals/empreses-familiars-cal-debat-rigoros-habitatge-educacio-pensions-competitivitat_1_5914493.html",
@@ -165,7 +219,7 @@
       "tone": "other"
     },
     {
-      "page": 19,
+      "page": 25,
       "title": "Gabriel Rufián (ERC): \"No existeix la dreta catalana en aquestes eleccions\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/gabriel-rufian-erc-no-existeix-la-dreta-catalana-en-aquestes-eleccions/noticia/3440490/",
@@ -179,7 +233,7 @@
       }
     },
     {
-      "page": 20,
+      "page": 26,
       "title": "No hi seràs el 29 de novembre? T'expliquem com votar per correu a les eleccions generals",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/no-hi-seras-29-novembre-t-expliquem-votar-correu-eleccions-generals_1_5898614.html",
@@ -188,7 +242,7 @@
       "tone": "other"
     },
     {
-      "page": 21,
+      "page": 27,
       "title": "La mala educació",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/campdetarragona/mala-educacio_129_5910554.html",
@@ -197,7 +251,7 @@
       "tone": "other"
     },
     {
-      "page": 22,
+      "page": 28,
       "title": "Rodalies arrenca l'endemà de la vaga amb alguns retards i amb 9 de cada 10 trens circulant",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/rodalies-alerta-de-possibles-retards-i-falta-de-trens-a-causa-de-la-vaga-dahir/noticia/3440474/",
@@ -206,7 +260,7 @@
       "tone": "other"
     },
     {
-      "page": 23,
+      "page": 29,
       "title": "Catalunya es prepara per ser la resistència a un govern espanyol de PP i Vox",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/catalunya-prepara-resistencia-govern-espanyol-pp-vox_1_5910555.html",
@@ -215,7 +269,7 @@
       "tone": "other"
     },
     {
-      "page": 24,
+      "page": 30,
       "title": "L’Arxiu Fotogràfic de Barcelona reivindica la mirada de Marta Povo",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/cultura/arxiu-fotografic-barcelona-marta-povo/",
@@ -224,7 +278,7 @@
       "tone": "other"
     },
     {
-      "page": 25,
+      "page": 31,
       "title": "Alguna intolerància?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/opinio/intolerancia_129_5915039.html",
@@ -233,7 +287,7 @@
       "tone": "other"
     },
     {
-      "page": 26,
+      "page": 32,
       "title": "Andrés Herrera i Meritxell Huertas",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/amb-cita-previa/andres-herrera-i-meritxell-huertas/",
@@ -242,7 +296,7 @@
       "tone": "other"
     },
     {
-      "page": 27,
+      "page": 33,
       "title": "La tornada a casa, a betevé: el Sant Andreu – Atlètic de Madrid B del Narcís Sala, en directe",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/beteve-directe-sant-andreu-atletic-madrid-narcis-sala/",
@@ -251,7 +305,7 @@
       "tone": "other"
     },
     {
-      "page": 28,
+      "page": 34,
       "title": "A la contra",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/vinyetes/ferreres-19-11-2026_134_5914909.html",
@@ -260,7 +314,7 @@
       "tone": "other"
     },
     {
-      "page": 29,
+      "page": 35,
       "title": "De fit a fit",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/vinyetes/fit-fit-19-11-2026_134_5914606.html",
@@ -269,7 +323,7 @@
       "tone": "other"
     },
     {
-      "page": 30,
+      "page": 36,
       "title": "À Punt insisteix en un format fracassat i en castellà: emetrà ‘Sopa de letras Celebrity’",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/apunt-recupera-sopa-de-letras-castella-christian-galvez/",
@@ -278,16 +332,7 @@
       "tone": "other"
     },
     {
-      "page": 31,
-      "title": "TMB posa en marxa una prova pilot per a atendre persones amb TEA o amb hipersensibilitat sensorial",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/societat/tmb-estrena-prova-pilot-persones-tea-hipersensibilitat-sensorial/",
-      "published": "2026-11-18T18:46:58+01:00",
-      "priority": "3 · Altres notícies",
-      "tone": "other"
-    },
-    {
-      "page": 32,
+      "page": 37,
       "title": "Amaia Montero: “Soc humana i no em mereixo això”",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/gent/musics/amaia-montero-humana-no-em-mereixo-aixo_1_5914970.html",
@@ -296,7 +341,7 @@
       "tone": "other"
     },
     {
-      "page": 33,
+      "page": 38,
       "title": "El gran misteri de Jan Van Eyck, retrat a retrat, a la National Gallery de Londres",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/art/gran-misteri-jan-eyck-retrat-retrat-national-gallery-londres_1_5913598.html",
@@ -305,16 +350,7 @@
       "tone": "other"
     },
     {
-      "page": 34,
-      "title": "Males notícies per a l’Espanyol: lesió greu d’Àlex Calatrava",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/esports/males-noticies-espanyol-lesio-greu-alex-calatrava/",
-      "published": "2026-11-18T18:31:03+01:00",
-      "priority": "3 · Altres notícies",
-      "tone": "other"
-    },
-    {
-      "page": 35,
+      "page": 39,
       "title": "Jungle, Jorge Drexler, Kneecap o Ezra Collective, entre els primers noms del Cruïlla 2027",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/jungle-jorge-drexler-kneecap-o-ezra-collective-entre-els-primers-noms-del-cruilla-2027/noticia/3440590/",
@@ -323,7 +359,7 @@
       "tone": "other"
     },
     {
-      "page": 36,
+      "page": 40,
       "title": "Xi i Putin exhibeixen bona sintonia abans de la reunió trilateral amb Trump",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/asia/xi-putin-exhibeixen-bona-sintonia-reunio-trilateral-trump_1_5914967.html",
@@ -332,7 +368,7 @@
       "tone": "other"
     },
     {
-      "page": 37,
+      "page": 41,
       "title": "Un missatge de WhatsApp instava els maquinistes de RENFE a eliminar el correu corporatiu per no rebre els serveis mínims",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/whatsapp-maquinistes-renfe-eliminar-correu-serveis-minims-vaga/",
@@ -341,7 +377,7 @@
       "tone": "other"
     },
     {
-      "page": 38,
+      "page": 42,
       "title": "La Sindicatura de Greuges denuncia que els lavabos de les escoles de Barcelona són tan bruts que alguns alumnes eviten d’anar-hi",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/lavabos-escoles-barcelona-bruts-alumnes-sindicatura-greuges/",
@@ -350,7 +386,7 @@
       "tone": "other"
     },
     {
-      "page": 39,
+      "page": 43,
       "title": "El 29-N, la violència masclista i la immigració",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/opinio/29-n-violencia-masclista-immigracio_129_5914801.html",
@@ -359,7 +395,7 @@
       "tone": "other"
     },
     {
-      "page": 40,
+      "page": 44,
       "title": "La devastació nacional",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/opinio/devastacio-nacional_129_5912059.html",
@@ -368,7 +404,7 @@
       "tone": "other"
     },
     {
-      "page": 41,
+      "page": 45,
       "title": "El somni complert del fill de Nani Roma",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/esports/motor/dakar/somni-complert-fill-nani-roma_1_5914460.html",
@@ -377,7 +413,7 @@
       "tone": "other"
     },
     {
-      "page": 42,
+      "page": 46,
       "title": "“La foto del nen africà famèlic, amb els mocs i les mosques ja no funciona”",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/media/foto-nen-africa-famelic-mocs-mosques-ja-no-funciona_128_5914459.html",
@@ -386,16 +422,7 @@
       "tone": "other"
     },
     {
-      "page": 43,
-      "title": "Més del 80% dels casos d’abús sexual infantil els comet un familiar o conegut de la víctima",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/mes-del-80-dels-abusos-sexuals-infantils-els-comet-un-familiar-o-conegut-de-la-victima/",
-      "published": "2026-11-18T17:40:07+01:00",
-      "priority": "3 · Altres notícies",
-      "tone": "other"
-    },
-    {
-      "page": 44,
+      "page": 47,
       "title": "Estopa fa un concert sorpresa al Parc d’Atraccions del Tibidabo",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/cultura/estopa-concert-sorpresa-tibidabo/",
@@ -404,7 +431,7 @@
       "tone": "other"
     },
     {
-      "page": 45,
+      "page": 48,
       "title": "El director de Ciberseguretat d’Andorra diu que canviar tots els NIA no és cap solució al ciberatac a la CASS",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/ciberseguretat-andorra-canviar-nia-ciberatac-cass/",
@@ -413,7 +440,7 @@
       "tone": "other"
     },
     {
-      "page": 46,
+      "page": 49,
       "title": "Front de ruixats de nit i fortes ventades després",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/previsions/front-ruixats-nit-fortes-ventades-despres_1_5914923.html",
@@ -422,7 +449,7 @@
       "tone": "other"
     },
     {
-      "page": 47,
+      "page": 50,
       "title": "La jutgessa de la gota freda cita a declarar treballadors d’Emergències, À Punt i FGV",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/jutgessa-gota-freda-cita-declarar-emergencies-apunt-fgv/",
@@ -431,7 +458,7 @@
       "tone": "other"
     },
     {
-      "page": 48,
+      "page": 51,
       "title": "La porteria",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/la-porteria/la-porteria-1932/",
@@ -440,7 +467,7 @@
       "tone": "other"
     },
     {
-      "page": 49,
+      "page": 52,
       "title": "L’Audiència de Barcelona avala les mesures cautelars contra Jonathan Andic",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/successos/l-audiencia-barcelona-avala-mesures-cautelars-jonathan-andic_1_5914966.html",
@@ -449,7 +476,7 @@
       "tone": "other"
     },
     {
-      "page": 50,
+      "page": 53,
       "title": "Trump, Xi Jinping i Putin es reuneixen en una cimera històrica a la Xina",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/trump-xi-jinping-putin-cimera-historica-xina-armes-nuclears/",
@@ -458,7 +485,7 @@
       "tone": "other"
     },
     {
-      "page": 51,
+      "page": 54,
       "title": "Què representa ser gironí?",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/opinio/que-representa-ser-gironi_129_5914712.html",
@@ -467,7 +494,7 @@
       "tone": "other"
     },
     {
-      "page": 52,
+      "page": 55,
       "title": "Socialistes i populars reclamen la concentració del vot per no dependre d'altres partits",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/socialistes-i-populars-reclamen-la-concentracio-del-vot-per-no-dependre-daltres-partits/noticia/3440527/",
@@ -476,7 +503,7 @@
       "tone": "other"
     },
     {
-      "page": 53,
+      "page": 56,
       "title": "betevé notícies migdia",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/btv-noticies-migdia/beteve-noticies-migdia-767/",
@@ -485,7 +512,7 @@
       "tone": "other"
     },
     {
-      "page": 54,
+      "page": 57,
       "title": "Un grup d’indígenes aïllats contacten amb el món exterior per demanar menjar",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/grup-d-indigenes-aillats-contacten-mon-exterior-demanar-menjar_1_5914818.html",
@@ -494,7 +521,7 @@
       "tone": "other"
     },
     {
-      "page": 55,
+      "page": 58,
       "title": "Clam de Foment davant la hiperregulació a l’agroalimentació: “La burocràcia no pot frenar la competitivitat”",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/alimentacio/clam-foment-davant-hiperregulacio-l-agroalimentacio-burocracia-no-pot-frenar-competitivitat_1_5914794.html",
@@ -503,7 +530,7 @@
       "tone": "other"
     },
     {
-      "page": 56,
+      "page": 59,
       "title": "La Junta Electoral desestima la denúncia d’Ara Més-Front Ampli contra IB3 per una entrevista a Vox",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/junta-electoral-desestima-denuncia-ara-mes-front-ampli-ib3-vox/",
@@ -512,7 +539,7 @@
       "tone": "other"
     },
     {
-      "page": 57,
+      "page": 60,
       "title": "Què fer amb nens a Barcelona? Activitats i plans en família",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/que-fer-amb-nens-a-barcelona/",
@@ -521,7 +548,7 @@
       "tone": "other"
     },
     {
-      "page": 58,
+      "page": 61,
       "title": "Llum verda al planejament urbanístic per a la gigafactoria de Móra la Nova",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/tecnologia/llum-verda-planejament-urbanistic-gigafactoria-mora-nova_1_5914707.html",
@@ -530,7 +557,7 @@
       "tone": "other"
     },
     {
-      "page": 59,
+      "page": 62,
       "title": "Què fer a Barcelona? Agenda d’activitats actualitzada per a avui, demà i més dies",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/que-fer-a-barcelona/",
@@ -539,7 +566,7 @@
       "tone": "other"
     },
     {
-      "page": 60,
+      "page": 63,
       "title": "Així surt Catalunya al videojoc més esperat de la història",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/media/videojocs/aixi-surt-catalunya-videojoc-mes-esperat-historia_1_5914637.html",
@@ -548,7 +575,7 @@
       "tone": "other"
     },
     {
-      "page": 61,
+      "page": 64,
       "title": "Manga Barcelona 2026: Dates, entrades i programa del saló al recinte firal de Gran Via",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/programa-salo-manga-barcelona/",
@@ -557,7 +584,7 @@
       "tone": "other"
     },
     {
-      "page": 62,
+      "page": 65,
       "title": "Les sol·licituds d’eutanàsia creixen un 30% a l’Estat",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/salut/sol-licituds-d-eutanasia-creixen-30-l_1_5914575.html",
@@ -566,7 +593,7 @@
       "tone": "other"
     },
     {
-      "page": 63,
+      "page": 66,
       "title": "Conflicte ferroviari: l’acord de Cuerpo amb els sindicats no convenç els maquinistes",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/mobilitat/conflicte-ferroviari-l-acord-cuerpo-sindicats-no-convenc-maquinistes_1_5914634.html",
@@ -575,7 +602,7 @@
       "tone": "other"
     },
     {
-      "page": 64,
+      "page": 67,
       "title": "Ara Més-Front Ampli i el PSIB denuncien Cort per haver eliminat els espais gratuïts de propaganda electoral",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/ara-mes-front-ampli-i-el-psib-denuncien-cort-per-haver-eliminat-els-espais-gratuits-de-propaganda-electoral/",
@@ -584,16 +611,7 @@
       "tone": "other"
     },
     {
-      "page": 65,
-      "title": "Barcelona cedeix cinc solars municipals per fer-hi 410 pisos protegits de lloguer assequible",
-      "source": "betevé",
-      "articleUrl": "https://beteve.cat/politica/barcelona-cedeix-cinc-solars-municipals-410-pisos-protegits-lloguer-assequible/",
-      "published": "2026-11-18T14:51:44+01:00",
-      "priority": "3 · Altres notícies",
-      "tone": "other"
-    },
-    {
-      "page": 66,
+      "page": 68,
       "title": "Fracassa l’últim intent de frenar la connexió del tramvia per la Diagonal",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/barcelona/fracassa-l-ultim-intent-frenar-connexio-tramvia-diagonal_1_5914696.html",
@@ -602,7 +620,7 @@
       "tone": "other"
     },
     {
-      "page": 67,
+      "page": 69,
       "title": "Pessebres vivents a Barcelona 2026: dates a la Marina, torre del Suro, Torre Baró i més propostes",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/agenda/pessebre-vivent-barcelona/",
@@ -611,7 +629,7 @@
       "tone": "other"
     },
     {
-      "page": 68,
+      "page": 70,
       "title": "Eder Sarabia debutarà a la banqueta amb l’Espanyol a San Mamés: “És un partit especial”",
       "source": "betevé",
       "articleUrl": "https://beteve.cat/esports/eder-sabaria-previa-debut-banqueta-espanyol/",
@@ -620,7 +638,7 @@
       "tone": "other"
     },
     {
-      "page": 69,
+      "page": 71,
       "title": "Un satèl·lit català, pioner a Europa a establir una connexió 5G des de l'espai per escenaris de crisi",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/un-satellit-catala-pioner-a-europa-a-establir-una-connexio-5g-des-de-lespai-per-escenaris-de-crisi/noticia/3440526/",
@@ -629,7 +647,7 @@
       "tone": "other"
     },
     {
-      "page": 70,
+      "page": 72,
       "title": "Responsables de Rodalia i sindicats ferroviaris es reuneixen amb Protecció Civil amb l’absència del SEMAF",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/responsables-rodalia-sindicats-ferroviaris-reuneixen-proteccio-civil-absencia-semaf/",
@@ -638,7 +656,7 @@
       "tone": "other"
     },
     {
-      "page": 71,
+      "page": 73,
       "title": "L’entrevista al ‘Lecturas’ i les preguntes sense vetar",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/media/l-entrevista-lecturas-preguntes-vetar_129_5914709.html",
@@ -647,7 +665,7 @@
       "tone": "other"
     },
     {
-      "page": 72,
+      "page": 74,
       "title": "L'Audiència Nacional condemna l'exalcalde de l'Ametlla de Mar a prop de dos anys de presó pel cas Efial",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/laudiencia-nacional-condemna-lexalcalde-de-lametlla-de-mar-a-prop-de-dos-anys-de-preso-pel-cas-efial/noticia/3440547/",
@@ -656,7 +674,7 @@
       "tone": "other"
     },
     {
-      "page": 73,
+      "page": 75,
       "title": "El BCE alerta de riscos “sistèmics” sobre l’estabilitat financera per una sobrevaloració de la IA",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/banca/bce-alerta-riscos-sistemics-l-estabilitat-financera-sobrevaloracio-ia_1_5914632.html",
@@ -665,7 +683,7 @@
       "tone": "other"
     },
     {
-      "page": 74,
+      "page": 76,
       "title": "Es redueix un 8% el consum d'antibiòtics: \"Hem de matar els bacteris amb dards, no amb bombes\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/es-redueix-un-8-el-consum-dantibiotics-hem-de-matar-els-bacteris-amb-dards-no-amb-bombes/noticia/3440528/",
@@ -674,7 +692,7 @@
       "tone": "other"
     },
     {
-      "page": 75,
+      "page": 77,
       "title": "La nova proposta d’ajuda a Ucraïna enfronta Merz amb quatre socis europeus",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/internacional/europa/nova-proposta-d-ajuda-ucraina-enfronta-merz-quatre-socis-europeus_1_5914611.html",
@@ -683,7 +701,7 @@
       "tone": "other"
     },
     {
-      "page": 76,
+      "page": 78,
       "title": "Els naixements a l’Estat creixen per primer cop en una dècada",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/naixements-l-creixen-cop-decada_1_5914536.html",
@@ -692,7 +710,7 @@
       "tone": "other"
     },
     {
-      "page": 77,
+      "page": 79,
       "title": "David Minoves es desmarca de Rufián pel retorn de Puigdemont: “Jo el rebré”",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/david-minoves-desmarca-rufian-retorn-puigdemont/",
@@ -701,7 +719,7 @@
       "tone": "other"
     },
     {
-      "page": 78,
+      "page": 80,
       "title": "L’arquitectura contemporània reclama el seu lloc al patrimoni",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/arquitectura/l-arquitectura-contemporania-reclama-lloc-patrimoni_1_5911158.html",
@@ -710,7 +728,7 @@
       "tone": "other"
     },
     {
-      "page": 79,
+      "page": 81,
       "title": "Un fàrmac català per prevenir infeccions a les UCI: \"És un dels grans reptes de la medicina actual\"",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/un-farmac-catala-per-prevenir-infeccions-a-les-uci-es-un-dels-grans-reptes-de-la-medicina-actual/noticia/3430718/",
@@ -719,7 +737,7 @@
       "tone": "other"
     },
     {
-      "page": 80,
+      "page": 82,
       "title": "Collita negra de fesol de Santa Pau: “És més difícil que ens surtin fesols que no pas que ens toqui la loteria”",
       "source": "ARA",
       "articleUrl": "https://mengem.ara.cat/mengem/collita-negra-fesol-santa-pau-caviar-garrotxa_1_5913021.html",
@@ -728,7 +746,7 @@
       "tone": "other"
     },
     {
-      "page": 81,
+      "page": 83,
       "title": "El passeig de Gràcia repeteix com el carrer comercial més car de l’Estat",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/economia/immobiliari/passeig-gracia-repeteix-carrer-comercial-mes-car-l_1_5914654.html",
@@ -737,7 +755,7 @@
       "tone": "other"
     },
     {
-      "page": 82,
+      "page": 84,
       "title": "La Junta Electoral expedienta el portaveu del Consell per haver vulnerat la llei i haver fet propaganda del PP en À Punt",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/la-junta-electoral-expedienta-el-portaveu-del-consell-per-vulnerar-la-llei-i-fer-propaganda-del-pp-en-a-punt/",
@@ -746,16 +764,7 @@
       "tone": "other"
     },
     {
-      "page": 83,
-      "title": "Quatre docents de cada deu de les EOI denuncien assetjament laboral, segons la Intersindical",
-      "source": "VilaWeb",
-      "articleUrl": "https://www.vilaweb.cat/noticies/quatre-cada-deu-docents-eoi-denuncien-assetjament-laboral-intersindical/",
-      "published": "2026-11-18T13:35:05+01:00",
-      "priority": "3 · Altres notícies",
-      "tone": "other"
-    },
-    {
-      "page": 84,
+      "page": 85,
       "title": "La Canya, la mascota del Girona, també ho serà de les Seleccions Catalanes Absolutes",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/canya-mascota-girona-seleccions-catalanes-absolutes/",
@@ -764,7 +773,7 @@
       "tone": "other"
     },
     {
-      "page": 85,
+      "page": 86,
       "title": "Vertigen",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/opinio/vertigen_129_5914492.html",
@@ -773,7 +782,7 @@
       "tone": "other"
     },
     {
-      "page": 86,
+      "page": 87,
       "title": "L’amenaça “híbrida” de la cançó viral dels socialistes",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/media/l-amenaca-hibrida-canco-viral-dels-socialistes_129_5914557.html",
@@ -782,7 +791,7 @@
       "tone": "other"
     },
     {
-      "page": 87,
+      "page": 88,
       "title": "Quan el PSOE va celebrar la primera victòria des del luxós hotel El Palace",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/psoe-celebrar-primera-victoria-des-luxos-hotel-palace_1_5912714.html",
@@ -791,7 +800,7 @@
       "tone": "other"
     },
     {
-      "page": 88,
+      "page": 89,
       "title": "Els lavabos de les escoles necessiten millorar: falta manteniment, neteja i intimitat",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/els-lavabos-de-les-escoles-necessiten-millorar-falta-manteniment-neteja-i-intimitat/noticia/3440505/",
@@ -800,7 +809,7 @@
       "tone": "other"
     },
     {
-      "page": 89,
+      "page": 90,
       "title": "L’Audiència espanyola investiga Julio Iglesias per delictes contra la llibertat sexual, lesions i tracte degradant",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/audiencia-espanyola-investiga-julio-iglesias-delictes-llibertat-sexual/",
@@ -809,7 +818,7 @@
       "tone": "other"
     },
     {
-      "page": 90,
+      "page": 91,
       "title": "Un estudi identifica 76 contaminants ambientals en mostres de dones embarassades i els seus fetus",
       "source": "VilaWeb",
       "articleUrl": "https://www.vilaweb.cat/noticies/estudi-identifica-76-contaminants-ambientals-mostres-dones-embarassades-fetus/",
@@ -818,7 +827,7 @@
       "tone": "other"
     },
     {
-      "page": 91,
+      "page": 92,
       "title": "Aquest és el Miró que la Generalitat ha comprat per 1,6 milions",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/miro-generalitat-comprat-milions_1_5914554.html",
@@ -827,7 +836,7 @@
       "tone": "other"
     },
     {
-      "page": 92,
+      "page": 93,
       "title": "La notorietat de Rufián impulsa Esquerra a les enquestes",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/analisi/notorietat-rufian-impulsa-esquerra-enquestes_1_5914538.html",
@@ -836,7 +845,7 @@
       "tone": "other"
     },
     {
-      "page": 93,
+      "page": 94,
       "title": "Com s’escalfa la ultradreta",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/opinio/s-escalfa-ultradreta_129_5914537.html",
@@ -845,7 +854,7 @@
       "tone": "other"
     },
     {
-      "page": 94,
+      "page": 95,
       "title": "Arriba ‘GTA VI’, el videojoc més esperat del segle i un fenomen sense precedents",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/media/videojocs/gta-vi-videojoc-mes-esperat-segle-fenomen-precedents_1_5913307.html",
@@ -854,7 +863,7 @@
       "tone": "other"
     },
     {
-      "page": 95,
+      "page": 96,
       "title": "Semaf va recomanar als maquinistes no obrir el correu abans que es comuniquessin els serveis mínims",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/semaf-va-recomanar-als-maquinistes-no-obrir-el-correu-abans-que-es-comuniquessin-els-serveis-minims/noticia/3440489/",
@@ -863,7 +872,7 @@
       "tone": "other"
     },
     {
-      "page": 96,
+      "page": 97,
       "title": "Albiol ho torna a fer: el cartell en castellà i àrab dirigit als delinqüents",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/politica/eleccions-generals/albiol-ho-torna-cartell-castella-arab-dirigit-als-delinquents_1_5914504.html",
@@ -872,7 +881,7 @@
       "tone": "other"
     },
     {
-      "page": 97,
+      "page": 98,
       "title": "Temperatures càlides a tot Catalunya amb una nit tropical a ciutats com Barcelona",
       "source": "3CatInfo",
       "articleUrl": "https://www.3cat.cat/3catinfo/temperatures-calides-a-tot-catalunya-amb-una-nit-tropical-a-ciutats-com-barcelona/noticia/3440488/",
@@ -881,7 +890,7 @@
       "tone": "other"
     },
     {
-      "page": 98,
+      "page": 99,
       "title": "“Neteja insuficient” i falta d’intimitat: radiografia dels lavabos a les escoles de Barcelona",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/societat/educacio/neteja-insuficient-falta-d-intimitat-radiografia-dels-lavabos-escoles-barcelona_1_5913679.html",
@@ -890,7 +899,7 @@
       "tone": "other"
     },
     {
-      "page": 99,
+      "page": 100,
       "title": "‘Castanyers en flor’ de Van Gogh reapareix després de mig segle amb un preu de 164 milions d’euros",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/cultura/art/castanyers-flor-gogh-reapareix-despres-mig-segle-preu-164-milions-d-euros_1_5914354.html",
@@ -899,20 +908,11 @@
       "tone": "other"
     },
     {
-      "page": 100,
+      "page": 101,
       "title": "La torratxa ja torna a coronar la Casa Navàs",
       "source": "ARA",
       "articleUrl": "https://www.ara.cat/campdetarragona/torratxa-ja-torna-coronar-casa-navas_1_5912540.html",
       "published": "2026-11-18T09:31:38+01:00",
-      "priority": "3 · Altres notícies",
-      "tone": "other"
-    },
-    {
-      "page": 101,
-      "title": "Canal Sur aparta l’humorista Manolo Sarria per una denúncia d’assetjament sexual",
-      "source": "ARA",
-      "articleUrl": "https://www.ara.cat/media/canal-sur-aparta-l-humorista-manolo-sarria-denuncia-d-assetjament-sexual_1_5914353.html",
-      "published": "2026-11-18T09:31:16+01:00",
       "priority": "3 · Altres notícies",
       "tone": "other"
     },
