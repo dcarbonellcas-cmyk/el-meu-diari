@@ -52,6 +52,17 @@
     },
     {
       "source": "VilaWeb",
+      "title": "Un àrbitre denuncia una agressió multitudinària en un partit de futbol juvenil a Barcelona: “Em van amenaçar de mort”",
+      "excerpt": "El col·legiat assegura que va haver de fugir corrent pel camp després de rebre puntades de peu i cops de puny de jugadors i afeccionats",
+      "url": "https://www.vilaweb.cat/noticies/arbitre-agressio-multitudinaria-futbol-juvenil-barcelona-carmel/",
+      "published": "2026-11-18T22:06:32+01:00",
+      "category": "Esports",
+      "image": null,
+      "tone": "bad",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
       "title": "El Bisbat d’Urgell obre un procés judicial canònic contra el capellà acusat de violació",
       "excerpt": "El sacerdot continuarà apartat de les funcions pastorals mentre es resol el procediment, i el bisbat assegura que va començar a investigar el cas abans de la denúncia als Mossos",
       "url": "https://www.vilaweb.cat/noticies/bisbat-urgell-proces-judicial-canonic-capella-acusat-violacio/",
@@ -150,14 +161,42 @@
       "priority": "3 · Altres notícies"
     },
     {
+      "source": "VilaWeb",
+      "title": "Morant pronostica que el PSOE guanyarà al congrés i al senat espanyols i demana una participació del 75%",
+      "excerpt": "La dirigent del PSPV diu que al País Valencià hi ha “aroma de victòria”",
+      "url": "https://www.vilaweb.cat/noticies/morant-assegura-que-el-psoe-guanyara-el-congres-i-el-senat-espanyols-i-demana-una-participacio-del-75/",
+      "published": "2026-11-18T22:34:47+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "tone": "other",
+      "priority": "2 · Important"
+    },
+    {
       "source": "3CatInfo · El temps",
       "title": "La previsió de dijous: marxa el front i baixa poc la temperatura",
       "excerpt": "Força sol amb vent aponentat",
       "url": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-marxa-el-front-i-baixa-poc-la-temperatura/noticia/3440630/",
       "published": "2026-11-18T18:50:28+01:00",
-      "updated": "2026-11-18T19:39:44+01:00",
+      "updated": "2026-11-18T22:24:40+01:00",
       "category": "El temps",
-      "image": "https://img.3cat.cat/multimedia/jpg/2/9/1795011172992.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/4/1795037064640.jpg",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437261/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-de-dijous-marxa-el-front-i-baixa-poc-la-temperatura/noticia/3440630/"
+      },
+      "tone": "other",
+      "priority": "2 · Important"
+    },
+    {
+      "source": "3CatInfo · El temps",
+      "title": "Com aprofitar els últims 30 dies de la tardor envoltats pels seus colors",
+      "excerpt": "Les altes temperatures han prolongat els colors de la tardor, oferint una oportunitat única per gaudir dels paisatges catalans abans de l'hivern",
+      "url": "https://www.3cat.cat/3catinfo/com-aprofitar-els-ultims-30-dies-de-la-tardor-envoltats-pels-seus-colors/noticia/3440166/",
+      "published": "2026-11-18T20:28:03+01:00",
+      "updated": "2026-11-18T20:29:06+01:00",
+      "category": "El temps",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/0/1794854437909.jpg",
       "tone": "other",
       "priority": "2 · Important"
     },
@@ -326,6 +365,336 @@
       "priority": "2 · Important"
     },
     {
+      "source": "ARA",
+      "title": "Anthropic sortirà a borsa a 83 dòlars l’acció, per sobre de les previsions inicials",
+      "excerpt": "Anthropic s’encamina a una sortida a borsa històrica, malgrat la mala maror dins del sector tecnològic de les darreres setmanes. Finalment, la venda pública de les accions de la companyia del xatbot Claude se situarà entorn dels 83 dòlars per acció, segons recullen Bloomberg i Reuters, i ha venut més participacions de les que preveia. L’empresa, que començarà a cotitzar en el Nasdaq a patir de dijous sota l’etiqueta “ANT”, supera així les estimacions que preveien una valoració entorn dels 1,4 milions de dòlars.",
+      "url": "https://www.ara.cat/economia/tecnologia/anthropic-sortira-borsa-83-dolars-l-accio-previsions-inicials_1_5915299.html",
+      "published": "2026-11-18T23:02:28+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/6828834d-e7e0-49c4-a343-9574e7f45d93_16-9-aspect-ratio_default_0.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Compromís – Front Valencià demana el vot per a empènyer el PSOE a fer “transformacions valentes i ambicioses”",
+      "excerpt": "La candidata per Alacant, María Teresa Pérez, reivindica la coalició com una alternativa per a frenar la dreta i l’extrema dreta i defensar els interessos de les comarques del sud",
+      "url": "https://www.vilaweb.cat/noticies/compromis-front-valencia-demana-el-vot-per-a-empenyer-el-psoe-a-fer-transformacions-valentes-i-ambicioses/",
+      "published": "2026-11-18T22:23:18+01:00",
+      "category": "País Valencià",
+      "image": null,
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Isak Andic hauria tramat amb la terapeuta un pla per apartar el seu fill Jonathan de Mango",
+      "excerpt": "El fundador de de la companyia ho planejava d'amagat, segons recull una interlocutòria de l'Audiència de Barcelona",
+      "url": "https://www.3cat.cat/3catinfo/isak-andic-hauria-tramat-amb-la-terapeuta-un-pla-per-apartar-el-seu-fill-jonathan-de-mango/noticia/3440678/",
+      "published": "2026-11-18T22:21:32+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/8/1/1795030335818.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Feijóo, disposat a una “derogació total” de la llei d’eutanàsia encara que no consti en el seu programa electoral",
+      "excerpt": "El PP opta per una llei estatal de cures pal·liatives perquè “ningú es vegi empès” a l’acceleració de la mort",
+      "url": "https://www.vilaweb.cat/noticies/feijoo-derogacio-total-llei-eutanasia-programa-electoral/",
+      "published": "2026-11-18T22:01:58+01:00",
+      "category": "Espanya",
+      "image": null,
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "bàsics",
+      "excerpt": "El programa d’anàlisi de l’actualitat de Barcelona amb els principals titulars del dia i l’anàlisi corresponent. Perquè això és el ‘bàsics’: fer un pas més i buscar més veus implicades en els temes tractats, per donar les claus del debat a partir d’entrevistes, reportatges, taules i anàlisi. Presentat per Sandra Mestres.",
+      "url": "https://beteve.cat/basics/basics-1422/",
+      "published": "2026-11-18T21:52:45+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El meu avi/àvia",
+      "excerpt": "Via 15 és una coproducció en què col·laboren 15 televisions locals de la regió metropolitana.",
+      "url": "https://beteve.cat/via-15/el-meu-avi-avia/",
+      "published": "2026-11-18T21:50:50+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "El Sindicat de Llogateres pica a més de 1.200 portes i fa una crida a la participació el 29-N: “Que cap vot no es…",
+      "excerpt": "L’organització fa una macrobrigada a Barcelona per organitzar els llogaters contra els grans propietaris i avisa que mantindrà les mobilitzacions governi qui governi",
+      "url": "https://www.vilaweb.cat/noticies/el-sindicat-de-llogateres-pica-mes-de-1-200-portes-i-crida-a-la-participacio-el-29-n-que-cap-vot-es-quedi-a-casa/",
+      "published": "2026-11-18T21:50:42+01:00",
+      "category": "Societat",
+      "image": null,
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "“Si és una coincidència, és la més gran del món”: neguit als EUA per la setmana de caigudes digitals",
+      "excerpt": "La sensació és que el país està caient des de fa una setmana als Estats Units. En poc més de cinc dies els estatunidencs han viscut una caiguda global d’Outlook, la suspensió nacional de tots els vols –mesura excepcional aplicada per primer cop amb l’11-S–, problemes per accedir als serveis online dels principals bancs del país, una altra disrupció en el sistema de comunicacions de l’aerolínia americana United Airlines, i la interrupció del sistema de comunicació intern de la xarxa de seguretat nacional (NSA).",
+      "url": "https://www.ara.cat/internacional/estats-units/coincidencia-mes-gran-mon-neguit-als-eua-setmana-caigudes-digitals_1_5914925.html",
+      "published": "2026-11-18T21:48:42+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/331dd290-ecdc-4511-9a52-7e0dfdc6a826_source-aspect-ratio_default_0.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els Mossos obren una investigació a dos antiavalots per una actuació de l'11N",
+      "excerpt": "Un vídeo del dia de la vaga general mostra els dos agents donant cops de porra a les cames a un home, que acaba caient a terra",
+      "url": "https://www.3cat.cat/3catinfo/els-mossos-obren-una-investigacio-a-dos-antiavalots-per-una-actuacio-de-l11n/noticia/3440671/",
+      "published": "2026-11-18T21:44:27+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/2/1795034045624.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Hegseht anuncia un nou acord de cooperació militar entre els EUA i Veneçuela",
+      "excerpt": "El secretari de Defensa, Pete Hegseth, ha anunciat aquest dimecres des de Caracas el restabliment de la col·laboració militar entre els Estats Units i Veneçuela. L’acord s’ha signat amb el govern interni liderat per Delcy Rodríguez, després que al gener l’exèrcit estatunidenc intervingués militarment al país per deposar Nicolás Maduro, que segueix en una presó de Brooklyn a l’espera de judici. Des del 2005 que la relació bilateral entre els dos països havia estat suspesa després que el llavors dirigent Hugo Chávez ordenés la sortida…",
+      "url": "https://www.ara.cat/internacional/estats-units/hegseht-anuncia-nou-acord-cooperacio-militar-eua-venecuela_1_5915203.html",
+      "published": "2026-11-18T21:42:46+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/3c7218ee-78a3-4f15-868b-d18f76d9fb2b_source-aspect-ratio_default_0.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "VilaWeb",
+      "title": "Tenim una bèstia dins nostre?",
+      "excerpt": "Tinc la ingènua impressió que ens equivoquem quan deixem que les nostres bèsties personals triïn un partit polític sense abans saber per què anem a votar",
+      "url": "https://www.vilaweb.cat/noticies/tenim-una-bestia-dins-nostre/",
+      "published": "2026-11-18T21:40:43+01:00",
+      "category": "Mail Obert",
+      "image": null,
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "La Brama",
+      "excerpt": "La cultura és la protagonista absoluta. Laura Sangrà presenta ‘La Brama’, un punt de trobada entre els grans noms del sector, els més consolidats i els emergents, els que estan en primera línia i els que es troben als marges. Volem que el programa sigui un clam, una reivindicació del paper de la cultura i […]",
+      "url": "https://beteve.cat/la-brama/la-brama-33/",
+      "published": "2026-11-18T21:34:43+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Infobarris",
+      "excerpt": "Torna Infobarris, el programa informatiu de betevé dedicat a explicar la realitat dels barris de Barcelona. Cada dia en directe, de 19 h a 19.40 h, la periodista Núria Llabina i un equip experimentat d’especialistes en el territori copsaran les històries i el batec als carrers de Barcelona.",
+      "url": "https://beteve.cat/infobarris/infobarris-206/",
+      "published": "2026-11-18T21:25:57+01:00",
+      "category": "Actualitat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2017/04/betevé-print-horitzontal-02.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Els espais amagats de 30 museus es poden visitar aquest cap de setmana: consulta la llista",
+      "excerpt": "La iniciativa \"El museu que no es veu\" aposta perquè els dies 20, 21 i 22 de novembre els visitants puguin accedir a zones reservades als professionals on es custodia i documenta el patrimoni",
+      "url": "https://www.3cat.cat/3catinfo/els-espais-amagats-de-30-museus-es-poden-visitar-aquest-cap-de-setmana-consulta-la-llista/noticia/3439016/",
+      "published": "2026-11-18T21:13:18+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/3/2/1754677741523.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Vent fort de ponent i mestral i descens del termòmetre a darrera hora",
+      "excerpt": "El vent serà un dels elements més destacats d’aquest dijous. La previsió del temps anuncia el pas d’una línia de ruixats de matinada i força vent entre la nit i el migdia. La temperatura iniciarà un descens a darrera hora del dia. Previsió horària per a Barcelona Vent i xàfecs curts durant la nit i […]",
+      "url": "https://beteve.cat/medi-ambient/temps-barcelona-dijous-19-novembre-vent-fort-ponent/",
+      "published": "2026-11-18T21:13:15+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/previsio-temps-dijous-19-novembre-2026-11-18.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Qui és Hakeem Jeffries, el primer afroamericà que aspira a liderar la Cambra de Representants",
+      "excerpt": "El demòcrata ha rebut el suport de la majoria dels seus companys de partit en aquesta institució, i farà història si guanya en la votació definitiva el 3 de gener al Congrés",
+      "url": "https://www.3cat.cat/3catinfo/qui-es-hakeem-jeffries-el-primer-afroamerica-que-aspira-a-liderar-la-cambra-de-representants/noticia/3440670/",
+      "published": "2026-11-18T21:12:48+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/2/3/1696371694032.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El PP comet un error de llibre en plena campanya",
+      "excerpt": "El manual de les campanyes electorals afirma que el candidat ha de transmetre optimisme i fe en la victòria, i que mai, mai, s’ha de plantejar en públic la possibilitat de la derrota. Doncs això és precisament el que han començat a fer diversos dirigents del PP aquest dimecres. Al matí ha estat el candidat per Barcelona, Xavier García Albiol, que ha alertat que si el PSOE queda primer a les eleccions i no pot governar “incendiarà els carrers”. Al vespre ha estat el portaveu…",
+      "url": "https://www.ara.cat/politica/pp-comet-error-llibre-plena-campanya_129_5915157.html",
+      "published": "2026-11-18T20:59:34+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/68b53153-cee9-4b38-9110-10448c13be0a_source-aspect-ratio_default_0.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "On és el fred? Així acabarem el mes de novembre pel que fa al termòmetre a Barcelona i Catalunya",
+      "excerpt": "La temperatura ja ha tocat sostre. Dimecres, 18 de novembre, la temperatura màxima ha assolit els 25 graus a bona part de Barcelona i de matinada s’han fregat els 20 graus al centre de Barcelona, tot i que cap observatori de la ciutat ha arribat a anotar una mínima tropical. Es tracta de valors propis […]",
+      "url": "https://beteve.cat/medi-ambient/on-es-fred-aixi-acabarem-novembre-termometre-barcelona-catalunya-2026/",
+      "published": "2026-11-18T20:39:23+01:00",
+      "category": "medi ambient",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/temps-novembre-barcelona-2026-11-18.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Griso i l’art de treballar-se les dones i pasturar els migrants",
+      "excerpt": "Dimecres al matí Susanna Griso entrevistava Pedro Sánchez al seu programa. En les preguntes s’hi detectava un desdeny pel president que no venia de nou. En els darrers mesos el magazín matinal (igual que el d’Ana Rosa Quintana a Telecinco) s’ha convertit en un monogràfic en contra de la seva gestió i dels draps bruts del Partit Socialista. Només començar li va demanar: “ ¿Qué tiene que pasar en este país para que usted dimita? ” Poc satisfeta amb una resposta que era òbvia que…",
+      "url": "https://www.ara.cat/media/griso-art-treballar-dones-pasturar-migrants_129_5915150.html",
+      "published": "2026-11-18T20:30:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/87084aa5-01fe-421a-af34-a74a544b7d81_16-9-aspect-ratio_default_0_x323y192.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Sí, mals temps per a la lírica",
+      "excerpt": "No crec que Bertolt Brecht s’imaginés com triomfaria el títol del seu poema Mals temps per a la lírica , escrit al mundialment infaust 1939. Avui estem experimentant aquell mateix sentiment, i no només perquè estigui reapareixent el feixisme. N’hi ha prou de seguir un informatiu: acabes carregant a l’esquena tots els mals del món.",
+      "url": "https://www.ara.cat/opinio/mals-temps-lirica_129_5915146.html",
+      "published": "2026-11-18T20:30:29+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/96c03287-8f46-4082-8aad-c148548cb1ad_16-9-aspect-ratio_default_0.png",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Confiem que la trobada a tres de Xi, Putin i Trump sigui simbòlica",
+      "excerpt": "Per una vegada seria mala notícia que una reunió de tres líders mundials aconseguís tots els seus objectius. Els tres líders que es troben aquest dijous a la ciutat xinesa de Shenzhen són el president dels Estats Units, Donald Trump; el de Rússia, Vladímir Putin, i el de la Xina, Xi Jinping, que n’és l’amfitrió. La reunió és d’alt voltatge històric, i com ja diuen alguns analistes hi ha l’expectativa que s’acabi convertint en una mena de Ialta 2.0, en relació amb la famosa reunió…",
+      "url": "https://www.ara.cat/editorial/confiem-trobada-tres-xi-putin-trump-sigui-simbolica_129_5915073.html",
+      "published": "2026-11-18T20:25:56+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/2b7682fe-33af-43d4-a7e1-82cb81c4eb42_16-9-aspect-ratio_default_0.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "El Barça vol reprendre el camí de la victòria a la Champions davant el Servette",
+      "excerpt": "El Barça rep el Servette suís en la cinquena jornada de la Champions aquest dijous, 19 de novembre, a partir de les 21 h. L’estadi Johan Cruyff serà l’escenari del partit. Serà el penúltim partit de les blaugrana de la fase de grups de la lligueta de la Champions. L’objectiu del Barça és deixar enrere […]",
+      "url": "https://beteve.cat/esports/barca-vol-reprendre-cami-victoria-champions-davant-servette/",
+      "published": "2026-11-18T20:23:53+01:00",
+      "category": "esports",
+      "image": "https://img.beteve.cat/wp-content/uploads/2025/11/MGA0492-1.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Veïns de la Casa Bloc inicien una campanya de protesta per exigir a l’Incasòl actuacions urgents",
+      "excerpt": "La Casa Bloc, edifici emblemàtic del moviment racionalista a Catalunya, fa anys que es troba en una situació força desmillorada. Tot i tractar-se d’una construcció declarada Bé Cultural d’Interès Nacional (BCIN) l’any 1993, els veïns qualifiquen les intervencions que s’hi han dut a terme des d’aleshores de “minses” i “simples pedaços” que, en cap cas, […]",
+      "url": "https://beteve.cat/societat/veins-casa-bloc-reformes-incasol-obres/",
+      "published": "2026-11-18T20:21:56+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/problemes-casa-bloc-3-2026-11-12.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Tibidabo s'il·lumina de vermell per denunciar la persecució de cristians a 62 països del món",
+      "excerpt": "Comença la Red Week en defensa de la llibertat religiosa: un de cada sis cristians al món és perseguit per la seva fe, segons Ajuda a l'Església Necessitada",
+      "url": "https://www.3cat.cat/3catinfo/el-tibidabo-sillumina-de-vermell-per-denunciar-la-persecucio-de-cristians-a-62-paisos-del-mon/noticia/3440440/",
+      "published": "2026-11-18T20:21:42+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/4/0/1795029467004.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "El Suprem confirma 5 anys de presó per a l'expresident de la Diputació de València Alfonso Rus",
+      "excerpt": "Condemnat per contractacions irregulars a través d'empreses públiques, el que també va ser president provincial del Partit Popular de València haurà d'entrar a la presó",
+      "url": "https://www.3cat.cat/3catinfo/el-suprem-confirma-5-anys-de-preso-per-a-lexpresident-de-la-diputacio-de-valencia-alfonso-rus/noticia/3440637/",
+      "published": "2026-11-18T20:21:19+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/9/9/1453801691299.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Surt a la venda el videojoc Grand Theft Auto VI: “El llançament del segle”",
+      "excerpt": "L’espera s’ha acabat. Han passat 13 anys des del darrer Grand Theft Auto, una de les sagues més importants del món del videojoc i, per extensió, de la cultura audiovisual contemporània. Més d’una dècada pendents de novetats, filtracions, avenços, notícies i rumors de tot tipus. En aquest temps la indústria del videojoc ha canviat molt […]",
+      "url": "https://beteve.cat/cultura/surt-venda-grand-theft-auto-vi-videojoc-segle/",
+      "published": "2026-11-18T20:20:38+01:00",
+      "category": "art i disseny",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/Grand_Theft_Auto_VI_1-2026-11-18.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "3CatInfo",
+      "title": "Un grup d'indígenes que viu aïllat a l'Amazònia s'acosta a un poblat pròxim per demanar menjar",
+      "excerpt": "El contacte posa en alerta les autoritats del Brasil en considerar que la pressió a què se sotmet l'Amazònia deixa sense recursos les tribus que hi viuen",
+      "url": "https://www.3cat.cat/3catinfo/un-grup-dindigenes-que-viu-aillat-a-lamazonia-sacosta-a-un-poblat-proxim-per-demanar-menjar/noticia/3440662/",
+      "published": "2026-11-18T20:20:35+01:00",
+      "category": "Actualitat",
+      "image": "https://img.3cat.cat/multimedia/jpg/0/7/1795024354270.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "El bisbat d’Urgell obre un procés judicial canònic al capellà acusat de violar un seminarista",
+      "excerpt": "Una setmana després que el Bisbat d’Urgell suspengués el capellà acusat de violació de l’ofici pastoral, la diòcesi ha informat que li ha obert procés judicial canònic. Ho ha fet un cop acabada la investigació que va començar arran de la denúncia per agressió sexual que va presentar un jove seminarista de 26 anys en què descriu com el mossèn el va immobilitzar contra el matalàs i el va violar. Ara la institució ha traslladat tota la informació que ha reunit a les autoritats competents,…",
+      "url": "https://www.ara.cat/societat/abusos/bisbat-d-urgell-obre-proces-judicial-canonic-capella-acusat-violar-seminarista_1_5915141.html",
+      "published": "2026-11-18T20:11:00+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/301c0057-0249-4fe1-aa4b-877f50d560f1_source-aspect-ratio_default_0.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "betevé",
+      "title": "Isak Andic i la terapeuta familiar van planejar apartar defintivament Jonathan Andic de l’empresa",
+      "excerpt": "(Agències) La interlocutòria de l’Audiència de Barcelona que ha confirmat la presó eludible sota fiança per a Jonathan Andic revela informacions rellevants en la investigació per la mort del seu pare, Isak Andic, fundador de Mango. Segons la resolució, Isak Andic va planejar abans de morir apartar definitivament el seu fill Jonathan de l’empresa i, […]",
+      "url": "https://beteve.cat/societat/isak-andic-terapeuta-apartar-jonathan-andic/",
+      "published": "2026-11-18T20:07:40+01:00",
+      "category": "societat",
+      "image": "https://img.beteve.cat/wp-content/uploads/2026/11/jonathan-andic-181126-2026-11-18.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
+      "source": "ARA",
+      "title": "Big Ron: la nova vida de Ronald Araujo al Liverpool",
+      "excerpt": "La cessió de Ronald Araujo al Liverpool es va tancar en poc més de 48 hores. Una conversa decisiva de tu a tu amb Hansi Flick a principis d’agost va desembocar amb l’uruguaià dient als seus representants que li busquessin una sortida. L’entrenador alemany li va traslladar que la seva intenció per a la línia defensiva era continuar com la temporada passada, en què la principal parella de Pau Cubarsí va ser Gerard Martín (23 titularitats acompanyant el d’Estanyol), seguit d’Eric Garcia (16). La presència…",
+      "url": "https://www.ara.cat/esports/barca/big-ron-nova-vida-ronald-araujo-liverpool_1_5913161.html",
+      "published": "2026-11-18T20:00:08+01:00",
+      "category": "Actualitat",
+      "image": "https://static1.ara.cat/clip/4f9bd2f5-0bac-4615-a9ac-d9523f048b0b_source-aspect-ratio_default_0.jpg",
+      "tone": "other",
+      "priority": "3 · Altres notícies"
+    },
+    {
       "source": "betevé",
       "title": "L’Arxiu Fotogràfic de Barcelona reivindica la mirada de Marta Povo",
       "excerpt": "L’Arxiu Fotogràfic de Barcelona presenta “Marta Povo. La poètica de la llum“, una exposició dedicada a la fotògrafa barcelonina (1951-2026), un dels noms més destacats de la fotografia catalana contemporània. La mostra, comissariada per Món Casas, recorre les diferents col·leccions de l’autora en els camps de l’arquitectura, el paisatge i la documentació del territori. Es […]",
@@ -438,7 +807,7 @@
     {
       "source": "ARA",
       "title": "Xi i Putin exhibeixen bona sintonia abans de la reunió trilateral amb Trump",
-      "excerpt": "La ciutat xinesa de Shenzhen s’ha convertit aquest dimecres en un escenari de diplomàcia d’alt nivell: els líders de les tres grans potències mundials s’han trobat sota el mateix sostre en el marc del fòrum de Cooperació Econòmica Àsia-Pacífic (APEC) . La presència de Donald Trump, Vladímir Putin i Xi Jinping eclipsa la cimera regional i posa el focus en la geopolítica. Tots tres mantindran una reunió inèdita aquest dijous, en finalitzar la cimera, que ha aixecat tantes expectatives que ja se l’ha batejada com…",
+      "excerpt": "La ciutat xinesa de Shenzhen s’ha convertit aquest dimecres en un escenari de diplomàcia d’alt nivell: els líders de les tres grans potències mundials s’han trobat sota el mateix sostre en el marc del Fòrum de Cooperació Econòmica Àsia-Pacífic (APEC) . La presència de Donald Trump, Vladímir Putin i Xi Jinping eclipsa la cimera regional i posa el focus en la geopolítica. Tots tres mantindran una reunió inèdita aquest dijous, en finalitzar la cimera, que ha aixecat tantes expectatives que ja se l’ha batejada com…",
       "url": "https://www.ara.cat/internacional/asia/xi-putin-exhibeixen-bona-sintonia-reunio-trilateral-trump_1_5914967.html",
       "published": "2026-11-18T18:27:58+01:00",
       "category": "Actualitat",
@@ -569,8 +938,8 @@
     },
     {
       "source": "ARA",
-      "title": "L’Audiència de Barcelona avala les mesures cautelars contra Jonathan Andic",
-      "excerpt": "L’Audiència de Barcelona s’ha pronunciat per primer cop sobre el cas Andic, la causa judicial que investiga Jonathan Andic per la mort del seu pare, el fundador de Mango. El tribunal ho ha fet per desestimar el recurs que va presentar el primogènit de la família Andic en contra la decisió del jutjat de Martorell d’enviar-lo a la presó si no pagava una fiança d’un milió d’euros — Jonathan Andic la va abonar aquell mateix dia i està en llibertat des de llavors —. L’Audiència…",
+      "title": "El pla “ocult” d’Isak Andic i la terapeuta per apartar Jonathan de Mango",
+      "excerpt": "L’Audiència de Barcelona s’ha pronunciat per primer cop sobre el cas Andic, la causa judicial que investiga Jonathan Andic per la mort del seu pare, el fundador de Mango. El tribunal ho ha fet per desestimar el recurs que va presentar el primogènit de la família Andic en contra la decisió del jutjat de Martorell d’enviar-lo a la presó si no pagava una fiança d’un milió d’euros – Jonathan Andic la va abonar aquell mateix dia i està en llibertat des de llavors –. L’Audiència…",
       "url": "https://www.ara.cat/societat/successos/l-audiencia-barcelona-avala-mesures-cautelars-jonathan-andic_1_5914966.html",
       "published": "2026-11-18T17:04:55+01:00",
       "category": "Actualitat",
@@ -603,13 +972,18 @@
     {
       "source": "3CatInfo",
       "title": "Socialistes i populars reclamen la concentració del vot per no dependre d'altres partits",
-      "excerpt": "Rufián avisa que la batalla pel 29N a Catalunya està entre Esquerra i el PSC",
+      "excerpt": "Rufián avisa que la batalla pel 29N a Catalunya està entre Esquerra i el PSC, mentre que Vox i García Albiol competeixen obertament pels votants de dretes i Salvador Illa fa una crida contra l'abstenció",
       "url": "https://www.3cat.cat/3catinfo/socialistes-i-populars-reclamen-la-concentracio-del-vot-per-no-dependre-daltres-partits/noticia/3440527/",
       "published": "2026-11-18T16:48:20+01:00",
       "category": "Actualitat",
-      "image": "https://img.3cat.cat/multimedia/jpg/2/6/1794998584062.jpg",
+      "image": "https://img.3cat.cat/multimedia/jpg/1/8/1795038981481.jpg",
       "tone": "other",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437210/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/socialistes-i-populars-reclamen-la-concentracio-del-vot-per-no-dependre-daltres-partits/noticia/3440527/"
+      }
     },
     {
       "source": "betevé",
@@ -1278,7 +1652,7 @@
     },
     {
       "source": "ARA",
-      "title": "Furor per l’entrevista a Sánchez a ‘Lecturas’: exemplars esgotats i possibilitat de reimpressió",
+      "title": "Vox replica a Álvarez de Toledo que la “identitat catalana no és exclusiva”",
       "excerpt": "",
       "url": "https://www.ara.cat/politica/eleccions-generals/eleccions-generals-2026-directe_6_5914108.html",
       "published": "2026-11-18T07:30:51+01:00",
@@ -1472,7 +1846,12 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/8/1794944968483.jpg",
       "tone": "other",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437232/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-voyager-1-culmina-una-fita-despres-de-49-anys-de-viatge-arribar-a-un-dia-llum-de-la-terra/noticia/3440452/"
+      }
     },
     {
       "source": "3CatInfo",
@@ -1483,7 +1862,12 @@
       "category": "Actualitat",
       "image": "https://img.3cat.cat/multimedia/jpg/3/7/1795003738173.jpg",
       "tone": "other",
-      "priority": "3 · Altres notícies"
+      "priority": "3 · Altres notícies",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437213/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-reunio-entre-trump-putin-i-xi-eclipsa-la-cimera-de-lapec-de-shenzhen-que-en-podem-esperar/noticia/3440355/"
+      }
     },
     {
       "source": "3CatInfo",
