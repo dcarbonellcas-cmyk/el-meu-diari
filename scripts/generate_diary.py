@@ -188,14 +188,18 @@ def news_tone(item):
         r'tractament eficac|avenc medic|avenc cientific|nou tractament eficac|'
         r'erradica|erradiquen|redueix la mortalitat|disminueix la mortalitat|'
         r'baixa l.atur|cau l.atur|es redueix l.atur|'
-        r'guanya el premi|guanya un premi|guanyen el premi|guanyen un premi)\b', title))
+        r'guanya el premi|guanya un premi|guanyen el premi|guanyen un premi)\b|'
+        r'\b(cedeix|lliura|inaugura|estrena)\b.*\b(pisos protegits|habitatges socials|habitatges assequibles|lloguer assequible)\b|'
+        r'\bposa en marxa\b.*\b(accessibilitat|inclusio|atendre persones amb tea|hipersensibilitat sensorial)\b|'
+        r'\b(guanya|guanyen|aconsegueix|aconsegueixen)\b.*\b(medalla d.or|campionat mundial|campionat europeu)\b', title))
     negative = bool(re.search(
         r'\b(morts?|mortes?|mor|moren|victimes|ferits?|ferides?|assassinat|assassinada|'
         r'assassinats|assassinades|atemptat|bombardeig|bombardejos|agressio|'
         r'abusos|violacio|segrest|guerra|inundacions?|incendis?|terratremol|'
         r'evacuacio|evacuen|desnonaments?|acomiadaments?|corrupcio|'
         r'desapareguts?|desaparegudes?)\b|alerta vermella|risc extrem|'
-        r'\b(puja|augmenta|creix) l.atur\b', title))
+        r'\b(puja|augmenta|creix) l.atur\b|\b(abus sexual|abusos sexuals|assetjament sexual|assetjament laboral|'
+        r'lesio greu|lesions greus|clausules abusives|ciberatac)\b', title))
     if positive and not negative:
         return 'good'
     if negative and not positive:

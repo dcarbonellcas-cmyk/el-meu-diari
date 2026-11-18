@@ -18,6 +18,11 @@ class NewsToneTests(unittest.TestCase):
             ('Un tractament eficaç: què en sabem?', 'other'),
             ('No baixa l’atur a Catalunya', 'other'),
             ('Un incendi sense ferits', 'other'),
+            ('Un municipi cedeix solars per fer pisos protegits de lloguer assequible', 'good'),
+            ('Posa en marxa una prova pilot per atendre persones amb TEA', 'good'),
+            ('El club confirma una lesió greu del davanter', 'bad'),
+            ('Denuncien assetjament laboral en una empresa', 'bad'),
+            ('Els experts investiguen un cas d’abús sexual', 'bad'),
         ]
         for title, expected in cases:
             with self.subTest(title=title):
