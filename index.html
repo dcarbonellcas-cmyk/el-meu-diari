@@ -6,7 +6,9 @@
 #weather-screen .week-panel{background:white;border:0;padding:0;margin:12px 0}.week-carousel{background:#edf6ff;border:1px solid #cfe3f4;border-radius:14px;padding:8px;gap:8px}.week-carousel .week-strip{max-width:none}.week-day{flex:0 0 88px;height:96px;border-radius:10px;padding:3px;gap:0}.week-picture svg,.week-pending{width:34px;height:34px}.week-day .week-date{display:none}.week-day .week-condition{font-size:9px}.week-day>strong{font-size:12px}.week-arrow{flex:0 0 32px;width:32px;height:42px;font-size:27px;color:#203e5b;background:#fff}.week-panel h3{font-size:13px!important}.week-panel #week-status{font-size:10px}
 #weather-screen .week-panel{background:transparent;border:0;box-shadow:none}.week-carousel{background:transparent;border:0;box-shadow:none;padding:0}.week-day{background:linear-gradient(155deg,#eef8ff,#dcecff);border:1px solid #d6e8f6}.week-arrow{background:transparent;border:0;box-shadow:none}
 .weather-map-section{margin:22px 0}.weather-map-section h3{font-size:18px!important;margin:0 0 10px}.map-tabs{display:flex;gap:8px}.map-tabs button{flex:1;border:1px solid #b4cde0;border-radius:12px;background:transparent;color:#24496b;padding:10px 6px;font:inherit;font-size:12px;font-weight:700;cursor:pointer}.map-tabs button[aria-pressed=true]{background:#dcecff;border-color:#648db0}.weather-map-frame{display:block;width:100%;height:380px;border:0;border-radius:15px;background:#dcecff}.weather-map-section .small{font-size:11px;line-height:1.5}
-</style></head><body><main class="wrap"><div class="top"><span>✦ EL MEU DIARI</span><span id="date"></span></div><div class="hero" id="home-hero"><div class="eyebrow">LA TEVA REVISTA PERSONAL</div><h1>Bon dia!<br>Què passa avui?</h1><p>Les notícies més importants, explicades en català i en una revista visual feta per a tu.</p><button class="cover cover-button" id="generate" type="button"><span>AVUI EN<br>PÀGINES 🗞️</span><span class="cover-action" id="latest-label">Veure el diari d’avui</span></button><button class="cta" id="show-archive" type="button">🗞️ Obrir el meu diari d’avui · Edicions guardades</button><button class="cta secondary" id="show-weather" type="button">🌤️ El temps · Radar i previsió</button><p class="hint">Toca la portada per llegir l’última edició. Al botó rosa trobaràs totes les edicions guardades.</p><p id="diary-status" class="status" role="status" aria-live="polite"></p></div><section id="viewer" class="viewer" hidden aria-label="Visor del diari"><div class="viewer-bar"><strong id="viewer-title">Llegint el diari</strong><button id="viewer-close" class="pdf-delete" type="button">Tancar</button></div><p id="viewer-progress" class="small" role="status" aria-live="polite"></p><nav id="priority-filters" class="priority-filters" aria-label="Filtrar notícies per importància" hidden></nav><div id="viewer-pages" class="viewer-pages"></div><p class="small">Si el teu iPhone no mostra el PDF aquí, pots <a id="viewer-fallback" href="#" target="_blank" rel="noopener">obrir-lo en una pestanya</a>.</p></section><section id="archive-screen" hidden><button class="back-button" id="back-home" type="button">← Tornar a l’inici</button><h2 class="section">🗞️ Edicions guardades automàticament</h2><div class="panel"><p class="small">Aquí trobaràs l’última edició d’avui, que es va actualitzant automàticament, i una edició completa de cada dia anterior.</p><div id="archive" aria-live="polite"><p class="small">Carregant l’arxiu…</p></div></div></section><section id="weather-screen" hidden aria-label="El temps"><button class="back-button" id="weather-back" type="button">← Tornar a les notícies</button><h2 class="section">El temps d’avui</h2><section class="panel week-panel" aria-label="Previsió de la setmana"><div id="weather-week"></div><p class="small" id="week-status" role="status" aria-live="polite">Previsió local de cinc dies.</p><details id="week-options"><summary>Ubicació de la previsió</summary><p class="small">Per veure el temps on ets, compartim la ubicació aproximada amb Open-Meteo i BigDataCloud. BigDataCloud utilitza la ubicació i la IP per millorar la geolocalització. Pots desactivar-ho aquí.</p><button id="week-enable" class="cta secondary" type="button">Activar o actualitzar la meva setmana</button><button id="week-disable" class="back-button" type="button">Desactivar ubicació</button></details></section><section class="weather-map-section" aria-label="Mapa interactiu del temps"><h3>Mapa de pluja</h3><div class="map-tabs" role="group" aria-label="Tipus de mapa"><button type="button" id="map-radar" aria-pressed="true">Radar · Pluja observada</button><button type="button" id="map-forecast" aria-pressed="false">Predicció · Pròximes hores</button></div><p class="small" id="map-help">Radar en moviment automàtic · Últimes observacions fins a l’hora indicada al mapa. Es renova cada 5 minuts.</p><div id="weather-map-host"></div><p class="small">Pots ampliar i moure el mapa amb els dits. Vista inicial de Catalunya · Font: <a id="weather-map-link" href="https://www.windy.com/-Weather-radar-radar?radar,41.6,1.7,7" target="_blank" rel="noopener noreferrer">Windy · Obrir el mapa ampliat</a>.</p></section><button class="cta secondary" id="weather-refresh" type="button">Actualitzar la previsió</button></section><div class="foot">Versió inicial gratuïta · Sense servidor ni clau d'IA</div></main><script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script><script>
+
+.news-kind-panel{background:#fff8f7;border:1px solid #e4c5d0;border-radius:16px;padding:14px;margin:12px 0}.news-kind-panel h3{font-size:17px;line-height:1.4;margin:0 0 12px}.news-kind-filters{display:flex;gap:8px;flex-wrap:wrap}.news-kind-button{font:inherit;font-size:13px;line-height:1.4;min-height:44px;border:1px solid #d2c7ce;border-radius:14px;padding:9px 12px;background:white;color:#423341;cursor:pointer}.news-kind-button[data-tone=good]{border-color:#83b39b;color:#23543d}.news-kind-button[data-tone=bad]{border-color:#ce939b;color:#873a46}.news-kind-button[aria-pressed=true]{background:#423341;border-color:#423341;color:white}.news-kind-button[data-tone=good][aria-pressed=true]{background:#23543d}.news-kind-button[data-tone=bad][aria-pressed=true]{background:#873a46}.news-kind-button:focus-visible,.priority-button:focus-visible{outline:3px solid #547ca5;outline-offset:3px}.news-tone-label{display:block;font-size:13px;font-weight:700;line-height:1.5;padding:10px 12px;background:#f4eff3;color:#4c3b49}.news-tone-label[data-tone=good]{background:#e9f4ed;color:#23543d}.news-tone-label[data-tone=bad]{background:#fbeef0;color:#873a46}.news-kind-panel[hidden]{display:none!important}
+</style></head><body><main class="wrap"><div class="top"><span>✦ EL MEU DIARI</span><span id="date"></span></div><div class="hero" id="home-hero"><div class="eyebrow">LA TEVA REVISTA PERSONAL</div><h1>Bon dia!<br>Què passa avui?</h1><p>Les notícies més importants, explicades en català i en una revista visual feta per a tu.</p><button class="cover cover-button" id="generate" type="button"><span>AVUI EN<br>PÀGINES 🗞️</span><span class="cover-action" id="latest-label">Veure el diari d’avui</span></button><button class="cta" id="show-archive" type="button">🗞️ Obrir el meu diari d’avui · Edicions guardades</button><button class="cta secondary" id="show-weather" type="button">🌤️ El temps · Radar i previsió</button><p class="hint">Toca la portada per llegir l’última edició. Al botó rosa trobaràs totes les edicions guardades.</p><p id="diary-status" class="status" role="status" aria-live="polite"></p></div><section id="viewer" class="viewer" hidden aria-label="Visor del diari"><div class="viewer-bar"><strong id="viewer-title">Llegint el diari</strong><button id="viewer-close" class="pdf-delete" type="button">Tancar</button></div><p id="viewer-progress" class="small" role="status" aria-live="polite"></p><section id="news-kind-panel" class="news-kind-panel" hidden><h3>Quin tipus de notícies vols llegir?</h3><nav id="news-kind-filters" class="news-kind-filters" aria-label="Filtrar per bones, males o altres notícies"></nav><p class="small">Classificació orientativa pel titular: les notícies ambigües o mixtes van a Altres. No és una valoració de la veracitat.</p></section><nav id="priority-filters" class="priority-filters" aria-label="Filtrar notícies per importància" hidden></nav><div id="viewer-pages" class="viewer-pages"></div><p class="small">Si el teu iPhone no mostra el PDF aquí, pots <a id="viewer-fallback" href="#" target="_blank" rel="noopener">obrir-lo en una pestanya</a>.</p></section><section id="archive-screen" hidden><button class="back-button" id="back-home" type="button">← Tornar a l’inici</button><h2 class="section">🗞️ Edicions guardades automàticament</h2><div class="panel"><p class="small">Aquí trobaràs l’última edició d’avui, que es va actualitzant automàticament, i una edició completa de cada dia anterior.</p><div id="archive" aria-live="polite"><p class="small">Carregant l’arxiu…</p></div></div></section><section id="weather-screen" hidden aria-label="El temps"><button class="back-button" id="weather-back" type="button">← Tornar a les notícies</button><h2 class="section">El temps d’avui</h2><section class="panel week-panel" aria-label="Previsió de la setmana"><div id="weather-week"></div><p class="small" id="week-status" role="status" aria-live="polite">Previsió local de cinc dies.</p><details id="week-options"><summary>Ubicació de la previsió</summary><p class="small">Per veure el temps on ets, compartim la ubicació aproximada amb Open-Meteo i BigDataCloud. BigDataCloud utilitza la ubicació i la IP per millorar la geolocalització. Pots desactivar-ho aquí.</p><button id="week-enable" class="cta secondary" type="button">Activar o actualitzar la meva setmana</button><button id="week-disable" class="back-button" type="button">Desactivar ubicació</button></details></section><section class="weather-map-section" aria-label="Mapa interactiu del temps"><h3>Mapa de pluja</h3><div class="map-tabs" role="group" aria-label="Tipus de mapa"><button type="button" id="map-radar" aria-pressed="true">Radar · Pluja observada</button><button type="button" id="map-forecast" aria-pressed="false">Predicció · Pròximes hores</button></div><p class="small" id="map-help">Radar en moviment automàtic · Últimes observacions fins a l’hora indicada al mapa. Es renova cada 5 minuts.</p><div id="weather-map-host"></div><p class="small">Pots ampliar i moure el mapa amb els dits. Vista inicial de Catalunya · Font: <a id="weather-map-link" href="https://www.windy.com/-Weather-radar-radar?radar,41.6,1.7,7" target="_blank" rel="noopener noreferrer">Windy · Obrir el mapa ampliat</a>.</p></section><button class="cta secondary" id="weather-refresh" type="button">Actualitzar la previsió</button></section><div class="foot">Versió inicial gratuïta · Sense servidor ni clau d'IA</div></main><script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script><script>
 /* Emergency reader for installed iPhones if the JavaScript module fails to load. */
 (function () {
   var button = document.getElementById('generate');
@@ -64,6 +66,10 @@ const viewerProgress = document.querySelector('#viewer-progress');
 const viewerTitle = document.querySelector('#viewer-title');
 const viewerFallback = document.querySelector('#viewer-fallback');
 let viewerRequest = 0;
+let selectedTone = 'all';
+let selectedPriority = 'all';
+let readerEntries = [];
+let readerVideoCount = 0;
 
 function allowedNewsPlayer(value) {
   try {
@@ -85,6 +91,10 @@ async function openPDF(url, title) {
   viewerTitle.textContent = title;
   viewerFallback.href = url;
   viewerPages.replaceChildren();
+  document.querySelector('#news-kind-panel').hidden = true;
+  document.querySelector('#priority-filters').hidden = true;
+  selectedTone = selectedPriority = 'all';
+  readerEntries = [];
   viewerProgress.textContent = 'Carregant totes les pàgines…';
   viewer.hidden = false;
   viewer.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -105,8 +115,8 @@ async function openPDF(url, title) {
     const pdf = await window.pdfjsLib.getDocument(url).promise;
     if (request !== viewerRequest) return;
     addPriorityFilters(videoPages);
-    const videoCount = videoPages.filter(entry => allowedNewsPlayer(entry.video?.url)).length;
-    viewerProgress.textContent = (pdf.numPages - 1) + ' notícies · ' + videoCount + ' amb vídeo · Desplaça’t per llegir-les totes.';
+    readerVideoCount = videoPages.filter(entry => allowedNewsPlayer(entry.video?.url)).length;
+    updateReaderProgress(pdf.numPages - 1);
     for (let n = 1; n <= pdf.numPages; n++) {
       if (request !== viewerRequest) return;
       const page = await pdf.getPage(n);
@@ -124,8 +134,15 @@ async function openPDF(url, title) {
       newsPage.className = 'news-reader-page';
       const pageInfo=videoPages.find(entry=>entry.page===n);
       newsPage.dataset.priority=(pageInfo?.priority||'').slice(0,1);
-      const activeFilter=document.querySelector('#priority-filters button[aria-pressed="true"]');
-      if(activeFilter && !activeFilter.textContent.startsWith('Totes')) { const selected=[...document.querySelectorAll('#priority-filters button')].indexOf(activeFilter);newsPage.hidden=newsPage.dataset.priority!==String(selected); }
+      newsPage.dataset.tone = n === 1 ? 'cover' : entryTone(pageInfo);
+      newsPage.hidden = !matchesReaderFilters(newsPage.dataset.tone, newsPage.dataset.priority);
+      if (n !== 1) {
+        const badge = document.createElement('span');
+        badge.className = 'news-tone-label';
+        badge.dataset.tone = newsPage.dataset.tone;
+        badge.textContent = toneLabel(newsPage.dataset.tone) + (pageInfo?.tone ? '' : ' · Sense classificació disponible');
+        newsPage.append(badge);
+      }
       newsPage.append(canvas);
       viewerPages.append(newsPage);
       await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
@@ -437,20 +454,77 @@ document.querySelector('#week-disable').addEventListener('click',()=>{++weekRequ
 setInterval(refreshWeek,3600000);
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshWeek();});
 
+function entryTone(entry) {
+  return ['good', 'bad', 'other'].includes(entry?.tone) ? entry.tone : 'other';
+}
+
+function toneLabel(tone) {
+  return {good: 'Bones notícies', bad: 'Males notícies', other: 'Altres notícies'}[tone] || 'Totes';
+}
+
+function matchesReaderFilters(tone, priority) {
+  if (tone === 'cover') return selectedTone === 'all' && selectedPriority === 'all';
+  return (selectedTone === 'all' || tone === selectedTone) &&
+    (selectedPriority === 'all' || priority === selectedPriority);
+}
+
+function updateReaderProgress(fallbackCount) {
+  const visible = readerEntries.filter(entry => matchesReaderFilters(entryTone(entry), (entry.priority || '').slice(0, 1))).length;
+  if (!readerEntries.length) {
+    viewerProgress.textContent = fallbackCount + ' notícies · Aquesta edició no té classificació disponible.';
+  } else if (!visible) {
+    viewerProgress.textContent = 'No hi ha notícies amb aquesta combinació de filtres. Prova Totes o una altra categoria.';
+  } else {
+    viewerProgress.textContent = visible + ' de ' + readerEntries.length + ' notícies · ' + readerVideoCount + ' amb vídeo en tota l’edició.';
+  }
+}
+
+function applyReaderFilters() {
+  viewerPages.querySelectorAll('.news-reader-page').forEach(page => {
+    page.hidden = !matchesReaderFilters(page.dataset.tone, page.dataset.priority);
+  });
+  updateReaderProgress();
+}
+
 function addPriorityFilters(entries) {
-  const host=document.querySelector('#priority-filters');host.replaceChildren();
-  const labels=['Totes','Urgent','Important','Altres notícies'];
-  const counts=[entries.length,...[1,2,3].map(level=>entries.filter(x=>(x.priority||'').startsWith(String(level))).length)];
-  labels.forEach((label,level)=>{
-    const button=document.createElement('button');button.type='button';button.className='priority-button';
-    button.textContent=label+' ('+counts[level]+')';button.setAttribute('aria-pressed',String(level===0));
-    button.addEventListener('click',()=>{
-      host.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
-      viewerPages.querySelectorAll('.news-reader-page').forEach(page=>{page.hidden=level!==0&&page.dataset.priority!==String(level);});
+  readerEntries = entries;
+  selectedTone = selectedPriority = 'all';
+  const kinds = document.querySelector('#news-kind-filters');
+  kinds.replaceChildren();
+  ['all', 'good', 'bad', 'other'].forEach(tone => {
+    const button = document.createElement('button');
+    const count = tone === 'all' ? entries.length : entries.filter(entry => entryTone(entry) === tone).length;
+    button.type = 'button';
+    button.className = 'news-kind-button';
+    button.dataset.tone = tone;
+    button.textContent = toneLabel(tone) + ' (' + count + ')';
+    button.setAttribute('aria-pressed', String(tone === 'all'));
+    button.addEventListener('click', () => {
+      selectedTone = tone;
+      kinds.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(b === button)));
+      applyReaderFilters();
+    });
+    kinds.append(button);
+  });
+  document.querySelector('#news-kind-panel').hidden = !entries.length;
+  const host = document.querySelector('#priority-filters');
+  host.replaceChildren();
+  ['Totes', 'Urgent', 'Important', 'Altres notícies'].forEach((label, index) => {
+    const level = index ? String(index) : 'all';
+    const count = index ? entries.filter(entry => (entry.priority || '').startsWith(level)).length : entries.length;
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'priority-button';
+    button.textContent = label + ' (' + count + ')';
+    button.setAttribute('aria-pressed', String(!index));
+    button.addEventListener('click', () => {
+      selectedPriority = level;
+      host.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(b === button)));
+      applyReaderFilters();
     });
     host.append(button);
   });
-  host.hidden=!entries.some(x=>x.priority);
+  host.hidden = !entries.some(entry => entry.priority);
 }
 
 let currentMapMode='radar';

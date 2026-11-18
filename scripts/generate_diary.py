@@ -160,11 +160,47 @@ def news_priority(item):
 
 
 def rank_news(items):
-    ordered = sorted(items, key=news_priority)
+    for item in items:
+        item['tone'] = news_tone(item)
+    tone_order = {'good': 0, 'bad': 1, 'other': 2}
+    ordered = sorted(items, key=lambda item: (tone_order[item['tone']], news_priority(item)))
     labels = ['1 · Urgent', '2 · Important', '3 · Altres notícies']
     for item in ordered:
         item['priority'] = labels[news_priority(item)[0]]
     return ordered
+
+
+TONE_LABELS = {'good': 'Bones notícies', 'bad': 'Males notícies', 'other': 'Altres notícies'}
+
+
+def news_tone(item):
+    """Conservative headline-based grouping; ambiguous or mixed headlines stay in other."""
+    import unicodedata
+    title = ''.join(c for c in unicodedata.normalize('NFKD', item.get('title', '').casefold())
+                    if not unicodedata.combining(c))
+    # A question, proposal, opinion or hypothetical benefit is not an achieved outcome.
+    if '?' in title or re.search(r'\b(no|sense|podria|podrien|proposa|proposen|promet|prometen|opinio|editorial)\b', title):
+        return 'other'
+    positive = bool(re.search(
+        r'\b(rescatats? amb vida|rescatades? amb vida|rescaten amb vida|salven la vida|'
+        r'alliberen els ostatges|alliberament dels ostatges|alto el foc|acord de pau|'
+        r'recupera la llibertat|recuperen la llibertat|es recupera|es recuperen|'
+        r'tractament eficac|avenc medic|avenc cientific|nou tractament eficac|'
+        r'erradica|erradiquen|redueix la mortalitat|disminueix la mortalitat|'
+        r'baixa l.atur|cau l.atur|es redueix l.atur|'
+        r'guanya el premi|guanya un premi|guanyen el premi|guanyen un premi)\b', title))
+    negative = bool(re.search(
+        r'\b(morts?|mortes?|mor|moren|victimes|ferits?|ferides?|assassinat|assassinada|'
+        r'assassinats|assassinades|atemptat|bombardeig|bombardejos|agressio|'
+        r'abusos|violacio|segrest|guerra|inundacions?|incendis?|terratremol|'
+        r'evacuacio|evacuen|desnonaments?|acomiadaments?|corrupcio|'
+        r'desapareguts?|desaparegudes?)\b|alerta vermella|risc extrem|'
+        r'\b(puja|augmenta|creix) l.atur\b', title))
+    if positive and not negative:
+        return 'good'
+    if negative and not positive:
+        return 'bad'
+    return 'other'
 
 
 def fonts():
@@ -209,6 +245,11 @@ def build_pdf(path, items, now, failures, with_images=True):
     y = text(c, f'{len(items)} notícies del dia', 38, y - 34, 510, 19, bold=True)
     y = text(c, 'Notícies d’avui explicades amb els resums disponibles dels mitjans consultats.', 38, y - 22, 500, 14, color=MUTED)
     y = text(c, 'Fonts: ' + ' · '.join(dict.fromkeys(item['source'] for item in items)), 38, y - 24, 500, 12)
+    counts = ' · '.join(f"{label}: {sum(item.get('tone') == key for item in items)}"
+                        for key, label in TONE_LABELS.items())
+    y = text(c, counts, 38, y - 22, 500, 12, bold=True)
+    y = text(c, 'Classificació orientativa pel titular. Les notícies ambigües o mixtes van a Altres.',
+             38, y - 14, 500, 10, color=MUTED)
     if failures:
         y = text(c, 'Cobertura parcial: no s’ha pogut consultar ' + ', '.join(failures) + '.', 38, y - 20, 500, 12, color=MUTED)
     if not items:
@@ -216,6 +257,7 @@ def build_pdf(path, items, now, failures, with_images=True):
     c.showPage()
     for index, item in enumerate(items, 2):
         page_header(index)
+        text(c, TONE_LABELS.get(item.get('tone'), 'Altres notícies'), 38, 783, 510, 12, color=PINK, bold=True)
         text(c, item.get('priority', '') + ' · ' + item['source'] + ' · ' + item['category'], 38, 757, 510, 11, color=PINK, bold=True)
         y = text(c, item['title'], 38, 710, 510, 29, leading=37, bold=True)
         published = datetime.fromisoformat(item['published'])
@@ -276,7 +318,7 @@ def save_edition(output, items, metadata, now, with_images=True):
     catalog_path = output / 'archive.json'
     catalog = json.loads(catalog_path.read_text()) if catalog_path.exists() else {'editions': []}
     fingerprint = hashlib.sha256(json.dumps({
-        'date': metadata['date'], 'items': items, 'readerFormat': 'visible-priorities-v5',
+        'date': metadata['date'], 'items': items, 'readerFormat': 'news-tone-v6',
         'unavailableSources': sorted(metadata['unavailableSources'])
     }, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     latest_path = output / 'latest.json'
