@@ -1,1 +1,1334 @@
-{"version": 3, "pages": []}
+{
+  "version": 3,
+  "pages": [
+    {
+      "page": 2,
+      "title": "Dinamarca frustra l’assassinat d’un raper ucraïnès minuts abans d’un concert i expulsa un diplomàtic rus per la seva implicació",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/dinamarca-assassinat-raper-ucraines-diplomatic-rus/",
+      "published": "2026-11-20T19:26:34+01:00",
+      "priority": "1 · Urgent",
+      "tone": "bad"
+    },
+    {
+      "page": 3,
+      "title": "Nova denúncia per violació contra Gérard Depardieu, amb l’escriptor Michel Houellebecq involucrat",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/cultura/cinema/nova-denuncia-violacio-gerard-depardieu-l-escriptor-michel-houllebecq-involucrat_1_5917422.html",
+      "published": "2026-11-20T18:19:29+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "bad"
+    },
+    {
+      "page": 4,
+      "title": "Investiguen Gérard Depardieu i Michel Houellebecq, acusats de violació en grup",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/gerard-depardieu-michel-houellebecq-acusats-violacio-grup/",
+      "published": "2026-11-20T18:11:24+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "bad"
+    },
+    {
+      "page": 5,
+      "title": "Cas del traumatòleg denunciat per tocaments a Girona: Actua Trauma coneixia els abusos des del 2022",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/actua-trauma-on-treballava-el-traumatoleg-de-girona-denunciat-per-tocaments-ho-sabia-des-del-2022/noticia/3440940/",
+      "published": "2026-11-20T12:49:32+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "bad",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437598/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/actua-trauma-on-treballava-el-traumatoleg-de-girona-denunciat-per-tocaments-ho-sabia-des-del-2022/noticia/3440940/"
+      }
+    },
+    {
+      "page": 6,
+      "title": "La previsió del cap de setmana: dissabte rúfol, diumenge ventós i amb més sol",
+      "source": "3CatInfo · El temps",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dissabte-rufol-diumenge-ventos-i-amb-mes-sol/noticia/3440980/",
+      "published": "2026-11-20T09:48:04+01:00",
+      "priority": "2 · Important",
+      "tone": "other",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437749/embed/",
+        "source": "3CatInfo · El temps",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-previsio-del-cap-de-setmana-dissabte-rufol-diumenge-ventos-i-amb-mes-sol/noticia/3440980/"
+      }
+    },
+    {
+      "page": 7,
+      "title": "La cogestió aeroportuària entra en campanya: d’una qüestió de sobirania a “un mecanisme pervers”",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/cogestio-aeroportuaria-campanya-eleccions-espanyoles-illes/",
+      "published": "2026-11-20T21:20:33+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 8,
+      "title": "Un ARA dibuixat per nois i noies preocupats per l’habitatge",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/fotografies/ara-dibuixat-nois-noies-preocupats-l-habitatge_3_5917493.html",
+      "published": "2026-11-20T20:49:56+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 9,
+      "title": "El dret a l’habitatge vist pels infants: aquests són els guanyadors del concurs de l’ARA i Unicef",
+      "source": "ARA",
+      "articleUrl": "https://criatures.ara.cat/infancia/dret-l-habitatge-vist-pels-infants-aquests-son-guanyadors-concurs-l-ara-unicef_130_5916906.html",
+      "published": "2026-11-20T20:00:21+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 10,
+      "title": "Plataforma pro Museu del Transport: “Calen dos camps de futbol i ens donen una pista de tennis”",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/cultura/plataforma-pro-museu-transport-contencios-administratiu/",
+      "published": "2026-11-20T19:53:32+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 11,
+      "title": "Alamany promet de protegir el català arran de l’amenaça d’un govern del PP i Vox",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/alamany-promet-protegir-catala-pp-vox/",
+      "published": "2026-11-20T17:47:23+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 12,
+      "title": "Cardedeu estrena la promoció d’habitatge cooperatiu més gran de Catalunya en sòl privat",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/cardedeu-estrena-la-promocio-dhabitatge-cooperatiu-mes-gran-de-catalunya-en-sol-privat/",
+      "published": "2026-11-20T17:46:13+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 13,
+      "title": "Colau reivindica el Front Ampli com l’esquerra que no es resigna a un govern del PP i Vox",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/colau-front-ampli-govern-pp-vox-eleccions-espanyoles/",
+      "published": "2026-11-20T17:41:29+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 14,
+      "title": "Ara Més proposa un IVA turístic del 21% que es destini a habitatge i transport",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/ara-mes-iva-turistic-21/",
+      "published": "2026-11-20T17:29:15+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 15,
+      "title": "Sanitat avisa que la píndola anticonceptiva perd efecte si es pren el fàrmac Mounjaro per aprimar-se",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/sanitat-avisa-que-la-pildora-anticonceptiva-perd-efecte-si-es-pren-el-farmac-mounjaro-per-aprimar-se/noticia/3441072/",
+      "published": "2026-11-20T17:11:16+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 16,
+      "title": "El Salvador de Bukele agafa el control de la seguretat d'un Haití dominat per les bandes criminals",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/el-salvador-de-bukele-agafa-el-control-de-la-seguretat-dun-haiti-dominat-per-les-bandes-criminals/noticia/3440986/",
+      "published": "2026-11-20T15:42:48+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 17,
+      "title": "El govern espanyol aprova el decret de centres de dades per prevenir un “impacte” de 5.000 M€ en la factura elèctrica",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/economia/tecnologia/govern-espanyol-aprova-decret-centres-dades-prevenir-impacte-5-000-m-factura-electrica_1_5917053.html",
+      "published": "2026-11-20T15:06:09+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 18,
+      "title": "Habitatge: pregunteu als candidats",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/habitatge-pregunteu-als-candidats_129_5915700.html",
+      "published": "2026-11-20T14:25:51+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 19,
+      "title": "El govern espanyol aprova el decret que regula la instal·lació dels centres de dades",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/el-govern-espanyol-flexibilitza-les-exigencies-energetiques-per-als-centres-de-dades/noticia/3436389/",
+      "published": "2026-11-20T14:00:04+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 20,
+      "title": "El Semaf desconvoca la vaga de maquinistes de dilluns després d’un acord amb Renfe",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/mobilitat/semaf-desconvoca-vaga-maquinistes-dilluns-despres-d-acord-renfe_1_5916839.html",
+      "published": "2026-11-20T09:02:44+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 21,
+      "title": "L’Agència Estatal de Seguretat Ferroviària frena el traspàs de la R1 de Rodalies",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/mobilitat/l-agencia-estatal-seguretat-ferroviaria-frena-traspas-r1-rodalies_1_5915794.html",
+      "published": "2026-11-20T06:00:43+01:00",
+      "priority": "2 · Important",
+      "tone": "other"
+    },
+    {
+      "page": 22,
+      "title": "L'efecte Sarabia eleva l'Espanyol a La Catedral (0-1)",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/en-directe-athletic-club-espanyol-els-blanc-i-blaus-busquen-la-victoria-ja-amb-eder-sarabia-a-la-banqueta/noticia/3440901/",
+      "published": "2026-11-20T22:55:15+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 23,
+      "title": "L’Espanyol torna a guanyar parlant l’idioma de Sarabia",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/esports/rcd-espanyol/l-espanyol-torna-guanyar-parlant-l-idioma-sarabia_1_5917835.html",
+      "published": "2026-11-20T22:53:53+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 24,
+      "title": "Indignació màxima al Palau",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/esports/basquet/eurolliga/cronica-barca-estrella-roja_1_5917823.html",
+      "published": "2026-11-20T22:51:55+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 25,
+      "title": "La COP31 afronta dividida les hores decisives: \"Hem de tornar a casa amb alguna cosa\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-cop31-afronta-dividida-les-hores-decisives-hem-de-tornar-a-casa-amb-alguna-cosa/noticia/3441139/",
+      "published": "2026-11-20T22:47:22+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 26,
+      "title": "El cop d’estat de Múnic explicat per Von Kahr (1923)",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/cop-d-munic-explicat-von-kahr-1923_129_5890985.html",
+      "published": "2026-11-20T22:30:37+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 27,
+      "title": "Trump s’aferra a la fotografia de Shenzhen en un moment de debilitat interna",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/estats-units/trump-s-aferra-fotografia-shenzhen-moment-debilitat-interna_1_5917238.html",
+      "published": "2026-11-20T22:14:36+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 28,
+      "title": "Puigdemont agafa les regnes de la campanya i equipara Rufián amb Abascal: “Volen que desapareguem”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/puigdemont-agafa-regnes-campanya-equipara-rufian-abascal-volen-desapareguem_1_5917714.html",
+      "published": "2026-11-20T22:03:05+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 29,
+      "title": "Francisco Javier Vera, Premi Internacional Infantil de la Pau: \"Catalunya m'ha abraçat i acollit\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/francisco-javier-vera-premi-internacional-infantil-de-la-pau-catalunya-mha-abracat-i-acollit/noticia/3441152/",
+      "published": "2026-11-20T21:53:35+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 30,
+      "title": "Un \"cas Pelicot\" al Regne Unit: quatre condemnes per violar una dona sedada per la seva parella",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/un-cas-pelicot-al-regne-unit-quatre-condemnes-per-violar-una-dona-sedada-per-la-seva-parella/noticia/3441164/",
+      "published": "2026-11-20T21:48:02+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437730/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/un-cas-pelicot-al-regne-unit-quatre-condemnes-per-violar-una-dona-sedada-per-la-seva-parella/noticia/3441164/"
+      }
+    },
+    {
+      "page": 31,
+      "title": "Foment del Treball alerta del perill del narcotràfic per a l'economia",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/foment-del-treball-alerta-del-perill-del-narcotrafic-per-a-leconomia/noticia/3441153/",
+      "published": "2026-11-20T21:39:51+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437744/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/foment-del-treball-alerta-del-perill-del-narcotrafic-per-a-leconomia/noticia/3441153/"
+      }
+    },
+    {
+      "page": 32,
+      "title": "Alhora exhibeix múscul amb Clara Ponsatí i Marc Parrot de protagonistes inesperats",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/alhora-exhibeix-muscul-clara-ponsati-marc-parrot-protagonistes-inesperats_1_5917418.html",
+      "published": "2026-11-20T21:33:26+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 33,
+      "title": "Graupera, a l’acte central d’Alhora: “El primer pas per a fer la independència és tornar-nos a organitzar”",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/graupera-alhora-independencia-organitzar/",
+      "published": "2026-11-20T21:22:26+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 34,
+      "title": "Putin tensa més la corda amb Europa",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/editorial/putin-tensa-mes-corda-europa_129_5917585.html",
+      "published": "2026-11-20T21:14:06+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 35,
+      "title": "Aquest dissabte, un ARA molt especial als quioscos",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/portadaaportada/aquest-dissabte-l-ara-mira-mon-ulls-d-infant_1_5917917.html",
+      "published": "2026-11-20T21:13:04+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 36,
+      "title": "Gabriel Rufián revela l’origen del seu idil·li amb Podem: “Sou la meva gent”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/gabriel-rufian-revela-l-origen-idil-li-sou-meva-gent_1_5917804.html",
+      "published": "2026-11-20T21:10:59+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 37,
+      "title": "25N: què hem après i què ens queda per fer?",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/placa-oberta/25n-que-hem-apres-i-que-ens-queda-per-fer/",
+      "published": "2026-11-20T21:03:37+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 38,
+      "title": "betevé notícies vespre",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/btv-noticies-vespre/beteve-noticies-vespre-462/",
+      "published": "2026-11-20T21:02:44+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 39,
+      "title": "Infobarris",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/infobarris/infobarris-208/",
+      "published": "2026-11-20T21:00:03+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 40,
+      "title": "Dissabte canviant, dia d’espera abans d’una forta ventada diumenge",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/medi-ambient/temps-barcelona-dissabte-21-novembre-dia-canviant-vent-diumenge/",
+      "published": "2026-11-20T20:49:27+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 41,
+      "title": "Front Ampli promet l’extinció de totes les fundacions franquistes si torna a governar",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/front-ampli-promet-extincio-fundacions-franquistes-torna-governar/",
+      "published": "2026-11-20T20:48:54+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 42,
+      "title": "Arriba la prova de foc per a la mobilització docent",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/educacio/prova-foc-mobilitzacio-docent_1_5915856.html",
+      "published": "2026-11-20T20:33:12+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 43,
+      "title": "Illa demana a ERC de centrar-se a vèncer la dreta i extrema dreta el 29-N",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/illa-demana-erc-centrar-vencer-dreta-extrema-dreta-29n/",
+      "published": "2026-11-20T20:32:12+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 44,
+      "title": "Un altre comboi amb ajuda humanitària parteix des de Barcelona cap a Ucraïna",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/politica/comboi-ajuda-humanitaria-parteix-ucraina/",
+      "published": "2026-11-20T20:08:42+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 45,
+      "title": "Centenars de manifestants reclamen a Barcelona i Castelló la llibertat dels vaguistes: “La presó provisional és una barbaritat”",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/centenars-barcelona-llibertat-vaguistes/",
+      "published": "2026-11-20T20:08:22+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 46,
+      "title": "Qüestionari ràpid a Jordi Hereu (PSC): \"No li pregunto res a la intel·ligència artificial\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/questionari-rapid-a-jordi-hereu-psc-no-li-pregunto-res-a-la-intelligencia-artificial/noticia/3441123/",
+      "published": "2026-11-20T20:00:52+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437690/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/questionari-rapid-a-jordi-hereu-psc-no-li-pregunto-res-a-la-intelligencia-artificial/noticia/3441123/"
+      }
+    },
+    {
+      "page": 47,
+      "title": "“Si governen el PP i Vox els polítics haurem de desobeir”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/governen-pp-vox-politics-haurem-desobeir_128_5915419.html",
+      "published": "2026-11-20T20:00:20+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 48,
+      "title": "Souvenirs",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/via-15/souvenirs/",
+      "published": "2026-11-20T19:58:39+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 49,
+      "title": "Un central com Cubarsí",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/central-cubarsi_129_5917709.html",
+      "published": "2026-11-20T19:51:52+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 50,
+      "title": "Els possibles rivals d’Europa i Sant Andreu a la Copa: podria ser un Primera Divisió",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/esports/rivals-segona-ronda-copa-europa-sant-andreu/",
+      "published": "2026-11-20T19:50:53+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 51,
+      "title": "Europa abandona les pimes en mans de les grans empreses?",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/europa-abandona-les-pimes-en-mans-de-les-grans-empreses/",
+      "published": "2026-11-20T19:50:51+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 52,
+      "title": "S'esgota el Pla Auto+ d'ajudes als cotxes elèctrics i ara s'obre la llista d'espera",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/sesgota-el-pla-auto-dajudes-als-cotxes-electrics-i-ara-sobre-la-llista-despera/noticia/3441140/",
+      "published": "2026-11-20T19:36:15+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 53,
+      "title": "Cauen dos míssils i un dron russos a Polònia, que demana a l'OTAN reforçar les seves defenses",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/cauen-dos-missils-i-un-dron-russos-a-polonia-que-demana-a-lotan-reforcar-les-seves-defenses/noticia/3441126/",
+      "published": "2026-11-20T19:26:41+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437725/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/cauen-dos-missils-i-un-dron-russos-a-polonia-que-demana-a-lotan-reforcar-les-seves-defenses/noticia/3441126/"
+      }
+    },
+    {
+      "page": 54,
+      "title": "ID. Polo GTI Clubsport, tota una declaració d’intencions amb 367 CV de potència",
+      "source": "ARA",
+      "articleUrl": "https://motor.ara.cat/novetats/id-polo-gti-clubsport-tota-declaracio-d-intencions-367-cv-potencia_1_5917425.html",
+      "published": "2026-11-20T19:25:42+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 55,
+      "title": "Anthropic baixa un 10% a la borsa l'endemà de la seva estrena històrica",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/anthropic-baixa-un-10-a-la-borsa-lendema-de-la-seva-estrena-historica/noticia/3441122/",
+      "published": "2026-11-20T19:08:54+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 56,
+      "title": "Sánchez va perdre un debat i va guanyar un relat",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/sanchez-perdre-debat-guanyar-relat_129_5917522.html",
+      "published": "2026-11-20T19:07:30+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 57,
+      "title": "Capturat amb un arsenal d'armes un membre del grup ciberterrorista prorús NoName 057",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/capturat-amb-un-arsenal-darmes-un-membre-del-grup-ciberterrorista-prorus-noname-057/noticia/3441056/",
+      "published": "2026-11-20T19:06:42+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 58,
+      "title": "De fit a fit",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/vinyetes/fit-fit-21-11-2026_134_5915694.html",
+      "published": "2026-11-20T19:05:37+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 59,
+      "title": "Ara que no s'ofengui ningú",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/vinyetes/ara-no-s-ofengui-ningu-21-11-2026_134_5917419.html",
+      "published": "2026-11-20T19:05:36+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 60,
+      "title": "A la contra",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/vinyetes/ferreres-21-11-2026_134_5916927.html",
+      "published": "2026-11-20T19:05:36+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 61,
+      "title": "En llibertat el milionari nord-americà Fergie Chambers, l'activista propalestí detingut a Eivissa",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/en-llibertat-el-milionari-nord-america-fergie-chambers-lactivista-propalesti-detingut-a-eivissa/noticia/3441086/",
+      "published": "2026-11-20T19:05:29+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 62,
+      "title": "Commoció a Dinamarca per l'amagat passat nazi de Kirsten Schwalbe, la dona més gran del país",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/commocio-a-dinamarca-per-lamagat-passat-nazi-de-kirsten-schwalbe-la-dona-mes-gran-del-pais/noticia/3440992/",
+      "published": "2026-11-20T19:01:21+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 63,
+      "title": "Els infants no voten",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/infants-no-voten_129_5917317.html",
+      "published": "2026-11-20T18:56:42+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 64,
+      "title": "La Unió Europea i el Regne Unit signen acords de retrobament 10 anys després del Brexit",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-unio-europea-i-el-regne-unit-signen-acords-de-retrobament-10-anys-despres-del-brexit/noticia/3441112/",
+      "published": "2026-11-20T18:56:35+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437726/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-unio-europea-i-el-regne-unit-signen-acords-de-retrobament-10-anys-despres-del-brexit/noticia/3441112/"
+      }
+    },
+    {
+      "page": 65,
+      "title": "29-N: el cara a cara televisat entre Sánchez i Feijóo marca el dia 8 de campanya",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/politica/cara-a-cara-televisat-sanchez-feijoo-marca-dia-8-campanya-eleccions-generals-2026-29n/",
+      "published": "2026-11-20T18:54:16+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 66,
+      "title": "El Mercat de l’Oli Nou es trasllada a les Glòries i incorpora mostra de mels i vins",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/estils-de-vida/oli-nou-glories-tastar-bo-millor-productors-catalans/",
+      "published": "2026-11-20T18:51:00+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 67,
+      "title": "Magda Oranich",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/amb-cita-previa/magda-oranich/",
+      "published": "2026-11-20T18:48:35+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 68,
+      "title": "Una òpera rock, la insòlita proposta per recuperar la figura de Buenaventura Durruti",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/una-opera-rock-la-insolita-proposta-per-recuperar-la-figura-de-buenaventura-durruti/noticia/3440513/",
+      "published": "2026-11-20T18:32:01+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437607/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/una-opera-rock-la-insolita-proposta-per-recuperar-la-figura-de-buenaventura-durruti/noticia/3440513/"
+      }
+    },
+    {
+      "page": 69,
+      "title": "Detingut per haver matat la mare, de 59 anys, a Llívia",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/successos/detingut-matat-mare-59-anys-llivia_1_5917501.html",
+      "published": "2026-11-20T18:28:44+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 70,
+      "title": "‘GTA VI’ i l’art d’atropellar vianants indefensos",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/gta-vi-art-atropellar-vianants-indefensos_129_5917353.html",
+      "published": "2026-11-20T18:27:36+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 71,
+      "title": "La Junta Electoral dóna la raó a Viladamat i permet de mantenir els murals independentistes",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/junta-electoral-viladamat-murals-independentistes/",
+      "published": "2026-11-20T18:26:54+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 72,
+      "title": "BComú demana a Collboni que compri un edifici del Guinardó, ara en mans d’un fons d’inversió",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/politica/bcomu-demana-collboni-comprar-edifici-guinardo-propietat-fons-inversio/",
+      "published": "2026-11-20T18:11:08+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 73,
+      "title": "Ni Cambó ni Macià: l’home que ho va ser gairebé tot sense voler sortir a la foto",
+      "source": "ARA",
+      "articleUrl": "https://llegim.ara.cat/reportatges/cambo-macia-l-home-ho-gairebe-voler-sortir-foto_130_5916048.html",
+      "published": "2026-11-20T18:04:53+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 74,
+      "title": "Xavi Espart renova amb el Barça fins al 2030: “Vull fer carrera al club de la meva vida”",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/esports/xavi-espart-renova-barca-2030-somni/",
+      "published": "2026-11-20T18:03:36+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 75,
+      "title": "Un club de barri obrer desafia els nous transatlàntics del futbol català",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/esports/futbol/club-barri-obrer-desafia-nous-transatlantics-futbol-catala_130_5915977.html",
+      "published": "2026-11-20T18:00:49+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 76,
+      "title": "Broncano, amb B de bucle",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/media/tv/broncano-b-bucle_129_5917360.html",
+      "published": "2026-11-20T18:00:49+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 77,
+      "title": "Catalunya davant el 29-N",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/catalunya-davant-29-n_129_5914519.html",
+      "published": "2026-11-20T18:00:48+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 78,
+      "title": "Fent l’avi",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/fent-l-avi_129_5916087.html",
+      "published": "2026-11-20T18:00:48+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 79,
+      "title": "Sense llar no hi ha infància digna",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/llar-no-hi-infancia-digna_129_5914525.html",
+      "published": "2026-11-20T18:00:48+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 80,
+      "title": "El qui pugui votar, que voti",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/pugui-votar-voti_129_5917036.html",
+      "published": "2026-11-20T18:00:48+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 81,
+      "title": "La resposta no pot ser menys democràcia",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/resposta-no-menys-democracia_129_5915038.html",
+      "published": "2026-11-20T18:00:48+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 82,
+      "title": "Verificacions del cara a cara entre Pedro Sánchez i Alberto Núñez Feijóo",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/politica/verificacions-cara-a-cara-pedro-sanchez-alberto-nunez-feijoo-comprobado/",
+      "published": "2026-11-20T17:55:04+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 83,
+      "title": "Compromís – Front Valencià proposa de prohibir temporalment la compra d’habitatges als no-residents",
+      "source": "VilaWeb",
+      "articleUrl": "https://www.vilaweb.cat/noticies/compromis-front-valencia-restringir-compra-habitatges-no-residents/",
+      "published": "2026-11-20T17:53:17+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 84,
+      "title": "Pedro Sánchez perd també la batalla del mem",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/media/pedro-sanchez-perd-tambe-batalla-mem_129_5917359.html",
+      "published": "2026-11-20T17:45:33+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 85,
+      "title": "Manuel Camino deixa de ser el president institucional del Sant Andreu",
+      "source": "betevé",
+      "articleUrl": "https://beteve.cat/esports/manuel-camino-deixa-president-institucional-sant-andreu/",
+      "published": "2026-11-20T17:43:31+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 86,
+      "title": "Flexibilitat per contractar investigadors i millors sous: el nou decret per propulsar la ciència estratègica",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/ciencia-medi-ambient/flexibilitat-contractar-investigadors-millors-sous-nou-decret-propulsar-ciencia-estrategica_1_5917279.html",
+      "published": "2026-11-20T17:22:57+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 87,
+      "title": "Cap de setmana amb una mica de tot, a l’espera de més fred",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/previsions/cap-setmana-mica-l-espera-mes-fred_1_5917234.html",
+      "published": "2026-11-20T16:52:13+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 88,
+      "title": "Res és casualitat en una campanya: el recorregut estratègic de Sánchez i Feijóo per rascar l’últim escó",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/res-casualitat-campanya-recorregut-estrategic-sanchez-feijoo-rascar-l-ultim-esco_1_5915891.html",
+      "published": "2026-11-20T16:31:54+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 89,
+      "title": "“Hi ha una cosa que no podem automatitzar, i és la responsabilitat editorial”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/hi-cosa-no-automatitzar-responsabilitat-editorial_128_5914787.html",
+      "published": "2026-11-20T16:31:06+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 90,
+      "title": "“La IA és una oportunitat per a la qualitat assistencial”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/ia-oportunitat-qualitat-assistencial_128_5914965.html",
+      "published": "2026-11-20T16:31:06+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 91,
+      "title": "“És imprescindible posar la tecnologia al servei de la societat si volem preservar els nostres valors”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/imprescindible-posar-tecnologia-servei-societat-volem-preservar-nostres-valors_128_5915621.html",
+      "published": "2026-11-20T16:31:06+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 92,
+      "title": "“Els joves han d’estar al centre de la innovació socialment responsable”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/joves-han-d-centre-innovacio-socialment-responsable_128_5915008.html",
+      "published": "2026-11-20T16:31:06+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 93,
+      "title": "“Com més digital sigui el món, més humà l’hem de fer”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/mes-digital-sigui-mon-mes-huma-l-hem_128_5914938.html",
+      "published": "2026-11-20T16:31:06+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 94,
+      "title": "“Ens calen projectes ambiciosos per atreure i formar talent”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/calen-projectes-ambiciosos-atreure-formar-talent_128_5914726.html",
+      "published": "2026-11-20T16:31:05+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 95,
+      "title": "“Hem de situar els valors davant de la tecnologia”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/hem-situar-valors-davant-tecnologia_128_5914628.html",
+      "published": "2026-11-20T16:31:05+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 96,
+      "title": "Premis d’Innovació Digital de Catalunya 2026: tots els guardonats i les categories",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/premis-d-innovacio-digital-catalunya-2026-tots-guardonats-categories_1_5915051.html",
+      "published": "2026-11-20T16:31:05+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 97,
+      "title": "“Volem que la Catalunya sencera sigui un pol digital al sud d’Europa”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/volem-catalunya-sencera-sigui-pol-digital-sud-d-europa_128_5914652.html",
+      "published": "2026-11-20T16:31:05+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 98,
+      "title": "GRAUSTIC situa la responsabilitat digital al centre del futur tecnològic",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/graustic-situa-responsabilitat-digital-centre-futur-tecnologic_1_5914689.html",
+      "published": "2026-11-20T16:31:04+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 99,
+      "title": "GRAUSTIC, què és?",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/graustic_1_5915054.html",
+      "published": "2026-11-20T16:31:04+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 100,
+      "title": "“La innovació té sentit quan genera oportunitats i millora la vida de les persones”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/especials/innovacio-sentit-genera-oportunitats-millora-vida-persones_128_5914548.html",
+      "published": "2026-11-20T16:31:04+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 101,
+      "title": "“Si la pel·lícula de ‘Cites’ es fa en castellà és perquè TV3 no ha volgut entrar-hi”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/cultura/cinema/citas-pelicula-cites-castella-tv3-entrar_1_5917065.html",
+      "published": "2026-11-20T16:28:05+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 102,
+      "title": "Hereu avisa Junts que pagarà a les urnes les crítiques de Puigdemont a Sánchez",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/la-ressaca-del-cara-a-cara-entre-sanchez-i-feijoo-marca-el-vuite-dia-de-campanya/noticia/3441013/",
+      "published": "2026-11-20T15:50:56+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437750/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/la-ressaca-del-cara-a-cara-entre-sanchez-i-feijoo-marca-el-vuite-dia-de-campanya/noticia/3441013/"
+      }
+    },
+    {
+      "page": 103,
+      "title": "Anthropic fa tremolar el sector tecnològic en el seu segon dia a la borsa",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/economia/tecnologia/anthropic-s-enfonsa-prop-d-8-segona-jornada-borsa_1_5917228.html",
+      "published": "2026-11-20T15:46:54+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 104,
+      "title": "Un jove de Figueres suplanta més de 40 metges per obtenir receptes falses",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/successos/jove-figueres-suplanta-mes-40-metges-obtenir-receptes-falses_1_5917108.html",
+      "published": "2026-11-20T15:31:40+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 105,
+      "title": "Juanjo Aizcorbe (Vox): \"La immersió ha sigut un desastre, cada família ha de poder triar\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/juanjo-aizcorbe-vox-sobre-la-immersio-ha-sigut-un-desastre-cada-familia-ha-de-poder-triar/noticia/3441001/",
+      "published": "2026-11-20T15:30:21+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437692/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/juanjo-aizcorbe-vox-sobre-la-immersio-ha-sigut-un-desastre-cada-familia-ha-de-poder-triar/noticia/3441001/"
+      }
+    },
+    {
+      "page": 106,
+      "title": "La UE i el Regne Unit certifiquen el desgel amb els primers acords post-Brexit",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/europa/regne-unit-ue-certifiquen-l-inici-d-lent-desgel-decada-despres-brexit_1_5916982.html",
+      "published": "2026-11-20T15:25:43+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 107,
+      "title": "Examen als partits: què proposa cadascú en matèria tecnològica?",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/media/examen-als-partits-proposa-cadascu-materia-tecnologica_1_5917052.html",
+      "published": "2026-11-20T15:12:14+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 108,
+      "title": "Catalunya assumeix la presidència de la Conferència de les Regions Perifèriques Marítimes",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/europa/catalunya-assumeix-presidencia-conferencia-regions-periferiques-maritimes_1_5916938.html",
+      "published": "2026-11-20T14:44:05+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 109,
+      "title": "Els audímetres, contra Sánchez",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/media/audimetres-sanchez_129_5917107.html",
+      "published": "2026-11-20T14:43:37+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 110,
+      "title": "“Ningú ens ha regalat res”: 50 anys de lluita LGBTIQ+ a la Model",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/cultura/memoria-historica/ningu-regalat-res-50-anys-lluita-lgbtiq-model_1_5916959.html",
+      "published": "2026-11-20T14:28:09+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 111,
+      "title": "L'escriptor Pep Valsalobre i la poeta Meritxell Nus, guanyadors dels Premis Literaris de Lleida",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/lescriptor-pep-valsalobre-i-la-poeta-meritxell-nus-guanyadors-dels-premis-literaris-de-lleida/noticia/3440991/",
+      "published": "2026-11-20T14:23:03+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 112,
+      "title": "Última crida a incloure la fi dels combustibles fòssils en l’acord de la COP31",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/ultima-crida-incloure-dels-combustibles-fossils-l-acord-cop31_1_5916955.html",
+      "published": "2026-11-20T14:04:30+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 113,
+      "title": "La presidenta de la mesa electoral que es va negar a donar la mà a Arrimadas",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/presidenta-mesa-electoral-negar-donar-ma-arrimadas_1_5913593.html",
+      "published": "2026-11-20T13:50:13+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 114,
+      "title": "Gabriela Galcerán: “Si escoltéssim més els artistes, les coses ens anirien millor a tots”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/cultura/art/gabriela-galceran-escoltessim-mes-artistes-coses-anirien-millor-tots_1_5916862.html",
+      "published": "2026-11-20T13:42:49+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 115,
+      "title": "Demani perdó",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/demani-perdo_129_5916918.html",
+      "published": "2026-11-20T13:33:52+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 116,
+      "title": "La misteriosa empresa que va demandar el Barça i que ara Laporta ha tornat a contractar",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/esports/barca/mcm-misteriosa-empresa-laporta-contractar-barca_130_5916043.html",
+      "published": "2026-11-20T13:30:03+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 117,
+      "title": "Gràcies a un adolescent, troben una marededeu romànica robada fa cinc dècades",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/cultura/patrimoni/gracies-adolescent-troben-marededeu-romanica-robada-cinc-decades_1_5917000.html",
+      "published": "2026-11-20T13:09:17+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 118,
+      "title": "Llegir cansa i pensar encara més (però les vambes de Rosalía són gratis!)",
+      "source": "ARA",
+      "articleUrl": "https://llegim.ara.cat/actualitat/llegir-cansa-pensar-encara-mes-vambes-rosalia-son-gratis_1_5916932.html",
+      "published": "2026-11-20T12:58:25+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 119,
+      "title": "El Barça es desinfla: segona derrota consecutiva a l'Eurolliga amb polèmica arbitral",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/en-directe-barca-estrella-roja-els-culers-volen-tornar-a-guanyar-a-leurolliga/noticia/3440934/",
+      "published": "2026-11-20T12:51:48+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 120,
+      "title": "El Nobel de la pau infantil rep el premi amb un discurs en català",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/nobel-pau-infantil-rep-premi-discurs-catala_1_5916876.html",
+      "published": "2026-11-20T12:03:26+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 121,
+      "title": "El mentrestant de Puigdemont inclou tornar-se a deslliurar del marc mental espanyol",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/analisi/mentrestant-puigdemont-inclou-tornar-deslliurar-marc-mental-espanyol_1_5916954.html",
+      "published": "2026-11-20T11:43:33+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 122,
+      "title": "Illa critica els atacs de Feijóo en el cara a cara: “Està molt obsessionat amb Sánchez”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/illa-critica-atacs-feijoo-cara-cara-obsessionat-sanchez_1_5916900.html",
+      "published": "2026-11-20T11:29:15+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 123,
+      "title": "Xavier García Albiol (PP): \"No estic d'acord en com Vox planteja la prioritat nacional\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/xavier-garcia-albiol-pp-no-estic-dacord-en-com-vox-planteja-la-prioritat-nacional/noticia/3440985/",
+      "published": "2026-11-20T11:24:00+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437579/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/xavier-garcia-albiol-pp-no-estic-dacord-en-com-vox-planteja-la-prioritat-nacional/noticia/3440985/"
+      }
+    },
+    {
+      "page": 124,
+      "title": "El Museu Opisso s’incorpora a les visites del Club Prèmium de l’ARA",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/comunitat/museu-opisso-s-incorpora-visites-club-premium-l-ara_1_5915348.html",
+      "published": "2026-11-20T09:32:27+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 125,
+      "title": "“És una provocació intencionada”: dos míssils russos cauen a Polònia, coincidint amb exercicis militars dels aliats d’Ucraïna",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/europa/almenys-tres-morts-15-ferits-atac-rus-massiu-danya-tres-ponts-kiiv_1_5916747.html",
+      "published": "2026-11-20T09:16:59+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 126,
+      "title": "Sense armes però amb tota la ràbia: el dia que les veïnes de l’extraradi van segrestar un autobús",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/cultura/memoria-historica/armes-tota-rabia-dia-veines-l-extraradi-segrestar-autobus_1_5914876.html",
+      "published": "2026-11-20T09:09:32+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 127,
+      "title": "La casa que venç el pendent",
+      "source": "ARA",
+      "articleUrl": "https://diumenge.ara.cat/diumenge/casa-venc-pendent_130_5914827.html",
+      "published": "2026-11-20T08:00:20+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 128,
+      "title": "Un club de futbol autogestionat i només en català: el projecte que va impulsar Oleguer Presas a Sabadell",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/llengua/club-futbol-autogestionat-nomes-catala-projecte-fundar-oleguer-presas-sabadell_1_5909138.html",
+      "published": "2026-11-20T07:30:54+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 129,
+      "title": "El teatre familiar es reivindica i programa 65 espectacles en un sol dia",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/el-teatre-familiar-es-reivindica-i-programa-65-espectacle-en-un-sol-dia/noticia/3440400/",
+      "published": "2026-11-20T07:20:11+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 130,
+      "title": "L'efecte mirall en les 10 denúncies contra el traumatòleg de Girona: \"Ha ajudat a trencar el silenci\"",
+      "source": "3CatInfo",
+      "articleUrl": "https://www.3cat.cat/3catinfo/lefecte-mirall-en-les-noves-denuncies-contra-el-traumatoleg-de-girona-ha-ajudat-a-trencar-el-silenci/noticia/3439575/",
+      "published": "2026-11-20T07:18:04+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other",
+      "video": {
+        "url": "https://www.3cat.cat/3cat/video/6437663/embed/",
+        "source": "3CatInfo",
+        "articleUrl": "https://www.3cat.cat/3catinfo/lefecte-mirall-en-les-noves-denuncies-contra-el-traumatoleg-de-girona-ha-ajudat-a-trencar-el-silenci/noticia/3439575/"
+      }
+    },
+    {
+      "page": 131,
+      "title": "Viola Ardone: “Els fills han de desil·lusionar els pares per tenir llibertat”",
+      "source": "ARA",
+      "articleUrl": "https://llegim.ara.cat/actualitat/viola-ardone-fills-han-desil-lusionar-pares-llibertat_1_5866187.html",
+      "published": "2026-11-20T07:15:43+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 132,
+      "title": "Jordi Roca obre botiga a Barcelona: Casa Cacao apuja la persiana a la Ciutat Comtal",
+      "source": "ARA",
+      "articleUrl": "https://mengem.ara.cat/mengem/jordi-roca-obre-botiga-barcelona-casa-cacao-apuja-persiana-ciutat-comtal_1_5916207.html",
+      "published": "2026-11-20T07:00:32+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 133,
+      "title": "Els barris de muntanya prenen la paraula en la Capital Mundial de l’Arquitectura",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/societat/barcelona/barris-muntanya-prenen-paraula-capital-mundial-l-arquitectura_1_5914931.html",
+      "published": "2026-11-20T07:00:32+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 134,
+      "title": "Picasso, “el pare putatiu” de l’arquitectura moderna",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/cultura/art/picasso-pare-putatiu-l-arquitectura-moderna_1_5915360.html",
+      "published": "2026-11-20T07:00:31+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 135,
+      "title": "“Que el Regne Unit obtingui més beneficis dels que tenia quan era a la UE no té cap sentit”",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/europa/regne-unit-obtingui-mes-beneficis-dels-tenia-ue-no-cap-sentit_128_5916006.html",
+      "published": "2026-11-20T07:00:31+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 136,
+      "title": "El vídeo més emocionant de la Nit de l’ARA",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/media/video-mes-emocionant-nit-l-ara_1_5915955.html",
+      "published": "2026-11-20T07:00:30+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 137,
+      "title": "Tot està en joc per a Javier Milei",
+      "source": "ARA",
+      "articleUrl": "https://empreses.ara.cat/sector-public/joc-javier-milei_1_5915843.html",
+      "published": "2026-11-20T07:00:29+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 138,
+      "title": "Espanya, retorn al passat",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/opinio/espanya-retorn-passat_129_5915666.html",
+      "published": "2026-11-20T07:00:29+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 139,
+      "title": "Pensava que l’Iran seria com l’Afganistan, però no és així: hi ha menys restriccions",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/internacional/afganistan/pensava-l-iran-seria-l-afganistan-no-aixi-hi-menys-restriccions_129_5915347.html",
+      "published": "2026-11-20T07:00:28+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 140,
+      "title": "Una gironitat",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/girona/gironitat_129_5913452.html",
+      "published": "2026-11-20T07:00:26+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 141,
+      "title": "Un Feijóo a l’atac acorrala Sánchez",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/feijoo-l-atac-acorrala-sanchez_1_5916667.html",
+      "published": "2026-11-20T00:10:04+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    },
+    {
+      "page": 142,
+      "title": "Un cara a cara que no passarà a la història",
+      "source": "ARA",
+      "articleUrl": "https://www.ara.cat/politica/eleccions-generals/cara-cara-no-passara-historia_129_5916635.html",
+      "published": "2026-11-20T00:06:12+01:00",
+      "priority": "3 · Altres notícies",
+      "tone": "other"
+    }
+  ]
+}
